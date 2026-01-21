@@ -1,0 +1,37 @@
+{
+    "id": 249042,
+    "name": "Adolescence",
+    "poster": "https://image.tmdb.org/t/p/w500/20i4nShZZg1g1VFHSB8xpaYM4r7.jpg",
+    "year": "2025",
+    "genres": [
+        "Dram",
+        "Suç"
+    ],
+    "countries": [
+        "GB",
+        "US"
+    ],
+    "cast": [],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 1,
+            "link": "https://vidmody.com/vs/tt31806037/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "link": "https://vidmody.com/vs/tt31806037/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "link": "https://vidmody.com/vs/tt31806037/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "link": "https://vidmody.com/vs/tt31806037/s1/e04"
+        }
+    ]
+}
