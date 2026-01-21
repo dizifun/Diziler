@@ -1,0 +1,36 @@
+{
+    "id": 253645,
+    "name": "RU",
+    "poster": "https://image.tmdb.org/t/p/w500/4KLX2hdcx7PxEUGmHx8uyC8RvMT.jpg",
+    "year": "2024",
+    "genres": [
+        "Dram"
+    ],
+    "countries": [
+        "TR"
+    ],
+    "cast": [
+        "Meryem Uzerli",
+        "Burak Berkay Akgül",
+        "Hira Koyuncuoğlu",
+        "Gökay Türkmen",
+        "Zafer Algöz"
+    ],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 3,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e08"
+        }
+    ]
+}
