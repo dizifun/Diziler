@@ -4978,6 +4978,57 @@
         ]
     },
     {
+        "id": 217606,
+        "name": "Rematch",
+        "poster": "https://image.tmdb.org/t/p/w500/9qfSj2IaMD6C8CqT0pkc1jW7oGb.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "countries": [
+            "FR"
+        ],
+        "cast": [
+            "Christian Cooke",
+            "Orion Lee",
+            "Sarah Bolger",
+            "Trine Dyrholm",
+            "Aidan Quinn"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e06"
+            }
+        ]
+    },
+    {
         "id": 272418,
         "name": "Robin Hood",
         "poster": "https://image.tmdb.org/t/p/w500/3teWChNzKJdbfen46IdeKTygdZa.jpg",
