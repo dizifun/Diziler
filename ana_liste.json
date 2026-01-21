@@ -336,6 +336,58 @@
         ]
     },
     {
+        "id": 241883,
+        "name": "Bahçıvan",
+        "poster": "https://image.tmdb.org/t/p/w500/cEAn5NQuBDygU1B57D0dbPwwDDR.jpg",
+        "year": "2025",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "countries": [
+            "ES"
+        ],
+        "cast": [
+            "Álvaro Rico",
+            "Cecilia Suárez",
+            "Catalina Sopelana",
+            "María Vázquez",
+            "Emma Suárez"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt30494784/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt30494784/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt30494784/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt30494784/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt30494784/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt30494784/s1/e06"
+            }
+        ]
+    },
+    {
         "id": 291084,
         "name": "Best Medicine",
         "poster": "https://image.tmdb.org/t/p/w500/q7SCSZfDaNDRPL3Xt4TiGSZQQht.jpg",
@@ -3485,6 +3537,59 @@
                 "season": 1,
                 "episode": 1,
                 "link": "https://vidmody.com/vs/tt36473743/s1/e01"
+            }
+        ]
+    },
+    {
+        "id": 226362,
+        "name": "Sonsuzluk Yolcusu",
+        "poster": "https://image.tmdb.org/t/p/w500/7gT79KFAE4MGfA2C1N8ZAIEKq7u.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantastik"
+        ],
+        "countries": [
+            "AR"
+        ],
+        "cast": [
+            "Ricardo Darín",
+            "Carla Peterson",
+            "César Troncoso",
+            "Andrea Pietra",
+            "Ariel Staltari"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt27740241/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt27740241/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt27740241/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt27740241/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt27740241/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt27740241/s1/e06"
             }
         ]
     },
