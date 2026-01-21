@@ -1,0 +1,42 @@
+{
+    "id": 217667,
+    "name": "Eric",
+    "poster": "https://image.tmdb.org/t/p/w500/o5EmT8OxUnC96pEWW6zMUjmZuP4.jpg",
+    "year": "2024",
+    "genres": [
+        "Dram",
+        "Gizem"
+    ],
+    "countries": [
+        "GB"
+    ],
+    "cast": [
+        "Benedict Cumberbatch",
+        "Gaby Hoffmann",
+        "McKinley Belcher III",
+        "Dan Fogler",
+        "Clarke Peters"
+    ],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 1,
+            "link": "https://vidmody.com/vs/tt16283824/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "link": "https://vidmody.com/vs/tt16283824/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "link": "https://vidmody.com/vs/tt16283824/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "link": "https://vidmody.com/vs/tt16283824/s1/e05"
+        }
+    ]
+}
