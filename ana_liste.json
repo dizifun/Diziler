@@ -1686,6 +1686,44 @@
         ]
     },
     {
+        "id": 279601,
+        "name": "Man vs Baby",
+        "poster": "https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "countries": [
+            "GB"
+        ],
+        "cast": [
+            "Rowan Atkinson"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt35047134/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt35047134/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt35047134/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt35047134/s1/e04"
+            }
+        ]
+    },
+    {
         "id": 138505,
         "name": "Marvel Zombies",
         "poster": "https://image.tmdb.org/t/p/w500/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
@@ -2520,6 +2558,107 @@
         ]
     },
     {
+        "id": 271855,
+        "name": "Sandokan",
+        "poster": "https://image.tmdb.org/t/p/w500/6P5WCgqB4D5jL8FDx0ZlNyUu5X5.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "countries": [
+            "IT"
+        ],
+        "cast": [
+            "Can Yaman",
+            "Alanah Bloor",
+            "Alessandro Preziosi",
+            "Ed Westwick",
+            "Madeleine Price"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 255251,
+        "name": "Sean Combs: Hesaplaşma",
+        "poster": "https://image.tmdb.org/t/p/w500/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Sean Combs"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt33473000/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt33473000/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt33473000/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt33473000/s1/e04"
+            }
+        ]
+    },
+    {
         "id": 304774,
         "name": "Sekizinci Aile",
         "poster": "https://image.tmdb.org/t/p/w500/y8NmGRfD3GuhhR8bTj7rXWkOMqk.jpg",
@@ -2651,6 +2790,63 @@
                 "season": 1,
                 "episode": 1,
                 "link": "https://vidmody.com/vs/tt36473743/s1/e01"
+            }
+        ]
+    },
+    {
+        "id": 240459,
+        "name": "Spartacus: House of Ashur",
+        "poster": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Nick E. Tarabay",
+            "Graham McTavish",
+            "Tenika Davis",
+            "Jamaica Vaughan",
+            "Ivana Baquero"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e07"
             }
         ]
     },
@@ -2795,6 +2991,63 @@
         ]
     },
     {
+        "id": 223300,
+        "name": "The Abandons",
+        "poster": "https://image.tmdb.org/t/p/w500/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Vahşi Batı"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Lena Headey",
+            "Gillian Anderson",
+            "Nick Robinson",
+            "Diana Silvers",
+            "Lucas Till"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt16280546/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt16280546/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt16280546/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt16280546/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt16280546/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt16280546/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt16280546/s1/e07"
+            }
+        ]
+    },
+    {
         "id": 250504,
         "name": "The Beast in Me",
         "poster": "https://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
@@ -2915,6 +3168,69 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt31987295/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 246412,
+        "name": "The Copenhagen Test",
+        "poster": "https://image.tmdb.org/t/p/w500/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantastik",
+            "Gizem"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Simu Liu",
+            "Melissa Barrera",
+            "Sinclair Daniel",
+            "Brian d'Arcy James",
+            "Mark O'Brien"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e08"
             }
         ]
     },
@@ -3447,6 +3763,50 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt31613279/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 259886,
+        "name": "The War Between the Land and the Sea",
+        "poster": "https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+        "year": "2025",
+        "genres": [
+            "Bilim Kurgu & Fantastik",
+            "Dram"
+        ],
+        "countries": [
+            "GB"
+        ],
+        "cast": [
+            "Russell Tovey",
+            "Gugu Mbatha-Raw"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e05"
             }
         ]
     },
