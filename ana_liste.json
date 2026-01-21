@@ -1800,6 +1800,49 @@
         ]
     },
     {
+        "id": 247756,
+        "name": "Floransa Canavarı",
+        "poster": "https://image.tmdb.org/t/p/w500/AewhTESggHM7pffrE9exvVIJDZ3.jpg",
+        "year": "2025",
+        "genres": [
+            "Suç",
+            "Gizem",
+            "Dram"
+        ],
+        "countries": [
+            "IT"
+        ],
+        "cast": [
+            "Marco Bullitta",
+            "Valentino Mannias",
+            "Francesca Olia",
+            "Liliana Bottone",
+            "Giacomo Fadda"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt29457135/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt29457135/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt29457135/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt29457135/s1/e04"
+            }
+        ]
+    },
+    {
         "id": 272586,
         "name": "Günah",
         "poster": "https://image.tmdb.org/t/p/w500/hXEVR6oJ4QRkLraDi4ckdZVNVlc.jpg",
