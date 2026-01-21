@@ -118,6 +118,63 @@
         ]
     },
     {
+        "id": 157239,
+        "name": "Alien: Earth",
+        "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+        "year": "2025",
+        "genres": [
+            "Bilim Kurgu & Fantastik",
+            "Dram"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Sydney Chandler",
+            "Alex Lawther",
+            "Essie Davis",
+            "Samuel Blenkin",
+            "Babou Ceesay"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e08"
+            }
+        ]
+    },
+    {
         "id": 280948,
         "name": "Bahar Esintisi",
         "poster": "https://image.tmdb.org/t/p/w500/z7qBomUexU29AJnK0xxMnczF0Ad.jpg",
@@ -659,6 +716,49 @@
         ]
     },
     {
+        "id": 241388,
+        "name": "Eyes of Wakanda",
+        "poster": "https://image.tmdb.org/t/p/w500/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon",
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantastik"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Winnie Harlow",
+            "Cress Williams",
+            "Larry Herron",
+            "Adam Gold",
+            "Jacques Colimon"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e04"
+            }
+        ]
+    },
+    {
         "id": 272586,
         "name": "Günah",
         "poster": "https://image.tmdb.org/t/p/w500/hXEVR6oJ4QRkLraDi4ckdZVNVlc.jpg",
@@ -814,6 +914,68 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt24243760/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 240558,
+        "name": "King & Conqueror",
+        "poster": "https://image.tmdb.org/t/p/w500/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "countries": [
+            "GB"
+        ],
+        "cast": [
+            "James Norton",
+            "Nikolaj Coster-Waldau",
+            "Emily Beecham",
+            "Clémence Poésy",
+            "Jason Forbes"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e08"
             }
         ]
     },
@@ -1693,6 +1855,78 @@
         ]
     },
     {
+        "id": 256711,
+        "name": "The Rainmaker",
+        "poster": "https://image.tmdb.org/t/p/w500/q8l0lj20amBFi0SBs8NI9yJpaHq.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Milo Callaghan",
+            "Lana Parrilla",
+            "Madison Iseman",
+            "P.J. Byrne",
+            "Dan Fogler"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e10"
+            }
+        ]
+    },
+    {
         "id": 233256,
         "name": "The Stolen Girl",
         "poster": "https://image.tmdb.org/t/p/w500/jfEEnO3zHWrJNVMQuv3TCNLrIzZ.jpg",
@@ -1736,6 +1970,67 @@
                 "season": 1,
                 "episode": 5,
                 "link": "https://vidmody.com/vs/tt28228082/s1/e05"
+            }
+        ]
+    },
+    {
+        "id": 248416,
+        "name": "The Twisted Tale of Amanda Knox",
+        "poster": "https://image.tmdb.org/t/p/w500/udxkpbqBsVS4Hnrfn4HabDKKxb5.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Grace Van Patten",
+            "Sharon Horgan",
+            "Francesco Acquaroli",
+            "Giuseppe De Domenico",
+            "John Hoogenakker"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e08"
             }
         ]
     },
@@ -1848,6 +2143,60 @@
                 "season": 1,
                 "episode": 5,
                 "link": "https://vidmody.com/vs/tt31019484/s1/e05"
+            }
+        ]
+    },
+    {
+        "id": 219760,
+        "name": "İnfaz Listesi: Kara Kurt",
+        "poster": "https://image.tmdb.org/t/p/w500/hJH4y7Z2ivQ80PXN9lGNqhmH5FW.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Taylor Kitsch",
+            "Tom Hopper"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt26576161/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt26576161/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt26576161/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt26576161/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt26576161/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt26576161/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt26576161/s1/e07"
             }
         ]
     }
