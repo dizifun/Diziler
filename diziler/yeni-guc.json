@@ -1,0 +1,41 @@
+{
+    "id": 271128,
+    "name": "Yeni Güç",
+    "poster": "https://image.tmdb.org/t/p/w500/sdGDtKzTJff5iTnzWUB4uRtaEwI.jpg",
+    "year": "2025",
+    "genres": [
+        "Dram"
+    ],
+    "countries": [
+        "SE"
+    ],
+    "cast": [
+        "Josefin Asplund",
+        "Agnes Westerlund Rase",
+        "Malin Persson",
+        "Christopher Wagelin",
+        "Rasmus Luthander"
+    ],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 1,
+            "link": "https://vidmody.com/vs/tt31828197/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "link": "https://vidmody.com/vs/tt31828197/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "link": "https://vidmody.com/vs/tt31828197/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "link": "https://vidmody.com/vs/tt31828197/s1/e05"
+        }
+    ]
+}
