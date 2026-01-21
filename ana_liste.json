@@ -2016,6 +2016,57 @@
         ]
     },
     {
+        "id": 241485,
+        "name": "Fight Night: The Million Dollar Heist",
+        "poster": "https://image.tmdb.org/t/p/w500/ucxvu9kRykTd23m1omktBJZG2Q1.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Kevin Hart",
+            "Samuel L. Jackson",
+            "Taraji P. Henson",
+            "Don Cheadle"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e07"
+            }
+        ]
+    },
+    {
         "id": 247756,
         "name": "Floransa Canavarı",
         "poster": "https://image.tmdb.org/t/p/w500/AewhTESggHM7pffrE9exvVIJDZ3.jpg",
@@ -3003,6 +3054,50 @@
                 "season": 1,
                 "episode": 6,
                 "link": "https://vidmody.com/vs/tt32267726/s1/e06"
+            }
+        ]
+    },
+    {
+        "id": 253760,
+        "name": "LEGO Star Wars: Rebuild the Galaxy",
+        "poster": "https://image.tmdb.org/t/p/w500/2X2gEEAOFfGlRSmv5QvFU8h5xrV.jpg",
+        "year": "2024",
+        "genres": [
+            "Bilim Kurgu & Fantastik",
+            "Komedi",
+            "Aksiyon & Macera",
+            "Animasyon",
+            "Aile"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Gaten Matarazzo",
+            "Tony Revolori",
+            "Marsai Martin",
+            "Bobby Moynihan"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e04"
             }
         ]
     },
