@@ -307,6 +307,69 @@
         ]
     },
     {
+        "id": 225647,
+        "name": "Boots",
+        "poster": "https://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Miles Heizer",
+            "Max Parker",
+            "Vera Farmiga",
+            "Liam Oh",
+            "Cedrick Cooper"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt27987047/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt27987047/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt27987047/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt27987047/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt27987047/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt27987047/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt27987047/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt27987047/s1/e08"
+            }
+        ]
+    },
+    {
         "id": 247168,
         "name": "Chad Powers",
         "poster": "https://image.tmdb.org/t/p/w500/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg",
@@ -415,6 +478,32 @@
                 "season": 1,
                 "episode": 9,
                 "link": "https://vidmody.com/vs/tt19381692/s1/e09"
+            }
+        ]
+    },
+    {
+        "id": 289567,
+        "name": "DMV",
+        "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Harriet Dyer",
+            "Tim Meadows",
+            "Molly Kearney",
+            "Alex Tarrant",
+            "Tony Cavalero"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt33078075/s1/e01"
             }
         ]
     },
@@ -594,6 +683,48 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt15716776/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 257534,
+        "name": "Devil in Disguise: John Wayne Gacy",
+        "poster": "https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
+        "year": "2025",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Michael Chernus",
+            "Gabriel Luna",
+            "James Badge Dale",
+            "Michael Angarano",
+            "Chris Sullivan"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e04"
             }
         ]
     },
@@ -921,6 +1052,57 @@
         ]
     },
     {
+        "id": 245827,
+        "name": "Harlan Coben'den Lazarus",
+        "poster": "https://image.tmdb.org/t/p/w500/lWCVOI1iPnj834wL9VmUxgpnja4.jpg",
+        "year": "2025",
+        "genres": [
+            "Gizem"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Sam Claflin",
+            "Bill Nighy",
+            "Alexandra Roach",
+            "David Fynn",
+            "Karla Crome"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e06"
+            }
+        ]
+    },
+    {
         "id": 250988,
         "name": "House of Guinness",
         "poster": "https://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
@@ -978,6 +1160,68 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt13542714/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 200875,
+        "name": "IT: Welcome to Derry",
+        "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Taylour Paige",
+            "Jovan Adepo",
+            "Matilda Lawler",
+            "Amanda Christine",
+            "Clara Stack"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e08"
             }
         ]
     },
@@ -1389,6 +1633,39 @@
         ]
     },
     {
+        "id": 301498,
+        "name": "Mob War: Philadelphia vs. the Mafia",
+        "poster": "https://image.tmdb.org/t/p/w500/5vtAydTEQuOVj144b3ob80KUryg.jpg",
+        "year": "2025",
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "John Alite"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt38501655/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt38501655/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt38501655/s1/e03"
+            }
+        ]
+    },
+    {
         "id": 247718,
         "name": "MobLand",
         "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
@@ -1458,6 +1735,68 @@
                 "season": 1,
                 "episode": 10,
                 "link": "https://vidmody.com/vs/tt31510819/s1/e10"
+            }
+        ]
+    },
+    {
+        "id": 270734,
+        "name": "Murdaugh: Death in the Family",
+        "poster": "https://image.tmdb.org/t/p/w500/fqNT4hsPdA0999NEMuLVeja4Cm2.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Patricia Arquette",
+            "Jason Clarke",
+            "J. Smith-Cameron",
+            "Will Harrison",
+            "Johnny Berchtold"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt19853270/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt19853270/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt19853270/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt19853270/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt19853270/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt19853270/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt19853270/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt19853270/s1/e08"
             }
         ]
     },
@@ -1973,6 +2312,53 @@
         ]
     },
     {
+        "id": 253391,
+        "name": "Sheriff Country",
+        "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Morena Baccarin",
+            "W. Earl Brown",
+            "Christopher Gorham",
+            "Michele Weaver",
+            "Matt Lauria"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e08"
+            }
+        ]
+    },
+    {
         "id": 303453,
         "name": "Son Kare",
         "poster": "https://image.tmdb.org/t/p/w500/jwVRYnc6IwReY9bURd2svzJezP6.jpg",
@@ -2031,6 +2417,57 @@
         ]
     },
     {
+        "id": 256624,
+        "name": "Talamasca Gizli Düzen",
+        "poster": "https://image.tmdb.org/t/p/w500/qmmHl3EiFKuDLTVYHGwlV9UhtNw.jpg",
+        "year": "2025",
+        "genres": [
+            "Bilim Kurgu & Fantastik"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Nicholas Denton",
+            "Celine Buckens",
+            "Maisie Richardson-Sellers",
+            "William Fichtner",
+            "Elizabeth McGovern"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e06"
+            }
+        ]
+    },
+    {
         "id": 228305,
         "name": "Task",
         "poster": "https://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
@@ -2084,6 +2521,69 @@
                 "season": 1,
                 "episode": 7,
                 "link": "https://vidmody.com/vs/tt28013708/s1/e07"
+            }
+        ]
+    },
+    {
+        "id": 271267,
+        "name": "The Chair Company",
+        "poster": "https://image.tmdb.org/t/p/w500/xZgftEXZXTM47k2rZlXo8kr8HZF.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Gizem"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Tim Robinson",
+            "Lake Bell",
+            "Sophia Lillis",
+            "Will Price",
+            "Joseph Tudisco"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e08"
             }
         ]
     },
@@ -2146,6 +2646,78 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt31038430/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 221079,
+        "name": "The Last Frontier",
+        "poster": "https://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Jason Clarke",
+            "Haley Bennett",
+            "Dominic Cooper",
+            "Simone Kessell",
+            "Dallas Goldtooth"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e10"
             }
         ]
     },
