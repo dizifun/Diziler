@@ -3119,6 +3119,77 @@
         ]
     },
     {
+        "id": 232125,
+        "name": "I Am Groot",
+        "poster": "https://image.tmdb.org/t/p/w500/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile",
+            "Bilim Kurgu & Fantastik",
+            "Çocuk"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Vin Diesel"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e05"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e05"
+            }
+        ]
+    },
+    {
         "id": 200875,
         "name": "IT: Welcome to Derry",
         "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
