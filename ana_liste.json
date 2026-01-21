@@ -1995,6 +1995,70 @@
         ]
     },
     {
+        "id": 94954,
+        "name": "Hazbin Hotel",
+        "poster": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+        "year": "2024",
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Dram",
+            "Bilim Kurgu & Fantastik"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Stephanie Beatriz",
+            "Keith David",
+            "Kimiko Glenn",
+            "Erika Henningsen",
+            "Blake Roman"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt7216636/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt7216636/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt7216636/s1/e04"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt7216636/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt7216636/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt7216636/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt7216636/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt7216636/s2/e08"
+            }
+        ]
+    },
+    {
         "id": 301507,
         "name": "Heated Rivalry",
         "poster": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
