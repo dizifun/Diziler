@@ -4089,6 +4089,53 @@
         ]
     },
     {
+        "id": 303072,
+        "name": "Sicilya Ekspresi",
+        "poster": "https://image.tmdb.org/t/p/w500/2D1lZv6TEa938P0tZLub1gK4iEp.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "countries": [
+            "IT"
+        ],
+        "cast": [
+            "Salvatore Ficarra",
+            "Valentino Picone",
+            "Katia Follesa",
+            "Barbara Tabita",
+            "Max Tortora"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt38566460/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt38566460/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt38566460/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt38566460/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt38566460/s1/e05"
+            }
+        ]
+    },
+    {
         "id": 303453,
         "name": "Son Kare",
         "poster": "https://image.tmdb.org/t/p/w500/jwVRYnc6IwReY9bURd2svzJezP6.jpg",
