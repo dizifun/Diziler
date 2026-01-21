@@ -2274,6 +2274,109 @@
         ]
     },
     {
+        "id": 205715,
+        "name": "Gen V",
+        "poster": "https://image.tmdb.org/t/p/w500/pQIupCIWHfd0SPItLbKPUszXrca.jpg",
+        "year": "2023",
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram",
+            "Bilim Kurgu & Fantastik"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Jaz Sinclair",
+            "Lizze Broadway",
+            "Maddie Phillips",
+            "London Thor",
+            "Derek Luh"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt13159924/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt13159924/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt13159924/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt13159924/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt13159924/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt13159924/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt13159924/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt13159924/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt13159924/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt13159924/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt13159924/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt13159924/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt13159924/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt13159924/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt13159924/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt13159924/s2/e08"
+            }
+        ]
+    },
+    {
         "id": 272586,
         "name": "Günah",
         "poster": "https://image.tmdb.org/t/p/w500/hXEVR6oJ4QRkLraDi4ckdZVNVlc.jpg",
@@ -6657,6 +6760,118 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt31038430/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 217211,
+        "name": "The Irrational",
+        "poster": "https://image.tmdb.org/t/p/w500/jJtOpfgV4iPu9RtxllHwZgn9dqI.jpg",
+        "year": "2023",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "countries": [
+            "US"
+        ],
+        "cast": [
+            "Jesse L. Martin",
+            "Maahra Hill",
+            "Travina Springer",
+            "Molly Kunz",
+            "Arash DeMaxi"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt16288838/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt16288838/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt16288838/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt16288838/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt16288838/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt16288838/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt16288838/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "link": "https://vidmody.com/vs/tt16288838/s1/e09"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 11,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e11"
+            },
+            {
+                "season": 2,
+                "episode": 12,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e12"
+            },
+            {
+                "season": 2,
+                "episode": 14,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e14"
+            },
+            {
+                "season": 2,
+                "episode": 16,
+                "link": "https://vidmody.com/vs/tt16288838/s2/e16"
             }
         ]
     },
