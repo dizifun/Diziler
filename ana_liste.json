@@ -69,6 +69,54 @@
         ]
     },
     {
+        "id": 272586,
+        "name": "Günah",
+        "poster": "https://image.tmdb.org/t/p/w500/hXEVR6oJ4QRkLraDi4ckdZVNVlc.jpg",
+        "year": "2026",
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gizem"
+        ],
+        "countries": [
+            "SE"
+        ],
+        "cast": [
+            "Krista Kosonen",
+            "Mohammed Nour Oklah",
+            "Peter Gantman",
+            "Lisa Lindgren",
+            "Ceasar Matijasevic"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e05"
+            }
+        ]
+    },
+    {
         "id": 259731,
         "name": "Ne Yaptığını Biliyorum",
         "poster": "https://image.tmdb.org/t/p/w500/m2zNxqbhQvijp2F23WypUgm7kGv.jpg",
