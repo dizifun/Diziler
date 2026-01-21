@@ -539,6 +539,94 @@
         ]
     },
     {
+        "id": 228689,
+        "name": "Cin, Bir Dilek Tut",
+        "poster": "https://image.tmdb.org/t/p/w500/zq84x5kmwomvmmJ03hzl389UGeb.jpg",
+        "year": "2025",
+        "genres": [
+            "Bilim Kurgu & Fantastik",
+            "Komedi",
+            "Dram"
+        ],
+        "countries": [
+            "KR"
+        ],
+        "cast": [
+            "김우빈",
+            "수지",
+            "안은진",
+            "노상현",
+            "고규필"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e13"
+            }
+        ]
+    },
+    {
         "id": 253750,
         "name": "Crutch",
         "poster": "https://image.tmdb.org/t/p/w500/9tDDG9mLfhJmqOyvolWneeF6Y1g.jpg",
@@ -1060,6 +1148,87 @@
                 "season": 1,
                 "episode": 5,
                 "link": "https://vidmody.com/vs/tt36242714/s1/e05"
+            }
+        ]
+    },
+    {
+        "id": 293613,
+        "name": "En Güçlü: Asya",
+        "poster": "https://image.tmdb.org/t/p/w500/7GbXnv3kvmATU0p6E5gC1AiNqtc.jpg",
+        "year": "2025",
+        "genres": [
+            "Reality"
+        ],
+        "countries": [
+            "KR"
+        ],
+        "cast": [
+            "Robert Whittaker",
+            "Dominic Di Tommaso",
+            "Eloni Vunakece",
+            "Katelin van Zyl",
+            "Eddie Williams"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e12"
             }
         ]
     },
