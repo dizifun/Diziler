@@ -1,0 +1,37 @@
+{
+    "id": 286840,
+    "name": "Millenium Star Soygunu",
+    "poster": "https://image.tmdb.org/t/p/w500/yhbwLnjKzTqTNEIrf88e2MI0Xyi.jpg",
+    "year": "2025",
+    "genres": [
+        "Belgesel",
+        "Suç"
+    ],
+    "countries": [
+        "GB"
+    ],
+    "cast": [
+        "Nicholas Blatt",
+        "Λουκ Φίλποτ",
+        "Tuncay Gunes",
+        "Lee Wenham",
+        "Ray Betson"
+    ],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 1,
+            "link": "https://vidmody.com/vs/tt31806040/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "link": "https://vidmody.com/vs/tt31806040/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "link": "https://vidmody.com/vs/tt31806040/s1/e03"
+        }
+    ]
+}
