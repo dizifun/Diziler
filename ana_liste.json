@@ -5063,6 +5063,47 @@
         ]
     },
     {
+        "id": 255719,
+        "name": "The Seduction",
+        "poster": "https://image.tmdb.org/t/p/w500/awOWWPDLDc3Q5s5MuC3KXnhbpEj.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "countries": [
+            "FR"
+        ],
+        "cast": [
+            "Anamaria Vartolomei",
+            "Diane Kruger",
+            "Vincent Lacoste",
+            "Lucas Bravo",
+            "Noée Abita"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e04"
+            }
+        ]
+    },
+    {
         "id": 233256,
         "name": "The Stolen Girl",
         "poster": "https://image.tmdb.org/t/p/w500/jfEEnO3zHWrJNVMQuv3TCNLrIzZ.jpg",
