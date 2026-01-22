@@ -1,14 +1,12 @@
 {
     "id": 246473,
+    "imdb_id": "tt33298903",
     "name": "Made in Korea",
-    "poster": "https://image.tmdb.org/t/p/w500/6Nka9W9S4Plqblt4fAlojlsQq5v.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/w0phy4NdYpwAVIP3zsY0u4t66Pw.jpg",
     "year": "2025",
     "genres": [
         "Suç",
         "Dram"
-    ],
-    "countries": [
-        "KR"
     ],
     "cast": [
         "현빈",
@@ -22,21 +20,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt33298903/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt33298903/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt33298903/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt33298903/s1/e04"
         }
     ]
 }

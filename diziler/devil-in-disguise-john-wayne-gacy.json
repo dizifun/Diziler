@@ -1,14 +1,12 @@
 {
     "id": 257534,
+    "imdb_id": "tt31314754",
     "name": "Devil in Disguise: John Wayne Gacy",
     "poster": "https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
     "year": "2025",
     "genres": [
         "Suç",
         "Dram"
-    ],
-    "countries": [
-        "US"
     ],
     "cast": [
         "Michael Chernus",
@@ -22,21 +20,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt31314754/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt31314754/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt31314754/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt31314754/s1/e04"
         }
     ]
 }
