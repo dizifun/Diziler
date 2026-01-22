@@ -101,6 +101,30 @@
         ]
     },
     {
+        "id": 245312,
+        "imdb_id": "tt26670955",
+        "name": "A Man on the Inside",
+        "poster": "https://image.tmdb.org/t/p/w500/c09XdTLpLku2tqHt158NZBgC4hi.jpg",
+        "year": "2024",
+        "genres": [
+            "Komedi",
+            "Suç"
+        ],
+        "cast": [
+            "Ted Danson",
+            "Mary Elizabeth Ellis",
+            "Lilah Richcreek Estrada",
+            "Mary Steenburgen"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt26670955/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 208851,
         "name": "A Thousand Blows",
         "poster": "https://image.tmdb.org/t/p/w500/598wQ3wr0fxpGemkR7ZVFTuHPXg.jpg",
@@ -178,6 +202,30 @@
                 "season": 2,
                 "episode": 6,
                 "link": "https://vidmody.com/vs/tt21874900/s2/e06"
+            }
+        ]
+    },
+    {
+        "id": 208851,
+        "imdb_id": "tt21874900",
+        "name": "A Thousand Blows",
+        "poster": "https://image.tmdb.org/t/p/w500/598wQ3wr0fxpGemkR7ZVFTuHPXg.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Malachi Kirby",
+            "Erin Doherty",
+            "James Nelson-Joyce",
+            "Jason Tobin",
+            "Darci Shaw"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt21874900/s1/e01"
             }
         ]
     },
@@ -1194,6 +1242,32 @@
         ]
     },
     {
+        "id": 1413,
+        "imdb_id": "tt1844624",
+        "name": "American Horror Story",
+        "poster": "https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+        "year": "2011",
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "cast": [
+            "Emma Roberts",
+            "Matt Czuchry",
+            "Kim Kardashian",
+            "Annabelle Dexter-Jones",
+            "Michaela Jaé Rodriguez"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 83867,
         "name": "Andor",
         "poster": "https://image.tmdb.org/t/p/w500/n649NH6UQv3etlgc0pRgzs1ual0.jpg",
@@ -2013,6 +2087,32 @@
         ]
     },
     {
+        "id": 1429,
+        "imdb_id": "tt2560140",
+        "name": "Attack on Titan",
+        "poster": "https://image.tmdb.org/t/p/w500/y4yOyiURGUfRZO0WRHuA8BFsb9M.jpg",
+        "year": "2013",
+        "genres": [
+            "Animasyon",
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "cast": [
+            "梶裕貴",
+            "石川由依",
+            "井上麻里奈",
+            "谷山紀章",
+            "下野紘"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 82452,
         "name": "Avatar the Last Airbender",
         "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
@@ -2753,6 +2853,26 @@
         ]
     },
     {
+        "id": 42009,
+        "imdb_id": "tt2085059",
+        "name": "Black Mirror",
+        "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+        "year": "2011",
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2085059/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 249039,
         "name": "Black Rabbit",
         "poster": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
@@ -2816,6 +2936,31 @@
         ]
     },
     {
+        "id": 249039,
+        "imdb_id": "tt23055142",
+        "name": "Black Rabbit",
+        "poster": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Jason Bateman",
+            "Jude Law",
+            "Chris Coy",
+            "Troy Kotsur",
+            "Abbey Lee"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt23055142/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 225647,
         "name": "Boots",
         "poster": "https://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
@@ -2875,6 +3020,32 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt27987047/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 225647,
+        "imdb_id": "tt27987047",
+        "name": "Boots",
+        "poster": "https://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+        "year": "2025",
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "cast": [
+            "Miles Heizer",
+            "Max Parker",
+            "Vera Farmiga",
+            "Liam Oh",
+            "Cedrick Cooper"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt27987047/s1/e01"
             }
         ]
     },
@@ -3509,6 +3680,30 @@
         ]
     },
     {
+        "id": 196890,
+        "imdb_id": "tt19381692",
+        "name": "Chief of War",
+        "poster": "https://image.tmdb.org/t/p/w500/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Jason Momoa",
+            "Luciane Buchanan",
+            "Te Ao o Hinepehinga",
+            "Cliff Curtis",
+            "Kaina Makua"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 228689,
         "name": "Cin, Bir Dilek Tut",
         "poster": "https://image.tmdb.org/t/p/w500/zq84x5kmwomvmmJ03hzl389UGeb.jpg",
@@ -3708,6 +3903,28 @@
                 "season": 1,
                 "episode": 9,
                 "link": "https://vidmody.com/vs/tt18923754/s1/e09"
+            }
+        ]
+    },
+    {
+        "id": 202555,
+        "imdb_id": "tt18923754",
+        "name": "Daredevil: Born Again",
+        "poster": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Charlie Cox",
+            "Vincent D'Onofrio"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt18923754/s1/e01"
             }
         ]
     },
@@ -3992,6 +4209,31 @@
         ]
     },
     {
+        "id": 224819,
+        "imdb_id": "tt27554348",
+        "name": "Dear Hongrang",
+        "poster": "https://image.tmdb.org/t/p/w500/5L2yIwYrTZ0kmx7MT3P2gkDPUO7.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "이재욱",
+            "조보아",
+            "정가람",
+            "엄지원",
+            "박병은"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 235930,
         "name": "Devil May Cry",
         "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
@@ -4238,6 +4480,32 @@
                 "season": 1,
                 "episode": 7,
                 "link": "https://vidmody.com/vs/tt28306749/s1/e07"
+            }
+        ]
+    },
+    {
+        "id": 136342,
+        "imdb_id": "tt28306749",
+        "name": "Disney Twisted-Wonderland: The Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/fHc2eaef6GArxCwmW4VVwyvKPpO.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon",
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "cast": [
+            "阿座上洋平",
+            "花江夏樹",
+            "山下誠一郎",
+            "小林千晃",
+            "鈴木崚汰"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt28306749/s1/e01"
             }
         ]
     },
@@ -6457,6 +6725,32 @@
                 "season": 1,
                 "episode": 4,
                 "link": "https://vidmody.com/vs/tt29457135/s1/e04"
+            }
+        ]
+    },
+    {
+        "id": 247756,
+        "imdb_id": "tt29457135",
+        "name": "Floransa Canavarı",
+        "poster": "https://image.tmdb.org/t/p/w500/AewhTESggHM7pffrE9exvVIJDZ3.jpg",
+        "year": "2025",
+        "genres": [
+            "Suç",
+            "Gizem",
+            "Dram"
+        ],
+        "cast": [
+            "Marco Bullitta",
+            "Valentino Mannias",
+            "Francesca Olia",
+            "Liliana Bottone",
+            "Giacomo Fadda"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt29457135/s1/e01"
             }
         ]
     },
@@ -8915,6 +9209,31 @@
         ]
     },
     {
+        "id": 52814,
+        "imdb_id": "tt2934286",
+        "name": "Halo",
+        "poster": "https://image.tmdb.org/t/p/w500/4UmNhZCEu8Vt3byMvNxNEPyf8EY.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "cast": [
+            "Pablo Schreiber",
+            "Natascha McElhone",
+            "Joseph Morgan",
+            "Shabana Azmi",
+            "Christina Bennington"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 245827,
         "name": "Harlan Coben'den Lazarus",
         "poster": "https://image.tmdb.org/t/p/w500/lWCVOI1iPnj834wL9VmUxgpnja4.jpg",
@@ -9359,6 +9678,31 @@
         ]
     },
     {
+        "id": 200875,
+        "imdb_id": "tt19244304",
+        "name": "IT: Welcome to Derry",
+        "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Taylour Paige",
+            "Jovan Adepo",
+            "Matilda Lawler",
+            "Amanda Christine",
+            "Clara Stack"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 127235,
         "name": "Invasion",
         "poster": "https://image.tmdb.org/t/p/w500/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg",
@@ -9632,6 +9976,31 @@
         ]
     },
     {
+        "id": 250312,
+        "imdb_id": "tt29494109",
+        "name": "Kapan",
+        "poster": "https://image.tmdb.org/t/p/w500/vc7nRs9V5MEvzWISplTbq0mKfkM.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Soledad Villamil",
+            "Juan Minujín",
+            "Alberto Ammann",
+            "Matías Recalt",
+            "Fernán Mirás"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt29494109/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 233686,
         "name": "Karma",
         "poster": "https://image.tmdb.org/t/p/w500/lU4vljHDqDjkUtn9Mk83Tlnjtki.jpg",
@@ -9680,6 +10049,31 @@
                 "season": 1,
                 "episode": 6,
                 "link": "https://vidmody.com/vs/tt29921070/s1/e06"
+            }
+        ]
+    },
+    {
+        "id": 233686,
+        "imdb_id": "tt29921070",
+        "name": "Karma",
+        "poster": "https://image.tmdb.org/t/p/w500/lU4vljHDqDjkUtn9Mk83Tlnjtki.jpg",
+        "year": "2025",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "박해수",
+            "신민아",
+            "이희준",
+            "김성균",
+            "이광수"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt29921070/s1/e01"
             }
         ]
     },
@@ -9742,6 +10136,31 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt24243760/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 278100,
+        "imdb_id": "tt24243760",
+        "name": "Kasaba",
+        "poster": "https://image.tmdb.org/t/p/w500/uFiVVvUAvCuoXOAvwKGxzNjvsIK.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Okan Yalabık",
+            "Özgürcan Çevik",
+            "Ozan Dolunay",
+            "Büşra Develi",
+            "Kerem Can"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt24243760/s1/e01"
             }
         ]
     },
@@ -9837,6 +10256,24 @@
                 "season": 2,
                 "episode": 6,
                 "link": "https://vidmody.com/vs/tt30068042/s2/e06"
+            }
+        ]
+    },
+    {
+        "id": 259730,
+        "imdb_id": "tt30068042",
+        "name": "Kaza",
+        "poster": "https://image.tmdb.org/t/p/w500/3is8aLdqrksNO1ezDFziZIkyLoh.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt30068042/s1/e01"
             }
         ]
     },
@@ -10002,6 +10439,28 @@
         ]
     },
     {
+        "id": 251883,
+        "imdb_id": "tt28267514",
+        "name": "Kimler Geldi Kimler Geçti",
+        "poster": "https://image.tmdb.org/t/p/w500/5K6jZNOjskDCtsZgF0r3nc8l26f.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "cast": [
+            "Serenay Sarıkaya",
+            "Hakan Kurtaş"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt28267514/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 240558,
         "name": "King & Conqueror",
         "poster": "https://image.tmdb.org/t/p/w500/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
@@ -10064,6 +10523,31 @@
         ]
     },
     {
+        "id": 240558,
+        "imdb_id": "tt30221531",
+        "name": "King & Conqueror",
+        "poster": "https://image.tmdb.org/t/p/w500/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "cast": [
+            "James Norton",
+            "Nikolaj Coster-Waldau",
+            "Emily Beecham",
+            "Clémence Poésy",
+            "Jason Forbes"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 158300,
         "name": "Knuckles",
         "poster": "https://image.tmdb.org/t/p/w500/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg",
@@ -10110,6 +10594,29 @@
                 "season": 1,
                 "episode": 6,
                 "link": "https://vidmody.com/vs/tt18291136/s1/e06"
+            }
+        ]
+    },
+    {
+        "id": 158300,
+        "imdb_id": "tt18291136",
+        "name": "Knuckles",
+        "poster": "https://image.tmdb.org/t/p/w500/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg",
+        "year": "2024",
+        "genres": [
+            "Aksiyon & Macera",
+            "Aile",
+            "Komedi"
+        ],
+        "cast": [
+            "Idris Elba",
+            "Adam Pally"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e01"
             }
         ]
     },
@@ -11167,6 +11674,33 @@
         ]
     },
     {
+        "id": 129959,
+        "imdb_id": "tt18783984",
+        "name": "Kung Fu Panda: Ejderha Şövalye",
+        "poster": "https://image.tmdb.org/t/p/w500/koGgYlxVKkEtPok5DHKWfB2lX1O.jpg",
+        "year": "2022",
+        "genres": [
+            "Animasyon",
+            "Aksiyon & Macera",
+            "Komedi",
+            "Çocuklar"
+        ],
+        "cast": [
+            "Jack Black",
+            "Rita Ora",
+            "Chris Geere",
+            "Della Saba",
+            "James Hong"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt18783984/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 231727,
         "name": "Kurt Kral",
         "poster": "https://image.tmdb.org/t/p/w500/jgs2AtxtOMRuVHYjSofbv3P9WnN.jpg",
@@ -11264,6 +11798,30 @@
                 "season": 2,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt20917940/s2/e08"
+            }
+        ]
+    },
+    {
+        "id": 231727,
+        "imdb_id": "tt20917940",
+        "name": "Kurt Kral",
+        "poster": "https://image.tmdb.org/t/p/w500/jgs2AtxtOMRuVHYjSofbv3P9WnN.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon",
+            "Aksiyon & Macera",
+            "Çocuklar",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "cast": [
+            "Nina Barker-Francis",
+            "Ceallach Spellman"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt20917940/s1/e01"
             }
         ]
     },
@@ -11971,6 +12529,24 @@
         ]
     },
     {
+        "id": 250670,
+        "imdb_id": "tt27792190",
+        "name": "Maxton Hall - Aramızdaki Dünya",
+        "poster": "https://image.tmdb.org/t/p/w500/p1nIxYi8xweNEiOLnl78iQgDct2.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt27792190/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 285770,
         "name": "Memnun Oldum",
         "poster": "https://image.tmdb.org/t/p/w500/5YCWOoPczXrAewbIYoOpnbvyORG.jpg",
@@ -12640,6 +13216,31 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt19853270/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 270734,
+        "imdb_id": "tt19853270",
+        "name": "Murdaugh: Death in the Family",
+        "poster": "https://image.tmdb.org/t/p/w500/fqNT4hsPdA0999NEMuLVeja4Cm2.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Patricia Arquette",
+            "Jason Clarke",
+            "J. Smith-Cameron",
+            "Will Harrison",
+            "Johnny Berchtold"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt19853270/s1/e01"
             }
         ]
     },
@@ -13371,6 +13972,30 @@
         ]
     },
     {
+        "id": 194741,
+        "imdb_id": "tt18552362",
+        "name": "Parish",
+        "poster": "https://image.tmdb.org/t/p/w500/iV1YDLXuJHwhxF85zwaTxXyrzN6.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Giancarlo Esposito",
+            "Zackary Momoh",
+            "Paula Malcomson",
+            "Skeet Ulrich",
+            "Ivan Mbakop"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 110492,
         "name": "Peacemaker",
         "poster": "https://image.tmdb.org/t/p/w500/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg",
@@ -13687,6 +14312,30 @@
                 "season": 6,
                 "episode": 6,
                 "link": "https://vidmody.com/vs/tt2442560/s6/e06"
+            }
+        ]
+    },
+    {
+        "id": 60574,
+        "imdb_id": "tt2442560",
+        "name": "Peaky Blinders",
+        "poster": "https://image.tmdb.org/t/p/w500/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "year": "2013",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Cillian Murphy",
+            "Paul Anderson",
+            "Sophie Rundle",
+            "Natasha O'Keeffe"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e01"
             }
         ]
     },
@@ -14011,6 +14660,29 @@
         ]
     },
     {
+        "id": 225171,
+        "imdb_id": "tt22202452",
+        "name": "Pluribus",
+        "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "cast": [
+            "Rhea Seehorn",
+            "Karolina Wydra",
+            "Carlos-Manuel Vesga"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt22202452/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 284744,
         "name": "Pro Bono",
         "poster": "https://image.tmdb.org/t/p/w500/sNGKN7Nvdi85gj75pnSvqzMF3MC.jpg",
@@ -14120,6 +14792,30 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt21308746/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 253645,
+        "imdb_id": "tt21308746",
+        "name": "RU",
+        "poster": "https://image.tmdb.org/t/p/w500/4KLX2hdcx7PxEUGmHx8uyC8RvMT.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Meryem Uzerli",
+            "Burak Berkay Akgül",
+            "Hira Koyuncuoğlu",
+            "Gökay Türkmen",
+            "Zafer Algöz"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt21308746/s1/e01"
             }
         ]
     },
@@ -14304,6 +15000,31 @@
                 "season": 1,
                 "episode": 10,
                 "link": "https://vidmody.com/vs/tt28088031/s1/e10"
+            }
+        ]
+    },
+    {
+        "id": 240993,
+        "imdb_id": "tt28088031",
+        "name": "Ransom Canyon",
+        "poster": "https://image.tmdb.org/t/p/w500/vp6A0mthGwZmnowmLxqNPF0lVRN.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Vahşi Batı"
+        ],
+        "cast": [
+            "Josh Duhamel",
+            "Minka Kelly",
+            "Eoin Macken",
+            "Lizzy Greene",
+            "Garrett Wareing"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt28088031/s1/e01"
             }
         ]
     },
@@ -14498,6 +15219,30 @@
                 "season": 1,
                 "episode": 6,
                 "link": "https://vidmody.com/vs/tt26741906/s1/e06"
+            }
+        ]
+    },
+    {
+        "id": 217606,
+        "imdb_id": "tt26741906",
+        "name": "Rematch",
+        "poster": "https://image.tmdb.org/t/p/w500/9qfSj2IaMD6C8CqT0pkc1jW7oGb.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram"
+        ],
+        "cast": [
+            "Christian Cooke",
+            "Orion Lee",
+            "Sarah Bolger",
+            "Trine Dyrholm",
+            "Aidan Quinn"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e01"
             }
         ]
     },
@@ -15111,6 +15856,31 @@
         ]
     },
     {
+        "id": 61664,
+        "imdb_id": "tt2431438",
+        "name": "Sense8",
+        "poster": "https://image.tmdb.org/t/p/w500/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg",
+        "year": "2015",
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "cast": [
+            "Miguel Ángel Silvestre",
+            "Max Riemelt",
+            "Jamie Clayton",
+            "배두나",
+            "Brian J. Smith"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2431438/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 95396,
         "name": "Severance",
         "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
@@ -15463,6 +16233,31 @@
                 "season": 1,
                 "episode": 10,
                 "link": "https://vidmody.com/vs/tt2788316/s1/e10"
+            }
+        ]
+    },
+    {
+        "id": 126308,
+        "imdb_id": "tt2788316",
+        "name": "Shōgun",
+        "poster": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "cast": [
+            "Hiroyuki Sanada",
+            "Cosmo Jarvis",
+            "Anna Sawai",
+            "浅野忠信",
+            "平岳大"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e01"
             }
         ]
     },
@@ -15893,6 +16688,32 @@
         ]
     },
     {
+        "id": 226362,
+        "imdb_id": "tt27740241",
+        "name": "Sonsuzluk Yolcusu",
+        "poster": "https://image.tmdb.org/t/p/w500/7gT79KFAE4MGfA2C1N8ZAIEKq7u.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "cast": [
+            "Ricardo Darín",
+            "Carla Peterson",
+            "César Troncoso",
+            "Andrea Pietra",
+            "Ariel Staltari"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt27740241/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 100771,
         "name": "Soulmates",
         "poster": "https://image.tmdb.org/t/p/w500/g2mvINQCGACb9sswdKXh1KwpwzB.jpg",
@@ -16013,6 +16834,31 @@
                 "season": 1,
                 "episode": 7,
                 "link": "https://vidmody.com/vs/tt29921437/s1/e07"
+            }
+        ]
+    },
+    {
+        "id": 240459,
+        "imdb_id": "tt29921437",
+        "name": "Spartacus: House of Ashur",
+        "poster": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "cast": [
+            "Nick E. Tarabay",
+            "Graham McTavish",
+            "Tenika Davis",
+            "Jamaica Vaughan",
+            "Ivana Baquero"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e01"
             }
         ]
     },
@@ -18070,6 +18916,31 @@
         ]
     },
     {
+        "id": 228305,
+        "imdb_id": "tt28013708",
+        "name": "Task",
+        "poster": "https://image.tmdb.org/t/p/w500/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+        "year": "2025",
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "cast": [
+            "Mark Ruffalo",
+            "Tom Pelphrey",
+            "Emilia Jones",
+            "Fabien Frankel",
+            "Thuso Mbedu"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt28013708/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 48866,
         "name": "The 100",
         "poster": "https://image.tmdb.org/t/p/w500/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
@@ -18155,6 +19026,33 @@
                 "season": 1,
                 "episode": 13,
                 "link": "https://vidmody.com/vs/tt2661044/s1/e13"
+            }
+        ]
+    },
+    {
+        "id": 48866,
+        "imdb_id": "tt2661044",
+        "name": "The 100",
+        "poster": "https://image.tmdb.org/t/p/w500/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
+        "year": "2014",
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera",
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Eliza Taylor",
+            "Bob Morley",
+            "Lindsey Morgan",
+            "Marie Avgeropoulos",
+            "Richard Harmon"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2661044/s1/e01"
             }
         ]
     },
@@ -18309,6 +19207,31 @@
                 "season": 1,
                 "episode": 10,
                 "link": "https://vidmody.com/vs/tt26656917/s1/e10"
+            }
+        ]
+    },
+    {
+        "id": 219971,
+        "imdb_id": "tt26656917",
+        "name": "The Agency: Central Intelligence",
+        "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Michael Fassbender",
+            "Jeffrey Wright",
+            "Jodie Turner-Smith",
+            "Richard Gere",
+            "Katherine Waterston"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e01"
             }
         ]
     },
@@ -19342,6 +20265,32 @@
         ]
     },
     {
+        "id": 46952,
+        "imdb_id": "tt2741602",
+        "name": "The Blacklist",
+        "poster": "https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+        "year": "2013",
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gizem"
+        ],
+        "cast": [
+            "James Spader",
+            "Diego Klattenhoff",
+            "Hisham Tawfiq",
+            "Anya Banerjee",
+            "Harry Lennix"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2741602/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 76479,
         "name": "The Boys",
         "poster": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
@@ -19796,6 +20745,32 @@
         ]
     },
     {
+        "id": 222766,
+        "imdb_id": "tt24053860",
+        "name": "The Day of the Jackal",
+        "poster": "https://image.tmdb.org/t/p/w500/kSArpvMefJhwwZVATCRst4bgsw5.jpg",
+        "year": "2024",
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera",
+            "Gizem"
+        ],
+        "cast": [
+            "Eddie Redmayne",
+            "Lashana Lynch",
+            "Eleanor Matsuura",
+            "Chukwudi Iwuji",
+            "Úrsula Corberó"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt24053860/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 276254,
         "name": "The Heritage",
         "poster": "https://image.tmdb.org/t/p/w500/sYxMFo5szMXUU6gp11qPrFLamhq.jpg",
@@ -20121,6 +21096,31 @@
                 "season": 1,
                 "episode": 10,
                 "link": "https://vidmody.com/vs/tt26862142/s1/e10"
+            }
+        ]
+    },
+    {
+        "id": 221079,
+        "imdb_id": "tt26862142",
+        "name": "The Last Frontier",
+        "poster": "https://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Jason Clarke",
+            "Haley Bennett",
+            "Dominic Cooper",
+            "Simone Kessell",
+            "Dallas Goldtooth"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e01"
             }
         ]
     },
@@ -21410,6 +22410,32 @@
         ]
     },
     {
+        "id": 219080,
+        "imdb_id": "tt26453092",
+        "name": "The Mighty Nein",
+        "poster": "https://image.tmdb.org/t/p/w500/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+        "year": "2025",
+        "genres": [
+            "Animasyon",
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "cast": [
+            "Laura Bailey",
+            "Marisha Ray",
+            "Liam O'Brien",
+            "Ashley Johnson",
+            "Taliesin Jaffe"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt26453092/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 129552,
         "name": "The Night Agent",
         "poster": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
@@ -21813,6 +22839,31 @@
                 "season": 1,
                 "episode": 5,
                 "link": "https://vidmody.com/vs/tt28228082/s1/e05"
+            }
+        ]
+    },
+    {
+        "id": 233256,
+        "imdb_id": "tt28228082",
+        "name": "The Stolen Girl",
+        "poster": "https://image.tmdb.org/t/p/w500/jfEEnO3zHWrJNVMQuv3TCNLrIzZ.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Denise Gough",
+            "Holliday Grainger",
+            "Ambika Mod",
+            "Jim Sturgess",
+            "Bronagh Waugh"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt28228082/s1/e01"
             }
         ]
     },
@@ -23889,6 +24940,31 @@
         ]
     },
     {
+        "id": 46648,
+        "imdb_id": "tt2356777",
+        "name": "True Detective",
+        "poster": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+        "year": "2014",
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Jodie Foster",
+            "Kali Reis",
+            "Fiona Shaw",
+            "Finn Bennett",
+            "Isabella Star LaBlanc"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2356777/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 44217,
         "name": "Vikingler",
         "poster": "https://image.tmdb.org/t/p/w500/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
@@ -24357,6 +25433,32 @@
         ]
     },
     {
+        "id": 44217,
+        "imdb_id": "tt2306299",
+        "name": "Vikingler",
+        "poster": "https://image.tmdb.org/t/p/w500/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+        "year": "2013",
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "cast": [
+            "Alex Hogh Andersen",
+            "Jordan Patrick Smith",
+            "Marco Ilsø",
+            "Peter Franzén",
+            "Georgia Hirst"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 255859,
         "name": "Wayward",
         "poster": "https://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
@@ -24415,6 +25517,31 @@
                 "season": 1,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt27427326/s1/e08"
+            }
+        ]
+    },
+    {
+        "id": 255859,
+        "imdb_id": "tt27427326",
+        "name": "Wayward",
+        "poster": "https://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+        "year": "2025",
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "cast": [
+            "Mae Martin",
+            "Sarah Gadon",
+            "Alyvia Alyn Lind",
+            "Sydney Topliffe",
+            "Toni Collette"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt27427326/s1/e01"
             }
         ]
     },
@@ -25508,6 +26635,32 @@
         ]
     },
     {
+        "id": 229711,
+        "imdb_id": "tt28256288",
+        "name": "Ödül Avcısı",
+        "poster": "https://image.tmdb.org/t/p/w500/uyurFAl48L0ePcuYP5ZLnR8WvtU.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi",
+            "Komedi"
+        ],
+        "cast": [
+            "Kevin Bacon",
+            "Jennifer Nettles",
+            "Beth Grant",
+            "Damon Herriman",
+            "Maxwell Jenkins"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt28256288/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 246485,
         "name": "Ölü Kızlar",
         "poster": "https://image.tmdb.org/t/p/w500/dmOakRGmoD9VCkISe3R4umhYbie.jpg",
@@ -25740,6 +26893,28 @@
                 "season": 1,
                 "episode": 7,
                 "link": "https://vidmody.com/vs/tt26576161/s1/e07"
+            }
+        ]
+    },
+    {
+        "id": 219760,
+        "imdb_id": "tt26576161",
+        "name": "İnfaz Listesi: Kara Kurt",
+        "poster": "https://image.tmdb.org/t/p/w500/hJH4y7Z2ivQ80PXN9lGNqhmH5FW.jpg",
+        "year": "2025",
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram"
+        ],
+        "cast": [
+            "Taylor Kitsch",
+            "Tom Hopper"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt26576161/s1/e01"
             }
         ]
     },
@@ -26346,6 +27521,59 @@
                 "season": 5,
                 "episode": 13,
                 "link": "https://vidmody.com/vs/tt1839578/s5/e13"
+            }
+        ]
+    },
+    {
+        "id": 1411,
+        "imdb_id": "tt1839578",
+        "name": "Şüpheli Şahıs",
+        "poster": "https://image.tmdb.org/t/p/w500/qxmXuXb6GxEfoQ5kcPN5guCiOZ5.jpg",
+        "year": "2011",
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera",
+            "Suç",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "cast": [
+            "Jim Caviezel",
+            "Michael Emerson",
+            "Kevin Chapman",
+            "Amy Acker",
+            "Sarah Shahi"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e01"
+            }
+        ]
+    },
+    {
+        "id": 135894,
+        "imdb_id": "tt18265192",
+        "name": "그리드",
+        "poster": "https://image.tmdb.org/t/p/w500/4oh6P9jF9KoBq6Xw7dukjUQiPGJ.jpg",
+        "year": "2022",
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Gizem",
+            "Aksiyon & Macera"
+        ],
+        "cast": [
+            "서강준",
+            "김아중",
+            "이시영",
+            "김무열",
+            "장소연"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e01"
             }
         ]
     }

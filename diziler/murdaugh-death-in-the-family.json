@@ -1,14 +1,12 @@
 {
     "id": 270734,
+    "imdb_id": "tt19853270",
     "name": "Murdaugh: Death in the Family",
     "poster": "https://image.tmdb.org/t/p/w500/fqNT4hsPdA0999NEMuLVeja4Cm2.jpg",
     "year": "2025",
     "genres": [
         "Dram",
         "Suç"
-    ],
-    "countries": [
-        "US"
     ],
     "cast": [
         "Patricia Arquette",
@@ -22,41 +20,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt19853270/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt19853270/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt19853270/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt19853270/s1/e04"
-        },
-        {
-            "season": 1,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt19853270/s1/e05"
-        },
-        {
-            "season": 1,
-            "episode": 6,
-            "link": "https://vidmody.com/vs/tt19853270/s1/e06"
-        },
-        {
-            "season": 1,
-            "episode": 7,
-            "link": "https://vidmody.com/vs/tt19853270/s1/e07"
-        },
-        {
-            "season": 1,
-            "episode": 8,
-            "link": "https://vidmody.com/vs/tt19853270/s1/e08"
         }
     ]
 }

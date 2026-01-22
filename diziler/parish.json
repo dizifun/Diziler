@@ -1,13 +1,11 @@
 {
     "id": 194741,
+    "imdb_id": "tt18552362",
     "name": "Parish",
     "poster": "https://image.tmdb.org/t/p/w500/iV1YDLXuJHwhxF85zwaTxXyrzN6.jpg",
     "year": "2024",
     "genres": [
         "Dram"
-    ],
-    "countries": [
-        "US"
     ],
     "cast": [
         "Giancarlo Esposito",
@@ -21,16 +19,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt18552362/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt18552362/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt18552362/s1/e05"
         }
     ]
 }

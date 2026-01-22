@@ -1,14 +1,12 @@
 {
     "id": 233256,
+    "imdb_id": "tt28228082",
     "name": "The Stolen Girl",
     "poster": "https://image.tmdb.org/t/p/w500/jfEEnO3zHWrJNVMQuv3TCNLrIzZ.jpg",
     "year": "2025",
     "genres": [
         "Dram",
         "Gizem"
-    ],
-    "countries": [
-        "GB"
     ],
     "cast": [
         "Denise Gough",
@@ -22,26 +20,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt28228082/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt28228082/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt28228082/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt28228082/s1/e04"
-        },
-        {
-            "season": 1,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt28228082/s1/e05"
         }
     ]
 }

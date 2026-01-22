@@ -1,5 +1,6 @@
 {
     "id": 247756,
+    "imdb_id": "tt29457135",
     "name": "Floransa Canavarı",
     "poster": "https://image.tmdb.org/t/p/w500/AewhTESggHM7pffrE9exvVIJDZ3.jpg",
     "year": "2025",
@@ -7,9 +8,6 @@
         "Suç",
         "Gizem",
         "Dram"
-    ],
-    "countries": [
-        "IT"
     ],
     "cast": [
         "Marco Bullitta",
@@ -23,21 +21,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt29457135/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt29457135/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt29457135/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt29457135/s1/e04"
         }
     ]
 }
