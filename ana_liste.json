@@ -12714,6 +12714,86 @@
         ]
     },
     {
+        "id": 19885,
+        "name": "Sherlock",
+        "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+        "year": "2010",
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "countries": [
+            "GB"
+        ],
+        "cast": [
+            "Benedict Cumberbatch",
+            "Martin Freeman"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e03"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e03"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e03"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e03"
+            }
+        ]
+    },
+    {
         "id": 126308,
         "name": "Shōgun",
         "poster": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
