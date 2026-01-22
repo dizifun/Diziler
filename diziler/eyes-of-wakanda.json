@@ -1,15 +1,13 @@
 {
     "id": 241388,
+    "imdb_id": "tt13968252",
     "name": "Eyes of Wakanda",
     "poster": "https://image.tmdb.org/t/p/w500/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
     "year": "2025",
     "genres": [
         "Animasyon",
         "Aksiyon & Macera",
-        "Bilim Kurgu & Fantastik"
-    ],
-    "countries": [
-        "US"
+        "Bilim Kurgu & Fantazi"
     ],
     "cast": [
         "Winnie Harlow",
@@ -23,21 +21,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt13968252/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt13968252/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt13968252/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt13968252/s1/e04"
         }
     ]
 }
