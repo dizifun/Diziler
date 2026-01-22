@@ -7283,6 +7283,32 @@
         ]
     },
     {
+        "id": 124364,
+        "imdb_id": "tt9813792",
+        "name": "FROM",
+        "poster": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+        "year": "2022",
+        "genres": [
+            "Gizem",
+            "Dram",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "cast": [
+            "Harold Perrineau",
+            "Catalina Sandino Moreno",
+            "Eion Bailey",
+            "David Alpay",
+            "Elizabeth Saunders"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt9813792/s1/e01"
+            }
+        ]
+    },
+    {
         "id": 242907,
         "name": "Fate",
         "poster": "https://image.tmdb.org/t/p/w500/k9ibdbWVF0qptcQQN6nqz4NlRhC.jpg",
@@ -10741,6 +10767,31 @@
                 "season": 3,
                 "episode": 10,
                 "link": "https://vidmody.com/vs/tt9737326/s3/e10"
+            }
+        ]
+    },
+    {
+        "id": 127235,
+        "imdb_id": "tt9737326",
+        "name": "Invasion",
+        "poster": "https://image.tmdb.org/t/p/w500/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg",
+        "year": "2021",
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "cast": [
+            "Golshifteh Farahani",
+            "忽那汐里",
+            "Shamier Anderson",
+            "India Brown",
+            "Enver Gjokaj"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt9737326/s1/e01"
             }
         ]
     },
@@ -16646,6 +16697,32 @@
                 "season": 3,
                 "episode": 8,
                 "link": "https://vidmody.com/vs/tt9288030/s3/e08"
+            }
+        ]
+    },
+    {
+        "id": 108978,
+        "imdb_id": "tt9288030",
+        "name": "Reacher",
+        "poster": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+        "year": "2022",
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram",
+            "Suç"
+        ],
+        "cast": [
+            "Alan Ritchson",
+            "Maria Sten",
+            "Sonya Cassidy",
+            "Johnny Berchtold",
+            "Roberto Montesinos"
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "link": "https://vidmody.com/vs/tt9288030/s1/e01"
             }
         ]
     },
