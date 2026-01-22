@@ -1,14 +1,12 @@
 {
     "id": 304199,
+    "imdb_id": "tt39266137",
     "name": "Heaven",
     "poster": "https://image.tmdb.org/t/p/w500/md5icWQyzD9jaVBenpr0gvvnRSB.jpg",
     "year": "2025",
     "genres": [
         "Dram",
         "Gizem"
-    ],
-    "countries": [
-        "PL"
     ],
     "cast": [
         "Stanisław Linowski",
@@ -21,16 +19,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt39266137/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt39266137/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt39266137/s1/e03"
         }
     ]
 }

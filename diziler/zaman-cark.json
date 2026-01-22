@@ -1,14 +1,12 @@
 {
     "id": 71914,
+    "imdb_id": "tt7462410",
     "name": "Zaman Çarkı",
     "poster": "https://image.tmdb.org/t/p/w500/rlNwsszuCWqYzoTYALnf46KEdn6.jpg",
     "year": "2021",
     "genres": [
-        "Bilim Kurgu & Fantastik",
+        "Bilim Kurgu & Fantazi",
         "Dram"
-    ],
-    "countries": [
-        "US"
     ],
     "cast": [
         "Rosamund Pike",
@@ -22,121 +20,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt7462410/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt7462410/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt7462410/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt7462410/s1/e04"
-        },
-        {
-            "season": 1,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt7462410/s1/e05"
-        },
-        {
-            "season": 1,
-            "episode": 6,
-            "link": "https://vidmody.com/vs/tt7462410/s1/e06"
-        },
-        {
-            "season": 1,
-            "episode": 7,
-            "link": "https://vidmody.com/vs/tt7462410/s1/e07"
-        },
-        {
-            "season": 1,
-            "episode": 8,
-            "link": "https://vidmody.com/vs/tt7462410/s1/e08"
-        },
-        {
-            "season": 2,
-            "episode": 1,
-            "link": "https://vidmody.com/vs/tt7462410/s2/e01"
-        },
-        {
-            "season": 2,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt7462410/s2/e02"
-        },
-        {
-            "season": 2,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt7462410/s2/e03"
-        },
-        {
-            "season": 2,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt7462410/s2/e04"
-        },
-        {
-            "season": 2,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt7462410/s2/e05"
-        },
-        {
-            "season": 2,
-            "episode": 6,
-            "link": "https://vidmody.com/vs/tt7462410/s2/e06"
-        },
-        {
-            "season": 2,
-            "episode": 7,
-            "link": "https://vidmody.com/vs/tt7462410/s2/e07"
-        },
-        {
-            "season": 2,
-            "episode": 8,
-            "link": "https://vidmody.com/vs/tt7462410/s2/e08"
-        },
-        {
-            "season": 3,
-            "episode": 1,
-            "link": "https://vidmody.com/vs/tt7462410/s3/e01"
-        },
-        {
-            "season": 3,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt7462410/s3/e02"
-        },
-        {
-            "season": 3,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt7462410/s3/e03"
-        },
-        {
-            "season": 3,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt7462410/s3/e04"
-        },
-        {
-            "season": 3,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt7462410/s3/e05"
-        },
-        {
-            "season": 3,
-            "episode": 6,
-            "link": "https://vidmody.com/vs/tt7462410/s3/e06"
-        },
-        {
-            "season": 3,
-            "episode": 7,
-            "link": "https://vidmody.com/vs/tt7462410/s3/e07"
-        },
-        {
-            "season": 3,
-            "episode": 8,
-            "link": "https://vidmody.com/vs/tt7462410/s3/e08"
         }
     ]
 }

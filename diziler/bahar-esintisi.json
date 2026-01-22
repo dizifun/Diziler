@@ -1,14 +1,12 @@
 {
     "id": 280948,
+    "imdb_id": "tt39137681",
     "name": "Bahar Esintisi",
     "poster": "https://image.tmdb.org/t/p/w500/z7qBomUexU29AJnK0xxMnczF0Ad.jpg",
     "year": "2026",
     "genres": [
         "Komedi",
         "Dram"
-    ],
-    "countries": [
-        "KR"
     ],
     "cast": [
         "안보현",
@@ -22,21 +20,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt39137681/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt39137681/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt39137681/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt39137681/s1/e04"
         }
     ]
 }

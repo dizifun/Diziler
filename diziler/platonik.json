@@ -1,13 +1,11 @@
 {
     "id": 278011,
+    "imdb_id": "tt34692112",
     "name": "Platonik",
     "poster": "https://image.tmdb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg",
     "year": "2025",
     "genres": [
         "Komedi"
-    ],
-    "countries": [
-        "TR"
     ],
     "cast": [
         "Gupse Özay",
@@ -21,41 +19,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt34692112/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt34692112/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt34692112/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt34692112/s1/e04"
-        },
-        {
-            "season": 1,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt34692112/s1/e05"
-        },
-        {
-            "season": 1,
-            "episode": 6,
-            "link": "https://vidmody.com/vs/tt34692112/s1/e06"
-        },
-        {
-            "season": 1,
-            "episode": 7,
-            "link": "https://vidmody.com/vs/tt34692112/s1/e07"
-        },
-        {
-            "season": 1,
-            "episode": 8,
-            "link": "https://vidmody.com/vs/tt34692112/s1/e08"
         }
     ]
 }

@@ -1,5 +1,6 @@
 {
     "id": 94954,
+    "imdb_id": "tt7216636",
     "name": "Hazbin Hotel",
     "poster": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
     "year": "2024",
@@ -7,10 +8,7 @@
         "Animasyon",
         "Komedi",
         "Dram",
-        "Bilim Kurgu & Fantastik"
-    ],
-    "countries": [
-        "US"
+        "Bilim Kurgu & Fantazi"
     ],
     "cast": [
         "Stephanie Beatriz",
@@ -22,43 +20,8 @@
     "episodes": [
         {
             "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt7216636/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt7216636/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt7216636/s1/e04"
-        },
-        {
-            "season": 2,
             "episode": 1,
-            "link": "https://vidmody.com/vs/tt7216636/s2/e01"
-        },
-        {
-            "season": 2,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt7216636/s2/e04"
-        },
-        {
-            "season": 2,
-            "episode": 6,
-            "link": "https://vidmody.com/vs/tt7216636/s2/e06"
-        },
-        {
-            "season": 2,
-            "episode": 7,
-            "link": "https://vidmody.com/vs/tt7216636/s2/e07"
-        },
-        {
-            "season": 2,
-            "episode": 8,
-            "link": "https://vidmody.com/vs/tt7216636/s2/e08"
+            "link": "https://vidmody.com/vs/tt7216636/s1/e01"
         }
     ]
 }

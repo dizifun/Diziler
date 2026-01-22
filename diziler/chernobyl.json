@@ -1,13 +1,11 @@
 {
     "id": 87108,
+    "imdb_id": "tt7366338",
     "name": "Chernobyl",
     "poster": "https://image.tmdb.org/t/p/w500/vDwYRtmfBgM9zq4o0xbeUuVo3DL.jpg",
     "year": "2019",
     "genres": [
         "Dram"
-    ],
-    "countries": [
-        "US"
     ],
     "cast": [
         "Jared Harris",
@@ -21,26 +19,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt7366338/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt7366338/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt7366338/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt7366338/s1/e04"
-        },
-        {
-            "season": 1,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt7366338/s1/e05"
         }
     ]
 }

@@ -1,14 +1,12 @@
 {
     "id": 223530,
+    "imdb_id": "tt8622160",
     "name": "Star Trek: Starfleet Academy",
     "poster": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
     "year": "2026",
     "genres": [
-        "Bilim Kurgu & Fantastik",
+        "Bilim Kurgu & Fantazi",
         "Aksiyon & Macera"
-    ],
-    "countries": [
-        "US"
     ],
     "cast": [
         "Holly Hunter",
@@ -22,11 +20,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt8622160/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt8622160/s1/e02"
         }
     ]
 }

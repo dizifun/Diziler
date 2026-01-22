@@ -1,13 +1,11 @@
 {
     "id": 100088,
+    "imdb_id": "tt3581920",
     "name": "The Last of Us",
     "poster": "https://image.tmdb.org/t/p/w500/cdbDsn2hqLL7x804GixzPP8AiBE.jpg",
     "year": "2023",
     "genres": [
         "Dram"
-    ],
-    "countries": [
-        "US"
     ],
     "cast": [
         "Bella Ramsey",
@@ -20,81 +18,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt3581920/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt3581920/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt3581920/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt3581920/s1/e04"
-        },
-        {
-            "season": 1,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt3581920/s1/e05"
-        },
-        {
-            "season": 1,
-            "episode": 6,
-            "link": "https://vidmody.com/vs/tt3581920/s1/e06"
-        },
-        {
-            "season": 1,
-            "episode": 7,
-            "link": "https://vidmody.com/vs/tt3581920/s1/e07"
-        },
-        {
-            "season": 1,
-            "episode": 8,
-            "link": "https://vidmody.com/vs/tt3581920/s1/e08"
-        },
-        {
-            "season": 1,
-            "episode": 9,
-            "link": "https://vidmody.com/vs/tt3581920/s1/e09"
-        },
-        {
-            "season": 2,
-            "episode": 1,
-            "link": "https://vidmody.com/vs/tt3581920/s2/e01"
-        },
-        {
-            "season": 2,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt3581920/s2/e02"
-        },
-        {
-            "season": 2,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt3581920/s2/e03"
-        },
-        {
-            "season": 2,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt3581920/s2/e04"
-        },
-        {
-            "season": 2,
-            "episode": 5,
-            "link": "https://vidmody.com/vs/tt3581920/s2/e05"
-        },
-        {
-            "season": 2,
-            "episode": 6,
-            "link": "https://vidmody.com/vs/tt3581920/s2/e06"
-        },
-        {
-            "season": 2,
-            "episode": 7,
-            "link": "https://vidmody.com/vs/tt3581920/s2/e07"
         }
     ]
 }

@@ -1,14 +1,12 @@
 {
     "id": 279601,
+    "imdb_id": "tt35047134",
     "name": "Man vs Baby",
     "poster": "https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
     "year": "2025",
     "genres": [
         "Komedi",
         "Aile"
-    ],
-    "countries": [
-        "GB"
     ],
     "cast": [
         "Rowan Atkinson"
@@ -18,21 +16,6 @@
             "season": 1,
             "episode": 1,
             "link": "https://vidmody.com/vs/tt35047134/s1/e01"
-        },
-        {
-            "season": 1,
-            "episode": 2,
-            "link": "https://vidmody.com/vs/tt35047134/s1/e02"
-        },
-        {
-            "season": 1,
-            "episode": 3,
-            "link": "https://vidmody.com/vs/tt35047134/s1/e03"
-        },
-        {
-            "season": 1,
-            "episode": 4,
-            "link": "https://vidmody.com/vs/tt35047134/s1/e04"
         }
     ]
 }
