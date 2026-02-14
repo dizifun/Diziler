@@ -2,25 +2,262 @@
     "id": 111803,
     "imdb_id": "tt13406094",
     "name": "The White Lotus",
+    "original_name": "The White Lotus",
+    "overview": "HBO yapımı mini dizi \"The White Lotus\" Hawaii'de seçkin bir otelde tatil yapan misafirlerin bir haftasını konu alan ve sosyal hiciv öğeleri barındıran bir drama. Güler yüzlü çalışanları ve muhteşem manzarasıyla bu mükemmel tatilde her geçen gün karanlık bir karmaşa ortaya çıkmaktadır.",
     "poster": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
     "year": "2021",
+    "rating": 7.6,
     "genres": [
         "Komedi",
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü"
+    ],
     "cast": [
-        "Leslie Bibb",
-        "Carrie Coon",
-        "Walton Goggins",
-        "Sarah Catherine Hook",
-        "Jason Isaacs"
+        {
+            "name": "Leslie Bibb",
+            "role": "Kate Bohr",
+            "image": "https://image.tmdb.org/t/p/w200/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+        },
+        {
+            "name": "Carrie Coon",
+            "role": "Laurie Duffy",
+            "image": "https://image.tmdb.org/t/p/w200/vWChiHhXFjZVKC6HbACyyRFmdW4.jpg"
+        },
+        {
+            "name": "Walton Goggins",
+            "role": "Rick Hatchett",
+            "image": "https://image.tmdb.org/t/p/w200/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+        },
+        {
+            "name": "Sarah Catherine Hook",
+            "role": "Piper Ratliff",
+            "image": "https://image.tmdb.org/t/p/w200/hLXqA5OZYX9I9BTj82KlVYqgE2i.jpg"
+        },
+        {
+            "name": "Jason Isaacs",
+            "role": "Timothy Ratliff",
+            "image": "https://image.tmdb.org/t/p/w200/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+        },
+        {
+            "name": "ลิซ่า",
+            "role": "Mook",
+            "image": "https://image.tmdb.org/t/p/w200/qI8vV0rh9XWC7FObzEGDRSg4PBN.jpg"
+        },
+        {
+            "name": "Michelle Monaghan",
+            "role": "Jaclyn Lemon",
+            "image": "https://image.tmdb.org/t/p/w200/1N2up9UZZPbNgAOuOLce7hejlQt.jpg"
+        },
+        {
+            "name": "Natasha Rothwell",
+            "role": "Belinda Lindsey",
+            "image": "https://image.tmdb.org/t/p/w200/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg"
+        },
+        {
+            "name": "Sam Nivola",
+            "role": "Lochlan Ratliff",
+            "image": "https://image.tmdb.org/t/p/w200/4EL6gTYGkmrjZo7hBjDemut3m1Q.jpg"
+        },
+        {
+            "name": "ภัทราวดี มีชูธน",
+            "role": "Sritala Hollinger",
+            "image": "https://image.tmdb.org/t/p/w200/40u5XijcdlqVcnNbvDn8ZyUfuKe.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm - Arrivals",
+            "overview": "Otel müdürü Armond, yeni konukların talepleriyle baş etmeye çalışırken Nicole ise sağlık sorunları yaşayan eşini oğluyla vakit geçirmesi için ikna eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5AkJFSmfPHQDovs23M84p9FPjqy.jpg",
+            "vote_average": 7.2,
             "link": "https://vidmody.com/vs/tt13406094/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm - New Day",
+            "overview": "Armond, Shane'i sakinleştirmek için yollar ararken iş hayatında sorunlar yaşayan Rachel ise kariyeri konusunda tavsiye almak için Nicole ile konuşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/116eiqnFbU00ZCSwLY5u6MMRFXq.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13406094/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm - Mysterious Monkeys",
+            "overview": "Başka çaresi kalmayan Quinn, Mark ile dalış derslerine katılırken Shane ise Rachel için romantik bir akşam planlamaya çalışmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/d691M8RaRbWVJPGVZPAjzS5StL0.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt13406094/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm - Recentering",
+            "overview": "Rachel'ın kariyer planları Shane tarafından alt üst edilmiştir. Kötü alışkanlıklarından kurtulmaya kararlı olan Armond'u ise zorlu bir sınav bekler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rBe2XfUlVDNraQbRdrjv3wDX4B0.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt13406094/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm - The Lotus-Eaters",
+            "overview": "Armond hasar kontrolü yapmaya çalışırken Belinda, Tanya'nın yeni iş teklifine yoğunlaşması için uğraşmaktadır. Nicole ise Mark'a kızgındır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/izDbDbiKTygyjGOrNfaIHR2TeUn.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13406094/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm - Departures",
+            "overview": "Rachel, Shane'e birtakım gerçekleri anlatırken Quinn ise hayatına dair büyük planlarını açıklar. Armond'un ise kaybedecek hiçbir şeyi kalmamıştır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u5ZinvxAW6gpkjWHQ8xijdJqSYt.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt13406094/s1/e06"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Sicilya'daki bir gezide Harper, Ethan, Daphne ve Cameron birbirlerini ölçüp biçerek garip bir ilk gün geçirirler. Tanya, yeni asistanı Portia ile gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jZc5svMVSRjStSWIZ4C4XgukbXr.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt13406094/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Tanya, seyahatini mükemmel bir kaçamak haline getirme beklentisiyle Sicilya’da kendisiyle vakit geçirmesi için Greg'i ayarlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b0nK8LtprAJIdi04F0ZTgJMJ7nz.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13406094/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Olumlu bir tavır takınacağına söz veren Harper, Daphne ile geziye katılır. İki gün boyunca tek başına kalan Tanya, bir tarotçudan tavsiye ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rtSmCH9xGCze8rEOyvPTQ8Z7CSI.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt13406094/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Tanya, Quentin'den beklenmedik bir davet alınca Portia gününü yeğeni Jack ile geçirmek zorunda kalır. Geziden dönen Harper gafil avlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j6yJvMRPt8WyDuD0m4Q2hkJxRGA.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13406094/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Harper hala Ethan'dan şüphelenmektedir. Valentina ise Isabella'yı korumak için değişikliğe gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lYlIwggNP8mPtySr4jnNzFdT7X0.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt13406094/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Ethan, Harper'ın intikam alma ihtimalinden endişe duymaktadır. Di Grasso ailesi Sicilya'daki akrabalarını bulmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rqLxfTioOxhrklaY7pyK5ZiuRX7.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13406094/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Albie, Lucia'ya yardımcı olmak için Dominic'ten ricada bulunur. Tanya ise Quentin'e temkinli yaklaşmaktadır. Ethan, Cam ile yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/243a6NIkZ1ai5FmT2bpdcf4Av5g.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt13406094/s2/e07"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "White Lotus Tayland'a yeni bir misafir grubu gelir. Kate, Laurie ve Jaclyn, bir kızlar gezisine çıkar. Belinda, odasına yerleşir. Chelsea, huysuz Rick'le uğraşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l6qFrdVeVPyML2BhRPWY677RPa7.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13406094/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Kate ve Jaclyn, Laurie'nin boşanmasıyla ilgili spekülasyonlar yaparken Timothy işle ilgili kötü bir haber alır. Rick, meditasyon sırasında yaşadığı travmayı Amrita ile paylaşır. Chelsea, Chloe ile bağ kurar. Gaitok, duygularını Mook'a açıklar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gwVzPPtJEdMGoIPjQVUdlSZkKzl.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt13406094/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Saxon da ofisten telefon almaya başlayınca Timothy, ailenin tesisin telefon yasağı politikasına uyması gerektiğine karar verir. Rick'le birlikte şehre gelen Chelsea, kendisini başka bir tehlikeli durumun içinde bulur. Gaitok, patronları tarafından azarlanmaktan endişelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wCR6wNzG9OiCMo5FZHWjXXr5r1.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13406094/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Ortamda değişiklik arayan Jaclyn, Valentin'in önerisi üzerine kızları komşu bir tatil yerine sürükler ancak umduğu genç parti havasını bulamaz. Chloe'nin erkek arkadaşının lüks yatında Piper, ailesiyle hayatındaki bir gelişmeyi paylaşmadan önce Lochlan'ın desteğini ister. Rick sonunda Chelsea'ye geçmişini anlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yc5xQMRhpVO30aAY6Mm4wkN83k.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13406094/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Chloe, Saxon, Lochlan ve Chelsea'yi yat partisine devam etmeye ikna ettiğinde işler çılgına döner. Laurie, Jaclyn ve Kate, Valentin ve arkadaşlarıyla birlikte bir kulübe gider. Belinda bir otel misafiriyle ilgili şüphelerini paylaşır. Rick, Bangkok'taki eski bir arkadaşını ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wF1tgT5wdnjdTCWI8v0fkpNi5Vg.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13406094/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Dolunay şenliklerinin ardından Laurie, kendisini Jaclyn tarafından aldatılmış hissederken akşamdan kalma olan Saxon, önceki gece olanları örtbas etmeye çalışır. Belinda'nın oğlu uygunsuz bir anda gelir. Chloe, erkek arkadaşının sorularıyla karşı karşıya kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3gM6yKGlnvihLiSWFwTF0CER0RA.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt13406094/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Rick, Bangkok'ta düşmanıyla yüzleşir. Belinda, Zion'u Chloe'nin partisine götürür. Saxon, Timothy'nin davranışlarını sorgular. Laurie, Valentin ile Muay Thai'ye katılır ve Gaitok, Mook ile randevuya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6sISDqr1bIbDuGglYMNmtvIwk33.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt13406094/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Laurie, Jaclyn ve Kate, arkadaşlıklarıyla ilgili hesaplaşır. Timothy, ailesi için şok edici bir plan yapar. Belinda, bir anlaşma düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jonVZkIZSAPfK3Ev4wlz6N7VSj1.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt13406094/s3/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 04:39:12"
 }

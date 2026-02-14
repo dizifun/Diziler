@@ -2,21 +2,209 @@
     "id": 129552,
     "imdb_id": "tt13918776",
     "name": "The Night Agent",
+    "original_name": "The Night Agent",
+    "overview": "Gece yarısı gelen bir telefonla bir araya gelen bir FBI ajanı ve bir siber güvenlik uzmanı, gittikçe büyüyen bir siyasi komplo ağını çözmek zorundadır.",
     "poster": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gklrevVndG98GHGDwfm8y8kxESo.jpg",
     "year": "2023",
+    "rating": 7.7,
     "genres": [
         "Aksiyon & Macera",
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix"
+    ],
     "cast": [
-        "Gabriel Basso"
+        {
+            "name": "Gabriel Basso",
+            "role": "Peter Sutherland",
+            "image": "https://image.tmdb.org/t/p/w200/6jHYQf6Y37BEouavp03WWpWpFyR.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Arama",
+            "overview": "Gece Harekâtı adlı bir acil durum hattından sorumlu olan FBI ajanı Peter bir yardım çağrısı alır ve kısa süre sonra siber güvenlik uzmanı Rose'u korumakla görevlendirilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hgSV1g5vuM7arbzvPkSuTHWMbR0.jpg",
+            "vote_average": 7.4,
             "link": "https://vidmody.com/vs/tt13918776/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Tekrar Arama",
+            "overview": "Campbell'ların FBI ile bağlantısını çözmeye çalışan Peter, bir sabit sürücüyü bulmak ve aradığı cevaplara ulaşmak için Rose ile birlikte kaçmak zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gSJQ3KkwUT32etT0oVncI02kAFc.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt13918776/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Hayvan Bakıcısı",
+            "overview": "Peter, Beyaz Saray'daki riskli bir görev için Rose ile iş birliği yapar. Bu sırada saygın bir ajan, başkan yardımcısının kızının güvenlik ekibine katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1Yf0W9rAzQwK45VPGEPUcxzdqCV.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt13918776/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Çok Gizli",
+            "overview": "Rose ve Peter, Campbell'ların yakın zamanda görüştüğü birinden yeni bilgilere ulaşır. Monks, Chelsea'ye bir itirafta bulunur. Paulo, Maddie ile yakınlaşmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hYycFDpCx9RBucnVtCinWBEnWe0.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt13918776/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Kukla",
+            "overview": "Peter, Hawkins'e yakın birini ziyaret eder. Rose önemli bir bağlantı kurar. Maddie'nin dışarıda geçirdiği gece tehlikeli bir hal alınca Gizli Servis harekete geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mniPEXFfrnCwl5R0TciiSsorTVk.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt13918776/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Derin Sular",
+            "overview": "Suikastçıların nefesini enselerinde hisseden Peter ve Rose, Beyaz Saray'a giderken ayrılırlar. Şoke edici bir keşif, ikilinin hayatını hızla tehlikeye atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xGaD0Q7cyU10jKz9VeOQo6ps4cr.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt13918776/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Soğuk Yenen Bir Yemek",
+            "overview": "Saklandıkları yerde birbirlerine daha da yakınlaşan Peter ve Rose bombalı saldırıyla ilgili bir şüpheliyi araştırır. Beyaz Saray'da komplocular rahatsız edici bir videoya ulaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wsYGWSDNcvHC2ZyZSd2sK1wk5TQ.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt13918776/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Yeniden",
+            "overview": "Bombalı saldırı şüphelisinin kimliği hakkında gerçekler ortaya çıkar. Chelsea ve Peter, şifreli mesaj içeren bir video gönderen Maddie'yi bulmak için zamanla yarışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rUgB4BCf4bMlQxma7ihKhtdTQ4s.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13918776/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Tanıdık Şeytan",
+            "overview": "Ortaya çıkan yeni bilgilerin ardından Peter ve Rose, Chelsea ve Maddie'nin yardımıyla daha fazla kanıt bulmaya çalışır. Camp David'de daha büyük bir tehdit baş gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xzbqRZhmxU20Eb2M4SVm0D1A65P.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13918776/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Babalar",
+            "overview": "Ekip birçok hayatı tehlikeye atan hain bir komployu çok geç olmadan durdurmaya çalışır. Ardından, Peter geçmişiyle yüzleşir ve hayatında yeni bir sayfa açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/KVPYDt7Q4aMQmpVqlb6yagrhsK.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13918776/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Telefon Takibi",
+            "overview": "Bangkok'ta felaketle sonuçlanan bir görev sonrası Peter, sırları sızdırmakla suçlanan Amerikalı bir ajanı bulmak için ortadan kaybolur. Rose ise rahatsız edici bir telefon alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6jgkm5KkjzlbVA0fM9hGYPXtVxX.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Kopuk Bağlantı",
+            "overview": "Sonunda yeniden bir araya gelen Peter ve Rose, Warren'ı ele geçirmek için çabalar. Noor, İran'ın gizli istihbaratına olan erişimini kendi çıkarı için kullanmayı düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1OeHmfUUNlke8w28XQMByV2EB55.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Devlet Malı",
+            "overview": "Catherine, Peter'ın Foxglove'a yönelik el altından yürüttüğü soruşturmasına yardım ederken Noor, beklenmedik bir buluşmaya tanık olur. Bir araç kaçırma olayı kontrolden çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a2UEjzqNokRX8AyhfPprz29OOf1.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Sert Önlemler",
+            "overview": "İran büyükelçisinin evindeki bir partiye sızan Peter ve Rose, Javad'ın şüphelenmesine yol açar. Tomás ve Markus, Foxglove planı konusunda tartışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rbDBaLjXsZ4oROsub95njSK8mEI.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Bir Aile Meselesi",
+            "overview": "Gece Harekâtı hakkında istihbarat edinmek isteyen Jacob, Solomon'a cazip bir teklifte bulunur. Javad, aralarında bir hain olduğunu hisseder. Sami, İran'da gizli bir görev üstlenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l33bAhfqYcIEBKKnli1bvqc3DM8.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "İyi Bir Ajan",
+            "overview": "Rose vicdani bir hesaplaşma yaşar. Viktor gerçek amacını Tomás'a açıklar ve Solomon'un ekibinin Peter'ın peşine düşmesiyle ava giden avlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8bniGHfP06EYnxQlttnPucxWtl8.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Öfkeyle Kalkan Zararla Oturur",
+            "overview": "Peter, Solomon'u konuşturmak için sert davranır. Bir ipucunu takip eden Rose, bir Foxglove bilim insanından cevaplar almaya çalışır, ancak kendini ölümcül bir durumun içinde bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ekiwqzBvEWCnLHf4G3v6S3ircEN.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Sapma",
+            "overview": "Rose'u bulmaya çalışan Peter, Jacob ile olayların gidişatını değiştirecek bir anlaşma yapar. Tomás, Markus'un babasına hizmet etmek için ne kadar ileri gidebileceğini keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rOhBcrGbAFXVJBdlVqgIdhYgbGF.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Kültür Alışverişi",
+            "overview": "Peter, New York'taki en yüksek güvenlikli yerlerden birine sızmak için büyük uğraş verir. Rose ve Dr. Cole, Markus'u durdurmak için cüretkâr bir plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4p0Hz6GcCpPqwjGCRGQEJ1nMu5V.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Pişmanlıklar",
+            "overview": "Zaman giderek daralırken Peter ve Rose, toplu ölümlere neden olacak bir olayı önlemek için çabalar. Catherine ilgi çekici bir teklifte bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/56jVcqRRtHPyjlnMIsxWXfJTuop.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt13918776/s2/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:12:43"
 }

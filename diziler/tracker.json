@@ -2,21 +2,411 @@
     "id": 211288,
     "imdb_id": "tt13875494",
     "name": "Tracker",
+    "original_name": "Tracker",
+    "overview": "Bir hayatta kalma uzmanı, ödül avcısı olarak ülkeyi dolaşırken bir yanda dağılmış ailesiyle uğraşır.",
     "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
     "year": "2024",
+    "rating": 7.5,
     "genres": [
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Disney+"
+    ],
     "cast": [
-        "Justin Hartley",
-        "Fiona Rene"
+        {
+            "name": "Justin Hartley",
+            "role": "Colter Shaw",
+            "image": "https://image.tmdb.org/t/p/w200/oo7vqWz30pA1tY6quUOnS6O0AgB.jpg"
+        },
+        {
+            "name": "Fiona Rene",
+            "role": "Reenie Greene",
+            "image": "https://image.tmdb.org/t/p/w200/vfi2WLLy6BeNnO2n3zXc5hllRjf.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Klamath Falls",
+            "overview": "Colter'ın yöneticileri onu bir çocuğun kayboluşunu araştırması için Klamath Falls'a gönderir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/q5tL0iAqRqwK07vZzVOBMI3Dfym.jpg",
+            "vote_average": 6.5,
             "link": "https://vidmody.com/vs/tt13875494/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Missoula",
+            "overview": "Colter, ölümcül bir tarikatın içine çekilen kayıp bir gencin izini sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AoucGU21e5lKOgrmdfi5sPXYwVe.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Springland",
+            "overview": "Colter, genç bir kadının özgür ruhlu kız kardeşinin yerini bulmasına yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hXDzdi2zqtxUuYzm1UVE7RtLAJ2.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Shasta Dağı",
+            "overview": "Colter, Reenie'nin yakın arkadaşı Erika'nın kayıp genç oğlunu bulmak için zamana karşı yarışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nbbTwLST6KOrMuY97Nyqrnsxy5o.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "St. Louis",
+            "overview": "İhtimaller Colter'ın aleyhinedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1ESUv1uBPrJIKZhvnxNkuhPeZ3K.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Lexington",
+            "overview": "Colter ezeli düşmanıyla isteksizce iş birliği yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/97MgNHntqzygUmGy2iId5Y7zDtt.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Şikago",
+            "overview": "Colter, Bobby ve Reenie yetenekli bir MMA dövüşçüsünün izini bulmak için zamana karşı yarışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pfy5T1hSI7IdeQLoH6T1ZTzkliG.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Camden",
+            "overview": "Colter, düğününden iki hafta önce kaybolan bir liman işçisinin izini sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/62IX648gwpfea7d5KeBuNHGku8Q.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "The Never Game romanından uyarlanan Tracker'da Justin Hartley, gizemli bir ödül arayıcısı ve uzman iz sürücü Colter Shaw rolünde. Colter Shaw, polislere ve özel vatandaşlara suçları çözmede ve kayıp kişileri bulmada yardımcı olmak için eski tip karavanıyla ülkeyi dolaşıyor, ta ki son vakası her şeyi değiştirene kadar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vMEf6hYRNet97ToODtJKLlSNJYW.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Colter, bir havacılık şirketinin sahibinin kayıp yetişkin çocuklarının ve Reenie'nin babasının arkadaşlarının izini sürmek için Idaho'nun vahşi doğasına gider; bu çocuklar en son kötü hava koşullarında gizemli bir müşteriyle havalanan bir uçakta görülmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2rXP4wlkG7Y62uqWTerJamSSq3k.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "Bir yüksek lisans öğrencisi bir ev partisinden sonra kaybolduğunda, arkadaşları ve ailesi onun araştırma bursunun baskısı altında ezildiğini düşünür. Ancak Colter, okulda profesör olan kız kardeşi Dr. Dory Shaw'a danıştıktan sonra, kampüsteki tehlikeli - ve ölümcül - bir komployu ortaya çıkarmasına yol açan müstehcen fotoğraflar ve mesajların izini ortaya çıkarır",
+            "still_path": "https://image.tmdb.org/t/p/w400/1ow3jfkbEEeYYq7yrJwMVmLcn3s.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "Colter, birkaç hafta süren paranoyak davranışlarının ardından kaybolan eski bir ordu arkadaşının izini sürmek için kendisinden yardım isteyen ayrı yaşadığı kardeşi Russell ile birlikte çalışmak zorunda kalır. Soruşturma, kardeşleri Özel Kuvvetler görevlerinin, karanlık kayıt dışı programların ve komplo teorilerinin dünyasına götürürken, bir yandan da ailelerinin geçmişiyle uğraşırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yfGrSDMjwBEXKSOMKo11qufsjNR.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e12"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "Colter, yerel polisin kaza sonucu boğulma olarak değerlendirdiği iki amatör fırtına avcısının kayboluşunu araştırır. Colter'ın uzman iz sürme becerileri, onu küçük bir kasaba tatil beldesinin kirli çamaşırlarını ortaya çıkarmaya götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/c3x3xQrjTBjG2YlEeabgpYmCcKR.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt13875494/s1/e13"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Colter, Arkansas'ın taşrasında arabaları yol kenarında terk edilmiş halde bulunan kayıp bir ailenin garip kayboluşunu araştırırken, annenin geçmişiyle ilgili şok edici bir keşif yapar ve bu keşif onu organize suç dünyasına götürür. Ayrıca, Reenie yeni hukuk bürosunu açar ve Velma'dan dükkânı kurması için yardım ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lRcdtoweztLWEagjDC6e8biEmVd.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Colter kayıp babasını ararken kaybolunca, Reenie yardım etmesi için kardeşi Russell'ı işe alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9NcoEgQklbCiNTJKrh9jZTea1Z4.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Colter ve rakip ödül avcısı Billie Matalon, kayıp bir lise beyzbol yıldızını bulmak için bir araya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5XqJ0IYKgQ760GUnSqp1xFE7B78.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Reenie, Colter'ı Napa'da CEO'lar için tasarlanmış üst düzey bir sağlıklı yaşam merkezinde kaybolan bir kadınla ilgili bir davayı alması için ikna eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/debr3aFxHLE8bmOFmDZlXyOQuU8.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Colter, misafirperver olmayan bir maden kasabasında eşsiz bir ruhani yeteneği olan kayıp bir gencin yerini bulma işini alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1948alaMnDmKSmqleqEQoZX1ON9.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Kayıp kampçıları ararken Colter, bir seri katilin serbest olduğuna inanan emekli bir polis memuruyla tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5Sc6WpwPUKGGFBXUCUD2rxGjemL.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Colter, Denver'daki bir benzin istasyonunda kayıp bir köpek bulduğunda ve köpek daha sonra kamyonundan çalındığında, Colter onu bulmayı ve ailesiyle yeniden bir araya getirmeyi kendine görev edinir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/RaerSjwVEGBySSXno6gTXEEMJC.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Colter, aylar önce bir araba kazasında ölmüş gibi görünen bir adamı bulmak için işe alındığında bir \"hayaletin\" izini sürmekle görevlendirilir. Bu arada Colter beyaz balina davasında bir mola yakalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mPAAcq20RF2Su4nBowqszXBC4L8.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Colter'ın beyaz balina davasında yeni bir ipucu, Gina Picket'ın kaybolması, onu ve emekli polis Keaton'ı bir seri katilin izini sürmek için tekrar bir araya getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qUZy2Y3jn388k5erMo8tDWUoJg9.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Colter, şiddet içeren bir suçla bağlantılı kayıp bir şarkıcıyı bulmak için kiralandıktan sonra, hedefinin kendisine benzemeyen, metanetli bir hayatta kalma uzmanı olduğunu keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/maa36O3VLK5iKuNSlTFNpXesLJa.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "Colter, New Jersey'in önde gelen kek zinciri kurucularından birinin oğlunun izini sürerken, şiddetli bir mafya savaşının ortasına düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hrGHWq0w1Ocj0bCzGAn07ZGS4TR.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "Colter, Ohio'da oğlunu gece yatağına yatırdıktan sonra kaybolan bir anneyi bulması için işe alınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mhf06FTIFomKOKFi9TFkgVrpJoH.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e12"
+        },
+        {
+            "season": 2,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "Colter, lüks bir giyim mağazasının soyunma odasında kaybolan bir kadını bulmak için New York'a gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pWUj59H0JsqynhKbWz8V3dsk4LM.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e13"
+        },
+        {
+            "season": 2,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/8P3uDsvGassrjT1mGRlDOBiLLPx.jpg",
+            "vote_average": 4.8,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e14"
+        },
+        {
+            "season": 2,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/4VEp8TDkcx2VZJDdxzQzOB5lMnk.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e15"
+        },
+        {
+            "season": 2,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/dYA9vvYfIkD5tjODSxrWL235k41.jpg",
+            "vote_average": 4.6,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e16"
+        },
+        {
+            "season": 2,
+            "episode": 17,
+            "name": "17. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/d5ZhTwzcoN7JJ2hIFux1tk2tEa.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e17"
+        },
+        {
+            "season": 2,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/p2NzCPiiDmo84z1Eu1lxFO2NvWt.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e18"
+        },
+        {
+            "season": 2,
+            "episode": 19,
+            "name": "19. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/inYJstlBOYoXw7Qb1wX3owoa2la.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e19"
+        },
+        {
+            "season": 2,
+            "episode": 20,
+            "name": "20. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/rGKGEbnMyH1Mk2AM9tz0YSfEAI6.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt13875494/s2/e20"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/wklMvHukoK8fWel4s2yzEkbSwzo.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt13875494/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/2jFlPrxcS9caxejpfGVJbOE3nei.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt13875494/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/qEToGfll7iDEMrL96E7kZLBxMZn.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt13875494/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/dqVWhfGG0Xb39iJfE3tQBLaUtnh.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt13875494/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/mMp1NHKD3oRT6ZJmdjvIqkUhpM3.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt13875494/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/a9HycECcauuNgqckpsveo6jXVBx.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt13875494/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/89yEscTYwx66gBtJxiP0Q2UCjW4.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt13875494/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/juw3mraPwBIhVJmOo128OIcWjCV.jpg",
+            "vote_average": 9.1,
+            "link": "https://vidmody.com/vs/tt13875494/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/fsAEbZhrZkVL140nAG9sFOuqPMb.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt13875494/s3/e09"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:10:02"
 }

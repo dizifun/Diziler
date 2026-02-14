@@ -2,25 +2,218 @@
     "id": 119051,
     "imdb_id": "tt13443470",
     "name": "Wednesday",
+    "original_name": "Wednesday",
+    "overview": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
     "poster": "https://image.tmdb.org/t/p/w500/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
     "year": "2022",
+    "rating": 8.4,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Gizem",
         "Komedi"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix"
+    ],
     "cast": [
-        "Jenna Ortega",
-        "Steve Buscemi",
-        "Emma Myers",
-        "Hunter Doohan",
-        "Joy Sunday"
+        {
+            "name": "Jenna Ortega",
+            "role": "Wednesday Addams",
+            "image": "https://image.tmdb.org/t/p/w200/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg"
+        },
+        {
+            "name": "Steve Buscemi",
+            "role": "Barry Dort",
+            "image": "https://image.tmdb.org/t/p/w200/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+        },
+        {
+            "name": "Emma Myers",
+            "role": "Enid Sinclair",
+            "image": "https://image.tmdb.org/t/p/w200/v1Y8RP39135ZOary9M4MbkrCAdn.jpg"
+        },
+        {
+            "name": "Hunter Doohan",
+            "role": "Tyler Galpin",
+            "image": "https://image.tmdb.org/t/p/w200/ihno5ut6ha8TaubQFgl5Ozco2K1.jpg"
+        },
+        {
+            "name": "Joy Sunday",
+            "role": "Bianca Barclay",
+            "image": "https://image.tmdb.org/t/p/w200/phPn3BRW1vZzxkl3hgEy8umzXn.jpg"
+        },
+        {
+            "name": "Moosa Mostafa",
+            "role": "Eugene Ottinger",
+            "image": "https://image.tmdb.org/t/p/w200/wikQ8RVQ5NRpfLDRwI4MwO96o1r.jpg"
+        },
+        {
+            "name": "Georgie Farmer",
+            "role": "Ajax Petropolus",
+            "image": "https://image.tmdb.org/t/p/w200/7AIpkgTLOmVMdUZPMtQxkMGwnKX.jpg"
+        },
+        {
+            "name": "Isaac Ordonez",
+            "role": "Pugsley Addams",
+            "image": "https://image.tmdb.org/t/p/w200/zSNeeC0lKZXvdFWCphVAvMLW4fR.jpg"
+        },
+        {
+            "name": "Owen Painter",
+            "role": "Slurp / Isaac Night",
+            "image": "https://image.tmdb.org/t/p/w200/stULghun0xuOSoX1rALN4v0VTxS.jpg"
+        },
+        {
+            "name": "Billie Piper",
+            "role": "Isadora Capri",
+            "image": "https://image.tmdb.org/t/p/w200/gBduwAWEZ1bwuL6f7cjMzBvKlJz.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Çarşamba Günü Doğanlar Dertli Olurlar",
+            "overview": "Berbat bir şaka yüzünden okuldan atılan Wednesday, anne ve babasının birbirlerine âşık olduğu yatılı bir okul olan Nevermore Akademisine gönderilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vaoNDFmj7DQH7PpAy9YWgLVylPP.jpg",
+            "vote_average": 8.5,
             "link": "https://vidmody.com/vs/tt13443470/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Dert En Yalnız Sayıdır",
+            "overview": "Şerif, gece yaşanan garip olaylarla ilgili Wednesday'e sorular sorar. Daha sonra Wednesday, Poe Kupası yarışında zorlu rakibiyle karşı karşıya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nSGdaI0sDBqgMMuskIKNNT1KbS8.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt13443470/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Dost mu, Dert mi?",
+            "overview": "Wednesday gizli bir toplulukla tanışır. Kaynaşma Günü'nde Nevermore'un dışlanmışları, Jericho'nun Pilgrim Diyarı'ndaki normal öğrencileriyle bir araya gelir. Şekerleme isteyen?",
+            "still_path": "https://image.tmdb.org/t/p/w400/yikI4l7vKK4LkfFEIa5dXaqO97s.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt13443470/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Ne Dertli Bir Gece!",
+            "overview": "Wednesday'in Xavier'i Kuzgun Dansı'na davet etmesi Tyler'ı çok kıskandırsa da Şey'in elinde onun için başka bir koz vardır. Bu sırada Eugene, mağarayı gözetler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wV2de1W3td4zxaW97HATfktHjfd.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt13443470/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Neye Dertlenirsen Onu Biçersin",
+            "overview": "Veliler Etkinliği sırasında ailesinin geçmişini araştıran Wednesday, yanlışlıkla babasının tutuklanmasına sebep olur. Enid, kurt adama dönüşmeyi öğrenmesi yönünde baskı görür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j3Tx4CXDhzOV103TuTwz461EdjF.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt13443470/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "İyiliğe Karşı Dert",
+            "overview": "Wednesday'in arkadaşları onun için sürpriz bir doğum günü partisi düzenler. Niyetleri iyi olsa da Wednesday bu makus günü cinayetleri çözerek değerlendirmeyi tercih eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cPHlYQ00832jS7IDqfHS7RWTz2k.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt13443470/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Henüz Bana Dertlenmediysen",
+            "overview": "Ziyarete gelen üşütük Fester amca, canavar hakkında bildiklerini anlatır. Wednesday, Tyler ile Crackstone'un mezarında buluşmayı gönülsüzce kabul eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aEmccS7KyFPQMAnuQ2C5sbyn5fc.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt13443470/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Dert Sürüsü",
+            "overview": "Wednesday'in başı Müdire Weems'le belaya girer ama sorunlar bu kadarla bitmez. Kadim bir canavarla savaşması gereken Wednesday, bütün arkadaşlarını yardıma çağırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3b42P1FuxWC9JXVIfnKAUUuq0zP.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt13443470/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Dert Üstüne Dert",
+            "overview": "Verimli bir yaz tatili geçiren Wednesday, bundan hiç hoşlanmasa da Nevermore'a ünlü biri olarak döner ve tehlikeli bir sapığın hedefi hâline gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1L5TJquVHoCp19w5tKy48DfcCnZ.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt13443470/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Büyük Başın Derdi",
+            "overview": "Her yıl düzenlenen Şaka Günü, Nevermore'da ortalığı curcunayı çevirir. Wednesday eski bir düşmanıyla yüzleşir ve istemediği bir müttefik kazanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k5g6TAHMpXC8o85OZAOW2rfEWcG.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt13443470/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Koyun Can Derdinde",
+            "overview": "Hem gücünü hem de Goody’nin kitabını kaybeden Wednesday, okul kampında eski usul dedektiflik yapmak zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/75n29ly38Sx4XNqXHkIRLpUcIfm.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt13443470/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Şu Dertlerin Dili Olsa",
+            "overview": "Fester ve Şey'in, Wednesday'in vakası için kendilerini adamasıyla Addams ailesi soruşturmaya dâhil olur. Bianca bir sırrı gizlemeye çalışırken başka bir sırra çatar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/irw76zkymiXrrAyC1ftq8Jomsuh.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt13443470/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Hyde Peşimde, Dert Döşümde",
+            "overview": "Kaçak Tyler etrafta dolaşırken Wednesday riskli bir Día de los Muertos hesaplaşmasına hazırlanır. Slurp'ün gittikçe artan açlığı Pugsley için sorun olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7ophg7pjLtQhLsLiD46aTTAnpbY.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt13443470/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Derdini Bilen Kendini Bilir",
+            "overview": "Nevermore'un geçmişinden bir hayaletle karşılaşan Wednesday ve Enid, birbirlerine yeni bir gözle bakmaya başlar. Ancak bu durum, sınıf arkadaşlarından birini tehlikeye atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dXZnTHnv0wHwFWfTqfhs5A0z7ZO.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt13443470/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Paran mı Var Derdin Var",
+            "overview": "Okuldaki gala yaklaşırken Wednesday, Dort'un kirli sırlarını ortaya çıkarır, Enid kurda dönüşmemeye çalışır, Morticia ise annesi ile vasiyeti hakkında çetin bir mücadele verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/275ufbbt88FVkfH7QeoqPpICBP6.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13443470/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Dert Var, Deler Geçer",
+            "overview": "Gizli aile sırları ortaya çıkınca, Wednesday karanlık bir kehanetin gerçekleşmesini önlemek için zamanla yarışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eqCAySjP9dXS4xgtbVAx1UjEi7D.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt13443470/s2/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 04:41:15"
 }

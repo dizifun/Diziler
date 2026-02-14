@@ -2,23 +2,144 @@
     "id": 250988,
     "imdb_id": "tt13542714",
     "name": "House of Guinness",
+    "original_name": "House of Guinness",
+    "overview": "Dublin, 1868. Guinness ailesinin reisi vefat ettiğinde bira fabrikasının kaderi, her biri karanlık sırlar saklayan dört çocuğunun ellerine kalır.",
     "poster": "https://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1ELIdCCzB1afeO0KQh2lvUaOxjd.jpg",
     "year": "2025",
+    "rating": 7.5,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix"
+    ],
     "cast": [
-        "Anthony Boyle",
-        "Louis Partridge",
-        "Emily Fairn",
-        "Fionn O'Shea",
-        "James Norton"
+        {
+            "name": "Anthony Boyle",
+            "role": "Arthur Guinness",
+            "image": "https://image.tmdb.org/t/p/w200/jF015vIjbrq72nTzWd2mWcybuiC.jpg"
+        },
+        {
+            "name": "Louis Partridge",
+            "role": "Edward Guinness",
+            "image": "https://image.tmdb.org/t/p/w200/bap7Bvkxos7xR3R2vAuSNok8OvA.jpg"
+        },
+        {
+            "name": "Emily Fairn",
+            "role": "Anne Guinness",
+            "image": "https://image.tmdb.org/t/p/w200/jSWlDM2toxUD2SLvrAbJaVWzeoz.jpg"
+        },
+        {
+            "name": "Fionn O'Shea",
+            "role": "Benjamin Guinness",
+            "image": "https://image.tmdb.org/t/p/w200/9N6urqHr74JaBVfV227Wj4aDHL6.jpg"
+        },
+        {
+            "name": "James Norton",
+            "role": "Sean Rafferty",
+            "image": "https://image.tmdb.org/t/p/w200/jQElUV2w7pMNEPX44qFMmr4zDDC.jpg"
+        },
+        {
+            "name": "Niamh McCormack",
+            "role": "Ellen Cochrane",
+            "image": "https://image.tmdb.org/t/p/w200/TplCOkCZwtvEn46Tb3bhVex0B2.jpg"
+        },
+        {
+            "name": "Seamus O'Hara",
+            "role": "Patrick Cochrane",
+            "image": "https://image.tmdb.org/t/p/w200/2ifk5Am8x3mOon4NHTWACkhjUWZ.jpg"
+        },
+        {
+            "name": "Jack Gleeson",
+            "role": "Byron Hughes",
+            "image": "https://image.tmdb.org/t/p/w200/97NkocCiLUwNzMDYjngSm5soGlN.jpg"
+        },
+        {
+            "name": "Dervla Kirwan",
+            "role": "Agnes Guinness",
+            "image": "https://image.tmdb.org/t/p/w200/6ZReeKzRaWMDzlfRbJcqelAfPZ6.jpg"
+        },
+        {
+            "name": "Michael McElhatton",
+            "role": "John Potter",
+            "image": "https://image.tmdb.org/t/p/w200/aPjuV6N10zAJMr55lAIvnpdsNgE.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Sör Benjamin Lee Guinness'in cenazesinin kaldırıldığı gün Dublin sokakları protestolara sahne olur. Bu sırada Sör Benjamin'in çocukları ailenin geleceği için planlar yapmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iUJOrFvio4jst52w4XxM9sDzga2.jpg",
+            "vote_average": 7.8,
             "link": "https://vidmody.com/vs/tt13542714/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Vasiyetnameye göre tüm miras iki kardeşe kalırken diğer iki kardeş hiçbir şey alamaz ve kimse bu durumdan memnun değildir. Rafferty tehditler savururken kendisi de bir tehdit alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/Gf1HVbsOvZ7oMteNn4YubRDy80.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt13542714/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Anne travmatik bir araba yolculuğu yapar. Arthur bir teklifte bulunur, Edward bira fabrikasında değişiklikler yapar ve Benjamin kendi işini kurmaya karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yLgcwTtQbV1wWXrqpMc4AhGbpEo.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt13542714/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Arthur'un düğününe tüm Dublin sosyetesi katılır, ancak aralarında hiç beklemediği iki kişi de vardır. Benjamin, Edward'ın yardımına koşar ve işleri büyütme planı uygulamaya konur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e8Rj4q308tmxiAhW7liQ7oWaN5C.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt13542714/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Arthur'un siyasi kariyeri çökünce, karısını teselli etme görevini Rafferty üstlenir. Byron'ın verdiği söz, Guinness ailesini ya kurtaracak ya da mahvedecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kP1Suo3Y5GNKDzAI9OMBH0iXe9v.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt13542714/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Çaresiz kalan Ellen, Edward'dan yardım ister. Adelaide, Cloonboo gezisinde Edward'a farklı gözle bakar ve Arthur, bira fabrikasındaki işlerle daha yakından ilgilenmeye karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7eTfiKfTmiIRk94m2papXqM0FmN.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt13542714/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Yeni sosyal konutların inşasına başlanır. Edward ve Arthur kendi arzularına ket vurup, bira fabrikası ve aile için en iyisini yapmaya karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ybBZ9AoiRHgqR4othwYv8Yzhiyb.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt13542714/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Seçim günü yaklaşırken tanıdık bir yüz, Dublin'e geri döner. Arthur, yaklaşan tehlikeye rağmen kampanyasına kararlılıkla devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qkgVdWVLpiDAN2LzEerrwadcGn3.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt13542714/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 04:47:00"
 }

@@ -2,25 +2,208 @@
     "id": 205715,
     "imdb_id": "tt13159924",
     "name": "Gen V",
+    "original_name": "Gen V",
+    "overview": "The Boys dünyasından, Amerika'nın tek süper kahraman üniversitesinde geçen heyecan verici yeni dizi Gen V geliyor. Bu yetenekli öğrenciler, ahlaki sınırlarını test ederken üniversitenin en üst sırasına girip Vought International'ın seçkin süper kahraman takımı Yedi'ye katılmak için yarışır. Okulun karanlık sırları gün yüzüne çıkınca, ne tür kahramanlar olmak istediklerine karar vermeleri gerekir.",
     "poster": "https://image.tmdb.org/t/p/w500/pQIupCIWHfd0SPItLbKPUszXrca.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/tldMHeR7UnihV5ffrxxM8cDhbtT.jpg",
     "year": "2023",
+    "rating": 7.7,
     "genres": [
         "Aksiyon & Macera",
         "Dram",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon"
+    ],
     "cast": [
-        "Jaz Sinclair",
-        "Lizze Broadway",
-        "Maddie Phillips",
-        "London Thor",
-        "Derek Luh"
+        {
+            "name": "Jaz Sinclair",
+            "role": "Marie Moreau",
+            "image": "https://image.tmdb.org/t/p/w200/rX1HQCi4cd3O14Q1Pn4AHoksPeD.jpg"
+        },
+        {
+            "name": "Lizze Broadway",
+            "role": "Emma Meyer / Little Cricket",
+            "image": "https://image.tmdb.org/t/p/w200/4U14Q69wgdxJX4bSJO0VKI7wYFv.jpg"
+        },
+        {
+            "name": "Maddie Phillips",
+            "role": "Cate Dunlap",
+            "image": "https://image.tmdb.org/t/p/w200/uuQBuEdkhgDSJ2wnE5N4tyryl4t.jpg"
+        },
+        {
+            "name": "London Thor",
+            "role": "Jordan Li",
+            "image": "https://image.tmdb.org/t/p/w200/tUFq7pqq8UdMqS9GZKdtkBiA4we.jpg"
+        },
+        {
+            "name": "Derek Luh",
+            "role": "Jordan Li",
+            "image": "https://image.tmdb.org/t/p/w200/pe2TONQY4BXWeRJQwE8RXQxbCcz.jpg"
+        },
+        {
+            "name": "Asa Germann",
+            "role": "Sam Riordan",
+            "image": "https://image.tmdb.org/t/p/w200/kVUVy9wL2LYkt69EOxgqywMZSqJ.jpg"
+        },
+        {
+            "name": "Sean Patrick Thomas",
+            "role": "Polarity",
+            "image": "https://image.tmdb.org/t/p/w200/59Mqg13DVutKEN4ZmkG8O814uKg.jpg"
+        },
+        {
+            "name": "Hamish Linklater",
+            "role": "Cipher",
+            "image": "https://image.tmdb.org/t/p/w200/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "God Ü.",
+            "overview": "Tebrik ederiz! Godolkin Üniversitesi'ne katılmak için seçildiniz! Ne tür bir süper olduğunuzu keşfetme yolculuğunuzun bir parçası olmaktan heyecan duyuyoruz! 1965'te kurulduğundan bu yana God Ü, Yedi'nin üç üyesi de dâhil olmak üzere dünyanın şimdiye kadar tanıdığı en iyi ve en parlak süper kahramanlardan bazılarını yetiştirdi! Ve kim bilir? Belki sıradaki sen olursun!",
+            "still_path": "https://image.tmdb.org/t/p/w400/tzWMqlYUprbPSSdcsg9cea2p4oI.jpg",
+            "vote_average": 7.1,
             "link": "https://vidmody.com/vs/tt13159924/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "İlk Gün",
+            "overview": "Godolkin Üniversitesi Ruh Sağlığı Yardım Hattı, bu zor zamanda öğrencilere yalnız olmadıklarını hatırlatır. Dışarıdan kurşun geçirmez olabilirsiniz ama içeriden değilsiniz. Personelimiz süper kahramanların özel duygusal ihtiyaçlarıyla ilgilenmek üzere eğitilmiştir ve size yardımcı olmak için buradalar. Konuşmaya ihtiyacınız varsa, sadece bir telefon veya vMesaj uzağınızdayız. #GodÜÖnemsiyor",
+            "still_path": "https://image.tmdb.org/t/p/w400/jZI9jDanZtpUVXvMvMhwM2SsTA8.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt13159924/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "#Brink'iDüşün",
+            "overview": "Godolkin Üniversitesi'nde düzenlenen #Brink'iDüşün Anma Töreni ve Bağış Etkinliğine davetlisiniz! Saat 19:00'da, kırmızı halıda en iyi şekilde giyindiğinizden emin olun! Ardından fotoğraf çekmek ve ücretsiz şampanya için dünyanın en ateşli süper kahramanlarına ve ünlülerine katılın ve A-Treni, Dip ve Polarite'nin yer aldığı dokunaklı \"efsane Profesör Brinkerhoff'a saygı\" videosunu izleyin!",
+            "still_path": "https://image.tmdb.org/t/p/w400/b6DkuAT76n7kCWFVaEQgBTzOGIT.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt13159924/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Çıplak Gerçek",
+            "overview": "Godolkin Üniversitesi Polis Merkezi, dün gece Suçla Mücadele Okulu'nun bahçesindeki Polarite heykelinin kasık/genital bölgesini tahrip eden kişi veya kişiler hakkında bilgi istemektedir. Herhangi bir bilginiz varsa, lütfen @GodÜPM ile iletişime geçin.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iQ3kqALdrEGM0kd2eepLfOQO6ve.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt13159924/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Canavar Kulübüne Hoşgeldin",
+            "overview": "ÖDÜL! Dün gece İnanılmaz Bir Steve, katıldığı kampüs dışı bir partide penisini kaybetti. Sadece onu geri istiyor, bu yüzden ailesi hiçbir soru sorulmadan sağlam bir şekilde iade edilmesi karşılığında 10.000 Dolar ÖDÜL teklif ediyor. Lütfen Godolkin Günlük İlanlar Ofisi veya Godolkin Öğrenci Birliği'ndeki Kayıp Eşya Masası ile iletişime geçin.",
+            "still_path": "https://image.tmdb.org/t/p/w400/t43wgdzZGwtpjKPx1VYPuEIr7Yz.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt13159924/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Jumanji",
+            "overview": "Godolkin Üniversitesi Suçla Mücadele Okulu, en yeni dersini duyurmaktan heyecan duyuyor: SÜPER KÖTÜLERİN PSİKOLOJİSİ! En iyi bilinen süper kötü örneği olan Asker Çocuk'u inceleyecek olan ders, kusurlu köken hikâyelerinden onları yoldan çıkaran kötü alışkanlıklara ve ahlaki tavizlere kadar bir süper kahramanı kötü yapan şeyin ne olduğunu araştıracak! Kontenjan sınırlıdır!\n\nBugün kaydolun!",
+            "still_path": "https://image.tmdb.org/t/p/w400/tv1AG7Q6nPLGvsrwD6eGEUmhI8s.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt13159924/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Hasta",
+            "overview": "Tüm God Ü #Evsahipleri'ne sesleniyorum! Bugün kampüste Sosyalist Victoria Neuman'ın belediye binasını protesto ediyoruz! Neuman'a ve onun Süper düşmanı uyanık güruhuna, Süper Kahraman karşıtı gündemlerine katlanmayacağımızı gösterelim! BİZİ KONTROL EDEMEYECEKLER!  #Amerika'yıYenidenSüperYapalım\n\n#SüperHayatlarÖnemlidir",
+            "still_path": "https://image.tmdb.org/t/p/w400/t5WpmjtkPa2ZuOMHckIl3hjs9pm.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt13159924/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Godolkin'in Muhafızları",
+            "overview": "Siz veya sevdiğiniz biri Godolkin'in Üniversitesi'nde çalışırken yaralandıysa veya öldüyse, maddi tazminat alma hakkınız olabilir. Yüzlerce insan çalışan Godolkin öğrencileri tarafından mağdur edildi, ancak Bremmer & Bremmer hukuk bürosu kişisel yaralanma ve haksız ölüm davalarında onlara milyonlar kazandırdı.\n\n1-888-177-2774 numaralı telefondan ücretsiz danışma için bize ulaşın. Haklarınızı öğrenin!",
+            "still_path": "https://image.tmdb.org/t/p/w400/aEdQumnn5qP4axyBaOT4pWBuGwR.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt13159924/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Yeni Yıl, Yeni Sen",
+            "overview": "God Ü'de yeni bir yıla hoş geldiniz! Kampüste artırılan sıkı güvenlik önlemlerine göz atın! Yeni korkusuz liderimiz Dekan Sıfır'ın özel \"hoş geldin\" etkinliğindeki konuşmasına kulak verin! Yeni Victoria Neuman Öğrenci Birliği'nde eski dostlarla kavuşun ve daha da güçlenmiş olan birliğimiz sayesinde yeni dostlar edinin! Bu yıl geçen yıldan çok daha iyi olacak ve bu yılı iple çekiyoruz!",
+            "still_path": "https://image.tmdb.org/t/p/w400/jWve032C7J8ihewCffdJplIadT5.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt13159924/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Adalet Asla Unutmaz",
+            "overview": "Tarih kurdu olduğunuzu mu düşünüyorsunuz? Bir daha düşünün! Çokbilmişlerin bile God Ü Arşivi'nden öğreneceği bir iki şey vardır. Dünyanın en iyi arşivcisi tarafından sunulan altı saatlik eğitici maceraya katılmak için kyle@hatırlayandaima.com'a yazın.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7l5FVtcBPatqvIITkrbJ3jJnQIq.jpg",
+            "vote_average": 5.7,
+            "link": "https://vidmody.com/vs/tt13159924/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "İnsan için İ",
+            "overview": "*Bu, kampüs geneli için bir hatırlatmadır.* Öğrenci broşürleri duyuru panolarına asılmadan önce God Ü yönetimi tarafından onaylanmalıdır. Tüm metin ve görselleri broşürünüzü asmadan en az 24 saat önce \"Stacey'nin dikkatine\" ibaresiyle Öğrenci Hayatı Ofisi'ne göndermeniz rica olunur. Kampüs güvenliği izinsiz tabela ve uygunsuz içeriklerin tespiti için tüm kamusal alanları sürekli izlemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fOuSprYHJUntOvLZUtbTT79VXNy.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt13159924/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Çantalar",
+            "overview": "Tebrikler! Büyük dövüş için VIP bilete hak kazandınız! Tüm mesuliyet katılımcılara aittir. Kameraya yakalanabilir veya vücut sıvılarına maruz kalabilirsiniz. Unutmayın, Vought Uluslararası Otel ve Spa'da dışarıdan içecek getirmek ve cinsiyetsiz tuvaletler yasak. Keyifli bir VIP deneyimi dileriz!",
+            "still_path": "https://image.tmdb.org/t/p/w400/rQ7tPQXqg6lIfoHGOYmqjbnBhmT.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt13159924/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Çocuklar İyi Değil",
+            "overview": "Tesis Kuralları - Madde 5827 - GÜÇ KULLANMAK KESİNLİKLE YASAK. Madde 3567 - ELLER DAİMA GÖRÜNÜR OLMALI. Madde 843 - GÜÇLERİNİZİ ARTIRACAĞI DÜŞÜNÜLEN HER TÜR KİŞİSEL EŞYAYA EL KONULACAKTIR. Madde 2536 - TÜM ALANLARDA ZAPT EDİCİ TEKNOLOJİLER AKTİFTİR. Madde 9832 - GÖZALTINA ALINANLAR HER AN DETAYLI ÜST ARAMASINA TABİDİR.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3Jvumfs7hb1jWlh3mUUsjtEvbb1.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt13159924/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Yemek Pişirme Dersleri",
+            "overview": "Yaklaşan kültür savaşı ve kıyamet yüzünden endişeli misiniz? Şık ve rahat bir şekilde üstesinden gelin! Sürdürülebilir septik sistemler VE Feng Shui! Patlamaya dayanıklı ve milyarder onaylı! Dünya yansa bile siz yerin on metre altında 1982 yapımı Bordeaux şarabınızı yudumluyor olacaksınız! Tükenmeden acele edin!",
+            "still_path": "https://image.tmdb.org/t/p/w400/gYUmyPuxpSGK6xFs2rGCfrWmw3V.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt13159924/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Cehennem Haftası",
+            "overview": "Öğrenci İşleri Ofisi'nden Hatırlatma: God Ü'de kabul sınaması kesinlikle yasaktır. Öğrencilere rencide edici isimler takmak, aşağılayıcı kıyafetler giydirmek ve hayvan muamelesi yapmak yasaktır. Bir şey görürseniz sessiz kalmayın! Kimse size ispiyoncu demez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iaiSxumV0ArufaCD1l4D19n1CYh.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt13159924/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Truva Atı",
+            "overview": "Merhaba {{Adı}} {{Soyadı}}. 10.30 oturumuna seçildiniz.** Lütfen geç kalmayın. Oturum başladıktan sonra öğrenciler hiçbir sebeple dışarı çıkamazlar. Geldiğinizde İleri Seviye Seminer Odası'nın girişindeki Vance'in yanına gitmeniz rica olunur. İyi şanslar! ** İşbu daveti kabul ederek bu faaliyete dair bedensel zarar, maluliyet veya ölüm gibi çeşitli risklerin sorumluluğunu kabul etmiş olursunuz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hWCvDCjkCQNLLOWva45sYw3qMfR.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt13159924/s2/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 04:22:20"
 }

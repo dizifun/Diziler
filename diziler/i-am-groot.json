@@ -2,8 +2,12 @@
     "id": 232125,
     "imdb_id": "tt13623148",
     "name": "I Am Groot",
+    "original_name": "I Am Groot",
+    "overview": "Galaksiyi bu yaramaz çocuktan koruyacak kimse yok! Çünkü Bebek Groot, kendi hikayeleriyle geliyor. Bebek Groot, yıldızların arasında büyürken hayatı keşfediyor.",
     "poster": "https://image.tmdb.org/t/p/w500/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
     "year": "2022",
+    "rating": 7.1,
     "genres": [
         "Animasyon",
         "Komedi",
@@ -11,14 +15,109 @@
         "Bilim Kurgu & Fantazi",
         "Çocuklar"
     ],
+    "categories": [
+        "Tümü",
+        "Disney+",
+        "Animasyon"
+    ],
     "cast": [
-        "Vin Diesel"
+        {
+            "name": "Vin Diesel",
+            "role": "Baby Groot (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Bebek Groot ilk adımlarını atar, ancak sonrasında koşmak için yürümeyi öğrenmesi gerektiğini anlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iecIwrRoq1uZfhJ9XRrZD29Zr4R.jpg",
+            "vote_average": 6.9,
             "link": "https://vidmody.com/vs/tt13623148/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Groot, minyatür bir uygarlık bulur ve onlar Groot'u uzun zamandır bekledikleri kahraman zanneder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6pFcTY18M9EpKQEEZZMzVnX4bMF.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt13623148/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Groot, Kuadrant'a dadanan ürkünç bir sesi araştırır, sonra bunun bir dans yarışması olduğunu anlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nv0q5V1vGwRVO4Rv3MOEmniUbWj.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt13623148/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Herkesin banyo yapması gerekir, ancak küçük bir Flora Colossi için işler çok farklı olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/stKeLppDBwscxoE9RXxNyrur27G.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt13623148/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Groot kendinin ve Koruyucular'ın portresini çizer, ama yaparken ne kadar zor olduğunu anlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cnhzecqkKHBIyM4QMbxRy5fbW3l.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt13623148/s1/e05"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Groot'um Musun?",
+            "overview": "Groot tuhaf bir yumurta bulur ve içinden çıkan ufak yaratığı kendi yavrusuymuş gibi benimser.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rJelmgL1yTFfH2PhC3LufMhYQko.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt13623148/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Groot Burnunu Sokar",
+            "overview": "Groot koku alma duyusu kazandığında her şeye burnunu sokmaması gerektiğini öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bf39ykfbUodisUirJXcUbI8bRFe.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt13623148/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Groot'un Karlı Günü",
+            "overview": "Groot hurda eşyalar giydirdiği kardan adamdan ortalığı altüst edecek durdurulamaz bir robot yaratır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6H9lUVRUJyWn7t0VAix83TszrfJ.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt13623148/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Groot'un Şekerlemesi",
+            "overview": "Groot galaksiler arası dondurma kamyonu yaklaşırken bozuk para için geminin altını üstüne getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4PSxBL0Muya07GIteMxJhA4A2iB.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt13623148/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Groot ve Büyük Kehanet",
+            "overview": "Groot kainatı kurtarmak için yerine getirmesi gereken bir kehanetle antik tapınağın göbeğine iner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o7gblk3nygQh2lEIjCHEdLK3RHA.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt13623148/s2/e05"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 04:51:52"
 }
