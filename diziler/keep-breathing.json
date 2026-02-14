@@ -2,19 +2,81 @@
     "id": 195822,
     "imdb_id": "tt14117010",
     "name": "Keep Breathing",
+    "original_name": "Keep Breathing",
+    "overview": "Kanada'nın vahşi doğasının ortasına düşen küçük bir uçaktan kurtulan bir kadın, hayatta kalmak için doğayla ve kişisel sorunlarıyla mücadele eder.",
     "poster": "https://image.tmdb.org/t/p/w500/6t0hmlr5jLauJJp2WsB5DsKntYq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i8jlzgfgj9e9eR0IvhDQUhqlIRV.jpg",
     "year": "2022",
+    "rating": 6.1,
     "genres": [
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix"
+    ],
     "cast": [
-        "Melissa Barrera"
+        {
+            "name": "Melissa Barrera",
+            "role": "Liv Rivera",
+            "image": "https://image.tmdb.org/t/p/w200/5oeFHUwrFz2UylWdYEXXJxfUUqL.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Varış",
+            "overview": "Uçuşu iptal edildikten sonra Inuvik'e gitmek için her yolu deneyen New Yorklu avukat Liv Rivera, küçük bir özel uçak bulmayı başarır. Ardından bir felaket yaşanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/q6oyKrOxEAhiKotmYdZVjnwG0K9.jpg",
+            "vote_average": 5.6,
             "link": "https://vidmody.com/vs/tt14117010/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Su ve Ateş",
+            "overview": "Uçağı buz gibi suyun dibinde olan Liv, önemli malzemeleri almak için gölün dibine dalarken geçmişte kalan dertleri tekrar su yüzüne çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5Vk5lTFU0GVeOqWd40lDWoaBDjX.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt14117010/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "İhtiyaçlar Hiyerarşisi",
+            "overview": "Vahşi doğanın ortasındaki Liv yiyecek, ateş, su ve barınacak yer bulmaya çalışır. Liv'in acı dolu geçmişi ve bu seyahate çıkma nedeni geri dönüşlerle anlatılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7ZYILDu1tmOWGT4x66jTynAPMAy.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt14117010/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Ayrılış",
+            "overview": "Çocukluk hatıraları, önceki gece gördüğü ışığı bulmak için ormanın içine dalan Liv'e bir yandan yardımcı olurken bir yandan onu engeller.",
+            "still_path": "https://image.tmdb.org/t/p/w400/607Anj72SIy4r4PVWVAxZ3ABovH.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt14117010/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Gidip Gelen Bilinç",
+            "overview": "Düştüğü tuzakta bilinci gidip gelen Liv, hayatta kalmak için savaşmaya devam etmekle her şeyden vazgeçmek arasında karar vermeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/FeTaBMo7Ru5FnJ1AWT6vWlADNC.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt14117010/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Evdesin",
+            "overview": "Liv müthiş bir gayret gösterir ve bir dizi göz korkutucu zorlukla karşılaşır. Ancak sevdikleri bir bir aklına gelmeye başlayınca umut bulur ve düşünceleri netleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/anYIWF3NTOGihUAKwo6A0HXTFR6.jpg",
+            "vote_average": 3.0,
+            "link": "https://vidmody.com/vs/tt14117010/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:23:43"
 }

@@ -2,24 +2,252 @@
     "id": 125988,
     "imdb_id": "tt14688458",
     "name": "Silo",
+    "original_name": "Silo",
+    "overview": "Mahvolmuş ve zehirli bir gelecekte, binlerce kişi yeraltının derinliklerindeki dev bir siloda yaşamaktadır. Silo'nun şerifi temel bir kuralı çiğnedikten ve sakinler gizemli bir şekilde ölmeye başladıktan sonra mühendis Juliette, Silo hakkındaki şok edici sırları ve gerçeği ortaya çıkarmaya başlar.",
     "poster": "https://image.tmdb.org/t/p/w500/c2OijvbFEXBW1onbzuvENr4CGQB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
     "year": "2023",
+    "rating": 8.1,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Dram"
     ],
+    "categories": [
+        "Tümü"
+    ],
     "cast": [
-        "Rebecca Ferguson",
-        "Common",
-        "Harriet Walter",
-        "Chinaza Uche",
-        "Avi Nash"
+        {
+            "name": "Rebecca Ferguson",
+            "role": "Juliette Nichols",
+            "image": "https://image.tmdb.org/t/p/w200/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+        },
+        {
+            "name": "Common",
+            "role": "Robert Sims",
+            "image": "https://image.tmdb.org/t/p/w200/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+        },
+        {
+            "name": "Harriet Walter",
+            "role": "Martha Walker",
+            "image": "https://image.tmdb.org/t/p/w200/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+        },
+        {
+            "name": "Chinaza Uche",
+            "role": "Paul Billings",
+            "image": "https://image.tmdb.org/t/p/w200/5fbbLI9BPiByyIIRYu9pbRQwyUN.jpg"
+        },
+        {
+            "name": "Avi Nash",
+            "role": "Lukas Kyle",
+            "image": "https://image.tmdb.org/t/p/w200/xmdcJQVhrnFdTv9KkrU3EnBWFfV.jpg"
+        },
+        {
+            "name": "Rick Gomez",
+            "role": "Patrick Kennedy",
+            "image": "https://image.tmdb.org/t/p/w200/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg"
+        },
+        {
+            "name": "Tim Robbins",
+            "role": "Bernard Holland",
+            "image": "https://image.tmdb.org/t/p/w200/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+        },
+        {
+            "name": "Shane McRae",
+            "role": "Knox",
+            "image": "https://image.tmdb.org/t/p/w200/ixNSdZDJ6fZzZc2Pdx4Dwr8wHir.jpg"
+        },
+        {
+            "name": "Billy Postlethwaite",
+            "role": "Hank",
+            "image": "https://image.tmdb.org/t/p/w200/cpHNAqOBP8SIcml1A8ODmtuEyNh.jpg"
+        },
+        {
+            "name": "Remmie Milner",
+            "role": "Shirley",
+            "image": "https://image.tmdb.org/t/p/w200/4LDy6vhBZ11kOevBdAGBRM34d3L.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Özgürlük Günü",
+            "overview": "Şerif Becker'ın gelecek planları, karısının Silo hakkında bilgi veren bir hacker'la karşılaşmasıyla altüst olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg",
+            "vote_average": 7.8,
             "link": "https://vidmody.com/vs/tt14688458/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Holston'ın Seçimi",
+            "overview": "Bir mühendis olan Juliette, bir iş arkadaşının gizemli ölümüne neden olabilecek şeyleri bir araya getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt14688458/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Makineler",
+            "overview": "Yeni bir şerif arayışında olan Belediye Başkanı Jahns, Bernard'la çatışır. Juliette, jeneratörün çalışır durumda kalması için bir anlaşma yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8hQB4jxk9ydj55Mrl9sY95smV7.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt14688458/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Gerçek",
+            "overview": "Juliette, son yaşanan trajedilerle ilgili gerçeği ortaya çıkarmak için çabalarken Şerif Yardımcısı Marnes'ın güvenini kazanmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt14688458/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Hademenin Oğlu",
+            "overview": "Sims, iki cinayeti çözme çabaları bir hesaplaşmaya yol açan Juliette'i takip etmesi için Billings'i baş yardımcısı olarak atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt14688458/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Obje",
+            "overview": "Juliette, araştırması sırasında, tanıdığını sandığı biri hakkında rahatsız edici sırlar keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt14688458/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Alev Koruyucular",
+            "overview": "Silo'nun güvenliği konusunda giderek daha fazla endişelenen Bernard, Juliette'le iş birliği yapmaya çalışır. Juliette babasından bir iyilik ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt14688458/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Hanna",
+            "overview": "Yeni bilgiler, Juliette'in ailesinin geçmişini farklı bir şekilde görmesine neden olur ve sonunda Silo'nun en büyük sırlarına erişir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sZaeOvZYS4evALQtm2wfC3eJxit.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt14688458/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Kaçış",
+            "overview": "Suçluluk duygusuyla boğuşan Billings, kişisel bir göreve çıkar ve Juliette'ten akıllara durgunluk veren bir ipucu alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt14688458/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Dışarısı",
+            "overview": "Bazı gerçekler nihayet gün ışığına çıktığında Juliette'in kaderi de kesinleşmiş gibidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt14688458/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Mühendis",
+            "overview": "Juliette, uzun zaman önce savaşta yıkılmış bir siloya sığınır ve orada yalnız olduğunu düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Düzen",
+            "overview": "Silo 18'de, Juliette'in daha önce kimsenin yapmadığı bir şeyi yapmasının ardından şok ve huzursuzluk baş gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Solo",
+            "overview": "Bernard yardım için Yargıç Meadows'a başvurur. Billings kendisine yalan söylenip söylenmediğini merak etmeye başlar. Juliette nihayet kasadaki adamla görüşür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dY1nJnRuuhC0stZqNWShBYqk93H.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Harmonyum",
+            "overview": "Juliette, eve dönebilmek ve silosunu kurtarabilmek amacıyla, bir kıyafeti geri almak üzere tehlikeli bir maceraya atılır. Mekanik, Yargıç Meadows'la bir toplantı planlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "İniş",
+            "overview": "Sims kendini yeni bir pozisyonda bulur. Juliette, Solo'nun dürüst davranmadığını öğrenir. Bernard ve Lukas önemli bir keşif yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Barikatlar",
+            "overview": "Bernard, Knox, Shirley ve Walker'ı yok etmek için bir plan yapar. Billings tavrını koyar. Solo, Juliette'in hayatını kurtarır ve karşılığında bir şey ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aAPo83kOC5mfgcOado49ijWITVo.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Dalış",
+            "overview": "Lukas'a bir görev verilir. Mekanik, güçlü bir mesaj yollar. Juliette tehlikeli bir inişe başlar ve yeni bir tehlikeyle yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Quinn'in Kitabı",
+            "overview": "Juliette, Solo'ya bir şey olduğunu keşfeder. Bernard, Walker'a bir teklif yapar. Lukas, Salvador Quinn'in torunlarıyla buluşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Safeguard",
+            "overview": "Billings'in inancı sarsılır. Lukas En-Derin'e iner. Knox, hainin kimliğini tespit eder. Juliette, Solo'nun geçmişiyle ilgili gerçeği ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aNgT4AEffmGwiabRD03riCz1aWr.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Ateşin İçine",
+            "overview": "Asiler harekete geçer, Juliette de öyle.",
+            "still_path": "https://image.tmdb.org/t/p/w400/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt14688458/s2/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:57:48"
 }

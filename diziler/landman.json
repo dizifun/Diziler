@@ -2,23 +2,171 @@
     "id": 157741,
     "imdb_id": "tt14186672",
     "name": "Landman",
+    "original_name": "Landman",
+    "overview": "Batı Teksas'ın petrol kuleleri dünyasında servet arayışının modern bir hikayesi. Doğanın sınırlarını zorlayan bu dünyada, zenginlik ve güç peşinde verilen mücadele hem kişisel hem de ahlaki bir sınav haline geliyor.",
     "poster": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
     "year": "2024",
+    "rating": 8.0,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix"
+    ],
     "cast": [
-        "Billy Bob Thornton",
-        "Demi Moore",
-        "Andy Garcia",
-        "Ali Larter",
-        "Jacob Lofland"
+        {
+            "name": "Billy Bob Thornton",
+            "role": "Tommy Norris",
+            "image": "https://image.tmdb.org/t/p/w200/i5EKWHuXokznIDMy2prTXzRmklI.jpg"
+        },
+        {
+            "name": "Demi Moore",
+            "role": "Cami Miller",
+            "image": "https://image.tmdb.org/t/p/w200/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+        },
+        {
+            "name": "Andy Garcia",
+            "role": "Gallino",
+            "image": "https://image.tmdb.org/t/p/w200/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+        },
+        {
+            "name": "Ali Larter",
+            "role": "Angela Norris",
+            "image": "https://image.tmdb.org/t/p/w200/2HOlaSd30yBCrr366GfPG2PF6D8.jpg"
+        },
+        {
+            "name": "Jacob Lofland",
+            "role": "Cooper Norris",
+            "image": "https://image.tmdb.org/t/p/w200/jU1eW9oOTC4ILfLNFeNUC7Fa5ya.jpg"
+        },
+        {
+            "name": "Michelle Randolph",
+            "role": "Ainsley Norris",
+            "image": "https://image.tmdb.org/t/p/w200/5W3DB2THOjE4L4Hhc68CzcQiwuK.jpg"
+        },
+        {
+            "name": "Paulina Chávez",
+            "role": "Ariana Medina",
+            "image": "https://image.tmdb.org/t/p/w200/tKF77iTnLu3HwTFKJRAYmoiVcFL.jpg"
+        },
+        {
+            "name": "Kayla Wallace",
+            "role": "Rebecca Falcone",
+            "image": "https://image.tmdb.org/t/p/w200/ePl7sXtyWIQsWsylyQBTxYsouKF.jpg"
+        },
+        {
+            "name": "Mark Collie",
+            "role": "Sheriff Walt Joeberg",
+            "image": "https://image.tmdb.org/t/p/w200/52rYCRzJ2bhQMqfvLDvfV23UzdL.jpg"
+        },
+        {
+            "name": "James Jordan",
+            "role": "Dale Bradley",
+            "image": "https://image.tmdb.org/t/p/w200/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "LANDMAN, petrol dünyasında servet peşinde koşan bir modern zaman hikâyesidir. Teksas'ın kalbinde zor durumdaki bir yönetici olan Tommy Norris, yakıt patlaması sırasında şirketini zirveye taşımaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qc8w4HacpHfaEWlqXUEg3Yi9VRx.jpg",
+            "vote_average": 7.9,
             "link": "https://vidmody.com/vs/tt14186672/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Tommy, petrol sahasında yaşanan bir trajedinin sonuçlarıyla uğraşır. Ainsley'nin petrol evine taşınmasıyla dinamikler bozulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wpUBXa1BXxJBEhZb5PVivaZjdcB.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt14186672/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Cooper petrol sahasında bir etki yaratır. Eski karısı Angela'nın kasabaya gelmesiyle Tommy için işler karışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pQwZ7X5RO4KUJRkq6OTbXnk03SU.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt14186672/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Sarsıcı bir ilk izlenimin ardından Rebecca, Tommy'yi savunmaya geçer. Cooper beklenmedik bir telefon alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1pYRB0KByeTVGLtCEmYoXDIHmzg.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt14186672/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Tommy ve ekibi tarlada istenmeyen bir ziyaretle karşılaşır. Angela petrol evinde aile yemeğine ev sahipliği yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ffO8Wgjb34vQMUdLt5gSjOXUDW3.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt14186672/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Angela, Victor'u ziyarete gittiğinde hazırlıksız yakalanır. Norris ailesi, Cooper'ın zor zamanlarında onun yanında yer alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/erWJ12DOjPEOCMEWBN20ITcxOUz.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt14186672/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Tommy'nin kartel sorunu büyümeye devam ediyor. Angela ve Ainsley topluluklarını tanımaya başlıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pwiyqyrdeorso3pyygV8S85bKuz.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt14186672/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Tommy Ulusal Muhafızlara bağlanır. Rebecca, Cooper'dan giderek daha fazla şüphelenmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qPMvbqTdaXSGlWuDAku4FES0ZK6.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt14186672/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Bir sağlık sorunu yaşayan Monty, Tommy'yi zor bir duruma sokar. Cooper bir plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e49HHIF6l89zJKaA7ce3VOtrYG2.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt14186672/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Tommy ve Cami kumar mı oynayacaklarını yoksa güvenli mi oynayacaklarını tartışırlar. Kartel bir hamle yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/z8fQOBRAPGw930PwgpN6zdMFMnf.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt14186672/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Ölüm ve Gün Batımı",
+            "overview": "Tommy gergin bir ortamda ilerlerken Cami kontrolü ele geçiriyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iLKi6iXGMjb1LMUgHjzLSn5asx2.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt14186672/s2/e01"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:28:06"
 }

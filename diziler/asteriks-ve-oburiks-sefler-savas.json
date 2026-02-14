@@ -2,8 +2,12 @@
     "id": 122781,
     "imdb_id": "tt14164922",
     "name": "Asteriks ve Oburiks: Şefler Savaşı",
+    "original_name": "Astérix & Obélix : Le Combat des chefs",
+    "overview": "Büyücüleri sihirli iksirin tarifini unutunca Galyalıları savunmak Asteriks ve Oburiks'e düşer. Sezar bu sırada eski bir kanunu onlara karşı kullanma planları yapmaktadır.",
     "poster": "https://image.tmdb.org/t/p/w500/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rLUC7hOsXtYCg1DfUIVpnes4VJX.jpg",
     "year": "2025",
+    "rating": 7.8,
     "genres": [
         "Animasyon",
         "Aksiyon & Macera",
@@ -11,18 +15,109 @@
         "Bilim Kurgu & Fantazi",
         "Aile"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix",
+        "Animasyon"
+    ],
     "cast": [
-        "Alain Chabat",
-        "Gilles Lellouche",
-        "Anaïs Demoustier",
-        "Laurent Lafitte",
-        "Thierry Lhermitte"
+        {
+            "name": "Alain Chabat",
+            "role": "Astérix (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/xRjymE6LIJd0useKWN2R1WgKDRy.jpg"
+        },
+        {
+            "name": "Gilles Lellouche",
+            "role": "Obélix (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/5Ka9nodCWS6TRFJnmosjp9sV3iA.jpg"
+        },
+        {
+            "name": "Anaïs Demoustier",
+            "role": "Metadata (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/kObYOu3UYkNcQGg1gnl4xitwhNc.jpg"
+        },
+        {
+            "name": "Laurent Lafitte",
+            "role": "César (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+        },
+        {
+            "name": "Thierry Lhermitte",
+            "role": "Panoramix (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/50kQVqmD1XnGRlgTPsVRhECaRae.jpg"
+        },
+        {
+            "name": "Géraldine Nakache",
+            "role": "Bonemine (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/mlJZWY6ZuCNklAeubVsv4ejJtNR.jpg"
+        },
+        {
+            "name": "Jean-Pascal Zadi",
+            "role": "Potus (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/wkI3RmKxNMtxNBOfSpgMgQsR53K.jpg"
+        },
+        {
+            "name": "Grégoire Ludig",
+            "role": "Abraracourcix (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/4rQhpGNkgmgEmayXL6U1ngky6C9.jpg"
+        },
+        {
+            "name": "David Marsais",
+            "role": "Bibus (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/kcCsrBy6zilmuISCOPti7Wje9YU.jpg"
+        },
+        {
+            "name": "Jérôme Commandeur",
+            "role": "Maman César / Blackangus  (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/2ptEZLHL5VIfsn02D8VIsoeOK30.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Bölüm I",
+            "overview": "Bu sefer sene M.Ö. 50 değil, tam 28 sene öncesi... Galya'nın bir köyünde, Büyüfiks sihirli bir iksir yapmaya çalışır. O sırada Oburiks'in henüz süper insan gücü yoktur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/z5oy1f1prjCByJ8yRqEoHlLkfmO.jpg",
+            "vote_average": 7.9,
             "link": "https://vidmody.com/vs/tt14164922/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Bölüm II",
+            "overview": "Dikbaşlı Galyalıları mağlup etmeyi kafasına koyan Sezar, onların kanunlarını onlara karşı kullanmaya karar verir. Büyüfiks, ormanda sinir bozucu birkaç Romalı ile karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r3pwxf7yFoxEnPXfahbCVIziCCR.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt14164922/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Bölüm III",
+            "overview": "Bir Galya-Roma şefi Toptoriks'e meydan okur. Bu sırada Romalı bir komutan sihirli iksiri yapmaya çalışırken çeşitli patlamalara yol açan Büyüfiks'i gizlice gözetler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nkycX30qB20mxW6Pm0f6MU3zuBy.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt14164922/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Bölüm IV",
+            "overview": "İki şef arasındaki savaş hızla yaklaşırken Galyalılar kazanmak için farklı bir yola başvurmayı planlar. Ancak bu plan, Asteriks ile Oburiks'in arasını iyice açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kEB58UQ10qikeVH1zrUHHBRa4jE.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt14164922/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Bölüm V",
+            "overview": "Romalılar kalleşçe planlarını uygulamaya hazırlanırken Metadata kendi bağlılığını sorgular. Asteriks ise köyü kurtarmak için ne mümkünse yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2BFE4PN4AyEklT3E8fIBJJKcq1v.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt14164922/s1/e05"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:26:54"
 }

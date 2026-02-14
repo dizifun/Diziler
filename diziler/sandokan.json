@@ -2,25 +2,131 @@
     "id": 271855,
     "imdb_id": "tt13924304",
     "name": "Sandokan",
+    "original_name": "Sandokan",
+    "overview": "",
     "poster": "https://image.tmdb.org/t/p/w500/6P5WCgqB4D5jL8FDx0ZlNyUu5X5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1AA5xIVt1PTrbLxCCBxRyvjdpqO.jpg",
     "year": "2025",
+    "rating": 7.6,
     "genres": [
         "Aksiyon & Macera",
         "Dram",
         "Savaş & Politik"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon"
+    ],
     "cast": [
-        "Can Yaman",
-        "Alanah Bloor",
-        "Alessandro Preziosi",
-        "Ed Westwick",
-        "Madeleine Price"
+        {
+            "name": "Can Yaman",
+            "role": "Sandokan",
+            "image": "https://image.tmdb.org/t/p/w200/qjDCqpngema0dqF1DDEbOKrXC1Z.jpg"
+        },
+        {
+            "name": "Alanah Bloor",
+            "role": "Lady Marianne Guillonk",
+            "image": "https://image.tmdb.org/t/p/w200/2EEYAnvBGO3kaNScFsYkQ7nO0Z6.jpg"
+        },
+        {
+            "name": "Alessandro Preziosi",
+            "role": "Yanez de Gomera",
+            "image": "https://image.tmdb.org/t/p/w200/ynBGohkuvPtMMiIJd2oJUr3M67z.jpg"
+        },
+        {
+            "name": "Ed Westwick",
+            "role": "Lord James Brooke",
+            "image": "https://image.tmdb.org/t/p/w200/sI2M7uu76HUkJk562siAK8vt50.jpg"
+        },
+        {
+            "name": "Madeleine Price",
+            "role": "Sani",
+            "image": "https://image.tmdb.org/t/p/w200/oOcfq255ARoE0BQtFJbiJi1Myge.jpg"
+        },
+        {
+            "name": "Owen Teale",
+            "role": "Lord Guillonk",
+            "image": "https://image.tmdb.org/t/p/w200/fEr21q41i2e92wqKdoxeFdbDZva.jpg"
+        },
+        {
+            "name": "John Hannah",
+            "role": "Sergeant Murray",
+            "image": "https://image.tmdb.org/t/p/w200/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/xYTN6eyQbOtkIuMoqtOoduntruR.jpg",
+            "vote_average": 10.0,
             "link": "https://vidmody.com/vs/tt13924304/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/eXcNyjdrRY0IT3Xjg4hRAdTnP5R.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt13924304/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/9d1OydfuEkaEtTwCsWL2eRPbu9G.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt13924304/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/iIABnb1ixMuKdNWfycOsLIaS9aO.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt13924304/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/so8YcBEB3zQPDa2pSQ7Cqj03RtQ.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt13924304/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/b4ywPYnFSjhdAfdCgk9xyMDS0A7.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt13924304/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/s6R3dqOTYLyKMBueun9T0cLaqfQ.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt13924304/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/xk7tK1Jg5Lf1ubghrZd60a3Oswc.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt13924304/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:13:13"
 }

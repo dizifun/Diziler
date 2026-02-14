@@ -2,25 +2,101 @@
     "id": 241388,
     "imdb_id": "tt13968252",
     "name": "Eyes of Wakanda",
+    "original_name": "Eyes of Wakanda",
+    "overview": "Eyes of Wakanda, tarih boyunca cesur Wakandalı savaşçıların maceralarını anlatıyor. Bu dünya çapındaki serüvende kahramanlar, Wakanda'nın düşmanlarının eline geçmiş Vibranyum eserlerini geri almak için tehlikeli görevlere çıkarlar. Onlar Hatut Zeraze ve bu da onların hikayesi.",
     "poster": "https://image.tmdb.org/t/p/w500/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
     "year": "2025",
+    "rating": 6.1,
     "genres": [
         "Animasyon",
         "Aksiyon & Macera",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Disney+",
+        "Animasyon"
+    ],
     "cast": [
-        "Winnie Harlow",
-        "Cress Williams",
-        "Larry Herron",
-        "Adam Gold",
-        "Jacques Colimon"
+        {
+            "name": "Winnie Harlow",
+            "role": "Noni",
+            "image": "https://image.tmdb.org/t/p/w200/gW2RPaNOPcOl3PksCjE8twDsiDd.jpg"
+        },
+        {
+            "name": "Cress Williams",
+            "role": "Nkati / The Lion",
+            "image": "https://image.tmdb.org/t/p/w200/pIOyAg9U0eAUvs8N2Xca7uRKlOe.jpg"
+        },
+        {
+            "name": "Larry Herron",
+            "role": "B'Kai / Memnon",
+            "image": "https://image.tmdb.org/t/p/w200/mihVPLvkS7AQynQM81i4hPXiysJ.jpg"
+        },
+        {
+            "name": "Adam Gold",
+            "role": "Achilles",
+            "image": ""
+        },
+        {
+            "name": "Jacques Colimon",
+            "role": "Basha",
+            "image": "https://image.tmdb.org/t/p/w200/uZchGUV6IcM7HI0sYmTbJMqbLnx.jpg"
+        },
+        {
+            "name": "Jona Xiao",
+            "role": "Jorani / Iron Fist",
+            "image": "https://image.tmdb.org/t/p/w200/bEd5FvgkrZloJ0Vb9A3ijEwEV5f.jpg"
+        },
+        {
+            "name": "Zeke Alton",
+            "role": "Tafari",
+            "image": "https://image.tmdb.org/t/p/w200/2IfNJa7QPwGun8vj0lNyNTzL8MS.jpg"
+        },
+        {
+            "name": "Steve Toussaint",
+            "role": "Kuda",
+            "image": "https://image.tmdb.org/t/p/w200/sNjMpDYLVu6l79iP0olrYDaNlrD.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Aslan'ın İninde",
+            "overview": "Dora Milaje'nin eski bir üyesi, \"Aslan\" olarak bilinen hain bir Wakandalı'yı alt etmeye gönderilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Ex7F84z8fiJKC8X1juNYX3z1oM.jpg",
+            "vote_average": 5.3,
             "link": "https://vidmody.com/vs/tt13968252/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Efsaneler ve Yalanlar",
+            "overview": "Truva Savaşı'nın ortasında bir asker, saklı bir eseri almak için şehrin savunmasını aşmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wjA5EoEmEfacfzrdcJ6JoyNqPFo.jpg",
+            "vote_average": 4.6,
+            "link": "https://vidmody.com/vs/tt13968252/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kayıp Eser",
+            "overview": "Kaçak bir yolcu Altın Şehir'e sızar ve içerideki sırların güvenliğini tehdit eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lRKiS5NhEqquh19eySRWgaZU3Oe.jpg",
+            "vote_average": 5.1,
+            "link": "https://vidmody.com/vs/tt13968252/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Son Panter",
+            "overview": "İki Wakandalı, ya görevlerini tamamlayacak ya da ülkelerine karşı gelip dünyayı kurtaracaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/p7o7jgI2CVKnTS7DMKJ9vmFbzJw.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt13968252/s1/e04"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:15:29"
 }

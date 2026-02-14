@@ -2,23 +2,296 @@
     "id": 194766,
     "imdb_id": "tt14016500",
     "name": "Güzelleştiğim O Yaz",
+    "original_name": "The Summer I Turned Pretty",
+    "overview": "Belly her yaz ailesiyle birlikte Fisher’ların Cousins’daki yazlığına gider. Her yaz hep aynı geçer, ta ki Belly 16 olana dek. İlişkiler sınanacak, acı gerçekler ortaya çıkacak ve Belly sonsuza dek değişecek. İlk kez âşık olmanın, ilk kalp kırılmasının ve büyümenin yazı, Belly’nin güzelleştiği yaz.",
     "poster": "https://image.tmdb.org/t/p/w500/hOvuNfNE78hyScd6okczQxjTXW7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jCcSS9iDpKgll8Kpp7qVhSn0l1f.jpg",
     "year": "2022",
+    "rating": 8.1,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon"
+    ],
     "cast": [
-        "Lola Tung",
-        "Gavin Casalegno",
-        "Christopher Briney",
-        "Sean Kaufman",
-        "Rain Spencer"
+        {
+            "name": "Lola Tung",
+            "role": "Isabel 'Belly' Conklin",
+            "image": "https://image.tmdb.org/t/p/w200/lU5VONHkehpD38Cb3lYawCzZfLj.jpg"
+        },
+        {
+            "name": "Christopher Briney",
+            "role": "Conrad Fisher",
+            "image": "https://image.tmdb.org/t/p/w200/muO3QPpGc5fjg2jLVFpiUa0zGmi.jpg"
+        },
+        {
+            "name": "Gavin Casalegno",
+            "role": "Jeremiah Fisher",
+            "image": "https://image.tmdb.org/t/p/w200/fA2CvlpvJFoX68nOX1hv9Ab8hg2.jpg"
+        },
+        {
+            "name": "Sean Kaufman",
+            "role": "Steven Conklin",
+            "image": "https://image.tmdb.org/t/p/w200/9sMkCOJU6tWIoezXBapA58C4qpH.jpg"
+        },
+        {
+            "name": "Rain Spencer",
+            "role": "Taylor Jewel",
+            "image": "https://image.tmdb.org/t/p/w200/1gb8I7otyQAfCGnAOgnN7vnRaHj.jpg"
+        },
+        {
+            "name": "Jackie Chung",
+            "role": "Laurel Park",
+            "image": "https://image.tmdb.org/t/p/w200/ag7jjCLKVRJg9o1JdldsvFCMawR.jpg"
+        },
+        {
+            "name": "Isabella Briggs",
+            "role": "Denise",
+            "image": "https://image.tmdb.org/t/p/w200/7oIGzfJloE9cXXSkyyStgXzVCaP.jpg"
+        },
+        {
+            "name": "Kristen Connolly",
+            "role": "Lucinda Jewel",
+            "image": "https://image.tmdb.org/t/p/w200/zcI32zxpotOTOYetH0PL7ZoHl6E.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Yaz Evi",
+            "overview": "Yazın ilk gerçek günü: Belly, kardeşi Steven ve annesi Laurel'ın, Belly'nin ikinci annesi gibi olan Susannah Fisher ve oğulları Conrad ve Jeremiah ile kalmak için Cousins Beach'e gittikleri gün. Belly doğduğundan beri Cousins'a gitmektedir, ancak bu yaz ile ilgili bir şeyler Belly'ye farklı hissettirir. Ve eğer ilk gece de bunun bir belirtisiyse Belly hislerinde haklıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8TE0ymzucRjNRWiWujEldNhPDiB.jpg",
+            "vote_average": 8.2,
             "link": "https://vidmody.com/vs/tt14016500/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Yaz Elbisesi",
+            "overview": "Belly'nin sosyeteye takdim edilecek kız olarak alışveriş ve çay partileriyle dolu bu ilk günü, Susannah'nın davetiyesinde evet'i işaretlediğinde doğru seçimi yapıp yapmadığını merak etmesine neden olur. Ancak Cam ortaya çıktığında, Belly için işler değişir. İlklerin yaşanacağı yaz daha yeni başlamaktadır. Bu arada, Steven kendi yaz aşkını yaşar ve bir yazar arkadaşı Laurel'ın ilgisini çeker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kWzX3RBFGHEiSA826Dy1XFIqlb4.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt14016500/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Yaz Geceleri",
+            "overview": "Belly'nin 16. doğum günü ve en iyi arkadaşı Taylor, kutlamaya yardım etmek için Cousins'a gelir. Belly'nin doğum günü her zaman yılın en sevdiği günüdür, ancak bu yıl Taylor'ın ondan sakladığı bir sırla gafil avlanmıştır. Belly'ye sosyeteye takdim balosuna kimi getireceği sorulur. Laurel ve Susannah'nın sırrı sonunda ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rK4K7DRiR5jGpsvS9VlRGRjxIOI.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt14016500/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Yaz Sıcağı",
+            "overview": "4 Temmuz ve babalar, Susannah'nın sahil evindeki yıllık partisi için Cousins'a geldiler. Conrad ve babası arasında tansiyon yükselir. Belly ve Fisher kardeşler margarita yapar ve kargaşa başlar. Daha sonra, Belly yarıda kalan romantik bir an yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vQH99zh3QDEmsKe8JTEHOphGVGS.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt14016500/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Yaz Aldanması",
+            "overview": "Conrad'ın onun için hissettiklerine göre hareket edebileceğine inanan Belly, bir karar verir. Ancak Belly ve Conrad sonunda konuşma fırsatı bulduklarında işler Belly'nin beklediği gibi gitmez ve gözünün yanlış Fisher kardeşte olup olmadığını merak eder. Steven, şehir kulübündeki poker odasında çalışmakla görevlendirilir ve Laurel ile Susannah dışarıda bir gece geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1qlitKds7J936H40NVsyw7VLJyS.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt14016500/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Yaz Gelgitleri",
+            "overview": "Taylor, Cousins Beach hayır amaçlı voleybol turnuvasında oynamak ve Conrad ile Jeremiah arasında kalan Belly'ye yardım etmek için kasabaya döner. Sosyeteye takdim kızlarıyla dolu bir yat partisi felaketle sonuçlanınca Belly'nin kardeşler arasındaki kararı netleşir. Steven, Shayla'nın zengin arkadaşlarıyla boyundan büyük bir işe kalkışır ve Cleveland, Conrad'a duygusal bir anda yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7J4KcNBWcZyUFEPYQ2C1eCBELz8.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt14016500/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Yaz Aşkı",
+            "overview": "Sosyeteye takdim balosu zamanı ama Belly'nin büyük gecesi, Jeremiah, annesinin bütün yaz sakladığı sırrı öğrendiğinde neredeyse mahvolur. Belly dans pistinde tek başına kaldığında, günü kurtarmak için başka biri devreye girer. Susannah ve Laurel'ın sırrının açığa çıkmasıyla sezon, Susannah'nın bir sözü ve Conrad'ın Belly'nin bütün yaz beklediği itirafıyla sona erer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9AwmTlvwnAHNjeiLBXvv7y4G8Mz.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt14016500/s1/e07"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Kayıp aşk",
+            "overview": "Belly, artık geçen yazın sonunda olduğu kız değil. Okulun son günüdür ve zor bir yılın ardından Belly, Steven ve Taylor'la arasını açmaya çalışır, ancak bazı şeyler geride bırakılamayacak kadar büyüktür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ceeiqNUDGFCO1Fjj5S3xe2q0f52.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt14016500/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Aşk Sahnesi",
+            "overview": "Belly, önemli bir arayış için Jeremiah'ya katılır, ancak geçmişleriyle ilgili gerilimin yollarına çıkma tehlikesiyle karşı karşıya kalınca, Conrad'a yardım etmek için aralarındaki uçurumu iyileştirmenin bir yolunu bulmaları gerekir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AbAWZw66DB8WoebfwRe7fuF66yS.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt14016500/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Aşk Acısı",
+            "overview": "Yazlık satılıktır ama Belly, Jeremiah ve Conrad onu o kadar kolay bırakmayacaktır. Conrad gizli bir plan üzerinde çalışırken Belly ve Jeremiah daha dolaysız bir yol dener. Ancak Fisher kardeşlerle Cousins'a dönmek, Belly'nin geçen yılın acı dolu anılarından kaçamayacağı anlamına gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f3G09f15JSWYBZ0KyaZkNSCYO7u.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt14016500/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Aşk Oyunu",
+            "overview": "Aşk ve lunapark oyunlarında her şey mübahtır. Eski ve yeni arkadaşlarla rekabet dolu bir gün, Belly, Conrad ve Jeremiah için büyük duyguları canlandırır ve hepsini etkileyecek daha da büyük bir sürprize yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bI0s6ZZ7rEjWKTKM2oU3eAZobZp.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt14016500/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Aşk Budalası",
+            "overview": "Eve gitmek zorunda değilsin ama burada da kalamazsın. Belly ve çetesi, Julia Teyze tarafından yazlık evden zorla çıkarıldıktan sonra gece için tanıdık bir yere girer. Ancak ortam değişikliği herkesi duygularını dikkate almaya zorlayacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sTS40oM5Wr8DmM8tOGA3Tlum8Wk.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt14016500/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Aşk Bayramı",
+            "overview": "Cousins'ta geçirdikleri süre sona ererken, Belly kendini şunu merak ederken bulur; Susannah Ne Yapardı? Elbette büyük bir parti verirdi. Ancak eğlence onlara ihtiyaç duydukları kapanışı mı getirecek yoksa herkes için yeni sorunlar mı yaratacak?",
+            "still_path": "https://image.tmdb.org/t/p/w400/jrWvvtNwtuE2FRRfK1W2LLeyl6t.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt14016500/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Aşk Macerası",
+            "overview": "Bazı akşamdan kalmalar diğerlerinden daha kötüdür. Belly, dün gece yaptığı hataları hatırlayarak uyanır. Ama her şeyi düzeltmek için çok mu geç?",
+            "still_path": "https://image.tmdb.org/t/p/w400/wxDOYj8mJ1Yh1JRwTmLqzFaeD0Y.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt14016500/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Aşk Üçgeni",
+            "overview": "Acı verici bir sürprizin ardından Belly, Jeremiah ve Conrad, gece boyunca iç içe vaziyette kapana kısılır. Belly'nin geleceğine karar vermek için geçmişi ve bugünü hesaba katması gerektiğinden duyguları tavan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dGTjnpcll0tvSrEP7wIPsqBbd34.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt14016500/s2/e08"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Son Sezon",
+            "overview": "Okul bitmek üzeredir ve Belly sevgilisi Jeremiah'yla Cousins'da başka bir huzurlu yazı iple çekmektedir. Ama şok edici bir gerçeği öğrendikten sonra planları altüst olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/733qUKaR1dGSuIopf3D3kzp9ypD.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Son Noel",
+            "overview": "Yıkıcı bir ihanetin ardından Belly kendini toparlamaya çalışır. Arada kalan Taylor, Steven'la kavga eder ve sonu felaket olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/w4vuEq9fjecuP44nKEuvbnEd9k3.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Son Yemek",
+            "overview": "Belly ve Jeremiah, herkes Susannah'nın anma bahçesi töreni için Cousins'da bir araya gelene dek büyük haberi sır olarak saklamayı planlamaktadır. Conrad hariç herkes.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o3AqGt7Imy2HpLpiqSQUE4iHrhA.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Son Bir Çaba",
+            "overview": "Philly'de tek başına olan Belly 21 yaşına girer. Ama geleceğine dair aile arasındaki anlaşmazlıklar odak noktası olunca özel günü kötü geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iewluo5RBql4HmNIimdEy5rd6e4.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Son Dans",
+            "overview": "Jeremiah ofiste sıkışıp kalmışken Conrad gönülsüzce Belly'yle düğün planlamaya ikna olur. Bir kariyer fırsatı için New York'a gitmekte olan Steven beklenmedik bir yol arkadaşı bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zYv7OrToBnrLi28fVaN78yVFKxv.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Soyad",
+            "overview": "Artık Adam'ın da katıldığı düğün her gün büyümektedir ve Belly bunalır. Ama gelin partisindeki bir sürprizden sonra işler nihayet düzelmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/d6cbupHIpS7ORpnlQArBqQu3Hl4.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Son Eğlence",
+            "overview": "Cousins'da olan Cousins'da kalır. Belly ve Jeremiah, son bir çılgın eğlence için arkadaşlarıyla birlikte şehre gelirler. Ama alkol alındıkça sırlar açığa çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mO1lv6OnzdWzNjF4mVVqal3VBdq.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Son Öpücük",
+            "overview": "Belly ve Jeremiah'nın düğün günü gelip çatmıştır ama Conrad'ın gece sahildeki itirafı mutlu sonlarına çomak sokacaktır. Duygusallık artıp vakit azalırken Belly'nin bir karar vermesi gerekmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fJSSx3ZFciQSWkoLvNozNFemwP4.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "Son Çağrı",
+            "overview": "Düğünde olanlardan sonra Belly bir seçim yapar, bu da onu geleceğini sonsuza dek değiştirecek çılgın bir maceraya sürükler. O sırada Jeremiah, Conrad'la barışmaya ve yeni şartlarını kabullenmeye uğraşmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4fPS0jFkrvGLYtKH6waY38FbMZn.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Son Sene",
+            "overview": "Belly, Paris'te yeni hayatını kurarken bir yıl bir ömür gibi geçmiştir. Evdeyse Jeremiah o olmadan ayakta durmaya çalışmaktadır. California'da Conrad hâlâ Belly'yi aklından çıkaramamaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zXTxA1uJtVP74rp924z2LQxpI7x.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e10"
+        },
+        {
+            "season": 3,
+            "episode": 11,
+            "name": "Sonunda",
+            "overview": "Hayranlık uyandıran epik finalde her yol Paris'e çıkmaktadır. Yaz kızımız Belly'nin 22'inci yaş günü, kutlama için evden birinin gelişiyle beklenmedik bir hâl alır, böylece ardında bıraktığını düşündüğü hayatla yüzleşmesi gerekir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4JSUCKSQz1vKD8QDZ5Qwm8Nuda8.jpg",
+            "vote_average": 9.1,
+            "link": "https://vidmody.com/vs/tt14016500/s3/e11"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:17:49"
 }

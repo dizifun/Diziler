@@ -2,25 +2,164 @@
     "id": 61859,
     "imdb_id": "tt1399664",
     "name": "Gece Müdürü",
+    "original_name": "The Night Manager",
+    "overview": "Eski İngiliz askeri Jonathan Pine, istihbarat topluluğu ile gizli silah ticareti arasında kutsal olmayan bir ittifakın işlediği Whitehall ve Washington'un karanlık girintilerinde dolaşır. Ölümcül silah tüccarı Richard Onslow Roper'ın yakın çevresine sızmak için Pine'ın kendisi bir suçlu olmalıdır.",
     "poster": "https://image.tmdb.org/t/p/w500/tOeeCGFoUDP3UrAzs2SvMRKzQtY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
     "year": "2016",
+    "rating": 7.7,
     "genres": [
         "Dram",
         "Gizem",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon"
+    ],
     "cast": [
-        "Tom Hiddleston",
-        "Hugh Laurie",
-        "Diego Calva",
-        "Camila Morrone",
-        "Paul Chahidi"
+        {
+            "name": "Tom Hiddleston",
+            "role": "Jonathan Pine",
+            "image": "https://image.tmdb.org/t/p/w200/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+        },
+        {
+            "name": "Hugh Laurie",
+            "role": "Richard Roper",
+            "image": "https://image.tmdb.org/t/p/w200/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+        },
+        {
+            "name": "Diego Calva",
+            "role": "Teddy Dos Santos",
+            "image": "https://image.tmdb.org/t/p/w200/k5khi8PwsYs2d7uL0uuO5zenL9R.jpg"
+        },
+        {
+            "name": "Camila Morrone",
+            "role": "Roxana Bolaños",
+            "image": "https://image.tmdb.org/t/p/w200/2Req1uGHE7T48PMwXCWL6PT3VKQ.jpg"
+        },
+        {
+            "name": "Paul Chahidi",
+            "role": "Basil Karapetian",
+            "image": "https://image.tmdb.org/t/p/w200/gwQ5MfY68BvvyIbef3kr2XPilTx.jpg"
+        },
+        {
+            "name": "Hayley Squires",
+            "role": "Sally Price-Jones",
+            "image": "https://image.tmdb.org/t/p/w200/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
+        },
+        {
+            "name": "Indira Varma",
+            "role": "Mayra Cavendish",
+            "image": "https://image.tmdb.org/t/p/w200/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+        },
+        {
+            "name": "Unax Ugalde",
+            "role": "Juan Carrascal",
+            "image": "https://image.tmdb.org/t/p/w200/t4jKbvmXSjMBnZZjNZEr3P46q6s.jpg"
+        },
+        {
+            "name": "Alberto Ammann",
+            "role": "Alejandro Gualteros",
+            "image": "https://image.tmdb.org/t/p/w200/aAKmbGgoE8YLds2sLvpezczeiMY.jpg"
+        },
+        {
+            "name": "Diego Santos",
+            "role": "Martín Álvarez",
+            "image": ""
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Arap Baharının doruk noktasında Kahire'de, otel gece müdürü Jonathan Pine, zarif, çevresi geni? bir misafirden yardım talebi alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4ng5mLHyrxMI8zRHoSJJqplNkmc.jpg",
+            "vote_average": 7.4,
             "link": "https://vidmody.com/vs/tt1399664/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Bir Akdeniz adası olan Mayorka'da, Roper'ın lüks ve sakin hayatı parçalanmaktadır. Alt ay öncesinde, Burr Pine'ı yetiştirmeye devam ediyor ve onu, Devon'a sahte özgeçmişini oluşturmak üzere gönderiyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hRjoOwWuFzZijYRbmB8yXSvKJIz.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1399664/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Roper'ın villasını yenilemeye devam ederken, Pine ev halkının diğer üyelerinin sırlarını araştırmaya başlıyor. Bu sırada, Burr ve Steadman yeni bir değer kazanma fırsatını değerlendiriyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v0UGr8jALT2YE2SZEtYHsxBhHmC.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1399664/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Roper, Corky'yi dışarıda bırakarak Pine'ı yakın çevresine kabul ediyor. Bu sırada, önemli bir bilginin River House'a sızdırılması sebebiyle Burr'ün kaynağına iliş?kin kaygıları oluşuyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/51H0MmEvnO0bXh6k4FWiasHTscz.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1399664/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Şüphelenen Roper'ın, tayfasını toplayarak haini ortaya çıkarmaya çalışması Pine'ı tehlikeli bir oyun oynamaya itiyor. Londra'da Burr ve Steadman hükümet tarafında güçlenen bir muhalefetle yüzleşiyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r6z5AsiwK9Er0z0LbSxLJIAtmU4.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1399664/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Roper ve takımı anlaşma için Kahire'ye dönüyor, Pine eski bir düşmanla birleşiyor. Pine, planını hayata geçirmek için her şeyi riske atıyor. İtibarını yitiren Burr son hamlesini yapıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fYXi80kLHo96Yq28QrpuRx01C0I.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1399664/s1/e06"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "2026. Jonathan Pine, Mısır'da Richard Roper'ı kandırıp onu tutsak eden Suriyelilerin eline teslim edeli dokuz yıl olmuştur. Artık Roper ölü, Jonathan Pine ise Alex Goodwin adıyla MI6'te düşük rütbeli bir istihbarat ajanıdır. Pine, Londra'da eski bir Roper paralı askeriyle karşılaşınca yeni güvenli hayatı paramparça olmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cSlQHQ8oah5yrMrgzl93FuYhppi.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1399664/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Pine kaçak durumda yeni bir kimliğe bürünür. Matthew Ellis adıyla Kolombiya'ya gidip Teddy Dos Santos'un operasyonuna sızar ve Cartagena'ya yapılacak sevkiyatın gizemini ortaya çıkarmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qLi8AHz6CD0uhd8FZ74aClHATqc.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1399664/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Pine, Roxana'nın yardımıyla daha derinlere sızar, Teddy'nin güvenini kazanır ve Cartagena sevkiyatını gizli Britanya istihbarat çıkarlarıyla ilişkilendirmek için ihtiyaç duyduğu kanıtı elde eder. Ama işler ters gitmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3RJzYuH7llNUDiwaAkksVhdiR0N.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1399664/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Pine, Kolombiya hükümetini devirmeye yönelik Britanya destekli planı açığa çıkaracak kanıtı ele geçirmiştir. Ama Teddy artık Matthew Ellis'e güvenmez, Roxana tehdit altındadır ve ölümcül yerel silah tüccarı Gilberto Hanson Pine'ın peşindedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4ne2Z5JZCv8CPQPIHtfDOZcFYER.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1399664/s2/e04"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 05:17:01"
 }

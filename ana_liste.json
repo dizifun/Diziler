@@ -1,5 +1,1651 @@
 [
     {
+        "id": 125988,
+        "imdb_id": "tt14688458",
+        "name": "Silo",
+        "original_name": "Silo",
+        "overview": "Mahvolmuş ve zehirli bir gelecekte, binlerce kişi yeraltının derinliklerindeki dev bir siloda yaşamaktadır. Silo'nun şerifi temel bir kuralı çiğnedikten ve sakinler gizemli bir şekilde ölmeye başladıktan sonra mühendis Juliette, Silo hakkındaki şok edici sırları ve gerçeği ortaya çıkarmaya başlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/c2OijvbFEXBW1onbzuvENr4CGQB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+        "year": "2023",
+        "rating": 8.1,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü"
+        ],
+        "cast": [
+            {
+                "name": "Rebecca Ferguson",
+                "role": "Juliette Nichols",
+                "image": "https://image.tmdb.org/t/p/w200/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+            },
+            {
+                "name": "Common",
+                "role": "Robert Sims",
+                "image": "https://image.tmdb.org/t/p/w200/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+            },
+            {
+                "name": "Harriet Walter",
+                "role": "Martha Walker",
+                "image": "https://image.tmdb.org/t/p/w200/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+            },
+            {
+                "name": "Chinaza Uche",
+                "role": "Paul Billings",
+                "image": "https://image.tmdb.org/t/p/w200/5fbbLI9BPiByyIIRYu9pbRQwyUN.jpg"
+            },
+            {
+                "name": "Avi Nash",
+                "role": "Lukas Kyle",
+                "image": "https://image.tmdb.org/t/p/w200/xmdcJQVhrnFdTv9KkrU3EnBWFfV.jpg"
+            },
+            {
+                "name": "Rick Gomez",
+                "role": "Patrick Kennedy",
+                "image": "https://image.tmdb.org/t/p/w200/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg"
+            },
+            {
+                "name": "Tim Robbins",
+                "role": "Bernard Holland",
+                "image": "https://image.tmdb.org/t/p/w200/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+            },
+            {
+                "name": "Shane McRae",
+                "role": "Knox",
+                "image": "https://image.tmdb.org/t/p/w200/ixNSdZDJ6fZzZc2Pdx4Dwr8wHir.jpg"
+            },
+            {
+                "name": "Billy Postlethwaite",
+                "role": "Hank",
+                "image": "https://image.tmdb.org/t/p/w200/cpHNAqOBP8SIcml1A8ODmtuEyNh.jpg"
+            },
+            {
+                "name": "Remmie Milner",
+                "role": "Shirley",
+                "image": "https://image.tmdb.org/t/p/w200/4LDy6vhBZ11kOevBdAGBRM34d3L.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Özgürlük Günü",
+                "overview": "Şerif Becker'ın gelecek planları, karısının Silo hakkında bilgi veren bir hacker'la karşılaşmasıyla altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Holston'ın Seçimi",
+                "overview": "Bir mühendis olan Juliette, bir iş arkadaşının gizemli ölümüne neden olabilecek şeyleri bir araya getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Makineler",
+                "overview": "Yeni bir şerif arayışında olan Belediye Başkanı Jahns, Bernard'la çatışır. Juliette, jeneratörün çalışır durumda kalması için bir anlaşma yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8hQB4jxk9ydj55Mrl9sY95smV7.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Gerçek",
+                "overview": "Juliette, son yaşanan trajedilerle ilgili gerçeği ortaya çıkarmak için çabalarken Şerif Yardımcısı Marnes'ın güvenini kazanmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Hademenin Oğlu",
+                "overview": "Sims, iki cinayeti çözme çabaları bir hesaplaşmaya yol açan Juliette'i takip etmesi için Billings'i baş yardımcısı olarak atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Obje",
+                "overview": "Juliette, araştırması sırasında, tanıdığını sandığı biri hakkında rahatsız edici sırlar keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Alev Koruyucular",
+                "overview": "Silo'nun güvenliği konusunda giderek daha fazla endişelenen Bernard, Juliette'le iş birliği yapmaya çalışır. Juliette babasından bir iyilik ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Hanna",
+                "overview": "Yeni bilgiler, Juliette'in ailesinin geçmişini farklı bir şekilde görmesine neden olur ve sonunda Silo'nun en büyük sırlarına erişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sZaeOvZYS4evALQtm2wfC3eJxit.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Kaçış",
+                "overview": "Suçluluk duygusuyla boğuşan Billings, kişisel bir göreve çıkar ve Juliette'ten akıllara durgunluk veren bir ipucu alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Dışarısı",
+                "overview": "Bazı gerçekler nihayet gün ışığına çıktığında Juliette'in kaderi de kesinleşmiş gibidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Mühendis",
+                "overview": "Juliette, uzun zaman önce savaşta yıkılmış bir siloya sığınır ve orada yalnız olduğunu düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Düzen",
+                "overview": "Silo 18'de, Juliette'in daha önce kimsenin yapmadığı bir şeyi yapmasının ardından şok ve huzursuzluk baş gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Solo",
+                "overview": "Bernard yardım için Yargıç Meadows'a başvurur. Billings kendisine yalan söylenip söylenmediğini merak etmeye başlar. Juliette nihayet kasadaki adamla görüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dY1nJnRuuhC0stZqNWShBYqk93H.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Harmonyum",
+                "overview": "Juliette, eve dönebilmek ve silosunu kurtarabilmek amacıyla, bir kıyafeti geri almak üzere tehlikeli bir maceraya atılır. Mekanik, Yargıç Meadows'la bir toplantı planlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "İniş",
+                "overview": "Sims kendini yeni bir pozisyonda bulur. Juliette, Solo'nun dürüst davranmadığını öğrenir. Bernard ve Lukas önemli bir keşif yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Barikatlar",
+                "overview": "Bernard, Knox, Shirley ve Walker'ı yok etmek için bir plan yapar. Billings tavrını koyar. Solo, Juliette'in hayatını kurtarır ve karşılığında bir şey ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aAPo83kOC5mfgcOado49ijWITVo.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Dalış",
+                "overview": "Lukas'a bir görev verilir. Mekanik, güçlü bir mesaj yollar. Juliette tehlikeli bir inişe başlar ve yeni bir tehlikeyle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Quinn'in Kitabı",
+                "overview": "Juliette, Solo'ya bir şey olduğunu keşfeder. Bernard, Walker'a bir teklif yapar. Lukas, Salvador Quinn'in torunlarıyla buluşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Safeguard",
+                "overview": "Billings'in inancı sarsılır. Lukas En-Derin'e iner. Knox, hainin kimliğini tespit eder. Juliette, Solo'nun geçmişiyle ilgili gerçeği ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aNgT4AEffmGwiabRD03riCz1aWr.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "Ateşin İçine",
+                "overview": "Asiler harekete geçer, Juliette de öyle.",
+                "still_path": "https://image.tmdb.org/t/p/w400/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e10"
+            }
+        ],
+        "update_date": "2026-02-14 05:57:48"
+    },
+    {
+        "id": 222031,
+        "imdb_id": "tt14371926",
+        "name": "Apples Never Fall",
+        "original_name": "Apples Never Fall",
+        "overview": "Bir ailenin gizemli geçmişi aydınlatılıyor; Joy Delaney'nin aniden kaybolmasıyla birlikte, dışarıdan mükemmel görünen bir ailenin tüm sırları ve sorunları gün yüzüne çıkar.",
+        "poster": "https://image.tmdb.org/t/p/w500/goa4saZkf8r4zmBNgS6IiiPxEEN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/kIZSGDWks6lr4ufnqBEsxLutHbX.jpg",
+        "year": "2024",
+        "rating": 6.1,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü"
+        ],
+        "cast": [
+            {
+                "name": "Annette Bening",
+                "role": "Joy Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg"
+            },
+            {
+                "name": "Sam Neill",
+                "role": "Stan Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+            },
+            {
+                "name": "Jake Lacy",
+                "role": "Troy Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/qU6n9EaesBGqhNLlj5BecUrb5LW.jpg"
+            },
+            {
+                "name": "Alison Brie",
+                "role": "Amy Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+            },
+            {
+                "name": "Conor Merrigan-Turner",
+                "role": "Logan Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/pfh9m2YZOuJotJ1dXvGt0BzmXCg.jpg"
+            },
+            {
+                "name": "Essie Randles",
+                "role": "Brooke Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/g4zurnd46hTH8ziCk9p6kGy1On6.jpg"
+            },
+            {
+                "name": "Georgia Flood",
+                "role": "Savannah",
+                "image": "https://image.tmdb.org/t/p/w200/6JBj1jy4csuF9sdWRSJuch7595w.jpg"
+            },
+            {
+                "name": "Jeanine Serralles",
+                "role": "Elena Camacho",
+                "image": "https://image.tmdb.org/t/p/w200/2Z1maLxjI1z8uJVcp92ZIcLacob.jpg"
+            },
+            {
+                "name": "Dylan Thuraisingham",
+                "role": "Ethan Remy",
+                "image": "https://image.tmdb.org/t/p/w200/yc4yNyzZu7P4mDynxAyClxn2c24.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Delaney ailesinin reisi aniden ortadan kaybolur. Dört kardeş anne ve babaları hakkında bildiklerini sandıkları her şeyi bir araya getirmek zorunda kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y0ItvtlpBA2ni5E4uuUnljB4jxf.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Joy'u arama çalışmaları yoğunlaştıkça oğlu Logan, polisleri kendi ailesinden uzaklaştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/29c8d8oL1RqyXZ8zBpwWFbLQY6w.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Amy, annesini eve getirebilmek için bir umuda tutunur. Topluluğu bir araya toplar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1Qcfj915LuyUMJOYjgdPLDmon8C.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Bir kasırga sırasında Brooke, şeytanlarıyla yüzleşir. Bu esnada dedektifler yeni ipucunun peşindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ldaqA6OMYZ9HMwjKwdTHTNVTHvk.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Troy, önemli bir bilgi sakladığını bilen polislerden kaçarken riskli bir karar alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g6oOY1FdWS0wQBCjBoodtgJl3FH.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Stan'in dengesiz davranışları şüpheleri artırır. Ortaya yeni ve yıkıcı bir kanıt çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jQNtcd6WT9k4RmN5g0yDenKgfQm.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Bir tutuklama, Joy'un başına gelenleri ortaya çıkarır ve toplumu şok eder. Delenay ailesini ise paramparça eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jTtQBqGCXFN73RKVq0mLN7ulj3Q.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e07"
+            }
+        ],
+        "update_date": "2026-02-14 05:37:17"
+    },
+    {
+        "id": 157741,
+        "imdb_id": "tt14186672",
+        "name": "Landman",
+        "original_name": "Landman",
+        "overview": "Batı Teksas'ın petrol kuleleri dünyasında servet arayışının modern bir hikayesi. Doğanın sınırlarını zorlayan bu dünyada, zenginlik ve güç peşinde verilen mücadele hem kişisel hem de ahlaki bir sınav haline geliyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+        "year": "2024",
+        "rating": 8.0,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Billy Bob Thornton",
+                "role": "Tommy Norris",
+                "image": "https://image.tmdb.org/t/p/w200/i5EKWHuXokznIDMy2prTXzRmklI.jpg"
+            },
+            {
+                "name": "Demi Moore",
+                "role": "Cami Miller",
+                "image": "https://image.tmdb.org/t/p/w200/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+            },
+            {
+                "name": "Andy Garcia",
+                "role": "Gallino",
+                "image": "https://image.tmdb.org/t/p/w200/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+            },
+            {
+                "name": "Ali Larter",
+                "role": "Angela Norris",
+                "image": "https://image.tmdb.org/t/p/w200/2HOlaSd30yBCrr366GfPG2PF6D8.jpg"
+            },
+            {
+                "name": "Jacob Lofland",
+                "role": "Cooper Norris",
+                "image": "https://image.tmdb.org/t/p/w200/jU1eW9oOTC4ILfLNFeNUC7Fa5ya.jpg"
+            },
+            {
+                "name": "Michelle Randolph",
+                "role": "Ainsley Norris",
+                "image": "https://image.tmdb.org/t/p/w200/5W3DB2THOjE4L4Hhc68CzcQiwuK.jpg"
+            },
+            {
+                "name": "Paulina Chávez",
+                "role": "Ariana Medina",
+                "image": "https://image.tmdb.org/t/p/w200/tKF77iTnLu3HwTFKJRAYmoiVcFL.jpg"
+            },
+            {
+                "name": "Kayla Wallace",
+                "role": "Rebecca Falcone",
+                "image": "https://image.tmdb.org/t/p/w200/ePl7sXtyWIQsWsylyQBTxYsouKF.jpg"
+            },
+            {
+                "name": "Mark Collie",
+                "role": "Sheriff Walt Joeberg",
+                "image": "https://image.tmdb.org/t/p/w200/52rYCRzJ2bhQMqfvLDvfV23UzdL.jpg"
+            },
+            {
+                "name": "James Jordan",
+                "role": "Dale Bradley",
+                "image": "https://image.tmdb.org/t/p/w200/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "LANDMAN, petrol dünyasında servet peşinde koşan bir modern zaman hikâyesidir. Teksas'ın kalbinde zor durumdaki bir yönetici olan Tommy Norris, yakıt patlaması sırasında şirketini zirveye taşımaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qc8w4HacpHfaEWlqXUEg3Yi9VRx.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Tommy, petrol sahasında yaşanan bir trajedinin sonuçlarıyla uğraşır. Ainsley'nin petrol evine taşınmasıyla dinamikler bozulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wpUBXa1BXxJBEhZb5PVivaZjdcB.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Cooper petrol sahasında bir etki yaratır. Eski karısı Angela'nın kasabaya gelmesiyle Tommy için işler karışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pQwZ7X5RO4KUJRkq6OTbXnk03SU.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Sarsıcı bir ilk izlenimin ardından Rebecca, Tommy'yi savunmaya geçer. Cooper beklenmedik bir telefon alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1pYRB0KByeTVGLtCEmYoXDIHmzg.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Tommy ve ekibi tarlada istenmeyen bir ziyaretle karşılaşır. Angela petrol evinde aile yemeğine ev sahipliği yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ffO8Wgjb34vQMUdLt5gSjOXUDW3.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Angela, Victor'u ziyarete gittiğinde hazırlıksız yakalanır. Norris ailesi, Cooper'ın zor zamanlarında onun yanında yer alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/erWJ12DOjPEOCMEWBN20ITcxOUz.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Tommy'nin kartel sorunu büyümeye devam ediyor. Angela ve Ainsley topluluklarını tanımaya başlıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pwiyqyrdeorso3pyygV8S85bKuz.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Tommy Ulusal Muhafızlara bağlanır. Rebecca, Cooper'dan giderek daha fazla şüphelenmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qPMvbqTdaXSGlWuDAku4FES0ZK6.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Bir sağlık sorunu yaşayan Monty, Tommy'yi zor bir duruma sokar. Cooper bir plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e49HHIF6l89zJKaA7ce3VOtrYG2.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Tommy ve Cami kumar mı oynayacaklarını yoksa güvenli mi oynayacaklarını tartışırlar. Kartel bir hamle yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/z8fQOBRAPGw930PwgpN6zdMFMnf.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Ölüm ve Gün Batımı",
+                "overview": "Tommy gergin bir ortamda ilerlerken Cami kontrolü ele geçiriyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iLKi6iXGMjb1LMUgHjzLSn5asx2.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s2/e01"
+            }
+        ],
+        "update_date": "2026-02-14 05:28:06"
+    },
+    {
+        "id": 122781,
+        "imdb_id": "tt14164922",
+        "name": "Asteriks ve Oburiks: Şefler Savaşı",
+        "original_name": "Astérix & Obélix : Le Combat des chefs",
+        "overview": "Büyücüleri sihirli iksirin tarifini unutunca Galyalıları savunmak Asteriks ve Oburiks'e düşer. Sezar bu sırada eski bir kanunu onlara karşı kullanma planları yapmaktadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/hqfDMxW32mUXvyw8tVACpNb3oTU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/rLUC7hOsXtYCg1DfUIVpnes4VJX.jpg",
+        "year": "2025",
+        "rating": 7.8,
+        "genres": [
+            "Animasyon",
+            "Aksiyon & Macera",
+            "Komedi",
+            "Bilim Kurgu & Fantazi",
+            "Aile"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix",
+            "Animasyon"
+        ],
+        "cast": [
+            {
+                "name": "Alain Chabat",
+                "role": "Astérix (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/xRjymE6LIJd0useKWN2R1WgKDRy.jpg"
+            },
+            {
+                "name": "Gilles Lellouche",
+                "role": "Obélix (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/5Ka9nodCWS6TRFJnmosjp9sV3iA.jpg"
+            },
+            {
+                "name": "Anaïs Demoustier",
+                "role": "Metadata (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/kObYOu3UYkNcQGg1gnl4xitwhNc.jpg"
+            },
+            {
+                "name": "Laurent Lafitte",
+                "role": "César (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+            },
+            {
+                "name": "Thierry Lhermitte",
+                "role": "Panoramix (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/50kQVqmD1XnGRlgTPsVRhECaRae.jpg"
+            },
+            {
+                "name": "Géraldine Nakache",
+                "role": "Bonemine (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/mlJZWY6ZuCNklAeubVsv4ejJtNR.jpg"
+            },
+            {
+                "name": "Jean-Pascal Zadi",
+                "role": "Potus (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/wkI3RmKxNMtxNBOfSpgMgQsR53K.jpg"
+            },
+            {
+                "name": "Grégoire Ludig",
+                "role": "Abraracourcix (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/4rQhpGNkgmgEmayXL6U1ngky6C9.jpg"
+            },
+            {
+                "name": "David Marsais",
+                "role": "Bibus (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/kcCsrBy6zilmuISCOPti7Wje9YU.jpg"
+            },
+            {
+                "name": "Jérôme Commandeur",
+                "role": "Maman César / Blackangus  (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/2ptEZLHL5VIfsn02D8VIsoeOK30.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Bölüm I",
+                "overview": "Bu sefer sene M.Ö. 50 değil, tam 28 sene öncesi... Galya'nın bir köyünde, Büyüfiks sihirli bir iksir yapmaya çalışır. O sırada Oburiks'in henüz süper insan gücü yoktur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/z5oy1f1prjCByJ8yRqEoHlLkfmO.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt14164922/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Bölüm II",
+                "overview": "Dikbaşlı Galyalıları mağlup etmeyi kafasına koyan Sezar, onların kanunlarını onlara karşı kullanmaya karar verir. Büyüfiks, ormanda sinir bozucu birkaç Romalı ile karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r3pwxf7yFoxEnPXfahbCVIziCCR.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14164922/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Bölüm III",
+                "overview": "Bir Galya-Roma şefi Toptoriks'e meydan okur. Bu sırada Romalı bir komutan sihirli iksiri yapmaya çalışırken çeşitli patlamalara yol açan Büyüfiks'i gizlice gözetler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nkycX30qB20mxW6Pm0f6MU3zuBy.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt14164922/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Bölüm IV",
+                "overview": "İki şef arasındaki savaş hızla yaklaşırken Galyalılar kazanmak için farklı bir yola başvurmayı planlar. Ancak bu plan, Asteriks ile Oburiks'in arasını iyice açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kEB58UQ10qikeVH1zrUHHBRa4jE.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt14164922/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Bölüm V",
+                "overview": "Romalılar kalleşçe planlarını uygulamaya hazırlanırken Metadata kendi bağlılığını sorgular. Asteriks ise köyü kurtarmak için ne mümkünse yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2BFE4PN4AyEklT3E8fIBJJKcq1v.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt14164922/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-14 05:26:54"
+    },
+    {
+        "id": 195822,
+        "imdb_id": "tt14117010",
+        "name": "Keep Breathing",
+        "original_name": "Keep Breathing",
+        "overview": "Kanada'nın vahşi doğasının ortasına düşen küçük bir uçaktan kurtulan bir kadın, hayatta kalmak için doğayla ve kişisel sorunlarıyla mücadele eder.",
+        "poster": "https://image.tmdb.org/t/p/w500/6t0hmlr5jLauJJp2WsB5DsKntYq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/i8jlzgfgj9e9eR0IvhDQUhqlIRV.jpg",
+        "year": "2022",
+        "rating": 6.1,
+        "genres": [
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Melissa Barrera",
+                "role": "Liv Rivera",
+                "image": "https://image.tmdb.org/t/p/w200/5oeFHUwrFz2UylWdYEXXJxfUUqL.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Varış",
+                "overview": "Uçuşu iptal edildikten sonra Inuvik'e gitmek için her yolu deneyen New Yorklu avukat Liv Rivera, küçük bir özel uçak bulmayı başarır. Ardından bir felaket yaşanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/q6oyKrOxEAhiKotmYdZVjnwG0K9.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt14117010/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Su ve Ateş",
+                "overview": "Uçağı buz gibi suyun dibinde olan Liv, önemli malzemeleri almak için gölün dibine dalarken geçmişte kalan dertleri tekrar su yüzüne çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5Vk5lTFU0GVeOqWd40lDWoaBDjX.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt14117010/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "İhtiyaçlar Hiyerarşisi",
+                "overview": "Vahşi doğanın ortasındaki Liv yiyecek, ateş, su ve barınacak yer bulmaya çalışır. Liv'in acı dolu geçmişi ve bu seyahate çıkma nedeni geri dönüşlerle anlatılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7ZYILDu1tmOWGT4x66jTynAPMAy.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt14117010/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Ayrılış",
+                "overview": "Çocukluk hatıraları, önceki gece gördüğü ışığı bulmak için ormanın içine dalan Liv'e bir yandan yardımcı olurken bir yandan onu engeller.",
+                "still_path": "https://image.tmdb.org/t/p/w400/607Anj72SIy4r4PVWVAxZ3ABovH.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt14117010/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Gidip Gelen Bilinç",
+                "overview": "Düştüğü tuzakta bilinci gidip gelen Liv, hayatta kalmak için savaşmaya devam etmekle her şeyden vazgeçmek arasında karar vermeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/FeTaBMo7Ru5FnJ1AWT6vWlADNC.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt14117010/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Evdesin",
+                "overview": "Liv müthiş bir gayret gösterir ve bir dizi göz korkutucu zorlukla karşılaşır. Ancak sevdikleri bir bir aklına gelmeye başlayınca umut bulur ve düşünceleri netleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/anYIWF3NTOGihUAKwo6A0HXTFR6.jpg",
+                "vote_average": 3.0,
+                "link": "https://vidmody.com/vs/tt14117010/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-14 05:23:43"
+    },
+    {
+        "id": 194766,
+        "imdb_id": "tt14016500",
+        "name": "Güzelleştiğim O Yaz",
+        "original_name": "The Summer I Turned Pretty",
+        "overview": "Belly her yaz ailesiyle birlikte Fisher’ların Cousins’daki yazlığına gider. Her yaz hep aynı geçer, ta ki Belly 16 olana dek. İlişkiler sınanacak, acı gerçekler ortaya çıkacak ve Belly sonsuza dek değişecek. İlk kez âşık olmanın, ilk kalp kırılmasının ve büyümenin yazı, Belly’nin güzelleştiği yaz.",
+        "poster": "https://image.tmdb.org/t/p/w500/hOvuNfNE78hyScd6okczQxjTXW7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/jCcSS9iDpKgll8Kpp7qVhSn0l1f.jpg",
+        "year": "2022",
+        "rating": 8.1,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon"
+        ],
+        "cast": [
+            {
+                "name": "Lola Tung",
+                "role": "Isabel 'Belly' Conklin",
+                "image": "https://image.tmdb.org/t/p/w200/lU5VONHkehpD38Cb3lYawCzZfLj.jpg"
+            },
+            {
+                "name": "Christopher Briney",
+                "role": "Conrad Fisher",
+                "image": "https://image.tmdb.org/t/p/w200/muO3QPpGc5fjg2jLVFpiUa0zGmi.jpg"
+            },
+            {
+                "name": "Gavin Casalegno",
+                "role": "Jeremiah Fisher",
+                "image": "https://image.tmdb.org/t/p/w200/fA2CvlpvJFoX68nOX1hv9Ab8hg2.jpg"
+            },
+            {
+                "name": "Sean Kaufman",
+                "role": "Steven Conklin",
+                "image": "https://image.tmdb.org/t/p/w200/9sMkCOJU6tWIoezXBapA58C4qpH.jpg"
+            },
+            {
+                "name": "Rain Spencer",
+                "role": "Taylor Jewel",
+                "image": "https://image.tmdb.org/t/p/w200/1gb8I7otyQAfCGnAOgnN7vnRaHj.jpg"
+            },
+            {
+                "name": "Jackie Chung",
+                "role": "Laurel Park",
+                "image": "https://image.tmdb.org/t/p/w200/ag7jjCLKVRJg9o1JdldsvFCMawR.jpg"
+            },
+            {
+                "name": "Isabella Briggs",
+                "role": "Denise",
+                "image": "https://image.tmdb.org/t/p/w200/7oIGzfJloE9cXXSkyyStgXzVCaP.jpg"
+            },
+            {
+                "name": "Kristen Connolly",
+                "role": "Lucinda Jewel",
+                "image": "https://image.tmdb.org/t/p/w200/zcI32zxpotOTOYetH0PL7ZoHl6E.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Yaz Evi",
+                "overview": "Yazın ilk gerçek günü: Belly, kardeşi Steven ve annesi Laurel'ın, Belly'nin ikinci annesi gibi olan Susannah Fisher ve oğulları Conrad ve Jeremiah ile kalmak için Cousins Beach'e gittikleri gün. Belly doğduğundan beri Cousins'a gitmektedir, ancak bu yaz ile ilgili bir şeyler Belly'ye farklı hissettirir. Ve eğer ilk gece de bunun bir belirtisiyse Belly hislerinde haklıdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8TE0ymzucRjNRWiWujEldNhPDiB.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt14016500/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Yaz Elbisesi",
+                "overview": "Belly'nin sosyeteye takdim edilecek kız olarak alışveriş ve çay partileriyle dolu bu ilk günü, Susannah'nın davetiyesinde evet'i işaretlediğinde doğru seçimi yapıp yapmadığını merak etmesine neden olur. Ancak Cam ortaya çıktığında, Belly için işler değişir. İlklerin yaşanacağı yaz daha yeni başlamaktadır. Bu arada, Steven kendi yaz aşkını yaşar ve bir yazar arkadaşı Laurel'ın ilgisini çeker.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kWzX3RBFGHEiSA826Dy1XFIqlb4.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt14016500/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Yaz Geceleri",
+                "overview": "Belly'nin 16. doğum günü ve en iyi arkadaşı Taylor, kutlamaya yardım etmek için Cousins'a gelir. Belly'nin doğum günü her zaman yılın en sevdiği günüdür, ancak bu yıl Taylor'ın ondan sakladığı bir sırla gafil avlanmıştır. Belly'ye sosyeteye takdim balosuna kimi getireceği sorulur. Laurel ve Susannah'nın sırrı sonunda ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rK4K7DRiR5jGpsvS9VlRGRjxIOI.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14016500/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Yaz Sıcağı",
+                "overview": "4 Temmuz ve babalar, Susannah'nın sahil evindeki yıllık partisi için Cousins'a geldiler. Conrad ve babası arasında tansiyon yükselir. Belly ve Fisher kardeşler margarita yapar ve kargaşa başlar. Daha sonra, Belly yarıda kalan romantik bir an yaşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vQH99zh3QDEmsKe8JTEHOphGVGS.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt14016500/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Yaz Aldanması",
+                "overview": "Conrad'ın onun için hissettiklerine göre hareket edebileceğine inanan Belly, bir karar verir. Ancak Belly ve Conrad sonunda konuşma fırsatı bulduklarında işler Belly'nin beklediği gibi gitmez ve gözünün yanlış Fisher kardeşte olup olmadığını merak eder. Steven, şehir kulübündeki poker odasında çalışmakla görevlendirilir ve Laurel ile Susannah dışarıda bir gece geçirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1qlitKds7J936H40NVsyw7VLJyS.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14016500/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Yaz Gelgitleri",
+                "overview": "Taylor, Cousins Beach hayır amaçlı voleybol turnuvasında oynamak ve Conrad ile Jeremiah arasında kalan Belly'ye yardım etmek için kasabaya döner. Sosyeteye takdim kızlarıyla dolu bir yat partisi felaketle sonuçlanınca Belly'nin kardeşler arasındaki kararı netleşir. Steven, Shayla'nın zengin arkadaşlarıyla boyundan büyük bir işe kalkışır ve Cleveland, Conrad'a duygusal bir anda yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7J4KcNBWcZyUFEPYQ2C1eCBELz8.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt14016500/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Yaz Aşkı",
+                "overview": "Sosyeteye takdim balosu zamanı ama Belly'nin büyük gecesi, Jeremiah, annesinin bütün yaz sakladığı sırrı öğrendiğinde neredeyse mahvolur. Belly dans pistinde tek başına kaldığında, günü kurtarmak için başka biri devreye girer. Susannah ve Laurel'ın sırrının açığa çıkmasıyla sezon, Susannah'nın bir sözü ve Conrad'ın Belly'nin bütün yaz beklediği itirafıyla sona erer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9AwmTlvwnAHNjeiLBXvv7y4G8Mz.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14016500/s1/e07"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Kayıp aşk",
+                "overview": "Belly, artık geçen yazın sonunda olduğu kız değil. Okulun son günüdür ve zor bir yılın ardından Belly, Steven ve Taylor'la arasını açmaya çalışır, ancak bazı şeyler geride bırakılamayacak kadar büyüktür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ceeiqNUDGFCO1Fjj5S3xe2q0f52.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14016500/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Aşk Sahnesi",
+                "overview": "Belly, önemli bir arayış için Jeremiah'ya katılır, ancak geçmişleriyle ilgili gerilimin yollarına çıkma tehlikesiyle karşı karşıya kalınca, Conrad'a yardım etmek için aralarındaki uçurumu iyileştirmenin bir yolunu bulmaları gerekir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AbAWZw66DB8WoebfwRe7fuF66yS.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt14016500/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Aşk Acısı",
+                "overview": "Yazlık satılıktır ama Belly, Jeremiah ve Conrad onu o kadar kolay bırakmayacaktır. Conrad gizli bir plan üzerinde çalışırken Belly ve Jeremiah daha dolaysız bir yol dener. Ancak Fisher kardeşlerle Cousins'a dönmek, Belly'nin geçen yılın acı dolu anılarından kaçamayacağı anlamına gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f3G09f15JSWYBZ0KyaZkNSCYO7u.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14016500/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Aşk Oyunu",
+                "overview": "Aşk ve lunapark oyunlarında her şey mübahtır. Eski ve yeni arkadaşlarla rekabet dolu bir gün, Belly, Conrad ve Jeremiah için büyük duyguları canlandırır ve hepsini etkileyecek daha da büyük bir sürprize yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bI0s6ZZ7rEjWKTKM2oU3eAZobZp.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt14016500/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Aşk Budalası",
+                "overview": "Eve gitmek zorunda değilsin ama burada da kalamazsın. Belly ve çetesi, Julia Teyze tarafından yazlık evden zorla çıkarıldıktan sonra gece için tanıdık bir yere girer. Ancak ortam değişikliği herkesi duygularını dikkate almaya zorlayacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sTS40oM5Wr8DmM8tOGA3Tlum8Wk.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14016500/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Aşk Bayramı",
+                "overview": "Cousins'ta geçirdikleri süre sona ererken, Belly kendini şunu merak ederken bulur; Susannah Ne Yapardı? Elbette büyük bir parti verirdi. Ancak eğlence onlara ihtiyaç duydukları kapanışı mı getirecek yoksa herkes için yeni sorunlar mı yaratacak?",
+                "still_path": "https://image.tmdb.org/t/p/w400/jrWvvtNwtuE2FRRfK1W2LLeyl6t.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt14016500/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Aşk Macerası",
+                "overview": "Bazı akşamdan kalmalar diğerlerinden daha kötüdür. Belly, dün gece yaptığı hataları hatırlayarak uyanır. Ama her şeyi düzeltmek için çok mu geç?",
+                "still_path": "https://image.tmdb.org/t/p/w400/wxDOYj8mJ1Yh1JRwTmLqzFaeD0Y.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt14016500/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Aşk Üçgeni",
+                "overview": "Acı verici bir sürprizin ardından Belly, Jeremiah ve Conrad, gece boyunca iç içe vaziyette kapana kısılır. Belly'nin geleceğine karar vermek için geçmişi ve bugünü hesaba katması gerektiğinden duyguları tavan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dGTjnpcll0tvSrEP7wIPsqBbd34.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt14016500/s2/e08"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Son Sezon",
+                "overview": "Okul bitmek üzeredir ve Belly sevgilisi Jeremiah'yla Cousins'da başka bir huzurlu yazı iple çekmektedir. Ama şok edici bir gerçeği öğrendikten sonra planları altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/733qUKaR1dGSuIopf3D3kzp9ypD.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Son Noel",
+                "overview": "Yıkıcı bir ihanetin ardından Belly kendini toparlamaya çalışır. Arada kalan Taylor, Steven'la kavga eder ve sonu felaket olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/w4vuEq9fjecuP44nKEuvbnEd9k3.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Son Yemek",
+                "overview": "Belly ve Jeremiah, herkes Susannah'nın anma bahçesi töreni için Cousins'da bir araya gelene dek büyük haberi sır olarak saklamayı planlamaktadır. Conrad hariç herkes.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o3AqGt7Imy2HpLpiqSQUE4iHrhA.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Son Bir Çaba",
+                "overview": "Philly'de tek başına olan Belly 21 yaşına girer. Ama geleceğine dair aile arasındaki anlaşmazlıklar odak noktası olunca özel günü kötü geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iewluo5RBql4HmNIimdEy5rd6e4.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Son Dans",
+                "overview": "Jeremiah ofiste sıkışıp kalmışken Conrad gönülsüzce Belly'yle düğün planlamaya ikna olur. Bir kariyer fırsatı için New York'a gitmekte olan Steven beklenmedik bir yol arkadaşı bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zYv7OrToBnrLi28fVaN78yVFKxv.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Soyad",
+                "overview": "Artık Adam'ın da katıldığı düğün her gün büyümektedir ve Belly bunalır. Ama gelin partisindeki bir sürprizden sonra işler nihayet düzelmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/d6cbupHIpS7ORpnlQArBqQu3Hl4.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Son Eğlence",
+                "overview": "Cousins'da olan Cousins'da kalır. Belly ve Jeremiah, son bir çılgın eğlence için arkadaşlarıyla birlikte şehre gelirler. Ama alkol alındıkça sırlar açığa çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mO1lv6OnzdWzNjF4mVVqal3VBdq.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Son Öpücük",
+                "overview": "Belly ve Jeremiah'nın düğün günü gelip çatmıştır ama Conrad'ın gece sahildeki itirafı mutlu sonlarına çomak sokacaktır. Duygusallık artıp vakit azalırken Belly'nin bir karar vermesi gerekmektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fJSSx3ZFciQSWkoLvNozNFemwP4.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "Son Çağrı",
+                "overview": "Düğünde olanlardan sonra Belly bir seçim yapar, bu da onu geleceğini sonsuza dek değiştirecek çılgın bir maceraya sürükler. O sırada Jeremiah, Conrad'la barışmaya ve yeni şartlarını kabullenmeye uğraşmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4fPS0jFkrvGLYtKH6waY38FbMZn.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "Son Sene",
+                "overview": "Belly, Paris'te yeni hayatını kurarken bir yıl bir ömür gibi geçmiştir. Evdeyse Jeremiah o olmadan ayakta durmaya çalışmaktadır. California'da Conrad hâlâ Belly'yi aklından çıkaramamaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zXTxA1uJtVP74rp924z2LQxpI7x.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e10"
+            },
+            {
+                "season": 3,
+                "episode": 11,
+                "name": "Sonunda",
+                "overview": "Hayranlık uyandıran epik finalde her yol Paris'e çıkmaktadır. Yaz kızımız Belly'nin 22'inci yaş günü, kutlama için evden birinin gelişiyle beklenmedik bir hâl alır, böylece ardında bıraktığını düşündüğü hayatla yüzleşmesi gerekir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4JSUCKSQz1vKD8QDZ5Qwm8Nuda8.jpg",
+                "vote_average": 9.1,
+                "link": "https://vidmody.com/vs/tt14016500/s3/e11"
+            }
+        ],
+        "update_date": "2026-02-14 05:17:49"
+    },
+    {
+        "id": 61859,
+        "imdb_id": "tt1399664",
+        "name": "Gece Müdürü",
+        "original_name": "The Night Manager",
+        "overview": "Eski İngiliz askeri Jonathan Pine, istihbarat topluluğu ile gizli silah ticareti arasında kutsal olmayan bir ittifakın işlediği Whitehall ve Washington'un karanlık girintilerinde dolaşır. Ölümcül silah tüccarı Richard Onslow Roper'ın yakın çevresine sızmak için Pine'ın kendisi bir suçlu olmalıdır.",
+        "poster": "https://image.tmdb.org/t/p/w500/tOeeCGFoUDP3UrAzs2SvMRKzQtY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
+        "year": "2016",
+        "rating": 7.7,
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon"
+        ],
+        "cast": [
+            {
+                "name": "Tom Hiddleston",
+                "role": "Jonathan Pine",
+                "image": "https://image.tmdb.org/t/p/w200/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+            },
+            {
+                "name": "Hugh Laurie",
+                "role": "Richard Roper",
+                "image": "https://image.tmdb.org/t/p/w200/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+            },
+            {
+                "name": "Diego Calva",
+                "role": "Teddy Dos Santos",
+                "image": "https://image.tmdb.org/t/p/w200/k5khi8PwsYs2d7uL0uuO5zenL9R.jpg"
+            },
+            {
+                "name": "Camila Morrone",
+                "role": "Roxana Bolaños",
+                "image": "https://image.tmdb.org/t/p/w200/2Req1uGHE7T48PMwXCWL6PT3VKQ.jpg"
+            },
+            {
+                "name": "Paul Chahidi",
+                "role": "Basil Karapetian",
+                "image": "https://image.tmdb.org/t/p/w200/gwQ5MfY68BvvyIbef3kr2XPilTx.jpg"
+            },
+            {
+                "name": "Hayley Squires",
+                "role": "Sally Price-Jones",
+                "image": "https://image.tmdb.org/t/p/w200/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
+            },
+            {
+                "name": "Indira Varma",
+                "role": "Mayra Cavendish",
+                "image": "https://image.tmdb.org/t/p/w200/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+                "name": "Unax Ugalde",
+                "role": "Juan Carrascal",
+                "image": "https://image.tmdb.org/t/p/w200/t4jKbvmXSjMBnZZjNZEr3P46q6s.jpg"
+            },
+            {
+                "name": "Alberto Ammann",
+                "role": "Alejandro Gualteros",
+                "image": "https://image.tmdb.org/t/p/w200/aAKmbGgoE8YLds2sLvpezczeiMY.jpg"
+            },
+            {
+                "name": "Diego Santos",
+                "role": "Martín Álvarez",
+                "image": ""
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Arap Baharının doruk noktasında Kahire'de, otel gece müdürü Jonathan Pine, zarif, çevresi geni? bir misafirden yardım talebi alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4ng5mLHyrxMI8zRHoSJJqplNkmc.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Bir Akdeniz adası olan Mayorka'da, Roper'ın lüks ve sakin hayatı parçalanmaktadır. Alt ay öncesinde, Burr Pine'ı yetiştirmeye devam ediyor ve onu, Devon'a sahte özgeçmişini oluşturmak üzere gönderiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hRjoOwWuFzZijYRbmB8yXSvKJIz.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Roper'ın villasını yenilemeye devam ederken, Pine ev halkının diğer üyelerinin sırlarını araştırmaya başlıyor. Bu sırada, Burr ve Steadman yeni bir değer kazanma fırsatını değerlendiriyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v0UGr8jALT2YE2SZEtYHsxBhHmC.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Roper, Corky'yi dışarıda bırakarak Pine'ı yakın çevresine kabul ediyor. Bu sırada, önemli bir bilginin River House'a sızdırılması sebebiyle Burr'ün kaynağına iliş?kin kaygıları oluşuyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/51H0MmEvnO0bXh6k4FWiasHTscz.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Şüphelenen Roper'ın, tayfasını toplayarak haini ortaya çıkarmaya çalışması Pine'ı tehlikeli bir oyun oynamaya itiyor. Londra'da Burr ve Steadman hükümet tarafında güçlenen bir muhalefetle yüzleşiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r6z5AsiwK9Er0z0LbSxLJIAtmU4.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Roper ve takımı anlaşma için Kahire'ye dönüyor, Pine eski bir düşmanla birleşiyor. Pine, planını hayata geçirmek için her şeyi riske atıyor. İtibarını yitiren Burr son hamlesini yapıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fYXi80kLHo96Yq28QrpuRx01C0I.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e06"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "2026. Jonathan Pine, Mısır'da Richard Roper'ı kandırıp onu tutsak eden Suriyelilerin eline teslim edeli dokuz yıl olmuştur. Artık Roper ölü, Jonathan Pine ise Alex Goodwin adıyla MI6'te düşük rütbeli bir istihbarat ajanıdır. Pine, Londra'da eski bir Roper paralı askeriyle karşılaşınca yeni güvenli hayatı paramparça olmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cSlQHQ8oah5yrMrgzl93FuYhppi.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt1399664/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Pine kaçak durumda yeni bir kimliğe bürünür. Matthew Ellis adıyla Kolombiya'ya gidip Teddy Dos Santos'un operasyonuna sızar ve Cartagena'ya yapılacak sevkiyatın gizemini ortaya çıkarmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qLi8AHz6CD0uhd8FZ74aClHATqc.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1399664/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Pine, Roxana'nın yardımıyla daha derinlere sızar, Teddy'nin güvenini kazanır ve Cartagena sevkiyatını gizli Britanya istihbarat çıkarlarıyla ilişkilendirmek için ihtiyaç duyduğu kanıtı elde eder. Ama işler ters gitmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3RJzYuH7llNUDiwaAkksVhdiR0N.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt1399664/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Pine, Kolombiya hükümetini devirmeye yönelik Britanya destekli planı açığa çıkaracak kanıtı ele geçirmiştir. Ama Teddy artık Matthew Ellis'e güvenmez, Roxana tehdit altındadır ve ölümcül yerel silah tüccarı Gilberto Hanson Pine'ın peşindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4ne2Z5JZCv8CPQPIHtfDOZcFYER.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1399664/s2/e04"
+            }
+        ],
+        "update_date": "2026-02-14 05:17:01"
+    },
+    {
+        "id": 241388,
+        "imdb_id": "tt13968252",
+        "name": "Eyes of Wakanda",
+        "original_name": "Eyes of Wakanda",
+        "overview": "Eyes of Wakanda, tarih boyunca cesur Wakandalı savaşçıların maceralarını anlatıyor. Bu dünya çapındaki serüvende kahramanlar, Wakanda'nın düşmanlarının eline geçmiş Vibranyum eserlerini geri almak için tehlikeli görevlere çıkarlar. Onlar Hatut Zeraze ve bu da onların hikayesi.",
+        "poster": "https://image.tmdb.org/t/p/w500/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
+        "year": "2025",
+        "rating": 6.1,
+        "genres": [
+            "Animasyon",
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Tümü",
+            "Disney+",
+            "Animasyon"
+        ],
+        "cast": [
+            {
+                "name": "Winnie Harlow",
+                "role": "Noni",
+                "image": "https://image.tmdb.org/t/p/w200/gW2RPaNOPcOl3PksCjE8twDsiDd.jpg"
+            },
+            {
+                "name": "Cress Williams",
+                "role": "Nkati / The Lion",
+                "image": "https://image.tmdb.org/t/p/w200/pIOyAg9U0eAUvs8N2Xca7uRKlOe.jpg"
+            },
+            {
+                "name": "Larry Herron",
+                "role": "B'Kai / Memnon",
+                "image": "https://image.tmdb.org/t/p/w200/mihVPLvkS7AQynQM81i4hPXiysJ.jpg"
+            },
+            {
+                "name": "Adam Gold",
+                "role": "Achilles",
+                "image": ""
+            },
+            {
+                "name": "Jacques Colimon",
+                "role": "Basha",
+                "image": "https://image.tmdb.org/t/p/w200/uZchGUV6IcM7HI0sYmTbJMqbLnx.jpg"
+            },
+            {
+                "name": "Jona Xiao",
+                "role": "Jorani / Iron Fist",
+                "image": "https://image.tmdb.org/t/p/w200/bEd5FvgkrZloJ0Vb9A3ijEwEV5f.jpg"
+            },
+            {
+                "name": "Zeke Alton",
+                "role": "Tafari",
+                "image": "https://image.tmdb.org/t/p/w200/2IfNJa7QPwGun8vj0lNyNTzL8MS.jpg"
+            },
+            {
+                "name": "Steve Toussaint",
+                "role": "Kuda",
+                "image": "https://image.tmdb.org/t/p/w200/sNjMpDYLVu6l79iP0olrYDaNlrD.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Aslan'ın İninde",
+                "overview": "Dora Milaje'nin eski bir üyesi, \"Aslan\" olarak bilinen hain bir Wakandalı'yı alt etmeye gönderilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7Ex7F84z8fiJKC8X1juNYX3z1oM.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Efsaneler ve Yalanlar",
+                "overview": "Truva Savaşı'nın ortasında bir asker, saklı bir eseri almak için şehrin savunmasını aşmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wjA5EoEmEfacfzrdcJ6JoyNqPFo.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Kayıp Eser",
+                "overview": "Kaçak bir yolcu Altın Şehir'e sızar ve içerideki sırların güvenliğini tehdit eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lRKiS5NhEqquh19eySRWgaZU3Oe.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Son Panter",
+                "overview": "İki Wakandalı, ya görevlerini tamamlayacak ya da ülkelerine karşı gelip dünyayı kurtaracaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/p7o7jgI2CVKnTS7DMKJ9vmFbzJw.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-14 05:15:29"
+    },
+    {
+        "id": 117830,
+        "imdb_id": "tt13930822",
+        "name": "Tomb Raider: The Legend of Lara Croft",
+        "original_name": "Tomb Raider: The Legend of Lara Croft",
+        "overview": "Dünyanın dört bir yanına yayılan bir serüvene atılan korkusuz maceraperest Lara Croft, kadim bir gizemi ortaya çıkarırken kendi travmatik geçmişiyle de yüzleşir.",
+        "poster": "https://image.tmdb.org/t/p/w500/hBqYte464epKcSaOufl3SXPqKfj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/zbaUXbBBLmGmHARAVurvUJbIEWt.jpg",
+        "year": "2024",
+        "rating": 6.3,
+        "genres": [
+            "Aksiyon & Macera",
+            "Animasyon"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix",
+            "Animasyon"
+        ],
+        "cast": [
+            {
+                "name": "Hayley Atwell",
+                "role": "Lara Croft (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+            },
+            {
+                "name": "Karen Fukuhara",
+                "role": "Sam Nishimura (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/sG6CWLdENCtzukNFkFYyPxqyRmS.jpg"
+            },
+            {
+                "name": "O-T Fagbenle",
+                "role": "Eshu (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/baIiZBDYpYXfG4SlonbcqyYg6l.jpg"
+            },
+            {
+                "name": "Allen Maldonado",
+                "role": "Zip (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/rl8YFsk4XsFZqCZO5jHNwP0Qoog.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "İlk Adım",
+                "overview": "Bir yüksek teknoloji hırsızı, yeşim taşından gizemli bir antika eseri Croft Malikânesi'nden çalar. Korkusuz arkeoloji maceracısı Lara Croft da onu geri almak için harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bO42warcrw9cMeT9QVbEMzVGFnr.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt13930822/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Üzerinde Anlaşılmış Yalanlar Silsilesi",
+                "overview": "Hırsızın peşinden Çin'in bir köyüne giden Lara ve Jonah bir grup kayıp çocuğu arar ve bir yer altı mezarında olağanüstü bir şey keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ryg8JoATKyaAbZS1u6aFEElsgvY.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt13930822/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Gece Yarısını Yaşamak",
+                "overview": "İntikam peşindeki paralı asker Devereaux, Tehlike Taşları'nı aramasının ardındaki gerçeği açıklar. Lara İstanbul'da, meşhur bir savaş lordunun yerleşkesine sızar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bqyu4gJoixTLcpZjj9hbacgZFKm.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt13930822/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Büyük Yalanlar, Küçük Sırlar",
+                "overview": "Lara ve Interpol ajanı Camilla Roth Paris'teki yer altı mezarlığının derinliklerinde, Tehlike Taşları ile Tapınak Şövalyeleri arasındaki efsanevi bağlantıyı ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aQ0edij0Qxp3zDD13hYK1E7bls0.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt13930822/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Güçlü İlişkiler",
+                "overview": "İran'a paraşütle inen Lara hızla giden bir trene biner ve ruhları ele geçirilen yolcularla savaşarak eski bir dostu, zihnini kontrol eden Devereaux'dan kurtarmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yok1hh7eP6XdPQFRGC9PLzkVUQ1.jpg",
+                "vote_average": 4.9,
+                "link": "https://vidmody.com/vs/tt13930822/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Ruh Yolu",
+                "overview": "Astrolojik bir ipucu bulan Lara, hızla kadim bir savaş alanına gider. Efsaneye göre son tehlike taşı buradaki altın ağacın altındadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iIiItMtk7umBq8ix9QsHuxPEcri.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt13930822/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Yin Yang",
+                "overview": "Zaman hızla tükenirken Tehlike Taşları'nı, bedeni korkunç bir değişim geçiren Devereaux'dan alma görevi Lara ile Camilla'ya düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qeSB8QbvB7t9ZLHHuj2s7as0Flx.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt13930822/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Çok Uzun Bir Yolculuk",
+                "overview": "Dünyaya düzen getirmeye çalışan Lara, mistik Kunlun Dağı'nın tepesinde bir tanrıçanın sınavlarıyla ve devasa bir tehditle karşı karşıya gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l1Xl20J052YtGrjO2YFahDN5iDy.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt13930822/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Hiçbir İyilik Cezasız Kalmaz",
+                "overview": "Gizemli bir müttefik, Lara'yı teknolojik bir ütopyaya götürür ve orada dâhi bir hayırsever, Lara'ya mirasını sonsuza dek değiştirebilecek bir görev teklif eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2FMHdEUm27gyzrDGzyXW4P9LPFu.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13930822/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Yemeja Festivali",
+                "overview": "Lara güçlü bir tarihî eserin, kötü insanların eline geçmesini engellemek için Brezilya'daki renkli bir kutlamanın ortasında acımasız bir rakibiyle kıran kırana dövüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g0gH3izbSN2UA8qVAbo4pXZOrLO.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13930822/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Kavşaklar",
+                "overview": "New Orleans’ın voodoo kültürünün kalbinde kutsal bir maskeyi arayan Lara, efsanelerle ölümcül tehlikelerin iç içe geçtiği bir deniz altı macerasına sürüklenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dbU1tM92LdBn6EcSdz1wBwJiwA7.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13930822/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "İyi Yolculuklar",
+                "overview": "Donmuş bir kalenin içlerinde, nicedir beklenen bir karşılaşma gerçekleşir ve sonucunda Lara ile Mila kapışır. Artık yalnızca buzlar değil, çok daha fazlası tehlikededir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lj9s6FQLzjHwz8Yh49SOVJM6EIT.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13930822/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Croft Altılısı",
+                "overview": "Gizli görev kapsamında görkemli bir galaya giden Lara, düşman topraklarında mahsur kalır ve yüksek güvenlikli bir kilitleme sistemi kaderini mühürlemeden, oradan kaçması gerekir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lX42sKx6gGinU6THVLDzPRW1i5L.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13930822/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Öldüren ve Şükredilen",
+                "overview": "Lara ve Sam, kayıp bir Orisha maskesini bulmak için Küba açıklarında suya dalarlar ve her iki tarafın da kaybetmeyi göze alamayacağı bir hesaplaşmanın zeminini hazırlarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aIMD37uvFMzmG8pzFB6TGK32nUt.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13930822/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Yerin Yarılışı",
+                "overview": "Dünya kaosa sürüklenirken Lara ile Eshu, Eshu'nun geçmişindeki gerçeklerin, gelecekteki olayları durduracak anahtar olduğunu umarak, kayıp bir Afrika şehrini keşfe çıkarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jPHl7B7mZGSBW3ZiBuIszXOIQJd.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13930822/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Ölüm Getiren",
+                "overview": "Son savaş yaklaşırken kadim güçler uyanmış, insanlığın kaderi yok oluşun eşiğine gelmiştir ve Lara, destansı bir yüzleşme için direnişçileri bir araya getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yAxbfiI2KBdGLWBxAyfoRqrE4Fo.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13930822/s2/e08"
+            }
+        ],
+        "update_date": "2026-02-14 05:13:36"
+    },
+    {
+        "id": 271855,
+        "imdb_id": "tt13924304",
+        "name": "Sandokan",
+        "original_name": "Sandokan",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/6P5WCgqB4D5jL8FDx0ZlNyUu5X5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/1AA5xIVt1PTrbLxCCBxRyvjdpqO.jpg",
+        "year": "2025",
+        "rating": 7.6,
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon"
+        ],
+        "cast": [
+            {
+                "name": "Can Yaman",
+                "role": "Sandokan",
+                "image": "https://image.tmdb.org/t/p/w200/qjDCqpngema0dqF1DDEbOKrXC1Z.jpg"
+            },
+            {
+                "name": "Alanah Bloor",
+                "role": "Lady Marianne Guillonk",
+                "image": "https://image.tmdb.org/t/p/w200/2EEYAnvBGO3kaNScFsYkQ7nO0Z6.jpg"
+            },
+            {
+                "name": "Alessandro Preziosi",
+                "role": "Yanez de Gomera",
+                "image": "https://image.tmdb.org/t/p/w200/ynBGohkuvPtMMiIJd2oJUr3M67z.jpg"
+            },
+            {
+                "name": "Ed Westwick",
+                "role": "Lord James Brooke",
+                "image": "https://image.tmdb.org/t/p/w200/sI2M7uu76HUkJk562siAK8vt50.jpg"
+            },
+            {
+                "name": "Madeleine Price",
+                "role": "Sani",
+                "image": "https://image.tmdb.org/t/p/w200/oOcfq255ARoE0BQtFJbiJi1Myge.jpg"
+            },
+            {
+                "name": "Owen Teale",
+                "role": "Lord Guillonk",
+                "image": "https://image.tmdb.org/t/p/w200/fEr21q41i2e92wqKdoxeFdbDZva.jpg"
+            },
+            {
+                "name": "John Hannah",
+                "role": "Sergeant Murray",
+                "image": "https://image.tmdb.org/t/p/w200/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/xYTN6eyQbOtkIuMoqtOoduntruR.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eXcNyjdrRY0IT3Xjg4hRAdTnP5R.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9d1OydfuEkaEtTwCsWL2eRPbu9G.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iIABnb1ixMuKdNWfycOsLIaS9aO.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/so8YcBEB3zQPDa2pSQ7Cqj03RtQ.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/b4ywPYnFSjhdAfdCgk9xyMDS0A7.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/s6R3dqOTYLyKMBueun9T0cLaqfQ.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/xk7tK1Jg5Lf1ubghrZd60a3Oswc.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt13924304/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-14 05:13:13"
+    },
+    {
         "id": 129552,
         "imdb_id": "tt13918776",
         "name": "The Night Agent",
