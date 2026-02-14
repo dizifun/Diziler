@@ -2,25 +2,730 @@
     "id": 1399,
     "imdb_id": "tt0944947",
     "name": "Game of Thrones",
+    "original_name": "Game of Thrones",
+    "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup huzuru sağlamış olsanız bile bu gücü elinizde nasıl tutardınız? Burada yanlış yapana yer yok, affetmek yok. Hanedan entrikaları, kapılı kapılar ardında dönen oyunlar, birilerinin kuyusunu kazmak için düşmanın koynuna girmekten çekinmeyen kadınlar, kardeşler arası çekişmeler, dışlanmalar. Hepsi tek bir amaç için: taht kavgası.",
     "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
     "year": "2011",
+    "rating": 8.5,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Dram",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü"
+    ],
     "cast": [
-        "Peter Dinklage",
-        "Kit Harington",
-        "Nikolaj Coster-Waldau",
-        "Lena Headey",
-        "Emilia Clarke"
+        {
+            "name": "Peter Dinklage",
+            "role": "Tyrion 'The Halfman' Lannister",
+            "image": "https://image.tmdb.org/t/p/w200/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+        },
+        {
+            "name": "Kit Harington",
+            "role": "Jon Snow",
+            "image": "https://image.tmdb.org/t/p/w200/iCFQAQqb0SgvxEdVYhJtZLhM9kp.jpg"
+        },
+        {
+            "name": "Nikolaj Coster-Waldau",
+            "role": "Sir Jaime 'Kingslayer' Lannister",
+            "image": "https://image.tmdb.org/t/p/w200/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
+        },
+        {
+            "name": "Lena Headey",
+            "role": "Cersei Lannister",
+            "image": "https://image.tmdb.org/t/p/w200/xR2IBnBlUdyBe5hecaVdtRuQqUE.jpg"
+        },
+        {
+            "name": "Emilia Clarke",
+            "role": "Daenerys Targaryen",
+            "image": "https://image.tmdb.org/t/p/w200/wb8VfDPGpyqcFltnRcJR1Wj3h4Z.jpg"
+        },
+        {
+            "name": "Liam Cunningham",
+            "role": "Davos Seaworth",
+            "image": "https://image.tmdb.org/t/p/w200/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg"
+        },
+        {
+            "name": "Maisie Williams",
+            "role": "Arya Stark",
+            "image": "https://image.tmdb.org/t/p/w200/5RjD4dDpRDAhalFtvcUj7zdLWYB.jpg"
+        },
+        {
+            "name": "Isaac Hempstead Wright",
+            "role": "Brandon 'Bran' Stark",
+            "image": "https://image.tmdb.org/t/p/w200/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
+        },
+        {
+            "name": "Sophie Turner",
+            "role": "Sansa Stark",
+            "image": "https://image.tmdb.org/t/p/w200/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+        },
+        {
+            "name": "John Bradley",
+            "role": "Samwell 'Sam' Tarly",
+            "image": "https://image.tmdb.org/t/p/w200/lQuxVtH8GkSLSZQhpmSdIi88DSF.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Kış Geliyor",
+            "overview": "Duvarın ardında büyük gizemler yaşanıyor iken Kral Robert Baratheon,Winterfell’deki eski dostu Ned Stark’a önemli bir teklif yapmaya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o4IX9Mm0kpLITVANJMx7inyEUaY.jpg",
+            "vote_average": 8.1,
             "link": "https://vidmody.com/vs/tt0944947/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Kral Yolu",
+            "overview": "Yaşanan kazanın gizemi henüz çözülmemiş iken Ned Stark güneye doğru yola çıkar.Targaryen’lar hak ettikleri demir tahtı geri almak istemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l0GJx3IR8YasbztTJi5uK0XqkEo.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0944947/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Lord Snow",
+            "overview": "Kara Kale’ye varan Jon Snow için zorlu gece nöbetçiliği başlar.Doğuda ise Daenerys,Dothraki’ler tarafından saygı görmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8HjOlb4slc1xusMgOtoNpxuTgSI.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0944947/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Sakatlar, Piçler ve Kırık Şeyler",
+            "overview": "Topraklarına dönerken Winterfell’e yolu düşen Tyrion,burada hoş karşılanmaz.Catelyn ise oğlu için adalet istemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/Ai2UPMWv38xGjOgNBuA1o8w8dUI.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Kurt ve Aslan",
+            "overview": "Kuzeyde ve doğuda yaşanan gelişmeler Kral Toprakları’nda duyulunca,Yedi Krallık’ın kuzey ve güney haneleri arasında gerginlikler baş gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u7e1qSWE6v8jfY9vGNrckX47DGN.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt0944947/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Altın Taç",
+            "overview": "Bran küçük bir gezintiye çıkar.Kral’ın av gezisi esnasında Ned,aradığı soruya cevap bulacaktır.Doğuda,Khaleesi için büyük bir şölen verilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6FcfWGFlDyWZ2JvQi8uvkxbDx1z.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt0944947/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Kazan yada Öl",
+            "overview": "Kral’ın ağır yaralanmasının ardından kimin demir tahta oturacağı tartışılmaktadır.Riverlands’de yaşananlar Lannister’ları harekete geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o6ldSDhIINGNKZR62mHf2m64dD.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt0944947/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Sivri Uç",
+            "overview": "Lannister’lar ile Stark’lar arasındaki gerginlik artarken Winterfell,savaşa hazırlanmaktadır.Gece nöbetçilerini kuzeyde başka bir tehlike bekler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hH0U1QISWGGjoFutvCLdw28MGiq.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Baelor",
+            "overview": "Daenerys,eşini kurtarabilmek için Dothraki’lerin onaylamadığı tehlikeli bir yola başvurur.Tahta geçen Joffrey,Ned Stark’ı yargılar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fAmBhmw1pQc6fucrdmnRM5FOpXD.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt0944947/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Ateş ve Kan",
+            "overview": "(SEZON FİNALİ) Ned Stark’ın idamı Yedi Krallıkta duyulmuş iken,kuzey haneleri savaş için birleşecektir.Denizin ötesinde,Daenerys büyük bir bedel öder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y1BXkhEqBQS3ewQeqqdHpjhTts0.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt0944947/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Kuzey Hatırlar",
+            "overview": "Gece nöbetçileri, Sur’un ardında konaklamak zorunda kalır. Kral Eli görevini üstlenen Tyrion Lannister, Kral Toprakları’na döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gGHtlTvHpSGZ8DIrxMyK3Ewkc1Y.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Karanlık Topraklar",
+            "overview": "Uzun bir aradan sonra kendi toprakları olan Demir Adalar’a dönen Theon, babası ile Robb arasında kalır. Stannis, müttefik toplamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3EW7wYNXUVaHT4XRuIoNFrqhZh5.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Ölü Olan Bir Daha Ölmez",
+            "overview": "Güneyde Cersei, Sansa’nın Lannister’lara olan bağlılığını sorgularken Sur’un ardında ise Jon Snow, Craster’ın sırrına şahit olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/neKkHgfX7dgi4E47GKT7bYciq93.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Kemik Bahçesi",
+            "overview": "Stannis Baratheon,tahtın gerçek varisi olduğunu iddia etmektedir.Ve Sur'a giden Jon Snow'un yolu,çok geçmeden Yabanıllar ile kesişecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5LhAdNG7NGipDOv2dF9ZPMAe2qh.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Harrenhal'un Hayaleti",
+            "overview": "Jagen H'Ghar, Arya’ya bir teklifte bulunurken, Theon babasına ve halkına kendini kanıtlamaya çalışır. Ejderhalar gün geçtikçe büyümektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/h7HHSQtEyf7cNBYR2G9DjQ78EgV.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Eski Tanrılar ve Yeni Tanrılar",
+            "overview": "Jon,Yabanıl’lardan birini esir alır. Kral Joffrey, sevilmeyen bir hükümdara dönüşürken Daenerys, Westeros’a dönmek için gemi arayışındadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zUgvLgKhI7XbjU4cAW9qffL6ImQ.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Onursuz Bir Adam",
+            "overview": "Kuzeyde Theon, Kışyarı’nı ele geçirmişken, doğuda Daenerys’ın ejderhaları ortadan kaybolur.Catelyn, oğlu Robb’a karşı çıkarak bir tutsak getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oB8TBIIf0MT4W3oqZKEANHdS8rj.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Kışyarı Prensi",
+            "overview": "Yara Greyjoy, Kışyarı’ndaki kardeşi Theon’un yanına gelir. Jon ve Qhorin, Yabanıllar’ın elindedir. Daenerys, ejderhaların yerini öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4W90HbZcVG54m8HoxaZmXc8rzjy.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Karasu",
+            "overview": "Stannis, savaş gemileri ile Kral Toprakları’na saldırırken Tyrion, kaleyi korumak ile meşguldür. Gidişatı değiştirecek bir müttefik savaşa dahil olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rX44Vfd0iiZDIJWHYZg9j4yLSP9.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Valar Morghulis",
+            "overview": "(SEZON FİNALİ) Kışyarı, Ramsay Snow tarafından kuşatılmıştır. Bu sırada daha kuzeyde, Sur’un ardında ise büyük bir tehlike yaklaşmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u46jn12qEyaCOe1oqJBwPvL5d7R.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt0944947/s2/e10"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Valar Dohaeris",
+            "overview": "Gece nöbetçileri, yaklaşan tehlikeyi bildirmek için Kara Kale’ye dönmeye hazırlanır. Dar denizin ötesinde, Daenerys köle körfezine gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3pyS7xz9mprX4OuOCfV261CnGfR.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Karanlık Kanatlar, Karanlık Sözler",
+            "overview": "Brienne ve Jamie, Kral Toprakları’na doğru yol almaktadır. Bu sırada Harrenhal’daki Robb, Kışyarı’ndan ve Nehirova’dan kötü haberler alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ydrupjqBj6M68pUwJNJ5rbGmm1O.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Ceza Yürüyüşü",
+            "overview": "Mance Rayder, Jon’u ve bir grup Yabanıl’ı Sur’a gönderir. Brienne ve Jamie tutsak edilir. Sağ kalan gece nöbetçileri Craster’a döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i39Itkd76DOXxek0blIO6rI6zsa.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Ve Şimdi Nöbeti Bitti",
+            "overview": "Doğuda Daenerys, Kraznys ile yaptığı anlaşmayla lekesiz ordusuna sahip olur. Kuzeyde Bran ve Jojen, üç gözlü kuzgunun izini sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/veYx7AoKhxC8Pz8EThNpoOxeSGX.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Ateş Tarafından Öpüldü",
+            "overview": "“Serçeparmak” Petyr Baelish, Tyrell’lerin Sansa’yla ilgili gizli planını Tywin Lannister’a iletir. Robb Stark müttefiklerini kaybetmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/w0K3DtYweVJdpRLg33CRLtwCXjp.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Tırmanış",
+            "overview": "Yabanıl’lar, Jon’un eşliğinde Sur’a tırmanmak için hazırlanır. Robb, Nehirova’nın desteğini geri kazanmak için elinden geleni yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eJQ5vnNrlM28fpInn6uGM0xUZRX.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Ayı ve Bakire Panayırı",
+            "overview": "Tywin Lannister, doğuda yükselen Daenerys’ın oluşturabileceği tehlikeler için Joffrey’i uyarır. Arya, Sancaksız Kardeşlik’ten kaçar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nNuLiw1TnQMNJ8B3ijN2D6jyAfc.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "İkinci Oğullar",
+            "overview": "Kral Toprakları’nda Sansa ve Tyrion’un düğün hazırlıkları tamamlanır. Bu sırada doğuda, Dar Deniz’in ötesinde Daenerys, kendine sadık bir savaşçı bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tcMJKDYcnljkYHxhQpe85JIPJ48.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "Castamere Yağmurları",
+            "overview": "Robb, dayısı Edmure’un düğünü için ordusu ile birlikte İkizler’e, Frey Hanedanı’nın kalesine gider. Arya, ailesine kavuşmaya çok yakındır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8Cvg7NkvDPckIwPKWcyS25YcoSh.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Mhysa",
+            "overview": "(SEZON FİNALİ) Theon’un kardeşi Yara Greyjoy, Theon’u kurtarmak için asker toplar. Kızıl Düğün’ün haberi yayılırken kuzeyin ötesindeki tehlike de hızla yaklaşmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wJbEFBLyogHR1GoxfDXNIoP4k1w.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt0944947/s3/e10"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "İki Kılıç",
+            "overview": "Güneyde Tyrion,Dorne’un Prensi Doran Martell’i ağırlarken kuzeyde Kara Kale’ye varan Jon hoş karşılanmaz.Doğuda ise Daenerys,Meereen’e ilerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9nF4bdx1jxfa7iQrDMt2CGskH6D.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Aslan ve Gül",
+            "overview": "Kızıl Kale’de gerçekleşecek olan büyük düğünün hazırlıkları tamamlanmıştır.Jamie,kaybettiği elinden sonra öteki eliyle savaşmayı öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zOeaRpAKbrATuVe8Z5MtVJfair9.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Zincir Kıran",
+            "overview": "Güneyde Cersei,ölen oğlunun yasını tutarken doğuda Daenerys güçlenerek Yedi Krallık için tehdit oluşturur.Arya ve Tazı Arryn Vadisi’ne ilerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pgwGxEDIv1XyB5TcJcJM7EMLWiX.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "Yemin Tutucu",
+            "overview": "Daenerys,vardığı topraklardaki halka özgürlük götürürken,Sansa ve Lord Baelish,denize açılır.Kral Toprakları’nda Tyrion zindana kapatılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fg0ImcTfCinFq7iu21BahGD3fPr.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "İsminin Birincisi",
+            "overview": "Tommen,Yedi Krallık’ın yeni kralı olur. Lord Baelish ve Sansa,Vadi’ye ulaşır.Sur’un ötesinde Jon ve Gece Nöbetçiler’i Craster Evi’ne saldırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AakvWcPHDwrEML6mwvz4I0hzp3l.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Tanrıların ve İnsanların Yasaları",
+            "overview": "Stannis ve Davos,Braavos’un demir bankasına gider.Joffrey’yi öldürmekle suçlanan Tyrion yargılanır.Ramsay,Theon’u Moat Cailin’e gönderir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vKt9b7HNYhwM91C7S53zPsAWfT3.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Alaycı Kuş",
+            "overview": "Tyrion’ın savaşarak yargılanmasını istemesi üzerine,kendi adına savaşacak birine ihtiyacı vardır.Brienne ve Podrick,Stark kızlarının peşindedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lcb0wscuq3WRsD54N8Ada949cGV.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Dağ ve Engerek",
+            "overview": "Lysa Arryn’in Kartal Yuvası’ndaki gizemli ölümü üzerine Lord Baelish yargılanır.Güneyde ise Tyrion’ın arenada duruşması vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cOcGpQmBvwuScHJjwQYlCreVl4x.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "Duvardaki Gözcüler",
+            "overview": "Sur’un ötesinden Kara Kale’yi aşmaya gelen Yabanıllar, Gece Nöbetçileri’ne saldırır. Kara Kale, Sur’un her yanından kuşatılmıştır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vn4ECYuCaV43MEwpyjTdkXg7NPB.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "Çocuklar",
+            "overview": "(SEZON FİNALİ) Jon, Mance Rayder’ı öldürünce savaşı durduracağına inanarak, Yabanıllar'ın kampına gider. Güneyde ise Jamie ve Cersei, Joffrey’nin yasını tutar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dEvyoz6NrUGH3nyphu43hAzT1VE.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt0944947/s4/e10"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "Gelecek Savaşlar",
+            "overview": "Tyrion ve Varys, Özgür Şehirler’e doğru yol alırken, kuzeyde Mance’i tutsak eden Stannis, Yabanıllar’ın kendisiyle birlikte savaşmasını ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/shIFxmFySt9CtGXMTXWBipsNOIs.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "Siyah ve Beyazın Evi",
+            "overview": "Arya, Jagen H'ghar’ı bulmak için Braavos’a gider. Cersei,Oberyn’nin ölümünün ardından Dorne’daki kızı Myrcella için endişelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uCJpE0pfjn78uhr2TjvIrhyTcR8.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "High Sparrow",
+            "overview": "Güneyde düğün telaşı varken kuzeyde Lord Baelish, Sansa’yı Kışyarı’na götürür.Bu sırada yeni Lord kumandan olan Jon, Stannis’in teklifini düşünmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dwOS9tOOqodTpuK0S1hSM2kFoXB.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "Harpy'nin Oğulları",
+            "overview": "Cersei, yüce rahip ile iş birliği yapmanın yollarını ararken,Harpiya’nın oğulları Meereen şehrinde saldırılar düzenler. Jamie Güneş Mızrağı’na ulaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xJK24ELjz04a05saADPXkYafa21.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "Çocuğu Öldür",
+            "overview": "Daenerys’ın yükselişi Kara Kale’de duyulurken Stannis, Kışyarı’na gitmek için hazırlanır. Jorah ve Tyrion, Meereen’e doğru yol alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/25HHLKWpNKiy6e7zBhaoysK9hzv.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "Eğilmez, Bükülmez, Kırılmaz",
+            "overview": "Jagen H'ghar, Arya’yı eğitmeye başlar. Kral Toprakları’nda ise yüce rahip, Loras Tyrell’i yargılar. Jamie ve Bronn, Myrcella’yı bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ihngOB9FfBZvmTy01D836QMFybe.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "Hediye",
+            "overview": "Tyrion ve Jorah, köle tacirleri tarafından Dövüş Çukuru’na götürülür. Bu sırada yüce rahip ve inanç askerleri Kral Toprakları’nın yönetimini ele geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n4BFZfiqOX1l5l6uYtpDS4m19WX.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "Zor Ev",
+            "overview": "Sur’un ötesinde Jon ve Tormund, Yabanıllar’la anlaşmak ve onları Ak Yürüyenler’e karşı yapılacak savaşta kendi tarafına çekmek için Çetinocak’a gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nz0alOHeE0ovfF6uBkXODwJ5M0M.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e08"
+        },
+        {
+            "season": 5,
+            "episode": 9,
+            "name": "Ejderhaların Dansı",
+            "overview": "Jon ve kurtulan Yabanıllar, Sur’a geri döner. Stannis’e kanından birini Işığın Tanrısı’na kurban etmesini söyleyen Melisandre, onu ikna eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ymI7V3wsZRcRqLWgjJ59CTTGvh5.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e09"
+        },
+        {
+            "season": 5,
+            "episode": 10,
+            "name": "Annenin Merhameti",
+            "overview": "(SEZON FİNALİ) Stannis,Bolton ordusuyla savaşmak için Kışyarı’na ilerlerken,Yedi Krallık’ın en güneyinde Jaime,Myrcella ile Kral Toprakları’na doğru yola çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b5dIepsIO3robQSe18fWmsQe37R.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt0944947/s5/e10"
+        },
+        {
+            "season": 6,
+            "episode": 1,
+            "name": "Kırmızı Kadın",
+            "overview": "Sir Davos, güvendiği birkaç kişiyle birlikte Kara Kale'den çıkmanın yolunu arar. Tyrion, Meereen'in sorunlarını çözmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qEu20NFIbwxtyABtFvsyyPaCNDM.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e01"
+        },
+        {
+            "season": 6,
+            "episode": 2,
+            "name": "Ev",
+            "overview": "Tyrion,Daenerys'in ejderhalarıyla ilgili bir karar verir.Ramsay,kontrolü eline almanın vakti geldiğini düşünür.Sir Davos,Melisandre'den yardım ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/onEtnj84EBWmt4AnJjaX9Ip6oaa.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e02"
+        },
+        {
+            "season": 6,
+            "episode": 3,
+            "name": "Yemin Bozan",
+            "overview": "Tommen, Margaery ve annesinin günahlarıyla ilgili yüce serçe ile yüzleşir. Arya'nın eğitimi devam eder. Winterfell'e beklenmedik biri getirilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dNp7HBQbwKlgX76fwqM6SWUo5tU.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e03"
+        },
+        {
+            "season": 6,
+            "episode": 4,
+            "name": "Yabancının Kitabı",
+            "overview": "Meereen'de barış sağlamak isteyen Tyrion, diplomatik yollara başvurur. Cercei ve Jamie, Yüksek Serçe'den kurtulmak için plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dY2DbzgIjIatJJCVRgk1gKTJWez.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e04"
+        },
+        {
+            "season": 6,
+            "episode": 5,
+            "name": "Kapı",
+            "overview": "Tyrion, barışı sağlamak için müttefik arar. Bran, geçmişle ilgili gerçekleri öğrenmeye devam eder. Arya'ya kendini kanıtlaması için bir şans verilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/96u7HuryCkPEIN3JkZP336KTSq3.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e05"
+        },
+        {
+            "season": 6,
+            "episode": 6,
+            "name": "Kanımın Kanı",
+            "overview": "Bran yeni bir müttefik bulurken, Arya verdiği kararlar sonucunda kendini korumak için harekete geçer. Gilly, Sam'in ailesi ile tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k01MUth8Xm2y79nvsQ3UF25SN9w.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e06"
+        },
+        {
+            "season": 6,
+            "episode": 7,
+            "name": "Kırık Adam",
+            "overview": "Jon ve sansa kuzeyde müttefik toplarken Jamie ise Nehirova'ya ulaşmıştır.Leydi Tyrell, Margaery'nin ısrarı ile kral topraklarından ayrılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iPa8qg62sbNKql1Xz6uOTtT9XGr.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e07"
+        },
+        {
+            "season": 6,
+            "episode": 8,
+            "name": "Hiç Kimse",
+            "overview": "Nehirova'daki Jaime, ne yapacağına karar vermeye çalışır. Tyrion'ın planları sonuç vermeye başlamıştır. Arya, yeni bir sınavla karşı karşıyadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xl2l1a3kXGxWwZqGDgjowBk4x46.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e08"
+        },
+        {
+            "season": 6,
+            "episode": 9,
+            "name": "Piçlerin Savaşı",
+            "overview": "Jon Snow ve ordusu, Winterfell'i geri alabilmek için Bolton hanedanı ile büyük bir savaşa girer...",
+            "still_path": "https://image.tmdb.org/t/p/w400/j2znyjFSe1ol26DeQWMB1yE5EDQ.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e09"
+        },
+        {
+            "season": 6,
+            "episode": 10,
+            "name": "Kış Rüzgarları",
+            "overview": "(SEZON FİNALİ) Yargılanmak üzere büyük Baelor Septi'ne çağırılan Cercei'nin başka planları vardır. Deanerys'in hazırlıkları tamamlanmak üzeredir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8qgIcKTOKeAHlJMjGyPHl3IHjcU.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt0944947/s6/e10"
+        },
+        {
+            "season": 7,
+            "episode": 1,
+            "name": "Ejdertaşı",
+            "overview": "Jon Snow, Kuzey'in savunması için hazırlanır. Samwell, önemli bir bilgi keşfeder. Daenerys, eve döner...",
+            "still_path": "https://image.tmdb.org/t/p/w400/3SB4PUzZAnY6HnZbVbktIZoopGs.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0944947/s7/e01"
+        },
+        {
+            "season": 7,
+            "episode": 2,
+            "name": "Stormborn",
+            "overview": "Daenerys, beklenmedik biriyle görüşür. Sam, kariyerini ve hayatını tehlikeye atar. Tyrion, Westeros'un fethi için plan yapar...",
+            "still_path": "https://image.tmdb.org/t/p/w400/6ZLuB2YZeXTCEETnbPe5MNKCsio.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0944947/s7/e02"
+        },
+        {
+            "season": 7,
+            "episode": 3,
+            "name": "Kraliçenin Adaleti",
+            "overview": "Tyrion, ikna yeteneğini kullanır. Jamie, hatalarından ders aldığını düşünür. Cersei'nin eline uzun zamandır beklediği bir fırsat geçer...",
+            "still_path": "https://image.tmdb.org/t/p/w400/xSqdpR6qADmjsdlcJLX5LXRToQP.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0944947/s7/e03"
+        },
+        {
+            "season": 7,
+            "episode": 4,
+            "name": "Savaş Ganimetleri",
+            "overview": "Cersei, bir sonraki hamlesini planlarken Jaime, kötü bir sürprizle karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hH9gSHcisHqoux734Q2SdLPLmsL.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt0944947/s7/e04"
+        },
+        {
+            "season": 7,
+            "episode": 5,
+            "name": "Eastwatch",
+            "overview": "Bran, ak gezenlerin yaklaştığını görür. Tyrion, Daenerys'in kendisini dinlemesi için uğraşır. Jon Snow, yeni bir plan yapar...",
+            "still_path": "https://image.tmdb.org/t/p/w400/3iaJDPtj75z1YpLDMKR17JRXQdP.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0944947/s7/e05"
+        },
+        {
+            "season": 7,
+            "episode": 6,
+            "name": "Duvarın Ötesi",
+            "overview": "Jon Snow'un duvarın ötesindeki görevi sandığından daha zorlu geçecektir. Arya ve Sansa, birbiriyle yüzleşir...",
+            "still_path": "https://image.tmdb.org/t/p/w400/3cUZWo0YrAkBT64uzim542ypeF7.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt0944947/s7/e06"
+        },
+        {
+            "season": 7,
+            "episode": 7,
+            "name": "Ejderha Ve Kurt",
+            "overview": "(SEZON FİNALİ) Jon Snow, Kral Toprakları'na gider. Sansa, Kışyarı'nda birini yargılar...",
+            "still_path": "https://image.tmdb.org/t/p/w400/w4N4xxFrfjUyk7wE5hgcoAy0tDc.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt0944947/s7/e07"
+        },
+        {
+            "season": 8,
+            "episode": 1,
+            "name": "Winterfell",
+            "overview": "Jon ve Daenerys ordularıyla beraber Kışyarı'na gelir. Sansa ve Jon, Daenerys yüzünden tartışır. Bran, Jon'a gerçeği söyleme konusunda Sam'e baskı yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o65qwX1aHJclJ36VDhD3VYzz5em.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt0944947/s8/e01"
+        },
+        {
+            "season": 8,
+            "episode": 2,
+            "name": "Yedi Krallığın Şövalyesi",
+            "overview": "Theon Greyjoy, Stark'ların yanında savaşmak üzere Kışyarı'na gelir. Kışyarı'nda büyük savaş hazırlıkları başlar...",
+            "still_path": "https://image.tmdb.org/t/p/w400/vJ8H9WtzbJGfArfdycc4nagQVRU.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt0944947/s8/e02"
+        },
+        {
+            "season": 8,
+            "episode": 3,
+            "name": "Uzun Gece",
+            "overview": "Gecenin Kralı ve ordusu Kışyarı'nın kapısına dayanır. Kışyarı'ndakiler, Jon ve Daenerys önderliğinde onlara karşı koymaya çalışır...",
+            "still_path": "https://image.tmdb.org/t/p/w400/k69MmmwXIy1ywEQDZME4des9aRJ.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt0944947/s8/e03"
+        },
+        {
+            "season": 8,
+            "episode": 4,
+            "name": "Starkların Sonuncusu",
+            "overview": "Gecenin Kralı ve ordusuna karşı verilen büyük savaş sonrası Jon ve Daenerys yönlerini güneye çevirir...",
+            "still_path": "https://image.tmdb.org/t/p/w400/qe508xwVVO7cF2oWzfJp52StkTk.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt0944947/s8/e04"
+        },
+        {
+            "season": 8,
+            "episode": 5,
+            "name": "Çanlar",
+            "overview": "Cercei, kendi ordusu ile King's Landing kapılarına dayanan düşmanı arasında yaşanmak üzere olan büyük savaşı bekler...",
+            "still_path": "https://image.tmdb.org/t/p/w400/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt0944947/s8/e05"
+        },
+        {
+            "season": 8,
+            "episode": 6,
+            "name": "Demir Taht",
+            "overview": "(DİZİ FİNALİ) Daenerys, harabeye dönmüş King's Landing'de zaferini ilan eder. Yedi krallığın kaderi belli olur...",
+            "still_path": "https://image.tmdb.org/t/p/w400/zBi2O5EJfgTS6Ae0HdAYLm9o2nf.jpg",
+            "vote_average": 4.5,
+            "link": "https://vidmody.com/vs/tt0944947/s8/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 00:32:06"
 }

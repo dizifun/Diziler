@@ -2,19 +2,77 @@
     "id": 100771,
     "imdb_id": "tt10394844",
     "name": "Soulmates",
+    "original_name": "Soulmates",
+    "overview": "",
     "poster": "https://image.tmdb.org/t/p/w500/g2mvINQCGACb9sswdKXh1KwpwzB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7bpQnv93kbYhbhzmJnEjbE8aMof.jpg",
     "year": "2020",
+    "rating": 6.0,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Suç",
         "Dram"
+    ],
+    "categories": [
+        "Tümü",
+        "Netflix"
     ],
     "cast": [],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg",
+            "vote_average": 6.6,
             "link": "https://vidmody.com/vs/tt10394844/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt10394844/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/eORILaLSGKaAxWCQKUb8dxeTuCm.jpg",
+            "vote_average": 4.8,
+            "link": "https://vidmody.com/vs/tt10394844/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/kkEVadfsqUTwZZqglRZq9eEwEci.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt10394844/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/iv3w2ak7WeUQTcYKrfZVW5rG22Y.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt10394844/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg",
+            "vote_average": 4.9,
+            "link": "https://vidmody.com/vs/tt10394844/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 01:16:50"
 }

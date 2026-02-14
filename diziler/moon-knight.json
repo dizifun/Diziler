@@ -2,25 +2,113 @@
     "id": 92749,
     "imdb_id": "tt10234724",
     "name": "Moon Knight",
+    "original_name": "Moon Knight",
+    "overview": "Yumuşak huylu hediyelik eşya dükkanı çalışanı Steven Grant, bayılmalarla ve başka bir hayatın anılarıyla boğuşmaya başlayınca, çoklu kişilik bozukluğuna sahip olduğunu ve paralı asker Marc Spector ile aynı bedeni paylaştığını keşfeder. Steven/Marc'in düşmanları birleşirken, onlar karmaşık kimliklerinde salınarak Mısır'ın güçlü tanrıları arasında ölümcül bir gizemin içine itilir.",
     "poster": "https://image.tmdb.org/t/p/w500/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg",
     "year": "2022",
+    "rating": 7.7,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Gizem",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Disney+"
+    ],
     "cast": [
-        "Oscar Isaac",
-        "Ethan Hawke",
-        "May Calamawy",
-        "Ann Akinjirin",
-        "David Ganly"
+        {
+            "name": "Oscar Isaac",
+            "role": "Marc Spector / Steven Grant / Moon Knight / Mr. Knight",
+            "image": "https://image.tmdb.org/t/p/w200/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+        },
+        {
+            "name": "Ethan Hawke",
+            "role": "Arthur Harrow",
+            "image": "https://image.tmdb.org/t/p/w200/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+        },
+        {
+            "name": "May Calamawy",
+            "role": "Layla El-Faouly",
+            "image": "https://image.tmdb.org/t/p/w200/5S3nNkH5p85xK7k7AaXBZ0ouyOR.jpg"
+        },
+        {
+            "name": "Ann Akinjirin",
+            "role": "Bobbi",
+            "image": "https://image.tmdb.org/t/p/w200/o4Tbudvow3rzgxmlilnRral5fpr.jpg"
+        },
+        {
+            "name": "David Ganly",
+            "role": "Billy",
+            "image": "https://image.tmdb.org/t/p/w200/e9NUAspQ306cmyhkl3gG5LU1LHi.jpg"
+        },
+        {
+            "name": "Karim El Hakim",
+            "role": "Khonshu Performer",
+            "image": "https://image.tmdb.org/t/p/w200/2K3iP4pm6RFZ29kQxjXZQl40hCF.jpg"
+        },
+        {
+            "name": "F. Murray Abraham",
+            "role": "Khonshu (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Japon Balığı Sorunu",
+            "overview": "Sıradan bir işte çalışan yumuşak huylu bir adam olan Steven Grant, içinde yaşayan bir alter ortaya çıkmaya başlayınca hayatının kendisine ait olmayabileceğinden şüphelenmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/h88DZpKIDo66Tvt556HCvq2BdR0.jpg",
+            "vote_average": 7.9,
             "link": "https://vidmody.com/vs/tt10234724/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Kostümü Çağır",
+            "overview": "Steven, hayatının kendisine ait olmayabileceği gerçeğinden sarsılırken, tanrıların savaşı ufukta belirirken geçmişten gizemli bir ortak ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt10234724/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Cana Yakın",
+            "overview": "Marc ön planda ve Harrow Ammit'in mezarının yakınındayken, Marc'ın Kahire'ye gitmesi ve Layla ve Steven'la olan farklılıklarını görevlerini tehlikeye atmadan bir kenara bırakması gerekiyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt10234724/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Mezar",
+            "overview": "Doğaüstü tehditler onları durdurmaya çalışırken, Marc ve Steven dengeyi bulmalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt10234724/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Akıl Hastanesi",
+            "overview": "Marc ve Steven, gerçeklerini bulmak ya da geride kalmak için anılarını araştırırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt10234724/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Tanrılar ve Canavarlar",
+            "overview": "Moon Knight mücadeleye katılırken Marc, Steven ve Khonshu, Ammit'i durdurmak için birlikte çalışmalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt10234724/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 01:04:39"
 }

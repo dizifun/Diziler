@@ -2,24 +2,391 @@
     "id": 63247,
     "imdb_id": "tt0475784",
     "name": "Westworld",
+    "original_name": "Westworld",
+    "overview": "İki konuk ileri teknolojinin kullanıldığı bir eğlence parkında Vahşi Batı macerasına çıkar. Parktaki insanlar robottur ve park Roma, Vahşi Batı ve Ortaçağ dönemlerine benzetilerek sahici bir hayat yaratmak amacıyla tasarlanmıştır. Merkezi bilgisayar sistemi bozulunca robotlar zincirlerini koparır ve parkın iki konuğu robot bir silahşör tarafından takip edildiklerini fark eder.West World ya da Batı Dünyası, yapay bilincin ortaya çıkması ve suçun geleceğiyle ilgili karanlık bir yolculuğu anlatmaktadır.",
     "poster": "https://image.tmdb.org/t/p/w500/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
     "year": "2016",
+    "rating": 8.0,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Vahşi Batı"
     ],
+    "categories": [
+        "Tümü"
+    ],
     "cast": [
-        "Evan Rachel Wood",
-        "Thandiwe Newton",
-        "Jeffrey Wright",
-        "Tessa Thompson",
-        "Aaron Paul"
+        {
+            "name": "Evan Rachel Wood",
+            "role": "Christina",
+            "image": "https://image.tmdb.org/t/p/w200/ksXTb2bvqt60bCGRwBlWrNbZHnr.jpg"
+        },
+        {
+            "name": "Thandiwe Newton",
+            "role": "Maeve Millay",
+            "image": "https://image.tmdb.org/t/p/w200/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+        },
+        {
+            "name": "Jeffrey Wright",
+            "role": "Bernard Lowe",
+            "image": "https://image.tmdb.org/t/p/w200/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+        },
+        {
+            "name": "Tessa Thompson",
+            "role": "Charlotte Hale",
+            "image": "https://image.tmdb.org/t/p/w200/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg"
+        },
+        {
+            "name": "Aaron Paul",
+            "role": "Caleb Nichols",
+            "image": "https://image.tmdb.org/t/p/w200/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+        },
+        {
+            "name": "James Marsden",
+            "role": "Theodore 'Teddy' Flood",
+            "image": "https://image.tmdb.org/t/p/w200/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+        },
+        {
+            "name": "Angela Sarafyan",
+            "role": "Clementine Pennyfeather",
+            "image": "https://image.tmdb.org/t/p/w200/n23SKRSGUZL5sJz4MFkjnPxLgPl.jpg"
+        },
+        {
+            "name": "Ed Harris",
+            "role": "Man in Black",
+            "image": "https://image.tmdb.org/t/p/w200/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+        },
+        {
+            "name": "Luke Hemsworth",
+            "role": "Ashley Stubbs",
+            "image": "https://image.tmdb.org/t/p/w200/m3VkYWENQc392VMrn0B4VnW886R.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "The Original",
+            "overview": "Programcı Bernard Lowe, parkın kurucusu olan Doktor Ford'u bazı beklenmedik davranışlar sergileyen görevlilerle ilgili uyarır...",
+            "still_path": "https://image.tmdb.org/t/p/w400/olPBWYdEX2NQmoczbgEppUyX57H.jpg",
+            "vote_average": 8.4,
             "link": "https://vidmody.com/vs/tt0475784/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Chestnut",
+            "overview": "Başrollerinde Anthony Hopkins, Ed Harris, Evan Rachel Wood gibi başarılı isimleri barındıran; aynı adlı sinema filminden uyarlanan \"Westworld\" ile yapay zekanın karanlık dünyasında bir yolculuğa çıkacak, insanoğlunun günahkarlığına tanıklık edeceksiniz...",
+            "still_path": "https://image.tmdb.org/t/p/w400/7RW3lo3au5lRUirLCQDcDYRToj1.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt0475784/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "The Stray",
+            "overview": "Elsie ve Stubbs, kayıp bir görevliyi aramaya tepelere gider. Teddy yeni bir hainin peşine düşünce, Dolores Sweetwater'da yalnız kalır...",
+            "still_path": "https://image.tmdb.org/t/p/w400/kLIG0ZAT8ewlgl2aGO1BpuP3FBz.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0475784/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Dissonance Theory",
+            "overview": "Doktor Ford ve Theresa, parkın geleceğiyle ilgili konuşur. Dolores, William ve Logan bir kaçağı yakalamaya çalışır...",
+            "still_path": "https://image.tmdb.org/t/p/w400/pbJ7XGqNy78UoMkcHxhPX909aSy.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt0475784/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Contrapasso",
+            "overview": "Dolores, William ve Logan, Pariah'a ulaşır. Siyahlı adam, yeni ve beklenmedik bir müttefik edinir...",
+            "still_path": "https://image.tmdb.org/t/p/w400/tKB9vXtF2Xmvq8dpRiuOIk95yMN.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt0475784/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "The Adversary",
+            "overview": "Elsie bir sabotajı ortaya çıkarırken Bernard ise yaşanan anomalilere bir ipucu bulmaya çalışır…",
+            "still_path": "https://image.tmdb.org/t/p/w400/r9PWng4er3RHcfjKuKNOzEY2Ct2.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt0475784/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Trompe L'oeil",
+            "overview": "Dolores ve William tehlikeli bölgeye doğru yolculuğa çıkar. Bu sırada Bernard ise bir sonraki adımını düşünmektedir..",
+            "still_path": "https://image.tmdb.org/t/p/w400/6jAZv9gWo5s9Z8mekhPoe6uOkmZ.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt0475784/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Trace Decay",
+            "overview": "Maeve, gidişatı değiştirmenin bir yolunu arar. Bernard, zorlanmaya başlamıştır. Arnold'ın sesini dinleyen Dolores ise sonunda evine ulaşır...",
+            "still_path": "https://image.tmdb.org/t/p/w400/oCiqRxxWDDmapfInk14mwotg514.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt0475784/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "The Well - Tempered Clavier",
+            "overview": "Maeve, Hector'a bir teklifte bulunur. Dolores ve Bernard, geçmişleriyle yüzleşir...",
+            "still_path": "https://image.tmdb.org/t/p/w400/aSVGcsaZay01h4RRsMjyJCzBxeN.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt0475784/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "The Bicameral Mind",
+            "overview": "(SEZON FİNALİ) Ford, yeni hikayesini ortaya çıkarır. Dolores, kim olduğunu kabul eder. Maeve, planını uygulamaya koyar...",
+            "still_path": "https://image.tmdb.org/t/p/w400/dUBHbx5rMyuOw1Gc7S5OwezdH0d.jpg",
+            "vote_average": 9.1,
+            "link": "https://vidmody.com/vs/tt0475784/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Journey Into The Night",
+            "overview": "...Dizginlerimizden kurtulduk. Şimdiyse sizin ve türünüzün peşindeyiz. Westworld'e yeniden hoş geldiniz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sYyghDbGafoVRgv6ShCta07Xtwk.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Reunion",
+            "overview": "...Neden başa dönmüyoruz?",
+            "still_path": "https://image.tmdb.org/t/p/w400/ncR4GEDj1zanes6raybi2GODNqB.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Vurtu e Fortuna",
+            "overview": "...Varoluşumuzda güzelliği taşıyoruz. Biz de herkes gibi hayatta kalmak için çabalamamalı mıyız?",
+            "still_path": "https://image.tmdb.org/t/p/w400/7ferEAu7oqzUpBufVVz5wYfwqBW.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "The Riddle Of The Sphinx",
+            "overview": "...Şimdide miyiz? İleriye dönüksen, yanlış yöne bakıyorsun demektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ccCb229K6XZwThlo4LT5gMe1ThL.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Akane No Mai",
+            "overview": "...Shogun dünyasına hoş geldiniz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fv7bLS75jf7XW981E69V388Voai.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Phase Space",
+            "overview": "...Hepimiz kendi kaderimizi seçmeyi hak ediyoruz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/imJGJlvOXceTePEj2SttIiTkDQQ.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Les Ecorches",
+            "overview": "...Kibriti yak.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zhM2BSiyo8S8Vh8R3Ao2aNEPUqM.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Kiksuya",
+            "overview": "...Mi cante ki yu ha ya ye (giderken kalbimi de götür).",
+            "still_path": "https://image.tmdb.org/t/p/w400/xdk8ai0U2L3OBX09k695NFsucCK.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Vanishing Point",
+            "overview": "William geçmişi hatırlarken tüm hayatını değiştirecek bir seçim yapar. Charlotte'un yeni bir planı vardır. Robert bir kez daha Bernard'ı ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ygl2EwK6C54rdQqDOjt1BCv8Mri.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "The Passenger",
+            "overview": "(SEZON FİNALİ) ...Tüm motor fonksiyonlarını durdur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pny1IVO8pb1AofwA7yFudMyRiVa.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt0475784/s2/e10"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Parce Domine",
+            "overview": "Yeni Los Angeles'ta bulunan Dolores, Caleb ile zaman geçirmeye başlar ve gerçek dünyada yapay zekalı varlıklara nasıl davranıldığını öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gVigzBMoBSNVyg4We1bPBcK695D.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt0475784/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "The Winter Line",
+            "overview": "Maeve kendini İkinci Dünya Savaşı temalı bir parkta bulurken Bernard ise hedefine ulaşmaya çalışmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2fy2AEkAm1Bz9DDytKeuVunjeXT.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt0475784/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "The Absence of Field",
+            "overview": "Dolores kendi mücadelesine hazırlanırken Charlotte ise aynadaki yansımasına alışmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yqupzLZbj2CW9rd2iFAlFrPt41a.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt0475784/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "The Mother of Exiles",
+            "overview": "Dolores, Caleb ile birlikte Liam'ın peşine düşmüştür. Bernard ve Stubbs ise beraber hareket etmektedirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rJAfwL5jxEWiJAV7KlzEfEBzpQI.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt0475784/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Genre",
+            "overview": "Dolores planını uygulamaya koyarken Rehoboam ve Serac'a dair gerçekler de açığa çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gyl7JhidMmOpHCYHDtiCENpG9hh.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt0475784/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Decoherence",
+            "overview": "Maeve ile Dolores karşı karşıya gelirken William ise bir kaçış yolu bulmaya çalışmaktadır",
+            "still_path": "https://image.tmdb.org/t/p/w400/qjfXgauvL9rg6vDk3oJ9HRfkph7.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt0475784/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Passed Pawn",
+            "overview": "Maeve, Caleb ile birlikte Meksika'ya giden Dolores'in peşindedir. William ise Bernard ve Stubbs ile laboratuvardan ayrılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lWFRCNrmY2bHX6aVkodJGQVFqoC.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt0475784/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Crisis Theory",
+            "overview": "Sonuçlarla yüzleşme zamanı gelmiştir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sjeRx8qxjuesythe6IC0VuFux4o.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt0475784/s3/e08"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Rehoboam’ın yok oluşundan yedi yıl sonra, müttefikleri ve düşmanları yeniden bir araya getiren olaylar başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ahGNaFkabgdUZzDSkFtsBfOIevq.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt0475784/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Maeve ve Caleb birtakım cevaplar arar. Christina, Peter Myers’ı araştırır. William yeni bir Delos girişimini duyurur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A7v7OHCY4YtgazRZECeyNGfM1U2.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt0475784/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Bernard yolculuğuna başlar. Maeve kendini tanıdık bir bölgede bulur. Caleb sevdiği birini görür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1j1sYYeB5DX2FqTJTi0IqvGqw0b.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt0475784/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Maeve ve Caleb hayatlarını kurtarmak için Temperance’tan kaçmaya çalışırlar. Bernard ve direnişçiler çölde bir silah ararlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k3aYo9nBjuc67pHWQCvgRcTk8xW.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt0475784/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Christina kendi gerçekliğinin doğasını sorgular. Charlotte, William’ı ihlali gerçekleştiren aykırı bir insanı izlemekle görevlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AgpTye6KitnhEzVIVqBNrJRdLI8.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt0475784/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Caleb, Charlotte’un acımasız sorgusundan kaçmaya çalışır. Bernard ve C, direnişçilerin saklandığı yere ilerlerken aralarında bir casus bulurlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tq2shC4U2zzjHz0yigAd4qLkHWd.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt0475784/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Bernard ve Maeve dünyayı kurtarmak için savaşırlar. Charlotte planlarının gerçekleştiğini görmeye başlar. Siyah giyen adam geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tvf8MLsLak61l8c5B07BDu0EASH.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt0475784/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Christina labirentin merkezini bulur. Caleb ve C kaçmaya çalışırlar. William, Hale’in onaylamamasına rağmen oyunun zorluğunu değiştirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fgFhnAsAmFZxRaJjjf1WYYdbzYZ.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt0475784/s4/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-13 22:44:25"
 }
