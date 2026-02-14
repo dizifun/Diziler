@@ -2,25 +2,244 @@
     "id": 95396,
     "imdb_id": "tt11280740",
     "name": "Severance",
+    "original_name": "Severance",
+    "overview": "Mark, anıları cerrahi müdahaleyle iş ve özel hayat olarak ayrılmış bir ofis çalışanı ekibinin başındadır. Gizemli bir iş arkadaşı ona iş yeri dışında göründüğünde, yaptıkları iş hakkındaki gerçeği keşfetmek için bir yolculuk başlar.",
     "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
     "year": "2022",
+    "rating": 8.4,
     "genres": [
         "Dram",
         "Gizem",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü"
+    ],
     "cast": [
-        "Adam Scott",
-        "Britt Lower",
-        "Tramell Tillman",
-        "Zach Cherry",
-        "Jen Tullock"
+        {
+            "name": "Adam Scott",
+            "role": "Mark Scout",
+            "image": "https://image.tmdb.org/t/p/w200/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+        },
+        {
+            "name": "Britt Lower",
+            "role": "Helly Riggs",
+            "image": "https://image.tmdb.org/t/p/w200/5XIcTMDSyj7hRICQAcnY9U83ujF.jpg"
+        },
+        {
+            "name": "Tramell Tillman",
+            "role": "Seth Milchick",
+            "image": "https://image.tmdb.org/t/p/w200/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+        },
+        {
+            "name": "Zach Cherry",
+            "role": "Dylan George",
+            "image": "https://image.tmdb.org/t/p/w200/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+        },
+        {
+            "name": "Jen Tullock",
+            "role": "Devon Scout-Hale",
+            "image": "https://image.tmdb.org/t/p/w200/n8SF2SEuJLRGrY3BNHgXdgMfGAK.jpg"
+        },
+        {
+            "name": "Dichen Lachman",
+            "role": "Ms. Casey",
+            "image": "https://image.tmdb.org/t/p/w200/ySRHqthzU1gcEhV5rt7awZCzcwd.jpg"
+        },
+        {
+            "name": "Sarah Bock",
+            "role": "Eustice Huang",
+            "image": "https://image.tmdb.org/t/p/w200/LasHm2Geh7htM53btbYty29ddo.jpg"
+        },
+        {
+            "name": "John Turturro",
+            "role": "Irving Bailiff",
+            "image": "https://image.tmdb.org/t/p/w200/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+        },
+        {
+            "name": "Christopher Walken",
+            "role": "Burt Goodman",
+            "image": "https://image.tmdb.org/t/p/w200/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        },
+        {
+            "name": "Patricia Arquette",
+            "role": "Harmony Cobel",
+            "image": "https://image.tmdb.org/t/p/w200/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Cehennem Hakkında İyi Haber",
+            "overview": "Mark, terfi ettirilerek anıları cerrahi müdahaleyle iş ve özel hayat olarak ayrılmış bir personel ekibinin başına getirilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sP3GZe9j7BY3CAyZGFuZxxnGpN1.jpg",
+            "vote_average": 8.1,
             "link": "https://vidmody.com/vs/tt11280740/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Yarı Döngü",
+            "overview": "Ekip, yeni işe alınan Helly'yi makroveri düzenleme konusunda eğitir. Mark, gizemli eski bir meslektaşıyla buluşmak için bir gün izin alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wIQP0P2tyE7VRIN3xR8Efq7UgKt.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt11280740/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Her Daim",
+            "overview": "Mark, ekibi bir saha gezisine çıkarır ama Helly isyan etmeye devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hMpY4wpHlwMf42aDM25bU9fau5f.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt11280740/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Siz Olan Siz",
+            "overview": "Irving iş yerinde ilginç bir keşifte bulunur. Helly, Dışsal'ıyla görüşmek için çaba sarf eder. Mark, eşini kaybetmekle cedelleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dzQJeDznS0I4spAqTImiLH9p252.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt11280740/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Görsellik ve Tasarım'ın Amansız Mezalimi",
+            "overview": "Irving ve Dylan, yalanları konusunda Burt'le yüzleşir. Ekip koridorlarda dolaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oy4BZotFbNX5YoPkWuWF3kcdMVw.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt11280740/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Saklambaç",
+            "overview": "Ekip, bir ittifak yaparak Cobel'i kızdırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3fQp0pUtgDkqqyEbXY8KKCZPMU7.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt11280740/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Muhalif Caz",
+            "overview": "Mark ve ekip, Cobel'in yeni güvenlik önlemleriyle karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gHoKlbC2esqq3SXm0ZCcl3bzpFZ.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt11280740/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Akşam Yemeğinde Ne Var?",
+            "overview": "Ekip bir plan hazırlar. Mark, Devon ve Ricken'ın partisine katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8Gv9ELume0jo7gz7R2h4tPmVLsD.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt11280740/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Biz Olan Biz",
+            "overview": "Ekip rahatsız edici keşifler yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dzx8D2B0ELncXuCNwtPCags43Q.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt11280740/s1/e09"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Merhaba Bayan Cobel",
+            "overview": "Mark farklı koşullar altında işe döner. Dışsal dünyanın sırları gün yüzüne çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a97vNY8Knu45FLQib0uQZ2VReLy.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Elveda Bayan Selvig",
+            "overview": "Mark bir mesajın anlamını düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f2JCzYw69zOChUrE5SKGpTs6SoY.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Kim Yaşıyor?",
+            "overview": "Mark, Helly, Irving ve Dylan cevaplar arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j4AUAq1XJOBmfXsLphZzsCz6pZs.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Woe’s Hollow",
+            "overview": "Ekip bir grup aktivitesine katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mioOOhTaShLd1MPKsmfirbe9AwI.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Truva Atı",
+            "overview": "Ekip bir mağlubiyet yaşadıktan sonra gerilimler yaşanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/csATq6CUnvyMY26cTKy3YmlmOyK.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Attila",
+            "overview": "Bağlar sınanır. Mark keşif yolculuğuna devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4J8HXT1FIjnLJiNt6xwR0TnmLcX.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Chikhai Bardo",
+            "overview": "Eski bir aşk, günümüzdeki ölümcül bir tehditle kesişir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dmzBzYcEtjOYJO46p7kyRmYrHZu.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Tatlı Sert Eleştiriler",
+            "overview": "Keşifler yapılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/piWjCKARsSkmr9kMKHZ5ynengj3.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Mesai Sonrası",
+            "overview": "Mark ve Devon, bir müttefikle iş birliği yapar. Helly araştırmaya devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2RJaWjY4dD5s7jpdo2aGeSLmtI3.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Cold Harbor",
+            "overview": "Sezon finali.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1FhuOQo7aBclaOE2WenXmZMCDYn.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt11280740/s2/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 02:18:21"
 }

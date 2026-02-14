@@ -2,22 +2,232 @@
     "id": 110316,
     "imdb_id": "tt10795658",
     "name": "Alice in Borderland",
+    "original_name": "今際の国のアリス",
+    "overview": "Amaçsız bir bilgisayar oyuncusu ve iki arkadaşı kendilerini paralel evrendeki Tokyo'da bulur. Burada hayatta kalmak için bir dizi acımasız oyuna katılmaları gerekir.",
     "poster": "https://image.tmdb.org/t/p/w500/i0i7kGDrArtM1sCd8niZDC7iboV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/QZaPkNUvhdcKONuO2fXuqtcQRo.jpg",
     "year": "2020",
+    "rating": 8.1,
     "genres": [
         "Gizem",
         "Dram",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix"
+    ],
     "cast": [
-        "山﨑賢人",
-        "土屋太鳳"
+        {
+            "name": "山﨑賢人",
+            "role": "Ryohei Arisu",
+            "image": "https://image.tmdb.org/t/p/w200/k3o9F4J4rfPXA7YEcpIJkZqREpb.jpg"
+        },
+        {
+            "name": "土屋太鳳",
+            "role": "Yuzuha Usagi",
+            "image": "https://image.tmdb.org/t/p/w200/n2665l3bguzDTm5CnyP99ipU9Z0.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Arisu ve arkadaşları polisten gizlenmek için metro istasyonundaki tuvalete kaçar. Ancak buradan çıktıklarında Tokyo sokaklarını bomboş bulurlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/758JlWhBQjnvRBKKdxH6nEuuyBr.jpg",
+            "vote_average": 8.1,
             "link": "https://vidmody.com/vs/tt10795658/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Yaralanan Chota'yı arkalarında bırakan Arisu ve Karube deneyim kazanmak için dışarı çıkar. Geldikleri apartman binasında ise onları ölümcül bir elim sende oyunu bekler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/At7tagPr0drQWBLAW8dUD8zLsXn.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt10795658/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Chota ve Shibuki'nin vize sürelerinin dolmasına az bir zaman kala dörtlü, Shinjuku'daki devasa botanik bahçesine girer. Burada acımasız bir ihanet oyununa katılırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/m3Jrm1fdV10oweHAQbYviCOWilg.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt10795658/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Vicdan azabı çeken Arisu pes etmeye hazırdır. Ancak Usagi onu ayakta kalmaya teşvik eder. Sırada yer altındaki otobanda yapılacak dayanıklılık oyunu vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rNX5GmJdgVGdp2uBGzPxeVEzXVb.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt10795658/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Arisu ve Usagi, Sahil'e ulaşır. Bu sözüm ona ütopik sığınağın kralı onları geri kalan oyun kartlarını toplamaya yardım etmeye zorlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fpyXJ8bPwvgJpBe6aFnzrMj01CR.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt10795658/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Chishiya statükoyu değiştirmesine yardım etmeleri için Arisu ve Usagi'yi yanına alır. Beklenmedik bir olay Sahil'deki hassas güç dengesini sarsar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9JMqIduUuKncLb7qnh8nlMrmA2K.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt10795658/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Bir zamanlar güvenli bir sığınak olan Sahil, yeni aşamanın arenası hâline gelir. Burada yapılan epik cadı avı, düşmanca bir hesaplaşmada herkesi birbirine düşürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9YZHiAop1YrYQVInKMjPcKCS4GL.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt10795658/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Oteldeki gerilim doruk noktasına çıkar. Oyun saati sıfıra yaklaşırken katliamı atlatmayı başaranlar belirsiz bir gelecekle karşı karşıya kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cRf1dBhxukElDsvZOHchFLNVZKe.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt10795658/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Arisu, Usagi, Kuina ve Chishiya; Shibuya geçidinde bir sonraki etabın başlaması için bir saatten uzun süredir beklemektedir ancak görünürde hiçbir hareket yoktur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rqxBT8eInaSZ1C0slqWgaS267uk.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt10795658/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Sinek Papazı'nın tüm ihtişamıyla kendini göstermesiyle birlikte oyun nihayet başlar. İşlerin yolunda gidiyor gibi görünmesi Arisu'yu şaşırtmıştır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6lkxDlBGRP9bABeiqomLpb7qwI.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt10795658/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Oyunun bitmesine sayılı dakikalar kala her iki takımın da puanları eşittir. Arisu, Kyuma'ya el sıkışmak istediğini söyler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/99APSSW63gJo7ESpUnSN29hcnB4.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt10795658/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Geriye çok az sayıda oyuncu kalmıştır. Partneri olmayan tek kişi Chishiya’dır. Bir sonraki tur, oyunun sonu olabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/p12Y7pDDPo8nUm2LgsD8NXoRgE0.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt10795658/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Aguni'nin aklındaki tek şey, Maça Papazı'nı bulup öldürmektir. Arisu ile Akane Heiya adında kararlı bir lise öğrencisi de ona katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sjiOg7Pbj7UPJMBCxF8rKvFlICp.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt10795658/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Usagi, Maça Kızı takımındaki alaycı oyuncuların duygu ve düşüncelerini değiştirmeye çalışır. Chishiya Yüksek Mahkeme'de, Karo Papazı ile tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mtS0G4GptBUmxt3FFZ9rDpK68Wm.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt10795658/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Otlarla kaplanmış bakımsız Shibuya yaya geçitinde Niragi, Arisu ile Chishiya'yı tehlikeli bir oyuna davet eder. Fakat sonra Maça Papazı gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4xFYsipgphkWAcfcSVnQ4nbwBlw.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt10795658/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Son oyunda üç kroket maçı boyunca sağ kalmaları gerekmektedir. Fakat oyun henüz devam etmekteyken Kraliçe onları oturup çay içmeye davet eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sINJKpevnoJUQ4KZMIn1rfEpXq9.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt10795658/s2/e08"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Gerçek dünyaya geri dönen ve Borderland'e dair hiçbir şey hatırlamayan Arisu ve Usagi, ölüme yakın deneyimlere takıntılı bir profesör olan Ryuji ile karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e26NEflEIWmfZFnxDy2GFDdDb5n.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt10795658/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "İlk oyun bir tapınakta başlar. Arisu ve diğer oyuncular, her şey alevler içinde kalmadan önce matematik problemlerini anında çözmek zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3rWtc0JetCqmu56S89o64gUcF8Z.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt10795658/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Rei'nin planı suya düşünce Arisu, ekibini hayatta tutmak için riskli bir hamle yapar. Başka bir oyunda ise Usagi ve Ryuji, amansız bir lazer bombardımanıyla karşı karşıya kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hVtJnsGUp7ENIkEbQr2OMgs2DQs.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt10795658/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Zaman daralırken ve bir kaza yaklaşırken Usagi'nin grubu hayatta kalmak için trenlerden atlamak zorundadır. Arisu'nun ekibini bombalarla dolu bir Kutuya Vur oyunu beklemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/shvxyTWCnRzS4803Rz7a4vXIoJE.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt10795658/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Arisu, gelecekteki Shibuya'nın simülasyonunda dijital ikizini izlerken yürek ısıtan bir sahnede durur. Gerçek Usagi karşısındadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a5c9p9ygBOrn2K1GAgzWH1Ke1NB.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt10795658/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "İzlediği kahredici geleceğin etkisi altında kalan Arisu, herkesi kurtarma baskısı altında ezilir. Acaba kendisi, Usagi ve ekibi çıkışa ulaşabilecek mi?",
+            "still_path": "https://image.tmdb.org/t/p/w400/pqFBVKZq4ooy5bDjN2HnLsKbOJt.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt10795658/s3/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 01:41:17"
 }

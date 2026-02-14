@@ -2,23 +2,791 @@
     "id": 126027,
     "imdb_id": "tt11379026",
     "name": "Ghosts",
+    "original_name": "Ghosts",
+    "overview": "Güzel bir kır evinin kendilerine miras kalmasıyla hayallerinin gerçekleştiğine inanan güzel çift Samantha ve Jay'i büyük bir sürpriz bekliyor! Daha önce ölen bir grup insanla aynı evde yaşamaya başlayan çiftin maceraları konu edinmektedir.",
     "poster": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
     "year": "2021",
+    "rating": 7.9,
     "genres": [
         "Komedi"
     ],
+    "categories": [
+        "Tümü"
+    ],
     "cast": [
-        "Rose McIver",
-        "Utkarsh Ambudkar",
-        "Brandon Scott Jones",
-        "Danielle Pinnock",
-        "Richie Moriarty"
+        {
+            "name": "Rose McIver",
+            "role": "Samantha Arondekar",
+            "image": "https://image.tmdb.org/t/p/w200/7oswXIUIGAZphpZMBhuXoUgOIJi.jpg"
+        },
+        {
+            "name": "Utkarsh Ambudkar",
+            "role": "Jay Arondekar",
+            "image": "https://image.tmdb.org/t/p/w200/vUW5bFrkjWikNFzh5B6F11r5C3X.jpg"
+        },
+        {
+            "name": "Brandon Scott Jones",
+            "role": "Isaac Higgintoot",
+            "image": "https://image.tmdb.org/t/p/w200/lgw6q8nuBLDet1VUIEbuS5FX9eJ.jpg"
+        },
+        {
+            "name": "Danielle Pinnock",
+            "role": "Alberta Haynes",
+            "image": "https://image.tmdb.org/t/p/w200/hFMGpNsziDjtFvrkQ6KCJSiRN4e.jpg"
+        },
+        {
+            "name": "Richie Moriarty",
+            "role": "Pete Martino",
+            "image": "https://image.tmdb.org/t/p/w200/cXQMQvEzZwALyfHuHUaq9bHvelY.jpg"
+        },
+        {
+            "name": "Asher Grodman",
+            "role": "Trevor Lefkowitz",
+            "image": "https://image.tmdb.org/t/p/w200/vB7oRsWlQ5dIGsh2hdEG3OIdYUh.jpg"
+        },
+        {
+            "name": "Rebecca Wisocky",
+            "role": "Hetty Woodstone",
+            "image": "https://image.tmdb.org/t/p/w200/rR3LZIHFs0pQz0wd9zDPdVvd3nv.jpg"
+        },
+        {
+            "name": "Sheila Carrasco",
+            "role": "Flower",
+            "image": "https://image.tmdb.org/t/p/w200/a3F6yzxjFKZDssAPOymXwYKjwe8.jpg"
+        },
+        {
+            "name": "Devan Chandler Long",
+            "role": "Thorfinn",
+            "image": "https://image.tmdb.org/t/p/w200/qPZeVZqH1z7n5LVKVdzwXbAHe6s.jpg"
+        },
+        {
+            "name": "Román Zaragoza",
+            "role": "Sasappis",
+            "image": "https://image.tmdb.org/t/p/w200/uWkOkSLqj2POMqkeLk5E5UJzebv.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Samantha ve Jay, kendilerine miras kalan yıkık dökük bir kır mülkü için boşuna para harcarlar ve bu evde kimlerle yaşayacaklarından habersizdirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gfTKbRs5DcVQKcohbvO6xvArzxb.jpg",
+            "vote_average": 6.7,
             "link": "https://vidmody.com/vs/tt11379026/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Sam, Woodstone Malikhanesi'nin hayaletlerini görmeye devam ettiği için delirdiğini düşünmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1tanxlI4ch7nnkyEmOmUQySUr4S.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Thorfinn'in kemikleri Woodstone mülkünde bulunduğunda, Sam'den her zaman istediği geleneksel Viking cenazesini düzenlemesini ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9wbhWS1fkdkqkWUVn3ZsDmu2tsb.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Sam ve Jay, meraklı komşuları Henry ve Margaret'i bir akşam yemeği partisine davet eder. Bu sırada yemeğe dahil olmak isteyen hayaletler de vardı.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1YJc171aGLUgc2sS1fq1sPQbsPY.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Hayaletler, Sam ve Jay'in evini her yıl Cadılar Bayramında tahrip eden mahalle çocuklarına karşı korumaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A9CRGxeLjiQI6siajdWGsQinNd7.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Pete'in yaşayan eşi sakladığı bazı sırlarla ziyarete gelir. Thorfinn, Sasappis'i beklemeden en  sevdikleri televizyon programını tek başına izler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zwF5MWLxyDTaiROELnDVDNPhcCC.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Sam, Flower'ın banka soygunu hakkında bir yazı yazmayı ister. Flower hikayenin açıklamadığı kısmından utandığı için Sam'in yazmasına izin vermez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ija5kouIih1ug7BhIVCpfvoto6G.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Jay, şehirdeki arkadaşlarıyla iletişim kurmakta zorlanınca Sam, onunla hayaletler arasında bir oyun oynamayı kabul eder. Isaac, Nigel'e olan hisleriyle yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6dkC1Gbtg0tnnFN6m6KS8Ytcbjp.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Köşke ziyarete gelen Alberta'nın fanı onu çok heyecanlandırır. Bu sırada Thorfinn özel bir anıyı canlandıracağını umduğu için Hetty'i yürüyüşe çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5XgUUqEEQyjdnra8wOipTHJUmhy.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Ünlü bir düğün organizatörüne Woodstone malikhanesini gösterecek olan Sam ve Jay'in işleri Hetty yüzünden karışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9aRpEQmBD7YBkb0UTFQLZp2WAbR.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "Sam ve Jay, Sam'in annesinin hayaletini görmek için onun öldüğü yere giderler. Bu sırada Sasappis, bir sırrı ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rnkC0hfphSuwswWDJavWXrLug28.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "Erkek arkadaşı tarafından terk edilen Jay'in kız kardeşi Bela ziyarete gelir. Jay ve Sam, Bela'nın yeni flörtünü görünce şok olurlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6W4s9DfqVNDP69LPNGLRWYX7YUs.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e12"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "Sam ve Jay, bir arkadaşlarının düğününe ev sahipliği yapmak için hazırlanır. Bu sırada Hetty'nin kocasının hayaleti bazı zorluklar çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cmDzugj2MbfQ3ikyaaU7g7lFCWT.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e13"
+        },
+        {
+            "season": 1,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "Sasappis, Sam'in rezervasyon almaya başlayabilmesi için pansiyonun web sitesini tamamlamasına yardım etmeyi teklif eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9RF5chCsJjg3glBVNXGpq3pGTY2.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e14"
+        },
+        {
+            "season": 1,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "Sam ve Jay pansiyondaki misafirlere oda ayarlamak için hayaletleri bir araya topladıklarında, Thorfinn'in gece terörü yaşadığını öğrenirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aV0TL2jGJkkWVdqtr0qqEjeXc7y.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e15"
+        },
+        {
+            "season": 1,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "Trevor'un eksik pantolonunun sırrı, zengin arkadaşları Sam ve Jay'in Woodstone malikanesi'ne gelmesiyle ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/igH5zdTa1w2cqqdHdir19PmYJRz.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e16"
+        },
+        {
+            "season": 1,
+            "episode": 17,
+            "name": "17. Bölüm",
+            "overview": "Mezuniyet balosu gecesi ölen Stephanie adlı 80'lerin \"Kötü Kız\" hayaleti tavan arasında uyanır ve Sam'in balo gecesinde olanlarla yüzleşmesini tetikler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cLynZUQxjvdZb8PYG6JEM4l10T3.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e17"
+        },
+        {
+            "season": 1,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "Sam ve Jay pansiyonun ilk resmi misafirlerini beklerken Thorfinn'in lanetinin yol açtığı sorunlarla uğraşmak zorunda kalırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aOM118eCGTr16352KiBicBYSYlX.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt11379026/s1/e18"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Spies",
+            "overview": "Sam, pansiyonda kalan eleştirel bir çiftten iyi bir eleştiri almak için hayaletlerden yardım ister. Isaac ise Nigel'i arkadaş grubuna dahil etmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tQ9JWOZJ7cJSKukqMJc947RSqzR.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Alberta's Podcas",
+            "overview": "Sam, Alberta'nın gizemli ölümünü araştıran bir Podcast yayınlamaya karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5xjUEmp1Nn6DAqou87CZTWKVwqQ.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Jay's Friends",
+            "overview": "Hayaletler, Jay'in yeni arkadaşlarının Micah adında bir lider tarafından yönetilen bir tarikatın parçası olduğunu öğrenince Sam alarma geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6IIE66YsSVDUs5JzgkduRPiq9U3.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "The Tree",
+            "overview": "Sasappis, Sam ve Jay'i Woodstone arazisinde komşuların kesmek istediği yaşlı bir ağacı kurtarmaya ikna eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tYnR3qajOfNV0fAT80ITJMjN272.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Hallowen 2",
+            "overview": "Sam ve Jay'in Cadılar Bayramı partisinde Hetty'nin geçmişinden bir ruh çağırılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2Nw5OGXuDlxLAg8kFVpudp1wd6e.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "The Baby Bjorn",
+            "overview": "Sam, Farnsby'lerin evinde Thorfinn ile beklenmedik bir bağlantısı olan bir Viking hayaletiyle tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l5lTQ7hFxCgT9h0w6SyJmIymCzw.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Dumb Deaths",
+            "overview": "Bir televizyon belgesel ekibi programlarının bir bölümünü çekmek için Woodstone Malikanesi'ne gelir ve Pete ölümüyle ilgili acı bir gerçekle yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6pQlTc3kjdcA3vytxem5RBoGW57.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "The Liquor License",
+            "overview": "Alberta'nın geçmişinde edindiği bir uzmanlık, Sam ve Jay'in Woodstone viski tadım partisinde bazı sorunlarla karşılaştıklarında işe yarar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b8P2mxjNI8dYSu125KmvQcWzT2J.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "The Christmas Spirit, Part One",
+            "overview": "Jay'in kız kardeşi Bela yanında kendisine hayran bir erkek arkadaşla Woodstone malikanesi'ni ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/546GSGBUSBRtMGAXPcZTGP6Rvqv.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "The Christmas Spirit",
+            "overview": "Jay'in kardeşi bela ve hayaletlerin kurduğu plan ters gidince Sam ve Thorfinn çapraz ateş altında kalırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/24HGeqsLjn3gQYFGr8hfe6cQV55.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "The Perfect Assistant",
+            "overview": "Sam ve Jay, B&B için yetenekli bir asistan bulduklarında çok heyecanlanırlar. Yeni çalışanları ise bazı şaşırtıcı bagajlarla birlikte gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hB3lngkK0rkosYQ0nMpPLfMk6vI.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "The Family Business",
+            "overview": "Sam, Jay'in asistanı Freddie'ye ilişki tavsiyeleri verir ve Hetty'nin uyarılarını göz ardı eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qHug8GaHRtSkut1uCDza61caYbl.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e12"
+        },
+        {
+            "season": 2,
+            "episode": 13,
+            "name": "Ghost Hunter",
+            "overview": "Şüpheli faaliyetler Sam ve Jay'in asistanı Freddie'yi Woodstone'un perili olduğu teorisine götürünce Freddie hayalet avlama ekipmanı satın alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1pFSxSskN5NaFVvzV03dZ84Etqu.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e13"
+        },
+        {
+            "season": 2,
+            "episode": 14,
+            "name": "Trevor's Body",
+            "overview": "Trevor, yeni bulunan eşyalarını almak için Woodstone'a geldiklerinde ailesi hakkında rahatsız edici haberler alır. Isaac ve Nigel'in ilişkisi bir engele takılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hA90t1maallfVG5sUp6T6eFUgGw.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e14"
+        },
+        {
+            "season": 2,
+            "episode": 15,
+            "name": "A Date to Remember",
+            "overview": "Sam ve Jay, Thorfinn'in Flower ile mükemmel bir ilk randevu ayarlamasına yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/guurMxupi4LhMtlqdPQzmB8begE.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e15"
+        },
+        {
+            "season": 2,
+            "episode": 16,
+            "name": "Isaac's Book",
+            "overview": "Sam, Isaac hakkında bir biyografi yayınlamaya çalışırken duvara tosladıktan sonra onun moralini yüksek tutmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rvNFJdi5jCSkdAOzzKZYl5jdXRn.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e16"
+        },
+        {
+            "season": 2,
+            "episode": 17,
+            "name": "Weekend from Hell",
+            "overview": "Elias Woodstone, sonsuza dek cehennemden uzak kalabilmek için Hetty'den af diler. Jay, Flower'da yürüyüşten sonra bulduğu mutfak sanatını tekrarlamakta zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qpU7VXdbjHQlIxKvLi1t91VRF6R.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e17"
+        },
+        {
+            "season": 2,
+            "episode": 18,
+            "name": "Alberta's Descendant",
+            "overview": "Yaşayan akrabası Alicia'nın, Alberta hakkında daha fazla bilgi edinmek için Woodstone'u ziyaret etmesi Alberta'yı heyecanlandırsa da işler karışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dQYDkDmIH5Ajl5FjuKVNy2FfrQ5.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e18"
+        },
+        {
+            "season": 2,
+            "episode": 19,
+            "name": "Ghost Father of the Bride",
+            "overview": "Pete'in kızı Laura'nın evleneceği öğrenen Sam, Pete'in ricasıyla Laura'yı düğününü Woodstone B&B'de yapmaya ikna etmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6waoCLqabssSFKxJFRqo78imlT7.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e19"
+        },
+        {
+            "season": 2,
+            "episode": 20,
+            "name": "Woodstone's Hottest Couple",
+            "overview": "Tavan arasında yaşayan Hayalet, aşık olduğu Trevor'ın artık Hetty ile sevgili olduğunu öğrenir. Woodstone'daki tüm ilişkileri baltalamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A0696PyuvZEVoxW5Xh6kSvZRxqR.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e20"
+        },
+        {
+            "season": 2,
+            "episode": 21,
+            "name": "Whodunnit",
+            "overview": "Sam'in podcast editörü son şans olarak bir bölüm daha verir. Sam, Jay ve hayaletler Alberta'nın cinayetini çözmek için dedektif moduna geçerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eoEtVuHcoMkRYXZXkoB88CMEQD2.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e21"
+        },
+        {
+            "season": 2,
+            "episode": 22,
+            "name": "The Heir",
+            "overview": "Woodstone Malikanesi'nin asıl varisi olduğunu öne süren bir kadın ortaya çıkar.Sam ve Jay bir avukattan yardım isterken Isaac maddi hesaplamalar içindedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gjuni3ca3YV1IPBMxJFNy1pE66K.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s2/e22"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "The Owl",
+            "overview": "Sam, Jay ve kalan hayaletler, öbür dünyaya geçen hayaletlerin gizemini çözer. Ayrıca Jay'in restoranına dönüştürmek için ahırdaki baykuşun yerini değiştirmeleri gerekir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cL5eVOow9v3GNbdily2nmrdsnc8.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Man of Your Dreams",
+            "overview": "Sam, hayaletlerin güçlerinden birini öğrenir. Hayaletler, hayattaki insanların rüyalarına girip kararlarını etkileyebilirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sf28qll1JO9Mhog5c8UjJaJ2Ans.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "He Sees Dead People",
+            "overview": "Jay'in kız kardeşi Bela ve erkek arkadaşı Eric, Woodstone Malikanesi'ni ziyaret eder. Eric, Noel'de malikanede yaşadığı olayın ardından ne olduğunu anlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xXvcKLqsc54KTrKngSlmQYDC8ez.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Halloween 3: The Guest Who Wouldn't Leave",
+            "overview": "Woodstone Malikanesi Cadılar Bayramı partisinde bazı misafirleri ağırlar. Bir yandan hayaletler Flower'ı geri getirmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/433tgzggKAWRHgtamViyHS1lWZz.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "The Silent Partner",
+            "overview": "Büyük bir yatırımcı Sam ve Jay'in restoranından çekilir. Parası olan tek hayalet Isaac'e mecbur kalmalarını ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kFDR0uTlbMvJydxkLntFrW3RpxH.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Hello, Brother",
+            "overview": "Trevor'ın kardeşi Jeremy, Woodstone Ödül Puanları programında bir boşluk bulur. Daha sonra Woodstone'a taşınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tyTPO6ThIMbK89sJylaVAVnLhmq.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "The Polterguest",
+            "overview": "Woodstone'a gelen bir misafire bağlı olan hayalet ve Alberta arasında duygusal bir çekim başlar. Bir yandan malikanede bekarlığa veda partileri gerçekleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/d47ALBPqRjNEUaKfLW1BMPAEKDn.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Holes Are Bad",
+            "overview": "Sam ve Jay hayaletleri evde yalnız bırakarak kaçamak yaparlar. Bu sırada Woodstone'da büyük bir kavuşma yaşanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3X4M9DrVI2KdwkdShfAVe9xBUQw.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "The Traveling Agent",
+            "overview": "Pete, farkında olmadığı bir gücünü keşfeder. Bu güç, onun Jay'le arasındaki ilişkiyi etkiler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xCMcZA6HjlyIYUluD4yEzotgdKC.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Isaac's Wedding",
+            "overview": "Bir düğünde olabilecek kötü senaryolar Isaac'in başına gelir. Sürpriz bir konuğun gelmesi işleri iyice karıştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ye80LUa3OhxlGHZ6s5S7hnLgfHm.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s3/e10"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Patience",
+            "overview": "Sam ve hayaletler Isaac'i bulmak için yarışır. Isaac ise toprakta kaybolduğundan beri hayalet Patience ile ilk kez yüz yüze gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nBgLSnqcyHb9Hpk222Ky1MyB9nW.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Sam's Dad",
+            "overview": "Sam'in babası Woodstone'a ziyarete gelince, Patience baba-kız ilişkilerini sınar. Thor ve Flower, Nancy ile yaşadıkları garip durumla başa çıkmak zorunda kalırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4EnfR2LdmPcdOPavZYtxtILIKbj.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Halloween 4: The Witch",
+            "overview": "Sade bir Cadılar Bayramı kutlamasında hayaletler heyecan arar. Patience'ın yardımıyla Sam'i cadı mahkemesine çıkarırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yYr0IKlvE3mdibY6uRK90UupS8V.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "The Work Retreat",
+            "overview": "Uzaktan finans analistliği işine girmeyi başaran Trevor, yüz yüze çalışma kampına çağrılınca başı derde girer. Hetty ve Sass, Pete hakkında bir dedikodu çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/88x2F9yThFnfrWWJZyLALwPJLxM.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "A Star Is Dead",
+            "overview": "Alberta Sam'e bir topluluk tiyatrosunun prodüksiyonu için seçmelere hazırlanmasında yardım teklifinde bulunur. Sassy ise Jay'in rüyalarına yine müdahale eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nmBbOB54CYArxxMUWSguLmt4Whj.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "The Primary Source",
+            "overview": "Sam'in kitap yayıncısı Isaac hakkındaki biyografisi için kaynak materyal ister. Sam ve Jay, Isaac'in hayattayken sakladığını söylediği bir günlüğü ararlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pNgmCvf1iNhPmulqujsz4IaayNO.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Sad Farnsby",
+            "overview": "Sam yanlışlıkla komşuları Farnsby'lerin arasını açınca Herny Farnsby, Woodstone B&B'ye taşınır. Isaac ve Nigel gecikmiş bir düğün hediyesi için mücadele eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cgnZzE3wry6PWQDGsYih9yRNHmJ.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "A Very Arondekar Christmas Part 1",
+            "overview": "Sam ve Jay, Jay'in memnun edilmesi zor olan ailesini ağırlamaya hazırlanır. Ancak ufak bir kaza tüm planları alt üst edecek olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uALb7MuuQChnGJ67agHHLlfZKaI.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "A Very Arondekar Christmas Part 2",
+            "overview": "Sam ve Jay, Jay'in memnun edilmesi zor olan babası, annesi ve kız kardeşini ağırlamak için hazırlık yaparken aksilikler yaşamaya devam ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8ea3yCXhJbrllC2DfdIlgtHBYA4.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "The Not-So-Silent Partner",
+            "overview": "Mark, Jay'in restoranının inşaatını geciktiren sessiz yatırımcıyla görüşmek ister. Bunun üzerine Sam ve Jay işlerini halletmek zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a8UytvKMR6vFNOgltySyxLPyRiY.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e10"
+        },
+        {
+            "season": 4,
+            "episode": 11,
+            "name": "Thorapy 2: Abandonment Issues",
+            "overview": "Thor, gemi arkadaşları tarafından terk edilmenin verdiği sıkıntıyla baş etmeye kararlıdır. Tekrar terapi almaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/te4BWLJ49jJwxuLCXkGHL7odpp2.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e11"
+        },
+        {
+            "season": 4,
+            "episode": 12,
+            "name": "It's the End of the World as We Know It and What Were We Talking About?",
+            "overview": "Flower, eski tarikat liderinden gelen bir kehanete dayanarak Jay'in restoranının açılışına müdahale eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5t3RRy0oygtQobkTI7j5yioxURx.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e12"
+        },
+        {
+            "season": 4,
+            "episode": 13,
+            "name": "Ghostfellas",
+            "overview": "Jay, Pete'nin verdiği tarifi kendi restoranında kullanır. Bu durum yerel bir restoran işletmecisini kızdırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ypdNE1s07WjQ8IL0slE2ucsm3xZ.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e13"
+        },
+        {
+            "season": 4,
+            "episode": 14,
+            "name": "Alexander Hamilton and the Ruffle Kerfuffle",
+            "overview": "Jay, bir şef arkadaşının başarısına takıntılı hale gelir. Isaac, Alexander Hamilton ile rekabetini ders verici hikaye olarak anlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bCIL6r3QkSE1eL4WzqU1dA9e0tz.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e14"
+        },
+        {
+            "season": 4,
+            "episode": 15,
+            "name": "The Bachelorette Party",
+            "overview": "Alberta'nın soyundan gelen biri Woodstone malikanesinde bekarlığa veda partisi düzenler. Alberta, nişanlısından şüphelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jhgU6xTqm6EFzCXTzQdwgyPTqTm.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e15"
+        },
+        {
+            "season": 4,
+            "episode": 16,
+            "name": "St. Hetty's Day",
+            "overview": "Jay'in kuzeni Sunil, St. Patrick Günü'nde Woodstone Malikanesi'ni ziyaret edince Hetty'nin hayalet gücü ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tylsQ2pDrU1XNqHwdNJaX0iR6Gl.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e16"
+        },
+        {
+            "season": 4,
+            "episode": 17,
+            "name": "His Girl Shiki",
+            "overview": "Pete, Sasappis için verdiği sözü tutar. Hem 1940' larda dolaşabilen hem de espirili olan bir senarist getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7IExs72S6awNBPGrciCIevxxghP.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e17"
+        },
+        {
+            "season": 4,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "Jay, Sam ve hayaletler hayalet tuzağını onarmaya çalışırlar. Sasappis'in hayalet sınırını geçip büyük aşkı Shiki'yi ziyaret edebileceğini umut ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jSeepqTprM4HgFaaegVelX3Glbs.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e18"
+        },
+        {
+            "season": 4,
+            "episode": 19,
+            "name": "19. Bölüm",
+            "overview": "Trevor'ın eski iş arkadaşı Pinkus ve kızı Abby, Woodstone Malikanesi'ne gelir. Trevor, öbür dünyanın sürpriziyle karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k77TsZauQQWTS2GVjpuaREO6IbF.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e19"
+        },
+        {
+            "season": 4,
+            "episode": 20,
+            "name": "20. Bölüm",
+            "overview": "Sam ve Jay, Jay'in restoranı için belediye başkanı aracılığıyla bir bağış gecesi düzenlerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wTXcIKiJFkLdFK4eLofWldWaG4s.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e20"
+        },
+        {
+            "season": 4,
+            "episode": 21,
+            "name": "Kyle",
+            "overview": "Sam'in hayaletleri görme yeteneğini paylaşan Kyle, Woodstone'a gelir. Bu yüzden Sam ve Jay'in ilişkisi sınanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aSs5D7sNQ5siLwheoa9bYMfMVCd.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e21"
+        },
+        {
+            "season": 4,
+            "episode": 22,
+            "name": "The Devil Went Down to Woodstone",
+            "overview": "Sam ve Jay, Sam ile Isaac'in vampir kitabının tanıtımı için büyük bir parti organize ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2OBbycXCe7GXljVBdmAWFAZIcyg.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt11379026/s4/e22"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/9wOj4mqCJu6MZ2bFzc9ylN43Sf6.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt11379026/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/lD2Jl5PljSy0YxSIQcAqJGHrxkG.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt11379026/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/uXHIq1Js6iGsh58HBKlLVR0IhWa.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt11379026/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/aTcreY7kunUcNcyAESsikXD8tJd.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt11379026/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/rvU3UJYMQP63tEOHStCT45VVD1a.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt11379026/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/37rJhrgoV8NQR0TqsAJUvC773LZ.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt11379026/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/jzkfwb3yJyjIkqQ02ITqSuJ3DaE.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt11379026/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/fHcW2Lw9g19LcjWaIDekib7daVU.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt11379026/s5/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 02:26:42"
 }

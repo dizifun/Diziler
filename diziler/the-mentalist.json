@@ -2,25 +2,1395 @@
     "id": 5920,
     "imdb_id": "tt1196946",
     "name": "The Mentalist",
+    "original_name": "The Mentalist",
+    "overview": "Patrick Jane isimli bir medyum, sirkte çalışan ve gözlem güçlerini kullanarak insanlar hakkında birtakım fikirler edinip bu fikirleri onlara medyum gibi satan biridir. Bir gün bu özelliği sebebiyle televizyona çıkar ve kendine Red John isimli bir düşman edinir. Red John Jane’in kızını ve eşini öldürünce ortada kalan ve bu ölümlerin sebebinin kendisi olduğunu düşünen Jane, en sonunda FBI’a başvurarak Red John’ın peşine düşmek ister. Her ne kadar ilk başlarda bu isteği geri çevrilse de FBI’ın çözemediği birtakım davaları çözen Jane, bu özel ekibe danışman olarak işe alınır.",
     "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
     "year": "2008",
+    "rating": 8.4,
     "genres": [
         "Suç",
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon"
+    ],
     "cast": [
-        "Simon Baker",
-        "Robin Tunney",
-        "Tim Kang",
-        "Rockmond Dunbar",
-        "Joe Adler"
+        {
+            "name": "Simon Baker",
+            "role": "Patrick Jane",
+            "image": "https://image.tmdb.org/t/p/w200/fPMbtYZ45BYrGMWd5XFk0n6FHUv.jpg"
+        },
+        {
+            "name": "Robin Tunney",
+            "role": "Teresa Lisbon",
+            "image": "https://image.tmdb.org/t/p/w200/vOmWyYNoVEaPPvoto4IW8dSXn7I.jpg"
+        },
+        {
+            "name": "Tim Kang",
+            "role": "Kimball Cho",
+            "image": "https://image.tmdb.org/t/p/w200/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg"
+        },
+        {
+            "name": "Rockmond Dunbar",
+            "role": "Dennis Abbott",
+            "image": "https://image.tmdb.org/t/p/w200/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg"
+        },
+        {
+            "name": "Joe Adler",
+            "role": "Jason Wylie",
+            "image": "https://image.tmdb.org/t/p/w200/bsle7zqj6HBs6NYstkwDwQY7EEf.jpg"
+        },
+        {
+            "name": "Josie Loren",
+            "role": "Michelle Vega",
+            "image": "https://image.tmdb.org/t/p/w200/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Pilot",
+            "overview": "Ünlü bir medyum, Kaliforniya Soruşturma Bürosun’da kritik davaları çözmek için danışman olarak çalışmaya başlar. Asıl amacı, eşini ve kızını öldüren “Red John” adlı katili bulmak ve cezasını bizzat kendisi vermektir!",
+            "still_path": "https://image.tmdb.org/t/p/w400/jDP0SSNdjDO6NANoZA8q1ps5khm.jpg",
+            "vote_average": 7.7,
             "link": "https://vidmody.com/vs/tt1196946/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Red Hair And Silver Tape",
+            "overview": "Napa Vadisi’ndeki bir üzüm bağında Melanie O’Keefe adlı kadının cesedi bulunur. Lisbon, cinayetin iki sevgili arasında yaşanan bir anlaşmazlık sonucunda işlendiğini düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7VErwt3ZsyBjcLAXzCy1EJ39NZJ.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Red Tide",
+            "overview": "Genç bir sörfçü kızın cesedi Santa Marta sahiline vurur. Kızın sörfçü arkadaşlarının çoğu şüphelidir. Soruşturmada elle tutulur bir ipucu bulunamayınca Jane, hipnoz yeteneklerini kullanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o8MoUtaLAGvVjCRSwhQQW9V9qDX.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Ladies in Red",
+            "overview": "Zengin bir bankacı evindeki gizli sığınakta ölü bulunur. Katili bulmak için CBI ekibi kurbanın özel hayatını mercek altına alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k5Cxkp7fkenZFpSSFnHvOvQbqsk.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Redwood",
+            "overview": "Ormanda bıçaklanarak öldürülmüş bir kız bulunur. Hafızasını kaybetmiş olan en yakın arkadaşı, cinayetin bir numaralı şüphelisi olarak görünse de Jane, o kadar emin değildir. Yeteneklerini kullanarak olayı hatırlamasına yardımcı olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ev5PLgm0GYT0oBZ6q0yM8yHYcEN.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Red-Handed",
+            "overview": "Kaliforniya-Nevada eyalet sınırında otel kumarhane sahibinin kesik eli bulunur. CBI, mafya cinayetinden şüphelenir. Soruşturma sırasında Jane, kumarhanede kartları sayarak para kazanma şansı yakalamıştır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2qtjBaAuNxSKJXmf1vfqevdueLC.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Seeing Red",
+            "overview": "Çarpıp kaçan araç, varlıklı bir kadının ölümüne neden olur. Soruşturma CBI ekibini ölen kadının düzenli olarak ziyaret ettiği medyum bir kadına götürür. Bir zamanlar medyum olan Patrick Jane, kadının dolandırıcı olduğundan şüphelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4dxFEbIYEQCxZ2j1Kjfqmx9wdyK.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "The Thin Red Line",
+            "overview": "CBI, iki Davis polis memuru ile bir uyuşturucu davasıyla ilgili çifte cinayeti çözmek için birlikte çalışmaya zorlanır. Fakat CBI ekibi, memurların başka bir davanın kurbanı ile bağlantılı olabileceğinden şüphelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7oxcBt3eHyYxuabscmxU7w6r9sj.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Flame Red",
+            "overview": "CBI üç kundakçılık vakası ortaya çıkarır. Bu vakalarla ilgisi olan adamlar aynı gayrimenkul işinde faaliyet göstermiş ve hepsi ulusal savunma biriminde görev yapmıştır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zMhFZ3kf2Clwv497eQ9Sk5ZDsrX.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Red Brick and Ivy",
+            "overview": "Bir nörolojik bilim projesi çerçevesinde hayvanlar üzerinde birtakım deneyler yapılmaktadır. Bu bilimsel projeyle ilgili bir cinayet işlenir. Cinayeti aydınlatmak üzere Jane’in bir tanıdığı kendisinden yardım ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6AjUXnH5WbTCKh4UakaF9irrseQ.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "Red John’s Friends",
+            "overview": "Jared Renfrew, evlerindeki hizmetçinin kızına tecavüz edip öldürme suçundan mahkumdur. Red John’u tanıdığını söyleyen Jared, masumiyetini kanıtlarsa Jane’e, Red John’un yerini söyleyeceğini taahhüt eder. Jane kabul eder ancak istifa etmesi gerekir. Bütün CBI ajanları da kendisine yardım etmek için büyük risk alırlar. Jane söz verdiği gibi masum olduğunu kanıtlar ve Jared serbest kalır. Ancak Red John, CBI’ın bilgisayar sistemine girmiştir ve ajanlardan bir adım öndedir!",
+            "still_path": "https://image.tmdb.org/t/p/w400/4JI3dk7lcQdejmOj7gUQODC0kTz.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "Red Rum",
+            "overview": "Küçük bir kasabada yetenekli genç bir futbol oyuncusu ölü bulunur. Görünüşte kara büyüye inananların düzenlediği bir törende kurban edilmiş gibi gözükse de gerçekler Jane’in gözünden kaçmaz!",
+            "still_path": "https://image.tmdb.org/t/p/w400/hRHYTu3sbY0nIjOmZjal6a9R9er.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e12"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "name": "Paint it Red",
+            "overview": "CBI, ünlü bir iş adamının ölümüyle çok pahalı bir tablonun çalınması olayının bağlantılı olduğunu keşfeder ve soruşturma başlatır. Rus milyarder ve sanat eseri koleksiyoncusu Shirali Arlow’un bu sırada çok para kazanması dikkatleri üzerine çeker. Ancak diplomatik dokunulmazlığının olması Jane’in işini zorlaştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ycvYblBRPJLQodxlTOYqtmO0dtZ.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e13"
+        },
+        {
+            "season": 1,
+            "episode": 14,
+            "name": "Crimson Casanova",
+            "overview": "Zengin bir işadamının karısı, seçkin bir termal tatil köyünde öldürülür. İş adamı, şımarıklıklarından sıkıldığı için artık görmezden geldiği karısının ölümde baş zanlı olmuştur. Tatil köyünde, zengin eşleri baştan çıkarıp onları kendisine aşık eden birde “Kasanova” vardır! CBI ekibi, bu ikiliyi takibe alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7TzGE8FnNKJlOvwzs9uBFXWc9pv.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e14"
+        },
+        {
+            "season": 1,
+            "episode": 15,
+            "name": "Scarlet Fever",
+            "overview": "Zengin bir mücevher tasarımcısı bir partide zehirlenerek öldürülür. CBI soruşturması, ölen kadının çevresindeki pek çok kişinin ikili tavırlarını ortaya çıkarır. Mücevherler, uyuşturucu, mafya, intikam, Jane’i bu davada oldukça karışık olaylar bekliyor...",
+            "still_path": "https://image.tmdb.org/t/p/w400/ilyUzTMXkS4iFuvCpApcpMrZ9YZ.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e15"
+        },
+        {
+            "season": 1,
+            "episode": 16,
+            "name": "Bloodshot",
+            "overview": "CBI, “Bulacak kadar akıllı mısın?” mesajıyla bir bomba ihbarı daha alır! Bu defa gerçekleşir... CBI ekibi bir hisse senedi komisyoncusu cinayetini araştırmak için yola çıkmadan önce bomba patlar ve Patrick bu olayda yaralanarak geçici körlük yaşar. Patrick, parlak zekası ve güçlü iç güdüleriyle yaşadığı körlüğe rağmen olayı çözebilecek mi?",
+            "still_path": "https://image.tmdb.org/t/p/w400/4g76Raxq4YwmwlGRid2NUnU8ovD.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e16"
+        },
+        {
+            "season": 1,
+            "episode": 17,
+            "name": "Carnelian, Inc.",
+            "overview": "Başsavcıya gelen ilginç cinayet mesajları CBI’ı harekete geçirir. Bu defa çok saygın ve borsada ilk sıralarda yer alan bir firmanın, insan kaynakları direktörü öldürülür. Soruşturma sırasında firmanın CEO’sunun rahat tavırları Jane’i kuşkulandırır. İpuçlarını biraraya getirmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5jj36vf3eJSJNQHsOMCFDCVl9zP.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e17"
+        },
+        {
+            "season": 1,
+            "episode": 18,
+            "name": "Russet Potatoes",
+            "overview": "Hipnoz, bilinçli zihin yerine hayal gücüne bağlanma yöntemidir. Ne kadar saçma veya garip olursa olsun zihin, hayal gücünün yarattığını kabul eder! CBI ajanları bu defa hipnoz edilmiş bir satıcının işlediği cinayeti aydınlatmaya çalışıyor. Ancak işleri oldukça zor, ajan Rigsby hipnotize edilince ortalık iyice karışıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3W680u2hpzQKRIADH9Ayio2N3My.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e18"
+        },
+        {
+            "season": 1,
+            "episode": 19,
+            "name": "A Dozen Red Roses",
+            "overview": "Eskiden senatörlük yapmış zengin bir iş adamı öldürülür. Adamın, bir zamanlar çok ünlü bir aktris olan fakat şimdilerde çok fazla rol alamayan eşine, para karşılığı rol ayarladığı anlaşılır. Uyuşturucu şebekesiyle bağlantısı olduğu tespit edilince işler iyice karışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ublsSLm2uOCHjXONTcegUM6NVkw.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e19"
+        },
+        {
+            "season": 1,
+            "episode": 20,
+            "name": "Red Sauce",
+            "overview": "Tanık koruma programında olan eski bir mafya üyesi öldürülür. CBI ajanları ipuçlarını değerlendirirken. Jane olayı daha kısa yoldan çözmek ister. Bunun için direk mafya liderinin kendisine gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/HgoHjKqiH7ROwhXbuso98rZGXL.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e20"
+        },
+        {
+            "season": 1,
+            "episode": 21,
+            "name": "Miss Red",
+            "overview": "Yazılım şirketi Gaia Matrix’in CEO’su Jim Gulbrand öldürülür. Kardeşi, eski karısı, ortağı ve yeni sevgilisinden biri bu suçu işlemiş olabilir. Soruşturma’da Gulbrand’in karısına vermemek için 10 milyon doları sakladığı ortaya çıkar. Para bulunduğunda katil de bulunacaktır!",
+            "still_path": "https://image.tmdb.org/t/p/w400/sXgvbiqZaYaItFA7u43XtQ5D2MH.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e21"
+        },
+        {
+            "season": 1,
+            "episode": 22,
+            "name": "Blood Brothers",
+            "overview": "Sorunlu gençlerin katıldığı özel bir okul’da genç bir çocuk öldürülür. Okul’da genellikle şiddette eğilimli ya da içine kapanmış, çevresi tarafından dışlanmış çocuklar bulunmaktadır. Okulun amacı doğayla iç içe kalarak mücadele etmeyi ve temel disiplin kurallarını öğretmek. Okuldaki bazı kurallar Jane’e çok mantıklı gelmez ve olayın derinliğine inmeye karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/27KXwNAOP6sDXDXUTXmQlA8SfUd.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e22"
+        },
+        {
+            "season": 1,
+            "episode": 23,
+            "name": "Red John’s Footsteps",
+            "overview": "Red John tarzı bir cinayet işlenmiştir. Kızıl saçlı güzel bir genç kız parkta ağzı bir bantla kapatılmış, elleri kolları bağlanmış boğulmuş olarak bulunur. CBI araştırması sonucu bütün ipuçları kızın gizemli sevgilisini katil olarak gösterse de Jane buna inanmaz ve gerçek katili ortaya çıkaracak bir plan yapar. Ancak işler beklediği gibi yürümez...",
+            "still_path": "https://image.tmdb.org/t/p/w400/ibJykrUSEL7qSK9FnSJpRKTmJnr.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1196946/s1/e23"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Redemption",
+            "overview": "Lisbon ve ekibi Sacramento’da bir alışveriş merkezindeki cinayeti Jane sayesinde çabucak çözer. Ancak olay çözülürken oldukça fazla hasar olması CBI başkanını çok kızdırır. Red John davasını Lisbon ve ekibinden alıp, Bosco’nun ekibine verir. Red John davasından alınması Jane için karar verme nedeni olmuştur. Lisbon’la devam edecek mi yoksa ayrılacak mı? Son bir davada daha ekibe yardım etmeye karar verir. Bir taraftan da Bosco’ya yakınlaşıp Red John davasıyla ilgili gelişmelerden haberdar olmak ister. Ama Bosco buna asla izin vermeyeceğini belirtir. Jane’in yeni planlar yapması gerekecektir. ",
+            "still_path": "https://image.tmdb.org/t/p/w400/cHnMZCdgxSVAGCi1JtlsJadeahH.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "The Scarlet Letter",
+            "overview": "Kaliforniya eyalet senatör yardımcısının ölümünü CBI soruşturmaya başlar. Patrick Jane ayrı bir araştırma yapar, zira kurbanın senatörün ailesinden biriyle bir ilişki yaşadığından şüphelenmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pfDL2jw3dXizGrcCuIZI8ckhDuX.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Red Badge",
+            "overview": "Ajan Lisbon’un geçmişte yakaladığı azılı bir çocuk tacizcisi öldürülür. Kanıtlar  Lisbon’u işaret eder. Fakat olay gecesiyle ilgili Lisbon hiçbir şeyi hatırlayamaz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7QioXzeGbmcjhq3us5Akc0Nywdf.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Red Menace",
+            "overview": "CBI ekibi, bir avukatın ölümüyle ilgili bilgi toplayabilmek için tehlikeli bir motosiklet çetesini soruşturmaya başlar. Söz konusu kurban çeteyi temsil ediyordu!",
+            "still_path": "https://image.tmdb.org/t/p/w400/6VRJIBilaZiuBJGCa7KSPqPTni1.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Red Scare",
+            "overview": "Yakın zamanda aldığı konakta ölü bulunan bir mimarla ilgili yapılan soruşturmada evin lanetlendiği ve gizli bir hazinenin olduğu söylentileri dolaşmaktadır. Ayrıca ilk ev sahibinin kızgın mirasçılarının varlığı da iddia edilmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4YWEyG5TkE1LL8yHl24rOMypJAB.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Black Gold and Red Blood",
+            "overview": "CBI ekibi bir arazi davası ile ilgili işlenen cinayeti soruşturmaya başlar. Red John ile ilgili bilgi toplamak için Sam Bosco’yu gizlice takip eden Jane hapse girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wKJRCPj1S1DdZoW1tXn18jfKOCr.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Red Bulls",
+            "overview": "Jane ve CBI ekibi, kaçırılan kurbanı bulmak için Lisbon’ın teşkilat ofisindeki güçlü rakibi Sam Bosco ile birlikte çalışmaya zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gRXXsiroDydiSWibDpn5h4AilaQ.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "His Red Right Hand",
+            "overview": "Red John, CBI ofisine beklenmedik darbeyi vurarak üç ajanın ölümüne neden olur. Sam Bosco’nun durumu ise ciddiyetini korumaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xa4ZTGUvn78Dtsxd5YdeICfb5pr.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "A Price Above Rubies",
+            "overview": "Kuyumcuya yapılan soygun sırasında mağazaya giren adam ağır şekilde yaralanır. Adam, mağaza sahibinin kocasıdır. CBI ekibi vurgunun içerden yapıldığından şüphelenir.  Şüpheler mağaza sahibinin iki yeğeni üzerine yoğunlaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8Xdt4xcBy1R8UBlq6UHcmysKuew.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Throwing Fire",
+            "overview": "Prestijli bir Beyzbol Akademisi’nin kurucusu cinayete kurban gider. Soruşturmanın başlamasıyla Jane gençliğinde karnavalda yaptığı medyumluk günlerini hatırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8dUUl8CuWjZ64GkcugFS1KBlxU8.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "Rose-Colored Glasses",
+            "overview": "Eski bir lise öğrencisi ve eşi mezuniyet toplantısı öncesi öldürülür. Jane, kurnaz bir plan hazırlayıp katili ortaya çıkarmak ister fakat bu konuda Rigsby’nin yardımına ihtiyacı vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v9007sx5kWbWiwXrhEG7fDzMwDE.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "Bleeding Heart",
+            "overview": "Belediye başkanının medya ilişkileri sorumlusunun ölümü araştırılırken, davanın şüphelileri arasında olan bir eko-terörist Jane’i kaçırır. Bu arada CBI ekibi zoraki olarak belgesel çekilmesini kabul eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zMJskaF4JsnRFEDtWeTggcrFTSe.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e12"
+        },
+        {
+            "season": 2,
+            "episode": 13,
+            "name": "Redline",
+            "overview": "Oto galerisinde lüks bir arabanın bagajında başarılı bir satış sorumlusu kadının cesedi bulununca Jane ve CBI ekibi olayı soruşturmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pt9H3RfnZhxW33lrFNxPRGIIFfs.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e13"
+        },
+        {
+            "season": 2,
+            "episode": 14,
+            "name": "Blood In, Blood Out",
+            "overview": "Bir zamanlar Cho’nun Avon Park Playboys adlı çetesinin eski bir üyesi ölü bulununca Jane, Cho’nun gayriresmi soruşturmasına yardım etmek ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/99qFP3jwsNk6IRnuGGJipngU79Y.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e14"
+        },
+        {
+            "season": 2,
+            "episode": 15,
+            "name": "Red Herring",
+            "overview": "Yemek yarışması sırasında bir şef zehirlenerek ölür. CBI, şefin rakipleri, ayrı yaşayan eşi ve hırslı asistanı arasından katili bulmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/Af45MgqSx6fAjIz7QSMuSS1vfy.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e15"
+        },
+        {
+            "season": 2,
+            "episode": 16,
+            "name": "Code Red",
+            "overview": "Biyolojik silah araştırması yapılan bir tesiste tehlikeli bir virüs kaçağı olur. Bir bilim adamının toksinle zehirlenip ölmesi CBI ekibini harekete geçirir. Lizbon ve Jane, ölümlerin cinayet olduğundan şüphelenirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lE153sfttA0kWIQNPkZcNKKsKat.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e16"
+        },
+        {
+            "season": 2,
+            "episode": 17,
+            "name": "The Red Box",
+            "overview": "CBI ekibi bir öğretmenin cinayetini araştırırken cesedinin yanında gizemli bir kırmızı kutu bulurlar. Bu arada CBI’da müdür değişir. Lizbon, yeni gelen patron Madeleine Hightower’ın yöneticilik vasıflarından endişelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/d7H9HRwexuoJcoGRplwhXM0dZEk.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e17"
+        },
+        {
+            "season": 2,
+            "episode": 18,
+            "name": "Aingavite Baa",
+            "overview": "Ekip bir cinayet soruşturması yaparken Jane amnezi hastalığı olan bir tanıktan yardım ister. Cinayet davasının çözülebilmesi için Jane’in bu kadının zihnine girip anılarını açığa çıkarması gerekecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2gyNRfvwXbVaRO3ow9bywSx6fJ6.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e18"
+        },
+        {
+            "season": 2,
+            "episode": 19,
+            "name": "Blood Money",
+            "overview": "Kelly Flower’ın öldürülmesinden sonra Jane kendi yöntemleriyle katili hemen tespit eder. Bu arada seri katil olabilecek bir davada ekip önemli ipuçları bulmuştur. Ancak Jane’in katili bulmak için kullandığı yöntemler sorunlara yol açar ve Lizbon’ın ekibi bir süreliğine askıya alınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ldoa5awMCcdxYqE80szQlPX4PYP.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e19"
+        },
+        {
+            "season": 2,
+            "episode": 20,
+            "name": "Red All Over",
+            "overview": "CBI ekibi, çok büyük bir medya şirketinin CEO’sunun ölümünü soruşturuyor. Soruşturma sırasında gözler dini bir grubun karizmatik liderine yönelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/45LFeaMkORMmLH2vzO40fSYjV1D.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e20"
+        },
+        {
+            "season": 2,
+            "episode": 21,
+            "name": "18-5-04",
+            "overview": "Parlak bir matematikçi, palyaço kılığına girmiş bir kişi tarafından vurularak öldürülür ve işaret parmağı alınır. Soruşturmaya giden CBI ekibi, matematikçinin paha biçilmez bir şifre kırma cihazı üzerinde çalıştığını öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eAAtYKgB0owaN36XPnhfad4rijy.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e21"
+        },
+        {
+            "season": 2,
+            "episode": 22,
+            "name": "Red Letter",
+            "overview": "Hector Brava, bir yardım kuruluşunda, insan ticareti ile ilgili konferansta önemli bir konuşma yapmadan önce öldürülür. Ekip soruşturmaya giderken patron, medya’da yer alan ünlü bir psikolok Kristina Frye’i de yardım etmesi için çağırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2Mrrui3HEQJNj5zoEqpDsGB8Qlx.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e22"
+        },
+        {
+            "season": 2,
+            "episode": 23,
+            "name": "Red Sky in the Morning",
+            "overview": "CBI, Red John kopyacısı tarafından işlenen bir cinayet hakkında soruşturma yürütür. Dava, gerçek Red John’un geri dönmesine neden olur ve Jane televizyonda onunla bağlantı kurmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yu79rwfTfESz6cReAVJOQQRRmQy.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1196946/s2/e23"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Red Sky at Night",
+            "overview": "Jane, Red John ile karşılaşmasından sonra CBI takımıyla olan geleceğini düşünmeye başlar! Bu arada CBI’a hükümete yakın bir avukatın kaçırılma olayı verilmiştir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j51joTgTllOfaeO4xGrkfL9jhwj.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Cackle-Bladder Blood",
+            "overview": "Jane'in kayınbiraderi kasabaya döndüğünde bir cinayet soruşturması olayına karışır. Jane, kişisel çekinceleri olmasına rağmen ona yardım etmeye karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sGZ7crQcAZh2M6FaVHwvj83q4XS.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "The Blood on His Hands",
+            "overview": "Bir cinayet soruşturması CBI’ı dini lider Brett Stiles’a yönlendirir. Jane, bu liderle konuştuğunda Red John hakkında ve kaçırılan Kristina’nın hala yaşıyor olabileceği konusunda ipuçları elde eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qkHRALeYiYJ7NMxodEE6qs9piAN.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Red Carpet Treatment",
+            "overview": "Cinayet ve tecavüz suçundan tutuklu bulunan eski bir suçlu, DNA delili ile suçsuz bulunup serbest kaldıktan bir süre sonra öldürülür. Jane ve CBI ekibi, öldürülen adamın davasını inceler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/raYPb794UILVZFk58yGQV0Q2287.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "The Red Ponies",
+            "overview": "Tanınmış eski bir jokey öldürülür. Jane, bazı cevaplar bulmak için at yarışları dünyasına girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/VVqiTCHZpAoz0w7DhF0CSt4YCb.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Pink Chanel Suit",
+            "overview": "Federal hakimin kızının erkek arkadaşı öldürülür, kızı da kaybolmuştur. CBI ekibi, kızın kaçırılmış ya da cinayeti onun işlediği olasılıklarını araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f9K5sJW6VuWoWrRLFUn3mQQ4Ebf.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Red Hot",
+            "overview": "Bir Rus iş adamı bir patlamada ölür ve baş şüpheli CBI’ın geçmişten tanıdığı, ajan Lisbon’a romantik ilgi duyan tanıdık bir yüzdür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4MM4nJAujiYDZSCjd6ubvKgWgH7.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Ball of Fire",
+            "overview": "Jane kaçırılır. Ekip şüpheli bulmak için Jane’in incelediği davaları araştırır. Ancak Jane’e düşman olabilecek o kadar uzun bir liste vardır ki ekip işin içinden nasıl çıkacağını bilemez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u5mOgVciYdkE6qHFDtLfjBdoxsw.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "Red Moon",
+            "overview": "Jane, iki polis memuru ve bir devlet görevlisinin karıştığı cinayet davasını çözmek için bir astrolog’dan yardım ister. Bulduğu ipuçları, katilin ayın döngüsüne göre hareket ettiğini göstermektedir!",
+            "still_path": "https://image.tmdb.org/t/p/w400/akMJZOeXeKJB755F45juBmiN8b1.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Jolly Red Elf",
+            "overview": "Bir Noel Baba’nın ölümünü araştıran CBI, Noel Babalar topluluğu diye bir gruptan şüphelenir. Jane’in kendine özgü yöntemlerle bulduğu ipuçları ise olayı bambaşka bir boyuta taşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f7DsZKHPcXgqND14HcaDcOStOTc.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e10"
+        },
+        {
+            "season": 3,
+            "episode": 11,
+            "name": "Bloodsport",
+            "overview": "LaRoche, Todd Johnson’ın cinayet soruşturmasını Rigsby’e yoğunlaştırır. Patrick, CBI ile beraber ünlü bir kadının karıştığı, profesyonel bir cinayet davasını incelemeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A7Rf9QwKefdLf3HeUuEu1jzku5R.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e11"
+        },
+        {
+            "season": 3,
+            "episode": 12,
+            "name": "Bloodhounds",
+            "overview": "Hernando ailesi limon fabrikası çalışanı Fernanda Talan öldürülür. Patrick, cinayetle ilgili araştırma yaparken yolunda gitmeyen bir takım şeylerden şüphelenir. Şüpheleri de kısa sürede haklılığını ortaya çıkarır. Bu davada yine kendi bildiği yöntemleri uygulamak zorunda kalacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3Qn5v3qvHqWLhQa8PMMVNVseuQP.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e12"
+        },
+        {
+            "season": 3,
+            "episode": 13,
+            "name": "Red Alert",
+            "overview": "Yanlışlıkla eşini öldürmekle suçlandığını iddia eden bir adam Patrick'i ve birkaç kişiyi rehin alır. CBI ekibi durumu kontrol altına almaya çalışsa da bir rehine vurulur. Patrick adamı etkisiz hale getirmek için bir tuzak kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ygTnmEdT7uApEfVEAVab60fySlk.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e13"
+        },
+        {
+            "season": 3,
+            "episode": 14,
+            "name": "Blood For Blood",
+            "overview": "Van Pelt'in gözetiminde, bir uyuşturucu satıcısına karşı tanıklık yapmak üzere korunan bir tanık vurularak öldürülür. Gizemi çözmenin yolu kurbanının kızının bastırılmış anılarına ulaşmak olabilir. Burada Patrick devreye girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ocfrQ83hndEa9wJJlOTIpUv9aq7.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e14"
+        },
+        {
+            "season": 3,
+            "episode": 15,
+            "name": "Red Gold",
+            "overview": "Ölü bulunan altın arayıcıyı, arazide altın bulduğunu öğrenen dükkan sahibi öldürmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9ZjwkO0Tyj75D2FiMJTUJ5qiyck.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e15"
+        },
+        {
+            "season": 3,
+            "episode": 16,
+            "name": "Red Queen",
+            "overview": "Müzede bulunan bir antika satıcısının öldürülmesine dair kanıtlar, şüphelinin CBI ekibinin bir üyesi olabileceğini gösterir. Yasa dışı silah kaçakçılığı ile bağlantılı olabileceğinden şüphelenilen olayda Patrick, Red John’un parmağı olabileceğinden emindir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lUi4BTBehU3H62e4mShC4itwsRA.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e16"
+        },
+        {
+            "season": 3,
+            "episode": 17,
+            "name": "Bloodstream",
+            "overview": "Golf sahasında ölü bulunan doktoru, hastaneden ilaç çalan uyuşturucu bağımlısıs kadın doktor açıklayacağı için öldürmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wDbk0F1QETLdHmvFNIZu7MQbury.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e17"
+        },
+        {
+            "season": 3,
+            "episode": 18,
+            "name": "The Red Mile",
+            "overview": "Uzaylılar tarafından kaçırıldığını iddia eden bir adam öldürülür ve cesedi çalınır. Bu arada Steiner, Jane ile şaşırtıcı bir sırrı paylaşır. Van Pelt düğün planlarıyla meşguldür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/93pIfYcqevW99gQckDtUoT1uPam.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e18"
+        },
+        {
+            "season": 3,
+            "episode": 19,
+            "name": "Every Rose Has Its Thorn",
+            "overview": "CBI ekibi, çöpçatanlık hizmeti veren bir adamın öldürülmesi olayıyla ilgilenir. Jane, katilin öldürülen adamın eşi olduğundan emindir ancak bunu ispatlayacak kanıtlara ihtiyacı vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/clVxqUvb3GhmYcaHDO74yqNdlrx.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e19"
+        },
+        {
+            "season": 3,
+            "episode": 20,
+            "name": "Redacted",
+            "overview": "CBI ekibi bir elektronik mağaza sahibinin öldürülmesini araştırırken Jane’in düşünceleri biraz karışıktır. LaRoche’un evine girilmesi için ayarladığı soygunların ikisi de başarısız olmuştur. Ve şimdi bu soygunculardan biriyle ortak çalıştığı sırrını gizlemesi gerekmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/upfF53iuG4rhHYp7OS0zZvZVvoz.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e20"
+        },
+        {
+            "season": 3,
+            "episode": 21,
+            "name": "Like A Redheaded Stepchild",
+            "overview": "Rigsby bir hapishane muhafızının öldürülmesinin çözülmesine yardımcı olmak için babasından yardım istemek zorunda kalır. Jane katilin bir mahkum olduğundan şüphelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hCHBP3a1Ad9Z76O2ot6AjUbP7ZH.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e21"
+        },
+        {
+            "season": 3,
+            "episode": 22,
+            "name": "Rhapsody in Red",
+            "overview": "CBI, Kuzey California Senfoni Orkestrası kemancılarından birinin öldürülmesini araştırırken Cho, tutuklu babasının masumiyetini kanıtlayabilmek için parlak ve yetenekli bir genç yankesiciden bilgi koparmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kthKwNn416lLg6RQE3hpKNbrL8h.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e22"
+        },
+        {
+            "season": 3,
+            "episode": 23,
+            "name": "Strawberries & Cream - Part1",
+            "overview": "Red John'un CBI köstebekleri ortaya çıkıyor! Jane Red John’u yakalamaya çok yakın olduğundan emindir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pgzD3RNDmfO48e0jOvkHEyP8hhc.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s3/e23"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Scarlet Ribbons",
+            "overview": "Jane, Red John olduğunu ileri süren Tim Carter’ı vurduktan sonra tutuklanmayı bekler. Tüm ekip askıya alınır. Ancak Jane’in şüpheleri vardır, Tim’in gerçekten Red John olup olmadığı konusunda.  Kanıtlar kurbanın masum bir adam olduğunu gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5oME6nECiONQSAlYAuwNLpXVWX8.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Little Red Book",
+            "overview": "Jane mahkemede suçsuz bulunarak CBI’a danışman olarak geri döner. Kıdemli ajan Ray Haffner’ın ekibine katılarak öldürülen eski bir fitness antrenörünün davasına bakar. Lizbon hala askıda olduğu için eski ekip bu davayı Jane’in liderliğinde kendi başlarına çözmeye çalışır. Ancak bu durum Ray’in ekibi ile aralarında sıkıntı yaratır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wtblAumVziIaRnyGYH1y3DOR7Tj.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Pretty Red Balloon",
+            "overview": "9 yaşındaki bir çocuk kaçırılır. Annesi, Jane’in eski müşterilerinden biridir ancak Jane’in terapi yöntemlerine inanmadığı için başka bir terapistle çalışmaya başlamıştır. İşin ilginç yanı, çocuğun kaçırılma olayındaki tüm ipuçları yeni terapiste işaret eder!",
+            "still_path": "https://image.tmdb.org/t/p/w400/lBrw8ECdJpBRbPWNNpaHPgMPkjo.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "Ring Around the Rosie",
+            "overview": "Jane ve ekibin diğer üyeleri yeni patronlarıyla tanışmaya giderler. Katıldıkları siyasi mitingde Jane, karşılaştığı bir adamın seri katil olduğunu kanıtlamaya çalışırken Lisbon, aynı mitingde itirafçı olan bir katilin suçsuz olduğunu ispatlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i1Mi78Om85YgAW2WvbhX7UT3LW0.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "Blood and Sand",
+            "overview": "CBI ekibi, Kaliforniya sahilinde bulunan San Felix adasındaki bir cinayeti çözmek için görevlendirilir. Ekip kurbanın geçmişini araştırırken katilin, babasından intikam almak isteyen bir korucu çocuğun olabileceği ipuçları elde eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bI6KnDMRKaLwJoU5zxQm0ErLtfB.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Where in the World is Carmine O’Brien?",
+            "overview": "Resort kasabasındaki Fairmont polis şefi Marnie Green öldürülür. CBI ekibi cinayeti çözmeye çalışırken Lisbon’ın ödül avcısı kardeşinin takip ettiği adam şüpheli olunca o da ister istemez soruşturmaya dahil olur. Şüpheliler arasında Rus uyuşturucu kaçakçıları da işin içine girince işler biraz karışır!",
+            "still_path": "https://image.tmdb.org/t/p/w400/gH8e3oguntArfj2PSqzaTjFT1S6.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Blinking Red Light",
+            "overview": "CBI bir seri katilin peşindedir. Jane, davayla ilgilenen, takıntılı bir blog yazarının katil olabileceğinden şüphelenir. Bunu kanıtlamak için yine kendine has yöntemler kullanacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mXqPEp53nRrPJz37QitMlgSwTv.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Pink Tops",
+            "overview": "CBI bir uyuşturucu satıcısının peşindeyken, bir gece kulübünün dışında uyuşturucu satıcısı öldürülür. Ekip katilin peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i6QQSjjKucdj2OC2Va5I3c1FfC8.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "The Redshirt",
+            "overview": "Emekli bir profesyonel oyun kurucunun asistanı bir araba kazasında ölür. Kaza sonrası araştırma yapan ekip, bu kazada aslında asistanın değil oyuncunun hedef alındığını anlar. Şüpheliler arasında oyuncunun eski bir takım arkadaşı vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/afX4hCEqkmYFJwGtcofS7Q6dPOv.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "Fugue in Red",
+            "overview": "Başarılı bir itfaiyeci olan Paul Satterfield öldürülüp, cesedi bataklığa atılır. Soruşturma için bölgeye gelen ekip araştırma yaparken Jane saldırıya uğrar ve kısa süreli bir hafıza kaybı yaşar. Cinayette tüm gözler öldürülen itfaiyecinin karısındadır. Katili ortaya çıkarmak için Jane bir tuzak hazırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ypRFOEWNGZ234mtYauoXDVvVxZm.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e10"
+        },
+        {
+            "season": 4,
+            "episode": 11,
+            "name": "Always Bet on Red",
+            "overview": "Ekip boşanma avukatının ölümünü soruştururken Jane, Red John'un hâlâ hayatta olabileceğini keşfeder ve çok fazla soru soran bir FBI ajanından şüphelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8WDulKfL74rU45UA61KBh4Z05Wk.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e11"
+        },
+        {
+            "season": 4,
+            "episode": 12,
+            "name": "My Bloody Valentine",
+            "overview": "CBI, bir suç örgütü patronunun oğlunun cinayet davası ile ilgili araştırma yapar. Bu sırada Grace, bir katilin peşinden giderken saldırgan bir tanıkla tek başına kalması sorun çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zQTycILSEgzwYyMwemM00Z60fQL.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e12"
+        },
+        {
+            "season": 4,
+            "episode": 13,
+            "name": "Red is the New Black",
+            "overview": "Ünlü bir moda tasarımcısı yeni koleksiyonuna hazırlanırken öldürülmüş olarak bulunur. Diğer taraftan Ajan Darcy, Jane’in öldürdüğü adamın Red John olmadığını ispat eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/s54MxtKD8sxD6RduCuzQQXgjzpF.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e13"
+        },
+        {
+            "season": 4,
+            "episode": 14,
+            "name": "At First Blush",
+            "overview": "Patrick cinayetten yargılanan bir kadının masum olduğuna inanır ve jüri üyeleri müzakerelerine tam başlarken Lizbon'ı soruşturma açma konusunda ikna eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4ZT1Qz6j5uOf6O8SgB3MAouVrPU.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e14"
+        },
+        {
+            "season": 4,
+            "episode": 15,
+            "name": "War of the Roses",
+            "overview": "Patrick'in kurtarmaya yardımcı olduğu bir katil, CBI'nin bir cinayeti çözmesine yardım edebilecek bilgilere sahiptir. Ancak aralarındaki romantik çekim, soruşturmaya müdahale edebilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lDpRWduEBk68AU7U2wWtTNLifKr.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e15"
+        },
+        {
+            "season": 4,
+            "episode": 16,
+            "name": "His Thoughts Were Red Thoughts",
+            "overview": "Bir tarikat liderini canlandırmaya çalışan adam öldürülür. Patrick tarikat üyelerinin bu cinayette bir parmağı olduğunu düşünür ve katili ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wMyj1E2sMlfpd9Yl0ZfswyAdsmc.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e16"
+        },
+        {
+            "season": 4,
+            "episode": 17,
+            "name": "Cheap Burgundy",
+            "overview": "CBI, bir cinayet işlediğini itiraf eden kendini beğenmiş bir işletme sahibini bulmaya çalışırken, FBI ajanı Darcy, Jane'in cinayet soruşturması için yardım ister. Onun asıl amacı, Jane’in Red John ile olan ilişkisi hakkında daha fazla bilgi edinmektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9RfhpFHLsu8Jar5BKz4R7kbJq4l.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e17"
+        },
+        {
+            "season": 4,
+            "episode": 18,
+            "name": "Ruddy Cheeks",
+            "overview": "CBI, sadece bir kaç hafta yaşamı kalmış kanser hastasının neden ve kimin öldürdüğünü anlamaya çalışırken, Cho'nun bağımlılığı sahada az kalsın geri dönüşü olmayan bir hataya sebep olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rkBo0LuQdNkLnykzWwavyz2wd2e.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e18"
+        },
+        {
+            "season": 4,
+            "episode": 19,
+            "name": "Pink Champagne on Ice",
+            "overview": "Jane eski bir sihirbaz arkadaşının kaçırılan kız arkadaşını kurtarmak için çalıştığı kumarhaneyi soymaya zorlandığını keşfeder. Ona yardım etmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u4CKA1cW18ZNlQpTDIvvzjD0UXc.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e19"
+        },
+        {
+            "season": 4,
+            "episode": 20,
+            "name": "Something Rotten in Redmund",
+            "overview": "Bir lisede, ingilizce öğretmeni cinayetinin araştırılması Jane'e, oyunculuk becerilerini bir drama sınıfında sergileme fırsatı verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cd6CNxNYf8tPVhuTyj7p8clPdJS.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e20"
+        },
+        {
+            "season": 4,
+            "episode": 21,
+            "name": "Ruby Slippers",
+            "overview": "Jane ve CBI ekibi, büyük bir tiyatro sahnesinin arkasında yakılmış bir cesetle ilgili soruşturma yaparken gösterişli bir gece kulübünün dünyasına girerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8rceP0pG3TdYelcWu2vUn5n0cvg.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e21"
+        },
+        {
+            "season": 4,
+            "episode": 22,
+            "name": "So Long, and Thanks for All the Red Snapper",
+            "overview": "Summer, bir sörfçünün ölümüyle ilgili soruşturma yaparken, Lizbon’ın eski anıları canlanır. Bu arada Summer, Cho ile ilişkisini etkileyecek bir karar verme aşamasındadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1SkQZQvsnV5mO0gDzcck4NoCBd0.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e22"
+        },
+        {
+            "season": 4,
+            "episode": 23,
+            "name": "Red Rover, Red Rover",
+            "overview": "Jane, Red John'u bulmaya çalışmaktan vazgeçmeyi düşünüyor olsa da, cinayet zanlılarının itiraflarını almaya yönelik alışılmışın dışındaki yöntemleri sonunda çizgiyi aşmış olabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/knn0FxdMscWqlgIiS4T6laoHBhX.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e23"
+        },
+        {
+            "season": 4,
+            "episode": 24,
+            "name": "The Crimson Hat",
+            "overview": "Jane, CBI’dan ayrıldıktan sonra Las Vegas’a giderek eğlence dünyasına girer ve Red John’un peşinden artık koşmadığı izlenimini vermeye çalışır. Aslında bütün bu olanlar yeni planının bir parçasıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bckBQLDLLMnFqN4w3RKPw4JWnom.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s4/e24"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "The Crimson Ticket",
+            "overview": "Patrick Jane, Red John’la bağlantısını anlayabilmek için Lorelei’yi sorgulamaya alır. CBI ise, otel çalışanı cinayetini aydınlatmak için FBI ile birlikte çalışmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vxGnPnb9wzz2D8Zeu5ty837cjYG.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "Devil's Cherry",
+            "overview": "Patrick Jane, elmas ustasının cinayetini araştırırken bilmeden uyuşturucu yutar ve ölen kızıyla ilgili halüsinasyon görmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vJISe5uemqI3FmVMlUJFCmfx0c3.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "Not One Red Cent",
+            "overview": "CBI, bir banka soygunu sırasında meydana gelen cinayeti soruşturmaya başlar. Bu arada Jane, soygunun içerden birinin yardımıyla gerçekleşmiş olabileceğinden şüphe etmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8r8CqchSC1AeLv591lGyetCZ3tI.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "Blood Feud",
+            "overview": "CBI ekibinin soruşturduğu bir cinayet vakası şehrin iki çetesi arasındaki bölge savaşını yeniden tetikleme tehlikesi doğar. Rigsby ise, bu vaka vesilesi ile eski suçlu olan babası ile yeniden bir araya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rA2xZOhD2Xf14MbLhpbSI3u5Zgl.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "Red Dawn",
+            "overview": "Patrick’in CBI ile ilk çalışma gününe dönüş: Red John soruşturması kapsamında Patrick kanıt talebinde bulunur. Sonuçta, öldürülen hakimin oğlu vakasında ekibe yardımcı olmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Er2lXBf6aISRPtoPdOuWibBvgZ.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "Cherry Picked",
+            "overview": "CBI ekibi sıradışı bir kaçırma vakasını aydınlatmaya çalışırken, Patrick hangi gardiyanın Lorelei’nin kaçışına izin verdiğini ortaya çıkarmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/58P1vF3eBzUPjl1wgsRQPcmz0pg.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "If It Bleeds, It Leads",
+            "overview": "Genç bir televizyon muhabiri öldürülmüştür. CBI, katilin araştırılan kişiler arasından biri olabileceğini düşünmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/32yoi47iX0WbUEiHhcxgkT58QP5.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "Red Sails In The Sunset",
+            "overview": "Patrick, Lorelei’nin kaçışını ayarlar ve sonra kaçırır. Amacı Red John ile ilgili cevapları elde etmektir. Bu arada, Lorelei’nin annesi ailesi ile ilgili sarsıcı bir detayı ajan Lisbon’la paylaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xTvkkG1LajiKfWAPOIarXewDq5K.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e08"
+        },
+        {
+            "season": 5,
+            "episode": 9,
+            "name": "Black Cherry",
+            "overview": "CBI ekibi, eski bir çete üyesi olan emlak komisyoncusunun cinayetini araştırmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5anUmnPEnzczFTsGsUUmz21TAlC.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e09"
+        },
+        {
+            "season": 5,
+            "episode": 10,
+            "name": "Panama Red",
+            "overview": "Patrick, genç bir bitki bilimcinin öldürülmeden önce değerli bir uyuşturucu türü üzerinde çalıştığını öğrenir. Cho ise, bir baskın sırasında sürpriz bir şekilde eski arkadaşı ile karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uc4SNoVFhX5LmvPDbN5p1I03UBy.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e10"
+        },
+        {
+            "season": 5,
+            "episode": 11,
+            "name": "Days Of Wine & Roses",
+            "overview": "Senatörün kızı sokakta ölü bulunur. Cinayetin izleri Patrick’i Dr. Michael Rubin’in rehabilitasyon kliniğine kadar götürür. Vakanın şüphelisi ve teşvik nedeni çoktur. Cinayete kurban giden kız daha önce, annesine ait olan yakut kolyeyi uyuşturucu satın almak için çalmıştır. Bu arada, hakim Davis artık Lisbon’a yardımcı olmamaktadır fakat Lisbon’nun Volker saplantısı devam etmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nfncxU3dDo7Si42a2YdQO95daDX.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e11"
+        },
+        {
+            "season": 5,
+            "episode": 12,
+            "name": "Little Red Corvette",
+            "overview": "Tommy Volker, içerden birinin yardımıyla ajan Lisbon’un bir adım önündedir fakat CBI ekibi, cinayet tanıklarından birine ulaşmak için iz sürmeye devam etmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5cMSKu5HVXHpwfe9m0uFl9p9IJS.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e12"
+        },
+        {
+            "season": 5,
+            "episode": 13,
+            "name": "The Red Barn",
+            "overview": "Terkedilmiş bir ahırda üç cesedin bulunması Patrick’in Red John ve tarikat arasında sağlam bir bağlantı kurmasını sağlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rYIbgy1iaLi65ohOdjGxIGdnbcV.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e13"
+        },
+        {
+            "season": 5,
+            "episode": 14,
+            "name": "Red In Tooth And Claw",
+            "overview": "CBI ekibi, yüksek lisans öğrencisinin cinayetini soruşturmaya gider ve Patrick poker oyunu konusunda Bertram’a yardımcı olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v5nVxxtmxIhLYKJs4yFHeBAvNlY.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e14"
+        },
+        {
+            "season": 5,
+            "episode": 15,
+            "name": "Red Lacguer Nail Polish",
+            "overview": "Sosyetik bir kadının yakılmış ceset kalıntıları malikanede bulunur. CBI ekibi, birkaç kişi arasında yaşanan bir miras kavgasını ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1L3YvPnk3vDpMhykEoXyA8eNnb9.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e15"
+        },
+        {
+            "season": 5,
+            "episode": 16,
+            "name": "There Will Be Blood",
+            "overview": "Lorelei tekrar ortaya çıkar ve bir kadını öldürür. Öldürülen kadın, belki de Lorelie’nin kız kardeşini öldüren Red John’a yardım etmiştir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8TAimSPjRLt1JTpiJz0NJAt9VcW.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e16"
+        },
+        {
+            "season": 5,
+            "episode": 17,
+            "name": "Red, White And Blue",
+            "overview": "Akşam eğlencesi sonrası bir kadın asker öldürülür. Tek olası tanık da hafıza kaybı yaşayan emektar arkadaşıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f4GHX9tCvwNSlAq5K6QnJZQ9mF4.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e17"
+        },
+        {
+            "season": 5,
+            "episode": 18,
+            "name": "Behind The Red Curtain",
+            "overview": "Sacramento müzikali sırasında bir aktris ölür. Patrick, katili bulmak için La Roche’un yardımına ihtiyacı olacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5p4M8iCHDvTrMiZDK9P4UBT9hwH.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e18"
+        },
+        {
+            "season": 5,
+            "episode": 19,
+            "name": "Red Letter Day",
+            "overview": "CBI ekibi, bir cinayeti çözmek için eski batıdaki bir kente gider. Robert Kirkland, Patrick’in Red John hakkındaki araştırmasını ele geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ifH4nB6JvR37GSXoUJqfIFqJags.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e19"
+        },
+        {
+            "season": 5,
+            "episode": 20,
+            "name": "Red Velvet Cupcakes",
+            "overview": "CBI ekibi, bir cinayeti çözmek için radyo terapistin yardımına ihtiyacı olur. Terapist aynı zamanda ajan Rigsby ve Van Pelt arasında yaşanan gerginliği aşmasına yardımcı olabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A5LzJk5UkjIWhNnvbSHnLngi1tH.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e20"
+        },
+        {
+            "season": 5,
+            "episode": 21,
+            "name": "Red And Itchy",
+            "overview": "Patrick, LaRoche’un kasasından çalınan saklama kabını bulmaya yardımcı olur. Bu da CBI’daki köstebiğin kimliğini ortaya çıkarabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xCBML80TpuIpnnmmuePSgHu8B69.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e21"
+        },
+        {
+            "season": 5,
+            "episode": 22,
+            "name": "Red John's Rules",
+            "overview": "Patrick, Red John şüpheli listesini yedi kişiye kadar indirir. Bu arada Red John tekrar saldırır. Bu seferki kurban ile Patrick’in geçmişteki hatıraları canlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lHTVrnnUqRKAv8HA0IePqkvCmYL.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1196946/s5/e22"
+        },
+        {
+            "season": 6,
+            "episode": 1,
+            "name": "The Desert Rose",
+            "overview": "Ekip Jane’in listesini öğrenir. Sahilde gömülü bulunan adamı sevgilisinin kocası döverek öldürmüştür. Listedeki isimleri takibe alan Lisbon Red John tarafından yaralanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yK0s7sS1OvycfixaL71tiC9vGrs.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e01"
+        },
+        {
+            "season": 6,
+            "episode": 2,
+            "name": "Black-Winged Redbird",
+            "overview": "Patlayan araçtaki adam taraslanan hava aracındaki mühendislik hatasını öğrenip açıklayamadığı için intihar etmiştir. Red John, Jane’in psikiyatristini öldürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xoGSbgs2irKl9KNXYKM3COr9zbW.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e02"
+        },
+        {
+            "season": 6,
+            "episode": 3,
+            "name": "Wedding In Red",
+            "overview": "Vadide öldürülen adam, düğün hazırlığı sırasıdna bir hırsızlığa şahit olduğundan öldürülmüştür. Wayne ve Grace evlenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i2rB7S8by35A0uo2Sx0kmxDTBfM.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e03"
+        },
+        {
+            "season": 6,
+            "episode": 4,
+            "name": "Red Listed",
+            "overview": "Öldürülen kişilerin Jane’in sahte listesindeki kişiler olduğu ve ajan Kirkland tarafından öldürüldüğü anlaşılır. Kirkland Jane’i yakalayıp gerçek listeyi ister. Kirkland yakalanır ve götürülürken ”Tiger Tiger” parolasını kullanan bir ajan onu öldürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gCafmcnTzpCmL61QwKn6hSJeJCM.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e04"
+        },
+        {
+            "season": 6,
+            "episode": 5,
+            "name": "The Red Tatoo",
+            "overview": "Evinde ölü bulunan adamın arabada öldürdüğü adam tarafından bıçaklandığı anlaşılır. Red John, CBI ofisine böcek yerleştirmesi için tuttuğu kadın ifşa olunca onu öldürür. Kadın ölürken Jane’e katilin kolunda 3 nokta dövmesi olduğunu söyler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/Any1WOHG9kYpm4zKiqZoD2dtPCd.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e05"
+        },
+        {
+            "season": 6,
+            "episode": 6,
+            "name": "Fire And Brimstone",
+            "overview": "Jane, listesinde kalan beş ismi evine çağırır. Üçünün kolunda dövme olduğunu görür. Evde silah ateşlenir ve Lisbon eve vardığında ev havaya uçar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8h0McZ5lj7LgDQmeLgevue2bcgk.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e06"
+        },
+        {
+            "season": 6,
+            "episode": 7,
+            "name": "The Great Red Dragon",
+            "overview": "Jane hastaneye kaldırılırken, ajan yaralı ajan Smith kaçar. CBI şefi Bertram hayatta kalır ve Jane’i öldürmeyi deneyip kaçar. Polis teşkilatında da dövmeli adamlar olduğu ve ”Tiger Tiger” parolasını kullandıkları anlaşılır. Smith teslim olurken Bertram kaçmayı başarır. FBI, CBI’ın yönetimini alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/p03unWudQBHcBXowDJSsq26kHn3.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e07"
+        },
+        {
+            "season": 6,
+            "episode": 8,
+            "name": "Red John",
+            "overview": "Jane, FBI’dan kaçarak Bertram ile buluşmaya gider. Bertram onu öldürmek ister ama McAlister ortaya çıkıp onu öldürür. Onun Red John olduğu anlaşılır. Jane’i öldürecekken Jane onu vurur. MacAlister kaçar, Jane onu kovalar. Sonunda boğarak öldürür ve kaçar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6Ff9qMg56nZhjF2SwPP1g6WLQAF.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e08"
+        },
+        {
+            "season": 6,
+            "episode": 9,
+            "name": "My Blue Heaven",
+            "overview": "İki sene sonra bir sahil kasabasında Dedektif Abbott tarafından bulununr ve suçlarına karşılık FBI için çalışması istenir. Jane FBI ile görüşür ama FBI şartlarını kabul etmez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b1Rz4SPntbsc57Z3GyNDnT6f4in.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e09"
+        },
+        {
+            "season": 6,
+            "episode": 10,
+            "name": "Green Thumb",
+            "overview": "Jane, FBI için ortadan kaybolan bir federali bulur ve ”Tiger Tiger” grubunun listesini vereceği blöfüyle tüm şartlarını kabul ettirip Lizbon ile işe başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5K3uT9zl8jWdecfTQ7lueLDcSUR.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e10"
+        },
+        {
+            "season": 6,
+            "episode": 11,
+            "name": "White Lines",
+            "overview": "Jane karakolda öldürülen narkotik ajanlarını öldürten kadın ile çıkmaya başlayıp onu yakalatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xBeQ7xTusKNYarzvtSPGWIlD0s0.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e11"
+        },
+        {
+            "season": 6,
+            "episode": 12,
+            "name": "Golden Hammer",
+            "overview": "Zehirlenerek ofisinde öldürülen adamı, çalıştığı şirketteki kadın arkadaşının bilgileri dışarıya sattığını farkettiği için onun tarafından öldürülmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oivMZtRI9AsZTjQ3UEfd1nmgwVV.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e12"
+        },
+        {
+            "season": 6,
+            "episode": 13,
+            "name": "Black Helicopters",
+            "overview": "Meksikada öldürülen gizli kadın ajanı, kimliğini gizleyen kadın suçluyu öğrendiği için kadın tarafından öldürülmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bbdUihpnNzydeJ4VruYk2LR4HlW.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e13"
+        },
+        {
+            "season": 6,
+            "episode": 14,
+            "name": "Grey Water",
+            "overview": "Atık su çukurunda bulunan adamı arazi anlaşmazlığı konusunda tartıştığı arkadaşı öldürmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fyTRMNlqShtZ71eDflh8CWHnhzp.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e14"
+        },
+        {
+            "season": 6,
+            "episode": 15,
+            "name": "White As The Driven Snow",
+            "overview": "Grace kaçırılır, Wayne ve Jane onu bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lhQTfmYzrTtomZ0YceKuZGMGmM8.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e15"
+        },
+        {
+            "season": 6,
+            "episode": 16,
+            "name": "Violets",
+            "overview": "Ekip bir hırsızı yakalamak için hırsız rolü yaparak onu yönlendirir ve yakalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/71VJBoofmW9r9AdbVki7gIamb52.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e16"
+        },
+        {
+            "season": 6,
+            "episode": 17,
+            "name": "Silver Wings Of Times",
+            "overview": "Otobüs durağında patlayan bombanın izinde bir profesörün karısını öldürmekten idam edilecek adamın masum olduğu ve kadını şimdi beraber olduğu öğrencisinin öldürdüğü anlaşılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pS22t6owaLvTm20n6TqOoEZ9zZn.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e17"
+        },
+        {
+            "season": 6,
+            "episode": 18,
+            "name": "Forest Green",
+            "overview": "Arazide öldürülen kadın, fahişelik yaptığı kulüpteki erkek üyelerin gizli kameraya alındığını farkettiği için öldürülmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8lEHTXpm95St2GWmoJXfN07xpHf.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e18"
+        },
+        {
+            "season": 6,
+            "episode": 19,
+            "name": "Brown Eyed Girls",
+            "overview": "Jane’in bulduğu ölmekte olan kadının izinde kaçak kadın ticareti yapan adamlar yakalanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9ElKggmklWquhHSdzGqkSAOcBKT.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e19"
+        },
+        {
+            "season": 6,
+            "episode": 20,
+            "name": "Il Tavolo Bianco",
+            "overview": "Uyuşturucu patronu ve onun için çalışan kadın savcı yakalanır. Kadın ticareti için kaçırılan kadınların aslında organları için kaçırıldığı anlaşılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2uHxhRMZ2s9lxqnkMRqF1WXdiaF.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e20"
+        },
+        {
+            "season": 6,
+            "episode": 21,
+            "name": "Black Hearts",
+            "overview": "Kadınları kaçırılması işinin arkasındaki adam yakalanırken, kaçırılan diğer kadınlar kurtarılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uhlcIaP82kZLLeJkyV5G5J999cV.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e21"
+        },
+        {
+            "season": 6,
+            "episode": 22,
+            "name": "Blue Bird",
+            "overview": "Jane daha önceden öldürülen bir kadının davasını kullanarak Lizbon’u otelde ağırlar. Bunu öğrenen Lizbon oteli terkederek Ajan Pike’in yanında çalışmak ve onunla evlenmek için Chikago’ya yola çıkar. Jane onu uçakta yakalayarak onu sevdiğini söyler. Daha sonra Lizbon’un gitmekten vazgeçtiği görülür. Jane ile öpüşürler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/g1GC0kl7MRAWP1XIGQi71qpcZDJ.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s6/e22"
+        },
+        {
+            "season": 7,
+            "episode": 1,
+            "name": "Nothing But Blue Skies",
+            "overview": "Sokakta vurulan FBI ajanını, çocukken tanık olduğu bir kaçırılma olayını hatırladığı için kaçıran adam öldürmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tOXSPiCbxWbXKROy5sVPVPQyls2.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e01"
+        },
+        {
+            "season": 7,
+            "episode": 2,
+            "name": "The Greybar Hotel",
+            "overview": "Dedektif Teresa, bir araba kaçakçısını yakalamak için sevgilisinin tutulduğu hapishaneye girer. Onunla birlikte kaçarak FBI’a onları yakalatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gUTkKMGXqEZD21Vpk3C5zKtFwcK.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e02"
+        },
+        {
+            "season": 7,
+            "episode": 3,
+            "name": "Orange Blossom Ice Cream",
+            "overview": "Patrick ve Teresa, bir teröristi yakalamak için Lübnan’a giderler. Patrick ile geçmişte yakınlaşan Erica’da onlara yardım eder. Patrick teröristi ve onu kandıran Erica’yı yakalatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jJkqCuL3chQXbgCXGusYi3aEtS0.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e03"
+        },
+        {
+            "season": 7,
+            "episode": 4,
+            "name": "Black Market",
+            "overview": "Elmas kaçakçılığı ve cinayete karışan genç kadın yakalanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/atPJKP4KVmZirGGX6ZjwVpofZlg.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e04"
+        },
+        {
+            "season": 7,
+            "episode": 5,
+            "name": "The Silver Briefcase",
+            "overview": "Patrick geçmişte karısı öldürülen Albay’ın karısını kendinin öldürdüğünü ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oqjuGBKH7Sdetr7kHOiraZqsUa.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e05"
+        },
+        {
+            "season": 7,
+            "episode": 6,
+            "name": "Green Light",
+            "overview": "Evinde öldürülen bir dedektifi iş arkadaşlarından biri öldürmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oeLJbMFoE5GTJVJFZR3lgFdHYtC.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e06"
+        },
+        {
+            "season": 7,
+            "episode": 7,
+            "name": "Little Yellow House",
+            "overview": "Dedektif Teresa’nın kardeşinin karıştığı bir cinayet davasında katil failin nişanlısıyla ilişki yaşadığını düşünmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3rJptgWFTE2HP0GBTeEJPZyKEzQ.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e07"
+        },
+        {
+            "season": 7,
+            "episode": 8,
+            "name": "The Whites Of His Eyes",
+            "overview": "Bir cinayet davasında ifade verecek insanlar öldürülür. Katil tuzak kurularak yakalanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wizJqU72PpVHV2rXj2ont3AzPKM.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e08"
+        },
+        {
+            "season": 7,
+            "episode": 9,
+            "name": "Copper Bullet",
+            "overview": "Ekip, patronları Abbott’u bitirmek isteyen dedektifin yolsuzluğunu ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qyw4C9d4I5tpBfMHiZ3myzg7Mfc.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e09"
+        },
+        {
+            "season": 7,
+            "episode": 10,
+            "name": "Nothing Gold Can Stay",
+            "overview": "Banka soyguncularının peşindeki ekipten ajan Vega öldürülür. Suçlular sıkıştırıldıkları evde öldürülür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1CCcErOPNIQjOmJtBCEB2R9EH9Y.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e10"
+        },
+        {
+            "season": 7,
+            "episode": 11,
+            "name": "Byzantium",
+            "overview": "Arabada öldürülen 2 kişinin davasında ortaya çıkan medyum diğer 5 cesedin bulunmasını sağlar. Medyum da seri katil tarafından öldürülür…",
+            "still_path": "https://image.tmdb.org/t/p/w400/gyQdHBBe4yVVZsaCJMwCHFGuoUD.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e11"
+        },
+        {
+            "season": 7,
+            "episode": 12,
+            "name": "Brown Shag Carpet",
+            "overview": "Seri katil Patrick’i kaçırır. Patrick, katil içerideyken evi havaya uçurarak dışarı çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tE6WZnyyS6HI39sh24wZWIeNmd5.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1196946/s7/e12"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 03:07:01"
 }

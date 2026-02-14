@@ -2,24 +2,361 @@
     "id": 76479,
     "imdb_id": "tt1190634",
     "name": "The Boys",
+    "original_name": "The Boys",
+    "overview": "The Boys, süper kahramanların güçlerini ve şöhretlerini kötüye kullandığı bir evrende geçiyor. Kendilerini kanunu korumaya adayan ve “The Boys” olarak adlandırılan bir grup insan, yozlaşmış süper kahramanları ortadan kaldırmak için zorlu bir yolculuğa çıkar.",
     "poster": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/czffzEgaBko4mXW84B1J1EnQBzo.jpg",
     "year": "2019",
+    "rating": 8.4,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon"
+    ],
     "cast": [
-        "Karl Urban",
-        "Jack Quaid",
-        "Antony Starr",
-        "Erin Moriarty",
-        "Jessie T. Usher"
+        {
+            "name": "Karl Urban",
+            "role": "Billy Butcher",
+            "image": "https://image.tmdb.org/t/p/w200/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+        },
+        {
+            "name": "Jack Quaid",
+            "role": "Hugh 'Hughie' Campbell",
+            "image": "https://image.tmdb.org/t/p/w200/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+        },
+        {
+            "name": "Antony Starr",
+            "role": "Homelander",
+            "image": "https://image.tmdb.org/t/p/w200/b0T56GMrHM24hDDjJ4DNPJcEUp6.jpg"
+        },
+        {
+            "name": "Erin Moriarty",
+            "role": "Annie January / Starlight",
+            "image": "https://image.tmdb.org/t/p/w200/dG7gLzlZCjZkjKMyoGIL8h5wjRj.jpg"
+        },
+        {
+            "name": "Jessie T. Usher",
+            "role": "Reggie Franklin / A-Train",
+            "image": "https://image.tmdb.org/t/p/w200/bkFM2GHKU1rr6CRCgeaojY1TDCS.jpg"
+        },
+        {
+            "name": "Laz Alonso",
+            "role": "Marvin T. 'Mother's Milk' Milk / M.M.",
+            "image": "https://image.tmdb.org/t/p/w200/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg"
+        },
+        {
+            "name": "Chace Crawford",
+            "role": "Kevin Moskowitz / The Deep",
+            "image": "https://image.tmdb.org/t/p/w200/wEgaOcrKUqtqLht9IaI5ExR3uXB.jpg"
+        },
+        {
+            "name": "Tomer Capone",
+            "role": "Serge / Frenchie",
+            "image": "https://image.tmdb.org/t/p/w200/3IhYEhV3Tmx2CawG5DvcWQyephv.jpg"
+        },
+        {
+            "name": "Karen Fukuhara",
+            "role": "Kimiko Miyashiro",
+            "image": "https://image.tmdb.org/t/p/w200/sG6CWLdENCtzukNFkFYyPxqyRmS.jpg"
+        },
+        {
+            "name": "Nathan Mitchell",
+            "role": "Black Noir II",
+            "image": "https://image.tmdb.org/t/p/w200/ivaVpN1bU2HzKmncuf1IAG6ohlb.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Oyunun Adı",
+            "overview": "Hayatının aşkının bir Kahraman tarafından öldürülmesinden sonra, ses ve görüntü cihazları satış elemanı Hughie Campbell, yozlaşmış Kahramanları cezalandırmaya kararlı sivil infazcı Billy Butcher ile birlik olur -- ve Hughie’nin hayatı kökünden değişir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/83vFYTHtCqWwaDtZluSU8bmnFYG.jpg",
+            "vote_average": 8.1,
             "link": "https://vidmody.com/vs/tt1190634/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Vişne",
+            "overview": "Boys bir Süper Kahraman yakalar, Starlight intikamını alır, Homelander yaramazlık yapar, bir Senatör ise daha da yaramazlaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1XzqWHBFvddrO2sazXzaCTtFEeA.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1190634/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Al Bakalım",
+            "overview": "Yüzyılın yarışı. A-Train ile rakibi Shockwave, Dünyanın En Hızlı Adamı olmak için yarışır. Bu arada, Boys tekrar bir araya gelir ve kendilerini iyi hissederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mF7TK7LMbWhlLz1Q5M1662TiKvP.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1190634/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Türün Dişisi",
+            "overview": "The Boys'un çok özel bir bölümü... bağırsaklar, bovling topları, kaçırılan uçaklar, çılgınlıklar, hayaletler ve çok ilgi çekici bir Kadın ile dolu bir saat. Ayrıca bolca da kalp -- hem duygusal anlamda hem de kan banyosu anlamında.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4wq1ZX7GYEFhSttQoTFJ4WyqV22.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1190634/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Ruhun İlacı",
+            "overview": "Boys, Kahramanlara karşı süren savaşlarında, işlerine yarayacak bir ipucunun peşinden “İnanç” Fuarı'na giderler. Orada bir ihtimal -- BİR İHTİMAL -- cinayete meyilli bir bebek olabilir ama kendi gözlerinizle görmeniz gerekecek.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1ST4xchcR2s1JQUV23ryOBVrWbN.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1190634/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Masumlar",
+            "overview": "KAHRAMANLAR AMERİKA'DA (2019). Vought Stüdyoları. Tür: Gerçek Kesit. Oyuncular: Homelander, Queen Maeve, Black Noir, The Deep, A-Train, Starlight, Tara Reid, Billy Zane.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pqz0Xvf7gpXwagUoaHxBqmyv6D5.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1190634/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Kendini Koruma Cemiyeti",
+            "overview": "Tükenmiş bir Kahraman'a asla güven olmaz -- Boys bu dersi zor yoldan öğreniyor. Bu arada, Homelander kendi geçmişini eşeliyor, Starlight aşk acısıyla tanışıyor, ayrıca olur da Sandusky, Ohio'ya gelirseniz ve kızın teki solungaçlarınıza dokunmak isterse ona HAYIR deyin.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cx7dCZVzCX9pAyC6zE6lC6jkuyF.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1190634/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Beni Buldun",
+            "overview": "Sezon Finali Vakti! Sorular cevaplandı! Sırlar açıklandı! Çatışmalar... çatıştırıldı! Karakterler patladı! Ve çok daha fazlası!",
+            "still_path": "https://image.tmdb.org/t/p/w400/vNYs1oSMXa1V3KKWLPvtOy6UQWC.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1190634/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Büyük Yolculuk",
+            "overview": "Patlayarak kopan kafalar, teröristler, S&M fahişeler ve tarikatlar şimdi %50 daha fazla, bir de yeni taze çam kokusu var! Ama durun, daha bitmedi! Diğer önde gelen markalara nazaran iki katı kan, bağırsak ve vahşet! Yalnızca Amazon Prime Video'ya özel! Geç kalmayın! Hemen sipariş verin!",
+            "still_path": "https://image.tmdb.org/t/p/w400/iqdh1aITkP4BicsZmQLQ7MDMo1z.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1190634/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Muntazam Hazırlıklar ve Planlamalar",
+            "overview": "The Boys'un elinde bir süper terörist vardır, Starlight ise Vought'ın aleyhinde delil bulur, Deep duygularıyla yüzleşir, Homelander ise kendine (bir bakıma) bir aile bulur. Bunlara ek olarak, süper kahraman kostümlerinde neden cep olmadığı da can alıcı bir şekilde açıklanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/m6LSiAimRiST07sC0vsUDITojT3.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1190634/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Binlerce Adamın Kılıcıyla",
+            "overview": "Dikkat: Siz veya bir yakınınız, V Bileşeni'ne maruz kaldıysanız tazminat hakkınız doğabilir. Vought bu ilacı, bilgileri veya rızaları olmadan birçok mağdura vermiş. Size veya bir yakınınıza V Bileşeni verildiğini düşünüyorsanız ücretsiz hukuki danışmanlık için 1-888-177-2774 numaralı telefondan Bremmer & Bremmer hukuk bürosunu arayın. Haklarınızı bilin!",
+            "still_path": "https://image.tmdb.org/t/p/w400/k3LtS7Xj2qXlJz00lFIfBPpmjgD.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1190634/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Hiçbir Şeye Benzemez",
+            "overview": "Arabayla seyahat! Liberty adındaki gizemli bir süper kahramanın izini süren The Boys, North Carolina'ya gider. Yaptığınız gofret seçiminin, seri katil olup olmadığınızı söyleyebildiğini biliyor muydunuz?  Gözünüzü açın ve uyarı belirtilerini öğrenin! Bu bölüm hayatınızı kurtarabilir!",
+            "still_path": "https://image.tmdb.org/t/p/w400/6cAdAEomp2I0JwSYNcobAB1NIdm.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1190634/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Hemen Gitmeliyiz",
+            "overview": "VoughtStudios, #SevenınSafağı filminin çekimlerinin başladığını memnuniyetle duyurur. 12 yıllık Vought sinematik evreni, bu filmle zirve yapıyor. Tek kahramanlı filmleri izlemeyi seviyorsanız yedi kahramanlı bir filme bayılacaksınız. En yeni üyemiz @RealStormfront da huzurlarınızda! Efsanenin doğuşuna tanık olun! 2021 yazında sinemalarda!",
+            "still_path": "https://image.tmdb.org/t/p/w400/pn5adU2bTuMvBUZoEx2qDmSS8dv.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1190634/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Lanet Kapı Kapalı",
+            "overview": "Akıl Sağlığı Koruma Merkezi®, akıl hastalarına yardım etmektedir. Şefkatli doktorlarımız ve danışmanlarımız, hayatlarını doya doya yaşamaları için hastalarımıza özel hizmetler sunmaktadır. Siz veya bir yakınınızın yardıma ihtiyacı varsa 1-800-122-8585 numaralı telefondan Akıl Sağlığı Koruma Merkezi'ni bugün arayın. Bir Vought International® iştiraki olan Küresel Sağlık Hizmetleri® iştirakidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5ZTRa0V3QFYX2ridnY9wh0FsvId.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1190634/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Her Kesimden İnsan",
+            "overview": "Meclis Üyesi Victoria Neuman’ın, Vought karşıtı düzenlediği sahte meclis oturumuna son 3 GÜN. Onlara en ihtiyaç duyduğumuz anda süper kahramanları suçlamasına izin mi verelim? Böylesine utanmaz bir partizanlığa karşı çıkmalıyız. Vatansever Amerikalılar'a katılın ve VOUGHTPROMISE.COM'a 20 dolar göndererek Neuman'a ve usulsüz adli yardakçılarına kazanamayacaklarını söyleyin, \"Biz Varken Asla\"™.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8OJpTYvdGaTkzxU9oZnx0TaTaOt.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1190634/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Bildiğim Şu",
+            "overview": "***SÜPER KÖTÜ ALARMI*** BU MESAJ SİZE ULUSAL GÜVENLİK BAKANLIĞI TARAFINDAN GÖNDERİLMİŞTİR. BÖLGENİZDE BİR SÜPER KÖTÜ ALARMI VERİLMİŞTİR. LÜTFEN TETİKTE OLUN VE ŞÜPHE UYANDIRAN HER TÜRLÜ KİŞİ VE OLAYI İHBAR EDİN. BİR SÜPER KÖTÜ GÖRDÜĞÜNÜZE İNANIYORSANIZ ONA YAKLAŞMAYIN VEYA ONU YAKALAMAYA ÇALIŞMAYIN. DERHÂL EMNİYET GÜÇLERİYLE TEMASA GEÇİN.",
+            "still_path": "https://image.tmdb.org/t/p/w400/w44GW7Zv808V1nsr1NY6Y3I8r8B.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1190634/s2/e08"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Ödeşme",
+            "overview": "Bu Salı saat 19.00'da Vought Kule'de Lambacı Memorial Tiyatrosu'nda Yedilerin Şafağı'nın galasına siz ve bir misafiriniz davetlisiniz! Gösterimi, yönetmen Adam Bourke ile soru-cevap ve Süper DJ Malchemical ile bir after party izleyecek! Amerika'nın bir numaralı Süper Kahraman takımı hakkında anlatılan en büyük gerçek başlangıç ​​hikayesi için bize katılın ve efsanenin nasıl başladığını görün!",
+            "still_path": "https://image.tmdb.org/t/p/w400/yeAHbQ11ExTFWg34gnP4dGNwfk5.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1190634/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Gökteki Tek Adam",
+            "overview": "Yurtsever. Amerika'nın en büyük Süper Kahramanı. Bir uçtan bir uca kadar kıyılarımızı savunuyor. Bugün Amerika onu doğum gününde onurlandırıyor. Ve Vought Alışveriş Ağı, özel Yurtsever Sınırlı Doğum Günü Baskısı Altın Gold Coin'i sadece 99,95 $'a (artı vergi ve kargo ücreti) sunarak kutluyor. Stoklarla sınırlıdır. Vought Altın Hatıra Paraları: Bir ömür boyu süren bir yatırım.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zszqaeKmSNB24q2tZigx29GH7zs.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1190634/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Barbary Coast",
+            "overview": "Vought Plus'ta bu gece 9/8C'de, #AmerikanKahraman'ın sezon finali! Üç yarışmacı kaldı, ancak #Yedi'ye yalnızca iki yarışmacı katılacak! Yıldız Işığı eski aşkı Supersonik'i mi seçecek? Yoksa Yedi Kule'ye başka biri mi taşınacak? Vought'tan Yağsız Hanım Donmuş Gıdalar'ın size getirdiği şoke edici son bölümü bu akşam kaçırmayın: İnce tadın süper olduğu yer!",
+            "still_path": "https://image.tmdb.org/t/p/w400/v0NmiGE6FntSSGN4RXDTd2ylMwF.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1190634/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Muhteşem Beş Yıllık Plan",
+            "overview": "Bu gece, yalnızca Supeporn.com Süper Aboneleri için canlı yayın, #DildolarınÇarpışması! Yediden ilham alan dildolardan hangisi bu uçtan uca mücadelede rekabeti kazanacak? Hüküm süren şampiyon Yurtsever Bayraklı Sosisi mi yoksa Yıldız Işığı'nın elektrikli Yıldız-Vibratörü mü olacak? Bu zevk veren delicileri adım adım ilerletirken bize katılın! Sadece Supeporn.com'da!",
+            "still_path": "https://image.tmdb.org/t/p/w400/adNh9TIlLKh0uUug3KOiuhFINAh.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1190634/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Bu Yalanlar Dünyasına Son Kez Bakmak",
+            "overview": "Şempanzelerin insan faaliyetleri nedeniyle neslinin tükendiğini biliyor muydunuz? Ama Kırmızı Kontes'in Şempanze Ülkesi'nin maliyetlerini destekleyerek onlara yardımcı olabilirsiniz! Şempanzeler için bu güzel sığınakta bir muz çiftliği, dört günlük dublör şovu ve bir evcil hayvan çiftliği yer alacak! Ve bağış yaptığınızda, Kırmızı Kontes ile özel bir görüntülü sohbet kazanacaksınız! Bağış yapın!",
+            "still_path": "https://image.tmdb.org/t/p/w400/m5hFjth3uqHRdDQmFr4xDhMPyzc.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1190634/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Kahramangazm",
+            "overview": "70. Geleneksek Kahramangazm'a davetlisiniz! Kabul edilmek için bu davetiyeyi sunmalısınız! Kurallar yine aynı: Kamera yok, gizlilik sözleşmesi gerekli ve sekse hazır olunmalı. Süper olmayan misafir yok ve medyaya bilgi vermek yok! Kendi cihazınızı getirin, ancak yiyecek, alkol ve kayganlaştırıcı sağlanacaktır! Yemek şirketi için personel sayısı alabilmemiz için lütfen cevap göndermeyi unutmayın!",
+            "still_path": "https://image.tmdb.org/t/p/w400/xmGw9EVZ6jSeWz0K9vyfim3KvhZ.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1190634/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "İşte Seni Yatağa Yakacak Bir Mum Geliyor",
+            "overview": "Biri doğum günü mü dedi? Gelip Buster Beaver's'ta 30 kişiye kadar oturma yeri, on adet büyük boy pizza ve on adet gazoz seçeneğiniz ile yeni Deluxe VIP Doğum Günü Paketimiz ile kutlayın! Ve elbette, Buster Beaver ve tüylü orman arkadaşlarının başrolde olduğu özel bir doğum günü oyunu! Hepsi sadece 199,99$ + vergiye! Buster Beaver'ın Pizzası! Çocukların Kuralları Koyduğu Yer®!",
+            "still_path": "https://image.tmdb.org/t/p/w400/cG7G0XyW0KQ1oeYY06KnaP1n8PR.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1190634/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Anında Vahşi Beyaz-Sıcak",
+            "overview": "Tüm vatanseverlere sesleniyorum! Yurtsever'e arkasını kolladığımızı gösterelim. Yıldız Işığı ve onun Yıldız Işığı Dehşet Evi'nin çocuk kaçakçılığı yapmasının ve onların adrenalinlerini içmesinin yanlarına kalmasına izin vermeyeceğiz! Gerçek Amerikalıların savaşma zamanı! Yarın Vought Meydan'da Yurtsevercilere ve Fırtına Takipçileri'ne katılın! Geri çekil ve hazır ol!",
+            "still_path": "https://image.tmdb.org/t/p/w400/pxqOE021uJtQHOdT09WmFsXyy3V.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1190634/s3/e08"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Pis Numaralar Departmanı",
+            "overview": "TÜM VATANSEVERLERE ÇAĞRI. YARIN YURTSEVER'İN #KARARI İÇİN ADLİYEYE GELİN VE HAZIR OLUN. KOKUŞMUŞ \"ADALET\" SİSTEMİ SAÇMALARSA GÜNLERİNİ GÖRECEKLER. #YURTSEVEREÖZGÜRLÜK",
+            "still_path": "https://image.tmdb.org/t/p/w400/7eGAjea8dawKURw6YJxMxC6qIm9.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1190634/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Septikler Arasında Yaşam",
+            "overview": "Küreselcilerin bizi gey yapmak için yemeklere kimyasal koyduğunu, Dakota Bob'ın cehennemden gelen bir şeytan olduğunu ve Ay'ın gerçek olmadığını biliyor muydunuz? Neden bilmenizi istemediklerini #HakikatFuarında öğrenin!",
+            "still_path": "https://image.tmdb.org/t/p/w400/4IZ7Hb8SPbHoCqL9iUWtlnusvLw.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt1190634/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Kızıl Bayrak Burada Dalgalanmaya Devam Edecek",
+            "overview": "Bu aralık ayında VoughtCoin Arena'ya gelin ve Noel heyecanını olması gerektiği gibi buzda yaşayın! Vought, Buzda Vought'u sunar! Biletler BuzdaVought.com'da!",
+            "still_path": "https://image.tmdb.org/t/p/w400/kcHBZHSYyj0eYSDzCUTze11c5RX.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1190634/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "Asırların Bilgeliği",
+            "overview": "Vought Haber Ağı yeni programı #HakikatBombasını gururla sunar! Programın sunucusu Maytap ve ünlü konuklarının, Yıldız Işığı'nın Adrenokrom Partileri'ni ifşa ettiği altı saatlik ilk bölümün canlı yayınını kaçırmayın!",
+            "still_path": "https://image.tmdb.org/t/p/w400/n4xTP8x24KeKNhCOSuBAHrUPSNw.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1190634/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "Jabberwock'a Dikkat Et, Oğlum",
+            "overview": "#Süperfanların dikkatine! A-Treni'nin güçlü ve gerçek hikâyesini konu alan A-TRENİ'Nİ EĞİTMEK'in bu yılki #V52 kapsamında gerçekleştirilecek galasında kendisini kanlı canlı görme şansına erişebilirsiniz! V52: Hayranların desteğiyle hayranlar için!",
+            "still_path": "https://image.tmdb.org/t/p/w400/fHeFRfcd21yOzCR5JBclaN8LuQs.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1190634/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Pis İş",
+            "overview": "Vernon Islahevi olarak bakımını üstlendiğimiz kişileri başarılı bir şekilde topluma geri kazandırmak üzere onlara şefkat dolu bir rehabilitasyon sunuyoruz. Vernon'da önemli olan nezaret değildir. Ailedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cFrUAYssPVPCsgHVFzIrxrkOELW.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1190634/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Köstebek",
+            "overview": "Çocuklar! Komşunuzun, amcanızın, hatta anne ve babanızın bile Amerika'yı yıkmaya çalışıyor olabileceğini biliyor muydunuz? Onlara nasıl engel olacağınızı V Bulvarı Noel Özel'de öğrenebilirsiniz! Bir şey görürseniz sessiz kalmayın!",
+            "still_path": "https://image.tmdb.org/t/p/w400/xiR5QajJaM53KQDMgocMUDce4Yi.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1190634/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Dördüncü Sezon Finali",
+            "overview": "Tüm vatanseverlere çağrı! Yarın bu çalınan seçimin resmiyet kazanmasına izin vermeyeceğiz! Bob Singer'ın duyarcı süper karşıtı gündemine engel olmalıyız! SAVAŞA HAZIR OLUN! #HepimizBirimizHepimizVoughtİçin",
+            "still_path": "https://image.tmdb.org/t/p/w400/kv7DTgyuKz5gsSwfoH92Tnam0lA.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1190634/s4/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 03:01:34"
 }

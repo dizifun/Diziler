@@ -2,24 +2,125 @@
     "id": 111110,
     "imdb_id": "tt11737520",
     "name": "ONE PIECE",
+    "original_name": "ONE PIECE",
+    "overview": "Popüler manganın bu canlı çekim uyarlamasında genç korsan Monkey D. Luffy, hasır şapkası ve çılgın mürettebatıyla birlikte hazineyi bulmak için destansı bir yolculuğa çıkıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
     "year": "2023",
+    "rating": 8.1,
     "genres": [
         "Aksiyon & Macera",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix"
+    ],
     "cast": [
-        "Iñaki Godoy",
-        "Emily Rudd",
-        "新田真剣佑",
-        "Jacob Gibson",
-        "Jeff Ward"
+        {
+            "name": "Iñaki Godoy",
+            "role": "Monkey D. Luffy",
+            "image": "https://image.tmdb.org/t/p/w200/93Z6KuFpqoDD1xN5kuswYQzbWe6.jpg"
+        },
+        {
+            "name": "Emily Rudd",
+            "role": "Nami",
+            "image": "https://image.tmdb.org/t/p/w200/y23GTdDPcryBVtSWjY9q2O9nzwV.jpg"
+        },
+        {
+            "name": "新田真剣佑",
+            "role": "Roronoa Zoro",
+            "image": "https://image.tmdb.org/t/p/w200/bacZSFemex2oUexBccrbIksGxGz.jpg"
+        },
+        {
+            "name": "Jacob Gibson",
+            "role": "Usopp",
+            "image": "https://image.tmdb.org/t/p/w200/c6uP24uFslQ3hnEgqPkojAbYuZn.jpg"
+        },
+        {
+            "name": "Jeff Ward",
+            "role": "Buggy the Clown",
+            "image": "https://image.tmdb.org/t/p/w200/55Vj8VuALnptdxjJYCH6EdPyR0j.jpg"
+        },
+        {
+            "name": "Taz Skylar",
+            "role": "Sanji",
+            "image": "https://image.tmdb.org/t/p/w200/3EXMkfzB8EXn3ZJPJvK6OfPWLfz.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "MACERALARIN DOĞUŞU",
+            "overview": "Batmakta olan bir kayıkta mahsur kalan vurdumduymaz Luffy, bir korsan kralın kayıp hazinesini bulma serüvenine başlar. Ama önce bir tayfa, bir gemi ve bir harita bulmalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/c5Iy4rskV8U4rznDAqmkUAm7BvK.jpg",
+            "vote_average": 8.3,
             "link": "https://vidmody.com/vs/tt11737520/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "HASIR ŞAPKALI ADAM",
+            "overview": "Grand Line haritasını ele geçiren Luffy, Nami ve Zoro, maskaralıktan hoşlanmayan bir palyaço tarafından rehin alınır. Koramiral Garp, yeni acemi Koby'yi köşeye sıkıştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fUYSyYPYCTB7bGuiqrwFQqt5xja.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt11737520/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "YALAN SÖYLEME",
+            "overview": "Doğru düzgün bir gemiye ihtiyacı olan ekip, Şurup Köyü'ne ulaşır ve neşeli Usopp ve onun en yakın arkadaşı Kaya ile tanışır. Ancak hain bir tehdit, planlarını sekteye uğratır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/utv8GwRqlwb2M2ugQUzMzBL6Nt.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt11737520/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "KORSANLAR GELİYOR",
+            "overview": "Klahadore'un planı uygulamaya konmuşken arkadaşları tehlikede olan Usopp, Donanma'dan yardım ister. Kaya'nın malikânesinde amansız bir mücadele başlayınca bıçaklar çekilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fplwnCjptL79oPveTjOWRzsdosL.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt11737520/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "BARATIE'YE HOŞ GELDİNİZ!",
+            "overview": "Hasır Şapkalı Korsanlar grup olarak ilk düşmanlarıyla karşılaşır. Yüzen balık lokantasında, Luffy bir aşçıyla arkadaş olur. Zoro ise bir savaş lordu ile düello yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/w38VhWaCvtR7svPaGU7CSLnu4Ub.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt11737520/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "ŞEF VE KOMİ",
+            "overview": "Sanji ile baş aşçı Zeff anlaşmazlıklarını bir kenara bırakıp kötü bir yara alan Zoro'yu kurtarmaya çalışır. Bir görevde olan acımasız Balıkadam tayfaya sorun çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lZgNsaPEIrvXi2InAlilH51EGZA.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt11737520/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "TESTERE BALIĞI DÖVMELİ KIZ",
+            "overview": "Arlong'u bulmak için tanıdık bir düşmanla anlaşma yapan Luffy ve arkadaşları, Coco Köyü'ne gitmek amacıyla denize açılır ve Nami'nin gizemli geçmişini öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/828JBjk9zrKbMQgdp6oHrRog0WY.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt11737520/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "DOĞUDAKİ EN TEHLİKELİ ADAM",
+            "overview": "Hasır Şapkalar ekibi, Arlong ve Balıkadamları kesin olarak alt etmeye çalışır. Gergin bir aile buluşmasının ardından Luffy, hayallerine bir adım daha yaklaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o8Ms6bEcCJa6HwafqPahaq2NGGL.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt11737520/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 02:51:07"
 }

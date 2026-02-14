@@ -2,26 +2,190 @@
     "id": 103540,
     "imdb_id": "tt12324366",
     "name": "Percy Jackson and the Olympians",
+    "original_name": "Percy Jackson and the Olympians",
+    "overview": "Percy Jackson tehlikeli bir maceraya atılır. Zeus'un İlk Şimşeğini geri getirmek ve topyekûn bir savaşı engellemek için Amerika'yı boydan boya kat etmesi, bu esnada da peşindeki canavarlardan kurtulması ve kurnazlığıyla tanrıları alt etmesi gerekmektedir. Görev arkadaşları Annabeth ve Kıvırcık'ın da yardımıyla Percy'nin yolculuğu onu, aradığı cevaplara yaklaştıracaktır: Kendini yabancı hissettiği bir dünyaya nasıl uyum sağlayacağına ve aslen kim olduğunun cevabını bulmaya.",
     "poster": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/danN2NzJTMouaBEkDWTnyDjDxUt.jpg",
     "year": "2023",
+    "rating": 7.3,
     "genres": [
         "Aksiyon & Macera",
         "Bilim Kurgu & Fantazi",
         "Dram",
         "Aile"
     ],
+    "categories": [
+        "Tümü",
+        "Disney+"
+    ],
     "cast": [
-        "Walker Scobell",
-        "Leah Sava Jeffries",
-        "Aryan Simhadri",
-        "Charlie Bushnell",
-        "Dior Goodjohn"
+        {
+            "name": "Walker Scobell",
+            "role": "Percy Jackson",
+            "image": "https://image.tmdb.org/t/p/w200/gfIZFH6SpwpOU8zc04e5MkeJcj2.jpg"
+        },
+        {
+            "name": "Leah Sava Jeffries",
+            "role": "Annabeth Chase",
+            "image": "https://image.tmdb.org/t/p/w200/gzqJyI41M2a3BLroh4sLEmi3GfE.jpg"
+        },
+        {
+            "name": "Aryan Simhadri",
+            "role": "Grover Underwood",
+            "image": "https://image.tmdb.org/t/p/w200/sK32LsmxWLeLGqcN7WojSjVfMp5.jpg"
+        },
+        {
+            "name": "Charlie Bushnell",
+            "role": "Luke Castellan",
+            "image": "https://image.tmdb.org/t/p/w200/yIWpqZKvY645ktsNO4yTTUtXGPJ.jpg"
+        },
+        {
+            "name": "Dior Goodjohn",
+            "role": "Clarisse La Rue",
+            "image": "https://image.tmdb.org/t/p/w200/1lV7rfD0Z5fX3djJpDo51eXlkOI.jpg"
+        },
+        {
+            "name": "Daniel Diemer",
+            "role": "Tyson",
+            "image": "https://image.tmdb.org/t/p/w200/dWG4JHn8DKm3VFHlcFYPPxovdak.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Yanlışlıkla Matematik Öğretmenimi Buharlaştırıyorum",
+            "overview": "Okuldan atılan Percy Jackson, tanrılar ve canavarlarla dolu bir dünyada kim olduğunu keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tBlYUJrATQJIilgO0P40edoQAgE.jpg",
+            "vote_average": 6.4,
             "link": "https://vidmody.com/vs/tt12324366/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Banyonun Yüce Lordu Oluyorum",
+            "overview": "Percy, Melez Kampı'nda yerini bulur ve burada kökenlerinin ne kadar özel olabileceğini fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bG1rPBVP6OIkl9fU0z5UqPmlhh1.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt12324366/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Bahçe Cüceleri Mağazasını Ziyaret Ediyoruz",
+            "overview": "Percy, Zeus'un Ana Yıldırımını geri getirmek, tanrılar arasındaki savaşı engellemek için yola çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iNFcF74SegHlgF5RvG2jANRIpRf.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt12324366/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Ölüme Atlıyorum",
+            "overview": "Kahramanlarımız St Louis'de sığınacak yer ararken tüm canavarların annesiyle karşı karşıya gelirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8Sj6OvWmsvlI7APYpXqogTSMDJc.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt12324366/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Tanrı Bize Çizburger Ismarlıyor",
+            "overview": "Percy, Annabeth ve Kıvırcık, ürkütücü bir rakibe iyilik yapmayı kabul edince görevleri derinleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tQioodUhdkdJtaG8gs0S3Lf2fgJ.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt12324366/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Zebrayı Vegas'a Götürüyoruz",
+            "overview": "Percy, Annabeth ve Kıvırcık, zamanın ötesinde bir kumarhanenin cazibesine direnmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/adh5B55zP3cX3l06Wm3yxAkFHKD.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt12324366/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Gerçeği Öğreniyoruz, Bir Nevi",
+            "overview": "Yeraltı Dünyası'nda ilerleyen kahramanlarımız güvenlikleri için ölülerin tanrısıyla pazarlık yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nxWD0SulmvNqacg9cq3H29wfFSg.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt12324366/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Kehanet Gerçek Oluyor",
+            "overview": "Olimpos Dağı çağırıyor... Percy şimdiye kadarki en büyük mücadelesini verecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sxsERRn6SuGhbBAHsTaNXuM7Idm.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt12324366/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Yamyamlarla Yakan Top Oynarım",
+            "overview": "Percy, Annabeth ve Tyson, Melez Kampı'nı tehlikeli güçlerden korumak için yarışırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dUNti4mQNig3MtC0BcpH5QPek8U.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt12324366/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "İblis Güvercin Saldırısı",
+            "overview": "Percy ve Annabeth, Grover'ı bulmaya çalışırken yeni etkinlik direktörüyle mücadele ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rYoocDNgP1Yfy9J80elvMtwkV0t.jpg",
+            "vote_average": 4.4,
+            "link": "https://vidmody.com/vs/tt12324366/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Prenses Andromeda gemisine biniyoruz.",
+            "overview": "Kahramanlarımız bir yolcu gemisinde dostu düşmandan ayırt etmekte zorlanıyorlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/t63IO1kDdiXe8NLzIz4oZKfGAfb.jpg",
+            "vote_average": 4.0,
+            "link": "https://vidmody.com/vs/tt12324366/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Clarisse Her Şeyi Havaya Uçuruyor",
+            "overview": "Ekibimiz, Canavarlar Denizi'nin tehlikelerle dolu sularına doğru yolculuk ederken, görevler birbiriyle kesişiyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/Ud7fBs4GBUrnRuiqo7CNmBDzDY.jpg",
+            "vote_average": 4.4,
+            "link": "https://vidmody.com/vs/tt12324366/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "C.C.'s Spa & Resort'a giriş yaptık.",
+            "overview": "Percy ve Annabeth, bir tatil beldesindeki sığınakta kendi kusurlarıyla yüzleşmek zorundalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2XYCq4DDoGk748Ce6UIHFKs5uzJ.jpg",
+            "vote_average": 5.1,
+            "link": "https://vidmody.com/vs/tt12324366/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Kimse Postu Alamaz",
+            "overview": "Percy ve Annabeth, arkadaşlarını kurtarmak için bir adada gizli görevde bulunurlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/m04SYhVZFYcIMj68gYmiLzs5Oay.jpg",
+            "vote_average": 4.4,
+            "link": "https://vidmody.com/vs/tt12324366/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Gemiyle birlikte batıyorum",
+            "overview": "Dostlarından biri tehlike altında olduğundan, kahramanlarımız görevlerine devam etmek için her şeyi riske atmak zorundalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8JDxxvWvuLci0RwX1RHpevdckhf.jpg",
+            "vote_average": 4.7,
+            "link": "https://vidmody.com/vs/tt12324366/s2/e07"
         }
-    ]
+    ],
+    "update_date": "2026-02-14 03:26:44"
 }
