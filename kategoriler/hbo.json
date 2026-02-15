@@ -1,5 +1,131 @@
 [
     {
+        "id": 271267,
+        "imdb_id": "tt31987295",
+        "name": "The Chair Company",
+        "original_name": "The Chair Company",
+        "overview": "İş yerinde rezil olan bir adam (Tim Robinson) geniş kapsamlı bir komployu araştırmaya başlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/2VktdoGvR0Pv6qj9P7vDsTIfw1l.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/jq9biQdGSL0GIUyDaLLl7x8rgzm.jpg",
+        "year": "2025",
+        "rating": 7.1,
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "Spectrum On Demand",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Tim Robinson",
+                "role": "William Ronald 'Ron' Trosper",
+                "image": "https://image.tmdb.org/t/p/w200/tS0CF1hO6sUd6GGdBnz5lkHpeaG.jpg"
+            },
+            {
+                "name": "Lake Bell",
+                "role": "Barb Trosper",
+                "image": "https://image.tmdb.org/t/p/w200/sITVdq39jtR1l3VohWYDyxorx1v.jpg"
+            },
+            {
+                "name": "Sophia Lillis",
+                "role": "Natalie Trosper",
+                "image": "https://image.tmdb.org/t/p/w200/5aAw3KFixZSsMfo0BWrxtBLVsXN.jpg"
+            },
+            {
+                "name": "Will Price",
+                "role": "Seth Trosper",
+                "image": "https://image.tmdb.org/t/p/w200/2pch3OS2G4zkpCaASDmWGCXnKR1.jpg"
+            },
+            {
+                "name": "Joseph Tudisco",
+                "role": "Mike Santini",
+                "image": "https://image.tmdb.org/t/p/w200/9o32VGUWMF4ZFbzcGlKFNRcf3JZ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "İş yerinde rezil olan Ron Trosper sorunu çözmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xWBpfowamVApO5JAljuYXraQPjE.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Ron, düğün hazırlıkları için Natalie'ye yardım eder ve sorunu çözmeye çalışmaya devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hA5D1q9V0087Y7WJRgUC8HlUCcu.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Rahatsız edici bir rastlaşmanın ardından Ron evine yeni güvenlik sistemi kurar ve araştırmasını genişletir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wKVfPCQqDYheOMUkqPjOlyErkvS.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Yeni bir hipotez gelitiren Ron kendini bir dizi tuhaf karşılaşmanın merkezinde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zRFURzHW0N6dA6lqDcZ65z2O7kQ.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Yeni bir yol araştıran Ron, tehlikeli bir yola sokulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qfsrAN000zC8mrEEJATQmuOwVfr.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Zi384sX5kHjIFfXk0xrupFBPib.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/8fed0cf0gz87Y5pPMfP2CznZy7Y.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bT1E0NAcjaoaD5t8ESWcOOPtX3Q.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:31:43"
+    },
+    {
         "id": 228305,
         "imdb_id": "tt28013708",
         "name": "Task",

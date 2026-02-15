@@ -2,23 +2,116 @@
     "id": 250504,
     "imdb_id": "tt31974367",
     "name": "The Beast in Me",
+    "original_name": "The Beast in Me",
+    "overview": "Ünlü bir yazar; zengin, nüfuzlu ve katil olma ihtimali olan yeni komşusuyla birlikte sapkın bir akıl oyununun içine çekilir.",
     "poster": "https://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
     "year": "2025",
+    "rating": 7.1,
     "genres": [
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Claire Danes",
-        "Matthew Rhys",
-        "Brittany Snow",
-        "Natalie Morales"
+        {
+            "name": "Claire Danes",
+            "role": "Agatha 'Aggie' Wiggs",
+            "image": "https://image.tmdb.org/t/p/w200/vTKKniIwbXWMmnuMmGKHYS41Vif.jpg"
+        },
+        {
+            "name": "Matthew Rhys",
+            "role": "Nile Jarvis",
+            "image": "https://image.tmdb.org/t/p/w200/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
+        },
+        {
+            "name": "Brittany Snow",
+            "role": "Nina Jarvis",
+            "image": "https://image.tmdb.org/t/p/w200/uSQW2E7caOaXHBbvL2jdzGbwDwH.jpg"
+        },
+        {
+            "name": "Natalie Morales",
+            "role": "Shelley Morris",
+            "image": "https://image.tmdb.org/t/p/w200/4azsKjgJ18l0EiJBwtuHklnKH1t.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Ters Ruh",
+            "overview": "Kendi kabuğuna çekilmiş yazar Aggie Wiggs'in hayatı, hakkında ilk eşini öldürdüğüne ilişkin şüpheler bulunan zengin ve küstah yeni komşusunun gelişiyle altüst olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sDZnAzc00xKvv462IcpMeEMrF1P.jpg",
+            "vote_average": 7.1,
             "link": "https://vidmody.com/vs/tt31974367/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Yalnız Kalmak İstemiyorum",
+            "overview": "Aldığı haberin şokunu üzerinden atamayan Aggie, Brian ile şüphelerini paylaşır ve Nile'a ilgi çekici bir teklifte bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r2aDfbL26zVfyKeXboefokDnr4F.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt31974367/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Konuşulmayan",
+            "overview": "Nile'ın geçmişini iyice didikleyen Aggie, Brian'ı elde ettiği bilgileri kullanması için zorlar. Nina, Shelley'nin eserlerine ilgi gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lyWiaPrYU1H8kMOgzPKNMtWxyEk.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt31974367/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Ölüm Dürtüsü",
+            "overview": "Aggie, Madison'ın ailesiyle kızlarının ortadan kaybolması hakkında görüşür. Nile ve Martin, belediye meclisini hedef alır. Brian sabit diskteki verilere ulaşmak için yardım alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2Bq7c5r4oOfWZqpkXPpgMs1BOZR.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt31974367/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Âlem",
+            "overview": "Nile ve Aggie, içki eşliğindeki samimi bir sohbette özel konulara girince bu durum Nina'da şüphe uyandırır. Martin ve Rick, Olivia'nın mitinginde olay çıkarmak için komplo kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9uKIxNpYgNNxXUA6Z7MaNoyvRgP.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt31974367/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Canavar ve Ben",
+            "overview": "Son öğrendiği bilgiyi Brian ile paylaşmak için sabırsızlanan Aggie, beklenmedik şekilde daha da karanlık bir gerçeği açığa çıkarır. Nina şaşırtıcı bir haber alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gXUJP32jobzKDjvPMP6gh8ReFcP.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt31974367/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Hayaletler",
+            "overview": "2019'da Jarvis çifti ile Nina ve Brian arasında şüphe ve ihanetle örülü karmaşık bir ağ oluşur ve Madison'ın ortadan kaybolmasının ardındaki gerçek gözler önüne serilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rpuz5WxE8qSnrCNlhAbl0phgOOE.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt31974367/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Son Söz",
+            "overview": "Köşeye sıkışan Aggie, dünyasının altüst olmasını önlemek için tüm aklını kullanmalıdır. Üstelik beklenmedik bir müttefike güvenmekten başka çaresi yoktur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vUYVc5gqvIEJpjUlMEXKHIvFqXj.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt31974367/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:31:18"
 }

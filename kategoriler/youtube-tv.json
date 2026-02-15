@@ -1,5 +1,382 @@
 [
     {
+        "id": 253391,
+        "imdb_id": "tt32268630",
+        "name": "Sheriff Country",
+        "original_name": "Sheriff Country",
+        "overview": "Küçük bir Kaliforniya kasabasının şerifi olan Mickey Fox, hem ailesini hem de kasabanın çürümüş düzenini ayakta tutmaya çalışıyor. Karanlık suçlar, açığa çıkan sırlar ve Mickey'nin kendi içindeki hesaplaşması, onu sadece görevini değil kimliğini de sorgulamaya itiyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "CBS",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "YouTube TV",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Morena Baccarin",
+                "role": "Mickey Fox",
+                "image": "https://image.tmdb.org/t/p/w200/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+            },
+            {
+                "name": "W. Earl Brown",
+                "role": "Wes",
+                "image": "https://image.tmdb.org/t/p/w200/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+            },
+            {
+                "name": "Christopher Gorham",
+                "role": "Travis",
+                "image": "https://image.tmdb.org/t/p/w200/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+            },
+            {
+                "name": "Michele Weaver",
+                "role": "Cassidy",
+                "image": "https://image.tmdb.org/t/p/w200/zdCczyPd5oO9XsXvRANjER4hMZs.jpg"
+            },
+            {
+                "name": "Matt Lauria",
+                "role": "Boone",
+                "image": "https://image.tmdb.org/t/p/w200/afzZ4QN5MV4Ui6oz5zWFLBvuDRE.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Skye bir cinayet davasının baş şüphelisi olunca, Mickey soruşturma sırasında görevinden ayrılmak zorunda kalır ve gerçeği bulmak için kendi araştırmasını yürütür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vLdlQ3SeaVRD1lnxQb7lkY2xo7.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Yüksek risk içeren bir nakil görevi, Mickey ve Boone'u gergin hale getirir. İkili savunmasız bir tanığı koruyabilmek için zamana karşı yarışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hqSToX9rGvVeg6aovfM1klb8Uib.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Eel Nehri kıyısında bir ceset bulununca Şerif Fox ekibiyle cinayet soruşturması başlatır ve Edgewater sarsılır. Wes, gerçeği bulmak için her şeyi riske atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5F2LBWpXisVTAe0cgLSPvfAi0na.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Edgewater Lisesi’ndeki vahşi bir saldırıyı araştıran Şerif Mickey Fox, okulda sırlar, yalanlar ve güç istismarından oluşan rahatsız edici bir ağ keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6YwnOh6tb1HNN0fctnpHLU7jgj5.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Şiddet içeren bir soygun bir adamı kritk durumda bırakır. Mickey ise üvey kız kardeşiyle gergin bir yemeği idare etmeye çabalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nsLeoyFCRZE64nkQIuIOMNsHarr.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:42:42"
+    },
+    {
+        "id": 252551,
+        "imdb_id": "tt32158122",
+        "name": "Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak",
+        "original_name": "The Stanford Prison Experiment: Unlocking the Truth",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/h9b0FeHRrtQnGsmhzrOBRqL5wam.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/he52SueYc5WQA0Aenl83LpTLmKx.jpg",
+        "year": "2024",
+        "rating": 7.0,
+        "genres": [
+            "Belgesel"
+        ],
+        "categories": [
+            "Tümü",
+            "Spectrum On Demand",
+            "fuboTV",
+            "National Geographic",
+            "Disney+",
+            "YouTube TV"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/nBVJMKWRujgsDL7wwNJolgIXvny.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32158122/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/l5WupyYyfNatHnPAvawbh3Y8mK1.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32158122/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3sY81Vd6JSGZNinmZhV8ZhteUAD.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32158122/s1/e03"
+            }
+        ],
+        "update_date": "2026-02-15 11:38:10"
+    },
+    {
+        "id": 250307,
+        "imdb_id": "tt31938062",
+        "name": "The Pitt",
+        "original_name": "The Pitt",
+        "overview": "Pittsburgh Pennsylvania'daki bir hastanede çalışan sağlık profesyonellerinin, kritik hastaları tedavi etmenin duygusal yüküyle boğuşurken günlük ve hastanedeki yaşamları.",
+        "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
+        "year": "2025",
+        "rating": 8.7,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "HBO Max",
+            "YouTube TV",
+            "Max"
+        ],
+        "cast": [
+            {
+                "name": "Noah Wyle",
+                "role": "Dr. Michael 'Robby' Robinavitch",
+                "image": "https://image.tmdb.org/t/p/w200/nwyLCQepwg8FX7OXJ4AT4ej8c7i.jpg"
+            },
+            {
+                "name": "Patrick Ball",
+                "role": "Dr. Frank Langdon",
+                "image": "https://image.tmdb.org/t/p/w200/c9JfuBcZahNi9mqfZZCjaAqcmGl.jpg"
+            },
+            {
+                "name": "Katherine LaNasa",
+                "role": "Charge Nurse Dana Evans",
+                "image": "https://image.tmdb.org/t/p/w200/7X3f4MG24XLG2fNPJt5H38d8YCV.jpg"
+            },
+            {
+                "name": "Supriya Ganesh",
+                "role": "Dr. Samira Mohan",
+                "image": "https://image.tmdb.org/t/p/w200/psUdosBoBVMfnSpCpe4UTAsegTP.jpg"
+            },
+            {
+                "name": "Fiona Dourif",
+                "role": "Dr. Cassie McKay",
+                "image": "https://image.tmdb.org/t/p/w200/gKn9lBZLuNHACQhZJUkSIZzUQN5.jpg"
+            },
+            {
+                "name": "Taylor Dearden",
+                "role": "Dr. Melissa King",
+                "image": "https://image.tmdb.org/t/p/w200/4oIL97ha0B4Gmp5tf4VUsqsWQUa.jpg"
+            },
+            {
+                "name": "Isa Briones",
+                "role": "Dr. Trinity Santos",
+                "image": "https://image.tmdb.org/t/p/w200/hxjYdiIJltYUSQwudCJwikIovYq.jpg"
+            },
+            {
+                "name": "Gerran Howell",
+                "role": "Student Doctor Dennis Whitaker",
+                "image": "https://image.tmdb.org/t/p/w200/ssyzz4yiGtbHOghoSYZIqQBEh4d.jpg"
+            },
+            {
+                "name": "Shabana Azeez",
+                "role": "Student Doctor Victoria Javadi",
+                "image": "https://image.tmdb.org/t/p/w200/vu51rFTgSdB8cdCsjLx1iAtTQZG.jpg"
+            },
+            {
+                "name": "Sepideh Moafi",
+                "role": "Dr. Baran Al-Hashimi",
+                "image": "https://image.tmdb.org/t/p/w200/7Z9BvGgwdLqlRJJft38cepGY1TZ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "7:00 A.M.",
+                "overview": "Akıl hocasının ölüm yıl dönümünden uzaklaşmaya çalışan Dr. Robby, bir yandan yeni stajyer grubunu acil servisteki hayatla tanıştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ayWb4xVUahzP7xDlILfyoZTzB6B.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "8:00 A.M.",
+                "overview": "Robby, kardeşlerine, yaşlı babalarının yaşam sonu bakımında rehberlik eder. Daha sonrasında Samira, yanlış anlaşılan bir rahatsızlığı olan bir kadını hedef alan polisleri savuşturur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6ArDi8ixkE3SZRBfn0PkLBRqdkO.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "9:00 A.M.",
+                "overview": "Samira, Whitaker'ı doğru yolda tutmak için elinden geleni yapar. Bir gencin aşırı doz alması acil serviste çatışmaya yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oBACF8XZBn0yO8HcNoUEHXUIFIt.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "10:00 A.M.",
+                "overview": "Çalınan bir ambulansın nerede olduğuna dair bahis oynanırken Santos zor bir ders alır. Whitaker, \"Kraken\"in evcilleştirilmesine yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pF2vCpszIqVnBzeXOHCzrRHQhyO.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "11:00 A.M.",
+                "overview": "Santos ve Collins, ahlaki ikilemlerle uğraşır. Samira'nın dikkatli yaklaşımı hastalardan övgü, Robby'den ise sitem alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yTZeG8q10PgHsaD65zhgMFIrDtc.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "12:00 P.M.",
+                "overview": "Robby hastaneden gelen bir ültimatomla ilgilenirken Mel, Javadi ve Collins, benzersiz anne-kız dinamikleriyle ilgilenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eQkpHLRtGAgVl1c0rVWBC8r2lgo.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "1:00 P.M.",
+                "overview": "Tuhaf semptomları olan bir fenomeni muayene eden Samira, Robby ile çatışır. Santos, saldırıyla suçlanan bir hastayla tartışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nof5sLfwbTHnzt7PsgXtYc8qots.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "2:00 P.M.",
+                "overview": "Robby, Pittsburgh'un geçmişiyle bağlantılı yaşlı bir hastayla ilgilenir. Ekip, boğulmakta olan genç bir kurbanı hayata döndürmek için çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9VR1E1q3IN7zoNmzZKvqAzxcpv6.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "3:00 P.M.",
+                "overview": "Robby'den gelen personel brifinginin ardından Dana, bekleme odasındaki kavgayı etkisiz hale getirir. Whitaker, \"Kraken\" ile ortak bir nokta bulur ve McKay çok önemli bir hatayla karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hgoLaQ9c4uJ1QY8X9cOBeiWKhPg.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "4:00 P.M.",
+                "overview": "Pitt'in bir çalışanının azalmasıyla Robby, boşluğun doldurulması için ekibine güvenir. Daha sonra Santos nihayet şüphelerini dile getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xH8XPQbB6MZabyvEj6yK6jiVQxT.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "5:00 P.M.",
+                "overview": "Robby, gelişen personel durumunu gizli tutmaya çalışırken Collins, bir vekil anneye zorlu bir doğumda rehberlik eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sjJBIya3Hn7o9Goatd3TxiOLQiq.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "6:00 P.M.",
+                "overview": "Düzinelerce kritik hasta acil servise akın edince Robby ve ekibi, malzemelerin hızla azalmasına ayak uydurmakta zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o4RHUNjjVTai7XbJqnF8aZ6QvRB.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "7:00 P.M.",
+                "overview": "Gece vardiyası başlarken, Robby toplu bir zayiat kurbanından vazgeçmeyi reddeder. Samira ve Santos, riskli hareketler dener.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xJF2Mqqj50G1uke9f5bOVAJDmer.jpg",
+                "vote_average": 9.2,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e13"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "name": "8:00 P.M.",
+                "overview": "Robby bir kayıpla mücadele ederken, Abbott Samira'ya riskli bir prosedürde koçluk yapar ve Mel gizemli bir döküntüsü olan bir genci tedavi eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rtqwpIO26nLKR2QHKJqzs5l2PVz.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e14"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "name": "9:00 P.M.",
+                "overview": "Robby, bir babayı oğluna tedavi izni vermeye ikna etmek için alışılmadık yöntemlere başvurur. Daha sonra, Whitaker kayıp bir hastayı bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bmkXebhqV00lfS5DiXtBHnqbQKm.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e15"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/vHxY3PCwAbdaZNcMuVz2TR8ba7I.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31938062/s2/e01"
+            }
+        ],
+        "update_date": "2026-02-15 11:30:22"
+    },
+    {
         "id": 273247,
         "imdb_id": "tt31289994",
         "name": "The Lowdown",

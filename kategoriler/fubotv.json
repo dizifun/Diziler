@@ -1,5 +1,161 @@
 [
     {
+        "id": 253391,
+        "imdb_id": "tt32268630",
+        "name": "Sheriff Country",
+        "original_name": "Sheriff Country",
+        "overview": "Küçük bir Kaliforniya kasabasının şerifi olan Mickey Fox, hem ailesini hem de kasabanın çürümüş düzenini ayakta tutmaya çalışıyor. Karanlık suçlar, açığa çıkan sırlar ve Mickey'nin kendi içindeki hesaplaşması, onu sadece görevini değil kimliğini de sorgulamaya itiyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "CBS",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "YouTube TV",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Morena Baccarin",
+                "role": "Mickey Fox",
+                "image": "https://image.tmdb.org/t/p/w200/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+            },
+            {
+                "name": "W. Earl Brown",
+                "role": "Wes",
+                "image": "https://image.tmdb.org/t/p/w200/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+            },
+            {
+                "name": "Christopher Gorham",
+                "role": "Travis",
+                "image": "https://image.tmdb.org/t/p/w200/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+            },
+            {
+                "name": "Michele Weaver",
+                "role": "Cassidy",
+                "image": "https://image.tmdb.org/t/p/w200/zdCczyPd5oO9XsXvRANjER4hMZs.jpg"
+            },
+            {
+                "name": "Matt Lauria",
+                "role": "Boone",
+                "image": "https://image.tmdb.org/t/p/w200/afzZ4QN5MV4Ui6oz5zWFLBvuDRE.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Skye bir cinayet davasının baş şüphelisi olunca, Mickey soruşturma sırasında görevinden ayrılmak zorunda kalır ve gerçeği bulmak için kendi araştırmasını yürütür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vLdlQ3SeaVRD1lnxQb7lkY2xo7.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Yüksek risk içeren bir nakil görevi, Mickey ve Boone'u gergin hale getirir. İkili savunmasız bir tanığı koruyabilmek için zamana karşı yarışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hqSToX9rGvVeg6aovfM1klb8Uib.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Eel Nehri kıyısında bir ceset bulununca Şerif Fox ekibiyle cinayet soruşturması başlatır ve Edgewater sarsılır. Wes, gerçeği bulmak için her şeyi riske atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5F2LBWpXisVTAe0cgLSPvfAi0na.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Edgewater Lisesi’ndeki vahşi bir saldırıyı araştıran Şerif Mickey Fox, okulda sırlar, yalanlar ve güç istismarından oluşan rahatsız edici bir ağ keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6YwnOh6tb1HNN0fctnpHLU7jgj5.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Şiddet içeren bir soygun bir adamı kritk durumda bırakır. Mickey ise üvey kız kardeşiyle gergin bir yemeği idare etmeye çabalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nsLeoyFCRZE64nkQIuIOMNsHarr.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:42:42"
+    },
+    {
+        "id": 252551,
+        "imdb_id": "tt32158122",
+        "name": "Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak",
+        "original_name": "The Stanford Prison Experiment: Unlocking the Truth",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/h9b0FeHRrtQnGsmhzrOBRqL5wam.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/he52SueYc5WQA0Aenl83LpTLmKx.jpg",
+        "year": "2024",
+        "rating": 7.0,
+        "genres": [
+            "Belgesel"
+        ],
+        "categories": [
+            "Tümü",
+            "Spectrum On Demand",
+            "fuboTV",
+            "National Geographic",
+            "Disney+",
+            "YouTube TV"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/nBVJMKWRujgsDL7wwNJolgIXvny.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32158122/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/l5WupyYyfNatHnPAvawbh3Y8mK1.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32158122/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3sY81Vd6JSGZNinmZhV8ZhteUAD.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32158122/s1/e03"
+            }
+        ],
+        "update_date": "2026-02-15 11:38:10"
+    },
+    {
         "id": 247718,
         "imdb_id": "tt31510819",
         "name": "MobLand",

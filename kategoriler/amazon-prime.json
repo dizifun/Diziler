@@ -1,5 +1,627 @@
 [
     {
+        "id": 253750,
+        "imdb_id": "tt32305967",
+        "name": "Crutch",
+        "original_name": "Crutch",
+        "overview": "Harlem'de bekâr hayatına dönmeyi hevesle bekleyen bir babanın, milenyum kuşağı oğlu ve özgür ruhlu kızının geri taşınmasıyla planları altüst olur. Bu durum onu, yeni aile dinamikleriyle başa çıkmaya ve önceliklerini yeniden belirlemeye zorlayacaktır.",
+        "poster": "https://image.tmdb.org/t/p/w500/9tDDG9mLfhJmqOyvolWneeF6Y1g.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/5lFJVwFA2jtO1ygLoDLGPiT7UhI.jpg",
+        "year": "2025",
+        "rating": 4.9,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Tracy Morgan",
+                "role": "Francois 'Crutch' Crutchfield",
+                "image": "https://image.tmdb.org/t/p/w200/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg"
+            },
+            {
+                "name": "Jermaine Fowler",
+                "role": "Jake",
+                "image": "https://image.tmdb.org/t/p/w200/tUovrCcFKncccMY7yarqeLBeVPk.jpg"
+            },
+            {
+                "name": "Adrianna Mitchell",
+                "role": "Jamilah",
+                "image": "https://image.tmdb.org/t/p/w200/9UXm6wg6WakfspGwwtGnh7xnicZ.jpg"
+            },
+            {
+                "name": "Kecia Lewis",
+                "role": "Antoinette",
+                "image": "https://image.tmdb.org/t/p/w200/gjJtR9RtctPjMoTvjZfSneJNql6.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/921VCaUfPboJYewKApEsDBQeotU.jpg",
+                "vote_average": 2.7,
+                "link": "https://vidmody.com/vs/tt32305967/s1/e01"
+            }
+        ],
+        "update_date": "2026-02-15 11:43:53"
+    },
+    {
+        "id": 253391,
+        "imdb_id": "tt32268630",
+        "name": "Sheriff Country",
+        "original_name": "Sheriff Country",
+        "overview": "Küçük bir Kaliforniya kasabasının şerifi olan Mickey Fox, hem ailesini hem de kasabanın çürümüş düzenini ayakta tutmaya çalışıyor. Karanlık suçlar, açığa çıkan sırlar ve Mickey'nin kendi içindeki hesaplaşması, onu sadece görevini değil kimliğini de sorgulamaya itiyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "CBS",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "YouTube TV",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Morena Baccarin",
+                "role": "Mickey Fox",
+                "image": "https://image.tmdb.org/t/p/w200/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+            },
+            {
+                "name": "W. Earl Brown",
+                "role": "Wes",
+                "image": "https://image.tmdb.org/t/p/w200/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+            },
+            {
+                "name": "Christopher Gorham",
+                "role": "Travis",
+                "image": "https://image.tmdb.org/t/p/w200/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
+            },
+            {
+                "name": "Michele Weaver",
+                "role": "Cassidy",
+                "image": "https://image.tmdb.org/t/p/w200/zdCczyPd5oO9XsXvRANjER4hMZs.jpg"
+            },
+            {
+                "name": "Matt Lauria",
+                "role": "Boone",
+                "image": "https://image.tmdb.org/t/p/w200/afzZ4QN5MV4Ui6oz5zWFLBvuDRE.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Skye bir cinayet davasının baş şüphelisi olunca, Mickey soruşturma sırasında görevinden ayrılmak zorunda kalır ve gerçeği bulmak için kendi araştırmasını yürütür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vLdlQ3SeaVRD1lnxQb7lkY2xo7.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Yüksek risk içeren bir nakil görevi, Mickey ve Boone'u gergin hale getirir. İkili savunmasız bir tanığı koruyabilmek için zamana karşı yarışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hqSToX9rGvVeg6aovfM1klb8Uib.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Eel Nehri kıyısında bir ceset bulununca Şerif Fox ekibiyle cinayet soruşturması başlatır ve Edgewater sarsılır. Wes, gerçeği bulmak için her şeyi riske atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5F2LBWpXisVTAe0cgLSPvfAi0na.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Edgewater Lisesi’ndeki vahşi bir saldırıyı araştıran Şerif Mickey Fox, okulda sırlar, yalanlar ve güç istismarından oluşan rahatsız edici bir ağ keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6YwnOh6tb1HNN0fctnpHLU7jgj5.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Şiddet içeren bir soygun bir adamı kritk durumda bırakır. Mickey ise üvey kız kardeşiyle gergin bir yemeği idare etmeye çabalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nsLeoyFCRZE64nkQIuIOMNsHarr.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt32268630/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:42:42"
+    },
+    {
+        "id": 253376,
+        "imdb_id": "tt32267726",
+        "name": "Kız Arkadaş",
+        "original_name": "The Girlfriend",
+        "overview": "Laura; parlak kariyeri, sevgi dolu eşi, değerli oğlu Daniel'la her şeye sahiptir. Ancak Daniel, her şeyi değiştiren kız arkadaşı Cherry'yi eve getirince Laura'nın hayatı altüst olur. Gergin tanışmanın ardından Laura, Cherry'nin bir şeyler sakladığına emindir. Cherry manipülatif bir statü avcısı mıdır, yoksa Laura mı paranoyaktır? Gerçeği belirleyen, bakış açısıdır.",
+        "poster": "https://image.tmdb.org/t/p/w500/6HcK3WZLZ1as6nVHLe4EQLf6zTb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
+        "year": "2025",
+        "rating": 7.1,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Prime Video"
+        ],
+        "cast": [
+            {
+                "name": "Robin Wright",
+                "role": "Laura Sanderson",
+                "image": "https://image.tmdb.org/t/p/w200/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+            },
+            {
+                "name": "Olivia Cooke",
+                "role": "Cherry Laine",
+                "image": "https://image.tmdb.org/t/p/w200/7LYm4jGDq8IxAe4D6TTPkWwU0Ft.jpg"
+            },
+            {
+                "name": "Laurie Davidson",
+                "role": "Daniel Sanderson",
+                "image": "https://image.tmdb.org/t/p/w200/zLqCFqnOHKQOUmpnYRaGA2nt9Xn.jpg"
+            },
+            {
+                "name": "Waleed Zuaiter",
+                "role": "Howard Sanderson",
+                "image": "https://image.tmdb.org/t/p/w200/tQwaOBIEKnFxTjfTFKrMdSkdSUz.jpg"
+            },
+            {
+                "name": "Karen Henthorn",
+                "role": "Tracey Laine",
+                "image": "https://image.tmdb.org/t/p/w200/bkpZ1bHOHpRnLEF0r9QwjUBwY5b.jpg"
+            },
+            {
+                "name": "Tanya Moodie",
+                "role": "Isabella Russell-Bailey",
+                "image": "https://image.tmdb.org/t/p/w200/2q8dUtZuZZzb6pgD4ptKvRu5Dew.jpg"
+            },
+            {
+                "name": "Shalom Brune-Franklin",
+                "role": "Brigitte Russell-Bailey",
+                "image": "https://image.tmdb.org/t/p/w200/i1obmLM04mtp2yUrYG16sQ5VRgw.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Kusursuz Laura Sanderson'ın biricik oğlu Daniel'ın hayatında yeni biri vardır. Kızı etkilemek isteyen Laura güzeller güzeli Cherry'yle tanışır ancak onun yalanlarını yakalayıp araştırmaya başlaması uzun sürmez. Cherry, Londra'nın seçkin çevrelerinde çalışırken mütevazı geçmişini gizlemektedir. Sevgilisinin annesi Laura'nın gönlünü kazanmak için elinden geleni yapsa da o uğraştıkça işler kötüleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/h1cLBoTSlIamxHC8QGYT66DpLbb.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Sanderson'ların tatiline dâhil olan Cherry'nin, Daniel ve Laura arasındaki güçlü bağdan gözü korkar. Cherry, Daniel'la yalnız kalmaya çalışırken Laura onun gizlediği sırlardan kuşkulanmaya başlar. Gerilim tırmanırken bir yat kazası iki kadını bir araya getirir. Tam araları düzelirken Laura görmemesi gereken bir şeye tanık olarak Cherry'yi tehdit eder ve karşısında geri adım atmayan birini bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ojNKV9yarLh4Xcltyt3nsZYCF46.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Laura, Cherry'nin geçmişine dair daha fazla bilgi edinmeye çalışırken iki kadının Daniel'ın ilgisi için verdiği mücadele devam eder. Daniel annesinin davranışlarını sorguladığında aralarında sert bir tartışma yaşanır ve Daniel doğum gününü Cherry'yle geçirmeye karar verir. Evde yalnız kalan Laura teselliyi eski sevgilisinde arar ancak gelen bir telefon hem onun hem Cherry'nin hayatını altüst eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/df9tkYPZ9m31DHelk24Zw3UMcpm.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Laura, Cherry'yle ilgili şüphelerinde haklı olduğunu kanıtlayan bir şey bulunca ailesini apar topar İspanya'ya götürür. Cherry'nin aniden ortadan kayboluşunu ise türlü yalanlarla açıklamaya çalışır. Bu sırada Londra'daki hayatı darmadağın olan Cherry annesinin yanına taşınmak zorunda kalır. Sanderson'ların onu yok saymasına içerleyerek kaybettiği her şeyi geri kazanmak için harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r7KEeSXBSgiYIbZNEWeCqnAfmxF.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Sarsıcı bir sırrın açığa çıkması Laura ve Daniel'ın ilişkisini paramparça ederken Cherry, Daniel'ı geri kazanmanın Laura'yla uğraşmasına değip değmeyeceğini düşünür. Fakat artık kimsenin oyuncağı olmaya niyeti yoktur, üstelik Daniel'la aşkları daha da derinleşmiştir. Laura'nın oğlunu geri kazanma arzusu ve Cherry'ye olan saplantısı kontrolden çıkarken ikilinin arasındaki nefret doruğa ulaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zucFgneZHCsbIIAUkL1nAkz9hrY.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Cherry ve Daniel kusursuz bir çift gibi görünse de ilişkilerinde çatırdamalar başlamıştır. Cherry yeni hayatına sıkı sıkıya tutunurken Laura ilişkinin büyük bir hızla ilerlediğini fark eder. Cherry'nin ailesini ziyaret ettiğinde artık onun ipini çekecek kanıtı elde etmiştir. Her şey Laura'nın lehine ilerliyorken işler tersine döner ve Daniel'ın tam ortasında kaldığı sert bir yüzleşme patlak verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zKPJuB7qX0Df2l2SaB8z81yEvs3.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:42:40"
+    },
+    {
+        "id": 271267,
+        "imdb_id": "tt31987295",
+        "name": "The Chair Company",
+        "original_name": "The Chair Company",
+        "overview": "İş yerinde rezil olan bir adam (Tim Robinson) geniş kapsamlı bir komployu araştırmaya başlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/2VktdoGvR0Pv6qj9P7vDsTIfw1l.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/jq9biQdGSL0GIUyDaLLl7x8rgzm.jpg",
+        "year": "2025",
+        "rating": 7.1,
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "Spectrum On Demand",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Tim Robinson",
+                "role": "William Ronald 'Ron' Trosper",
+                "image": "https://image.tmdb.org/t/p/w200/tS0CF1hO6sUd6GGdBnz5lkHpeaG.jpg"
+            },
+            {
+                "name": "Lake Bell",
+                "role": "Barb Trosper",
+                "image": "https://image.tmdb.org/t/p/w200/sITVdq39jtR1l3VohWYDyxorx1v.jpg"
+            },
+            {
+                "name": "Sophia Lillis",
+                "role": "Natalie Trosper",
+                "image": "https://image.tmdb.org/t/p/w200/5aAw3KFixZSsMfo0BWrxtBLVsXN.jpg"
+            },
+            {
+                "name": "Will Price",
+                "role": "Seth Trosper",
+                "image": "https://image.tmdb.org/t/p/w200/2pch3OS2G4zkpCaASDmWGCXnKR1.jpg"
+            },
+            {
+                "name": "Joseph Tudisco",
+                "role": "Mike Santini",
+                "image": "https://image.tmdb.org/t/p/w200/9o32VGUWMF4ZFbzcGlKFNRcf3JZ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "İş yerinde rezil olan Ron Trosper sorunu çözmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xWBpfowamVApO5JAljuYXraQPjE.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Ron, düğün hazırlıkları için Natalie'ye yardım eder ve sorunu çözmeye çalışmaya devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hA5D1q9V0087Y7WJRgUC8HlUCcu.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Rahatsız edici bir rastlaşmanın ardından Ron evine yeni güvenlik sistemi kurar ve araştırmasını genişletir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wKVfPCQqDYheOMUkqPjOlyErkvS.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Yeni bir hipotez gelitiren Ron kendini bir dizi tuhaf karşılaşmanın merkezinde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zRFURzHW0N6dA6lqDcZ65z2O7kQ.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Yeni bir yol araştıran Ron, tehlikeli bir yola sokulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qfsrAN000zC8mrEEJATQmuOwVfr.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Zi384sX5kHjIFfXk0xrupFBPib.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/8fed0cf0gz87Y5pPMfP2CznZy7Y.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bT1E0NAcjaoaD5t8ESWcOOPtX3Q.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt31987295/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:31:43"
+    },
+    {
+        "id": 250307,
+        "imdb_id": "tt31938062",
+        "name": "The Pitt",
+        "original_name": "The Pitt",
+        "overview": "Pittsburgh Pennsylvania'daki bir hastanede çalışan sağlık profesyonellerinin, kritik hastaları tedavi etmenin duygusal yüküyle boğuşurken günlük ve hastanedeki yaşamları.",
+        "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
+        "year": "2025",
+        "rating": 8.7,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "HBO Max",
+            "YouTube TV",
+            "Max"
+        ],
+        "cast": [
+            {
+                "name": "Noah Wyle",
+                "role": "Dr. Michael 'Robby' Robinavitch",
+                "image": "https://image.tmdb.org/t/p/w200/nwyLCQepwg8FX7OXJ4AT4ej8c7i.jpg"
+            },
+            {
+                "name": "Patrick Ball",
+                "role": "Dr. Frank Langdon",
+                "image": "https://image.tmdb.org/t/p/w200/c9JfuBcZahNi9mqfZZCjaAqcmGl.jpg"
+            },
+            {
+                "name": "Katherine LaNasa",
+                "role": "Charge Nurse Dana Evans",
+                "image": "https://image.tmdb.org/t/p/w200/7X3f4MG24XLG2fNPJt5H38d8YCV.jpg"
+            },
+            {
+                "name": "Supriya Ganesh",
+                "role": "Dr. Samira Mohan",
+                "image": "https://image.tmdb.org/t/p/w200/psUdosBoBVMfnSpCpe4UTAsegTP.jpg"
+            },
+            {
+                "name": "Fiona Dourif",
+                "role": "Dr. Cassie McKay",
+                "image": "https://image.tmdb.org/t/p/w200/gKn9lBZLuNHACQhZJUkSIZzUQN5.jpg"
+            },
+            {
+                "name": "Taylor Dearden",
+                "role": "Dr. Melissa King",
+                "image": "https://image.tmdb.org/t/p/w200/4oIL97ha0B4Gmp5tf4VUsqsWQUa.jpg"
+            },
+            {
+                "name": "Isa Briones",
+                "role": "Dr. Trinity Santos",
+                "image": "https://image.tmdb.org/t/p/w200/hxjYdiIJltYUSQwudCJwikIovYq.jpg"
+            },
+            {
+                "name": "Gerran Howell",
+                "role": "Student Doctor Dennis Whitaker",
+                "image": "https://image.tmdb.org/t/p/w200/ssyzz4yiGtbHOghoSYZIqQBEh4d.jpg"
+            },
+            {
+                "name": "Shabana Azeez",
+                "role": "Student Doctor Victoria Javadi",
+                "image": "https://image.tmdb.org/t/p/w200/vu51rFTgSdB8cdCsjLx1iAtTQZG.jpg"
+            },
+            {
+                "name": "Sepideh Moafi",
+                "role": "Dr. Baran Al-Hashimi",
+                "image": "https://image.tmdb.org/t/p/w200/7Z9BvGgwdLqlRJJft38cepGY1TZ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "7:00 A.M.",
+                "overview": "Akıl hocasının ölüm yıl dönümünden uzaklaşmaya çalışan Dr. Robby, bir yandan yeni stajyer grubunu acil servisteki hayatla tanıştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ayWb4xVUahzP7xDlILfyoZTzB6B.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "8:00 A.M.",
+                "overview": "Robby, kardeşlerine, yaşlı babalarının yaşam sonu bakımında rehberlik eder. Daha sonrasında Samira, yanlış anlaşılan bir rahatsızlığı olan bir kadını hedef alan polisleri savuşturur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6ArDi8ixkE3SZRBfn0PkLBRqdkO.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "9:00 A.M.",
+                "overview": "Samira, Whitaker'ı doğru yolda tutmak için elinden geleni yapar. Bir gencin aşırı doz alması acil serviste çatışmaya yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oBACF8XZBn0yO8HcNoUEHXUIFIt.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "10:00 A.M.",
+                "overview": "Çalınan bir ambulansın nerede olduğuna dair bahis oynanırken Santos zor bir ders alır. Whitaker, \"Kraken\"in evcilleştirilmesine yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pF2vCpszIqVnBzeXOHCzrRHQhyO.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "11:00 A.M.",
+                "overview": "Santos ve Collins, ahlaki ikilemlerle uğraşır. Samira'nın dikkatli yaklaşımı hastalardan övgü, Robby'den ise sitem alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yTZeG8q10PgHsaD65zhgMFIrDtc.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "12:00 P.M.",
+                "overview": "Robby hastaneden gelen bir ültimatomla ilgilenirken Mel, Javadi ve Collins, benzersiz anne-kız dinamikleriyle ilgilenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eQkpHLRtGAgVl1c0rVWBC8r2lgo.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "1:00 P.M.",
+                "overview": "Tuhaf semptomları olan bir fenomeni muayene eden Samira, Robby ile çatışır. Santos, saldırıyla suçlanan bir hastayla tartışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nof5sLfwbTHnzt7PsgXtYc8qots.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "2:00 P.M.",
+                "overview": "Robby, Pittsburgh'un geçmişiyle bağlantılı yaşlı bir hastayla ilgilenir. Ekip, boğulmakta olan genç bir kurbanı hayata döndürmek için çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9VR1E1q3IN7zoNmzZKvqAzxcpv6.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "3:00 P.M.",
+                "overview": "Robby'den gelen personel brifinginin ardından Dana, bekleme odasındaki kavgayı etkisiz hale getirir. Whitaker, \"Kraken\" ile ortak bir nokta bulur ve McKay çok önemli bir hatayla karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hgoLaQ9c4uJ1QY8X9cOBeiWKhPg.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "4:00 P.M.",
+                "overview": "Pitt'in bir çalışanının azalmasıyla Robby, boşluğun doldurulması için ekibine güvenir. Daha sonra Santos nihayet şüphelerini dile getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xH8XPQbB6MZabyvEj6yK6jiVQxT.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "5:00 P.M.",
+                "overview": "Robby, gelişen personel durumunu gizli tutmaya çalışırken Collins, bir vekil anneye zorlu bir doğumda rehberlik eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sjJBIya3Hn7o9Goatd3TxiOLQiq.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "6:00 P.M.",
+                "overview": "Düzinelerce kritik hasta acil servise akın edince Robby ve ekibi, malzemelerin hızla azalmasına ayak uydurmakta zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o4RHUNjjVTai7XbJqnF8aZ6QvRB.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "7:00 P.M.",
+                "overview": "Gece vardiyası başlarken, Robby toplu bir zayiat kurbanından vazgeçmeyi reddeder. Samira ve Santos, riskli hareketler dener.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xJF2Mqqj50G1uke9f5bOVAJDmer.jpg",
+                "vote_average": 9.2,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e13"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "name": "8:00 P.M.",
+                "overview": "Robby bir kayıpla mücadele ederken, Abbott Samira'ya riskli bir prosedürde koçluk yapar ve Mel gizemli bir döküntüsü olan bir genci tedavi eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rtqwpIO26nLKR2QHKJqzs5l2PVz.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e14"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "name": "9:00 P.M.",
+                "overview": "Robby, bir babayı oğluna tedavi izni vermeye ikna etmek için alışılmadık yöntemlere başvurur. Daha sonra, Whitaker kayıp bir hastayı bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bmkXebhqV00lfS5DiXtBHnqbQKm.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31938062/s1/e15"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/vHxY3PCwAbdaZNcMuVz2TR8ba7I.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31938062/s2/e01"
+            }
+        ],
+        "update_date": "2026-02-15 11:30:22"
+    },
+    {
         "id": 247732,
         "imdb_id": "tt31512256",
         "name": "NCIS: Tony & Ziva",

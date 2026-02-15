@@ -1,5 +1,119 @@
 [
     {
+        "id": 253376,
+        "imdb_id": "tt32267726",
+        "name": "Kız Arkadaş",
+        "original_name": "The Girlfriend",
+        "overview": "Laura; parlak kariyeri, sevgi dolu eşi, değerli oğlu Daniel'la her şeye sahiptir. Ancak Daniel, her şeyi değiştiren kız arkadaşı Cherry'yi eve getirince Laura'nın hayatı altüst olur. Gergin tanışmanın ardından Laura, Cherry'nin bir şeyler sakladığına emindir. Cherry manipülatif bir statü avcısı mıdır, yoksa Laura mı paranoyaktır? Gerçeği belirleyen, bakış açısıdır.",
+        "poster": "https://image.tmdb.org/t/p/w500/6HcK3WZLZ1as6nVHLe4EQLf6zTb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
+        "year": "2025",
+        "rating": 7.1,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Prime Video"
+        ],
+        "cast": [
+            {
+                "name": "Robin Wright",
+                "role": "Laura Sanderson",
+                "image": "https://image.tmdb.org/t/p/w200/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+            },
+            {
+                "name": "Olivia Cooke",
+                "role": "Cherry Laine",
+                "image": "https://image.tmdb.org/t/p/w200/7LYm4jGDq8IxAe4D6TTPkWwU0Ft.jpg"
+            },
+            {
+                "name": "Laurie Davidson",
+                "role": "Daniel Sanderson",
+                "image": "https://image.tmdb.org/t/p/w200/zLqCFqnOHKQOUmpnYRaGA2nt9Xn.jpg"
+            },
+            {
+                "name": "Waleed Zuaiter",
+                "role": "Howard Sanderson",
+                "image": "https://image.tmdb.org/t/p/w200/tQwaOBIEKnFxTjfTFKrMdSkdSUz.jpg"
+            },
+            {
+                "name": "Karen Henthorn",
+                "role": "Tracey Laine",
+                "image": "https://image.tmdb.org/t/p/w200/bkpZ1bHOHpRnLEF0r9QwjUBwY5b.jpg"
+            },
+            {
+                "name": "Tanya Moodie",
+                "role": "Isabella Russell-Bailey",
+                "image": "https://image.tmdb.org/t/p/w200/2q8dUtZuZZzb6pgD4ptKvRu5Dew.jpg"
+            },
+            {
+                "name": "Shalom Brune-Franklin",
+                "role": "Brigitte Russell-Bailey",
+                "image": "https://image.tmdb.org/t/p/w200/i1obmLM04mtp2yUrYG16sQ5VRgw.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Kusursuz Laura Sanderson'ın biricik oğlu Daniel'ın hayatında yeni biri vardır. Kızı etkilemek isteyen Laura güzeller güzeli Cherry'yle tanışır ancak onun yalanlarını yakalayıp araştırmaya başlaması uzun sürmez. Cherry, Londra'nın seçkin çevrelerinde çalışırken mütevazı geçmişini gizlemektedir. Sevgilisinin annesi Laura'nın gönlünü kazanmak için elinden geleni yapsa da o uğraştıkça işler kötüleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/h1cLBoTSlIamxHC8QGYT66DpLbb.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Sanderson'ların tatiline dâhil olan Cherry'nin, Daniel ve Laura arasındaki güçlü bağdan gözü korkar. Cherry, Daniel'la yalnız kalmaya çalışırken Laura onun gizlediği sırlardan kuşkulanmaya başlar. Gerilim tırmanırken bir yat kazası iki kadını bir araya getirir. Tam araları düzelirken Laura görmemesi gereken bir şeye tanık olarak Cherry'yi tehdit eder ve karşısında geri adım atmayan birini bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ojNKV9yarLh4Xcltyt3nsZYCF46.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Laura, Cherry'nin geçmişine dair daha fazla bilgi edinmeye çalışırken iki kadının Daniel'ın ilgisi için verdiği mücadele devam eder. Daniel annesinin davranışlarını sorguladığında aralarında sert bir tartışma yaşanır ve Daniel doğum gününü Cherry'yle geçirmeye karar verir. Evde yalnız kalan Laura teselliyi eski sevgilisinde arar ancak gelen bir telefon hem onun hem Cherry'nin hayatını altüst eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/df9tkYPZ9m31DHelk24Zw3UMcpm.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Laura, Cherry'yle ilgili şüphelerinde haklı olduğunu kanıtlayan bir şey bulunca ailesini apar topar İspanya'ya götürür. Cherry'nin aniden ortadan kayboluşunu ise türlü yalanlarla açıklamaya çalışır. Bu sırada Londra'daki hayatı darmadağın olan Cherry annesinin yanına taşınmak zorunda kalır. Sanderson'ların onu yok saymasına içerleyerek kaybettiği her şeyi geri kazanmak için harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r7KEeSXBSgiYIbZNEWeCqnAfmxF.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Sarsıcı bir sırrın açığa çıkması Laura ve Daniel'ın ilişkisini paramparça ederken Cherry, Daniel'ı geri kazanmanın Laura'yla uğraşmasına değip değmeyeceğini düşünür. Fakat artık kimsenin oyuncağı olmaya niyeti yoktur, üstelik Daniel'la aşkları daha da derinleşmiştir. Laura'nın oğlunu geri kazanma arzusu ve Cherry'ye olan saplantısı kontrolden çıkarken ikilinin arasındaki nefret doruğa ulaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zucFgneZHCsbIIAUkL1nAkz9hrY.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Cherry ve Daniel kusursuz bir çift gibi görünse de ilişkilerinde çatırdamalar başlamıştır. Cherry yeni hayatına sıkı sıkıya tutunurken Laura ilişkinin büyük bir hızla ilerlediğini fark eder. Cherry'nin ailesini ziyaret ettiğinde artık onun ipini çekecek kanıtı elde etmiştir. Her şey Laura'nın lehine ilerliyorken işler tersine döner ve Daniel'ın tam ortasında kaldığı sert bir yüzleşme patlak verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zKPJuB7qX0Df2l2SaB8z81yEvs3.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt32267726/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:42:40"
+    },
+    {
         "id": 245827,
         "imdb_id": "tt31186865",
         "name": "Harlan Coben'den Lazarus",

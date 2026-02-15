@@ -1,5 +1,256 @@
 [
     {
+        "id": 253760,
+        "imdb_id": "tt32306451",
+        "name": "LEGO Star Wars: Rebuild the Galaxy",
+        "original_name": "LEGO Star Wars: Rebuild the Galaxy",
+        "overview": "Sıradan bir nerf çobanı olan Sig Greebling'in, gizli bir Jedi tapınağındaki güçlü bir objeyi bulmasıyla tüm Star Wars Galaksisi karışır. Sig kendisini, galaksinin yeni, muhteşem düzeyde çılgın ve çarpık bir versiyonunda geçen bir maceranın içinde bulur. Burada iyiler kötü, kötüler iyidir ve herkesin kaderi, Sig'in bir kahraman olup tüm parçaları bir araya getirmesine bağlıdır.",
+        "poster": "https://image.tmdb.org/t/p/w500/2X2gEEAOFfGlRSmv5QvFU8h5xrV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/d9rVKhKKBDNykNFQZHZFl6yhenU.jpg",
+        "year": "2024",
+        "rating": 7.0,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Komedi",
+            "Aksiyon & Macera",
+            "Animasyon",
+            "Aile"
+        ],
+        "categories": [
+            "Tümü",
+            "Animasyon",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Gaten Matarazzo",
+                "role": "Sig Greebling (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/alVT7oDp8N5G9WLIApI9jqeuqHq.jpg"
+            },
+            {
+                "name": "Tony Revolori",
+                "role": "Dev Greebling (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+            },
+            {
+                "name": "Marsai Martin",
+                "role": "Yesi Scala (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
+            },
+            {
+                "name": "Bobby Moynihan",
+                "role": "Jedi Bob (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Birinci Bölüm",
+                "overview": "Galaksinin Köşe Taşı'nı yanlışlıkla yerinden çıkaran iki kardeşin hayatı değişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fM1SaDlXrxylMg196w9YiXiGw4Z.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "İkinci Bölüm",
+                "overview": "Kaçan Sig, Jedi Bob'la tanışır ve ondan Köşe Taşı'nın sırlarını öğrenmek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pZatyGRkZLeWI6yvoOS0zs2muxZ.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Üçüncü Bölüm",
+                "overview": "Galakside işleri yoluna koymak için çabalayan Sig, yeni ve beklenmedik müttefikler edinir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9K9YDkGTXD14vbOKPwOU8Qytq5N.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Dördüncü Bölüm",
+                "overview": "Galaksinin kaderi tehlikedeyken Sig ve arkadaşları Darth Devastator'la son bir kez savaşıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/CkUqixEzSMGjhrVgTxzLZeJvG8.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 11:44:04"
+    },
+    {
+        "id": 252551,
+        "imdb_id": "tt32158122",
+        "name": "Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak",
+        "original_name": "The Stanford Prison Experiment: Unlocking the Truth",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/h9b0FeHRrtQnGsmhzrOBRqL5wam.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/he52SueYc5WQA0Aenl83LpTLmKx.jpg",
+        "year": "2024",
+        "rating": 7.0,
+        "genres": [
+            "Belgesel"
+        ],
+        "categories": [
+            "Tümü",
+            "Spectrum On Demand",
+            "fuboTV",
+            "National Geographic",
+            "Disney+",
+            "YouTube TV"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/nBVJMKWRujgsDL7wwNJolgIXvny.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32158122/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/l5WupyYyfNatHnPAvawbh3Y8mK1.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32158122/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3sY81Vd6JSGZNinmZhV8ZhteUAD.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt32158122/s1/e03"
+            }
+        ],
+        "update_date": "2026-02-15 11:38:10"
+    },
+    {
+        "id": 237052,
+        "imdb_id": "tt31844356",
+        "name": "Les Disparues de la gare",
+        "original_name": "Les Disparues de la gare",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/rluDNclq0gQaQjbDuTDvsnYSXxs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/kXBr9CWrutta2PxUkbYlI9EXrC8.jpg",
+        "year": "2025",
+        "rating": 7.6,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Hugo Becker",
+                "role": "Franck Vidal",
+                "image": "https://image.tmdb.org/t/p/w200/o7XNhf8m08RvYrjTJ46H0cRVW8K.jpg"
+            },
+            {
+                "name": "Patrick Timsit",
+                "role": "Félix Sabuesco",
+                "image": "https://image.tmdb.org/t/p/w200/lS22SWFT4jo4mgfC0HsbgMstPf2.jpg"
+            },
+            {
+                "name": "Mélanie Doutey",
+                "role": "Marie-Josée Andujar",
+                "image": "https://image.tmdb.org/t/p/w200/xgLVvAhEOIY9Wsrcwpiw7mykmDB.jpg"
+            },
+            {
+                "name": "Kévin Azaïs",
+                "role": "Arnaud Cholet",
+                "image": "https://image.tmdb.org/t/p/w200/pGNCpHE36I4hIxZKJnKWQN2qQ0y.jpg"
+            },
+            {
+                "name": "Camille Razat",
+                "role": "Flore Robin",
+                "image": "https://image.tmdb.org/t/p/w200/KHg73Wl3kiqQCh4O02yXuxwxrE.jpg"
+            },
+            {
+                "name": "Yannick Choirat",
+                "role": "Commissaire Piétri",
+                "image": "https://image.tmdb.org/t/p/w200/e731ITPWEOjD1xY4TH6VvO8qY7v.jpg"
+            },
+            {
+                "name": "Lola Burbail",
+                "role": "Tatiana Andujar",
+                "image": "https://image.tmdb.org/t/p/w200/5gM4ywege3W6mQzacyCuyuPNgE2.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dGB2MZDf5iM87pEnEbrJFOvL4wv.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/IXAcyHgosVn6JgNBDrow0Y1bAe.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fktQgoc9CUEEhuxmSyHzhlJEk3S.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/alJyi4Jc7Xy4pFHef7FxecTAD31.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/nIwabfhKAWW3bOD8ebrMYrd4Mvw.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/tt51pZzPiX98KV8c5YdLAKiDcYf.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:27:18"
+    },
+    {
         "id": 248416,
         "imdb_id": "tt31613279",
         "name": "The Twisted Tale of Amanda Knox",

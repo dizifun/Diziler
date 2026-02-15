@@ -1,5 +1,251 @@
 [
     {
+        "id": 252193,
+        "imdb_id": "tt32237534",
+        "name": "Last Samurai Standing",
+        "original_name": "イクサガミ",
+        "overview": "Erken Meiji döneminde, bir zamanlar yenilmez samuray olarak tanınan Shujiro, ailesini ve köylüleri kurtarmak için ölümcül bir hayatta kalma oyununa katılmaya karar verir.",
+        "poster": "https://image.tmdb.org/t/p/w500/nDYns9hmLerhKEQc8hUZM44inpV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
+        "year": "2025",
+        "rating": 7.8,
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "岡田准一",
+                "role": "Shujiro Saga",
+                "image": "https://image.tmdb.org/t/p/w200/pk5rltXChl9A3HjS6iQLGt1DWJY.jpg"
+            },
+            {
+                "name": "藤﨑ゆみあ",
+                "role": "Futaba Katsuki",
+                "image": "https://image.tmdb.org/t/p/w200/2xTBm6VCTdFaJXlqWxHy6rod6p1.jpg"
+            },
+            {
+                "name": "清原果耶",
+                "role": "Iroha Kinugasa",
+                "image": "https://image.tmdb.org/t/p/w200/a0tDsusfKXPSbVGO9zBSSAoCcAP.jpg"
+            },
+            {
+                "name": "東出昌大",
+                "role": "Kyojin Tsuge",
+                "image": "https://image.tmdb.org/t/p/w200/6YOBIQ22Y7ZCkuk50QRotvUAl7v.jpg"
+            },
+            {
+                "name": "染谷将太",
+                "role": "Kocha Kamuy",
+                "image": "https://image.tmdb.org/t/p/w200/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+            },
+            {
+                "name": "早乙女太一",
+                "role": "Shikura Adashino",
+                "image": "https://image.tmdb.org/t/p/w200/a2IBFtbh1ChL2wFF5cChe8nsLG3.jpg"
+            },
+            {
+                "name": "遠藤雄弥",
+                "role": "Sansuke Gion",
+                "image": "https://image.tmdb.org/t/p/w200/wkM6ZBelFelI4iHu4kH3CCC1y2m.jpg"
+            },
+            {
+                "name": "淵上泰史",
+                "role": "Sakura",
+                "image": "https://image.tmdb.org/t/p/w200/lJAfRD8goXuENlqKPDjIfAwdxAV.jpg"
+            },
+            {
+                "name": "城桧吏",
+                "role": "Shinjiro Sayama",
+                "image": "https://image.tmdb.org/t/p/w200/asekPbtKNWY4hptwL027Xi9xZY1.jpg"
+            },
+            {
+                "name": "Wataru Ichinose",
+                "role": "Raizo Tachibana",
+                "image": "https://image.tmdb.org/t/p/w200/42jf08JObm44xjpg6F1G1DHtOhk.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Kodoku",
+                "overview": "Modern Meiji döneminde bir samuray olarak, hastalanan aile üyelerini geçindiremeyen Shujiro, büyük bir para ödülü vadeden tehlikeli bir turnuvaya katılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fyygGWhUry2C3wabEjrk6sllB78.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt32237534/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Uyanış",
+                "overview": "Eski bir ninja olan Kyojin, Shujiro ve Futaba ile iş birliği yapmayı önerir. Bu sırada yüksek rütbeli bir hükümet yetkilisi, bir samuray ayaklanması olabileceğinden çekinir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/A1t8kPEbFKLUEUGIwIZcfrhPsEs.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt32237534/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Kader",
+                "overview": "Organizatörler ilk kontrol noktasına hangi yarışmacının varacağı konusunda bahse tutuşur. Shujiro geçmişini Futaba'ya anlatır, daha sonra ayrı düştüğü kız kardeşine kavuşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aIzg1kQ5lKUZ690aJ1DK4hxaL0j.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt32237534/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Organizatör",
+                "overview": "Grup, Kodoku'nun organizatörünün kim olduğunu bulmak için cesetlerin nasıl elden çıkarıldığını takip eder. Shujiro orada Satsuma'dan eski yoldaşı Sakura ile karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yW9LYldWpJp4nWjK1tptWnL87hd.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt32237534/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Hayaletler",
+                "overview": "Kodoku'nun gerçek amacı ortaya çıkınca Shujiro, Okubo'yu, kurulan komplo ile ilgili uyarmak için bir telgraf çeker ve Futaba'nın güvenliğini sağlamaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wDxg4d4uoaJaSXDrfLUZ3qvIoj0.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt32237534/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Ölümüne Savaş",
+                "overview": "Zalim Gentosai sonunda Iroha'yı köşeye sıkıştırır. Shujiro amansız final mücadelesinde Bukotsu ile karşılaşır. Bu sırada Okubo, bu oyunu planlayıp yürüten kişiye iyice yaklaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jrKrgTc2NfdzR76Kb3uqp9N2l2q.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt32237534/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:41:51"
+    },
+    {
+        "id": 250504,
+        "imdb_id": "tt31974367",
+        "name": "The Beast in Me",
+        "original_name": "The Beast in Me",
+        "overview": "Ünlü bir yazar; zengin, nüfuzlu ve katil olma ihtimali olan yeni komşusuyla birlikte sapkın bir akıl oyununun içine çekilir.",
+        "poster": "https://image.tmdb.org/t/p/w500/jxf7JCfIMvGONWTNUIJ068sFixK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
+        "year": "2025",
+        "rating": 7.1,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Claire Danes",
+                "role": "Agatha 'Aggie' Wiggs",
+                "image": "https://image.tmdb.org/t/p/w200/vTKKniIwbXWMmnuMmGKHYS41Vif.jpg"
+            },
+            {
+                "name": "Matthew Rhys",
+                "role": "Nile Jarvis",
+                "image": "https://image.tmdb.org/t/p/w200/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
+            },
+            {
+                "name": "Brittany Snow",
+                "role": "Nina Jarvis",
+                "image": "https://image.tmdb.org/t/p/w200/uSQW2E7caOaXHBbvL2jdzGbwDwH.jpg"
+            },
+            {
+                "name": "Natalie Morales",
+                "role": "Shelley Morris",
+                "image": "https://image.tmdb.org/t/p/w200/4azsKjgJ18l0EiJBwtuHklnKH1t.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Ters Ruh",
+                "overview": "Kendi kabuğuna çekilmiş yazar Aggie Wiggs'in hayatı, hakkında ilk eşini öldürdüğüne ilişkin şüpheler bulunan zengin ve küstah yeni komşusunun gelişiyle altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sDZnAzc00xKvv462IcpMeEMrF1P.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt31974367/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Yalnız Kalmak İstemiyorum",
+                "overview": "Aldığı haberin şokunu üzerinden atamayan Aggie, Brian ile şüphelerini paylaşır ve Nile'a ilgi çekici bir teklifte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r2aDfbL26zVfyKeXboefokDnr4F.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt31974367/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Konuşulmayan",
+                "overview": "Nile'ın geçmişini iyice didikleyen Aggie, Brian'ı elde ettiği bilgileri kullanması için zorlar. Nina, Shelley'nin eserlerine ilgi gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lyWiaPrYU1H8kMOgzPKNMtWxyEk.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt31974367/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Ölüm Dürtüsü",
+                "overview": "Aggie, Madison'ın ailesiyle kızlarının ortadan kaybolması hakkında görüşür. Nile ve Martin, belediye meclisini hedef alır. Brian sabit diskteki verilere ulaşmak için yardım alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2Bq7c5r4oOfWZqpkXPpgMs1BOZR.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt31974367/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Âlem",
+                "overview": "Nile ve Aggie, içki eşliğindeki samimi bir sohbette özel konulara girince bu durum Nina'da şüphe uyandırır. Martin ve Rick, Olivia'nın mitinginde olay çıkarmak için komplo kurar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9uKIxNpYgNNxXUA6Z7MaNoyvRgP.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt31974367/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Canavar ve Ben",
+                "overview": "Son öğrendiği bilgiyi Brian ile paylaşmak için sabırsızlanan Aggie, beklenmedik şekilde daha da karanlık bir gerçeği açığa çıkarır. Nina şaşırtıcı bir haber alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gXUJP32jobzKDjvPMP6gh8ReFcP.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt31974367/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Hayaletler",
+                "overview": "2019'da Jarvis çifti ile Nina ve Brian arasında şüphe ve ihanetle örülü karmaşık bir ağ oluşur ve Madison'ın ortadan kaybolmasının ardındaki gerçek gözler önüne serilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rpuz5WxE8qSnrCNlhAbl0phgOOE.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt31974367/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Son Söz",
+                "overview": "Köşeye sıkışan Aggie, dünyasının altüst olmasını önlemek için tüm aklını kullanmalıdır. Üstelik beklenmedik bir müttefike güvenmekten başka çaresi yoktur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vUYVc5gqvIEJpjUlMEXKHIvFqXj.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt31974367/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:31:18"
+    },
+    {
         "id": 271128,
         "imdb_id": "tt31828197",
         "name": "Yeni Güç",

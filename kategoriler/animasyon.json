@@ -1,5 +1,89 @@
 [
     {
+        "id": 253760,
+        "imdb_id": "tt32306451",
+        "name": "LEGO Star Wars: Rebuild the Galaxy",
+        "original_name": "LEGO Star Wars: Rebuild the Galaxy",
+        "overview": "Sıradan bir nerf çobanı olan Sig Greebling'in, gizli bir Jedi tapınağındaki güçlü bir objeyi bulmasıyla tüm Star Wars Galaksisi karışır. Sig kendisini, galaksinin yeni, muhteşem düzeyde çılgın ve çarpık bir versiyonunda geçen bir maceranın içinde bulur. Burada iyiler kötü, kötüler iyidir ve herkesin kaderi, Sig'in bir kahraman olup tüm parçaları bir araya getirmesine bağlıdır.",
+        "poster": "https://image.tmdb.org/t/p/w500/2X2gEEAOFfGlRSmv5QvFU8h5xrV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/d9rVKhKKBDNykNFQZHZFl6yhenU.jpg",
+        "year": "2024",
+        "rating": 7.0,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Komedi",
+            "Aksiyon & Macera",
+            "Animasyon",
+            "Aile"
+        ],
+        "categories": [
+            "Tümü",
+            "Animasyon",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Gaten Matarazzo",
+                "role": "Sig Greebling (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/alVT7oDp8N5G9WLIApI9jqeuqHq.jpg"
+            },
+            {
+                "name": "Tony Revolori",
+                "role": "Dev Greebling (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+            },
+            {
+                "name": "Marsai Martin",
+                "role": "Yesi Scala (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/hYErUiiesrm9jmiY1JTbwlxcN7l.jpg"
+            },
+            {
+                "name": "Bobby Moynihan",
+                "role": "Jedi Bob (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Birinci Bölüm",
+                "overview": "Galaksinin Köşe Taşı'nı yanlışlıkla yerinden çıkaran iki kardeşin hayatı değişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fM1SaDlXrxylMg196w9YiXiGw4Z.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "İkinci Bölüm",
+                "overview": "Kaçan Sig, Jedi Bob'la tanışır ve ondan Köşe Taşı'nın sırlarını öğrenmek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pZatyGRkZLeWI6yvoOS0zs2muxZ.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Üçüncü Bölüm",
+                "overview": "Galakside işleri yoluna koymak için çabalayan Sig, yeni ve beklenmedik müttefikler edinir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9K9YDkGTXD14vbOKPwOU8Qytq5N.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Dördüncü Bölüm",
+                "overview": "Galaksinin kaderi tehlikedeyken Sig ve arkadaşları Darth Devastator'la son bir kez savaşıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/CkUqixEzSMGjhrVgTxzLZeJvG8.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt32306451/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 11:44:04"
+    },
+    {
         "id": 219080,
         "imdb_id": "tt26453092",
         "name": "The Mighty Nein",

@@ -2,24 +2,128 @@
     "id": 252193,
     "imdb_id": "tt32237534",
     "name": "Last Samurai Standing",
+    "original_name": "イクサガミ",
+    "overview": "Erken Meiji döneminde, bir zamanlar yenilmez samuray olarak tanınan Shujiro, ailesini ve köylüleri kurtarmak için ölümcül bir hayatta kalma oyununa katılmaya karar verir.",
     "poster": "https://image.tmdb.org/t/p/w500/nDYns9hmLerhKEQc8hUZM44inpV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
     "year": "2025",
+    "rating": 7.8,
     "genres": [
         "Aksiyon & Macera",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "岡田准一",
-        "藤﨑ゆみあ",
-        "清原果耶",
-        "東出昌大",
-        "染谷将太"
+        {
+            "name": "岡田准一",
+            "role": "Shujiro Saga",
+            "image": "https://image.tmdb.org/t/p/w200/pk5rltXChl9A3HjS6iQLGt1DWJY.jpg"
+        },
+        {
+            "name": "藤﨑ゆみあ",
+            "role": "Futaba Katsuki",
+            "image": "https://image.tmdb.org/t/p/w200/2xTBm6VCTdFaJXlqWxHy6rod6p1.jpg"
+        },
+        {
+            "name": "清原果耶",
+            "role": "Iroha Kinugasa",
+            "image": "https://image.tmdb.org/t/p/w200/a0tDsusfKXPSbVGO9zBSSAoCcAP.jpg"
+        },
+        {
+            "name": "東出昌大",
+            "role": "Kyojin Tsuge",
+            "image": "https://image.tmdb.org/t/p/w200/6YOBIQ22Y7ZCkuk50QRotvUAl7v.jpg"
+        },
+        {
+            "name": "染谷将太",
+            "role": "Kocha Kamuy",
+            "image": "https://image.tmdb.org/t/p/w200/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+        },
+        {
+            "name": "早乙女太一",
+            "role": "Shikura Adashino",
+            "image": "https://image.tmdb.org/t/p/w200/a2IBFtbh1ChL2wFF5cChe8nsLG3.jpg"
+        },
+        {
+            "name": "遠藤雄弥",
+            "role": "Sansuke Gion",
+            "image": "https://image.tmdb.org/t/p/w200/wkM6ZBelFelI4iHu4kH3CCC1y2m.jpg"
+        },
+        {
+            "name": "淵上泰史",
+            "role": "Sakura",
+            "image": "https://image.tmdb.org/t/p/w200/lJAfRD8goXuENlqKPDjIfAwdxAV.jpg"
+        },
+        {
+            "name": "城桧吏",
+            "role": "Shinjiro Sayama",
+            "image": "https://image.tmdb.org/t/p/w200/asekPbtKNWY4hptwL027Xi9xZY1.jpg"
+        },
+        {
+            "name": "Wataru Ichinose",
+            "role": "Raizo Tachibana",
+            "image": "https://image.tmdb.org/t/p/w200/42jf08JObm44xjpg6F1G1DHtOhk.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Kodoku",
+            "overview": "Modern Meiji döneminde bir samuray olarak, hastalanan aile üyelerini geçindiremeyen Shujiro, büyük bir para ödülü vadeden tehlikeli bir turnuvaya katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fyygGWhUry2C3wabEjrk6sllB78.jpg",
+            "vote_average": 8.8,
             "link": "https://vidmody.com/vs/tt32237534/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Uyanış",
+            "overview": "Eski bir ninja olan Kyojin, Shujiro ve Futaba ile iş birliği yapmayı önerir. Bu sırada yüksek rütbeli bir hükümet yetkilisi, bir samuray ayaklanması olabileceğinden çekinir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A1t8kPEbFKLUEUGIwIZcfrhPsEs.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt32237534/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kader",
+            "overview": "Organizatörler ilk kontrol noktasına hangi yarışmacının varacağı konusunda bahse tutuşur. Shujiro geçmişini Futaba'ya anlatır, daha sonra ayrı düştüğü kız kardeşine kavuşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aIzg1kQ5lKUZ690aJ1DK4hxaL0j.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt32237534/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Organizatör",
+            "overview": "Grup, Kodoku'nun organizatörünün kim olduğunu bulmak için cesetlerin nasıl elden çıkarıldığını takip eder. Shujiro orada Satsuma'dan eski yoldaşı Sakura ile karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yW9LYldWpJp4nWjK1tptWnL87hd.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt32237534/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Hayaletler",
+            "overview": "Kodoku'nun gerçek amacı ortaya çıkınca Shujiro, Okubo'yu, kurulan komplo ile ilgili uyarmak için bir telgraf çeker ve Futaba'nın güvenliğini sağlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wDxg4d4uoaJaSXDrfLUZ3qvIoj0.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt32237534/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Ölümüne Savaş",
+            "overview": "Zalim Gentosai sonunda Iroha'yı köşeye sıkıştırır. Shujiro amansız final mücadelesinde Bukotsu ile karşılaşır. Bu sırada Okubo, bu oyunu planlayıp yürüten kişiye iyice yaklaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jrKrgTc2NfdzR76Kb3uqp9N2l2q.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt32237534/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:41:51"
 }

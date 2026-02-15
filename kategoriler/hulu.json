@@ -1,5 +1,119 @@
 [
     {
+        "id": 237052,
+        "imdb_id": "tt31844356",
+        "name": "Les Disparues de la gare",
+        "original_name": "Les Disparues de la gare",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/rluDNclq0gQaQjbDuTDvsnYSXxs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/kXBr9CWrutta2PxUkbYlI9EXrC8.jpg",
+        "year": "2025",
+        "rating": 7.6,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Hugo Becker",
+                "role": "Franck Vidal",
+                "image": "https://image.tmdb.org/t/p/w200/o7XNhf8m08RvYrjTJ46H0cRVW8K.jpg"
+            },
+            {
+                "name": "Patrick Timsit",
+                "role": "Félix Sabuesco",
+                "image": "https://image.tmdb.org/t/p/w200/lS22SWFT4jo4mgfC0HsbgMstPf2.jpg"
+            },
+            {
+                "name": "Mélanie Doutey",
+                "role": "Marie-Josée Andujar",
+                "image": "https://image.tmdb.org/t/p/w200/xgLVvAhEOIY9Wsrcwpiw7mykmDB.jpg"
+            },
+            {
+                "name": "Kévin Azaïs",
+                "role": "Arnaud Cholet",
+                "image": "https://image.tmdb.org/t/p/w200/pGNCpHE36I4hIxZKJnKWQN2qQ0y.jpg"
+            },
+            {
+                "name": "Camille Razat",
+                "role": "Flore Robin",
+                "image": "https://image.tmdb.org/t/p/w200/KHg73Wl3kiqQCh4O02yXuxwxrE.jpg"
+            },
+            {
+                "name": "Yannick Choirat",
+                "role": "Commissaire Piétri",
+                "image": "https://image.tmdb.org/t/p/w200/e731ITPWEOjD1xY4TH6VvO8qY7v.jpg"
+            },
+            {
+                "name": "Lola Burbail",
+                "role": "Tatiana Andujar",
+                "image": "https://image.tmdb.org/t/p/w200/5gM4ywege3W6mQzacyCuyuPNgE2.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dGB2MZDf5iM87pEnEbrJFOvL4wv.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/IXAcyHgosVn6JgNBDrow0Y1bAe.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fktQgoc9CUEEhuxmSyHzhlJEk3S.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/alJyi4Jc7Xy4pFHef7FxecTAD31.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/nIwabfhKAWW3bOD8ebrMYrd4Mvw.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/tt51pZzPiX98KV8c5YdLAKiDcYf.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31844356/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:27:18"
+    },
+    {
         "id": 248416,
         "imdb_id": "tt31613279",
         "name": "The Twisted Tale of Amanda Knox",
