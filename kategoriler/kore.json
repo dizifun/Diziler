@@ -1,5 +1,296 @@
 [
     {
+        "id": 246473,
+        "imdb_id": "tt33298903",
+        "name": "Made in Korea",
+        "original_name": "메이드 인 코리아",
+        "overview": "1970'lerde geçen hikayede, Baek Gi Tae zenginlik ve güce susamış hırslı bir adamdır. Jang Gun Yeong ise vahşi içgüdüleri ve korkutucu azmiyle tanınan bir savcıdır. Büyük bir olayla karşı karşıya kalan Jang Gun Yeong, Baek Gi Tae'yi durdurmak için her şeyini ortaya koyar. Çevrelerindeki kişiler arasında lobici Choi Yu Ji, müfettiş O Ye Jin, Bae Geum Ji ve baş sekreter Cheon Seok Jeong yer almaktadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/w0phy4NdYpwAVIP3zsY0u4t66Pw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/42RCEkRkfvafglUsXD6kN1S9nwP.jpg",
+        "year": "2025",
+        "rating": 8.0,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "현빈",
+                "role": "Baek Ki-tae",
+                "image": "https://image.tmdb.org/t/p/w200/JQFzhO9j8HRiyr7leGPj6cqhvM.jpg"
+            },
+            {
+                "name": "정우성",
+                "role": "Jang Geon-young",
+                "image": "https://image.tmdb.org/t/p/w200/tI0ANQSwcOBfQUeHgfcwn7VmHRO.jpg"
+            },
+            {
+                "name": "우도환",
+                "role": "Baek Ki-hyeon",
+                "image": "https://image.tmdb.org/t/p/w200/lxnRVi1WxA0Ylx5V2kciv7SZ4Yw.jpg"
+            },
+            {
+                "name": "조여정",
+                "role": "Bae Geum-ji",
+                "image": "https://image.tmdb.org/t/p/w200/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg"
+            },
+            {
+                "name": "서은수",
+                "role": "Oh Ye-jin",
+                "image": "https://image.tmdb.org/t/p/w200/gtCHxppgfgwHtYsnlKONN7Ayy0z.jpg"
+            },
+            {
+                "name": "원지안",
+                "role": "Choi Yu-ji / Yuji Ikeda",
+                "image": "https://image.tmdb.org/t/p/w200/cMPm0hAhsRyTnPrI0X8oNqRDJt4.jpg"
+            },
+            {
+                "name": "정성일",
+                "role": "Cheon Seok-joong",
+                "image": "https://image.tmdb.org/t/p/w200/cP0vEFV5aL8D9mntwlFWP5pcTQo.jpg"
+            },
+            {
+                "name": "강길우",
+                "role": "Kang Dae-il",
+                "image": "https://image.tmdb.org/t/p/w200/uSQd4PdX8hGH8MBlLtf5g3eyojO.jpg"
+            },
+            {
+                "name": "노재원",
+                "role": "Pyo Hak-soo",
+                "image": "https://image.tmdb.org/t/p/w200/8M4PRXZGllg3yrwluJraP1bakLO.jpg"
+            },
+            {
+                "name": "박용우",
+                "role": "Hwang Guk-pyeong",
+                "image": "https://image.tmdb.org/t/p/w200/kT0n5LGzij0RNaYXBxg8hDpTR9Z.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/sc30mRWwxbujsoMvd3VsIzFy6NL.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt33298903/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/p9KzOFpGF7xNJt6mqHgorWPsOsV.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt33298903/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4gbl4a9pZCoMD1OrzjUFCEmm1gB.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt33298903/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jzkoB2levLSFkFMna1gbjAzG2cZ.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt33298903/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 12:10:51"
+    },
+    {
+        "id": 228689,
+        "imdb_id": "tt32409807",
+        "name": "Cin, Bir Dilek Tut",
+        "original_name": "다 이루어질지니",
+        "overview": "Sıra dışı bir cin bin yıl sonra, doğuştan hissiz bir kadının dileklerini yerine getirmek üzere geri döner. Cinin sihri, kadının dünyasına aşkı ve mucizeyi getirebilecek midir?",
+        "poster": "https://image.tmdb.org/t/p/w500/zq84x5kmwomvmmJ03hzl389UGeb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+        "year": "2025",
+        "rating": 7.6,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "김우빈",
+                "role": "Genie / Iblis",
+                "image": "https://image.tmdb.org/t/p/w200/AjMMxxWbTNdafyWuY41xAHFPVou.jpg"
+            },
+            {
+                "name": "수지",
+                "role": "Ki Ga-young",
+                "image": "https://image.tmdb.org/t/p/w200/67YkqSOk6LSAoM6WzSeXgerM7nD.jpg"
+            },
+            {
+                "name": "안은진",
+                "role": "Lee Mi-joo",
+                "image": "https://image.tmdb.org/t/p/w200/toT4KbM9gsPeWJNA7tiT25IUvIO.jpg"
+            },
+            {
+                "name": "노상현",
+                "role": "Ryu Su-hyeon / Ejlael",
+                "image": "https://image.tmdb.org/t/p/w200/wdevvu2YLIvAPVEkScjO9JGbioq.jpg"
+            },
+            {
+                "name": "고규필",
+                "role": "Sade / Sayyid",
+                "image": "https://image.tmdb.org/t/p/w200/uP18ldneBx5WcmHmvwoyGVSBArY.jpg"
+            },
+            {
+                "name": "이주영",
+                "role": "Choi Min-ji",
+                "image": "https://image.tmdb.org/t/p/w200/hDLNWV75lnH1zC8DYXnaFfIllvI.jpg"
+            },
+            {
+                "name": "김미경",
+                "role": "Oh Pan-geum",
+                "image": "https://image.tmdb.org/t/p/w200/bJLkarteB2O0duu5ABvM5QFRuax.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Ki Ka-young, kendisini çok küçük yaşta terk eden annesiyle Dubai'de yüzleşir. Bu yolculuk sırasında, İblis'i serbest bırakır ama dilek dilemekle de hiç ilgilenmez.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2Io92Buv2OxAFf2k2dpULp4jSOP.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Ka-young'un evine gelen İblis, yerli halktan onun geçmişini öğrenir ve bir yandan modern Kore toplumunda yolunu ararken bir yandan da Ka-young'a zorla dilek diletmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tswPoMyLCRLtVu8yOw1zCW66MUA.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "İblis, Ka-young'un insanları yoldan çıkarma dileğini gerçekleştirmeyi kabul eder ama Ka-young'u yine de çözemez. Bu esnada Ejllael, İblis'ten intikam alma planı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Co23iZef8gePWC0BUhVIwTdy8s.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "İlk öpücüğünü İblis'le paylaşan Ka-young, onu yine öpmek için bahane arar. Ejllael, Ka-young'u uzun zamandır tasarladığı planına dâhil etmekte zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wMEImZb8Zg7dcWaS7vGYcdOXzSP.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Ka-young ikinci dileğini diler. Bu kez dileği büyükannesi içindir. Bu esnada İblis, Ka-young'la girdiği iddiayı kazanmak için insanları yoldan çıkarmaya devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tNjZBA5uR8jDadE3JI3svzpbVWd.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "İblis, Ejllael'dan Ka-young'la olan kayıp yıllarını araştırmasını ister. Bu esnada Ka-young, geçmiş yaşamının anılarıyla ve kaderini belirleyecek bir dilekle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iA4no44KCZayup8HdnzHLbLbBOt.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Ka-young, geçmişini öğrenmesine rağmen İblis'le olan hikâyesinde bazı eksikler olduğundan şüphelenir. Ejllael ve İblis, gölgelerde pusuya yatmış bir gizli gücü fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ieCTrpJ3Pzem9yKXwfBdVYFOeIx.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "İblis ve Ka-young, geçmişlerinin bilinmeyen kısımlarını öğrenmek üzere Dubai'ye gider. Ardından Ka-young, onunla arasında beklenmedik bir bağ hissetmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/G9JOy4GSADGyfT3qqIsm1pF2lw.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Ejllael, İblis'i ortadan kaldırmak için Oh Pan-geum'u yem olarak kullanır. Khalid'in tehditleri güçlenirken İblis ile Ka-young, geçmiş bağlarıyla ilgili büyük bir ipucuna ulaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/584VZSA0ieMIg7uAnEuZUEmICvw.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Khalid'in yeni hamlesini bekleyen İblis ve Ka-young, muğlak geçmişlerine dalarlar. Bu esnada Pan-geum, kaderiyle yüzleşmeye hazırlanır ve etraftakilerin şüphelenmesine sebep olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8h86gCHbYONjsZnoD7VBeYBL3Sv.jpg",
+                "vote_average": 9.6,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Bin yıl önce, Ka-young'un genç hâli ölümden döner ve İblis'le yeniden bağlantı kurup âşık olur. Ta ki bir hırs, trajik bir şekilde onları ayırana dek.",
+                "still_path": "https://image.tmdb.org/t/p/w400/66DsbQRfEfwVZj5k8EjkHKaoXJR.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Khalid'in son hamlesi yaklaşırken Ka-young, İblis ve sevdikleri, büyük bir tehlikeyle karşı karşıyadır ama gizli planları, bin yıldır örülmekte olan bir kaderi mühürleyebilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kYGdL1x9NN6TMe5RfyTRVJnrNvk.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Hayatı altüst olan Ka-young, son dileğini gerçekleştirmesi için İblis'i arar. Ebedi mutluluğa erişebilecekler mi, yoksa zalim kaderin kurbanı mı olacaklar?",
+                "still_path": "https://image.tmdb.org/t/p/w400/1y1jTwaPjUUDpwIkD1iVt0UGnp3.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e13"
+            }
+        ],
+        "update_date": "2026-02-15 11:47:50"
+    },
+    {
         "id": 224414,
         "imdb_id": "tt31014107",
         "name": "You and Everything Else",

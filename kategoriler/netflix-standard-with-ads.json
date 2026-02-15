@@ -1,5 +1,572 @@
 [
     {
+        "id": 259731,
+        "imdb_id": "tt33035373",
+        "name": "Ne Yaptığını Biliyorum",
+        "original_name": "HIS & HERS",
+        "overview": "Ayrı yaşayan ve biri muhabir, diğeriyse dedektif olan bir karı koca, birbirlerini baş şüpheli olarak gördükleri bir cinayet davasını çözmek için yarışırlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/m2zNxqbhQvijp2F23WypUgm7kGv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
+        "year": "2026",
+        "rating": 7.2,
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Tessa Thompson",
+                "role": "Anna Andrews",
+                "image": "https://image.tmdb.org/t/p/w200/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg"
+            },
+            {
+                "name": "Jon Bernthal",
+                "role": "Detective Jack Harper",
+                "image": "https://image.tmdb.org/t/p/w200/pEDKAsy1zO9dgSeBjohqklOXRUQ.jpg"
+            },
+            {
+                "name": "Pablo Schreiber",
+                "role": "Richard",
+                "image": "https://image.tmdb.org/t/p/w200/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+            },
+            {
+                "name": "Crystal R. Fox",
+                "role": "Alice",
+                "image": "https://image.tmdb.org/t/p/w200/u5mv4EiIl5oS2s0yUaqtjbpWEz2.jpg"
+            },
+            {
+                "name": "Sunita Mani",
+                "role": "Priya",
+                "image": "https://image.tmdb.org/t/p/w200/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
+            },
+            {
+                "name": "Poppy Liu",
+                "role": "Helen",
+                "image": "https://image.tmdb.org/t/p/w200/i36QkUChZN7K8BQa1ReaZHes6L4.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Televizyon muhabiri Anna, bir cinayet vakasını haber yapmak için Georgia'daki memleketine döner ve ayrı yaşadığı kocası Jack'in vakayı inceleyen baş müfetttiş olduğunu görür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fJjdHdLMdx9hM20hQU5XAHMtpvY.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Jack ve Priya, önemli bir şüphelinin mazeretinde kusurlar bulmaya çalışırlar. Anna, eski bir sınıf arkadaşıyla gergin bir röportaj yapmak üzere eski okuluna gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dTYoHapJoPmAYYfA6vXEHuTcTEE.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Anna başspikerliğe dönme fırsatını hemen değerlendirir. Zoe, sakladığı şey konusunda Jack'le yüzleşir. Alice'in kötüye gidişi yüzünden bir takım tatsız konuşmalar yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sfxcPyZzPEpZLAI9tiN2P6te2qd.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Jack, hararetli geçen bir kasaba toplantısında halkı yatıştırmakta zorlanır. Priya’nın şüpheleri doruğa ulaşır. Anna, acı dolu anılarla boğuşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2fJzyBF7QFJFMVI9XT7fw2Tv9Vt.jpg",
+                "vote_average": 4.4,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Köşeye sıkışan Jack, giderek daha dengesiz davranmaya başlar. Anna bu kez kendini soruları cevaplayan tarafta bulur. Richard'ın geçmişi gün yüzüne çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a5Yw9mxR4ex2yjHLelS1jEQnYYt.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Soruşturmada sona yaklaşılınca Jack ve Anna, geçmişin günahlarıyla ve bugünün acımasız sonuçlarıyla yüzleşmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iw6hFVQ8ItYOGS4excmauXnyEI5.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 12:02:54"
+    },
+    {
+        "id": 298699,
+        "imdb_id": "tt33034757",
+        "name": "Bir Zamanlar Alfaydık",
+        "original_name": "Alphamännchen",
+        "overview": "Kırklı yaşlarındaki dört yakın arkadaş, günümüz erkekliğinin yeni dünyasıyla yüzleşmek için elinden geleni yapar. Ama bu içten çabaları, her şeyi daha da berbat eder.",
+        "poster": "https://image.tmdb.org/t/p/w500/lf0woktttsDOwSSmemQICH0yvLN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/l1fYY1YpDHL0GsC5pz0IP9E6ivC.jpg",
+        "year": "2025",
+        "rating": 6.1,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Tom Beck",
+                "role": "Ulf",
+                "image": "https://image.tmdb.org/t/p/w200/pndqeDdwxLCHOscrIPzbMOQcFw6.jpg"
+            },
+            {
+                "name": "Moritz Führmann",
+                "role": "Andi",
+                "image": "https://image.tmdb.org/t/p/w200/9gbkUpDWNzhKWT9VRWAYpFYJ23v.jpg"
+            },
+            {
+                "name": "Serkan Kaya",
+                "role": "Cem",
+                "image": "https://image.tmdb.org/t/p/w200/eh1jNuwjcZYFeUtNrSePr9ae0S2.jpg"
+            },
+            {
+                "name": "David Rott",
+                "role": "Erik",
+                "image": "https://image.tmdb.org/t/p/w200/qMTp2S7kxrd6UUW9sULdBFt70m4.jpg"
+            },
+            {
+                "name": "Mona Pirzad",
+                "role": "Elif",
+                "image": "https://image.tmdb.org/t/p/w200/2CCQEi414iefggE9141F6m6bTK6.jpg"
+            },
+            {
+                "name": "Franziska Machens",
+                "role": "Silke",
+                "image": ""
+            },
+            {
+                "name": "Valentina Leone",
+                "role": "Alina",
+                "image": "https://image.tmdb.org/t/p/w200/9PswxyXN2srfC2g8JIH2KvlSvO.jpg"
+            },
+            {
+                "name": "Marleen Lohse",
+                "role": "Kim",
+                "image": "https://image.tmdb.org/t/p/w200/qBlETsMdgZTSyWhy61AJ3ia4NTz.jpg"
+            },
+            {
+                "name": "Jaela Probst",
+                "role": "Vanessa",
+                "image": "https://image.tmdb.org/t/p/w200/jGwADIjAcRVXcejw5t70wlEBS57.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Başarısızlığımız Benden Olmayacak",
+                "overview": "Ulf terfi edemez. Andi evliliğine renk katmaya çalışır. Cem'in kızı, yanına taşınır. Erik nihayet yalnızca bir kadına sadık kalmaya kendini hazır hisseder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/k5K2B2CtqwBTX1rlAU2FGvMciZz.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Libidosu Bitki Kadar",
+                "overview": "Cem çıktığı randevuda bariz bir yalan söyler. Ulf işini geri almaya çalışır. Bir seks kulübünde yaşanan tuhaf bir karşılaşma, Erik'i hazırlıksız yakalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bbUF6zaXXf2a1vEyEzyYqG8rgTr.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Bir Tür İyi Hâl Kâğıdı Falan mı Yani?",
+                "overview": "Andi ve Silke, sorunlarını çözmek için ilaçlara başvurur. Cem'in yanına taşınan Erik, Kim'in gözüne yeniden girmek için bir plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2gVUZJE9cnyaQtaIGtao2yspCrN.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Teşhis ve Arrivederci",
+                "overview": "Ekip kayak yapmak için Münih'e gider. Burada Ulf, eski bir arkadaşının yaşadıklarından etkilenerek paranoyaklaşır. Bu arada Silke şeytana uyar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xZKXyArk6tMZP3ffvUykWBXPYQv.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "N'aber Kanka, Keyifler Gıcır mı?",
+                "overview": "Kafadarlar modern erkeklik hakkında bir seminere katılır. Elif, Ulf'ün gururunu incitmemek için elinden geleni yapar. Silke cinsel içerikli mesajlar atarken başını belaya sokar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cg65KnxIdhHxX5XkL2vlUTfPOGV.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Hemingway",
+                "overview": "Cem flört ettiği kişileri Ulf'den gizler. Andi üzücü bir şey öğrenir. Ulf bir etkinlikte Elif'i utandırır. Kim ve Erik bir yatak odası deneyimi yaşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yTAsm3YrHMHYGt9p0grmbVpuVkx.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Hayatta Her Şeye Sahip Olamazsın",
+                "overview": "Elif, viral videoları yüzünden Ulf'le tartışır. Cem'in eski bir aşkı yeniden alevlenir. Kim, Erik'e yeni iş teklifinden bahseder. Andi'nin öfkesi sonunda taşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jAf4Ahm8pOirEVfRchGpwW9kEIR.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Pokémon Bile Anlayabiliyor",
+                "overview": "Son zamanlarda yaptıkları tercihlerin sonuçlarıyla yüzleşen kafadarlardan bazıları yeni başlangıçlara yelken açarken diğerleri acı gerçeklerle karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ApcITPGzcB5eR113KiHmGRj4Btq.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 12:02:51"
+    },
+    {
+        "id": 228689,
+        "imdb_id": "tt32409807",
+        "name": "Cin, Bir Dilek Tut",
+        "original_name": "다 이루어질지니",
+        "overview": "Sıra dışı bir cin bin yıl sonra, doğuştan hissiz bir kadının dileklerini yerine getirmek üzere geri döner. Cinin sihri, kadının dünyasına aşkı ve mucizeyi getirebilecek midir?",
+        "poster": "https://image.tmdb.org/t/p/w500/zq84x5kmwomvmmJ03hzl389UGeb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+        "year": "2025",
+        "rating": 7.6,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "김우빈",
+                "role": "Genie / Iblis",
+                "image": "https://image.tmdb.org/t/p/w200/AjMMxxWbTNdafyWuY41xAHFPVou.jpg"
+            },
+            {
+                "name": "수지",
+                "role": "Ki Ga-young",
+                "image": "https://image.tmdb.org/t/p/w200/67YkqSOk6LSAoM6WzSeXgerM7nD.jpg"
+            },
+            {
+                "name": "안은진",
+                "role": "Lee Mi-joo",
+                "image": "https://image.tmdb.org/t/p/w200/toT4KbM9gsPeWJNA7tiT25IUvIO.jpg"
+            },
+            {
+                "name": "노상현",
+                "role": "Ryu Su-hyeon / Ejlael",
+                "image": "https://image.tmdb.org/t/p/w200/wdevvu2YLIvAPVEkScjO9JGbioq.jpg"
+            },
+            {
+                "name": "고규필",
+                "role": "Sade / Sayyid",
+                "image": "https://image.tmdb.org/t/p/w200/uP18ldneBx5WcmHmvwoyGVSBArY.jpg"
+            },
+            {
+                "name": "이주영",
+                "role": "Choi Min-ji",
+                "image": "https://image.tmdb.org/t/p/w200/hDLNWV75lnH1zC8DYXnaFfIllvI.jpg"
+            },
+            {
+                "name": "김미경",
+                "role": "Oh Pan-geum",
+                "image": "https://image.tmdb.org/t/p/w200/bJLkarteB2O0duu5ABvM5QFRuax.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Ki Ka-young, kendisini çok küçük yaşta terk eden annesiyle Dubai'de yüzleşir. Bu yolculuk sırasında, İblis'i serbest bırakır ama dilek dilemekle de hiç ilgilenmez.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2Io92Buv2OxAFf2k2dpULp4jSOP.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Ka-young'un evine gelen İblis, yerli halktan onun geçmişini öğrenir ve bir yandan modern Kore toplumunda yolunu ararken bir yandan da Ka-young'a zorla dilek diletmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tswPoMyLCRLtVu8yOw1zCW66MUA.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "İblis, Ka-young'un insanları yoldan çıkarma dileğini gerçekleştirmeyi kabul eder ama Ka-young'u yine de çözemez. Bu esnada Ejllael, İblis'ten intikam alma planı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Co23iZef8gePWC0BUhVIwTdy8s.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "İlk öpücüğünü İblis'le paylaşan Ka-young, onu yine öpmek için bahane arar. Ejllael, Ka-young'u uzun zamandır tasarladığı planına dâhil etmekte zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wMEImZb8Zg7dcWaS7vGYcdOXzSP.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Ka-young ikinci dileğini diler. Bu kez dileği büyükannesi içindir. Bu esnada İblis, Ka-young'la girdiği iddiayı kazanmak için insanları yoldan çıkarmaya devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tNjZBA5uR8jDadE3JI3svzpbVWd.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "İblis, Ejllael'dan Ka-young'la olan kayıp yıllarını araştırmasını ister. Bu esnada Ka-young, geçmiş yaşamının anılarıyla ve kaderini belirleyecek bir dilekle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iA4no44KCZayup8HdnzHLbLbBOt.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Ka-young, geçmişini öğrenmesine rağmen İblis'le olan hikâyesinde bazı eksikler olduğundan şüphelenir. Ejllael ve İblis, gölgelerde pusuya yatmış bir gizli gücü fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ieCTrpJ3Pzem9yKXwfBdVYFOeIx.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "İblis ve Ka-young, geçmişlerinin bilinmeyen kısımlarını öğrenmek üzere Dubai'ye gider. Ardından Ka-young, onunla arasında beklenmedik bir bağ hissetmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/G9JOy4GSADGyfT3qqIsm1pF2lw.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Ejllael, İblis'i ortadan kaldırmak için Oh Pan-geum'u yem olarak kullanır. Khalid'in tehditleri güçlenirken İblis ile Ka-young, geçmiş bağlarıyla ilgili büyük bir ipucuna ulaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/584VZSA0ieMIg7uAnEuZUEmICvw.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Khalid'in yeni hamlesini bekleyen İblis ve Ka-young, muğlak geçmişlerine dalarlar. Bu esnada Pan-geum, kaderiyle yüzleşmeye hazırlanır ve etraftakilerin şüphelenmesine sebep olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8h86gCHbYONjsZnoD7VBeYBL3Sv.jpg",
+                "vote_average": 9.6,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Bin yıl önce, Ka-young'un genç hâli ölümden döner ve İblis'le yeniden bağlantı kurup âşık olur. Ta ki bir hırs, trajik bir şekilde onları ayırana dek.",
+                "still_path": "https://image.tmdb.org/t/p/w400/66DsbQRfEfwVZj5k8EjkHKaoXJR.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Khalid'in son hamlesi yaklaşırken Ka-young, İblis ve sevdikleri, büyük bir tehlikeyle karşı karşıyadır ama gizli planları, bin yıldır örülmekte olan bir kaderi mühürleyebilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kYGdL1x9NN6TMe5RfyTRVJnrNvk.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Hayatı altüst olan Ka-young, son dileğini gerçekleştirmesi için İblis'i arar. Ebedi mutluluğa erişebilecekler mi, yoksa zalim kaderin kurbanı mı olacaklar?",
+                "still_path": "https://image.tmdb.org/t/p/w400/1y1jTwaPjUUDpwIkD1iVt0UGnp3.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt32409807/s1/e13"
+            }
+        ],
+        "update_date": "2026-02-15 11:47:50"
+    },
+    {
+        "id": 249551,
+        "imdb_id": "tt32400599",
+        "name": "Néro",
+        "original_name": "Néro",
+        "overview": "Fransa, 1504. Acımasız bir suikastçı, uzun zamandır görmediği kızını tehlikeli düşmanlardan ve şeytani güçlerden korumak için kızıyla birlikte kaçmaya başlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/twNHmxeFkDEdGzYMeGTp9stoGUC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/lMdOqInVxIvEapJjxAvOoHc7tl5.jpg",
+        "year": "2025",
+        "rating": 6.7,
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Pio Marmaï",
+                "role": "Nero",
+                "image": "https://image.tmdb.org/t/p/w200/kLsPUbNFFIRSWvtwpPA6ftbgwxF.jpg"
+            },
+            {
+                "name": "Alice Isaaz",
+                "role": "Hortense",
+                "image": "https://image.tmdb.org/t/p/w200/yULL4NbQW3ymzB2lHcI7SVlb7dS.jpg"
+            },
+            {
+                "name": "Olivier Gourmet",
+                "role": "Horace",
+                "image": "https://image.tmdb.org/t/p/w200/6FQNMThslrNxHimAN2BBCtTYeUM.jpg"
+            },
+            {
+                "name": "Louis-Do de Lencquesaing",
+                "role": "Nicolas de Rochemort",
+                "image": "https://image.tmdb.org/t/p/w200/rnELz71XUPNUyJZXuyWXIHADM1U.jpg"
+            },
+            {
+                "name": "Lili-Rose Carlier Taboury",
+                "role": "Perla (Nero's Daughter)",
+                "image": ""
+            },
+            {
+                "name": "Camille Razat",
+                "role": "La Borgne",
+                "image": "https://image.tmdb.org/t/p/w200/KHg73Wl3kiqQCh4O02yXuxwxrE.jpg"
+            },
+            {
+                "name": "Yann Gael",
+                "role": "Lothar",
+                "image": "https://image.tmdb.org/t/p/w200/605oiV6iBp2aOa2SdqaoASVvmtz.jpg"
+            },
+            {
+                "name": "Max Baissette de Malglaive",
+                "role": "Le Prince",
+                "image": "https://image.tmdb.org/t/p/w200/cuxy5sybezANRJWLaZ3CU3Y4vNB.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Suikastçı",
+                "overview": "Acımasız efendisinin ihaneti sonucu gizemli bir cadıyla karşı karşıya kalan suikastçı Néro, doğumunda terk ettiği kayıp kızı Perla ile yeniden bir araya gelmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3uUP0ot0JgJyFpaNBT5Lawi9YWf.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt32400599/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Cadı",
+                "overview": "Kafile Ségur'e doğru yola çıkarken Rochemort'un katilleri amansız takiplerini sürdürür. Düşmanlarla karşı karşıya kalan Néro, dışarıdan acımasız görünen bir tercihte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pnGPuShuE6jLhEszI7cx7MKAWlp.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt32400599/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Prenses",
+                "overview": "Grup, tövbekârların gazabıyla karşı karşıya kalır. Rochemort, prensin gözündeki itibarını yükseltmeye çalışır. Néro yolda endişe verici belirtiler göstermeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7475hKlaKZNQSGKbeQ7oS92W6Bz.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt32400599/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Engizisyoncu",
+                "overview": "Havreval'e varan grup, kendilerini ağırlayan kişilere dair rahatsız edici sorularla boğuşur. Beklenmedik şekilde tekrar ortaya çıkan birisi, Rochemort'u kanlı bir eyleme zorlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/z4MFymmN1IFhKSPq4irFFccNLtk.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt32400599/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kötü Karakter",
+                "overview": "Néro eski bir dostuyla ve geçmişiyle hesaplaşır. Rochemort ciddi suçlamalarla karşı karşıya kalır. Ancak tövbekârların yaklaşımı, güç dengelerinde değişikliklere yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rCXEzhwcKmp8NjuCil3vhXpw11z.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt32400599/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Keşiş",
+                "overview": "Yanına yeni bir hizmetçi alan Hortense'in acımasız yönü ortaya çıkar. Néro, Horace'ın ve acilen suya ihtiyaç duyan, mecalsiz kalmış Azel'in peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9SV7JBqQnUP3YRwFAYojnmOBqCb.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt32400599/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Başpiskopos",
+                "overview": "Cadının taşını ele geçiren Horace, hisara girer. Perla, prense bir itirafta bulunur. Néro ise tüm uyarılara karşın ölüler diyarında gezinir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qYxxki4NIwqQeOKTXcjKy90GOdR.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt32400599/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kız",
+                "overview": "Grup varoşların labirente benzeyen sokaklarında saklanırken Perla, kehanetteki rolü üzerine düşünür. Néro ise onu korumak için son çare olabilecek bir plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qTvD5NblOGyobVNF5HwksEED7H0.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt32400599/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:47:37"
+    },
+    {
         "id": 252193,
         "imdb_id": "tt32237534",
         "name": "Last Samurai Standing",

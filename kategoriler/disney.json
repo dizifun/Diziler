@@ -1,5 +1,117 @@
 [
     {
+        "id": 246473,
+        "imdb_id": "tt33298903",
+        "name": "Made in Korea",
+        "original_name": "메이드 인 코리아",
+        "overview": "1970'lerde geçen hikayede, Baek Gi Tae zenginlik ve güce susamış hırslı bir adamdır. Jang Gun Yeong ise vahşi içgüdüleri ve korkutucu azmiyle tanınan bir savcıdır. Büyük bir olayla karşı karşıya kalan Jang Gun Yeong, Baek Gi Tae'yi durdurmak için her şeyini ortaya koyar. Çevrelerindeki kişiler arasında lobici Choi Yu Ji, müfettiş O Ye Jin, Bae Geum Ji ve baş sekreter Cheon Seok Jeong yer almaktadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/w0phy4NdYpwAVIP3zsY0u4t66Pw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/42RCEkRkfvafglUsXD6kN1S9nwP.jpg",
+        "year": "2025",
+        "rating": 8.0,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "현빈",
+                "role": "Baek Ki-tae",
+                "image": "https://image.tmdb.org/t/p/w200/JQFzhO9j8HRiyr7leGPj6cqhvM.jpg"
+            },
+            {
+                "name": "정우성",
+                "role": "Jang Geon-young",
+                "image": "https://image.tmdb.org/t/p/w200/tI0ANQSwcOBfQUeHgfcwn7VmHRO.jpg"
+            },
+            {
+                "name": "우도환",
+                "role": "Baek Ki-hyeon",
+                "image": "https://image.tmdb.org/t/p/w200/lxnRVi1WxA0Ylx5V2kciv7SZ4Yw.jpg"
+            },
+            {
+                "name": "조여정",
+                "role": "Bae Geum-ji",
+                "image": "https://image.tmdb.org/t/p/w200/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg"
+            },
+            {
+                "name": "서은수",
+                "role": "Oh Ye-jin",
+                "image": "https://image.tmdb.org/t/p/w200/gtCHxppgfgwHtYsnlKONN7Ayy0z.jpg"
+            },
+            {
+                "name": "원지안",
+                "role": "Choi Yu-ji / Yuji Ikeda",
+                "image": "https://image.tmdb.org/t/p/w200/cMPm0hAhsRyTnPrI0X8oNqRDJt4.jpg"
+            },
+            {
+                "name": "정성일",
+                "role": "Cheon Seok-joong",
+                "image": "https://image.tmdb.org/t/p/w200/cP0vEFV5aL8D9mntwlFWP5pcTQo.jpg"
+            },
+            {
+                "name": "강길우",
+                "role": "Kang Dae-il",
+                "image": "https://image.tmdb.org/t/p/w200/uSQd4PdX8hGH8MBlLtf5g3eyojO.jpg"
+            },
+            {
+                "name": "노재원",
+                "role": "Pyo Hak-soo",
+                "image": "https://image.tmdb.org/t/p/w200/8M4PRXZGllg3yrwluJraP1bakLO.jpg"
+            },
+            {
+                "name": "박용우",
+                "role": "Hwang Guk-pyeong",
+                "image": "https://image.tmdb.org/t/p/w200/kT0n5LGzij0RNaYXBxg8hDpTR9Z.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/sc30mRWwxbujsoMvd3VsIzFy6NL.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt33298903/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/p9KzOFpGF7xNJt6mqHgorWPsOsV.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt33298903/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4gbl4a9pZCoMD1OrzjUFCEmm1gB.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt33298903/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jzkoB2levLSFkFMna1gbjAzG2cZ.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt33298903/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 12:10:51"
+    },
+    {
         "id": 253760,
         "imdb_id": "tt32306451",
         "name": "LEGO Star Wars: Rebuild the Galaxy",

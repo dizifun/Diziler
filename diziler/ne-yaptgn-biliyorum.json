@@ -2,25 +2,109 @@
     "id": 259731,
     "imdb_id": "tt33035373",
     "name": "Ne Yaptığını Biliyorum",
+    "original_name": "HIS & HERS",
+    "overview": "Ayrı yaşayan ve biri muhabir, diğeriyse dedektif olan bir karı koca, birbirlerini baş şüpheli olarak gördükleri bir cinayet davasını çözmek için yarışırlar.",
     "poster": "https://image.tmdb.org/t/p/w500/m2zNxqbhQvijp2F23WypUgm7kGv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
     "year": "2026",
+    "rating": 7.2,
     "genres": [
         "Dram",
         "Suç",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Tessa Thompson",
-        "Jon Bernthal",
-        "Pablo Schreiber",
-        "Crystal R. Fox",
-        "Sunita Mani"
+        {
+            "name": "Tessa Thompson",
+            "role": "Anna Andrews",
+            "image": "https://image.tmdb.org/t/p/w200/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg"
+        },
+        {
+            "name": "Jon Bernthal",
+            "role": "Detective Jack Harper",
+            "image": "https://image.tmdb.org/t/p/w200/pEDKAsy1zO9dgSeBjohqklOXRUQ.jpg"
+        },
+        {
+            "name": "Pablo Schreiber",
+            "role": "Richard",
+            "image": "https://image.tmdb.org/t/p/w200/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+        },
+        {
+            "name": "Crystal R. Fox",
+            "role": "Alice",
+            "image": "https://image.tmdb.org/t/p/w200/u5mv4EiIl5oS2s0yUaqtjbpWEz2.jpg"
+        },
+        {
+            "name": "Sunita Mani",
+            "role": "Priya",
+            "image": "https://image.tmdb.org/t/p/w200/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
+        },
+        {
+            "name": "Poppy Liu",
+            "role": "Helen",
+            "image": "https://image.tmdb.org/t/p/w200/i36QkUChZN7K8BQa1ReaZHes6L4.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Televizyon muhabiri Anna, bir cinayet vakasını haber yapmak için Georgia'daki memleketine döner ve ayrı yaşadığı kocası Jack'in vakayı inceleyen baş müfetttiş olduğunu görür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fJjdHdLMdx9hM20hQU5XAHMtpvY.jpg",
+            "vote_average": 5.7,
             "link": "https://vidmody.com/vs/tt33035373/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Jack ve Priya, önemli bir şüphelinin mazeretinde kusurlar bulmaya çalışırlar. Anna, eski bir sınıf arkadaşıyla gergin bir röportaj yapmak üzere eski okuluna gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dTYoHapJoPmAYYfA6vXEHuTcTEE.jpg",
+            "vote_average": 4.5,
+            "link": "https://vidmody.com/vs/tt33035373/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Anna başspikerliğe dönme fırsatını hemen değerlendirir. Zoe, sakladığı şey konusunda Jack'le yüzleşir. Alice'in kötüye gidişi yüzünden bir takım tatsız konuşmalar yapılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sfxcPyZzPEpZLAI9tiN2P6te2qd.jpg",
+            "vote_average": 4.5,
+            "link": "https://vidmody.com/vs/tt33035373/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Jack, hararetli geçen bir kasaba toplantısında halkı yatıştırmakta zorlanır. Priya’nın şüpheleri doruğa ulaşır. Anna, acı dolu anılarla boğuşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2fJzyBF7QFJFMVI9XT7fw2Tv9Vt.jpg",
+            "vote_average": 4.4,
+            "link": "https://vidmody.com/vs/tt33035373/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Köşeye sıkışan Jack, giderek daha dengesiz davranmaya başlar. Anna bu kez kendini soruları cevaplayan tarafta bulur. Richard'ın geçmişi gün yüzüne çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a5Yw9mxR4ex2yjHLelS1jEQnYYt.jpg",
+            "vote_average": 4.8,
+            "link": "https://vidmody.com/vs/tt33035373/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Soruşturmada sona yaklaşılınca Jack ve Anna, geçmişin günahlarıyla ve bugünün acımasız sonuçlarıyla yüzleşmek zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iw6hFVQ8ItYOGS4excmauXnyEI5.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt33035373/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 12:02:54"
 }

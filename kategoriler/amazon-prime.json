@@ -1,5 +1,456 @@
 [
     {
+        "id": 289567,
+        "imdb_id": "tt33078075",
+        "name": "DMV",
+        "original_name": "DMV",
+        "overview": "Motorlu Taşıtlar Dairesi'nde asgari ücretle çalışan personeller, zor şartlar altında herkesi memnun etmeye çalışırken teselliyi birbirlerinde bulacaktır.",
+        "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/4QXGZXHZlHhGJpoGLe8rBOPmX1D.jpg",
+        "year": "2025",
+        "rating": 6.4,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "CBS",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "YouTube TV",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Harriet Dyer",
+                "role": "Colette",
+                "image": "https://image.tmdb.org/t/p/w200/7IPlBqrPRicjvUSix7a2uk0Mf88.jpg"
+            },
+            {
+                "name": "Tim Meadows",
+                "role": "Gregg",
+                "image": "https://image.tmdb.org/t/p/w200/u9MCgfy0n5jJ2GTsGALdist19C1.jpg"
+            },
+            {
+                "name": "Molly Kearney",
+                "role": "Barbara",
+                "image": "https://image.tmdb.org/t/p/w200/hdwwds3jRzwqIl5wFsnhwskuHPA.jpg"
+            },
+            {
+                "name": "Alex Tarrant",
+                "role": "Noa",
+                "image": "https://image.tmdb.org/t/p/w200/wfQwh9D4qOqFsaj9X0Lrk7GG6kI.jpg"
+            },
+            {
+                "name": "Tony Cavalero",
+                "role": "Vic",
+                "image": "https://image.tmdb.org/t/p/w200/58LiE55zwTrNeywV2nFHjVfslAF.jpg"
+            },
+            {
+                "name": "Gigi Zumbado",
+                "role": "Ceci",
+                "image": "https://image.tmdb.org/t/p/w200/ytuLWDoI558qsKNiA54qt0aACvh.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dZItTGsbMAt41UvWwRX846ZANt.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt33078075/s1/e01"
+            }
+        ],
+        "update_date": "2026-02-15 12:04:49"
+    },
+    {
+        "id": 259909,
+        "imdb_id": "tt33043892",
+        "name": "Dexter: Resurrection",
+        "original_name": "Dexter: Resurrection",
+        "overview": "Dexter Morgan komadan uyandığında oğlu Harrison'ın iz bırakmadan kaybolduğunu görür. Oğluna yaşattıklarının ağırlığını anlayan Dexter, onu bulmaya ve her şeyi düzeltmeye kararlı bir şekilde New York'a gider. Ancak bunu sağlamak hiç de kolay olmayacaktır. Miami Metro'dan Angel Batista sorularıyla çıkageldiğinde Dexter, geçmişinin hızla peşine düştüğünü fark eder. Baba ve oğul, hiç uyumayan bu şehirde kendi karanlıklarında yol alırken kendilerini hiç beklemedikleri kadar derin bir çıkmazın içinde bulurlar ve bu durumdan kurtulmanın tek yolu birlikte hareket etmektir.",
+        "poster": "https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8J0SjKToFBbg8dKpocVOCsrC77C.jpg",
+        "year": "2025",
+        "rating": 8.5,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "Paramount+ with Showtime",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Michael C. Hall",
+                "role": "Dexter Morgan",
+                "image": "https://image.tmdb.org/t/p/w200/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+            },
+            {
+                "name": "Jack Alcott",
+                "role": "Harrison Morgan",
+                "image": "https://image.tmdb.org/t/p/w200/65KEuv3LIBEaeIkqhyps6heZ9aa.jpg"
+            },
+            {
+                "name": "Uma Thurman",
+                "role": "Charley",
+                "image": "https://image.tmdb.org/t/p/w200/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
+            },
+            {
+                "name": "David Zayas",
+                "role": "Angel Batista",
+                "image": "https://image.tmdb.org/t/p/w200/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
+            },
+            {
+                "name": "James Remar",
+                "role": "Harry Morgan",
+                "image": "https://image.tmdb.org/t/p/w200/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+            },
+            {
+                "name": "Peter Dinklage",
+                "role": "Leon Prater",
+                "image": "https://image.tmdb.org/t/p/w200/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+            },
+            {
+                "name": "Ntare Guma Mbaho Mwine",
+                "role": "Blessing Kamara",
+                "image": "https://image.tmdb.org/t/p/w200/nmwMBGmrqVgeAOdWJJJJi9A2l7C.jpg"
+            },
+            {
+                "name": "Kadia Saraf",
+                "role": "Claudette Wallace",
+                "image": "https://image.tmdb.org/t/p/w200/lHaOGTMcq4SQeaHxC2BSeAwony9.jpg"
+            },
+            {
+                "name": "Dominic Fumusa",
+                "role": "Melvin Oliva",
+                "image": "https://image.tmdb.org/t/p/w200/1wgHvqNM0LisAhkInYDD9JIGPJ0.jpg"
+            },
+            {
+                "name": "Emilia Suárez",
+                "role": "Elsa Rivera",
+                "image": "https://image.tmdb.org/t/p/w200/o2jgZz18J0sNAqfMnN1ufXh08nU.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Atan Bir Kalp...",
+                "overview": "Haftalar süren komadan uyanan Dexter Morgan, oğlunun ortadan kaybolduğunu fark eder ve onu New York'ta aramaya başlar. İkisi de hiç beklemedikleri durumlarla yüzleşecektir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cdxZjP0S2K1FGO3NiXbQAM6TqwS.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kamera Utangaçlığı",
+                "overview": "Tehlikeli bir katilin peşine düşen Dexter, New York'taki araç çağırma uygulamaları aracılığıyla katil hakkındaki bilgilere ulaşmaya çalışır. Bu sırada Harrison büyük bir olayın getirdiği suçluluk duygusundan kurtulmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gxTEgknl8AequxdxtkLHOMFN5T3.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Şoförün İşine Karışılmaz",
+                "overview": "Karşılaştığı zorluklara rağmen Dexter, mevcut duruma uyum sağlayana kadar ekstra önlemler almalı ve dikkatli ilerlemelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yVtgDRQDFbQ7EMhpFfqhWHzyH5J.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Bana Red De",
+                "overview": "Dexter, kötü emelleri olan nüfuzlu bir kişinin organize ettiği gizli bir toplantıya katılır. Bu sırada Harrison, iş yerinde artan suçluluk duygusu ve stresle boğuşurken, Angel Batista da New York'a doğru yola çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/c1sOxW3Xr6tAu11Gkqzq0ZaVSDp.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Cinayete Susamış",
+                "overview": "Harrison'ın yaşadığı olay, onun tutuklanma ihtimalini çevreleyen gizem ve şüpheyi arttırırken, Dexter düşünce yapılarının benzer olduğuna inandığı sıra dışı yeteneklere sahip bir katille iş birliği yapmaya karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nEehUPK1SB6wzjVBOIdPi84CMsb.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Kediler ve Fare",
+                "overview": "Harrison kendi kimliğini sorgularken, Dexter tehlikeli bir katili durdurmak için harekete geçer. Batista ise Bay Harbor Butcher ile olan bağlantıları ortaya çıkarmak için New York'taki son cinayetleri araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sWBM9e5YQLVflxV17puSOlKA7wk.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "İnce Ayar",
+                "overview": "Prater'ın ev sahipliğindeki buluşmada, Dexter Gareth hakkındaki gerçeği öğrenmeyi başarır. Bu sırada Elsa'nın kaba ev sahibiyle yaşadığı çatışmalar, Harrison'ı geleceğini ve adaleti nasıl sağlayacağını düşünmeye iter.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lZPs7ZVXnbhgdaW1bU0mReubEDf.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Olay Mahalli İnfaz Odası",
+                "overview": "Claudette, Miami Metro'nun geçmişini araştırarak gerçeğe yaklaşırken, Dexter dikkatini babalık rolüne verir. Ancak Harrison, beklenmedik bir tehlikeyle karşı karşıya kalabilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oNF42UdW8L6P3aBz96Ens0mE0fF.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Ángel Etkisi",
+                "overview": "Prater ve Charley'nin, önemli bilgilere ulaşmasıyla Dexter en uç noktalara gitmeye zorlanır ve Prater'la bir buluşma ayarlar. Harrison ise kendini olayın daha da içinde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/35X0k5JHwJtehW37ELaVWOHGbb0.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Ve Hepimiz İçin Adalet...",
+                "overview": "Prater'a olan sadakati sınırlarına kadar zorlanan Charley, bir seçim yapmak zorunda kalır. Bu sırada Dexter ve Harrison, içlerindeki karanlığın sonuçlarıyla yüzleşecekleri son bir hesaplaşmanın ortasında kendilerini bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gtFDFc5AJ3WvGhBwUs7bpRb0Rra.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt33043892/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 12:03:18"
+    },
+    {
+        "id": 256624,
+        "imdb_id": "tt32596156",
+        "name": "Talamasca Gizli Düzen",
+        "original_name": "Talamasca: The Secret Order",
+        "overview": "Fani dünyayla aralarındaki dengeyi uzun süredir koruyan ölümsüzlerle dolu gizli bir evrene düşen Guy Anatole, merakının bedelini farklı şekillerde ödeyecektir.",
+        "poster": "https://image.tmdb.org/t/p/w500/qmmHl3EiFKuDLTVYHGwlV9UhtNw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8M0rS9KsWACnua82zmlVOjUGKXD.jpg",
+        "year": "2025",
+        "rating": 6.8,
+        "genres": [
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "AMC Plus Apple TV Channel",
+            "AMC+ Roku Premium Channel",
+            "Spectrum On Demand",
+            "AMC+",
+            "AMC",
+            "Philo"
+        ],
+        "cast": [
+            {
+                "name": "Nicholas Denton",
+                "role": "Guy Anatole",
+                "image": "https://image.tmdb.org/t/p/w200/gvJXRcJbXVkrzQxdJ75cOTNppJ0.jpg"
+            },
+            {
+                "name": "Celine Buckens",
+                "role": "Doris",
+                "image": "https://image.tmdb.org/t/p/w200/6pGlBFPZ0tErnpr9vi4C8Pe7JJ0.jpg"
+            },
+            {
+                "name": "Maisie Richardson-Sellers",
+                "role": "Olive Marie Farington",
+                "image": "https://image.tmdb.org/t/p/w200/kYqqlIllubeg36H93RCNEzUSO5j.jpg"
+            },
+            {
+                "name": "William Fichtner",
+                "role": "Jasper",
+                "image": "https://image.tmdb.org/t/p/w200/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+            },
+            {
+                "name": "Elizabeth McGovern",
+                "role": "Helen",
+                "image": "https://image.tmdb.org/t/p/w200/nA5jJkV5YyYvhpaMD285qQnOWGv.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6Qvr8sm1AmTKPHqzZT3Cka0IUBp.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ubHHb40CWCdRdK759vMJH0J6DRI.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Eldeki Görev",
+                "overview": "Guy, tehlikeli bir görevin ardından Helen ve Talamasca'ya olan güvenini sorgular. Helen, Guy'a Seven Five Two'nun hikayesini ve doğaüstü dünya tarihindeki yerini anlatır. Yeni bilgiler ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eMTpwGsNj2IbIwkNyVgf1z3Sc0I.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Islak İş",
+                "overview": "Guy, gizli kimliğinden kurtulur ve Jasper'la yüz yüze gelir. Jasper, Guy'a yerel bir vampir topluluğunun otelinde Seven Five Two'yu bulma görevini verir. Helen geçmişini araştırmaya devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eX8X4Utigr7i2Ar0PIG3gPYwOZd.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Bulmaca Sarayı",
+                "overview": "Jasper, Londra Ana Evi'nde Guy ile yüzleşir. Helen'in niyetleri hakkında sorular ortaya çıkar. Guy ve Doris yakınlaşır. Loren ve Ridge önemli bir keşfin eşiğindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/52oAYPq60itELrlBW5yGX4vda7R.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Jasper'ın Maida Vale'ye karşı eylemlerinin ardından polis şüphelileri gözaltına alır. Bu arada Helen, kendi geçmişiyle ilgili önemli bir keşifte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mXt1ch3Z78lr25v8aa2QpLJOSZJ.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:52:50"
+    },
+    {
+        "id": 255719,
+        "imdb_id": "tt32510765",
+        "name": "The Seduction",
+        "original_name": "Merteuil",
+        "overview": "Bir soylunun ihanetine uğrayan Isabelle intikam peşinde koşarken, yetimlikten markizliğe doğru baş döndürücü bir yükselişe geçer.",
+        "poster": "https://image.tmdb.org/t/p/w500/awOWWPDLDc3Q5s5MuC3KXnhbpEj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/5RFARf0B2YrmR5uZoqYOckI7AdF.jpg",
+        "year": "2025",
+        "rating": 6.7,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Anamaria Vartolomei",
+                "role": "Merteuil",
+                "image": "https://image.tmdb.org/t/p/w200/u2LZZgiXkUnB1zdauW6qidWLVuP.jpg"
+            },
+            {
+                "name": "Diane Kruger",
+                "role": "Rosemonde",
+                "image": "https://image.tmdb.org/t/p/w200/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+            },
+            {
+                "name": "Vincent Lacoste",
+                "role": "Valmont",
+                "image": "https://image.tmdb.org/t/p/w200/1hp8PALjdPV57pnmk7VU3N4Pdf7.jpg"
+            },
+            {
+                "name": "Lucas Bravo",
+                "role": "Gercourt",
+                "image": "https://image.tmdb.org/t/p/w200/uO6vMlJBMASyOQMisvnPehjsfJB.jpg"
+            },
+            {
+                "name": "Noée Abita",
+                "role": "Madame de Tourvel",
+                "image": "https://image.tmdb.org/t/p/w200/3dyRKujOLn1VsCo9ZQ6HOwMj4Ew.jpg"
+            },
+            {
+                "name": "Julien de Saint Jean",
+                "role": "Louis de Germain",
+                "image": "https://image.tmdb.org/t/p/w200/7LgzmUUyAPSRhAT5a5v7l6aGviH.jpg"
+            },
+            {
+                "name": "Fantine Harduin",
+                "role": "Cécile de Volanges",
+                "image": "https://image.tmdb.org/t/p/w200/1OPDUr31sXOevwYnCWsaKzCcQfV.jpg"
+            },
+            {
+                "name": "Samuel Kircher",
+                "role": "Chevalier Danceny",
+                "image": "https://image.tmdb.org/t/p/w200/jU41TUM7swLrvV0ToX4sPLqxgDV.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "⁨Isabelle⁩",
+                "overview": "Isabelle, acımasız özgür ruh Valmont tarafından ihanete uğrayınca, intikamını almak için Paris'i fethetmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/s1cVlsLt51EECQVEe7EHShPkMcZ.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Isabelle, kendini yeniden Marquise de Merteuil olarak tanıtmaya hazırlanırken, Gercourt, partisini rezil etmek için planlar yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e9BNEbCDSE43jcgId4Joa4SQXDV.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Gercourt, Isabelle'i zayıflatma amacını güderken, Isabelle, Paris'in en güçlü adamına karşı mücadelesinde yardım almak için harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ryHm5ihX8eZFLuGdnUxyoaZ0rnX.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Isabelle'in evliliği hedef alınınca, Valmont ve Rosamonde arkadaşlarını korumak için kendi yollarıyla mücadele eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bbXEYMLuuA5LsPzCcssAr1Hm8ZH.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 11:50:15"
+    },
+    {
         "id": 253750,
         "imdb_id": "tt32305967",
         "name": "Crutch",

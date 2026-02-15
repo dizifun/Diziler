@@ -1,5 +1,105 @@
 [
     {
+        "id": 255719,
+        "imdb_id": "tt32510765",
+        "name": "The Seduction",
+        "original_name": "Merteuil",
+        "overview": "Bir soylunun ihanetine uğrayan Isabelle intikam peşinde koşarken, yetimlikten markizliğe doğru baş döndürücü bir yükselişe geçer.",
+        "poster": "https://image.tmdb.org/t/p/w500/awOWWPDLDc3Q5s5MuC3KXnhbpEj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/5RFARf0B2YrmR5uZoqYOckI7AdF.jpg",
+        "year": "2025",
+        "rating": 6.7,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Anamaria Vartolomei",
+                "role": "Merteuil",
+                "image": "https://image.tmdb.org/t/p/w200/u2LZZgiXkUnB1zdauW6qidWLVuP.jpg"
+            },
+            {
+                "name": "Diane Kruger",
+                "role": "Rosemonde",
+                "image": "https://image.tmdb.org/t/p/w200/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+            },
+            {
+                "name": "Vincent Lacoste",
+                "role": "Valmont",
+                "image": "https://image.tmdb.org/t/p/w200/1hp8PALjdPV57pnmk7VU3N4Pdf7.jpg"
+            },
+            {
+                "name": "Lucas Bravo",
+                "role": "Gercourt",
+                "image": "https://image.tmdb.org/t/p/w200/uO6vMlJBMASyOQMisvnPehjsfJB.jpg"
+            },
+            {
+                "name": "Noée Abita",
+                "role": "Madame de Tourvel",
+                "image": "https://image.tmdb.org/t/p/w200/3dyRKujOLn1VsCo9ZQ6HOwMj4Ew.jpg"
+            },
+            {
+                "name": "Julien de Saint Jean",
+                "role": "Louis de Germain",
+                "image": "https://image.tmdb.org/t/p/w200/7LgzmUUyAPSRhAT5a5v7l6aGviH.jpg"
+            },
+            {
+                "name": "Fantine Harduin",
+                "role": "Cécile de Volanges",
+                "image": "https://image.tmdb.org/t/p/w200/1OPDUr31sXOevwYnCWsaKzCcQfV.jpg"
+            },
+            {
+                "name": "Samuel Kircher",
+                "role": "Chevalier Danceny",
+                "image": "https://image.tmdb.org/t/p/w200/jU41TUM7swLrvV0ToX4sPLqxgDV.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "⁨Isabelle⁩",
+                "overview": "Isabelle, acımasız özgür ruh Valmont tarafından ihanete uğrayınca, intikamını almak için Paris'i fethetmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/s1cVlsLt51EECQVEe7EHShPkMcZ.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Isabelle, kendini yeniden Marquise de Merteuil olarak tanıtmaya hazırlanırken, Gercourt, partisini rezil etmek için planlar yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e9BNEbCDSE43jcgId4Joa4SQXDV.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Gercourt, Isabelle'i zayıflatma amacını güderken, Isabelle, Paris'in en güçlü adamına karşı mücadelesinde yardım almak için harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ryHm5ihX8eZFLuGdnUxyoaZ0rnX.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Isabelle'in evliliği hedef alınınca, Valmont ve Rosamonde arkadaşlarını korumak için kendi yollarıyla mücadele eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bbXEYMLuuA5LsPzCcssAr1Hm8ZH.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt32510765/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 11:50:15"
+    },
+    {
         "id": 271267,
         "imdb_id": "tt31987295",
         "name": "The Chair Company",
