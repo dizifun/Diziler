@@ -2,25 +2,153 @@
     "id": 222766,
     "imdb_id": "tt24053860",
     "name": "The Day of the Jackal",
+    "original_name": "The Day of the Jackal",
+    "overview": "Rakipsiz ve yakalanması son derece zor bir yalnız suikastçı olan Çakal, en yüksek ücret karşılığında suikastlar gerçekleştirerek hayatını kazanmaktadır. Ancak son cinayetinin ardından, Avrupa’da heyecan dolu bir kedi-fare kovalamacasında Çakal’ın izini sürmeye başlayan ve ardında yıkım bırakan azimli bir İngiliz istihbarat subayı Bianca  ile karşılaşır.",
     "poster": "https://image.tmdb.org/t/p/w500/kSArpvMefJhwwZVATCRst4bgsw5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
     "year": "2024",
+    "rating": 8.2,
     "genres": [
         "Dram",
         "Aksiyon & Macera",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "TOD TV",
+        "Sky Showcase",
+        "Sky Atlantic",
+        "Peacock Premium Plus",
+        "Peacock Premium"
+    ],
     "cast": [
-        "Eddie Redmayne",
-        "Lashana Lynch",
-        "Eleanor Matsuura",
-        "Chukwudi Iwuji",
-        "Úrsula Corberó"
+        {
+            "name": "Eddie Redmayne",
+            "role": "The Jackal",
+            "image": "https://image.tmdb.org/t/p/w200/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg"
+        },
+        {
+            "name": "Lashana Lynch",
+            "role": "Bianca Pullman",
+            "image": "https://image.tmdb.org/t/p/w200/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
+        },
+        {
+            "name": "Eleanor Matsuura",
+            "role": "Zina Jansone",
+            "image": "https://image.tmdb.org/t/p/w200/8PTKH2LHXVxoxPm4kULlQ0OdwTg.jpg"
+        },
+        {
+            "name": "Chukwudi Iwuji",
+            "role": "Osita Halcrow",
+            "image": "https://image.tmdb.org/t/p/w200/5JILtFNmAmA8T4gRQrO5sn8krDv.jpg"
+        },
+        {
+            "name": "Úrsula Corberó",
+            "role": "Nuria",
+            "image": "https://image.tmdb.org/t/p/w200/cmH8Z459tw9YkR61QfxlCSlZw9P.jpg"
+        },
+        {
+            "name": "Adoney Díaz Barajas",
+            "role": "Carlitos",
+            "image": ""
+        },
+        {
+            "name": "Rajko Radovic",
+            "role": "Bodyguard",
+            "image": ""
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Seçkin bir suikastçı son cinayetini işlediğinde, onu avlamaya başlayan bir istihbarat subayının dikkatini çeker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rdGGo715ODZCbQaZDHmp6bdcPs.jpg",
+            "vote_average": 8.3,
             "link": "https://vidmody.com/vs/tt24053860/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Önceki müşterisinin ödemeden vazgeçmesiyle Çakal'ın itibarı tehlikeye girer ve intikam planları yapmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6Kdz5Lqdo1tqsooY2GfqUXWm8ya.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt24053860/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Asi müşterisinin kimliğini öğrenen Çakal, onunla hesaplaşmaya kararlı bir şekilde Münih'te izini sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/33YJ3WckO3gKoSltkCCuNiy6YDW.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24053860/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "İntikamını alan Çakal Münih'ten kaçar ve Nuria'nın şüphelerini gidermeye çalışır. Bianca avında yeni bir ipucunun peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/d637d1TXhf3E2nD7yIvpaxrgW5W.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt24053860/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Çakal özel bir görevle Norman'ı ziyaret eder... ancak Bianca da Norman'ın izini sürdüğü için ona yaklaşmaya başlamıştır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/45AMT1PhQl9gLLG6wieNKDZKgir.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt24053860/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Bianca ile girdiği çatışmanın ardından Çakal, kendisini esir alanlardan kaçmalı ve Bianca izini sürerken bir sonraki saldırısı öncesinde yeniden toparlanmalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kChxZzHUeIO14bAMhMkKwkDSxUx.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24053860/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Çakal ve Bianca, UDC'nin duyurusu öncesinde Tallinn'e gider. Çakal atışını yapmaya hazırlanırken tüm kurnazlıklarını kullanmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tn3tjgJROysrUJcoJQMT1QwOrXU.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt24053860/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Tallinn'deki kaosun ardından Çakal saklanmak zorunda kalırken, Bianca gizemli 'Duggan'ın geçmişini araştırmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/thpACk713j0JMoyljCEf8HMKkYo.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24053860/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "River'ın serbest bırakılması yaklaşırken, UDC kendini güvende hissetmektedir. Zaman tükenirken Çakal hedefine ulaşmak için yeteneklerini kullanmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hN34C0fu0qFh2nk7nxLRPiFaztT.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt24053860/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Bianca için yeni bir sayfa açılıyor gibi görünürken, Çakal polisten kaçmaktadır. Karadağ'a giderken bir araba kazası geçirir ve sıkışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bXISBSN4w7HLTj6lOy5NWHHk8Rr.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24053860/s1/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 08:36:47"
 }

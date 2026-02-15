@@ -1,5 +1,863 @@
 [
     {
+        "id": 44217,
+        "imdb_id": "tt2306299",
+        "name": "Vikingler",
+        "original_name": "Vikings",
+        "overview": "Viking kahramanı Ragnar Lothbrok’un, ileriyi göremeyen, yetersiz bir lidere meydan okuyarak Norse sınırlarını nasıl genişlettiğini seyrettiğimiz gerçekçi bir dram.",
+        "poster": "https://image.tmdb.org/t/p/w500/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+        "year": "2013",
+        "rating": 8.1,
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "categories": [
+            "Tümü",
+            "History",
+            "Netflix",
+            "Prime Video"
+        ],
+        "cast": [
+            {
+                "name": "Alex Hogh Andersen",
+                "role": "Ivar Lothbrok / Ivar the Boneless",
+                "image": "https://image.tmdb.org/t/p/w200/kDO1gFqMnsV5gCQsMgEL9BZongX.jpg"
+            },
+            {
+                "name": "Jordan Patrick Smith",
+                "role": "Ubbe Lothbrok",
+                "image": "https://image.tmdb.org/t/p/w200/bGPLRUkjCHm2j8VspCOgL6mti4b.jpg"
+            },
+            {
+                "name": "Marco Ilsø",
+                "role": "Hvitserk Lothbrok",
+                "image": "https://image.tmdb.org/t/p/w200/xfcrAKFHq81VVO9axg1zP8JrYCN.jpg"
+            },
+            {
+                "name": "Peter Franzén",
+                "role": "King Harald Finehair",
+                "image": "https://image.tmdb.org/t/p/w200/zJ8JV2TefLQIT5DzMinl5eoK5YH.jpg"
+            },
+            {
+                "name": "Georgia Hirst",
+                "role": "Torvi",
+                "image": "https://image.tmdb.org/t/p/w200/7xHIjmpI4jWUfB1EFiTMtYzpVXM.jpg"
+            },
+            {
+                "name": "Данила Козловский",
+                "role": "Prince Oleg of Novgorod",
+                "image": "https://image.tmdb.org/t/p/w200/agVuijZjWfDX5klBNmBM1PS9CU0.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Ergenliğe Geçiş Töreni",
+                "overview": "Earl Haraldson’dan gelen uyarıya aldırmayan Ragnar Lothbrok, yeni topraklar ve zenginlikler keşfetmek üzere Batı’ya yelken açmaya kararlıdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kuzeylilerin Gazabı",
+                "overview": "Ragnar ve tayfası, Batı seferine hazırlanırlarken, Earl Haraldson öfkeden çıldırır ve bu asiliğin intikamını alacağına ant içer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "El Koyma",
+                "overview": "Vikingler, ilk İngiltere çıkarmalarını başarıyla tamamlarken, Ragnar kendisi için tuhaf bir ödül seçer ve Haraldson üstünlük kazanmak için planlar kurmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/srvPbivGYPH0hpFA9rqsmDXnO2Z.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Yargılama",
+                "overview": "Ragnar, Lagertha ile beraber İngiliz kasabası Hexam’ı yağmalar. Korkusuz savaşçı, eve döndüğünde Haraldson’ın gazabıyla karşı karşıya kalacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lmGxHLz8EExTSrN4e44g6wCnvyE.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Baskın",
+                "overview": "Haraldson, kuşkuları yüzünden Ragnar’a saldırır. Ragnar tehlikeyi kıl payı atlatır ama ya ömür boyu sürgüne gönderilmeyi ya da ölümcül bir savaşa girmeyi seçecektir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yKgFdIa1D4X4koiNFzfxv4G5T4b.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Cenaze Töreni",
+                "overview": "Henüz gücünü toplayamamış olsa da, kardeşinin gördüğü işkenceleri kabul edemeyen Ragnar, Haraldson’ı ölümcül bir düelloya davet eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kbcaeoP4vz6ggqFHKGPAtTBWCgr.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Büyük Bir Servet",
+                "overview": "Ragnar ve adamları Sakson Kralı Aelle’in ordusuyla savaşırlar. Her iki tarafta da işler çeviren hainler yüzünden barış uzak bir ihtimaldir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tJFeOQIcK7BCBbMmGTqO9FF9noi.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kurban",
+                "overview": "Tanrılara şükranlarını sunmak üzere geleneksel bir sefere çıkan Ragnar, Lagertha ve Athelstan, inançlarına ve birbirlerine olan bağlılıklarını sınayacaklardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/z8sDwBSk48Al52CdA9u4vnPvWJQ.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Değişim",
+                "overview": "Ragnar kral için diplomatik bir göreve çıkarken, Rollo saf değiştirir. Lagertha köyde baş gösteren ölümcül bir salgına karşı mücadele verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oyNW4u6DhkaF9m44RXo3Lwwc0WC.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2306299/s1/e09"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Kardeşlerin Savaşı",
+                "overview": "Jarl Borg ve Ragnar’la Kral Horik’in güçleri arasındaki savaş kardeşi kardeşe düşürür. Prenses Aslaug da beraberinde bir sürprizle Kattegat’a gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/new6dK6yNOcXysMvm8KDp7pKqod.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "İstila",
+                "overview": "Ortak bir hedef uğruna şaşılacak bir ittifak kurulur: İngiltere’ye baskın. Ragnar ve adamlarının gemisi fırtınaya kapılarak tehlikeli bir düşmana doğru sürüklenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2DWsKFy51lt1gYlcn2zy4DlqCGV.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "İhanet",
+                "overview": "Kral Ecbert bu kez çok farklı bir düşmanla karşılaşır. Ragnar Batı’da üstünlük sağlamaya çalışsa da Jarl Borg’un da Kattegat’la ilgili kendi planları vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a7v9k61yKmqRnRvr20cw4lzckJq.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Göze Göz",
+                "overview": "Ragnar ve Ecbert’in buluşması olası bir uzlaşmanın kapılarını aralar. Jarl Borg’un sert yönetimi altına giren Kattegat’ta öne çıkıp liderlik etme sırası Rollo’dadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/juWaNsM6TDCvxQ1J5j7T9qM4AVT.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Kan Akacak",
+                "overview": "Lagertha'nın desteğini alan Ragnar, Kattegat'ı Jarl Borg'dan geri almak için saldırıya geçer. Athelstan, Wessex'te eski Hristiyan inançları ile boğuşmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uMctGpmxDEfFcLDv37y63IxURHC.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Affedilmeyen",
+                "overview": "Horik, Ragnar için ilginç bir teklifle Kattegat’a gelir. Lagertha eve döndüğünde beklediği karşılamayı bulamaz. Athelstan, Kral Ecbert’in sırdaşı olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hS0pqJLCh9HAWI9JC76sc4ScnFN.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Kan Kartalı",
+                "overview": "Ragnar ve Kral Horik, Jarl Borg’un nasıl yargılanacağı konusunda ters düşerler. Kral Aelle, Wessex’e varır ve Ecbert, olası yeni bir ittifaka göz koyar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5cifsP8FNSVolSgVFx88ctHfRpp.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Kemiksiz",
+                "overview": "Yeni bir doğuma hazırlanan Prenses Aslaug’un kehaneti doğru çıkar. Wessex’e yelken açan Ragnar ve Horik’in kafalarında bambaşka planlar vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b7yBD85DDvs7kdq1UxGSls8sy6E.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Seçim",
+                "overview": "Viking savaşçıları Ragnar’ın liderliğinde Kral Ecbert’in hanesine yol alırken, onları acımasız bir karşılama bekler ve bu kanlı savaş tüm kuralları değiştirecektir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zoNFrK1ARgFtuT15v9VGbqSjt3m.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "Gerçek Dua",
+                "overview": "Ragnar ve Kral Horik, Kattegat’a dönerken aralarındaki nihai savaş patlak vermek üzeredir. Ragnar’ın güvenmek için yeni ittifaklar seçme zamanı gelmiştir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dBfQlXePKuoSwy6eCUOY8t2irOb.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2306299/s2/e10"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Paralı Asker",
+                "overview": "Ragnar ve Lagertha’nın birlikleri, Wessex’te koloni kurmayı amaçlayan bir grupla denize açılır. Kral Ecbert bir anlaşma önerir. Ragnar beklenmedik bir ittifak edinir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lxkXxSHLqkqM7vSGaZLTRbVnfvw.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Gezgin",
+                "overview": "Lagertha ve Athelstan, Wessex’te Viking köyünün kurulmasına yardım ederler. Kattegat’a gelen gizemli bir göçebe, kehanetlerdeki uyarıları akıllara getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l3FI55cfzldcO3jhNX1CeSctabN.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Savaşçı'nın Kaderi",
+                "overview": "Kral Ecbert yeni yeni gelişen Viking köyünü ziyaret eder. Wessex-Viking birlikleri, Mercia ile savaşa girer. Siggy, Harbard’ın görünüşüne kanmaz.",
+                "still_path": "https://image.tmdb.org/t/p/w400/d4BYOprH5Ymf2VlglH3UnEZWc8P.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Yaralı",
+                "overview": "Wessex-Viking birlikleri eve zaferle dönerler ancak Floki, Ecbert’le ittifak kurulmasına kızmıştır. Prenses Kwenthrith, hesaplanmış bazı politik hamlelerde bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5w5PZjjiT0fscns1td55qEuR2np.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Taht Hırsızı",
+                "overview": "Birlik, eve dönüşte bir trajediyle karşılaşır. Lagertha Ragnar’la Hedeby’ye gitmek ve unvanını geri almak ister. Kâhin, Rollo için ilginç bir kehanette bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/PkbyH1xQZy63SycZT07IOTSF1N.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Yeniden Doğmak",
+                "overview": "Paris baskını için hazırlıklar hızlanırken, Rollo kara kara kaderini düşünür. Kalf, Kattegat’a gelir. Porunn ve Judith doğum yaparlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9n8pc6XwRlEeeMb4nrukUGzRHS9.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Paris",
+                "overview": "Paris’e ulaşan Viking donanması büyük bir paniğe yol açar. Kont Odo ise şehrin bu saldırıya hazırlıklı olduğundan çok emindir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cFFY8zOjUQlACFAKyMIufup3VjE.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Kapıya Hücum!",
+                "overview": "Kont Odo’nun emriyle Paris tecrit edilir. Fakat Vikingler kapıları yıkmaya kararlıdırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5Wmmag8yK7kPyLunTnx9DuQAJTs.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "Kırılma Noktası",
+                "overview": "Vikingler Paris’e var güçleriyle saldırırlar. Çaresiz kalan İmparator Charles zor bir seçim yapmak zorundadır. Wessex’te Judith’i de zor bir seçim beklemektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kJerWFq6iuToWn6NJf2hwkXzFUO.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "Ölüler",
+                "overview": "Rollo kaderinden kaçamaz ve liderlik Bjorn’a geçer. Paris’i ele geçirmek için son şanslarını değerlendiren Ragnar ve Viking birlikleri cüretkâr bir hamle yaparlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5KpRWZYaZ8Tjxn40TQzPj4Tnk9t.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2306299/s3/e10"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Faydalı Bir İhanet",
+                "overview": "Ragnar, rahatsız edici bir rüya görür. Aslaug gelecekle ilgili cevaplar arar. Rollo büyük adım atar ve Floki, Bjorn ile çatışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hrwR0Ttjrr4iuiMWBVr9dTN2Aa7.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Kraliçeyi Öldür",
+                "overview": "Bjorn, hayatta kalma macerasına atılır. Ubbe, av sırasında dayanıklılığını sergiler. Floki'nin bulunduğu şartlar kötüleşir. Rollo, ortama uyum sağlamaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fLmE6zAIwmL1tmzsPylRrxNvlac.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Merhamet",
+                "overview": "Ragnar ve Ecbert aynı rüyayı görür. Karısı, Rollo'nun gönlünü kazanma çabalarına direnir. Bjorn, vahşi doğada azılı bir rakiple karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/whXSA0wNJ5huU8GwA1gVWoqOEpb.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "Yol Kutlamaları",
+                "overview": "Noel kütüğü büyük salonda yanarken, Ragnar ortak kaderleri nedeniyle Yidu ile bir bağ kurar. Bu sırada Bjorn, hayatı ve aşkı için mücadele eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aj2TVz5b4U3uPicwQoRa3Z2ebxh.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Vaadedilen",
+                "overview": "Ragnar ve Yidu, birbirlerine sırlarını vermeye devam eder. Beklenmeyen bir ziyaretçi Kattegat'a gelir. Neşeli etkinlik, bir anda şekil değiştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uHJAV3pXqNw3gNl73Tx5aZi3HHe.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Öyle Olabilirdi",
+                "overview": "Ragnar, Lagertha ve Harald, Paris'e doğru yelken açar; ancak rüzgar nedeniyle rotalarından çıkar. Bu sırada Ecbert, Aethelwulf ve Alfred'i kutsal bir göreve gönderir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zGAYf5xNRQSiS8cirRYnyonvlnH.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "Kazanç ve Kayıp",
+                "overview": "Ragnar, Rollo'ya iki yönlü saldırıyı ilan eder. Bu sırada Harbard ve Aslaug, samimi anlar yaşar. Floki, rahatsız edici bir rüya görür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iNzGDvCcceZJ6AG5B8LA0LdbBen.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "Karadan Yürütmek",
+                "overview": "Ragnar'ın yetenekleri sorgulanır. Gisla, önemli haberler verir. Yidu, mühim bir karar alır. Rollo'nun zaferi ödüllendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tnwyCySvtyEtKX2OqUMaO0yTPmD.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "Her Yerde Ölüm",
+                "overview": "Harald ve Halfdan, geçtikleri yerleri yakıp yıkar. Lagertha, kişisel yenilgi yaşar. Alfred, Roma'da onurlandırılır. Erlendur, bir talepte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/m4gzIOird8hnGMlPd9xDhz8GBbO.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "Son Gemi",
+                "overview": "Charles önemli bir karar verirken Rollo ve Ragnar arasında tarihin akışını değiştirebilecek derecede sert bir mücadele yaşanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cvezBE5fO95KKl5ZEsXh3MOjUNw.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e10"
+            },
+            {
+                "season": 4,
+                "episode": 11,
+                "name": "Yabancı",
+                "overview": "Kattegat'a geri dönen Ragnar, oğullarından onunla birlikte İngiltere'ye yelken açmasını ister. Bir aile şöleni öfkeyle biter. Köle bir kız kurnazlığıyla Ivar'ı alt eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/23bDUORmHdkWVdhFbqilDhuIxE0.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e11"
+            },
+            {
+                "season": 4,
+                "episode": 12,
+                "name": "Vizyon",
+                "overview": "Bjorn gemiyle Akdeniz'e açılmaya hazırlanırken Ragnar kendi gemilerine mürettebat bulmakla ilgili yeni zorluklarla karşılaşır. Aslaug korkunç şeyler olacağını sezer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mQLcB8sbGJz9nd8th1kY5IyH4P4.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e12"
+            },
+            {
+                "season": 4,
+                "episode": 13,
+                "name": "İki Yolculuk",
+                "overview": "Bjorn, hayalini gerçekleştirmek için eski bir düşmanla pazarlık yapmak zorundadır. Bu sırada ordusu son derece küçülen Ragnar yeni planlar yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r9g10W86w9qYDhfbUwj6ger674t.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e13"
+            },
+            {
+                "season": 4,
+                "episode": 14,
+                "name": "Şafaktan Önceki Belirsiz Saatler",
+                "overview": "Bir Viking cenazesinin ardından, Lagertha nihayet amacına ulaşır. Ragnar yakalanmıştır, ancak yeni bir akrabayla tanışmasının ardından Kral Ecbert ile pazarlığa girişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kRYaOvnxbBeILFRCVMIDmZWlj4y.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e14"
+            },
+            {
+                "season": 4,
+                "episode": 15,
+                "name": "Onun Tüm Melekleri",
+                "overview": "Ragnar başına gelecekleri beklerken Ivar eve gönderilir. Kimliğini gizleyen bir rahip teselli verir. Ivar'ın geri dönüşü Lagertha ve Astrid'in gelecek korkusunu büyütür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bo8f6YozU0JIWhuAxdvAIfWPVqS.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e15"
+            },
+            {
+                "season": 4,
+                "episode": 16,
+                "name": "Deniz Yolculuğu",
+                "overview": "Ivar, Lagertha'ya meydan okurken Ecbert ve Aethelwulf, Ivar'ın oluşturduğu tehdit konusunda anlaşmazlığa düşer. Bjorn ve adamları, bir Müslüman kentini yağmalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lXjAKqM6FzcE3jKzlv0hjnAIjnt.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e16"
+            },
+            {
+                "season": 4,
+                "episode": 17,
+                "name": "Büyük Ordu",
+                "overview": "Bjorn, Kattegat'a geri döner ve kardeşlerinin Ragnar'ın intikamını almak için ordu kurma planına katılır. Ama Ivar'ı Lagertha'ya karşı hareket etmemesi konusunda uyarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nG5WMT0v3h6sXDUyZwzs7BcWi3z.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e17"
+            },
+            {
+                "season": 4,
+                "episode": 18,
+                "name": "İntikam",
+                "overview": "Birçok ulusun savaşçıları büyük orduya katılır. Ubbe ve Margrethe'nin düğün gecesi bir ittifakla sona erer. Kral Aelle acımasız bir savaşa hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5HLpnL66LOOVOu33bQz7iEwTvvH.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e18"
+            },
+            {
+                "season": 4,
+                "episode": 19,
+                "name": "Hemen Öncesi",
+                "overview": "Kral Ecbert ve Prens Aethelwulf ilerleyen Viking ordusuna karşı koymaya hazırlanırken Lagertha, Kattegat'ta işgalcilere karşı amansız bir savaşı kumanda eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lAPqhzVTyik6zJiRbkPTUlrCEMt.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e19"
+            },
+            {
+                "season": 4,
+                "episode": 20,
+                "name": "Hesaplaşma",
+                "overview": "Ecbert kendi intikam planını uygulamaya koyduktan sonra Viking ordusunu karşılar. Ragnar'ın oğulları için zafer kutlaması keyif değil acı doludur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/p22hFeEGVqZu9hmMwMIHXxN30J4.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2306299/s4/e20"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "Balıkçı Kral",
+                "overview": "Ivar, Büyük Ordu için oluşturduğu cesur bir stratejiyle Ubbe ve Hvitserk'i yanına çekmeye çalışır. Saksonların arasında dindar bir güç yükselir. Floki yeni bir yol çizer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/p0B2fryD84NkeSG8IezwdswJryE.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "Ölmüşler",
+                "overview": "Kral Harald'ın Kattegat'a dönmesi Lagertha'yı rahatsız eder. Kuzeylilerin York'taki varlığına meydan okumak için ittifaklar oluşturulur. Floki fırtınalı denizlere açılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lh1FjFNHRPH53bp1eqcrfnXs8TV.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "Vatan",
+                "overview": "Piskopos Heahmund ve Aethelwulf savaş planlarını uygulamaya geçirir. Ancak bu hamle Ragnar'ın oğulları arasında ayrılığa yol açar. Harald, Astrid'i halkıyla tanıştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cAiBQE2KtsFQMWNXmJb7sSl4o7.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "Plan",
+                "overview": "Lagertha, Ubbe'ye bir teklifte bulunur. Astrid, Harald'ın yaptığı teklifi düşünür. Heahmund yeni bir saldırı planı yapar. Bjorn ufkunu genişletir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mwhArS0AWSYKnES2Ne22vWgxl7Z.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "Mahkûm",
+                "overview": "Yeni hamlelerini planlayan Ivar, Heahmund'a büyük bir ilgi göstermeye başlar. Floki, Kattegat'a geri gelir. Bjorn Afrika'da her şeyin göründüğü gibi olmadığını fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qW4zxYXVAIoodVC8G4ix7sLsP8H.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "Mesaj",
+                "overview": "Ivar yanına Heahmund'u alarak Harald'a bir teklifte bulunur. Lagertha'nın halkı üzerindeki kontrolü zayıflar. Bir müttefik, sadakatinin bedelini ağır bir şekilde öder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cfmte4CzQuUyUka7gSLfNwDYLXD.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e06"
+            },
+            {
+                "season": 5,
+                "episode": 7,
+                "name": "Dolunay",
+                "overview": "Bjorn, Kattegat'a dönüşünün ardından değişiklikler yapar. Lagertha ise savaşa Kattegat'ta hazırlanır. Astrid büyük haberler verir. Floki'nin topluluğunda şüphe belirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vpHMCPaeOflXb8NZFKx2rGMSMYM.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e07"
+            },
+            {
+                "season": 5,
+                "episode": 8,
+                "name": "Şaka",
+                "overview": "Kattegat'ı ele geçirmek için verilen savaşta eski hesaplar kapanır, tuzaklar kurulur ve kardeş kardeşle savaşır. Hem Floki hem de Alfred cesur yeni dünyalar düşler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ax7Qx3iaftydXA21h3JpdtL3DYG.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e08"
+            },
+            {
+                "season": 5,
+                "episode": 9,
+                "name": "Basit Bir Hikâye",
+                "overview": "Savaşın ardından yeni ilişkiler kurulur ve bağlılık yeminleri edilir. Başka bir yerde Floki alışık olduğu sorunlarla yüzleşir. Alfred'in hayatı değişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aGDpMbiLDRSKw67o5RKTKpFUEMK.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e09"
+            },
+            {
+                "season": 5,
+                "episode": 10,
+                "name": "Öngörü Anları",
+                "overview": "Kattegat için yapılan savaşta kan dökülür ve ittifaklar bozulur. Lagertha, Harald ve Ubbe muharebe meydanında sevdikleriyle karşı karşıya gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/glnCGZWOccC4fVCihgggXo93bA2.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e10"
+            },
+            {
+                "season": 5,
+                "episode": 11,
+                "name": "Haberler",
+                "overview": "Kattegat için verilen amansız mücadelenin ardından Ivar'ın tek amacı intikamdır. Bu sırada Bjorn tatsız haberler alır, Lagertha ise azalan seçeneklerini değerlendirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tHBGZz1uxTbhP0KWZ8fUaUYcsZe.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e11"
+            },
+            {
+                "season": 5,
+                "episode": 12,
+                "name": "İğrenç Bir Cinayet",
+                "overview": "Hem siyasi hem de romantik entrikalar, Heahmund'un Lagertha ile bağlantısını, Ivar'ın yeni eşini ve Alfred'in müstakbel kraliçesine davranışlarını etkiler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7RyxIQQ2S0y3ZxBuZ89lCsgmoD2.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e12"
+            },
+            {
+                "season": 5,
+                "episode": 13,
+                "name": "Yeni Bir Tanrı",
+                "overview": "Heahmund'un Lord Cuthred'e karşı kararlı tutumunun sonuçları devam etmektedir. Kattegat'ta Ivar'ın büyüklük sanrıları kaygı verici bir hâl alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6DHMKxB7FXXHy4myQixMxmNyFFQ.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e13"
+            },
+            {
+                "season": 5,
+                "episode": 14,
+                "name": "Kayıp Zaman",
+                "overview": "Ivar'ın dramatik kurbanı kuşku uyandırır. Harald'ın güçleri yaklaşırken, Alfred'e karşı komplolar gündeme gelir. Yaşadığı trajedi, Floki'nin aydınlanmasını sağlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xRSDThRVa1Xj3UpoIOR9xrqquZr.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e14"
+            },
+            {
+                "season": 5,
+                "episode": 15,
+                "name": "Cehennem",
+                "overview": "Arkasına Vikingleri alan Alfred Wessex için savaşmaya hazırlanırken, rahatsız edici bir görüntü Heahmund'u arzularından vazgeçmeye ikna eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/s56Ni5Ywi05t3gf4V9IN3QV16Zq.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e15"
+            },
+            {
+                "season": 5,
+                "episode": 16,
+                "name": "Buda",
+                "overview": "Savaşın ardından, Ragnar'ın oğulları onun en büyük hayallerinden birini gerçekleştirir. Bu sırada Bjorn dengini bulur, Hvitserk ise yeni bir yol keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sZdh4eH8hoi2uU7Vt6zBRkNbqj1.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e16"
+            },
+            {
+                "season": 5,
+                "episode": 17,
+                "name": "En Korkunç Şey",
+                "overview": "Yeni bir tehdit Wessex'e yaklaşırken Bjorn, Harald ile bir plan kurar. Ivar, Hvitserk'e reddedemeyeceği bir teklif yapar, Floki'nin inancı şaşırtıcı şekilde sarsılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jkGKKRCkLkRMNBBnNMWTrDMCniE.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e17"
+            },
+            {
+                "season": 5,
+                "episode": 18,
+                "name": "Baldur",
+                "overview": "Ivar giderek daha merhametsiz olur, Ubbe savaş öncesinde cesurca bir plan yapar, Judith sarsıcı bir şey keşfeder, Hvitserk ise bir müttefikin aklını çelmeye uğraşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zAzm9qFxGxOlnAig6sVRer8CKAf.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e18"
+            },
+            {
+                "season": 5,
+                "episode": 19,
+                "name": "Mağarada Yaşananlar",
+                "overview": "Ragnar'ın oğulları kaderlerini yaşarken Ivar, Baldur ile ilgili sorularla yüzleşir. Ubbe ölümüne savaşır, Floki akıl almaz bir şey bulur, Bjorn ise eve doğru yola çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qoReo3XyPF4xrWMA5zq84CkKI8O.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e19"
+            },
+            {
+                "season": 5,
+                "episode": 20,
+                "name": "Ragnarok",
+                "overview": "Bjorn, tacı Ivar'dan almak için harekete geçerken, Kattegat için kan, ihanet ve aşılması imkânsız gibi görünen zorluklarla dolu son bir savaş veriliyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6PQWhAgRNXeg4kNagCP5soaK4Y3.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s5/e20"
+            },
+            {
+                "season": 6,
+                "episode": 1,
+                "name": "Yeni Başlangıçlar",
+                "overview": "İpek Yolu üzerinden kaçan Ivar, Ruslar tarafından yakalanır. Bjorn, Kattegat'ta tahta geçer. Ancak Lagertha taşrada inzivaya çekileceğini açıklar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o3L1c9Fsw5G92zOEOrPi5RmyAcx.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e01"
+            },
+            {
+                "season": 6,
+                "episode": 2,
+                "name": "Kâhin",
+                "overview": "Kral Bjorn, Kral Harald'ın askerî yardım talebini isteksizce gözden geçirir. Kiev Prensi Oleg'in yönetimi ele geçirmek için yaptığı kanlı hamle Ivar'ı şoke eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/w7ZBnpkkbDuACKm3XUCOEEomzda.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e02"
+            },
+            {
+                "season": 6,
+                "episode": 3,
+                "name": "Hayaletler, Tanrılar ve Koşan Köpekler",
+                "overview": "Lagertha'nın çevresinde büyüyen topluluk saldırıya uğrar. Harald'ı kurtarmak için çabalayan Bjorn, Kral Olaf tarafından engellenir. Prens Oleg kontrolünü pekiştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9blglyXt9RWGDBGBhWr3STaDtKe.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e03"
+            },
+            {
+                "season": 6,
+                "episode": 4,
+                "name": "Tüm Esirler",
+                "overview": "Bjorn, Kral Olaf'tan reddedemeyeceği bir teklif alır. Lagertha'nın güçleri kanlı bir baskını püskürtür, ancak trajik bir bedel öder. Ivar, Oleg'e karşı plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eFj6z3QOKVwdc9yJnEBCFBfqlSM.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e04"
+            },
+            {
+                "season": 6,
+                "episode": 5,
+                "name": "Anahtar",
+                "overview": "Gunnhild, Lagertha'nın köyünü takviye eder. Norveç'in asilzadeleri ve kralları yeni bir ulusal lider seçmeye hazırlanır. Ivar geçmişinden bir hayaletle karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5ZQfIh4Eq924DYiBFcnb3nNTqDk.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e05"
+            },
+            {
+                "season": 6,
+                "episode": 6,
+                "name": "Ölüm ve Yılan",
+                "overview": "Norveç kralı seçiminin beklenmedik bir şekilde gelişmesi Bjorn için çeşitli sonuçlar doğurur. Lagertha ve halkı haydutlarla hesaplaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8l5jE8Ue1g9HZn417vbcHrvgaD5.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e06"
+            },
+            {
+                "season": 6,
+                "episode": 7,
+                "name": "Kadın Savaşçı",
+                "overview": "Yeni taç giyen Kral Harald seçilmesine karşı çıkan Olaf'ı hapseder. Bjorn, Kattegat'ta bir trajedinin yaşanmak üzere olduğunu hisseder. Ivar, Kiev'de iyi haberler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mXzDiFWFiII28bCwRhD08OS1OuP.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e07"
+            },
+            {
+                "season": 6,
+                "episode": 8,
+                "name": "Valhalla Bekleyebilir",
+                "overview": "Bjorn yas tutmak ve intikam almak için Kattegat'a döner. Ubbe ve Torvi, Kattegat'tan ayrılır. Oleg işgalini planlar. Kral Harald gizemli baskıncılara dair haberler duyar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qQz3GyZvuWHIDVmwlBP2k4eoQQ2.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e08"
+            },
+            {
+                "season": 6,
+                "episode": 9,
+                "name": "Diriliş",
+                "overview": "Ubbe ile Torvi İzlanda'da gizemli bir yolcuyla tanışır ve yeni bebeklerini kucaklarına alır. Bjorn ve Harald, Rus işgaline karşı isteksizce ittifak kurmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mW72v3NPSSja5fBKnjKNvMYnRZL.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e09"
+            },
+            {
+                "season": 6,
+                "episode": 10,
+                "name": "Sağlam Planlar",
+                "overview": "Ivar, Oleg'e karşı kurduğu komploda muhtemel bir müttefik bulur. Harald ve Bjorn tarafından kurulan zayıf ittifak Rusların İskandinavya işgaline karşı koymaya hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7jQkjDessT3JB36TMDv6uMkb25q.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e10"
+            },
+            {
+                "season": 6,
+                "episode": 11,
+                "name": "Kralların Kralı",
+                "overview": "Kjetill hakkında gerçeği öğrenen Ubbe'yi zor bir karar anı beklemektedir. Ruslarla olan savaşta büyük bir darbe alan Bjorn, yeni bir plan hazırlığındadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aCoYfoKTSMzmorUGLtetbFLAu3j.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e11"
+            },
+            {
+                "season": 6,
+                "episode": 12,
+                "name": "Her Şey Değişir",
+                "overview": "Rus ordusu Kiev'e geri döner. Prens Oleg'e karşı planlar gün yüzüne çıkmaya başlar. Ubbe ve bir grup yerleşimci, yeni keşif umutları ile İzlanda'dan yelken açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/78xct2iRITk4xw49tIO8SdklcgS.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e12"
+            },
+            {
+                "season": 6,
+                "episode": 13,
+                "name": "İşaret",
+                "overview": "Kattegat için seçim günü gelmiştir. Ivar, Prince Dir'den Oleg'e karşı harekete geçmeleri için beklediği mesajı almıştır. Şimdi Hvitserk ile birlikte Igor'u Kiev'den kaçırmanın yolunu bulmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7gGkUeTPXXTTKxNVLtEywqzT0LF.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e13"
+            },
+            {
+                "season": 6,
+                "episode": 14,
+                "name": "Kayıp Ruhlar",
+                "overview": "Prens Igor Novgorod'da kahraman gibi karşılanırken, Kiev'de işler karışmıştır. Ubbe ve ekibi yeni bir kara bulmuştur ancak yiyecek kıtlığı çatışmaları başlatır. Kattegat'ta ise Gunnhild ve Ingrid'i belirsiz bir gelecek beklemektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rwV2fN5TnKumTdPk1PuT8abJWrR.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e14"
+            },
+            {
+                "season": 6,
+                "episode": 15,
+                "name": "Aynı Gemide",
+                "overview": "Ubbe, Torvi ve Othere canlarını son anda kurtararak Grönland Adası'ndan kaçar. Ivar, Hvitserk ve Prince Dir'in ordusu Kiev'in kapılarına dayanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tDJx5ctSRoiHPJaW6FttobxZQ36.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e15"
+            },
+            {
+                "season": 6,
+                "episode": 16,
+                "name": "Son Damla",
+                "overview": "bebek Ragnar'ın kötüleşmesiyle Ubbe ve Othere arasında gerilim tırmanır. Ivar ve Hvitserk, Kattegat'a ulaşır. Ivar'ın yeni bir planı vardır ancak gerçekleşmesi için Harald ve Kattegat halkını ikna etmesi gerekir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xEtHizRmll7cXnE4iho04lHx4nM.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e16"
+            },
+            {
+                "season": 6,
+                "episode": 17,
+                "name": "Medusa'nın Salı",
+                "overview": "Wessex Kralı Alfred, Ragnar'ın oğullarının orduyla kapasına dayandığını öğrenir. Alfred, Viking ordusuyla konuşmak için yola çıkar. Denizde açlıkla mücadele eden Ubbe ve ekibi ise ufukta yeni bir umut görür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bJJskMzn4HGgKWAXKXzvU684zWe.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e17"
+            },
+            {
+                "season": 6,
+                "episode": 18,
+                "name": "Sihir",
+                "overview": "Ubbe ve ekibi yeni keşfettikleri kıtada yalnız olmadıklarını fark eder. Wessex'te Kral Alfred, Vikinglerle buluşmak için gücünü toplar. Ivar, İngilizlere karşı zekice bir strateji geliştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7YdP8WQEqg6r03wpw6OeLxvNMoF.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e18"
+            },
+            {
+                "season": 6,
+                "episode": 19,
+                "name": "Ormandaki Yaratıklar",
+                "overview": "Ubbe ve ekibi yeni keşfettikleri kıtadaki yerli halka karşı özenli bir diplomasi yürütür. Wessex'te Viking ordusu İngilizleri pusuyu düşürmek için harekete geçer. Kattegat'ta Ingrid, gücünü sağlamlaştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ctmbwLgqQE3BPvLiAEP9VS81HGd.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e19"
+            },
+            {
+                "season": 6,
+                "episode": 20,
+                "name": "Son Perde",
+                "overview": "Vikings efsanesi final bölümüyle veda ediyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1qJ5CMO7vLvU4Hw04hVLtK5d39d.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2306299/s6/e20"
+            }
+        ],
+        "update_date": "2026-02-15 08:08:01"
+    },
+    {
         "id": 131835,
         "imdb_id": "tt15286302",
         "name": "Nautilus",

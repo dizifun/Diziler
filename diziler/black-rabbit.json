@@ -2,24 +2,131 @@
     "id": 249039,
     "imdb_id": "tt23055142",
     "name": "Black Rabbit",
+    "original_name": "Black Rabbit",
+    "overview": "Yıldızı giderek parlayan bir restoran işletmecisi, hayatı altüst olan kardeşinin peşinde tefecilerle şehre dönmesi yüzünden New York'un suç dünyasına adım atmak zorunda kalır.",
     "poster": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/efbDkbMBPcHAfnsvJ9SXCdHgMBw.jpg",
     "year": "2025",
+    "rating": 7.0,
     "genres": [
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Jason Bateman",
-        "Jude Law",
-        "Chris Coy",
-        "Troy Kotsur",
-        "Abbey Lee"
+        {
+            "name": "Jason Bateman",
+            "role": "Vince Friedken",
+            "image": "https://image.tmdb.org/t/p/w200/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg"
+        },
+        {
+            "name": "Jude Law",
+            "role": "Jake Friedken",
+            "image": "https://image.tmdb.org/t/p/w200/nBGVXLHsNzlG7ouoh4bDggaGKN1.jpg"
+        },
+        {
+            "name": "Chris Coy",
+            "role": "Babbitt",
+            "image": "https://image.tmdb.org/t/p/w200/qM89KmZYCOC9VVUle5OPMP0i5U8.jpg"
+        },
+        {
+            "name": "Troy Kotsur",
+            "role": "Joe Mancuso",
+            "image": "https://image.tmdb.org/t/p/w200/24K3og12jGBGL9dqH5OYFdjF9wu.jpg"
+        },
+        {
+            "name": "Abbey Lee",
+            "role": "Anna",
+            "image": "https://image.tmdb.org/t/p/w200/y4ZIuFjtglTjSLxhGTkzsCPFMQZ.jpg"
+        },
+        {
+            "name": "Odessa Young",
+            "role": "Gen",
+            "image": "https://image.tmdb.org/t/p/w200/woaCgEcSzzwayaeVleiac0NCNRK.jpg"
+        },
+        {
+            "name": "Robin de Jesús",
+            "role": "Tony",
+            "image": "https://image.tmdb.org/t/p/w200/cnXFjsy7OaKBGtCV9nFD5rNvq0N.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Kasırga",
+            "overview": "Bir yemek eleştirmeninin kritik önemdeki ziyaretini bekleyen Jake Friedken'in planları, sorunlu kardeşi Vince'in dönüşüyle altüst olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5lAPbb7yPGHHk31PXYv7DugvfvS.jpg",
+            "vote_average": 7.3,
             "link": "https://vidmody.com/vs/tt23055142/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "The Black Rabbits",
+            "overview": "İşleri yolunda giden Jake ikinci bir restoran açma hayali kurduğu sırada ortaya çıkan beklenmedik bir finansal sorun, hem onun hem de Vince'in başını alacaklılarıyla derde sokar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/geCR8msduKGXXtKHbxELScgu1BX.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt23055142/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Ten Teması",
+            "overview": "Jake ve Vince son dakikada gösterişli bir bağış yemeği düzenleyince Roxie bir art niyetten şüphelenir. Hoşnutsuz bir eski çalışan yeniden ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Ghx3yatABK7jVqOaguTBKAiAiV.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt23055142/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Artık B*ka Batmak Yok",
+            "overview": "Rabbit'in etrafında bir gazeteci dolanmaya başlayınca Jake gerçeği gizlemeye uğraşır. Bir anlık aşırı güven Vince'i daha büyük tehlikeye sokar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xSbI7VuTfIs1FcwbDY9B5tSqoWb.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt23055142/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Öncü",
+            "overview": "Junior ve Babbit işleri kızıştırınca kardeşler de aynı şekilde karşılık verir. Roxie, restoranda değişiklikler yapması için Wes'in aklını çeler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eCjrYS4BMpP5dV9SEz51hpECgYu.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt23055142/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Aferin Lan",
+            "overview": "Anlaşmalar, borçlar ve ihanetler giderek artarken tüm yollar Rabbit'teki o yazgısal geceye çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/awf3rVvm7Ot24ba9bPrE9byDUYr.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt23055142/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Bu Çocuklar Neredeyse Mahvoluyordu",
+            "overview": "Öfke içindeki Mancuso, Vince'le hesaplaşacağına yemin eder. Jake her yönden zor sorularla karşı karşıya kalır. Estelle vicdan azabı çeker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oMCXlUu4Ai46dTQvyHykRk4Hguz.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt23055142/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Mutluluk Adası",
+            "overview": "Dört bir yandan tehditlerle karşı karşıya kalan kardeşler, hayatta kalmak için son bir hamle yapar. Ancak bu hamle onları sorunlu geçmişleriyle yüz yüze getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6bpwBsjZQ5GSjmMzCs7PSATLATF.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt23055142/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 08:07:37"
 }

@@ -1,5 +1,324 @@
 [
     {
+        "id": 46648,
+        "imdb_id": "tt2356777",
+        "name": "True Detective",
+        "original_name": "True Detective",
+        "overview": "Louisiana Cinayet Masası'nda görev yapan dedektif Rust Cohle ve Martin Hart bir seri katilin peşine düşerler. Beraber çalışan ikilinin, takip derinleştikçe kendi hayatlarının da içinden çıkılmaz bir duruma gelmesi kaçınılmaz olacaktır. 17 yıl boyunca bir seri katili yakalamak için iz süren dedektifler, yıllar sonra davanın tekrar ele alınması ile beraber kendilerini sorgu masasında bulurlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/bPLRjO2pcBx0WL73WUPzuNzQ3YN.jpg",
+        "year": "2014",
+        "rating": 8.3,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "TNT",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Jodie Foster",
+                "role": "Liz Danvers",
+                "image": "https://image.tmdb.org/t/p/w200/8DAd9knKivHR4CCStxlNEQXzjIh.jpg"
+            },
+            {
+                "name": "Kali Reis",
+                "role": "Evangeline Navarro",
+                "image": "https://image.tmdb.org/t/p/w200/qJcXQKgaq11aNNPPok0m4yfP2Og.jpg"
+            },
+            {
+                "name": "Fiona Shaw",
+                "role": "Rose Aguineau",
+                "image": "https://image.tmdb.org/t/p/w200/tjM74LcxwnYM77Csg1EtlXb1F9a.jpg"
+            },
+            {
+                "name": "Finn Bennett",
+                "role": "Peter Prior",
+                "image": "https://image.tmdb.org/t/p/w200/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+            },
+            {
+                "name": "Isabella Star LaBlanc",
+                "role": "Leah Danvers",
+                "image": "https://image.tmdb.org/t/p/w200/zaixiRA7LYodEssWh7zIAKfNP5P.jpg"
+            },
+            {
+                "name": "John Hawkes",
+                "role": "Hank Prior",
+                "image": "https://image.tmdb.org/t/p/w200/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Uzun Parlak Karanlık",
+                "overview": "1995 yılında kapanan bir cinayet dosyası, 17 yıl sonra yeniden açılınca cinayet masası dedektifleri kendilerini soruşturmanın ortasında bulurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lnludtHZ9CUbXvyFk1ZnoOsXp6o.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2356777/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Bir Şeyler Görünüyor",
+                "overview": "Martin ve Rustin'in soruşturmadan alınması gündeme gelir. Bu durum ikili üzerinde baskı yaratır. Martin evliliğindeki sorunlardan kaçmanın yolunu bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wJktgRRI53VmbXCOLNFrePv9x62.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2356777/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Kilitli Oda",
+                "overview": "Eski kilisenin duvarında buldukları çizim, dedektifleri rahip Joel Theriot'a götürür. Cemaat üyelerinden biri Dora'yla ilgili önemli bir bilgi verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9Icv5WubrQ0Cs7nEUxQ4WtD86Zm.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2356777/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Oraya Kim Gider",
+                "overview": "Dedektiflerin izini sürdüğü en önemli şüpheli olan Reggie Ledoux, ikiliyi şehrin tehlikeli bir bölgesine yönlendirir. Martin'in ilişkisi ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rxIdNZxiGOsw4AYmnWnBxlRr3uX.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt2356777/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Her Yaşamın Gizli Kaderi",
+                "overview": "Marty ve Rust, cinayet davasının kapandığını düşünürler. Ancak yıllar sonra onları sorgulayan dedektiflerin ellerinde yeni deliller vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9DaqmdXaS6Yd5ubBx9WFrSSTaQG.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt2356777/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Perili Evler",
+                "overview": "Maggie, 2002 yılında Rust ve Marty'nin arasında geçenlerle ilgili bildiklerini anlatır...",
+                "still_path": "https://image.tmdb.org/t/p/w400/yb45ZWU07quKaOxQQ5jCioZOik2.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2356777/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Sen Gittikten Sonra",
+                "overview": "Rust ve Marty, polis raporlarında kayıp olarak görünen kişilerin aslında Dora Lange cinayeti ile bağlantılı olup olmadığını keşfetmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cj7WwlFJ9oo4D4iK91s7ZygZixS.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2356777/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Şekil ve Boşluk",
+                "overview": "(SEZON FİNALİ) Yaşananların üzerinden 17 yıl geçmiş olmasına rağmen Rust ve Marty, kendilerini katile ulaştıracak çok önemli bir ipucu yakalarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/larzfSafxyBkcAZfNd0MSaGLRHK.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt2356777/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "The Western Book of the Dead",
+                "overview": "California otoyol polisi Paul'un karşılaştığı cinayet mahali, farklı karakterleri içine çeken garip bir cinayet davasına dönüşür...",
+                "still_path": "https://image.tmdb.org/t/p/w400/hVvWMZgSpos5nY0xLBtfLGGxsN6.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt2356777/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Night Finds You",
+                "overview": "Caspar'a yapılan otopsi, ölümüyle ilgili dehşet verici detayları ortaya çıkarır. Ray ve Ani soruşturmaya devam ederken Frank kaçırdığı şansla yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/emZ2bLfqyJHWMqx97BitVPIQ2SL.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt2356777/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Maybe Tomorrow",
+                "overview": "Ray soruşturmayı farklı bir yöne çevirecek önemli bir ipucu yakalar. Ani bu durumdan rahatsızdır. Frank suç dünyasından eski tanıdıklarıyla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tswWVWWhMiPTtmF3uUmvvPy4UXR.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt2356777/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Other Lives",
+                "overview": "Ray ve Frank hayatlarına farklı bir yön vermeyi tasarlarken Ani ve Paul yeni bir ipucunun peşindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vrny7HHQiifh8CDIBUdzfEi3FCk.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2356777/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Church in Ruins",
+                "overview": "Ani, seçkin üyelerin katıldığı özel bir partiye kimliğini gizleyerek girmeyi başarır. Ray ve Paul ise onu göz hapsinde tutarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eP2I0I4Dq67mr1xEQY1hgshA5TM.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2356777/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Black Maps and Motel Rooms",
+                "overview": "Karanlık bir sırrı çözmeye çalışan Ray, Ani ve Paul tedbirli davranıp önlem almaya karar verir. Frank ise ihanetinin sonuçlarıyla yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pRNEDISAPtetUZn6jSWUfuJYTRQ.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2356777/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Omega Station",
+                "overview": "(SEZON FİNALİ) Caspere'nin katili ve yolsuzluğun boyutları yavaş yavaş gün ışığına çıkmaya başlarken Frank, Ray ve Ani kendilerini kurtarmanın yollarını arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vTfGacGuZJSyocSlfYeMa1uFHtv.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2356777/s2/e08"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "The Great War and Modern Memory",
+                "overview": "Emekli dedektif Wayne Hays 35 yıl önce ortağıyla birlikte aydınlatmaya çalıştığı bir cinayet davasını yeniden gözden geçirmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/69kaprzlFWYW3Mucs3iVVgkWVV9.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2356777/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Kiss Tomorrow Goodbye",
+                "overview": "Hays olası bir kanıtın peşine düşerken ortaya çıkan iki yeni şüpheli, davanın seyrini değiştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y288eNTTYo21xRxwMe5hjYD0Za5.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt2356777/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "The Big Never",
+                "overview": "Hays ve Amelia ilişkilerinin ilk dönemlerini hatırlar. Ortaya çıkan yeni kanıtlar, Hays'e haklı olduğunu ispatlaması için ikinci bir şans tanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y6XAeDjuvITdzxBJfxUOf6vPr2P.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2356777/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "The Hour and the Day",
+                "overview": "Hays ve West, Purcell davası ve yerel kilise arasında bir bağlantı yakalar. Dedektifler bir şüpheliyi ararken Woodard saldırıya uğrar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rqTEBDu8bOhq0mBlaD5abOUwuPy.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2356777/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "If You Have Ghosts",
+                "overview": "Davada yeni ipuçları ortaya çıkar. Avukatlar yeni bir soruşturma talep ederken Roland da delilleri güvenli bir yerde tutmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5vAXu7Fgly2O7KEXQ3AOXtaQ6VX.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt2356777/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Hunters in the Dark",
+                "overview": "Wayne ve Roland dava dosyasındaki tutarsız noktaları yeniden incelerken Tom Purcell ve Dan O'Brien hakkında daha detaylı araştırmalar yaparlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uyte3ROivDzGLz6Cpvbf6h6mkeR.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt2356777/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "The Final Country",
+                "overview": "İkili, soruşturmanın ortasında görevden ayrılan polisi araştırır. Tek gözlü adamın peşine düşen Amelia ise Lucy'nin en yakın arkadaşını ziyaret eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7zybgu1RorDGIHktVV4GNyeoinm.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt2356777/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Now Am Found",
+                "overview": "(SEZON FİNALİ) Purcell davası sonunda aydınlatılırken Wayne anılarını ve gerçeği ayırmakta zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6RFGeFsZrlDd2TllfmTGksPUoo0.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt2356777/s3/e08"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Night Country: Bölüm 1",
+                "overview": "Alaska'da bir araştırma istasyonunu işleten erkekler kaybolur. Davayı çözmek için Şef Danvers ve Navarro işe koyulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xPa4lsWn8dVkgju3zTjby2cyqHG.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt2356777/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Night Country: Bölüm 2",
+                "overview": "Connolly, Tsalal davasını Anchorage’a devretmekle tehdit ederken, Navarro ve Danvers, eski meslektaşlarını birbirine yakınlaştıran bir keşif yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oasmeDFjzqFMyT7n9XTkONMmR0N.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt2356777/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Night Country: Bölüm 3",
+                "overview": "Clark'ı ararken, Prior, Danvers'a Navarro ile olan ortaklıklarını zorlayan davayı sorar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nqrpahxwrfMzAHx0kIxIxuKT9JH.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt2356777/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "Night Country: Bölüm 4",
+                "overview": "Navarro, Julia'nın ruhsal sorunları yeniden ortaya çıkınca onu yerel bir tesise götürür ve iyileşme sözü verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tVGXg2x5PIOZFlBzBXbpgT07kr0.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt2356777/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Night Country: Bölüm 5",
+                "overview": "Tsalal ile Silver Sky madenciliği arasındaki bağlantıları araştırırken, Navarro, Leah'yı şiddetli bir protestodan kurtarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lzoP47WoFLNDQJbmkHHeFlUOTRC.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt2356777/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Night Country: Bölüm 6",
+                "overview": "Ennis, Alaska'da gece çökerken, Tsalal Kutup Araştırma İstasyonu'nu işleten sekiz adam iz bırakmadan kaybolur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/24TSb2DLvvIhSw7dUs3UaCdtA2z.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt2356777/s4/e06"
+            }
+        ],
+        "update_date": "2026-02-15 08:18:52"
+    },
+    {
         "id": 200875,
         "imdb_id": "tt19244304",
         "name": "IT: Welcome to Derry",

@@ -2,23 +2,146 @@
     "id": 253645,
     "imdb_id": "tt21308746",
     "name": "RU",
+    "original_name": "RU",
+    "overview": "Bitti derken başlayan bir hikâye… Ege’de bir sahil kasabasında her şeye rağmen yaşanan sıra dışı bir aşk… 38 yaşında bir kadın ve 18 yaşında bir erkek: Reyan ile Uzer.",
     "poster": "https://image.tmdb.org/t/p/w500/4KLX2hdcx7PxEUGmHx8uyC8RvMT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/oELHvSICZP9tck17Y5J91v9bNKh.jpg",
     "year": "2024",
+    "rating": 5.8,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "MBC Shahid",
+        "Yerli",
+        "GAİN"
+    ],
     "cast": [
-        "Meryem Uzerli",
-        "Burak Berkay Akgül",
-        "Hira Koyuncuoğlu",
-        "Gökay Türkmen",
-        "Zafer Algöz"
+        {
+            "name": "Meryem Uzerli",
+            "role": "Reyan",
+            "image": "https://image.tmdb.org/t/p/w200/xWb9GuPDFmrLCpuocFs45O3rG0W.jpg"
+        },
+        {
+            "name": "Burak Berkay Akgül",
+            "role": "Uzer",
+            "image": "https://image.tmdb.org/t/p/w200/2aKRwes8CWVYZ6hIc6RGihoLhP1.jpg"
+        },
+        {
+            "name": "Hira Koyuncuoğlu",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/4erl37pRjipRyhMVvLe2qjDoIRH.jpg"
+        },
+        {
+            "name": "Gökay Türkmen",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/yaQRhTVnPMuoJ0WJa9ZBS6G60uf.jpg"
+        },
+        {
+            "name": "Zafer Algöz",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/w1Rai0k7OWpb2jd3UM2SKlqlODK.jpg"
+        },
+        {
+            "name": "Emre Karayel",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/69dymhIGYJDMSoCQpOLWqSU7h3q.jpg"
+        },
+        {
+            "name": "Kartal Can Ermiş",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/7zh3fZJQxVp5GExcuSFa1f2LQwM.jpg"
+        },
+        {
+            "name": "Beril Kayar",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/uX64MhuGAo3RJKp6M10G3GEOk8j.jpg"
+        },
+        {
+            "name": "Sevgi Temel",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/45FdvTwxMPjiyWOkAQWf4HRSuw0.jpg"
+        },
+        {
+            "name": "Derya Alabora",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/yo604o4JMIssavEBWn3ULE72eLT.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Ege’nin Kokusu",
+            "overview": "Üniversite sınavından sonra Uzer, alışveriş için bostana uğrar ve Reyan’la tanışır. Reyan, Uzer'in doğum günü için RU’da bir masa hazırlar. O gece Reyan'ın hayatı bir olayla alt üst olur ve bir kez daha Uzer'le karşılaşırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/37CONBSNqK1FmupXGyUinEVfCbj.jpg",
+            "vote_average": 9.0,
             "link": "https://vidmody.com/vs/tt21308746/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Sen Sıfırsın",
+            "overview": "Reyan’ın hayatı Emir’in ihaneti sonrası alt üst olur. RU’yu kaybetmek istemeyen Reyan’a ise Uzer yardım edecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b6H1ApBqreODxsdAcifbbtu47MI.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Dur Dur Dur Duralım",
+            "overview": "RU yeni bir şefle tanışır fakat açılış günü olaylı geçer. Uzer ise Reyan’a bir doğum günü hediyesi hazırlar. Aralarındaki çekime karşı koyamayan Reyan ve Uzer’i bir sürpriz beklemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/q8Nlt0fDVwwDonkGWLn8Pl92jsp.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "İyi Misin?",
+            "overview": "Reyan, annesinin ve Emir’in baskıları sonucu bir karar verir. Bu karar Uzer’i üzecek ve yanlış kararlar vermesine sebep olacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8j85kRJqh1ECF3nDIoWirPfdiaV.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Aşk Neymiş Arkadaş!",
+            "overview": "Reyan, Uzer’in hediyesine çok mutlu olur ve birlikte güzel bir gün geçirirler. Deniz’in ise Uzer’e yapacağı konuşma Uzer’i oldukça üzecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AlKjN2n9DRwGSmzUkKX62vDArF2.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Sen Beni Kıskandın",
+            "overview": "Deniz, vedalaşmak için RU’ya gelir. Bu sırada Reyan RU’yu kaybetmeye yakındır. Tam bu sırada Uzer’in aklına RU’yu kurtaracak bir fikir gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pPF8a6cbbGcmWKTJnklUsbuCyD8.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Her Şey Kafada",
+            "overview": "Reyan ve Uzer, kısa bir süreliğine Urla’dan uzaklaşır. Döndüklerinde ünlü bir gurmenin Urla’ya geleceğini öğrenirler. Mete ve Deniz’in ise araları düzelmiştir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dftIZbIqz34klTEqaJg7yN4QW3G.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Son Kahvaltı",
+            "overview": "Emir’in tatsız sürprizi Reyan’ı zor durumda bırakır ve tüm çevresiyle yüzleşmek zorunda kalır. Bu sırada Uzer arkadaşlarıyla barışır ve Reyan’ı annesiyle tanıştırmak ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vCiQ9nHb4yq1MjetjngzWJ5T2mm.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt21308746/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 07:03:36"
 }

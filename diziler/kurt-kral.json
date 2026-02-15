@@ -2,23 +2,181 @@
     "id": 231727,
     "imdb_id": "tt20917940",
     "name": "Kurt Kral",
+    "original_name": "Wolf King",
+    "overview": "Bu fantastik macera dizisinde halk tabakasından bir genç, yetişkinliğe adım attığında kökleri gerilere uzanan bir kurt adam soyunun sonuncusu ve tahtın vârisi olduğunu öğrenir.",
     "poster": "https://image.tmdb.org/t/p/w500/jgs2AtxtOMRuVHYjSofbv3P9WnN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/fs4roTMxY3rMKECOMveWpUBQ1XY.jpg",
     "year": "2025",
+    "rating": 7.2,
     "genres": [
         "Animasyon",
         "Aksiyon & Macera",
         "Çocuklar",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Animasyon",
+        "Netflix"
+    ],
     "cast": [
-        "Nina Barker-Francis",
-        "Ceallach Spellman"
+        {
+            "name": "Nina Barker-Francis",
+            "role": "Whitley (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/cxLvNLHY13Bj5Gr8ZOBYqs4KM0o.jpg"
+        },
+        {
+            "name": "Ceallach Spellman",
+            "role": "Drew (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/gUNQGvkOrZCT0qC3r0c6LUAEN4R.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Kurdun Yükselişi",
+            "overview": "Mehtaplı bir gecede, sıradan görünümlü genç Drew Ferran, kendinde tuhaf değişiklikler fark edince onu yepyeni ve değişik bir dünyaya götürecek bir aile sırrını ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/roBDpeUhX13QZ0BFP5fF1WcmFt1.jpg",
+            "vote_average": 6.4,
             "link": "https://vidmody.com/vs/tt20917940/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Brackenholme",
+            "overview": "Kibirli Aslan prens nişanlanmayı beklerken Whitley, majister olmak için eğitim alan Hector'a danışır. Drew yetenekleriyle ilgili birçok şey öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3lqwRpPg7BQFFIlM08DFiatebK5.jpg",
+            "vote_average": 1.0,
+            "link": "https://vidmody.com/vs/tt20917940/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kafesteki Yaratık",
+            "overview": "Yalnız bir Kurt'un dönüşüyle ilgili söylentilerin arasında bir gelin adayı çıkagelir. Dük Bergan, Drew'a kökenlerini anlatır. Prens Lucas ve Lord Vankaskan saldırmaya hazırlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zfudt0JRxURSkQVXnHEU3oBpbkB.jpg",
+            "vote_average": 1.0,
+            "link": "https://vidmody.com/vs/tt20917940/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Wyrmwood",
+            "overview": "Brackenholme'dan korkusuzca kaçan Drew kendini tehlikeli sularda bulur ve labirenti andıran lanetli bir ormana gelir. Neyse ki yalnız değildir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dQsYozPq44VpeLG7qKtNS6gC5ex.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Motley'ye Dönüş",
+            "overview": "Hector ve Gretchen, yaralı Drew'u eve götürür. Drew burada eski bir dostuna kavuşur ve onu rehberine götürecek bir ipucunu ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6sFOZSkqhPbcTqfrm4BSJZ3lBiE.jpg",
+            "vote_average": 1.0,
+            "link": "https://vidmody.com/vs/tt20917940/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Maelstrom",
+            "overview": "Üç arkadaş, Kont Vega'yı bulmak için All Hallows Koyu'nda bir arama çalışması başlatır. Ama bir korsana güvenmek mümkün müdür? Kral Leopold, Ayı Lordları ininde karşılar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hvgYs5tA9OL1vLk9VdyOIo8ggZ3.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Zincire Vurulmuş",
+            "overview": "The Maelstrom, hem müttefiklerin hem de düşmanların pusuda beklediği Westland'e doğru yelken açar. Zaman daralırken Whitley önemli bir keşifte bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vBuhC9wSxvZat2PrYMXIR0SHxpX.jpg",
+            "vote_average": 1.0,
+            "link": "https://vidmody.com/vs/tt20917940/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Aslanın Düşüşü",
+            "overview": "Krallık aynı günde hem bir düğün hem de bir idam için hazırlık yaparken Drew'un hayatı tehlikededir. Fakat kaderin bir cilvesiyle her şey değişebilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b5FhasZxcJmmAI8CT2UlUSYsR9N.jpg",
+            "vote_average": 1.0,
+            "link": "https://vidmody.com/vs/tt20917940/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Kurdun Bekleyişi",
+            "overview": "Drew, asilzadeliğin baskılarıyla ve uğursuz bir kehanetin gölgesiyle boğuşurken cüretkâr bir suç, onun dünyasını altüst edip harekete geçmesine sebep olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e9tODQz7pVqtQ3SUVyN1wsZkksK.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Baba Korga",
+            "overview": "Drew ve Whitley, Gretchen ile Lucas’ı bulmak için ipuçlarını takip ederken ormanda gizemli bir kadınla karşılaşırlar. Vincent, Hector’a davetsiz bir ziyarette bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cGGeVSk7dqMoLaPAnidQ4q0HJNS.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Isırık",
+            "overview": "Durumu giderek ağırlaşan Whitley, Drew'u korumak için gizlice bir şifacıyla görüşmeye kalkar. Hector, beklenmedik bir kaynaktan tavsiye ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vvtZE9pfESuOBE7D53t7lGlgE1E.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Haggard Cehenneme Dönüyor",
+            "overview": "Öfke saçan bir Keçi Lordu'yla ters düşen Drew, kendi zihninin tutsağı olur. Leopold, Kurt Konseyi’yle bir görüşme talep eder. Acaba bu görüşme bir tuzak mıdır?",
+            "still_path": "https://image.tmdb.org/t/p/w400/muglfj1QZ0bX7B3q9Oh5paDCig1.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Fırtına Kopmak Üzere",
+            "overview": "Gala Burnu'na varan Drew ve ekibini, gerçek olamayacak kadar nazik ve karizmatik bir At Lordu karşılar. Bergan, Kraliçe'nin tüm uyarılarına rağmen intikam yemini eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qBCWEvkqavzydbPQPUT9wcBWZka.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Hesaplaşma",
+            "overview": "Şeytani bir plan ortaya çıkarken, Lucas misafirler için bir karşılama hazırlar. Hector peşini bir türlü bırakmayan hayaletle yüzleşir. Bir aile buluşması beklenmedik bir hâl alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l4Lq9nhgs6dPUJlI0dWKdnzI9QB.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Fidye",
+            "overview": "Highcliff kuşatma altındayken, bir Ayı ve bir Aslan savaş meydanında çarpışır. Gretchen, Whitley'ye trajik bir haber vermekte zorlanır. Hector güçlerini kontrol etmeyi öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7mCYcKsWV9vF8OJ40o5lglmWNv7.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Kurdun Düşüşü",
+            "overview": "Whitley ve Gretchen savaşmak için beklenmedik müttefiklerden yardım alır. Drew krallığını ve sevdiği insanları kurtarmak adına cesaret dolu bir adım atmak zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oi26u0M8fcFfWGe4IIMkH2gncGt.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt20917940/s2/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 06:51:07"
 }

@@ -2,24 +2,132 @@
     "id": 278100,
     "imdb_id": "tt24243760",
     "name": "Kasaba",
+    "original_name": "Kasaba",
+    "overview": "Efe, Selim, Begüm ve Ahmet... Hepsi paradan yana sıkıntılı. Doğup büyüdükleri kasabada buldukları yüklü miktardaki çalıntı para hem ilişkilerini hem ahlaki değerlerini sınayacak.",
     "poster": "https://image.tmdb.org/t/p/w500/uFiVVvUAvCuoXOAvwKGxzNjvsIK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/gYSE4tc6Cl9eZ3p8md2y9j2NI2w.jpg",
     "year": "2025",
+    "rating": 6.1,
     "genres": [
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Yerli",
+        "Netflix"
+    ],
     "cast": [
-        "Okan Yalabık",
-        "Özgürcan Çevik",
-        "Ozan Dolunay",
-        "Büşra Develi",
-        "Kerem Can"
+        {
+            "name": "Okan Yalabık",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/xWbbpbln5lL2nlaPKDzGrxWe10E.jpg"
+        },
+        {
+            "name": "Özgürcan Çevik",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/r6kwjyZnOi67YBPjaniDxN7CKLw.jpg"
+        },
+        {
+            "name": "Ozan Dolunay",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/vLXxGS3DOlK5C8nbAPVndWurnmu.jpg"
+        },
+        {
+            "name": "Büşra Develi",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/3LJrnviAJtlEkkoDa2p0IzAAtJ5.jpg"
+        },
+        {
+            "name": "Kerem Can",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/vDn3fKe80dBB5BsTC7HKiitOl03.jpg"
+        },
+        {
+            "name": "Açelya Devrim Yılhan",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/f33V0utb49jnkgZlL1gtRVArqMP.jpg"
+        },
+        {
+            "name": "Sarp Aydınoğlu",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/kyWeVHrzMYyDDbYAg90hmvxrMU9.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Efe ve Selim kardeşler, annelerinin vefatından sonra maddi sıkıntıya düşer. Ama hiç ummadıkları bir anda karşılarına çıkan fırsat sorunlarını çözebilecek gibidir.",
+            "still_path": "",
+            "vote_average": 7.0,
             "link": "https://vidmody.com/vs/tt24243760/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Begüm'ün planı işe yaramayınca Efe, Selim'den kasabadan ayrılmasını ister. Ahmet daha önce karşılaştığı adama her yerde rastlamaya başlar.",
+            "still_path": "",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24243760/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Ahmet'in pervasızca para harcadığını gören Yıldırım, paranın izini sürmek için elinden geleni ardına koymaz.",
+            "still_path": "",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24243760/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Ahmet şuursuzca ateş etmeye başlayınca yaralananlar olur. Geçmişteki travmatik bir olayı hatırlayan Efe, vicdanını rahatlatmak için eski bir arkadaşına ulaşır.",
+            "still_path": "",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24243760/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Yıldırım ölümle burun buruna gelince Efe ile Ahmet vicdanlarının sesini dinler. Müfit ise başına büyük bir bela alır.",
+            "still_path": "",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24243760/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Müfit'in nerede olduğu hakkında yalan söyleyen Ahmet, suçluluk ve utanç duygularıyla boğuşur. Ama artık hepsi kaderlerinden kaçamayacak kadar derin sırlara bulaşmıştır.",
+            "still_path": "",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24243760/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Selim'in hastaneden kaçtığını düşünen polis, kardeşini bulması için Efe'yi hapisten salıverir. Fakat Efe, Selim'in akıbetini öğrenince ipler kopar.",
+            "still_path": "",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24243760/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Efe, kayıt altında verdiği ifadede işlenen tüm suçların sorumluluğunu üstlenir. Duruma kayıtsız kalamayan Begüm, Efe'nin yardımına koşar.",
+            "still_path": "",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt24243760/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 08:40:41"
 }

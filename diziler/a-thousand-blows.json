@@ -2,23 +2,181 @@
     "id": 208851,
     "imdb_id": "tt21874900",
     "name": "A Thousand Blows",
+    "original_name": "A Thousand Blows",
+    "overview": "Jamaikalı iki arkadaş olan Hezekiah ve Alec, kendilerini Londra'nın East End bölgesindeki suç dünyasının içinde bulurlar. Burada Kırk Fil olarak bilinen ve tamamı kadınlardan oluşan bir çetenin kraliçesi Mary Carr'le tanışırlar ve suç kralı ve kötü şöhretli boksör Sugar Goodson ile ters düşerler.",
     "poster": "https://image.tmdb.org/t/p/w500/598wQ3wr0fxpGemkR7ZVFTuHPXg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wSGkPylFW731ZPAMP6XMAzJ5CcJ.jpg",
     "year": "2025",
+    "rating": 6.6,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Hulu",
+        "Disney+"
+    ],
     "cast": [
-        "Malachi Kirby",
-        "Erin Doherty",
-        "James Nelson-Joyce",
-        "Jason Tobin",
-        "Darci Shaw"
+        {
+            "name": "Malachi Kirby",
+            "role": "Hezekiah Moscow",
+            "image": "https://image.tmdb.org/t/p/w200/8v1anxRcmDRDaVS7Cpk4KCoGPK4.jpg"
+        },
+        {
+            "name": "Erin Doherty",
+            "role": "Mary Carr",
+            "image": "https://image.tmdb.org/t/p/w200/brqo9iAILtnkWj1WaQKUCNxLGfQ.jpg"
+        },
+        {
+            "name": "Stephen Graham",
+            "role": "Henry 'Sugar' Goodson",
+            "image": "https://image.tmdb.org/t/p/w200/wjDQ7MzciEsRwWDFbemcM1hS0aq.jpg"
+        },
+        {
+            "name": "Caoilfhionn Dunne",
+            "role": "Anne Glover",
+            "image": "https://image.tmdb.org/t/p/w200/96GTcKtmXe0mU9yaMhGvRxrqkJU.jpg"
+        },
+        {
+            "name": "Morgan Hilaire",
+            "role": "Esme Long",
+            "image": "https://image.tmdb.org/t/p/w200/v8OZOfl2ruceYxCyRtghsYzvof.jpg"
+        },
+        {
+            "name": "Jemma Carlton",
+            "role": "Belle Downer",
+            "image": "https://image.tmdb.org/t/p/w200/sx8sycNV4l5T4AZFyUn6L46zuVW.jpg"
+        },
+        {
+            "name": "James Nelson-Joyce",
+            "role": "Edward 'Treacle' Goodson",
+            "image": "https://image.tmdb.org/t/p/w200/tnzCnFoyR98ChW1z7T5wo196fxR.jpg"
+        },
+        {
+            "name": "Hannah Walters",
+            "role": "Eliza Moody",
+            "image": "https://image.tmdb.org/t/p/w200/6kJKB5PTrOrYBh2PJ0yylRYA1pV.jpg"
+        },
+        {
+            "name": "Darci Shaw",
+            "role": "Alice Diamond",
+            "image": "https://image.tmdb.org/t/p/w200/6cQ8H9xT7LtxqYI96o1grYwo3bq.jpg"
+        },
+        {
+            "name": "Nadia Albina",
+            "role": "Verity Ross",
+            "image": "https://image.tmdb.org/t/p/w200/zFIWlR7ubAAl59jWGAMoCWmGKL9.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Episode 1",
+            "overview": "Hezekiah ve Alec servet kazanmak için Londra'ya gelir ve cazibeli suçlu Mary Carr'la tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cFfIKEqnekJbEJVoSmvx4VKkbw1.jpg",
+            "vote_average": 5.9,
             "link": "https://vidmody.com/vs/tt21874900/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Episode 2",
+            "overview": "Mary soygun planlarını hızlandırırken Hezekiah ve Sugar'ın arasındaki rekabet giderek artar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jVDFgo3NglO2Te0Qkdiq2rZ0jp.jpg",
+            "vote_average": 4.9,
+            "link": "https://vidmody.com/vs/tt21874900/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Episode 3",
+            "overview": "Bir bomba saldırısıyla Wapping sarsılır, Hezekiah huylanır ve Mary ile Sugar'ın planları zora girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dey14dBNOAZkrslOzl4Wm7hIi4b.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt21874900/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Episode 4",
+            "overview": "Mary Carr'ın soygunu gerçekleşecektir ve Hezekiah’yla Lao da dahil olmak üzere herkes hazırdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2sn6Fk7Ozk5GQUUqrkWqm5Y0RQH.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt21874900/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Episode 5",
+            "overview": "Hezekiah boks dünyasında yükselirken, Mary Lao'nun soygunda yaptıklarından dolayı zor durumdadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gOuaw1ASZ8vHni1c3IjG4RkxJL8.jpg",
+            "vote_average": 4.9,
+            "link": "https://vidmody.com/vs/tt21874900/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Episode 6",
+            "overview": "Olayın etkisinden çıkamayan Hezekiah unvan maçına hazırlanırken, Mary daha da zor duruma düşmüştür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rSMM8vmHPXy5aA9HIxkyFrSxAhH.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt21874900/s1/e06"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Episode 1",
+            "overview": "Hezekiah'nın eski hâlinden eser kalmamış; Sugar Goodson ise kendini içkiye vurmuştur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iuLAe8R5nlx9bL3ovNj7IWDbyvY.jpg",
+            "vote_average": 3.2,
+            "link": "https://vidmody.com/vs/tt21874900/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Episode 2",
+            "overview": "Londra’nın Hezekiah’yla işi bitmemiştir. Mary hamlesini yapar, savaş kapıdadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y4qlsooZ8ee3ICPeF1xB8yn5OIT.jpg",
+            "vote_average": 3.3,
+            "link": "https://vidmody.com/vs/tt21874900/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Episode 3",
+            "overview": "Savaş ağır sonuçlar doğurur. Mary'nin yeni gelen suç ortağı ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dMBAGaJ8K8LZ0pthMjNlYc6a86R.jpg",
+            "vote_average": 2.8,
+            "link": "https://vidmody.com/vs/tt21874900/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Episode 4",
+            "overview": "Dövüş geceleri tekrar başlar. Sugar zor bir karar vermelidir. Sophie,Mary’nin yardımına muhtaçtır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6mE97l26QKKLfeP7itnHBYTJXOF.jpg",
+            "vote_average": 2.4,
+            "link": "https://vidmody.com/vs/tt21874900/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Episode 5",
+            "overview": "Sugar, Treacle’la yüzleşir. Hezekiah’nın öğrencisi dövüşürken Mary’nin hayatı tehlikededir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7x6Atlj8KeHLU90ErUlRLDcy7dh.jpg",
+            "vote_average": 2.8,
+            "link": "https://vidmody.com/vs/tt21874900/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Episode 6",
+            "overview": "Murtagh baskıyı artırırken Hezekiah, Sugar ve Mary için işler içinden çıkılmaz hâle gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aQOHLGWsU4XntCQPCk9ECdc4SDE.jpg",
+            "vote_average": 2.4,
+            "link": "https://vidmody.com/vs/tt21874900/s2/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 07:26:30"
 }

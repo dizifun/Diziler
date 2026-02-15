@@ -2,22 +2,120 @@
     "id": 225171,
     "imdb_id": "tt22202452",
     "name": "Pluribus",
-    "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "original_name": "Pluribus",
+    "overview": "Dünyanın en perişan insanının dünyayı mutluluktan kurtarması gerekir.",
+    "poster": "https://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/m96iaX6b4bKaD9xME9JOQghBrqC.jpg",
     "year": "2025",
+    "rating": 7.9,
     "genres": [
         "Dram",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Apple TV"
+    ],
     "cast": [
-        "Rhea Seehorn",
-        "Karolina Wydra",
-        "Carlos-Manuel Vesga"
+        {
+            "name": "Rhea Seehorn",
+            "role": "Carol Sturka",
+            "image": "https://image.tmdb.org/t/p/w200/t78ffWaeKkdGfnEGNb8TwsoxeHi.jpg"
+        },
+        {
+            "name": "Karolina Wydra",
+            "role": "Zosia",
+            "image": "https://image.tmdb.org/t/p/w200/141nqX6Ikw7sXgWAkMTEbLbzqpU.jpg"
+        },
+        {
+            "name": "Carlos-Manuel Vesga",
+            "role": "Manousos Oviedo",
+            "image": "https://image.tmdb.org/t/p/w200/crm5YcUTtb5pXhZbJsATA8EAoPD.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Biz Bizleriz",
+            "overview": "Bir astronomun keşfi gezegeni altüst eder. Huysuz bir roman yazarı olan Carol Sturka, bu garip yeni dünyadan korkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5abqAAPKjFDqmNwLb0sCtGlS8aj.jpg",
+            "vote_average": 8.3,
             "link": "https://vidmody.com/vs/tt22202452/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Korsan Kadın",
+            "overview": "Tuhaf biçimde tanıdık bir yüz, Carol'ı garip yeni normalle tanıştırır. Avrupa'daki bir buluşma yabancıları bir araya getirir ve sürtüşmeye yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3uTzBoc6zkcKRexqB6nEhQYOglb.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt22202452/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "El Bombası",
+            "overview": "Dünya sadece yardım etmek ister, bu da Carol'ı çileden çıkarır. Samimi bir sohbet patlamayla biter.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b2PaM8KcHLS2TIwQOyTSyiIn9FF.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt22202452/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Lütfen Carol",
+            "overview": "Carol, bu garip derecede dürüst dünyanın sınırlarını egosunu hiçe sayarak test eder. Uzakta, kararlı bir kişi yalnız olmadığını öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7HyFmXC7ydtA4aKzlimCPGLcdxJ.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt22202452/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Sütlü",
+            "overview": "Carol, yalnızlığa aldırmadan araştırmasına kararlılıkla devam eder. Bu arada, gece duyulan ulumalar yeni bir tehlike kaynağını ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7dQXHMP7irZNis7erI8mHL3p8Ve.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt22202452/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "İKP",
+            "overview": "Carol korkunç bir keşfi paylaşır ve bu süreçte yeni gerçekler öğrenir. Bay Diabaté, Günah Şehri'nde hayatı dolu dolu yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u7RyWMcyi3Fhyr5UPlyYFuVJTYP.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt22202452/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Geçit",
+            "overview": "Manousos, Carol'la buluşmak için tehlikeli bir yolculuğa çıkar. Las Vegas'tan eve dönen Carol, isyanında yaratıcı davranır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt22202452/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Sempati Taarruzu",
+            "overview": "Carol, Ötekiler'e karşı farklı bir yaklaşım dener ve beklediğinden fazlasını keşfeder. Manousos, tanımadığı bir yerde uyanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/d3uHwrDjnyfXv6Vradm88Xw2nV1.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt22202452/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "La Chica o El Mundo",
+            "overview": "Manousos Albuquerque'ye varır ve işler karışır. Carol, Dünya'daki son en iyi yeri ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gykreh1ZKPlQDucTvrNOYf7Ccxp.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt22202452/s1/e09"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 07:40:44"
 }
