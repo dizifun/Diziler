@@ -2,26 +2,133 @@
     "id": 82452,
     "imdb_id": "tt9018736",
     "name": "Avatar the Last Airbender",
+    "original_name": "Avatar the Last Airbender",
+    "overview": "Avatar olarak bilinen bir çocuk, savaş hâlindeki dünyayı kurtarmak için dört element gücünde de ustalaşmalı ve onu durdurmaya kararlı olan acımasız bir düşmanla savaşmalıdır.",
     "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/imlTCObfzISogbvcwB1dokoXAIc.jpg",
     "year": "2024",
+    "rating": 7.8,
     "genres": [
         "Aksiyon & Macera",
         "Dram",
         "Aile",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Gordon Cormier",
-        "Kiawentiio",
-        "Ian Ousley",
-        "Dallas Liu",
-        "Ken Leung"
+        {
+            "name": "Gordon Cormier",
+            "role": "Aang",
+            "image": "https://image.tmdb.org/t/p/w200/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg"
+        },
+        {
+            "name": "Kiawentiio",
+            "role": "Katara",
+            "image": "https://image.tmdb.org/t/p/w200/feaB7zjNi9WICHQU30a80d51DpR.jpg"
+        },
+        {
+            "name": "Ian Ousley",
+            "role": "Sokka",
+            "image": "https://image.tmdb.org/t/p/w200/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg"
+        },
+        {
+            "name": "Dallas Liu",
+            "role": "Zuko",
+            "image": "https://image.tmdb.org/t/p/w200/aismdzGeONTJHiPfofNaKGZSKZu.jpg"
+        },
+        {
+            "name": "Ken Leung",
+            "role": "Commander Zhao",
+            "image": "https://image.tmdb.org/t/p/w200/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+        },
+        {
+            "name": "Paul Sun-Hyung Lee",
+            "role": "Uncle Iroh",
+            "image": "https://image.tmdb.org/t/p/w200/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg"
+        },
+        {
+            "name": "Daniel Dae Kim",
+            "role": "Fire Lord Ozai",
+            "image": "https://image.tmdb.org/t/p/w200/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Aang",
+            "overview": "Savaşın patlak vermesinin ardından bir hava bükücü, yeni gerçekliğini kabullenmeye çalışır. Bir yüz yıl sonra Su Kabilesi'nden iki kardeş, her şeyi değiştiren bir keşif yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3eLPQfIOva0RSAoviRgNqBtqPck.jpg",
+            "vote_average": 7.9,
             "link": "https://vidmody.com/vs/tt9018736/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Savaşçılar",
+            "overview": "Aang, Katarae ve Sokka, adını Avatar Kyoshi'den alan ve elit savaşçıların evi olan küçük bir adaya varır. Ateş Ulusu, Avatar'ın nerede olduğunu öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fBg3ih6klXw61XGMAhaXucHhomo.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt9018736/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Omashu",
+            "overview": "Bir hainle ilgili haberler yüzünden Omashu'da anlaşmazlığa düşen üçlünün Toprak Krallığı'nı koruma planları, bir mekanist ile çekici bir lidere sahip asiler tarafından bozulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k05PJk3Ym75fWZ43TzWwA6KZ202.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt9018736/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Karanlığa Doğru",
+            "overview": "Aang, hapiste oyunları çok seven bir kralla tanışır. Kız kardeşler, arkadaşlarını bulabilmek için farklılıklarını bir kenara koyup karanlık bir tünelde yollarını bulmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zEKE4WLjHImmn9xAl1OCFxSroVQ.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt9018736/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Ruhların Kaçışı",
+            "overview": "Ekip bir kurtarma görevi için Ruhlar Dünyası'na girdiğinde ciddi tehditler, acı veren hatıralar ve gizemli bir varlıkla yüz yüze gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cVbAWz6K87JgF8iYjzZL1DA3BEl.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt9018736/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Maskeler",
+            "overview": "Çaresiz Aang, Ateş Ulusu hızla yaklaşırken yardım istemek için Avatar Roku'yu ziyaret eder. Maskeli bir davetsiz misafir Aang'ı hapsedildiği kaleden kurtarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ydSEm8QnzgMDWYz4Z3dvhbsmhZH.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt9018736/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Kuzey",
+            "overview": "Kuzey Su Kabilesi'ne yapılacak saldırı yaklaşırken Katara, usta bir su bükücüye meydan okur. Sokka bir prensesle tanışır ve Aang Kuruk'un sözlerinden etkilenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l5n5OwFQPH0NyuBA4NEySAoO8hL.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt9018736/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Efsaneler",
+            "overview": "Zhao, Su Kabilesi'ni zayıflatmaya yönelik cesur bir planla Ateş Ulusu'nu Kuzey'e götürür. Savaş karanlık bir hâl alınca Aang güçlü bir dönüşüm geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ms2trhGJv7yWUe8doDMa9EHccAS.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt9018736/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 20:22:16"
 }

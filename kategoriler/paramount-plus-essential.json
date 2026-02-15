@@ -1,5 +1,642 @@
 [
     {
+        "id": 86848,
+        "imdb_id": "tt9055008",
+        "name": "Evil",
+        "original_name": "Evil",
+        "overview": "Şüpheci bir kadın, sözde mucizelere ve doğaüstü olaylara inanmazken. Psikoloji alanında gösterdiği başarısından dolayı gizemli bir ekibe katılır. Şeytan çıkarma, açıklanamayan olaylar artık onun yeni mesleği olacaktır ama olayların ardında bilimsel bir açıklama olduğu düşüncesi ve olaylara şüpheli bakışı yaşadıklarıyla değişebilir.",
+        "poster": "https://image.tmdb.org/t/p/w500/auRAAVxlyT6YACql96UdtnpFHy3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/ttB60pxSxMyyW9mIDlq89RLf0vQ.jpg",
+        "year": "2019",
+        "rating": 7.8,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "CBS",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Katja Herbers",
+                "role": "Dr Kristen Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/hGpfEsOtnF9o3KWRhpNZ0G3CqmT.jpg"
+            },
+            {
+                "name": "Mike Colter",
+                "role": "David Acosta",
+                "image": "https://image.tmdb.org/t/p/w200/9LG9AzoY2ak6M2kwhKlGkLOUUot.jpg"
+            },
+            {
+                "name": "Aasif Mandvi",
+                "role": "Ben Shakir",
+                "image": "https://image.tmdb.org/t/p/w200/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+            },
+            {
+                "name": "Michael Emerson",
+                "role": "Dr Leland Townsend",
+                "image": "https://image.tmdb.org/t/p/w200/xOpr90SF1RCtjFNTu32nZQ90buY.jpg"
+            },
+            {
+                "name": "Brooklyn Shuck",
+                "role": "Lynn Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/2MkKPXiiT5GVl7808A8JaN2U7Cm.jpg"
+            },
+            {
+                "name": "Skylar Gray",
+                "role": "Lila Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/fnwxu7FBuRRYVTyDhAswQYPF4ZR.jpg"
+            },
+            {
+                "name": "Maddy Crocco",
+                "role": "Lexis Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/9vBiLOoMbrOh8NHBZS2qb0lBZFt.jpg"
+            },
+            {
+                "name": "Dalya Knapp",
+                "role": "Laura Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/lRxkJeR4s21nNZT0XZFsmtIzUii.jpg"
+            },
+            {
+                "name": "Andrea Martin",
+                "role": "Sister Andrea",
+                "image": "https://image.tmdb.org/t/p/w200/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
+            },
+            {
+                "name": "Kurt Fuller",
+                "role": "Dr. Kurt Boggs",
+                "image": "https://image.tmdb.org/t/p/w200/kV02XLACLFd1YYQdSOgqy6lFmQ3.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Adli psikolog Kristen Bouchard, eğitim süreci devam eden rahip David Acosta ve onun araştırmacı ortağı Ben Shroff bir seri katille ilgili araştırma yaparlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rxpKw9TPNZ3ZQJZZS1e6wKUguLl.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "177 Minutes",
+                "overview": "Kristen, David ve Ben iki saat ölü kaldıktan sonra yeniden hayata döndüğü açıklanan bir genç kızla ilgili gizemi aydınlatmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nTgCqCJw8gKX49u9jPL6lAl5E7R.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3.Stars",
+                "overview": "Kristen, David ve Ben; davranışları birdenbire değişen bir tiyatrocu hakkında araştırma yapmak için çağırılırlar. K.O.: John Glover, Dascha Polanco",
+                "still_path": "https://image.tmdb.org/t/p/w400/suikPRzJGRWGgkhRu8hIDeZP2a.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Rose",
+                "overview": "Kristen, Ben ve David şiddete eğilimi olan 9 yaşındaki bir çocuğu değerlendirmek üzere işe alırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jOofcXvmvLYmShUcnVEtgWq6BZP.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "October",
+                "overview": "Kristen ve David Cadılar Bayramı Gecesi'nde bir şeytan çıkarma ritüelini analiz etmeye çalışırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wTGYau0Jkc4w9ZAeKNNicq9hTgA.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Let X = 9",
+                "overview": "Kristen, David ve Ben'in yeni görevi kendisini peygamber ilan eden birini değerlendirmektir. Bu sırada Kristen'ın annesi ve Leland görüşmeye başlarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aTj1XN09B4PrO2YbYFjqLgrkUuV.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Vatican III",
+                "overview": "Kristen, David ve Ben'in yeni görevi cinayet işlediğini itiraf eden bir kadının söylediklerinin doğru olup olmadığını araştırmaktır. K.O:Annaleigh Ashford.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7onOoxheZ766nZSXYFkADkhOtFU.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "2 Fathers",
+                "overview": "Babası Leon'un sanat eserlerinden birinde bir mühür olduğunu fark eden David ve Kristen bunun anlamını ve izini sürerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iPsgD7F7jme9gEex8DmDeZHsVmV.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Exorcism Part 2",
+                "overview": "David, Caroline Hopkins'e zarar vermekle suçlanarak dava edildiğini öğrenir. K.O.: Renee Elise Goldsberry, Peter Scolari, Jennifer Ferrin",
+                "still_path": "https://image.tmdb.org/t/p/w400/gQlOYsVwFBx85uCnQxaCIpNnITq.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "7 Swans A Singin'",
+                "overview": "Kristen, Ben ve David genç takipçilerini kötü yönde etkileyen sosyal medya fenomenini ve öğrenciler arasında bağımlılık yapan bir şarkıyı inceler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1XKOe6BKhaNxCHQ6GvXfLiXowQB.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "Room 320",
+                "overview": "Uğradığı saldırıdan sonra ölümle burun buruna gelen David hayatta kalmak için büyük bir mücadele verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dgVSBAd7YLEABxhzLqV3O3NahTk.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "Justice X 2",
+                "overview": "Leland, seri katil Orson Leroux'nun hapisten kurtulmasına yardım etmeye çalışır. Bu sırada Kristen'ın kızı Laura acil olarak kalp ameliyatına alınır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uyT4RCSPIJevyunNBVIrflSfnJC.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "Book 27",
+                "overview": "Ekip, ikiz bebek sahibi olmaya hazırlanan hamile bir kadının iddialarını araştırır. Bu sırada Kristen da kızlarından biriyle ilgili araştırma yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7HKF7qE1LnR6jBIfBjALYwc31Su.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e13"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Gece Terörleri",
+                "overview": "Ekip, Leland'ın ele geçirilme olasılığını değerlendirmekle görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nu35wUO68RbONguT6DPKDBInvZE.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Meleklere",
+                "overview": "Ekip, bir melekten sesler duyduğunu iddia eden adamı sorgulamakla görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kOLP92gl6cF8M11udhE4KbK2nwz.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Ateşte",
+                "overview": "Ekip, bir cin tarafından lanetlenen dokuz yaşındaki Mathilda ile karşılaşır...",
+                "still_path": "https://image.tmdb.org/t/p/w400/qGS8hedCQtsWglXqyVNUqsNElzk.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Asansörde",
+                "overview": "Ekip, Wyatt isimli bir gencin ortadan kaybolmasını araştırmakla görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pLu3FNeMpnLucmHvTpVQVORx7hu.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Zombiler",
+                "overview": "Peder Mulvehill, şeytani bir baskının kurbanı olabileceğinden korktuğu için ekipten gizli bir değerlendirme yapmalarını ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wkEKps25ebsnnub6O7HsY3ZhyFk.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Polisler",
+                "overview": "Silahsız bir kadının vurulmasının ardından ekip, tetiği çeken polis memurunu soruşturmakla görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hF3PvxSIOghnvvlcVHScYTPT5So.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Ekip, ölümünden sonraki bir yıl içinde bedeni çürümeyen Peder Thomas'ın cesedini araştırmak için bir manastıra gönderilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lYPvOrLMWfIg05owUMJqcqRfuSg.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Kristen, David ve Ben, Marx'ın isteği üzerine Cornell üniversitesindeki \"Tanrı Miğferi\" olarak adlandırılan elektrot tabanlı bir deneyi araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/53ydJ3WLDKSFmLLTwenT0QygjEY.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Ekip, bir hava kuvvetleri pilotu tarafından tespit edilen Ufo'nun araştırılması görevini üstlenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ti50ygSDEcaMxAQBAKnfNq1krTQ.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Ben, David ve Kristen, geçmiş vakalardan dolayı RSM tüp bebek kliniğini araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/reizAVHhoXahgUg8aenDffxBmJ3.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e10"
+            },
+            {
+                "season": 2,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Ekip, vergi muafiyeti için dini statü arayan yeni bir örgütün meşruiyetini araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zXnmZkQzSVCszToRXdgv9QkWAmO.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e11"
+            },
+            {
+                "season": 2,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Dr. Bogs'un isteği üzerine ekip, Nathan adında yeni boşanmış bir katolik ve onun genç oğlu Elijah ile tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zK8Eqtqus9l0snNGYU91kTS6L6h.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e12"
+            },
+            {
+                "season": 2,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Ekip, insan eti yemeye yönelik artan bir dürtüsü olan Mitch Jasper isimli öğrenci ile kampüste buluşmaya gönderilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9JFf0QVXbtLpPV1o307trfNQpw3.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e13"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Ekip, insan ruhunun ağırlığını ölçen bir aracı incelemekle görevlendirilir. David'in Kristen ile ilişkisi ise farklı bir boyuta taşınmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zmOpiEZqFKqwGhmdMThOIiKhJV5.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "David, Kristen ve ben gençlerin ölmemek için uygunsuz şeyler yapmasına yol açan ve kısa sürede kontrolden çıkan bir durumu incelerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wmM9MFwdZdFjvHUKNAQwDMl3tZV.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Rahibe Andrea, kötülük tarafından ele geçirilmiş bir evliliği düzeltmek için ekibe katılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gPNARRNJfcAwJ0OfiXmJAHz8sCl.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Ekip, kötü ruhlar tarafından ele geçirilmiş olma olasılığı olan bir kamyon sürücüsüyle karşılaşır ve otoyolda inceleme yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hFZ8MFKBTlf5ZnrXxZh5cvdB2i5.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Leland ile mücadele eden rahibe Andrea'nın kariyeri ve akıl sağlığı sınanmaktadır. O sırada ekip bir melek görüldüğü iddiasının peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g0B6EpFQLpvN44yhbVZdSvOhaYV.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Bekar bir anne, ailesini rahatsız eden açıklanamayan olayları araştırmaları için ekibi görevlendirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/18strmiGpcV8U2mSqwS730PfjvT.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Ekip, kendi iradesi dışında alıkonulan genç bir adamın ele geçirilip geçirilmediğini veya bir tarikatten etkilenip etkilenmediğini araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sguHe5VD7QPqvSX7csLcLJXKYQJ.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Ekip, bir mağazadan gelen lanetli oyuncak ve elektronik eşya ihbarlarına yanıt verir. David, Grace ling'i kurtarmakla görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fL5apVShyyEkmW99gsiSquMVW3J.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Ekip, bir hisse senedi tüyosuna yatırım yapan insanların takip edildiği iddiasını araştırmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ytJaZ2S1hpFfWGAzjS7V6yamkGc.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Huzursuz bir evi araştıran ekip, bitişikteki evin Kristen'in evi olduğunu fark edince şaşkına döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jTH3QHexi3RaKNjEAs5iE1tpDUK.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e10"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Şüpheci bir psikolog, kilisenin açıklanamayan gizemlerle dolu birikimini araştırırken eğitim gören Katolik bir rakip ve mavi yakalı bir kalfayla çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/q5jf4zGvrrOgAd17UaMTwV3qhRC.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Kristen, David ve Ben olası bir kurt adam saldırısını çözmeye çalışır. Andy ise travmasıyla savaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5sKC8EwGmNtvYpRM1jrq4YdMTA5.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Kristen, David ve Ben'i bazı ürünleri araştırmak için domuz çiftliğine götürür. David uzaktan izleme konusunda kendini geliştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bWAOE7AXja6jr9sRfZLppmn64zb.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Şeytan çıkarma ayini isteyen bir çift, net konuşma yeteneklerini ellerinden alan bir iblis tarafından rahatsız edilir ve etkisi ekibe yayılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hZHa4bprmKPcXDm1SGsDesyodZ1.jpg",
+                "vote_average": 4.7,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Bouchard'ın evi kötü güçler tarafından sarılır. Bir yandan ekip Vatikan'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cNlxGLj8MBHwPTzjTvUv9yU8d8C.jpg",
+                "vote_average": 4.2,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Muhtemelen ele geçirilmiş bir dansçı Kristen, David ve Ben'i cadılar meclisi benzeri uygulamaları olan bir dans grubuna götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qaaAMhQFGYqbLYpJwpX1Y5sdkLb.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Kristen annesiyle ilgilenirken Ben ve David kendisine musallat olunduğuna inanan bir tren makinistiyle yolculuk ederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hW00VfhpOGNUV8KV13DaGmKfnEi.jpg",
+                "vote_average": 4.4,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "David, uzaktan izleme sayesinde cinayet ve intiharı düşünen bir adamın hayatına rastlar. Ekip adamı bulmak için acele eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mZPAivneqexYKM8ClfW1EcDQhCF.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Peder Ignatius David, Kristen ve Ben'i ölülerle sahte iletişim kurmak için yapay zeka kullanan bir şirketi araştırmaya yönlendiren kısa mesajlar alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n5WlIdpftT0l2dcxuUQHk4L047R.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Bir kasırga yaklaşırken Kristen, David, Ben ve kızlar en kötüsüne hazırlanırlar.Kristen, yeni komşusunun fırtınadan daha büyük bir tehdit olduğunu fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3kM8xYeAaExZ4QmJrJlhqmv8cpg.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e10"
+            },
+            {
+                "season": 4,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Ekip hayal kırıklığı yaratan bir haber alır. Kristen, Sheryl'in eski arkadaşı olduğunu iddia eden gizemli yabancı Ellie ile tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rX50cpqf18M2rL7Qv0JUoEbP1dD.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e11"
+            },
+            {
+                "season": 4,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Rahibe Andrea ekibe son değerlendirmelerini yapar. Üçü de yeni iş arayışına girer ve David daha da kötü haberler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cjVfQlA1u8S4r9dqux4JzJMbysn.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e12"
+            },
+            {
+                "season": 4,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Vatikan, ekipten bir dehanın doğaüstü inançlar ile olan bağlantıyı araştırmasını ister. Bu arada David Leland ile yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6a62meJFnLwqVM5VuPd3q2Aqq4w.jpg",
+                "vote_average": 3.9,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e13"
+            },
+            {
+                "season": 4,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "Bouchard kızları VR gözlüklerinde yeni bir oyuna başladıktan sonra kaygı verici bir geri sayım başlar. Ekip hiç beklemedikleri bir teklif alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8AxCDFTja4Apklzkm8Trj5S8Pir.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e14"
+            }
+        ],
+        "update_date": "2026-02-15 20:26:35"
+    },
+    {
+        "id": 223530,
+        "imdb_id": "tt8622160",
+        "name": "Star Trek: Starfleet Academy",
+        "original_name": "Star Trek: Starfleet Academy",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
+        "year": "2026",
+        "rating": 4.8,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Holly Hunter",
+                "role": "Nahla Ake",
+                "image": "https://image.tmdb.org/t/p/w200/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+            },
+            {
+                "name": "Sandro Rosta",
+                "role": "Caleb Mir",
+                "image": "https://image.tmdb.org/t/p/w200/y0SPIdGOX8Z1CKCMt4ZhU0QMuxG.jpg"
+            },
+            {
+                "name": "Karim Diane",
+                "role": "Jay-Den Kraag",
+                "image": "https://image.tmdb.org/t/p/w200/1oRkwzDRX5QN52LrpNc6Ot3y3nQ.jpg"
+            },
+            {
+                "name": "Kerrice Brooks",
+                "role": "Series Acclimation Mil 'Sam'",
+                "image": "https://image.tmdb.org/t/p/w200/AfVXStImMwjCfCqMTNdaraJNRme.jpg"
+            },
+            {
+                "name": "George Hawkins",
+                "role": "Darem Reymi",
+                "image": "https://image.tmdb.org/t/p/w200/hG3KQ6Z4RTy7jgxtU4szo1yAWWy.jpg"
+            },
+            {
+                "name": "Bella Shepard",
+                "role": "Genesis Lythe",
+                "image": "https://image.tmdb.org/t/p/w200/6JCwRJNNBXFKqsiixbfbRtSk2F5.jpg"
+            },
+            {
+                "name": "Zoë Steiner",
+                "role": "Tarima Sadal",
+                "image": "https://image.tmdb.org/t/p/w200/35Q3QzPHwV1brW8Vi5tvs90Al0B.jpg"
+            },
+            {
+                "name": "Gina Yashere",
+                "role": "Lura Thok",
+                "image": "https://image.tmdb.org/t/p/w200/Ns2vbmP6RdNyFr8JApjnzOZ2FG.jpg"
+            },
+            {
+                "name": "Robert Picardo",
+                "role": "The Doctor",
+                "image": "https://image.tmdb.org/t/p/w200/9TOY0mhWRMlU5Ur8QHMoDecWs2n.jpg"
+            },
+            {
+                "name": "Tig Notaro",
+                "role": "Jett Reno",
+                "image": "https://image.tmdb.org/t/p/w200/tdZ6XLzIaK0HWWPSM2B5OrOqUC0.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Günümüz Çocukları",
+                "overview": "Zeki bir sokak çocuğu olan Caleb Mir'e yeni açılan Yıldız Filosu Akademisi sınıfına kabul teklifi yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1U61OOu2BCLeqqjdIdSeXCCwDWc.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt8622160/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Beta Testi",
+                "overview": "Yeni akademik yıl başlarken Caleb, Yıldız Filosu Akademisi'nde yerinin olup olmadığını sorguluyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vVrNWCRZqegqRkVa7VEcdAp9WEi.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt8622160/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Öğrencilerimiz Akademi'deki seçkin bir takıma katılmak için yarışırken, Yıldız Filosu Akademisi ile rakip bir okul arasında giderek artan şakalarla dolu bir savaş başlar. Gerilim hızla yükselir ve yeni gelişen bağlarını ve filizlenen romantik ilişkilerini tehdit eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zxGxsjWs4UfQMsReYWHNGhuItne.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt8622160/s1/e03"
+            }
+        ],
+        "update_date": "2026-02-15 20:00:25"
+    },
+    {
         "id": 289567,
         "imdb_id": "tt33078075",
         "name": "DMV",

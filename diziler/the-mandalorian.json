@@ -2,22 +2,249 @@
     "id": 82856,
     "imdb_id": "tt8111088",
     "name": "The Mandalorian",
+    "original_name": "The Mandalorian",
+    "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
     "poster": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
     "year": "2019",
+    "rating": 8.4,
     "genres": [
         "Bilim Kurgu & Fantazi",
-        "Aksiyon & Macera",
-        "Dram"
+        "Aksiyon & Macera"
+    ],
+    "categories": [
+        "Tümü",
+        "Disney+"
     ],
     "cast": [
-        "Pedro Pascal",
-        "Katee Sackhoff"
+        {
+            "name": "Pedro Pascal",
+            "role": "Din Djarin / The Mandalorian",
+            "image": "https://image.tmdb.org/t/p/w200/cuhkTL3MezjArl80MnYl6QJQ4PQ.jpg"
+        },
+        {
+            "name": "Katee Sackhoff",
+            "role": "Bo-Katan Kryze",
+            "image": "https://image.tmdb.org/t/p/w200/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Kısım 1: Mandaloryalı",
+            "overview": "Bir Mandaloryalı ödül avcısı, iyi para ödeyen bir müşteri için bir hedefi izler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lr8OEa0GzjZ0qmD9NuuMj6TRWxF.jpg",
+            "vote_average": 7.9,
             "link": "https://vidmody.com/vs/tt8111088/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Kısım 2: Çocuk",
+            "overview": "Hedef çantada keklik, Mandaloryalı şimdi çöpçülerle mücadele etmek zorunda.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kOpbxaH4nt5H1fArQQ1IzG9NzBw.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt8111088/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kısım 3: Günah",
+            "overview": "Hırpalanmış Mandaloryalı müşterisine ödül için geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5wGkymV2D9P9ZGI2wP0PefIwFol.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt8111088/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Kısım 4: Barınak",
+            "overview": "Mandaloryalı, bir köyü akıncılardan korumak için eski bir askerle birlikte çalışıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cKyE2gtQT5zIpLQHnD3mFNWrKud.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt8111088/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Kısım 5: Silahşör",
+            "overview": "Mandaloryalı, boyunu aşan bir çaylak ödül avcısına yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bAuXxIGaRPtXmO1qlm7B99PPlCV.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt8111088/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Kısım 6: Mahkum",
+            "overview": "Mandaloryalı, tehlikeli bir görev için paralı asker ekibine katılılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Z9Bc58uLnp8gIDGtdi0jNEqYZY.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt8111088/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Kısım 7: Hesaplaşma",
+            "overview": "Eski bir rakip Mandaloryalı'ya barış yapma davetinde bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/m483Gihn8vAt0cW5RXe5YRtchIQ.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt8111088/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Kısım 8: Kefaret",
+            "overview": "Mandaloryalı, beklenmedik bir düşmanla yüz yüze gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v36aZwxTsPAvqsssLPVno3VFvg5.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt8111088/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Kısım 9: Mareşal",
+            "overview": "Mandalorian, kendi türünden başkalarını aramak için Dış Halka'ya çekilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n6oeOfj8jMPbXZ2E2QTVXYt5cvO.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt8111088/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Kısım 10: Yolcu",
+            "overview": "Mandaloryalı, riskli bir yolculukta değerli bir kargo ile bir yolcuyu taşımak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kAuS7h8qVLokHcKpSwZMum4PhC2.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8111088/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Kısım 11: Mirasçı",
+            "overview": "Mandalorian açık denizlere meydan okur ve beklenmedik müttefiklerle tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gnZOQajf33N3BzRouIZU3NM45TY.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt8111088/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Kısım 12: Kuşatma",
+            "overview": "Mandaloryalı, yeni bir görev için eski müttefiklerine katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yMETKVeybSp9LjiWDBq1fPF1oWh.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt8111088/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Kısım 13: Jedi",
+            "overview": "Mandalorian, acımasız ve güçlü bir düşman olan bir yargıç tarafından yönetilen bir dünyaya yolculuk eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/42QoiVzHnBKAxHT4DpYIKkRTG3N.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt8111088/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Kısım 14: Trajedi",
+            "overview": "Mandalorian ve Çocuk antik bir bölgeye seyahat eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zmDFNEaEBPP8QxUMecOouhYxmLW.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt8111088/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Kısım 15: İnançlı",
+            "overview": "İmparatorluğa karşı hareket etmek için Mandalorian'ın eski bir düşmanın yardımına ihtiyacı var.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bTzhzNSVFugIyc8pHutmLCJdgv5.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt8111088/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Kısım 16: Kurtarma",
+            "overview": "Mandolorian, Moff Gideon Grog'u (Babek Yoda) Moff Gideon'un elinden kurtarmak için Bobby Fett, Cara Dune, Sniper Fennek ve Princess ile ittifak kurar. Çok büyük baskı altında iken, beklenmedik güçlü bir yabancı tarafından kurtarılırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/non7AnwMaloVU0OtenLqKyq8Zg3.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt8111088/s2/e08"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Kısım 17: Mürted",
+            "overview": "Mandaloryalı önemli bir yolculuğa başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8XeuJls7qlTsPiDAK0qarvBrmb2.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt8111088/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Kısım 18: Mandalore Madenleri",
+            "overview": "Mandalorian ve Grogu, yok edilmiş bir gezegenin kalıntılarını keşfederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yR3pIsArgHpyeGScXHKqj8hGRBo.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8111088/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Kısım 19: Dönüşüm",
+            "overview": "Coruscan'ta, eski İmparatorluk üyeleri, Yeni Cumhuriyet'te affedilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zgj0iZUYNIZh0NbPVdNEdTacfwv.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt8111088/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Kısım 20: Kimsesiz Çocuk",
+            "overview": "Din Djarin, Mandalorian gizemine geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dvtW5Vcqojq2wVZjALXgTYQM4U2.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt8111088/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Kısım 21: Korsan",
+            "overview": "Sıkça korsan saldırılarına maruz kalan Nevarro halkının korunmaya ihtiyacı var.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dcNK8WK5pwsUdgE4Fw2bQ6bNYlC.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt8111088/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Kısım 22: Paralı Askerler",
+            "overview": "Mandaloryalı  zengin bir gezegeni ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tIbTlMWkVBFUeUT76FXWb6jzteW.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt8111088/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Kısım 23: Casuslar",
+            "overview": "Hayatta kalanlar saklandıkları yerden çıkarlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/38blBPXRWevBgwa4XPVZkc2mMCO.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt8111088/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Kısım 24: Dönüş",
+            "overview": "Mandalorian ve müttefikleri, düşmanlarıyla yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9XH1CC5WevIZHyTqoJkJ4bCjHhF.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt8111088/s3/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 19:29:41"
 }

@@ -2,23 +2,219 @@
     "id": 85552,
     "imdb_id": "tt8772296",
     "name": "Euphoria",
+    "original_name": "Euphoria",
+    "overview": "Dizide 17 yaşındaki Rue’nun hikayesi anlatılıyor. Zendaya’nın hayat verdiği Rue’nun anlattığı hikayeler seks, kimlik arayışı, travma, sosyal medya, uyuşturucu, aşk ve arkadaşlık gibi temaları ele alıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
     "year": "2019",
+    "rating": 8.3,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "TV+",
+        "HBO",
+        "HBO Max"
+    ],
     "cast": [
-        "Zendaya",
-        "Hunter Schafer",
-        "Sydney Sweeney",
-        "Jacob Elordi",
-        "Alexa Demie"
+        {
+            "name": "Zendaya",
+            "role": "Rue Bennett",
+            "image": "https://image.tmdb.org/t/p/w200/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+        },
+        {
+            "name": "Hunter Schafer",
+            "role": "Jules Vaughn",
+            "image": "https://image.tmdb.org/t/p/w200/6ZDieLlbm2m3jbYaxsHFo7cWWzJ.jpg"
+        },
+        {
+            "name": "Sydney Sweeney",
+            "role": "Cassie Howard",
+            "image": "https://image.tmdb.org/t/p/w200/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+        },
+        {
+            "name": "Jacob Elordi",
+            "role": "Nate Jacobs",
+            "image": "https://image.tmdb.org/t/p/w200/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+        },
+        {
+            "name": "Alexa Demie",
+            "role": "Maddy Perez",
+            "image": "https://image.tmdb.org/t/p/w200/zba2qXMNRnD7uXOYzXfcnstv17V.jpg"
+        },
+        {
+            "name": "Maude Apatow",
+            "role": "Lexi Howard",
+            "image": "https://image.tmdb.org/t/p/w200/xWj49QAsGlC92YcguaEEYvoMEsg.jpg"
+        },
+        {
+            "name": "Eric Dane",
+            "role": "Cal Jacobs",
+            "image": "https://image.tmdb.org/t/p/w200/lSs2O89BDyEwi8p0VhqX2jU90Hk.jpg"
+        },
+        {
+            "name": "Martha Kelly",
+            "role": "Laurie",
+            "image": "https://image.tmdb.org/t/p/w200/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+        },
+        {
+            "name": "Chloe Cherry",
+            "role": "Faye",
+            "image": "https://image.tmdb.org/t/p/w200/czDZr2NO24E6aGGeb7PnLhJRiQR.jpg"
+        },
+        {
+            "name": "Adewale Akinnuoye-Agbaje",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Pilot",
+            "overview": "Rue, rehabilitasyon merkezinden eve döner. Bir partide şehre yeni gelen Jules ile tanışır. Öte yandan, yeni ayrılan Nate ve Maddy birbirlerini kıskandırmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg",
+            "vote_average": 7.8,
             "link": "https://vidmody.com/vs/tt8772296/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Babam Gibi Numara Yapmak",
+            "overview": "Geçmişi geride bırakmaya çalışan Rue, okulun ilk gününde yeni arkadaşı Jules için heyecanlıdır. Bu sırada, Nate, Maddy ile tekrar bir araya gelmeye çabalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4NCKs8RMxevYrBzuqGI4usEprUL.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8772296/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Made You Look",
+            "overview": "Jules internetten biriyle tanışır ve Rue’dan yardım ister. Öte yandan, Maddy, Nate'in telefonunda tuhaf bir şey bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5mimFhtPvrIlmEdRsevtnCSSvon.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8772296/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Shook One : Pt 2",
+            "overview": "Rue arınmaya çalışırken Gia’ya karnavalda eşlik eder. Jules, Cal ve ailesi ile karşır. Öte yandan, gerçekte kim olduğu da ortaya çıkmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/CkshIxWHj1yI0Xqh84dgDfAAfG.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt8772296/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "'03 Bonnie and Clyde",
+            "overview": "Rue'nun son zamanlardaki temkinli hali sebebiyle Jules kendini baskı altında hisseder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3ff187LdnqgrrOQWlzGShPR5sLS.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8772296/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "The Next Episode",
+            "overview": "Cadılar bayramında Jules endişeli davranışlar sergilemeye başlamışken, Rue ‘nun güveninden endişe eder. Öte yandan, McKay futboldaki geleceğini sorgulamaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/40TkPAIhEhZkSOB7EIeaysAb6Ni.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt8772296/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Denemeler ve Sıkıntılar...",
+            "overview": "Depresyona giren Rue çareyi dizi izlemekte bulur. Jules eski bir dostunu ziyarete gider. Öte yandan, Cassie, Cadılar Bayramı gecesi sonrasında tavsiye arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vMQsSORQsV2tfUw1ezyGiCbO6l8.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt8772296/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "And Salt the Earth Behind You",
+            "overview": "Öte yandan Kat onu takip edenin kim olduğunu bulmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kLsHM3fxgYMPw4Cwg3oZDAnenV2.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt8772296/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "East Highland yeni yıla girmeye hazırlanırken Rue ve Jules, Noel'den sonra ilk kez karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8rW1LANR14YRkT8poSziWOiRa5U.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt8772296/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Yeni sömestir başlarken Jules, Rue ve Elliot'ın arkadaşlığını sorgular. Cal bazı cevaplar ararken Nate zor bir karar almak zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8SVh38IfkMbqSaPEoauR8tl8gDu.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8772296/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Yeni bir iş girişiminin peşine düşen Rue, bir yandan da Jules ve Elliot arasında yakınlık kurmaya çalışır. Maddy, Nate ile barışmayı düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nibFSc6mQLHeFAkfKEifnObtYRR.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt8772296/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Maddy'nin doğum günü partisi, sorgulanan ve kutlanan ilişkilere ev sahipliği yapar. Jules, Elliot'tan tavsiye ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nuTsLlLNacklbITyQPRvKOAtXlg.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8772296/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Rue, onu korumaya çalışan Leslie'nin yaptığı bir şey yüzünden zor durumda kalır. Rue ise Laurie'ye olan borcunu nasıl ödeyeceğini düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/g90PNNYusg548V8wncsK4lUb1rY.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt8772296/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Eve geri dönüp toparlanmaya çalışan Rue, Ali ile yeniden iletişime geçmeyi düşünür. Kat ve Ethan ise ilişkileriyle ilgili bir karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a4FJJ4jPpYc34jmtXzgm2uAS6V7.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8772296/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Lexi’nin uzun zamandır beklenen tiyatro oyunu sonunda izleyicilerle buluşur. Herkes bu oyunda kendisinden bir parça bulur. Maddy aldığı kararı sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1qXV8oAPhIqkqaNouwb9JC28SfV.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt8772296/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "[SEZON FİNALİ] Maddy ve Cassie ilk kez karşı karşıya gelirler. Nate geleceği için kendisine yakın birine ihanet eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/po4G5fgneIoiuk7TWlvcusWM1HS.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt8772296/s2/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 20:08:21"
 }

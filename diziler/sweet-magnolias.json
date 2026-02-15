@@ -2,23 +2,423 @@
     "id": 102904,
     "imdb_id": "tt9077540",
     "name": "Sweet Magnolias",
+    "original_name": "Sweet Magnolias",
+    "overview": "Amerika'nın güneyindeki Serenity adlı kasabada eski dostlar Maddie, Helen ve Dana Sue; ilişkileri, aileleri ve kariyerleriyle uğraşırken birbirlerine destek olur.",
     "poster": "https://image.tmdb.org/t/p/w500/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/wt60Q4doM2vrubiCsutwaeWncLL.jpg",
     "year": "2020",
+    "rating": 7.8,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "JoAnna Garcia Swisher",
-        "Brooke Elliott",
-        "Heather Headley",
-        "Logan Allen",
-        "Anneliese Judge"
+        {
+            "name": "JoAnna Garcia Swisher",
+            "role": "Maddie Townsend",
+            "image": "https://image.tmdb.org/t/p/w200/rlaDa8MgZbuLCn1So6H7Ff8Pa0c.jpg"
+        },
+        {
+            "name": "Brooke Elliott",
+            "role": "Dana Sue Sullivan",
+            "image": "https://image.tmdb.org/t/p/w200/iLxHSgTU34femIXe9ikaHm3IffK.jpg"
+        },
+        {
+            "name": "Heather Headley",
+            "role": "Helen Decatur",
+            "image": "https://image.tmdb.org/t/p/w200/kXUCTL1mRcSqK0oJYqZnE98eMfs.jpg"
+        },
+        {
+            "name": "Logan Allen",
+            "role": "Kyle Townsend",
+            "image": "https://image.tmdb.org/t/p/w200/hUnSsqtSf0gHnRYUdjRYUjldZdS.jpg"
+        },
+        {
+            "name": "Anneliese Judge",
+            "role": "Annie Sullivan",
+            "image": "https://image.tmdb.org/t/p/w200/foGNc6wKfTIojG9mcia4s4SlhyL.jpg"
+        },
+        {
+            "name": "Carson Rowland",
+            "role": "Tyler Townsend",
+            "image": "https://image.tmdb.org/t/p/w200/2mDIpn29yeCZ0EWGf4JDpv7lj6B.jpg"
+        },
+        {
+            "name": "Justin Bruening",
+            "role": "Cal Maddox",
+            "image": "https://image.tmdb.org/t/p/w200/49YEErlCONTQOP5mJGNn5M04xS0.jpg"
+        },
+        {
+            "name": "Jamie Lynn Spears",
+            "role": "Norren Fitzgibbons",
+            "image": "https://image.tmdb.org/t/p/w200/pMi831JSmOnjfp8aL4hdSD4ZknS.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Rahatla",
+            "overview": "Meraklı bakışlar altında Maddie, Bill'in büyük hatasını ardında bırakmaya çalışır. Dana Sue mutfağındaki sorunlarla uğraşır. Helen hayatını değiştiren bir şey satın alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tzscEpPhCEUDrLwpGhk9b3zm5jd.jpg",
+            "vote_average": 6.6,
             "link": "https://vidmody.com/vs/tt9077540/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Ağız Birliği",
+            "overview": "Maddie, Tyler'ın saha içi ve dışında yaşadığı zorluklar konusunda Koç Cal ile görüşür. Helen yıkılan ailesini toparlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b4XEAzRBiTd246OxUfUYVEalXPL.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt9077540/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Susuza Su Vermek",
+            "overview": "Gecikmeler, üçlünün renovasyon planlarını sekteye uğratırken Maddie, Bill ile bir anlaşma yapar. Dana Sue evinde ve işinde stres yaşar. Kyle, Noreen'e açılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xllmEwQoS7LwF2i5FcUtirqPbLH.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt9077540/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Koyver Gitsin",
+            "overview": "Maddie'nin yeni arkadaşı kasabalıların diline düşer. Dana Sue sağlığıyla ilgili endişe verici bir durum yaşar. Helen yasal bir tehdidin kişisel olduğunu düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/smqCsdSGNGnc5SBc9KpiVimVVoV.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt9077540/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Önce Dans Et, Sonra Düşün",
+            "overview": "Doğa, sakar bir müteahhit ve Maddie'nin uzun süreli rakibi, spanın büyük açılışında kaosa yol açmak için el ele verir. Tyler, Annie'yi zor bir durumdan kurtarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yo1Moo4gPHygVRf5ux6hGBb7rJr.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt9077540/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "En İyi Niyetler",
+            "overview": "Cal ile birlikteyken üzerine çevrilen meraklı gözler Maddie'yi endişelendirir. Annie, Tyler'ın ihanetine uğradığını düşünür. Bill çocuklardan sürpriz bir istekte bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8KbUTPBtbvSxDbZpc31hehFHcEP.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt9077540/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Elimi Tut",
+            "overview": "Maddie'nin Cal ile yakınlaşması zorluklara yol açar. Helen bir öğrencinin sahte duruşmaya katılması için savaşır. Noreen'i biri ziyaret eder. Erik, Isaac ile yakınlaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dJcNVDyDIXukEww0H34ZuzF9NBt.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt9077540/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Şu Ölümlüler Ne Kadar da Aptal!",
+            "overview": "Bill en yakınındakileri etkileyen bir dizi kötü karar alırken Noreen, Kyle'ın oyununa gider. Maddie, Cal ile ileriye yönelik büyük bir adım atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bEPEn1dwEQ1gIZwqqrhz11jpMQL.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt9077540/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Beni Bulacağın Yer",
+            "overview": "Sahte duruşmanın sabahında Kyle'ın davranışı herkesi endişelendirir. Dana Sue ise yakışıklı bir çiftçiyle flört eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x1wiBotiJVRNrvXKt99kMWk6QgT.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt9077540/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Fırtınalar ve Gökkuşakları",
+            "overview": "Balo gecesi yaklaşırken Maddie, Cal ile ilgili bir karara varır. Dana Sue geleceğini güvence altına almaya çabalar. Helen acil bir margarita buluşması ayarlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3xuN3XxcFobHTc6kIcaZfpJDwO.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt9077540/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Güveçler ve Kayıplar",
+            "overview": "Doktorlardan haber bekleyen aileler bekleme odasında bir araya gelir. Ty'ın sezona yönelik planları değişir. Helen margaritalar yudumlanırken bir duyuru yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/foP1pR90gMxGd83QNgiyGXxooMH.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Anlatacak Çok Şey Var",
+            "overview": "Helen, Isaac'in yanıt arayışına yardımcı olur. Dana Sue'nun restoranı mali bir sorunla karşı karşıya kalır. Maddie oğlunun başına gelenleri öğrenmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qMViZZCu4yHeZLMCAvb0nOVlMuX.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Bazı Şeyler Değişmez",
+            "overview": "Koç Cal ve Ty hayal kırıklıklarıyla başa çıkmaya çalışırken Helen başka türlü bir acıyla sarsılır. Bir ziyaretçi gece geç saatlerde Dana Sue'nun kapısını çalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mmeanOPur669Ucnm4cOta1Z2RLm.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "İnancını Kaybetme",
+            "overview": "Maddie spanın arka tarafındaki arsayı araştırırken akıllarda yeni soru işaretleri belirir. Helen, Isaac'in öz annesinin ardında bıraktığı şeyde ipuçları arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iFPb7NUnak5F1Zqzi7BtMMuVAoa.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Büyük Umutlar",
+            "overview": "Dana Sue’nun ilişkileri, Serenity'de sosyal medyanın gündemi olur. Maddie kasabada (çok sağ olsunlar) otopark sorunu yaratanları ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8E98fFbgWc1CDZgpHZMd6oHdqCx.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Beni Affedebilecek misin?",
+            "overview": "Belediye başkanıyla görüşme ayarlayamayan Manolyalar planlarını bir üst düzeye taşır. Helen ve Erik, karaoke etkinliğindeki performanslarıyla kasabada gündem olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/53mLHTle2orf5O8qCfRNEB35AQw.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Kırılgan",
+            "overview": "Serenity, Noreen'in bebeğine merhaba der; öz annesi, Isaac'e tüm öyküsünü anlatır ve Erik acı dolu geçmişini Helen'la paylaşırken yeni başlangıçlar birbirini kovalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7rXZgJgKepeKtuUIJlNvgcWeIjD.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Oyunun Kuralları",
+            "overview": "Görevden düşürme dilekçesi kısa sürede büyük ilgi görür. Maddie ve Cal şık bir bağış etkinliğine katılır. Ronnie, kararını vermesi için Dana Sue'ya baskı yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dyaqbqtm8dH8AXgaT8iFAYMwomi.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Kıymetlim",
+            "overview": "Arkadaşlar, özel bir cenaze planlamak için bir araya gelir. Terapiye başlayan Ronnie ve Dana Sue'nun ilk seansı zorlu geçer. Isaac öz babasıyla buluşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wj69R5IeNyCN0P9dy2rwDBeWmZ.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "İstersen Hatırla Beni",
+            "overview": "Cal'in geçmişi yeniden su yüzüne çıkar, pek sevilmeyen bir tanıdık Serenity'ye geri döner ve Helen hayatını değiştirecek bir kararla karşı karşıya kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/t2YwLsekF89Mvc9qBf7Uzi1s2z2.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt9077540/s2/e10"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Sana Anlatacaktım",
+            "overview": "Restorandaki olaydan sonra beklenmedik biri Cal'e yardım teklifinde bulunur. Helen acı veren sırrını paylaşır. Maddie kulağına gelen bir söylentiyle ilgili Ty'a sorular sorar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3XFbhn3LfBRNCE7vG2qKIxuWrOA.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Beni Olduğum Gibi Kabul Et",
+            "overview": "Erik, Isaac'e açılır. Helen geleceğini düşünmektedir. Margarita içerlerken Maddie, Cal ile yaptığı anlaşmayı anlatır. Dana Sue ve Ronnie parti hazırlığı yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1ozhh3D0UNauBEqYSzfc88mWpAz.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Arayıştakiler",
+            "overview": "Serenity halkı, Toplayıcı Festivali için bir araya gelirken aralarındaki rekabet kızışır ve dostça atışmalar yaşanır. İntikam peşindeki Kathy'nin bazı gizli planları vardır.",
+            "still_path": "",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Cesur Ol",
+            "overview": "Belediye başkanının yaptığı açıklamadan sonra Peggy onun faaliyetlerini araştırır. Dana Sue, Bayan Frances'in hediye vermesinin sebebini öğrenir. Helen, CeCe'ye bir fırsat verir.",
+            "still_path": "",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Bu Vakıfta",
+            "overview": "Mary Vaughn, Bill ve Kyle'a şoke edici haberler verir. Annie hayallerindeki partiye kavuşur ama davetsiz bir misafir her şeyi bozar. Erik, Serenity'ye yeni taşınan biriyle tanışır.",
+            "still_path": "",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Yol Gösterecek Bir Yıldız",
+            "overview": "Talihsiz bir olayın ardından tüm dostlar Harlan'ın yardımına koşar. Maddie ve Dana Sue bir estetik uzmanına gider. Manolyalarla arası bozuk olan Helen üzücü bir haber alır.",
+            "still_path": "",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Görmeye Can Attığım Biri Var",
+            "overview": "Kalbi kırılan Helen, Serenity'den uzaklaşıp ailesinin yanına huzur bulmaya gider. Bill, Rebecca'nın hayatına daha fazla dâhil olmak ister. Dana Sue feci bir durumla karşılaşır.",
+            "still_path": "",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Beni Kendi Oyunumda Yen",
+            "overview": "Ronnie, Kathy'ye istediğini verir ama bunun bedeli ağır olur. Erik, Jeremy ile konuşurken bir şeyin farkına varır. Bütün gençler oyun parkını yenilemek için bir araya gelir.",
+            "still_path": "",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "Telefon Oyunu",
+            "overview": "Maddie ve Cal'in çıktığı akşam yemeğinde eski bir sevgili gerilim yaratır. Gizlice Kyle'dan hoşlanan biri vardır. Dana Sue parti ile ilgili planlarını değiştirir.",
+            "still_path": "",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Bana Yer Ayır",
+            "overview": "Erik geleceğiyle ilgili bir karar verir. Bayan Paula yeni planını açıklar. Kasaba halkı bir çiftin mutluluğunu kutlamaya gelir ama aralarında davetsiz bir misafir vardır.",
+            "still_path": "",
+            "vote_average": 9.5,
+            "link": "https://vidmody.com/vs/tt9077540/s3/e10"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Duvağın Diğer Tarafı",
+            "overview": "Manolyalar şampanya kadehlerini geleceğe kaldırır. Restoran şık bir etkinliğe ev sahipliği yapar. Şenlikli bir Cadılar Bayramı partisi, büyüleyici sürprizleri beraberinde getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qTnGSWJv5UesQ4h7cGzoFO863g2.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Pratik Hayaller",
+            "overview": "Helen gitgide derinleşen bir krizi idare etmeye çalışırken Dana Sue öğrencilerini yeni lezzetler yaratmaya teşvik eder. Beklenmedik bir ziyaretçi önemli bir haber getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yKPIma6jJ92JNGNVBDpAYpVN5O5.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Bol Zarafet",
+            "overview": "Manolyalar, içlerinden birinin yaşadığı trajediden sonra bir araya gelir. Kyle'ın internetteki hobisi ona popülerlik kazandırır ve önemli bir sır ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cWv3LyKhWHoZXAoQDHMvxBo7QAQ.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "İlahi",
+            "overview": "Townsend gençleri ani bir açıklamayı hazmetmeye çalışır. Maddie evde kendi sınırlarını çizer. Helen belediye başkanının, dedikodular başlamadan onların önüne geçmesine yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9YsKGbZgt6Q4fz8UOAPARvFDzRo.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "Gerçek Kuzey",
+            "overview": "Göreviyle arzularının arasında kalan Ty kalbinin sesini dinler. Serenity'ye ulaşan dev fırtınadan korunmak için herkes kapalı yerlere sığınır. Erik aşk adına her şeyi riske atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8H7tLuHxF4Kf2A3mYL1o1t9bdLk.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Zil Çalmak",
+            "overview": "Cal ile restoran personeli kasabayı doyurmak için hiç durmadan çalışır. Viral olan bir video ile tüm gözler Maddie'ye çevrilir. Helen yakıcı aşk hikâyesini Manolyalar'a anlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dBSe83PvzidvCX06AATlUrR5pKU.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Saklambaç",
+            "overview": "Sentinel'de yayımlanan eleştirel makaleden sonra Helen'ın ortalığı yatıştırma çabaları durumun daha da kötüye gitmesine neden olur. Ohio'dan dönen Isaac Townsendler'e yemeğe gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gCFdf8Y0I2uw3mpFnrnhZB6QsoU.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Duvarlar ve Kapılar",
+            "overview": "Ronnie'nin davranışları Dana Sue'yu endişelendirir. Erik gizli tutkusunu açıklar. Yeni nesil Manolyalar ilk toplantılarını yapar ama margarita olmadan.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lSKIYMMH1AoBAKXqoa9HVhjeM90.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "Çatlayana Kadar Dans Et",
+            "overview": "Sevilen eski ve yeni yılbaşı gelenekleriyle Noel herkesin yüreğini ısıtır. Maddie viral olan haber videosu sayesinde heyecan yaratan bir fırsat yakalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dBqriXkv0YERTy24qmYm5oXyb8g.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "Korkmayın",
+            "overview": "Serenity sakinleri, her yıl düzenlenen festival için toplanır. Yeni ilişkiler filizlenir ve yeni planlar yapılırken Manolyalar, hikâyelerinde açılacak yeni sayfaları düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b2hfqCSUDAZcZBKwPn266NE5g5g.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt9077540/s4/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 20:30:23"
 }

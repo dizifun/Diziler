@@ -1,5 +1,119 @@
 [
     {
+        "id": 93166,
+        "imdb_id": "tt8201186",
+        "name": "The Capture",
+        "original_name": "The Capture",
+        "overview": "Dizi eski bir İngiliz askeri olan Shaun Emery’yi (Turner) merkezine alıyor. Shaun, Afganistanda bir cinayetten dolayı mahkum olur. Ancak kusurlu video kanıtları nedeniyle mahkumiyeti bozulur ve 6 yaşındaki kızıyla birlikte özgür bir adam olarak yaşamını planlamaya başlar. Fakat, bir gece vakti Londra’da meydana gelen bir olaydan sonra ortaya çıkan CCTV görüntüleri sonrası Shaun’un, kendisini bir kez daha özgürlüğü için savaşmak zorunda kalması çok uzun sürmez. Yalanlar, ihanet, yozlaşma, onun sandığından çok daha fazla yayılmış durumdadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/btWghV6scZ1uTLYRFnJuk3bZ5bw.jpg",
+        "year": "2019",
+        "rating": 7.8,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "BBC One",
+            "Amazon Prime",
+            "Peacock Premium Plus",
+            "Peacock Premium"
+        ],
+        "cast": [
+            {
+                "name": "Holliday Grainger",
+                "role": "DI Rachel Carey",
+                "image": "https://image.tmdb.org/t/p/w200/fHveeGXgEfTZ9slB5OvHDG4LAPw.jpg"
+            },
+            {
+                "name": "Ben Miles",
+                "role": "Commander Danny Hart",
+                "image": "https://image.tmdb.org/t/p/w200/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
+            },
+            {
+                "name": "Lia Williams",
+                "role": "DSU Gemma Garland",
+                "image": "https://image.tmdb.org/t/p/w200/d7BIswSeHeAdIobNjsWEFG2uj1H.jpg"
+            },
+            {
+                "name": "Paapa Essiedu",
+                "role": "Isaac Turner MP",
+                "image": "https://image.tmdb.org/t/p/w200/xMU7tSgdPMF53bdNMUhUMQOVIj3.jpg"
+            },
+            {
+                "name": "Indira Varma",
+                "role": "Khadija Khan",
+                "image": "https://image.tmdb.org/t/p/w200/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+                "name": "Charlie Murphy",
+                "role": "Simone Turner",
+                "image": "https://image.tmdb.org/t/p/w200/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg"
+            },
+            {
+                "name": "Tessa Wong",
+                "role": "DC Chloe Tan",
+                "image": "https://image.tmdb.org/t/p/w200/8bgwte22fpOPlPtBtItxYBk5HjT.jpg"
+            },
+            {
+                "name": "Andy Nyman",
+                "role": "Rowan Gill",
+                "image": "https://image.tmdb.org/t/p/w200/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Asker Shaun Emery'nin bir cinayet yüzünden aldığı mahkumiyet, hatalı video kayıtları nedeniyle bozulunca küçük kızıyla özgür bir adam olarak hayata döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oUeNsT1Vk7fkiIIS4g5eIdJALIM.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Soruşturmasından önemli delillerin gizemli bir şekilde çıkarılmasının ardından Carey, kendi cevaplarını arayan Shaun'a ulaşmak için başka yollar bulmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/azLqbKC1Vwzdp1LEJBXvh8qeeGb.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Shaun, gizemli bir CIA ajanı tarafından sorguya çekilir. Rachel, onun içeri girdiği görüntüleri izler. Ancak sonra onu içeride bulamayınca soruşturma çıkmaza girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1ml5z5iBFiCY5K4utdWpDpbxyoB.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Rachel ile Shaun sonunda yüz yüze gelir. Shaun, tutuklanmaktan bir kez daha kurtulmayı başarır ve onu gerçeğe götüreceğine söz veren iki gizemli yabancıyla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yMjYGKjIb5j1wQkyHSKmubOGFKC.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Tüm karmaşıklığı ve belirsizliğiyle gerçek ortaya çıktığında Shaun ve Rachel, onları bekleyen şeye hazırlıklı değildir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qK2HJlFoVCyL4ib4wnHI0J8KVE1.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-15 19:35:05"
+    },
+    {
         "id": 289567,
         "imdb_id": "tt33078075",
         "name": "DMV",

@@ -2,24 +2,514 @@
     "id": 82596,
     "imdb_id": "tt8962124",
     "name": "Emily in Paris",
+    "original_name": "Emily in Paris",
+    "overview": "Yeni tutkular. Yeni modalar. Peki, ya yeni bir Emily? Cesur bir pazarlama dehası olan bu Amerikalı, Paris'te hayallerinin işine girince hayatta ve aşkta yeni ufuklar edinir.",
     "poster": "https://image.tmdb.org/t/p/w500/c0bkO416OU7YGdOFktk45H8REgL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
     "year": "2020",
+    "rating": 7.6,
     "genres": [
         "Dram",
         "Komedi"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Lily Collins",
-        "Philippine Leroy-Beaulieu",
-        "Ashley Park",
-        "Lucas Bravo",
-        "Samuel Arnold"
+        {
+            "name": "Lily Collins",
+            "role": "Emily Cooper",
+            "image": "https://image.tmdb.org/t/p/w200/zhJISAc4qi7xiHMzHMzUTgZSIRH.jpg"
+        },
+        {
+            "name": "Philippine Leroy-Beaulieu",
+            "role": "Sylvie Grateau",
+            "image": "https://image.tmdb.org/t/p/w200/1wt9AWB8HQz23VDmcZA0tVQn0vx.jpg"
+        },
+        {
+            "name": "Ashley Park",
+            "role": "Mindy Chen",
+            "image": "https://image.tmdb.org/t/p/w200/aFw4TmHuaAIpz9nCvtadtO1AYGZ.jpg"
+        },
+        {
+            "name": "Lucas Bravo",
+            "role": "Gabriel",
+            "image": "https://image.tmdb.org/t/p/w200/uO6vMlJBMASyOQMisvnPehjsfJB.jpg"
+        },
+        {
+            "name": "Samuel Arnold",
+            "role": "Julien",
+            "image": "https://image.tmdb.org/t/p/w200/r5cHeGdcOXHfNjeGamlJG1WQLRS.jpg"
+        },
+        {
+            "name": "Bruno Gouery",
+            "role": "Luc",
+            "image": "https://image.tmdb.org/t/p/w200/w0JGP6mtph0PAaRmXagD9PcpQ5M.jpg"
+        },
+        {
+            "name": "Lucien Laviscount",
+            "role": "Alfie Peterson",
+            "image": "https://image.tmdb.org/t/p/w200/3GndTFV0wMGDwocS4rP5Z194uYu.jpg"
+        },
+        {
+            "name": "Eugenio Franceschini",
+            "role": "Marcello Muratori",
+            "image": "https://image.tmdb.org/t/p/w200/jeXQmBBuwuCUwHFmLy6GwXWhlkY.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Emily Paris'te",
+            "overview": "Emily, Paris'teki yeni ofisine öz güvenli Amerikan tarzını ve yeni fikirlerini taşır. Ancak Fransızca bilmemesi büyük bir soruna dönüşür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xXQKZgTBynnYWn7ygOk7RWh9Sko.jpg",
+            "vote_average": 7.8,
             "link": "https://vidmody.com/vs/tt8962124/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Maskulen Feminen",
+            "overview": "Bir iş etkinliğindeki coşkusuyla çapkın ve evli bir müşteriyi etkileyen Emily, kendini Fransız tarzı aşkın karmaşık yollarında bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9TE1XQF8eQJUJkrlmyEeWtypUC3.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8962124/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Seksi mi, Cinsiyetçi mi?",
+            "overview": "Emily, müstehcen yeni reklam kampanyasına dair endişelerini dile getirirken sıhhi tesisat sorunlarıyla, dil dersleriyle ve sinir bozucu iş arkadaşlarıyla uğraşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1IEDLPnuTgrYbJRzyu2hQSGRO4K.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt8962124/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Sadece Bir Öpücük",
+            "overview": "Yeni tanıştığı tatlı bir kadın, Emily'nin son derece büyük, yeni bir potansiyel müşteri bulmasına yardım eder. Ama ofisteki karmaşık ilişkiler anlaşmayı tehlikeye atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mIMn71VYixR1CTMJByh1AXqNCcG.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt8962124/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Sahte Arkadaşlar",
+            "overview": "Emily artan sosyal medya takipçi sayısının Paris'te onun için yeni kapılar açtığını fark eder. Şehirde arkadaşça bir gecede Emily ve Gabriel baş başa bir konuşma yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n00dC6eF9U8MNX4rGojHTcobj0o.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt8962124/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Zevksiz",
+            "overview": "İkonik bir modaevindeki toplantı basit bir hata yüzünden kötü gidince Emily, teselliyi yakışıklı bir profesörde bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xXfem9qMwaxnayx78yBStEysnt4.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt8962124/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Fransız Finali",
+            "overview": "Şık bir kırmızı halı etkinliğinde Amerikalı bir aktrise göz kulak olmayı kabul eden Emily'nin gecesi ve sorumlu olduğu ünlü film yıldızı kontrolden çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5NBDjHEKEXMuUxJlVf5r9hzYm3E.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt8962124/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Aile Meselesi",
+            "overview": "Emily'nin bir şatodaki hafta sonu gezisi gazı kaçmış şampanya gibi fos çıkar. Paris'te ise Mindy'nin eski dostlarıyla buluşması görkemli şekilde son bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wfayeln7TwG6BDxArGJtKwuL67l.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt8962124/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Paris'te Bir Amerikan Müzayedesi",
+            "overview": "Hayır amaçlı bir müzayede, bağışlanan bir elbise ve avangart bir tasarımcı ikili; Pierre Cadault'un varisinin gözüne kestirdiği Emily'nin sorunlarına yenilerini ekler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7dpXIVCN6ha3Ftad16Tm8jddI92.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt8962124/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Defile İptali",
+            "overview": "Moda Haftası ile ilgili fiyaskonun ardından işi tehlikeye giren Emily, iyi bir arkadaşına veda etmeye hazırlanırken bir yandan da yeni bir plan kurmak için uğraşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4XdKG9BHVxQ53CRCy4TdCyOlSiZ.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt8962124/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Benimle Uyumak İster misin?",
+            "overview": "Gabriel'le yaşadıkları yüzünden büyük bir suçluluk duyan Emily romantik bir hafta sonu gezisine gitmeye karar verir. Mindy yeni işinde beklenmedik zorluklarla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cs9hmdG9w6w5OkvcFKVOj5AiAZ9.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "St. Tropez'de Tek Başına",
+            "overview": "Hafta sonu çalışmak mı? Ne kadar kötü! Emily Saint-Tropez'de de olsa işini arkasında bırakamaz. Zaten sosyal medyada yaptığı hatayı düzeltmezse artık bir işi olmayabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iZEPz9MBEy9Zoc11NvNCWuElvVC.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Bon Anniversaire!",
+            "overview": "Doğum günü için yemekli bir davet planlayan Emily, Camille’in arkadaşlarıyla gittiği saunada soğuk terler döker ve menüyle ilgili Gabriel’in yardımını kabul eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8ojOKp4wZhFU2Qv4eV5HvAboqzs.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Unutulmayan Sevgili",
+            "overview": "Emily, kişisel dramaları Savoir'daki işini etkilemeye başlayınca Fransızca derslerine daha fazla odaklanmaya karar verir. Mindy yeni işinde bir pandomimciyle uğraşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yK7niDJXEdr6AKLimgV8ZpdWQvy.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Paris'te Bir İngiliz",
+            "overview": "Gabriel'in restoran açılışı, bir Chopard etkinliği ve burnundan soluyan Camille ile uğraşan Emily, bezgin bir sınıf arkadaşıyla Fransızca konuşma pratiği yapmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/c6lRYTvJR3o6oU0DabE38EBSUIu.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Bardağı Taşıran Son Damla",
+            "overview": "Chez Lavaux'nun açılış gecesinde ortam gerilir. Emily tarzı ve yaşama sevinci yüzünden Alfie'nin onu yanlış anladığını hisseder. Sylvie bir fotoğrafçının dikkatini çeker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ykomsIPlGq3uhvadIpY0eoToa0J.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Aşçı, Hırsız, Yok Sayılan Kız ve Sevgilisi",
+            "overview": "Emily sonunda Alfie ile yakınlaşır ama ödünç alınan bir ceket nedeniyle işler epey tuhaf bir hâl alır. Savoir'nın yeni Amerikalı müşterisi Sylvie'yi rahatsız eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qxumKipIFtni0AYgg4B2uu9nkHB.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Şampanyanı Nasıl Patlatırsın?",
+            "overview": "Alfie, Gabriel sayesinde tıka basa bir akşam yemeği yer. Emily, Camille'in ailesinin şatosunda Champère için bir tanıtım videosu çekerken beklenmedik bir aksilik yaşanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tKU7Okh2g7XrS7rBMoOy67N3sWn.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Kokular ve Hisler",
+            "overview": "Emily'nin Şikago'daki patronu, Savoir'ın hesaplarını iyice deşince Sylvie rahatsız olur. Mindy'nin filizlenen aşkı, sırrının ortaya çıkmasıyla darbe alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8ZZs4WRSoYV7i8OrDk6Vsjk9Anc.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Fransız Devrimi",
+            "overview": "Versailles'daki bir defile Savoir'la birlikte kendi geleceğini de belirleyecek bir hesaplaşmaya sahne olunca Emily taraf seçmekte zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4Z2SajfuraGexYgXkPOhC9MGuKV.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt8962124/s2/e10"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "İki Aşkım Var",
+            "overview": "Emily ani ve hızlı bir kararla saç modelinde değişiklik yapar ama kariyeri ve aşk hayatı söz konusu olunca uzun uzadıya düşünmeden edemez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dx8qs7IutNjlEyhCY3QaFuTKbiG.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Ne Olacak...",
+            "overview": "Savoir kaosa sürüklenirken, Emily eski iş arkadaşından yardım ister. Fakat görkemli bir galadaki yumuşatma çabaları hızla sarpa sarmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cKOy9t5woCV4KfHVXZsmsBWkUeq.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Güvercin Saldırısı",
+            "overview": "Çalışma koşulları kötüye giderken Sylvie tüm cazibesini kullanır. Mindy sahne arkasında ateşli anlar geçirir. Emily ne yapacağıyla ilgili karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o6WCmhf4o8c1JStBwH3SeNWmXIF.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Paris'ten Canlı, Ben Emily Cooper",
+            "overview": "Paris sokaklarında turist gibi gezen Emily kendine ek iş bulur ama Fransızcası zorlu bir sınavdan geçer. Camille çekici bir sanatçıyla yakınlaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9c1DwuovMobFeeAL1wLlCj9S533.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Ooo La La Liste",
+            "overview": "Emily, Sylvie'yi kim kimdir listesine sokmak için nüfuzunu kullanmaya çalışır. Mindy güçlü bağlantıları olan eski bir arkadaşa rastlar. Alfie bir parti verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dIDdFNnqMU3ANoUBIIKHbPsD5iK.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Eski Defterler",
+            "overview": "Emily ve ekibi bir lüks araba etkinliği için Provence'ta bir şatoya gider. Burada lavanta tarlaları, bir ziyafet ve sürpriz bir konuk, yaşanacak romantik anlara zemin hazırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hA6ROKC68n3ufYBD1ZptneAc4tE.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Bir Tasarımcı 10 Günde Nasıl Kaybedilir?",
+            "overview": "Agence Grateau moda dünyasıyla ilgili sorunlar yaşarken Mindy, anlamını çözemediği bir davet alır ve Emily ile Gabriel'den destek ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9lCi25jsazi7FaLN3PvHny5gB5M.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Modanın Kurbanı",
+            "overview": "Mağazasının açılışıyla ilgili söylentiler ortalıkta dolaşırken Pierre'in durumu belirsizdir. Sylvie eski bir tanıdıkla konuşur. Emily, efkârlı Gabriel'e destek olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aLUd0O8Kxat3fBtZ3TwD3bDLK3f.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "Havada Aşk Kokusu Var",
+            "overview": "Alfie ile ilişkisi konusunda tereddütleri olan Emily, Mindy'nin erkek arkadaşının davranışlarına anlam veremez. Gabriel geleceğine odaklanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lEbEdQoYyYlPhM7bYVYKjyK6Hbr.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Anlaşma",
+            "overview": "Bir iş arkadaşının kuyusunu kazan ve Gabriel'in aşçılık hayalini gerçekleştirmesine yardım eden Emily, Champagne'de bir kutlamaya katılır. Kutlamada şoke edici bir gelişme yaşanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5JRhlDYW63z1N8H3Hy0CysqFcac.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt8962124/s3/e10"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Kırılma Noktası",
+            "overview": "Felaketle sonuçlanan bir düğün ve viral olan bir videonun ardından Emily, Fransa Açık Turnuvası öncesi hem kişisel hem de profesyonel ilişkilerini düzene sokmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jjpn557IHDYqQKBuK5EhbHCQVsM.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Kaçak Sevgili",
+            "overview": "Emily, Gabriel ile büyük bir sırrı paylaşınca endişe, öfkeye döner. Mindy, JVMA'nın marka odasındaki kirli sırrı keşfeder. Camille dertlerini unutmak için bir seyahate çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9fmEOw3zdYa5OVOjZaHC0zOituW.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Maskeli Balo",
+            "overview": "Gabriel'in hayat koşulları iyice karmaşık bir hâl alırken Emily, Maison Lavaux için şatafatlı bir maskeli balo planlar. Baloda duygular itiraf edilir ve tercihler yapılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ikH9Uvi3duDV8tJIyaiFjx5Rvyi.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "Gri Bölge",
+            "overview": "Emily, romantik bir randevu için özel bir yer bulmaya çalışır. Sylvie, Laurent'ın kulübünün açılışı için bir iyilik ister. Mindy'nin ilişkisi çıkmaza girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fhB5VuOLzDS3AJjVPIYhkXELgt3.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "Göz Yanılsaması",
+            "overview": "Bir cilt bakımı markasını tanıtan Agence Grateau ve bir Michelin yıldızı almaya çalışan Gabriel görünüşün aldatıcı olduğunu kanıtlar. Camille'in alışveriş gezisinde sorun çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zkLroLy3kYxMxeWtBBN8rh3bJE.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Son Noel",
+            "overview": "Noel planlarındaki bir son dakika değişikliğinin ardından Emily soluğu Fransız Alplerindeki bir dağ evinde alır. Kayak pistlerinde Emily'yi inişli çıkışlı bir macera beklemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/weXskv1u94ZqDMsg6y5q9rmPjQm.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Bir Konuşabilse",
+            "overview": "Sylvie, Emily'nin yanına bir yardımcı alır ve Emily, Gabriel ile iletişim sorunu yaşar. Mindy üstsüz sergileyeceği gösteri için endişelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6vk09B7stlC4deC73Xn0BqoUJ0F.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Çılgın Hayata Dönüş",
+            "overview": "Emily'nin yakışıklı kurtarıcısı yeniden ortaya çıkarak Emily'ye cazip bir teklifte bulunur. Mindy, Çılgın At'taki performansıyla eğlendirir. Genevieve misafirliği fazla uzatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bWM87JN0YnLYDEgaWnpZBguz7i7.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "Roma Tatili",
+            "overview": "Binasına yeni bir komşu taşınırken, Emily hiç akla gelmeyecek bir şey yapar ve işten bir gün izin alıp Roma'da, çekici bir tur rehberiyle buluşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eDocOzeQBFXjpTR4pY6WwNBPmpB.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "Tüm Yollar Roma'ya Çıkıyor",
+            "overview": "Emily, İtalya'daki zamanını işle eğlenceyi birbirine karıştırarak geçirmek istemez. Gabriel için her şey yolunda giderken Mindy harabelerden ilham alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qZko5RaH3wI7ZbFuN8JPv10EYpa.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt8962124/s4/e10"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "Tatlı Emily",
+            "overview": "Emily, yeni bir fırsatın peşinde koşarken topuklu ayakkabılarını çamura bular. Bu sırada Sylvie, maddi sıkıntı çeken bir prensesin yardımıyla Roma'nın elitlerini büyüler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jClv15LysPMbtlxNxsYmb3gPyPt.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "Gerçek Olmalı",
+            "overview": "Emily, bir moda falsosu nedeniyle neyin hakiki neyin sahte olduğunu sorgular. Mindy, bir etkinlikte devasa bir kokteyl bardağında sahne alması istendiğinde buna çok bozulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AlqmEUilGNDDQzYYAxGW0pjKvuX.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "Intimissimi Sorunları",
+            "overview": "Sylvie ve Giancarlo'nun setteki didişmeleri, prodüksiyonun senaryodan sapmasına neden olur. Bir iç giyim kampanyası, Emily'yi daha derin bir mevzuyu açığa çıkarmaya teşvik eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bhrya5vaNhvOZCnwReBdO4JgvG2.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "Roma'nın Düşüşü",
+            "overview": "Sylvie, Solitano'da gala gecesine gelecek eleştirilere hazırlanır. Mindy zorlu bir konuşmadan kaçınmaya çalışır. Emily başarının olumsuz sonuçları olabileceğini de keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dJ9DXmDem9xQyXr2Wy6Bk0B9VDy.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "Merhaba Paris!",
+            "overview": "Paris'e yeni dönen Emily, mutfaktaki ani bir gelişme yüzünden tehlikeye giren otel açılışına müdahale etmek zorunda kalır. Sylvie beklenmedik şekilde evde fazlalık hâline gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/obwDbCaL251eebFYFyxU3gcsnoT.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "Emily'nin Büyükelçiliğe Gittiği Bölüm",
+            "overview": "Evi gözünde tüten Emily, Amerika topraklarında özlemini abur cuburlarla giderir. Hızlandırılmış bir sosyal medya eğitimi alan Sylvie, eski bir tanıdığın paylaşımlarını dikizler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jcL3W8PrtODRP0H8jS1nqxekc7.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "İkinci Şanslar",
+            "overview": "Bir moda sektörü konferansındaki gövde gösterisi herkesin dikkatini çeker. Kötüleşen imajını toparlayamayan bir lüks su markası batmamak için Ajans Grateau'ya başvurur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ivkNSSMG9bBNfBUSFGC42uyDjkm.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "Moda Manifestosu",
+            "overview": "Bir tasarımcıdan toplantı koparmaya çalışan Emily, adamın köpeğini tavlar. Şehrin diğer ucunda, aile draması dolu bir kutlamaya giden Sylvie ise kendini bir skandalın içinde bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pRwCjq8c6IF3AQ1edcfNbRlWxYC.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e08"
+        },
+        {
+            "season": 5,
+            "episode": 9,
+            "name": "La Belle Époque",
+            "overview": "Katılmayı çok istediği bir gösteriye iki haftada hazırlanması gereken Marcello'nun hayalleri pamuk ipliğine bağlıdır. Beklenmedik bir ziyaretçi, Emily'ye eski zamanları hatırlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wHGas4IF6RdOvovCcAXjFIN0RgM.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e09"
+        },
+        {
+            "season": 5,
+            "episode": 10,
+            "name": "Veni, Vidi, Venedik",
+            "overview": "Kaderini belirleyecek olan Venedik Moda Haftası'nın kaosuyla boğuşan Emily, başarılı olmak için elinden geleni yapar. Paris'te ise ajans kendi sorunlarıyla uğraşmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yD4HhWmXfWm6KQd52PxnWXhTMer.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt8962124/s5/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 20:19:33"
 }

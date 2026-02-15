@@ -2,24 +2,146 @@
     "id": 244244,
     "imdb_id": "tt9169516",
     "name": "Run Away",
+    "original_name": "Run Away",
+    "overview": "Evden kaçan kızını arayan çaresiz bir baba, kendini bir cinayet vakasının içinde bulur ve ailesini temelden yıkabilecek sırlarla karşılaşır.",
     "poster": "https://image.tmdb.org/t/p/w500/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
     "year": "2026",
+    "rating": 6.7,
     "genres": [
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "James Nesbitt",
-        "Alfred Enoch",
-        "Minnie Driver",
-        "Ruth Jones",
-        "Ellie de Lange"
+        {
+            "name": "James Nesbitt",
+            "role": "Simon Greene",
+            "image": "https://image.tmdb.org/t/p/w200/lQiGZcwUXbCqpF055Ia5jxdZ2Ma.jpg"
+        },
+        {
+            "name": "Alfred Enoch",
+            "role": "Isaac Fagbenle",
+            "image": "https://image.tmdb.org/t/p/w200/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
+        },
+        {
+            "name": "Minnie Driver",
+            "role": "Ingrid Greene",
+            "image": "https://image.tmdb.org/t/p/w200/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
+        },
+        {
+            "name": "Ruth Jones",
+            "role": "Elena Ravenscroft",
+            "image": "https://image.tmdb.org/t/p/w200/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+        },
+        {
+            "name": "Ellie de Lange",
+            "role": "Paige Greene",
+            "image": "https://image.tmdb.org/t/p/w200/uBXl2MEH3tmfg8KCcdiRRAZtHg4.jpg"
+        },
+        {
+            "name": "Lucian Msamati",
+            "role": "Cornelius Faber",
+            "image": "https://image.tmdb.org/t/p/w200/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
+        },
+        {
+            "name": "Amy Gledhill",
+            "role": "Ruby Todd",
+            "image": "https://image.tmdb.org/t/p/w200/xq08DIRhu4V6KRm5hQV4CxdxPuT.jpg"
+        },
+        {
+            "name": "Annette Badland",
+            "role": "Lou",
+            "image": "https://image.tmdb.org/t/p/w200/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
+        },
+        {
+            "name": "Jon Pointing",
+            "role": "Ash",
+            "image": "https://image.tmdb.org/t/p/w200/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+        },
+        {
+            "name": "Maeve Courtier-Lilley",
+            "role": "Dee Dee",
+            "image": "https://image.tmdb.org/t/p/w200/b8gS6PXvdxrLqwZLLHvS0s8ZkJk.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Görmek İnanmaktır",
+            "overview": "Simon Greene evden kaçan kızını geri getirmek için şiddete başvurunca viral olur. Çaresizlik içindeki bir diğer baba, oğlunu bulması için özel dedektif Elena Ravenscroft'u tutar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xh3RgXYMkffe5gn1AfF4Z5z7OQ4.jpg",
+            "vote_average": 5.0,
             "link": "https://vidmody.com/vs/tt9169516/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Beklerken Dövme Yapılır",
+            "overview": "Greene ailesi acilen hastaneye götürülür. Simon burada polislerle karşı karşıya gelir. Elena, Henry ve kaybolan başka biri arasında bir bağlantı olduğunu keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xpksVkdxhxw8mjQ1AQcspxqqHbM.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt9169516/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kopma Noktası",
+            "overview": "Elena gece geç saatlerde Maria'yı çat kapı ziyaret eder. Gönülsüzce bir anma törenine katılan Simon, Paige ile ilgili tatsız bir haber alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oqmndWzd79VVkIDvGhpYzZdFW4o.jpg",
+            "vote_average": 2.9,
+            "link": "https://vidmody.com/vs/tt9169516/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Farklı Bir Devir",
+            "overview": "Simon, kızının üniversitedeki hayatını ve eşinin sırrını öğrenir. Dee Dee ve Ash, travmatik geçmişlerindeki bir döneme şiddetli bir şekilde son verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/19WoNtZscYsijWmuM1YTXco4Aj0.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt9169516/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Işıldayan Gerçek Daim Olsun",
+            "overview": "Simon örnekler toplarken Elena kayınvalidesiyle yüzleşir ve bir evlat edindirme kurumunu ziyaret eder. Isaac, Luther'ın vurulmasıyla ilgili eski bir arkadaşını sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iMJdF8BhVN6vDVt7N0IBQjQB58G.jpg",
+            "vote_average": 4.8,
+            "link": "https://vidmody.com/vs/tt9169516/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Tanıdığım Adam",
+            "overview": "Elena cinayetler ve kayıplar arasındaki bağı çözer. Simon'ın çocukları, Paige'in hocasını bulur. Profesör, Paige'in üniversitedeki günlerine dair şaşırtıcı bir bilgi paylaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cQQ8hOfyffwVzf9nEE8zaJ4JLyh.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt9169516/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Rastlantının Böylesi",
+            "overview": "Ash'e bir itirafta bulunan Dee Dee, yeni bir hedefe yoğunlaşır. Polis, Işıldayan Gerçek ile bağlantılı bir ipucu bulur. Simon, Rocco'nun bodrumuna geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eLin9ULN0n27u8zYJVH7j5dBxTw.jpg",
+            "vote_average": 4.2,
+            "link": "https://vidmody.com/vs/tt9169516/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Aramızda Kalacak",
+            "overview": "Polis, Işıldayan Cennet'e yaklaşırken eksik parçalar yerli yerini bulur ve gerçekler gün yüzüne çıkar. Ancak bazı gerçekler, sonsuza dek gömülü kalacak gibidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aJoRhYeczeScQS262lHN9CWZQ3N.jpg",
+            "vote_average": 4.6,
+            "link": "https://vidmody.com/vs/tt9169516/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 20:35:48"
 }

@@ -1,5 +1,2682 @@
 [
     {
+        "id": 85723,
+        "imdb_id": "tt9170108",
+        "name": "Raised by Wolves",
+        "original_name": "Raised by Wolves",
+        "overview": "Raised By Wolves, gizemli bir gezegende yaşayan ve insanların çocuklarını yetiştirmekle görevlendirilen iki androidin maceralarını konu ediyor. Gittikçe genişleyen insan kolonisi, dini farklılıklardan doğan büyük bir tehditle karşılaşır. Bu süreçte androidleri oldukça zorlu bir görev beklemektedir.",
+        "poster": "https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/na2xUduK8HviOFT97TiFG2MkJmY.jpg",
+        "year": "2020",
+        "rating": 7.5,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Amanda Collin",
+                "role": "Mother / Lamia",
+                "image": "https://image.tmdb.org/t/p/w200/bFm5zt8vxD09Ez6irsJItmPigjq.jpg"
+            },
+            {
+                "name": "Abubakar Salim",
+                "role": "Father",
+                "image": "https://image.tmdb.org/t/p/w200/cUddJiPnCTDDOBuk7jTmLsiODMb.jpg"
+            },
+            {
+                "name": "Winta McGrath",
+                "role": "Campion",
+                "image": "https://image.tmdb.org/t/p/w200/1odtDemopNedhQWZ9Zup3UrEaRk.jpg"
+            },
+            {
+                "name": "Niamh Algar",
+                "role": "Mary / Sue",
+                "image": "https://image.tmdb.org/t/p/w200/4FscmD9lWqiJVnOvuWTaVc3ynTb.jpg"
+            },
+            {
+                "name": "Travis Fimmel",
+                "role": "Caleb / Marcus Drusus",
+                "image": "https://image.tmdb.org/t/p/w200/kuTSw3I2hqb5N1QqYrXPX8zd8EA.jpg"
+            },
+            {
+                "name": "Jordan Loughran",
+                "role": "Tempest",
+                "image": "https://image.tmdb.org/t/p/w200/a3UM3gFUjZjaODZI0gUyaUWaeto.jpg"
+            },
+            {
+                "name": "Matias Varela",
+                "role": "Lucius",
+                "image": "https://image.tmdb.org/t/p/w200/byw4O8SiN14FDuPocQa4WDNzt3N.jpg"
+            },
+            {
+                "name": "Felix Jamieson",
+                "role": "Paul",
+                "image": "https://image.tmdb.org/t/p/w200/tesBnjps2Qb7pmn3pm5rUzGQVqG.jpg"
+            },
+            {
+                "name": "Ethan Hazzard",
+                "role": "Hunter",
+                "image": "https://image.tmdb.org/t/p/w200/5dvmyzOxaxF3McbnVaLlQ00Jw35.jpg"
+            },
+            {
+                "name": "Aasiya Shah",
+                "role": "Holly",
+                "image": "https://image.tmdb.org/t/p/w200/qi6fGjxtR0TkvNsysxJP77CJjcl.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Kurtların Çocukları",
+                "overview": "Dünya yaşanmaz hale geldikten sonra, Androidler Kepler-22b gezegeninde bir yerleşim yeri ve insan embriyolarıyla yeni bir aile kurar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pEM2dl0FvKLt3ClQwCYwViYQZzO.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Pentagram",
+                "overview": "Anne, uğursuz planları olan beklenmedik konukları kabul eder. İnsanlar ve androidler, Kepler-22b'nin tek sakinleri mi?",
+                "still_path": "https://image.tmdb.org/t/p/w400/j9wGe5HIXgXw8Z81WlH9pSOryTf.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Sanal İnanç",
+                "overview": "Mitraik çocuklar hastalandıktan sonra Campion, Annenin onları zehirlediğine inanır ve bir kaçış planlar. Anne ve Baba aksini kanıtlamaya çalışırken, Marcus ve Sue hayatta kalan diğer Mithraic'i, oğulları Paul'ü geri almak için çaresizce çocukları kurtarmaya ikna etmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9sV450BnUEZMsMPMY1yCQBv9QT5.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Doğanın Akışı",
+                "overview": "Baba, çocuklara Kepler-22b'nin gizemli yaratıklarından bazılarını yemek için nasıl avlayacaklarını öğretmeye çalışır. Bu arada, Mithraic, potansiyel olarak bir Mitraik kehaneti gerçekleştiren çarpıcı bir keşifte bulunur ve nasıl devam edileceğine dair bir tartışma, Marcus ile Mithraic lideri Ambrose arasındaki bir çatışmayı ateşler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yf6lZPqTw28ivyqBAbqWzTlWUqA.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Hastalıklı Anı",
+                "overview": "Marcus, Mithraic çocukları kurtarma planıyla ilerliyor, ancak önce onları bulması gerekiyor. Yerleşime geri döndüğünde, Campion ve Paul, Peder'le bir av gezisine çıkarken bağ kurar ve Anne, onun kökenleri hakkında daha fazla bilgi edinmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eVNKJhZQ1dFHLG9Ka4j23uda2tI.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Kayıp Cennet",
+                "overview": "Annesi, yaratıcısıyla olan bağını yeniden canlandırdıktan sonra, Marcus, Sue ve Mithraic'in yerleşime yaklaştığının farkında olmadığı halde, sahip olamayacağını bilmediği yoğun duygularla dikkati dağılmış halde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3tWBVB35f41cvTNBOovPgSWIWcl.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Yüzler",
+                "overview": "Marcus'un kararları, Mitraik'in lideri olarak nüfuzunu korumaya çalışırken ailesiyle olan ilişkisini vurgular. Anne, Marcus'u gerçekte olduğu kişi olarak görebilir, bu da onun gücünü tehdit eder ve Anne'yi iyileşemeyeceği tehlikeli bir duruma sokar. Bu sırada Campion, korkunç sonuçlara yol açabilecek bir seçimle karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5tygscjsHMzizn1niJpLl52ONx6.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kütle",
+                "overview": "Marcus, Mithraic bağlılığını benimsemeye devam ederken Sue, artık ona ve Paul'ün çıkarlarına kalpten sahip olamayacağından endişelenir. Anne, arıza olduğuna inandığı şeyleri tecrübe eder ve Hunter, Baba ile gizli bir proje üzerinde çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j2Q0vBQDpu3lQFzBjOypHaZFr0M.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Göbek Bağı",
+                "overview": "Sue çocukları güvende tutmaya kararlıdır ve bunu yaparken Anneye güvenip güvenemeyeceği konusunda mücadele eder. Bu arada, yeni bir tehdit ortaya çıkar ve giderek düzensizleşen Marcus, Mithraic'in liderlerini sorgulamasına neden olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Yd2VeoZGJB9vbXI8x37kX0Pjn3.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Başlangıç",
+                "overview": "Paul, vahiylere yol açan rahatsız edici davranışlar sergiliyor; Sue, Anna'ya açılırken, baba insan duygularıyla savaşır; Campion, yeni ailesindeki yerini sorgularken, anne ve baba yerli yaratıklar hakkında bir sır ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jP6poDtDban7GKgIonbTWqQLcxf.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "The Collective",
+                "overview": "Anne ve Babanın intihar görevinin üzerinden zaman geçmiş ve dünya değişmiştir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wF1Xse33G1afYh7pPX7rJnoCHzZ.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Seven",
+                "overview": "Ateist kolonisi beklenmedik bir gelişmeyle çalkalanır. Sol, kullarına ışığın yolunda rehberlik etmektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tJUImoyetJaAFgK9HxNtlUR7tmj.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/i7PbEp6sLRq8TKi9kCeDH4EAjSV.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Control",
+                "overview": "Anne çocuklarını korumak için büyük bir adım atar. Marcus elindeki kozları kaybetmek üzeredir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/St8yKClS3OrQDYgTJwSApnV39U.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "King",
+                "overview": "Paul'ün hastalığı Mary ve Anneyi hiç yapmayacakları şeyleri yapmaya iter. Baba ise yeni arkadaşı ve çocuklarının güvenliği arasında seçim yapmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mJNDY31uGIR8K4my36Lp205kL9r.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "The Tree",
+                "overview": "Paul ve Sue, Marcus'la karşılaşmalarının ardından yeni kararlar alır. Anne ise Tempest'in bebeği için önlem almakla meşguldür. Baba, yeni oyuncağının o kadar masum olmadığını fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/48X7ql11NbnZpD17mitDF6GeGEH.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Feeding",
+                "overview": "Herkes Tempest'in bebeğini ararken Paul koloniyi gerçek inanca döndürmek için harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3iqi66KEKOEPbf6PRqbnuSAOzVb.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Happiness",
+                "overview": "Anne peçeyi takar ve sonunda Büyükannenin yüzünü görürüz. Ancak peçe, bir yüzden fazlasını saklamaktadır",
+                "still_path": "https://image.tmdb.org/t/p/w400/k7Cx1ha0MgSBp0eX7kRulufBm6b.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e08"
+            }
+        ],
+        "update_date": "2026-02-15 20:36:08"
+    },
+    {
+        "id": 244244,
+        "imdb_id": "tt9169516",
+        "name": "Run Away",
+        "original_name": "Run Away",
+        "overview": "Evden kaçan kızını arayan çaresiz bir baba, kendini bir cinayet vakasının içinde bulur ve ailesini temelden yıkabilecek sırlarla karşılaşır.",
+        "poster": "https://image.tmdb.org/t/p/w500/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+        "year": "2026",
+        "rating": 6.7,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "James Nesbitt",
+                "role": "Simon Greene",
+                "image": "https://image.tmdb.org/t/p/w200/lQiGZcwUXbCqpF055Ia5jxdZ2Ma.jpg"
+            },
+            {
+                "name": "Alfred Enoch",
+                "role": "Isaac Fagbenle",
+                "image": "https://image.tmdb.org/t/p/w200/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
+            },
+            {
+                "name": "Minnie Driver",
+                "role": "Ingrid Greene",
+                "image": "https://image.tmdb.org/t/p/w200/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
+            },
+            {
+                "name": "Ruth Jones",
+                "role": "Elena Ravenscroft",
+                "image": "https://image.tmdb.org/t/p/w200/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+            },
+            {
+                "name": "Ellie de Lange",
+                "role": "Paige Greene",
+                "image": "https://image.tmdb.org/t/p/w200/uBXl2MEH3tmfg8KCcdiRRAZtHg4.jpg"
+            },
+            {
+                "name": "Lucian Msamati",
+                "role": "Cornelius Faber",
+                "image": "https://image.tmdb.org/t/p/w200/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
+            },
+            {
+                "name": "Amy Gledhill",
+                "role": "Ruby Todd",
+                "image": "https://image.tmdb.org/t/p/w200/xq08DIRhu4V6KRm5hQV4CxdxPuT.jpg"
+            },
+            {
+                "name": "Annette Badland",
+                "role": "Lou",
+                "image": "https://image.tmdb.org/t/p/w200/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
+            },
+            {
+                "name": "Jon Pointing",
+                "role": "Ash",
+                "image": "https://image.tmdb.org/t/p/w200/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+            },
+            {
+                "name": "Maeve Courtier-Lilley",
+                "role": "Dee Dee",
+                "image": "https://image.tmdb.org/t/p/w200/b8gS6PXvdxrLqwZLLHvS0s8ZkJk.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Görmek İnanmaktır",
+                "overview": "Simon Greene evden kaçan kızını geri getirmek için şiddete başvurunca viral olur. Çaresizlik içindeki bir diğer baba, oğlunu bulması için özel dedektif Elena Ravenscroft'u tutar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xh3RgXYMkffe5gn1AfF4Z5z7OQ4.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Beklerken Dövme Yapılır",
+                "overview": "Greene ailesi acilen hastaneye götürülür. Simon burada polislerle karşı karşıya gelir. Elena, Henry ve kaybolan başka biri arasında bir bağlantı olduğunu keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xpksVkdxhxw8mjQ1AQcspxqqHbM.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Kopma Noktası",
+                "overview": "Elena gece geç saatlerde Maria'yı çat kapı ziyaret eder. Gönülsüzce bir anma törenine katılan Simon, Paige ile ilgili tatsız bir haber alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oqmndWzd79VVkIDvGhpYzZdFW4o.jpg",
+                "vote_average": 2.9,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Farklı Bir Devir",
+                "overview": "Simon, kızının üniversitedeki hayatını ve eşinin sırrını öğrenir. Dee Dee ve Ash, travmatik geçmişlerindeki bir döneme şiddetli bir şekilde son verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/19WoNtZscYsijWmuM1YTXco4Aj0.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Işıldayan Gerçek Daim Olsun",
+                "overview": "Simon örnekler toplarken Elena kayınvalidesiyle yüzleşir ve bir evlat edindirme kurumunu ziyaret eder. Isaac, Luther'ın vurulmasıyla ilgili eski bir arkadaşını sorgular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iMJdF8BhVN6vDVt7N0IBQjQB58G.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Tanıdığım Adam",
+                "overview": "Elena cinayetler ve kayıplar arasındaki bağı çözer. Simon'ın çocukları, Paige'in hocasını bulur. Profesör, Paige'in üniversitedeki günlerine dair şaşırtıcı bir bilgi paylaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cQQ8hOfyffwVzf9nEE8zaJ4JLyh.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Rastlantının Böylesi",
+                "overview": "Ash'e bir itirafta bulunan Dee Dee, yeni bir hedefe yoğunlaşır. Polis, Işıldayan Gerçek ile bağlantılı bir ipucu bulur. Simon, Rocco'nun bodrumuna geri döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eLin9ULN0n27u8zYJVH7j5dBxTw.jpg",
+                "vote_average": 4.2,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Aramızda Kalacak",
+                "overview": "Polis, Işıldayan Cennet'e yaklaşırken eksik parçalar yerli yerini bulur ve gerçekler gün yüzüne çıkar. Ancak bazı gerçekler, sonsuza dek gömülü kalacak gibidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aJoRhYeczeScQS262lHN9CWZQ3N.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 20:35:48"
+    },
+    {
+        "id": 102904,
+        "imdb_id": "tt9077540",
+        "name": "Sweet Magnolias",
+        "original_name": "Sweet Magnolias",
+        "overview": "Amerika'nın güneyindeki Serenity adlı kasabada eski dostlar Maddie, Helen ve Dana Sue; ilişkileri, aileleri ve kariyerleriyle uğraşırken birbirlerine destek olur.",
+        "poster": "https://image.tmdb.org/t/p/w500/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/wt60Q4doM2vrubiCsutwaeWncLL.jpg",
+        "year": "2020",
+        "rating": 7.8,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "JoAnna Garcia Swisher",
+                "role": "Maddie Townsend",
+                "image": "https://image.tmdb.org/t/p/w200/rlaDa8MgZbuLCn1So6H7Ff8Pa0c.jpg"
+            },
+            {
+                "name": "Brooke Elliott",
+                "role": "Dana Sue Sullivan",
+                "image": "https://image.tmdb.org/t/p/w200/iLxHSgTU34femIXe9ikaHm3IffK.jpg"
+            },
+            {
+                "name": "Heather Headley",
+                "role": "Helen Decatur",
+                "image": "https://image.tmdb.org/t/p/w200/kXUCTL1mRcSqK0oJYqZnE98eMfs.jpg"
+            },
+            {
+                "name": "Logan Allen",
+                "role": "Kyle Townsend",
+                "image": "https://image.tmdb.org/t/p/w200/hUnSsqtSf0gHnRYUdjRYUjldZdS.jpg"
+            },
+            {
+                "name": "Anneliese Judge",
+                "role": "Annie Sullivan",
+                "image": "https://image.tmdb.org/t/p/w200/foGNc6wKfTIojG9mcia4s4SlhyL.jpg"
+            },
+            {
+                "name": "Carson Rowland",
+                "role": "Tyler Townsend",
+                "image": "https://image.tmdb.org/t/p/w200/2mDIpn29yeCZ0EWGf4JDpv7lj6B.jpg"
+            },
+            {
+                "name": "Justin Bruening",
+                "role": "Cal Maddox",
+                "image": "https://image.tmdb.org/t/p/w200/49YEErlCONTQOP5mJGNn5M04xS0.jpg"
+            },
+            {
+                "name": "Jamie Lynn Spears",
+                "role": "Norren Fitzgibbons",
+                "image": "https://image.tmdb.org/t/p/w200/pMi831JSmOnjfp8aL4hdSD4ZknS.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Rahatla",
+                "overview": "Meraklı bakışlar altında Maddie, Bill'in büyük hatasını ardında bırakmaya çalışır. Dana Sue mutfağındaki sorunlarla uğraşır. Helen hayatını değiştiren bir şey satın alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tzscEpPhCEUDrLwpGhk9b3zm5jd.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Ağız Birliği",
+                "overview": "Maddie, Tyler'ın saha içi ve dışında yaşadığı zorluklar konusunda Koç Cal ile görüşür. Helen yıkılan ailesini toparlamaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b4XEAzRBiTd246OxUfUYVEalXPL.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Susuza Su Vermek",
+                "overview": "Gecikmeler, üçlünün renovasyon planlarını sekteye uğratırken Maddie, Bill ile bir anlaşma yapar. Dana Sue evinde ve işinde stres yaşar. Kyle, Noreen'e açılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xllmEwQoS7LwF2i5FcUtirqPbLH.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Koyver Gitsin",
+                "overview": "Maddie'nin yeni arkadaşı kasabalıların diline düşer. Dana Sue sağlığıyla ilgili endişe verici bir durum yaşar. Helen yasal bir tehdidin kişisel olduğunu düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/smqCsdSGNGnc5SBc9KpiVimVVoV.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Önce Dans Et, Sonra Düşün",
+                "overview": "Doğa, sakar bir müteahhit ve Maddie'nin uzun süreli rakibi, spanın büyük açılışında kaosa yol açmak için el ele verir. Tyler, Annie'yi zor bir durumdan kurtarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yo1Moo4gPHygVRf5ux6hGBb7rJr.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "En İyi Niyetler",
+                "overview": "Cal ile birlikteyken üzerine çevrilen meraklı gözler Maddie'yi endişelendirir. Annie, Tyler'ın ihanetine uğradığını düşünür. Bill çocuklardan sürpriz bir istekte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8KbUTPBtbvSxDbZpc31hehFHcEP.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Elimi Tut",
+                "overview": "Maddie'nin Cal ile yakınlaşması zorluklara yol açar. Helen bir öğrencinin sahte duruşmaya katılması için savaşır. Noreen'i biri ziyaret eder. Erik, Isaac ile yakınlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dJcNVDyDIXukEww0H34ZuzF9NBt.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Şu Ölümlüler Ne Kadar da Aptal!",
+                "overview": "Bill en yakınındakileri etkileyen bir dizi kötü karar alırken Noreen, Kyle'ın oyununa gider. Maddie, Cal ile ileriye yönelik büyük bir adım atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bEPEn1dwEQ1gIZwqqrhz11jpMQL.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Beni Bulacağın Yer",
+                "overview": "Sahte duruşmanın sabahında Kyle'ın davranışı herkesi endişelendirir. Dana Sue ise yakışıklı bir çiftçiyle flört eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/x1wiBotiJVRNrvXKt99kMWk6QgT.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Fırtınalar ve Gökkuşakları",
+                "overview": "Balo gecesi yaklaşırken Maddie, Cal ile ilgili bir karara varır. Dana Sue geleceğini güvence altına almaya çabalar. Helen acil bir margarita buluşması ayarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3xuN3XxcFobHTc6kIcaZfpJDwO.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt9077540/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Güveçler ve Kayıplar",
+                "overview": "Doktorlardan haber bekleyen aileler bekleme odasında bir araya gelir. Ty'ın sezona yönelik planları değişir. Helen margaritalar yudumlanırken bir duyuru yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/foP1pR90gMxGd83QNgiyGXxooMH.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Anlatacak Çok Şey Var",
+                "overview": "Helen, Isaac'in yanıt arayışına yardımcı olur. Dana Sue'nun restoranı mali bir sorunla karşı karşıya kalır. Maddie oğlunun başına gelenleri öğrenmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qMViZZCu4yHeZLMCAvb0nOVlMuX.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Bazı Şeyler Değişmez",
+                "overview": "Koç Cal ve Ty hayal kırıklıklarıyla başa çıkmaya çalışırken Helen başka türlü bir acıyla sarsılır. Bir ziyaretçi gece geç saatlerde Dana Sue'nun kapısını çalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mmeanOPur669Ucnm4cOta1Z2RLm.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "İnancını Kaybetme",
+                "overview": "Maddie spanın arka tarafındaki arsayı araştırırken akıllarda yeni soru işaretleri belirir. Helen, Isaac'in öz annesinin ardında bıraktığı şeyde ipuçları arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iFPb7NUnak5F1Zqzi7BtMMuVAoa.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Büyük Umutlar",
+                "overview": "Dana Sue’nun ilişkileri, Serenity'de sosyal medyanın gündemi olur. Maddie kasabada (çok sağ olsunlar) otopark sorunu yaratanları ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8E98fFbgWc1CDZgpHZMd6oHdqCx.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Beni Affedebilecek misin?",
+                "overview": "Belediye başkanıyla görüşme ayarlayamayan Manolyalar planlarını bir üst düzeye taşır. Helen ve Erik, karaoke etkinliğindeki performanslarıyla kasabada gündem olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/53mLHTle2orf5O8qCfRNEB35AQw.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Kırılgan",
+                "overview": "Serenity, Noreen'in bebeğine merhaba der; öz annesi, Isaac'e tüm öyküsünü anlatır ve Erik acı dolu geçmişini Helen'la paylaşırken yeni başlangıçlar birbirini kovalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7rXZgJgKepeKtuUIJlNvgcWeIjD.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Oyunun Kuralları",
+                "overview": "Görevden düşürme dilekçesi kısa sürede büyük ilgi görür. Maddie ve Cal şık bir bağış etkinliğine katılır. Ronnie, kararını vermesi için Dana Sue'ya baskı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dyaqbqtm8dH8AXgaT8iFAYMwomi.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Kıymetlim",
+                "overview": "Arkadaşlar, özel bir cenaze planlamak için bir araya gelir. Terapiye başlayan Ronnie ve Dana Sue'nun ilk seansı zorlu geçer. Isaac öz babasıyla buluşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wj69R5IeNyCN0P9dy2rwDBeWmZ.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "İstersen Hatırla Beni",
+                "overview": "Cal'in geçmişi yeniden su yüzüne çıkar, pek sevilmeyen bir tanıdık Serenity'ye geri döner ve Helen hayatını değiştirecek bir kararla karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/t2YwLsekF89Mvc9qBf7Uzi1s2z2.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt9077540/s2/e10"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Sana Anlatacaktım",
+                "overview": "Restorandaki olaydan sonra beklenmedik biri Cal'e yardım teklifinde bulunur. Helen acı veren sırrını paylaşır. Maddie kulağına gelen bir söylentiyle ilgili Ty'a sorular sorar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3XFbhn3LfBRNCE7vG2qKIxuWrOA.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Beni Olduğum Gibi Kabul Et",
+                "overview": "Erik, Isaac'e açılır. Helen geleceğini düşünmektedir. Margarita içerlerken Maddie, Cal ile yaptığı anlaşmayı anlatır. Dana Sue ve Ronnie parti hazırlığı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1ozhh3D0UNauBEqYSzfc88mWpAz.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Arayıştakiler",
+                "overview": "Serenity halkı, Toplayıcı Festivali için bir araya gelirken aralarındaki rekabet kızışır ve dostça atışmalar yaşanır. İntikam peşindeki Kathy'nin bazı gizli planları vardır.",
+                "still_path": "",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Cesur Ol",
+                "overview": "Belediye başkanının yaptığı açıklamadan sonra Peggy onun faaliyetlerini araştırır. Dana Sue, Bayan Frances'in hediye vermesinin sebebini öğrenir. Helen, CeCe'ye bir fırsat verir.",
+                "still_path": "",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Bu Vakıfta",
+                "overview": "Mary Vaughn, Bill ve Kyle'a şoke edici haberler verir. Annie hayallerindeki partiye kavuşur ama davetsiz bir misafir her şeyi bozar. Erik, Serenity'ye yeni taşınan biriyle tanışır.",
+                "still_path": "",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Yol Gösterecek Bir Yıldız",
+                "overview": "Talihsiz bir olayın ardından tüm dostlar Harlan'ın yardımına koşar. Maddie ve Dana Sue bir estetik uzmanına gider. Manolyalarla arası bozuk olan Helen üzücü bir haber alır.",
+                "still_path": "",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Görmeye Can Attığım Biri Var",
+                "overview": "Kalbi kırılan Helen, Serenity'den uzaklaşıp ailesinin yanına huzur bulmaya gider. Bill, Rebecca'nın hayatına daha fazla dâhil olmak ister. Dana Sue feci bir durumla karşılaşır.",
+                "still_path": "",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Beni Kendi Oyunumda Yen",
+                "overview": "Ronnie, Kathy'ye istediğini verir ama bunun bedeli ağır olur. Erik, Jeremy ile konuşurken bir şeyin farkına varır. Bütün gençler oyun parkını yenilemek için bir araya gelir.",
+                "still_path": "",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "Telefon Oyunu",
+                "overview": "Maddie ve Cal'in çıktığı akşam yemeğinde eski bir sevgili gerilim yaratır. Gizlice Kyle'dan hoşlanan biri vardır. Dana Sue parti ile ilgili planlarını değiştirir.",
+                "still_path": "",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "Bana Yer Ayır",
+                "overview": "Erik geleceğiyle ilgili bir karar verir. Bayan Paula yeni planını açıklar. Kasaba halkı bir çiftin mutluluğunu kutlamaya gelir ama aralarında davetsiz bir misafir vardır.",
+                "still_path": "",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt9077540/s3/e10"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Duvağın Diğer Tarafı",
+                "overview": "Manolyalar şampanya kadehlerini geleceğe kaldırır. Restoran şık bir etkinliğe ev sahipliği yapar. Şenlikli bir Cadılar Bayramı partisi, büyüleyici sürprizleri beraberinde getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qTnGSWJv5UesQ4h7cGzoFO863g2.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Pratik Hayaller",
+                "overview": "Helen gitgide derinleşen bir krizi idare etmeye çalışırken Dana Sue öğrencilerini yeni lezzetler yaratmaya teşvik eder. Beklenmedik bir ziyaretçi önemli bir haber getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yKPIma6jJ92JNGNVBDpAYpVN5O5.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Bol Zarafet",
+                "overview": "Manolyalar, içlerinden birinin yaşadığı trajediden sonra bir araya gelir. Kyle'ın internetteki hobisi ona popülerlik kazandırır ve önemli bir sır ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cWv3LyKhWHoZXAoQDHMvxBo7QAQ.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "İlahi",
+                "overview": "Townsend gençleri ani bir açıklamayı hazmetmeye çalışır. Maddie evde kendi sınırlarını çizer. Helen belediye başkanının, dedikodular başlamadan onların önüne geçmesine yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9YsKGbZgt6Q4fz8UOAPARvFDzRo.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Gerçek Kuzey",
+                "overview": "Göreviyle arzularının arasında kalan Ty kalbinin sesini dinler. Serenity'ye ulaşan dev fırtınadan korunmak için herkes kapalı yerlere sığınır. Erik aşk adına her şeyi riske atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8H7tLuHxF4Kf2A3mYL1o1t9bdLk.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Zil Çalmak",
+                "overview": "Cal ile restoran personeli kasabayı doyurmak için hiç durmadan çalışır. Viral olan bir video ile tüm gözler Maddie'ye çevrilir. Helen yakıcı aşk hikâyesini Manolyalar'a anlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dBSe83PvzidvCX06AATlUrR5pKU.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "Saklambaç",
+                "overview": "Sentinel'de yayımlanan eleştirel makaleden sonra Helen'ın ortalığı yatıştırma çabaları durumun daha da kötüye gitmesine neden olur. Ohio'dan dönen Isaac Townsendler'e yemeğe gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gCFdf8Y0I2uw3mpFnrnhZB6QsoU.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "Duvarlar ve Kapılar",
+                "overview": "Ronnie'nin davranışları Dana Sue'yu endişelendirir. Erik gizli tutkusunu açıklar. Yeni nesil Manolyalar ilk toplantılarını yapar ama margarita olmadan.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lSKIYMMH1AoBAKXqoa9HVhjeM90.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "Çatlayana Kadar Dans Et",
+                "overview": "Sevilen eski ve yeni yılbaşı gelenekleriyle Noel herkesin yüreğini ısıtır. Maddie viral olan haber videosu sayesinde heyecan yaratan bir fırsat yakalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dBqriXkv0YERTy24qmYm5oXyb8g.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "Korkmayın",
+                "overview": "Serenity sakinleri, her yıl düzenlenen festival için toplanır. Yeni ilişkiler filizlenir ve yeni planlar yapılırken Manolyalar, hikâyelerinde açılacak yeni sayfaları düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b2hfqCSUDAZcZBKwPn266NE5g5g.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt9077540/s4/e10"
+            }
+        ],
+        "update_date": "2026-02-15 20:30:23"
+    },
+    {
+        "id": 86848,
+        "imdb_id": "tt9055008",
+        "name": "Evil",
+        "original_name": "Evil",
+        "overview": "Şüpheci bir kadın, sözde mucizelere ve doğaüstü olaylara inanmazken. Psikoloji alanında gösterdiği başarısından dolayı gizemli bir ekibe katılır. Şeytan çıkarma, açıklanamayan olaylar artık onun yeni mesleği olacaktır ama olayların ardında bilimsel bir açıklama olduğu düşüncesi ve olaylara şüpheli bakışı yaşadıklarıyla değişebilir.",
+        "poster": "https://image.tmdb.org/t/p/w500/auRAAVxlyT6YACql96UdtnpFHy3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/ttB60pxSxMyyW9mIDlq89RLf0vQ.jpg",
+        "year": "2019",
+        "rating": 7.8,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "CBS",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Katja Herbers",
+                "role": "Dr Kristen Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/hGpfEsOtnF9o3KWRhpNZ0G3CqmT.jpg"
+            },
+            {
+                "name": "Mike Colter",
+                "role": "David Acosta",
+                "image": "https://image.tmdb.org/t/p/w200/9LG9AzoY2ak6M2kwhKlGkLOUUot.jpg"
+            },
+            {
+                "name": "Aasif Mandvi",
+                "role": "Ben Shakir",
+                "image": "https://image.tmdb.org/t/p/w200/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+            },
+            {
+                "name": "Michael Emerson",
+                "role": "Dr Leland Townsend",
+                "image": "https://image.tmdb.org/t/p/w200/xOpr90SF1RCtjFNTu32nZQ90buY.jpg"
+            },
+            {
+                "name": "Brooklyn Shuck",
+                "role": "Lynn Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/2MkKPXiiT5GVl7808A8JaN2U7Cm.jpg"
+            },
+            {
+                "name": "Skylar Gray",
+                "role": "Lila Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/fnwxu7FBuRRYVTyDhAswQYPF4ZR.jpg"
+            },
+            {
+                "name": "Maddy Crocco",
+                "role": "Lexis Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/9vBiLOoMbrOh8NHBZS2qb0lBZFt.jpg"
+            },
+            {
+                "name": "Dalya Knapp",
+                "role": "Laura Bouchard",
+                "image": "https://image.tmdb.org/t/p/w200/lRxkJeR4s21nNZT0XZFsmtIzUii.jpg"
+            },
+            {
+                "name": "Andrea Martin",
+                "role": "Sister Andrea",
+                "image": "https://image.tmdb.org/t/p/w200/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
+            },
+            {
+                "name": "Kurt Fuller",
+                "role": "Dr. Kurt Boggs",
+                "image": "https://image.tmdb.org/t/p/w200/kV02XLACLFd1YYQdSOgqy6lFmQ3.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Adli psikolog Kristen Bouchard, eğitim süreci devam eden rahip David Acosta ve onun araştırmacı ortağı Ben Shroff bir seri katille ilgili araştırma yaparlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rxpKw9TPNZ3ZQJZZS1e6wKUguLl.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "177 Minutes",
+                "overview": "Kristen, David ve Ben iki saat ölü kaldıktan sonra yeniden hayata döndüğü açıklanan bir genç kızla ilgili gizemi aydınlatmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nTgCqCJw8gKX49u9jPL6lAl5E7R.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3.Stars",
+                "overview": "Kristen, David ve Ben; davranışları birdenbire değişen bir tiyatrocu hakkında araştırma yapmak için çağırılırlar. K.O.: John Glover, Dascha Polanco",
+                "still_path": "https://image.tmdb.org/t/p/w400/suikPRzJGRWGgkhRu8hIDeZP2a.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Rose",
+                "overview": "Kristen, Ben ve David şiddete eğilimi olan 9 yaşındaki bir çocuğu değerlendirmek üzere işe alırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jOofcXvmvLYmShUcnVEtgWq6BZP.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "October",
+                "overview": "Kristen ve David Cadılar Bayramı Gecesi'nde bir şeytan çıkarma ritüelini analiz etmeye çalışırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wTGYau0Jkc4w9ZAeKNNicq9hTgA.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Let X = 9",
+                "overview": "Kristen, David ve Ben'in yeni görevi kendisini peygamber ilan eden birini değerlendirmektir. Bu sırada Kristen'ın annesi ve Leland görüşmeye başlarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aTj1XN09B4PrO2YbYFjqLgrkUuV.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Vatican III",
+                "overview": "Kristen, David ve Ben'in yeni görevi cinayet işlediğini itiraf eden bir kadının söylediklerinin doğru olup olmadığını araştırmaktır. K.O:Annaleigh Ashford.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7onOoxheZ766nZSXYFkADkhOtFU.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "2 Fathers",
+                "overview": "Babası Leon'un sanat eserlerinden birinde bir mühür olduğunu fark eden David ve Kristen bunun anlamını ve izini sürerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iPsgD7F7jme9gEex8DmDeZHsVmV.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Exorcism Part 2",
+                "overview": "David, Caroline Hopkins'e zarar vermekle suçlanarak dava edildiğini öğrenir. K.O.: Renee Elise Goldsberry, Peter Scolari, Jennifer Ferrin",
+                "still_path": "https://image.tmdb.org/t/p/w400/gQlOYsVwFBx85uCnQxaCIpNnITq.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "7 Swans A Singin'",
+                "overview": "Kristen, Ben ve David genç takipçilerini kötü yönde etkileyen sosyal medya fenomenini ve öğrenciler arasında bağımlılık yapan bir şarkıyı inceler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1XKOe6BKhaNxCHQ6GvXfLiXowQB.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "Room 320",
+                "overview": "Uğradığı saldırıdan sonra ölümle burun buruna gelen David hayatta kalmak için büyük bir mücadele verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dgVSBAd7YLEABxhzLqV3O3NahTk.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "Justice X 2",
+                "overview": "Leland, seri katil Orson Leroux'nun hapisten kurtulmasına yardım etmeye çalışır. Bu sırada Kristen'ın kızı Laura acil olarak kalp ameliyatına alınır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uyT4RCSPIJevyunNBVIrflSfnJC.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "Book 27",
+                "overview": "Ekip, ikiz bebek sahibi olmaya hazırlanan hamile bir kadının iddialarını araştırır. Bu sırada Kristen da kızlarından biriyle ilgili araştırma yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7HKF7qE1LnR6jBIfBjALYwc31Su.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s1/e13"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Gece Terörleri",
+                "overview": "Ekip, Leland'ın ele geçirilme olasılığını değerlendirmekle görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nu35wUO68RbONguT6DPKDBInvZE.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Meleklere",
+                "overview": "Ekip, bir melekten sesler duyduğunu iddia eden adamı sorgulamakla görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kOLP92gl6cF8M11udhE4KbK2nwz.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Ateşte",
+                "overview": "Ekip, bir cin tarafından lanetlenen dokuz yaşındaki Mathilda ile karşılaşır...",
+                "still_path": "https://image.tmdb.org/t/p/w400/qGS8hedCQtsWglXqyVNUqsNElzk.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Asansörde",
+                "overview": "Ekip, Wyatt isimli bir gencin ortadan kaybolmasını araştırmakla görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pLu3FNeMpnLucmHvTpVQVORx7hu.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Zombiler",
+                "overview": "Peder Mulvehill, şeytani bir baskının kurbanı olabileceğinden korktuğu için ekipten gizli bir değerlendirme yapmalarını ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wkEKps25ebsnnub6O7HsY3ZhyFk.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Polisler",
+                "overview": "Silahsız bir kadının vurulmasının ardından ekip, tetiği çeken polis memurunu soruşturmakla görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hF3PvxSIOghnvvlcVHScYTPT5So.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Ekip, ölümünden sonraki bir yıl içinde bedeni çürümeyen Peder Thomas'ın cesedini araştırmak için bir manastıra gönderilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lYPvOrLMWfIg05owUMJqcqRfuSg.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Kristen, David ve Ben, Marx'ın isteği üzerine Cornell üniversitesindeki \"Tanrı Miğferi\" olarak adlandırılan elektrot tabanlı bir deneyi araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/53ydJ3WLDKSFmLLTwenT0QygjEY.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Ekip, bir hava kuvvetleri pilotu tarafından tespit edilen Ufo'nun araştırılması görevini üstlenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ti50ygSDEcaMxAQBAKnfNq1krTQ.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Ben, David ve Kristen, geçmiş vakalardan dolayı RSM tüp bebek kliniğini araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/reizAVHhoXahgUg8aenDffxBmJ3.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e10"
+            },
+            {
+                "season": 2,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Ekip, vergi muafiyeti için dini statü arayan yeni bir örgütün meşruiyetini araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zXnmZkQzSVCszToRXdgv9QkWAmO.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e11"
+            },
+            {
+                "season": 2,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Dr. Bogs'un isteği üzerine ekip, Nathan adında yeni boşanmış bir katolik ve onun genç oğlu Elijah ile tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zK8Eqtqus9l0snNGYU91kTS6L6h.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e12"
+            },
+            {
+                "season": 2,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Ekip, insan eti yemeye yönelik artan bir dürtüsü olan Mitch Jasper isimli öğrenci ile kampüste buluşmaya gönderilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9JFf0QVXbtLpPV1o307trfNQpw3.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9055008/s2/e13"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Ekip, insan ruhunun ağırlığını ölçen bir aracı incelemekle görevlendirilir. David'in Kristen ile ilişkisi ise farklı bir boyuta taşınmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zmOpiEZqFKqwGhmdMThOIiKhJV5.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "David, Kristen ve ben gençlerin ölmemek için uygunsuz şeyler yapmasına yol açan ve kısa sürede kontrolden çıkan bir durumu incelerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wmM9MFwdZdFjvHUKNAQwDMl3tZV.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Rahibe Andrea, kötülük tarafından ele geçirilmiş bir evliliği düzeltmek için ekibe katılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gPNARRNJfcAwJ0OfiXmJAHz8sCl.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Ekip, kötü ruhlar tarafından ele geçirilmiş olma olasılığı olan bir kamyon sürücüsüyle karşılaşır ve otoyolda inceleme yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hFZ8MFKBTlf5ZnrXxZh5cvdB2i5.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Leland ile mücadele eden rahibe Andrea'nın kariyeri ve akıl sağlığı sınanmaktadır. O sırada ekip bir melek görüldüğü iddiasının peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g0B6EpFQLpvN44yhbVZdSvOhaYV.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Bekar bir anne, ailesini rahatsız eden açıklanamayan olayları araştırmaları için ekibi görevlendirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/18strmiGpcV8U2mSqwS730PfjvT.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Ekip, kendi iradesi dışında alıkonulan genç bir adamın ele geçirilip geçirilmediğini veya bir tarikatten etkilenip etkilenmediğini araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sguHe5VD7QPqvSX7csLcLJXKYQJ.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Ekip, bir mağazadan gelen lanetli oyuncak ve elektronik eşya ihbarlarına yanıt verir. David, Grace ling'i kurtarmakla görevlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fL5apVShyyEkmW99gsiSquMVW3J.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Ekip, bir hisse senedi tüyosuna yatırım yapan insanların takip edildiği iddiasını araştırmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ytJaZ2S1hpFfWGAzjS7V6yamkGc.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Huzursuz bir evi araştıran ekip, bitişikteki evin Kristen'in evi olduğunu fark edince şaşkına döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jTH3QHexi3RaKNjEAs5iE1tpDUK.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt9055008/s3/e10"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Şüpheci bir psikolog, kilisenin açıklanamayan gizemlerle dolu birikimini araştırırken eğitim gören Katolik bir rakip ve mavi yakalı bir kalfayla çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/q5jf4zGvrrOgAd17UaMTwV3qhRC.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Kristen, David ve Ben olası bir kurt adam saldırısını çözmeye çalışır. Andy ise travmasıyla savaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5sKC8EwGmNtvYpRM1jrq4YdMTA5.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Kristen, David ve Ben'i bazı ürünleri araştırmak için domuz çiftliğine götürür. David uzaktan izleme konusunda kendini geliştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bWAOE7AXja6jr9sRfZLppmn64zb.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Şeytan çıkarma ayini isteyen bir çift, net konuşma yeteneklerini ellerinden alan bir iblis tarafından rahatsız edilir ve etkisi ekibe yayılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hZHa4bprmKPcXDm1SGsDesyodZ1.jpg",
+                "vote_average": 4.7,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Bouchard'ın evi kötü güçler tarafından sarılır. Bir yandan ekip Vatikan'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cNlxGLj8MBHwPTzjTvUv9yU8d8C.jpg",
+                "vote_average": 4.2,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Muhtemelen ele geçirilmiş bir dansçı Kristen, David ve Ben'i cadılar meclisi benzeri uygulamaları olan bir dans grubuna götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qaaAMhQFGYqbLYpJwpX1Y5sdkLb.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Kristen annesiyle ilgilenirken Ben ve David kendisine musallat olunduğuna inanan bir tren makinistiyle yolculuk ederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hW00VfhpOGNUV8KV13DaGmKfnEi.jpg",
+                "vote_average": 4.4,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "David, uzaktan izleme sayesinde cinayet ve intiharı düşünen bir adamın hayatına rastlar. Ekip adamı bulmak için acele eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mZPAivneqexYKM8ClfW1EcDQhCF.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Peder Ignatius David, Kristen ve Ben'i ölülerle sahte iletişim kurmak için yapay zeka kullanan bir şirketi araştırmaya yönlendiren kısa mesajlar alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n5WlIdpftT0l2dcxuUQHk4L047R.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Bir kasırga yaklaşırken Kristen, David, Ben ve kızlar en kötüsüne hazırlanırlar.Kristen, yeni komşusunun fırtınadan daha büyük bir tehdit olduğunu fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3kM8xYeAaExZ4QmJrJlhqmv8cpg.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e10"
+            },
+            {
+                "season": 4,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Ekip hayal kırıklığı yaratan bir haber alır. Kristen, Sheryl'in eski arkadaşı olduğunu iddia eden gizemli yabancı Ellie ile tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rX50cpqf18M2rL7Qv0JUoEbP1dD.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e11"
+            },
+            {
+                "season": 4,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Rahibe Andrea ekibe son değerlendirmelerini yapar. Üçü de yeni iş arayışına girer ve David daha da kötü haberler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cjVfQlA1u8S4r9dqux4JzJMbysn.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e12"
+            },
+            {
+                "season": 4,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Vatikan, ekipten bir dehanın doğaüstü inançlar ile olan bağlantıyı araştırmasını ister. Bu arada David Leland ile yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6a62meJFnLwqVM5VuPd3q2Aqq4w.jpg",
+                "vote_average": 3.9,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e13"
+            },
+            {
+                "season": 4,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "Bouchard kızları VR gözlüklerinde yeni bir oyuna başladıktan sonra kaygı verici bir geri sayım başlar. Ekip hiç beklemedikleri bir teklif alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8AxCDFTja4Apklzkm8Trj5S8Pir.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt9055008/s4/e14"
+            }
+        ],
+        "update_date": "2026-02-15 20:26:35"
+    },
+    {
+        "id": 82452,
+        "imdb_id": "tt9018736",
+        "name": "Avatar the Last Airbender",
+        "original_name": "Avatar the Last Airbender",
+        "overview": "Avatar olarak bilinen bir çocuk, savaş hâlindeki dünyayı kurtarmak için dört element gücünde de ustalaşmalı ve onu durdurmaya kararlı olan acımasız bir düşmanla savaşmalıdır.",
+        "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/imlTCObfzISogbvcwB1dokoXAIc.jpg",
+        "year": "2024",
+        "rating": 7.8,
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram",
+            "Aile",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Gordon Cormier",
+                "role": "Aang",
+                "image": "https://image.tmdb.org/t/p/w200/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg"
+            },
+            {
+                "name": "Kiawentiio",
+                "role": "Katara",
+                "image": "https://image.tmdb.org/t/p/w200/feaB7zjNi9WICHQU30a80d51DpR.jpg"
+            },
+            {
+                "name": "Ian Ousley",
+                "role": "Sokka",
+                "image": "https://image.tmdb.org/t/p/w200/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg"
+            },
+            {
+                "name": "Dallas Liu",
+                "role": "Zuko",
+                "image": "https://image.tmdb.org/t/p/w200/aismdzGeONTJHiPfofNaKGZSKZu.jpg"
+            },
+            {
+                "name": "Ken Leung",
+                "role": "Commander Zhao",
+                "image": "https://image.tmdb.org/t/p/w200/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+            },
+            {
+                "name": "Paul Sun-Hyung Lee",
+                "role": "Uncle Iroh",
+                "image": "https://image.tmdb.org/t/p/w200/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg"
+            },
+            {
+                "name": "Daniel Dae Kim",
+                "role": "Fire Lord Ozai",
+                "image": "https://image.tmdb.org/t/p/w200/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Aang",
+                "overview": "Savaşın patlak vermesinin ardından bir hava bükücü, yeni gerçekliğini kabullenmeye çalışır. Bir yüz yıl sonra Su Kabilesi'nden iki kardeş, her şeyi değiştiren bir keşif yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3eLPQfIOva0RSAoviRgNqBtqPck.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt9018736/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Savaşçılar",
+                "overview": "Aang, Katarae ve Sokka, adını Avatar Kyoshi'den alan ve elit savaşçıların evi olan küçük bir adaya varır. Ateş Ulusu, Avatar'ın nerede olduğunu öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fBg3ih6klXw61XGMAhaXucHhomo.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt9018736/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Omashu",
+                "overview": "Bir hainle ilgili haberler yüzünden Omashu'da anlaşmazlığa düşen üçlünün Toprak Krallığı'nı koruma planları, bir mekanist ile çekici bir lidere sahip asiler tarafından bozulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/k05PJk3Ym75fWZ43TzWwA6KZ202.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt9018736/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Karanlığa Doğru",
+                "overview": "Aang, hapiste oyunları çok seven bir kralla tanışır. Kız kardeşler, arkadaşlarını bulabilmek için farklılıklarını bir kenara koyup karanlık bir tünelde yollarını bulmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zEKE4WLjHImmn9xAl1OCFxSroVQ.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt9018736/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Ruhların Kaçışı",
+                "overview": "Ekip bir kurtarma görevi için Ruhlar Dünyası'na girdiğinde ciddi tehditler, acı veren hatıralar ve gizemli bir varlıkla yüz yüze gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cVbAWz6K87JgF8iYjzZL1DA3BEl.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt9018736/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Maskeler",
+                "overview": "Çaresiz Aang, Ateş Ulusu hızla yaklaşırken yardım istemek için Avatar Roku'yu ziyaret eder. Maskeli bir davetsiz misafir Aang'ı hapsedildiği kaleden kurtarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ydSEm8QnzgMDWYz4Z3dvhbsmhZH.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt9018736/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Kuzey",
+                "overview": "Kuzey Su Kabilesi'ne yapılacak saldırı yaklaşırken Katara, usta bir su bükücüye meydan okur. Sokka bir prensesle tanışır ve Aang Kuruk'un sözlerinden etkilenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l5n5OwFQPH0NyuBA4NEySAoO8hL.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt9018736/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Efsaneler",
+                "overview": "Zhao, Su Kabilesi'ni zayıflatmaya yönelik cesur bir planla Ateş Ulusu'nu Kuzey'e götürür. Savaş karanlık bir hâl alınca Aang güçlü bir dönüşüm geçirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ms2trhGJv7yWUe8doDMa9EHccAS.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt9018736/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 20:22:16"
+    },
+    {
+        "id": 82596,
+        "imdb_id": "tt8962124",
+        "name": "Emily in Paris",
+        "original_name": "Emily in Paris",
+        "overview": "Yeni tutkular. Yeni modalar. Peki, ya yeni bir Emily? Cesur bir pazarlama dehası olan bu Amerikalı, Paris'te hayallerinin işine girince hayatta ve aşkta yeni ufuklar edinir.",
+        "poster": "https://image.tmdb.org/t/p/w500/c0bkO416OU7YGdOFktk45H8REgL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
+        "year": "2020",
+        "rating": 7.6,
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Lily Collins",
+                "role": "Emily Cooper",
+                "image": "https://image.tmdb.org/t/p/w200/zhJISAc4qi7xiHMzHMzUTgZSIRH.jpg"
+            },
+            {
+                "name": "Philippine Leroy-Beaulieu",
+                "role": "Sylvie Grateau",
+                "image": "https://image.tmdb.org/t/p/w200/1wt9AWB8HQz23VDmcZA0tVQn0vx.jpg"
+            },
+            {
+                "name": "Ashley Park",
+                "role": "Mindy Chen",
+                "image": "https://image.tmdb.org/t/p/w200/aFw4TmHuaAIpz9nCvtadtO1AYGZ.jpg"
+            },
+            {
+                "name": "Lucas Bravo",
+                "role": "Gabriel",
+                "image": "https://image.tmdb.org/t/p/w200/uO6vMlJBMASyOQMisvnPehjsfJB.jpg"
+            },
+            {
+                "name": "Samuel Arnold",
+                "role": "Julien",
+                "image": "https://image.tmdb.org/t/p/w200/r5cHeGdcOXHfNjeGamlJG1WQLRS.jpg"
+            },
+            {
+                "name": "Bruno Gouery",
+                "role": "Luc",
+                "image": "https://image.tmdb.org/t/p/w200/w0JGP6mtph0PAaRmXagD9PcpQ5M.jpg"
+            },
+            {
+                "name": "Lucien Laviscount",
+                "role": "Alfie Peterson",
+                "image": "https://image.tmdb.org/t/p/w200/3GndTFV0wMGDwocS4rP5Z194uYu.jpg"
+            },
+            {
+                "name": "Eugenio Franceschini",
+                "role": "Marcello Muratori",
+                "image": "https://image.tmdb.org/t/p/w200/jeXQmBBuwuCUwHFmLy6GwXWhlkY.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Emily Paris'te",
+                "overview": "Emily, Paris'teki yeni ofisine öz güvenli Amerikan tarzını ve yeni fikirlerini taşır. Ancak Fransızca bilmemesi büyük bir soruna dönüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xXQKZgTBynnYWn7ygOk7RWh9Sko.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Maskulen Feminen",
+                "overview": "Bir iş etkinliğindeki coşkusuyla çapkın ve evli bir müşteriyi etkileyen Emily, kendini Fransız tarzı aşkın karmaşık yollarında bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9TE1XQF8eQJUJkrlmyEeWtypUC3.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Seksi mi, Cinsiyetçi mi?",
+                "overview": "Emily, müstehcen yeni reklam kampanyasına dair endişelerini dile getirirken sıhhi tesisat sorunlarıyla, dil dersleriyle ve sinir bozucu iş arkadaşlarıyla uğraşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1IEDLPnuTgrYbJRzyu2hQSGRO4K.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Sadece Bir Öpücük",
+                "overview": "Yeni tanıştığı tatlı bir kadın, Emily'nin son derece büyük, yeni bir potansiyel müşteri bulmasına yardım eder. Ama ofisteki karmaşık ilişkiler anlaşmayı tehlikeye atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mIMn71VYixR1CTMJByh1AXqNCcG.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Sahte Arkadaşlar",
+                "overview": "Emily artan sosyal medya takipçi sayısının Paris'te onun için yeni kapılar açtığını fark eder. Şehirde arkadaşça bir gecede Emily ve Gabriel baş başa bir konuşma yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n00dC6eF9U8MNX4rGojHTcobj0o.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Zevksiz",
+                "overview": "İkonik bir modaevindeki toplantı basit bir hata yüzünden kötü gidince Emily, teselliyi yakışıklı bir profesörde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xXfem9qMwaxnayx78yBStEysnt4.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Fransız Finali",
+                "overview": "Şık bir kırmızı halı etkinliğinde Amerikalı bir aktrise göz kulak olmayı kabul eden Emily'nin gecesi ve sorumlu olduğu ünlü film yıldızı kontrolden çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5NBDjHEKEXMuUxJlVf5r9hzYm3E.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Aile Meselesi",
+                "overview": "Emily'nin bir şatodaki hafta sonu gezisi gazı kaçmış şampanya gibi fos çıkar. Paris'te ise Mindy'nin eski dostlarıyla buluşması görkemli şekilde son bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wfayeln7TwG6BDxArGJtKwuL67l.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Paris'te Bir Amerikan Müzayedesi",
+                "overview": "Hayır amaçlı bir müzayede, bağışlanan bir elbise ve avangart bir tasarımcı ikili; Pierre Cadault'un varisinin gözüne kestirdiği Emily'nin sorunlarına yenilerini ekler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7dpXIVCN6ha3Ftad16Tm8jddI92.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Defile İptali",
+                "overview": "Moda Haftası ile ilgili fiyaskonun ardından işi tehlikeye giren Emily, iyi bir arkadaşına veda etmeye hazırlanırken bir yandan da yeni bir plan kurmak için uğraşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4XdKG9BHVxQ53CRCy4TdCyOlSiZ.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt8962124/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Benimle Uyumak İster misin?",
+                "overview": "Gabriel'le yaşadıkları yüzünden büyük bir suçluluk duyan Emily romantik bir hafta sonu gezisine gitmeye karar verir. Mindy yeni işinde beklenmedik zorluklarla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cs9hmdG9w6w5OkvcFKVOj5AiAZ9.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "St. Tropez'de Tek Başına",
+                "overview": "Hafta sonu çalışmak mı? Ne kadar kötü! Emily Saint-Tropez'de de olsa işini arkasında bırakamaz. Zaten sosyal medyada yaptığı hatayı düzeltmezse artık bir işi olmayabilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iZEPz9MBEy9Zoc11NvNCWuElvVC.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Bon Anniversaire!",
+                "overview": "Doğum günü için yemekli bir davet planlayan Emily, Camille’in arkadaşlarıyla gittiği saunada soğuk terler döker ve menüyle ilgili Gabriel’in yardımını kabul eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8ojOKp4wZhFU2Qv4eV5HvAboqzs.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Unutulmayan Sevgili",
+                "overview": "Emily, kişisel dramaları Savoir'daki işini etkilemeye başlayınca Fransızca derslerine daha fazla odaklanmaya karar verir. Mindy yeni işinde bir pandomimciyle uğraşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yK7niDJXEdr6AKLimgV8ZpdWQvy.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Paris'te Bir İngiliz",
+                "overview": "Gabriel'in restoran açılışı, bir Chopard etkinliği ve burnundan soluyan Camille ile uğraşan Emily, bezgin bir sınıf arkadaşıyla Fransızca konuşma pratiği yapmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/c6lRYTvJR3o6oU0DabE38EBSUIu.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Bardağı Taşıran Son Damla",
+                "overview": "Chez Lavaux'nun açılış gecesinde ortam gerilir. Emily tarzı ve yaşama sevinci yüzünden Alfie'nin onu yanlış anladığını hisseder. Sylvie bir fotoğrafçının dikkatini çeker.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ykomsIPlGq3uhvadIpY0eoToa0J.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Aşçı, Hırsız, Yok Sayılan Kız ve Sevgilisi",
+                "overview": "Emily sonunda Alfie ile yakınlaşır ama ödünç alınan bir ceket nedeniyle işler epey tuhaf bir hâl alır. Savoir'nın yeni Amerikalı müşterisi Sylvie'yi rahatsız eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qxumKipIFtni0AYgg4B2uu9nkHB.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Şampanyanı Nasıl Patlatırsın?",
+                "overview": "Alfie, Gabriel sayesinde tıka basa bir akşam yemeği yer. Emily, Camille'in ailesinin şatosunda Champère için bir tanıtım videosu çekerken beklenmedik bir aksilik yaşanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tKU7Okh2g7XrS7rBMoOy67N3sWn.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Kokular ve Hisler",
+                "overview": "Emily'nin Şikago'daki patronu, Savoir'ın hesaplarını iyice deşince Sylvie rahatsız olur. Mindy'nin filizlenen aşkı, sırrının ortaya çıkmasıyla darbe alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8ZZs4WRSoYV7i8OrDk6Vsjk9Anc.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "Fransız Devrimi",
+                "overview": "Versailles'daki bir defile Savoir'la birlikte kendi geleceğini de belirleyecek bir hesaplaşmaya sahne olunca Emily taraf seçmekte zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4Z2SajfuraGexYgXkPOhC9MGuKV.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt8962124/s2/e10"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "İki Aşkım Var",
+                "overview": "Emily ani ve hızlı bir kararla saç modelinde değişiklik yapar ama kariyeri ve aşk hayatı söz konusu olunca uzun uzadıya düşünmeden edemez.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dx8qs7IutNjlEyhCY3QaFuTKbiG.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Ne Olacak...",
+                "overview": "Savoir kaosa sürüklenirken, Emily eski iş arkadaşından yardım ister. Fakat görkemli bir galadaki yumuşatma çabaları hızla sarpa sarmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cKOy9t5woCV4KfHVXZsmsBWkUeq.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Güvercin Saldırısı",
+                "overview": "Çalışma koşulları kötüye giderken Sylvie tüm cazibesini kullanır. Mindy sahne arkasında ateşli anlar geçirir. Emily ne yapacağıyla ilgili karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o6WCmhf4o8c1JStBwH3SeNWmXIF.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Paris'ten Canlı, Ben Emily Cooper",
+                "overview": "Paris sokaklarında turist gibi gezen Emily kendine ek iş bulur ama Fransızcası zorlu bir sınavdan geçer. Camille çekici bir sanatçıyla yakınlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9c1DwuovMobFeeAL1wLlCj9S533.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Ooo La La Liste",
+                "overview": "Emily, Sylvie'yi kim kimdir listesine sokmak için nüfuzunu kullanmaya çalışır. Mindy güçlü bağlantıları olan eski bir arkadaşa rastlar. Alfie bir parti verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dIDdFNnqMU3ANoUBIIKHbPsD5iK.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Eski Defterler",
+                "overview": "Emily ve ekibi bir lüks araba etkinliği için Provence'ta bir şatoya gider. Burada lavanta tarlaları, bir ziyafet ve sürpriz bir konuk, yaşanacak romantik anlara zemin hazırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hA6ROKC68n3ufYBD1ZptneAc4tE.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Bir Tasarımcı 10 Günde Nasıl Kaybedilir?",
+                "overview": "Agence Grateau moda dünyasıyla ilgili sorunlar yaşarken Mindy, anlamını çözemediği bir davet alır ve Emily ile Gabriel'den destek ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9lCi25jsazi7FaLN3PvHny5gB5M.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Modanın Kurbanı",
+                "overview": "Mağazasının açılışıyla ilgili söylentiler ortalıkta dolaşırken Pierre'in durumu belirsizdir. Sylvie eski bir tanıdıkla konuşur. Emily, efkârlı Gabriel'e destek olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aLUd0O8Kxat3fBtZ3TwD3bDLK3f.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "Havada Aşk Kokusu Var",
+                "overview": "Alfie ile ilişkisi konusunda tereddütleri olan Emily, Mindy'nin erkek arkadaşının davranışlarına anlam veremez. Gabriel geleceğine odaklanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lEbEdQoYyYlPhM7bYVYKjyK6Hbr.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "Anlaşma",
+                "overview": "Bir iş arkadaşının kuyusunu kazan ve Gabriel'in aşçılık hayalini gerçekleştirmesine yardım eden Emily, Champagne'de bir kutlamaya katılır. Kutlamada şoke edici bir gelişme yaşanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5JRhlDYW63z1N8H3Hy0CysqFcac.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt8962124/s3/e10"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Kırılma Noktası",
+                "overview": "Felaketle sonuçlanan bir düğün ve viral olan bir videonun ardından Emily, Fransa Açık Turnuvası öncesi hem kişisel hem de profesyonel ilişkilerini düzene sokmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jjpn557IHDYqQKBuK5EhbHCQVsM.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Kaçak Sevgili",
+                "overview": "Emily, Gabriel ile büyük bir sırrı paylaşınca endişe, öfkeye döner. Mindy, JVMA'nın marka odasındaki kirli sırrı keşfeder. Camille dertlerini unutmak için bir seyahate çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9fmEOw3zdYa5OVOjZaHC0zOituW.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Maskeli Balo",
+                "overview": "Gabriel'in hayat koşulları iyice karmaşık bir hâl alırken Emily, Maison Lavaux için şatafatlı bir maskeli balo planlar. Baloda duygular itiraf edilir ve tercihler yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ikH9Uvi3duDV8tJIyaiFjx5Rvyi.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "Gri Bölge",
+                "overview": "Emily, romantik bir randevu için özel bir yer bulmaya çalışır. Sylvie, Laurent'ın kulübünün açılışı için bir iyilik ister. Mindy'nin ilişkisi çıkmaza girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fhB5VuOLzDS3AJjVPIYhkXELgt3.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Göz Yanılsaması",
+                "overview": "Bir cilt bakımı markasını tanıtan Agence Grateau ve bir Michelin yıldızı almaya çalışan Gabriel görünüşün aldatıcı olduğunu kanıtlar. Camille'in alışveriş gezisinde sorun çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zkLroLy3kYxMxeWtBBN8rh3bJE.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Son Noel",
+                "overview": "Noel planlarındaki bir son dakika değişikliğinin ardından Emily soluğu Fransız Alplerindeki bir dağ evinde alır. Kayak pistlerinde Emily'yi inişli çıkışlı bir macera beklemektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/weXskv1u94ZqDMsg6y5q9rmPjQm.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "Bir Konuşabilse",
+                "overview": "Sylvie, Emily'nin yanına bir yardımcı alır ve Emily, Gabriel ile iletişim sorunu yaşar. Mindy üstsüz sergileyeceği gösteri için endişelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6vk09B7stlC4deC73Xn0BqoUJ0F.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "Çılgın Hayata Dönüş",
+                "overview": "Emily'nin yakışıklı kurtarıcısı yeniden ortaya çıkarak Emily'ye cazip bir teklifte bulunur. Mindy, Çılgın At'taki performansıyla eğlendirir. Genevieve misafirliği fazla uzatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bWM87JN0YnLYDEgaWnpZBguz7i7.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "Roma Tatili",
+                "overview": "Binasına yeni bir komşu taşınırken, Emily hiç akla gelmeyecek bir şey yapar ve işten bir gün izin alıp Roma'da, çekici bir tur rehberiyle buluşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eDocOzeQBFXjpTR4pY6WwNBPmpB.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "Tüm Yollar Roma'ya Çıkıyor",
+                "overview": "Emily, İtalya'daki zamanını işle eğlenceyi birbirine karıştırarak geçirmek istemez. Gabriel için her şey yolunda giderken Mindy harabelerden ilham alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qZko5RaH3wI7ZbFuN8JPv10EYpa.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8962124/s4/e10"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "Tatlı Emily",
+                "overview": "Emily, yeni bir fırsatın peşinde koşarken topuklu ayakkabılarını çamura bular. Bu sırada Sylvie, maddi sıkıntı çeken bir prensesin yardımıyla Roma'nın elitlerini büyüler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jClv15LysPMbtlxNxsYmb3gPyPt.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "Gerçek Olmalı",
+                "overview": "Emily, bir moda falsosu nedeniyle neyin hakiki neyin sahte olduğunu sorgular. Mindy, bir etkinlikte devasa bir kokteyl bardağında sahne alması istendiğinde buna çok bozulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AlqmEUilGNDDQzYYAxGW0pjKvuX.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "Intimissimi Sorunları",
+                "overview": "Sylvie ve Giancarlo'nun setteki didişmeleri, prodüksiyonun senaryodan sapmasına neden olur. Bir iç giyim kampanyası, Emily'yi daha derin bir mevzuyu açığa çıkarmaya teşvik eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bhrya5vaNhvOZCnwReBdO4JgvG2.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "Roma'nın Düşüşü",
+                "overview": "Sylvie, Solitano'da gala gecesine gelecek eleştirilere hazırlanır. Mindy zorlu bir konuşmadan kaçınmaya çalışır. Emily başarının olumsuz sonuçları olabileceğini de keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dJ9DXmDem9xQyXr2Wy6Bk0B9VDy.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "Merhaba Paris!",
+                "overview": "Paris'e yeni dönen Emily, mutfaktaki ani bir gelişme yüzünden tehlikeye giren otel açılışına müdahale etmek zorunda kalır. Sylvie beklenmedik şekilde evde fazlalık hâline gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/obwDbCaL251eebFYFyxU3gcsnoT.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "Emily'nin Büyükelçiliğe Gittiği Bölüm",
+                "overview": "Evi gözünde tüten Emily, Amerika topraklarında özlemini abur cuburlarla giderir. Hızlandırılmış bir sosyal medya eğitimi alan Sylvie, eski bir tanıdığın paylaşımlarını dikizler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jcL3W8PrtODRP0H8jS1nqxekc7.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e06"
+            },
+            {
+                "season": 5,
+                "episode": 7,
+                "name": "İkinci Şanslar",
+                "overview": "Bir moda sektörü konferansındaki gövde gösterisi herkesin dikkatini çeker. Kötüleşen imajını toparlayamayan bir lüks su markası batmamak için Ajans Grateau'ya başvurur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ivkNSSMG9bBNfBUSFGC42uyDjkm.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e07"
+            },
+            {
+                "season": 5,
+                "episode": 8,
+                "name": "Moda Manifestosu",
+                "overview": "Bir tasarımcıdan toplantı koparmaya çalışan Emily, adamın köpeğini tavlar. Şehrin diğer ucunda, aile draması dolu bir kutlamaya giden Sylvie ise kendini bir skandalın içinde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pRwCjq8c6IF3AQ1edcfNbRlWxYC.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e08"
+            },
+            {
+                "season": 5,
+                "episode": 9,
+                "name": "La Belle Époque",
+                "overview": "Katılmayı çok istediği bir gösteriye iki haftada hazırlanması gereken Marcello'nun hayalleri pamuk ipliğine bağlıdır. Beklenmedik bir ziyaretçi, Emily'ye eski zamanları hatırlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wHGas4IF6RdOvovCcAXjFIN0RgM.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e09"
+            },
+            {
+                "season": 5,
+                "episode": 10,
+                "name": "Veni, Vidi, Venedik",
+                "overview": "Kaderini belirleyecek olan Venedik Moda Haftası'nın kaosuyla boğuşan Emily, başarılı olmak için elinden geleni yapar. Paris'te ise ajans kendi sorunlarıyla uğraşmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yD4HhWmXfWm6KQd52PxnWXhTMer.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt8962124/s5/e10"
+            }
+        ],
+        "update_date": "2026-02-15 20:19:33"
+    },
+    {
+        "id": 85552,
+        "imdb_id": "tt8772296",
+        "name": "Euphoria",
+        "original_name": "Euphoria",
+        "overview": "Dizide 17 yaşındaki Rue’nun hikayesi anlatılıyor. Zendaya’nın hayat verdiği Rue’nun anlattığı hikayeler seks, kimlik arayışı, travma, sosyal medya, uyuşturucu, aşk ve arkadaşlık gibi temaları ele alıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+        "year": "2019",
+        "rating": 8.3,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Zendaya",
+                "role": "Rue Bennett",
+                "image": "https://image.tmdb.org/t/p/w200/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+            },
+            {
+                "name": "Hunter Schafer",
+                "role": "Jules Vaughn",
+                "image": "https://image.tmdb.org/t/p/w200/6ZDieLlbm2m3jbYaxsHFo7cWWzJ.jpg"
+            },
+            {
+                "name": "Sydney Sweeney",
+                "role": "Cassie Howard",
+                "image": "https://image.tmdb.org/t/p/w200/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+            },
+            {
+                "name": "Jacob Elordi",
+                "role": "Nate Jacobs",
+                "image": "https://image.tmdb.org/t/p/w200/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+            },
+            {
+                "name": "Alexa Demie",
+                "role": "Maddy Perez",
+                "image": "https://image.tmdb.org/t/p/w200/zba2qXMNRnD7uXOYzXfcnstv17V.jpg"
+            },
+            {
+                "name": "Maude Apatow",
+                "role": "Lexi Howard",
+                "image": "https://image.tmdb.org/t/p/w200/xWj49QAsGlC92YcguaEEYvoMEsg.jpg"
+            },
+            {
+                "name": "Eric Dane",
+                "role": "Cal Jacobs",
+                "image": "https://image.tmdb.org/t/p/w200/lSs2O89BDyEwi8p0VhqX2jU90Hk.jpg"
+            },
+            {
+                "name": "Martha Kelly",
+                "role": "Laurie",
+                "image": "https://image.tmdb.org/t/p/w200/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+            },
+            {
+                "name": "Chloe Cherry",
+                "role": "Faye",
+                "image": "https://image.tmdb.org/t/p/w200/czDZr2NO24E6aGGeb7PnLhJRiQR.jpg"
+            },
+            {
+                "name": "Adewale Akinnuoye-Agbaje",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Rue, rehabilitasyon merkezinden eve döner. Bir partide şehre yeni gelen Jules ile tanışır. Öte yandan, yeni ayrılan Nate ve Maddy birbirlerini kıskandırmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt8772296/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Babam Gibi Numara Yapmak",
+                "overview": "Geçmişi geride bırakmaya çalışan Rue, okulun ilk gününde yeni arkadaşı Jules için heyecanlıdır. Bu sırada, Nate, Maddy ile tekrar bir araya gelmeye çabalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4NCKs8RMxevYrBzuqGI4usEprUL.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8772296/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Made You Look",
+                "overview": "Jules internetten biriyle tanışır ve Rue’dan yardım ister. Öte yandan, Maddy, Nate'in telefonunda tuhaf bir şey bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5mimFhtPvrIlmEdRsevtnCSSvon.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8772296/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Shook One : Pt 2",
+                "overview": "Rue arınmaya çalışırken Gia’ya karnavalda eşlik eder. Jules, Cal ve ailesi ile karşır. Öte yandan, gerçekte kim olduğu da ortaya çıkmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/CkshIxWHj1yI0Xqh84dgDfAAfG.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt8772296/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "'03 Bonnie and Clyde",
+                "overview": "Rue'nun son zamanlardaki temkinli hali sebebiyle Jules kendini baskı altında hisseder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3ff187LdnqgrrOQWlzGShPR5sLS.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8772296/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "The Next Episode",
+                "overview": "Cadılar bayramında Jules endişeli davranışlar sergilemeye başlamışken, Rue ‘nun güveninden endişe eder. Öte yandan, McKay futboldaki geleceğini sorgulamaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/40TkPAIhEhZkSOB7EIeaysAb6Ni.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt8772296/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Denemeler ve Sıkıntılar...",
+                "overview": "Depresyona giren Rue çareyi dizi izlemekte bulur. Jules eski bir dostunu ziyarete gider. Öte yandan, Cassie, Cadılar Bayramı gecesi sonrasında tavsiye arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vMQsSORQsV2tfUw1ezyGiCbO6l8.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt8772296/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "And Salt the Earth Behind You",
+                "overview": "Öte yandan Kat onu takip edenin kim olduğunu bulmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kLsHM3fxgYMPw4Cwg3oZDAnenV2.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt8772296/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "East Highland yeni yıla girmeye hazırlanırken Rue ve Jules, Noel'den sonra ilk kez karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8rW1LANR14YRkT8poSziWOiRa5U.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt8772296/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Yeni sömestir başlarken Jules, Rue ve Elliot'ın arkadaşlığını sorgular. Cal bazı cevaplar ararken Nate zor bir karar almak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8SVh38IfkMbqSaPEoauR8tl8gDu.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8772296/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Yeni bir iş girişiminin peşine düşen Rue, bir yandan da Jules ve Elliot arasında yakınlık kurmaya çalışır. Maddy, Nate ile barışmayı düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nibFSc6mQLHeFAkfKEifnObtYRR.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt8772296/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Maddy'nin doğum günü partisi, sorgulanan ve kutlanan ilişkilere ev sahipliği yapar. Jules, Elliot'tan tavsiye ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nuTsLlLNacklbITyQPRvKOAtXlg.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8772296/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Rue, onu korumaya çalışan Leslie'nin yaptığı bir şey yüzünden zor durumda kalır. Rue ise Laurie'ye olan borcunu nasıl ödeyeceğini düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g90PNNYusg548V8wncsK4lUb1rY.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt8772296/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Eve geri dönüp toparlanmaya çalışan Rue, Ali ile yeniden iletişime geçmeyi düşünür. Kat ve Ethan ise ilişkileriyle ilgili bir karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a4FJJ4jPpYc34jmtXzgm2uAS6V7.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8772296/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Lexi’nin uzun zamandır beklenen tiyatro oyunu sonunda izleyicilerle buluşur. Herkes bu oyunda kendisinden bir parça bulur. Maddy aldığı kararı sorgular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1qXV8oAPhIqkqaNouwb9JC28SfV.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt8772296/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "[SEZON FİNALİ] Maddy ve Cassie ilk kez karşı karşıya gelirler. Nate geleceği için kendisine yakın birine ihanet eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/po4G5fgneIoiuk7TWlvcusWM1HS.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt8772296/s2/e08"
+            }
+        ],
+        "update_date": "2026-02-15 20:08:21"
+    },
+    {
+        "id": 223530,
+        "imdb_id": "tt8622160",
+        "name": "Star Trek: Starfleet Academy",
+        "original_name": "Star Trek: Starfleet Academy",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
+        "year": "2026",
+        "rating": 4.8,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Holly Hunter",
+                "role": "Nahla Ake",
+                "image": "https://image.tmdb.org/t/p/w200/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+            },
+            {
+                "name": "Sandro Rosta",
+                "role": "Caleb Mir",
+                "image": "https://image.tmdb.org/t/p/w200/y0SPIdGOX8Z1CKCMt4ZhU0QMuxG.jpg"
+            },
+            {
+                "name": "Karim Diane",
+                "role": "Jay-Den Kraag",
+                "image": "https://image.tmdb.org/t/p/w200/1oRkwzDRX5QN52LrpNc6Ot3y3nQ.jpg"
+            },
+            {
+                "name": "Kerrice Brooks",
+                "role": "Series Acclimation Mil 'Sam'",
+                "image": "https://image.tmdb.org/t/p/w200/AfVXStImMwjCfCqMTNdaraJNRme.jpg"
+            },
+            {
+                "name": "George Hawkins",
+                "role": "Darem Reymi",
+                "image": "https://image.tmdb.org/t/p/w200/hG3KQ6Z4RTy7jgxtU4szo1yAWWy.jpg"
+            },
+            {
+                "name": "Bella Shepard",
+                "role": "Genesis Lythe",
+                "image": "https://image.tmdb.org/t/p/w200/6JCwRJNNBXFKqsiixbfbRtSk2F5.jpg"
+            },
+            {
+                "name": "Zoë Steiner",
+                "role": "Tarima Sadal",
+                "image": "https://image.tmdb.org/t/p/w200/35Q3QzPHwV1brW8Vi5tvs90Al0B.jpg"
+            },
+            {
+                "name": "Gina Yashere",
+                "role": "Lura Thok",
+                "image": "https://image.tmdb.org/t/p/w200/Ns2vbmP6RdNyFr8JApjnzOZ2FG.jpg"
+            },
+            {
+                "name": "Robert Picardo",
+                "role": "The Doctor",
+                "image": "https://image.tmdb.org/t/p/w200/9TOY0mhWRMlU5Ur8QHMoDecWs2n.jpg"
+            },
+            {
+                "name": "Tig Notaro",
+                "role": "Jett Reno",
+                "image": "https://image.tmdb.org/t/p/w200/tdZ6XLzIaK0HWWPSM2B5OrOqUC0.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Günümüz Çocukları",
+                "overview": "Zeki bir sokak çocuğu olan Caleb Mir'e yeni açılan Yıldız Filosu Akademisi sınıfına kabul teklifi yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1U61OOu2BCLeqqjdIdSeXCCwDWc.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt8622160/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Beta Testi",
+                "overview": "Yeni akademik yıl başlarken Caleb, Yıldız Filosu Akademisi'nde yerinin olup olmadığını sorguluyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vVrNWCRZqegqRkVa7VEcdAp9WEi.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt8622160/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Öğrencilerimiz Akademi'deki seçkin bir takıma katılmak için yarışırken, Yıldız Filosu Akademisi ile rakip bir okul arasında giderek artan şakalarla dolu bir savaş başlar. Gerilim hızla yükselir ve yeni gelişen bağlarını ve filizlenen romantik ilişkilerini tehdit eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zxGxsjWs4UfQMsReYWHNGhuItne.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt8622160/s1/e03"
+            }
+        ],
+        "update_date": "2026-02-15 20:00:25"
+    },
+    {
+        "id": 93166,
+        "imdb_id": "tt8201186",
+        "name": "The Capture",
+        "original_name": "The Capture",
+        "overview": "Dizi eski bir İngiliz askeri olan Shaun Emery’yi (Turner) merkezine alıyor. Shaun, Afganistanda bir cinayetten dolayı mahkum olur. Ancak kusurlu video kanıtları nedeniyle mahkumiyeti bozulur ve 6 yaşındaki kızıyla birlikte özgür bir adam olarak yaşamını planlamaya başlar. Fakat, bir gece vakti Londra’da meydana gelen bir olaydan sonra ortaya çıkan CCTV görüntüleri sonrası Shaun’un, kendisini bir kez daha özgürlüğü için savaşmak zorunda kalması çok uzun sürmez. Yalanlar, ihanet, yozlaşma, onun sandığından çok daha fazla yayılmış durumdadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/btWghV6scZ1uTLYRFnJuk3bZ5bw.jpg",
+        "year": "2019",
+        "rating": 7.8,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "BBC One",
+            "Amazon Prime",
+            "Peacock Premium Plus",
+            "Peacock Premium"
+        ],
+        "cast": [
+            {
+                "name": "Holliday Grainger",
+                "role": "DI Rachel Carey",
+                "image": "https://image.tmdb.org/t/p/w200/fHveeGXgEfTZ9slB5OvHDG4LAPw.jpg"
+            },
+            {
+                "name": "Ben Miles",
+                "role": "Commander Danny Hart",
+                "image": "https://image.tmdb.org/t/p/w200/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
+            },
+            {
+                "name": "Lia Williams",
+                "role": "DSU Gemma Garland",
+                "image": "https://image.tmdb.org/t/p/w200/d7BIswSeHeAdIobNjsWEFG2uj1H.jpg"
+            },
+            {
+                "name": "Paapa Essiedu",
+                "role": "Isaac Turner MP",
+                "image": "https://image.tmdb.org/t/p/w200/xMU7tSgdPMF53bdNMUhUMQOVIj3.jpg"
+            },
+            {
+                "name": "Indira Varma",
+                "role": "Khadija Khan",
+                "image": "https://image.tmdb.org/t/p/w200/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+                "name": "Charlie Murphy",
+                "role": "Simone Turner",
+                "image": "https://image.tmdb.org/t/p/w200/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg"
+            },
+            {
+                "name": "Tessa Wong",
+                "role": "DC Chloe Tan",
+                "image": "https://image.tmdb.org/t/p/w200/8bgwte22fpOPlPtBtItxYBk5HjT.jpg"
+            },
+            {
+                "name": "Andy Nyman",
+                "role": "Rowan Gill",
+                "image": "https://image.tmdb.org/t/p/w200/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Asker Shaun Emery'nin bir cinayet yüzünden aldığı mahkumiyet, hatalı video kayıtları nedeniyle bozulunca küçük kızıyla özgür bir adam olarak hayata döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oUeNsT1Vk7fkiIIS4g5eIdJALIM.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Soruşturmasından önemli delillerin gizemli bir şekilde çıkarılmasının ardından Carey, kendi cevaplarını arayan Shaun'a ulaşmak için başka yollar bulmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/azLqbKC1Vwzdp1LEJBXvh8qeeGb.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Shaun, gizemli bir CIA ajanı tarafından sorguya çekilir. Rachel, onun içeri girdiği görüntüleri izler. Ancak sonra onu içeride bulamayınca soruşturma çıkmaza girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1ml5z5iBFiCY5K4utdWpDpbxyoB.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Rachel ile Shaun sonunda yüz yüze gelir. Shaun, tutuklanmaktan bir kez daha kurtulmayı başarır ve onu gerçeğe götüreceğine söz veren iki gizemli yabancıyla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yMjYGKjIb5j1wQkyHSKmubOGFKC.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Tüm karmaşıklığı ve belirsizliğiyle gerçek ortaya çıktığında Shaun ve Rachel, onları bekleyen şeye hazırlıklı değildir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qK2HJlFoVCyL4ib4wnHI0J8KVE1.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-15 19:35:05"
+    },
+    {
+        "id": 82856,
+        "imdb_id": "tt8111088",
+        "name": "The Mandalorian",
+        "original_name": "The Mandalorian",
+        "overview": "İmparatorluk'un çöküşünden sonra yalnız bir Mandalorian, öksüzü Grogu'yla beraber kanunsuz galakside dikkatle yol alır.",
+        "poster": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg",
+        "year": "2019",
+        "rating": 8.4,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Pedro Pascal",
+                "role": "Din Djarin / The Mandalorian",
+                "image": "https://image.tmdb.org/t/p/w200/cuhkTL3MezjArl80MnYl6QJQ4PQ.jpg"
+            },
+            {
+                "name": "Katee Sackhoff",
+                "role": "Bo-Katan Kryze",
+                "image": "https://image.tmdb.org/t/p/w200/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Kısım 1: Mandaloryalı",
+                "overview": "Bir Mandaloryalı ödül avcısı, iyi para ödeyen bir müşteri için bir hedefi izler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lr8OEa0GzjZ0qmD9NuuMj6TRWxF.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt8111088/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kısım 2: Çocuk",
+                "overview": "Hedef çantada keklik, Mandaloryalı şimdi çöpçülerle mücadele etmek zorunda.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kOpbxaH4nt5H1fArQQ1IzG9NzBw.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt8111088/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Kısım 3: Günah",
+                "overview": "Hırpalanmış Mandaloryalı müşterisine ödül için geri döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5wGkymV2D9P9ZGI2wP0PefIwFol.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt8111088/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Kısım 4: Barınak",
+                "overview": "Mandaloryalı, bir köyü akıncılardan korumak için eski bir askerle birlikte çalışıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cKyE2gtQT5zIpLQHnD3mFNWrKud.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt8111088/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kısım 5: Silahşör",
+                "overview": "Mandaloryalı, boyunu aşan bir çaylak ödül avcısına yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bAuXxIGaRPtXmO1qlm7B99PPlCV.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt8111088/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Kısım 6: Mahkum",
+                "overview": "Mandaloryalı, tehlikeli bir görev için paralı asker ekibine katılılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7Z9Bc58uLnp8gIDGtdi0jNEqYZY.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt8111088/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Kısım 7: Hesaplaşma",
+                "overview": "Eski bir rakip Mandaloryalı'ya barış yapma davetinde bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/m483Gihn8vAt0cW5RXe5YRtchIQ.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt8111088/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kısım 8: Kefaret",
+                "overview": "Mandaloryalı, beklenmedik bir düşmanla yüz yüze gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v36aZwxTsPAvqsssLPVno3VFvg5.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt8111088/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Kısım 9: Mareşal",
+                "overview": "Mandalorian, kendi türünden başkalarını aramak için Dış Halka'ya çekilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n6oeOfj8jMPbXZ2E2QTVXYt5cvO.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt8111088/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Kısım 10: Yolcu",
+                "overview": "Mandaloryalı, riskli bir yolculukta değerli bir kargo ile bir yolcuyu taşımak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kAuS7h8qVLokHcKpSwZMum4PhC2.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt8111088/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Kısım 11: Mirasçı",
+                "overview": "Mandalorian açık denizlere meydan okur ve beklenmedik müttefiklerle tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gnZOQajf33N3BzRouIZU3NM45TY.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8111088/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Kısım 12: Kuşatma",
+                "overview": "Mandaloryalı, yeni bir görev için eski müttefiklerine katılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yMETKVeybSp9LjiWDBq1fPF1oWh.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt8111088/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Kısım 13: Jedi",
+                "overview": "Mandalorian, acımasız ve güçlü bir düşman olan bir yargıç tarafından yönetilen bir dünyaya yolculuk eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/42QoiVzHnBKAxHT4DpYIKkRTG3N.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt8111088/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Kısım 14: Trajedi",
+                "overview": "Mandalorian ve Çocuk antik bir bölgeye seyahat eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zmDFNEaEBPP8QxUMecOouhYxmLW.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt8111088/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Kısım 15: İnançlı",
+                "overview": "İmparatorluğa karşı hareket etmek için Mandalorian'ın eski bir düşmanın yardımına ihtiyacı var.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bTzhzNSVFugIyc8pHutmLCJdgv5.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8111088/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Kısım 16: Kurtarma",
+                "overview": "Mandolorian, Moff Gideon Grog'u (Babek Yoda) Moff Gideon'un elinden kurtarmak için Bobby Fett, Cara Dune, Sniper Fennek ve Princess ile ittifak kurar. Çok büyük baskı altında iken, beklenmedik güçlü bir yabancı tarafından kurtarılırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/non7AnwMaloVU0OtenLqKyq8Zg3.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt8111088/s2/e08"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Kısım 17: Mürted",
+                "overview": "Mandaloryalı önemli bir yolculuğa başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8XeuJls7qlTsPiDAK0qarvBrmb2.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt8111088/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Kısım 18: Mandalore Madenleri",
+                "overview": "Mandalorian ve Grogu, yok edilmiş bir gezegenin kalıntılarını keşfederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yR3pIsArgHpyeGScXHKqj8hGRBo.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8111088/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Kısım 19: Dönüşüm",
+                "overview": "Coruscan'ta, eski İmparatorluk üyeleri, Yeni Cumhuriyet'te affedilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zgj0iZUYNIZh0NbPVdNEdTacfwv.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt8111088/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Kısım 20: Kimsesiz Çocuk",
+                "overview": "Din Djarin, Mandalorian gizemine geri döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dvtW5Vcqojq2wVZjALXgTYQM4U2.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt8111088/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Kısım 21: Korsan",
+                "overview": "Sıkça korsan saldırılarına maruz kalan Nevarro halkının korunmaya ihtiyacı var.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dcNK8WK5pwsUdgE4Fw2bQ6bNYlC.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt8111088/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Kısım 22: Paralı Askerler",
+                "overview": "Mandaloryalı  zengin bir gezegeni ziyaret eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tIbTlMWkVBFUeUT76FXWb6jzteW.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt8111088/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Kısım 23: Casuslar",
+                "overview": "Hayatta kalanlar saklandıkları yerden çıkarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/38blBPXRWevBgwa4XPVZkc2mMCO.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt8111088/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Kısım 24: Dönüş",
+                "overview": "Mandalorian ve müttefikleri, düşmanlarıyla yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9XH1CC5WevIZHyTqoJkJ4bCjHhF.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt8111088/s3/e08"
+            }
+        ],
+        "update_date": "2026-02-15 19:29:41"
+    },
+    {
         "id": 80752,
         "imdb_id": "tt7949218",
         "name": "See",

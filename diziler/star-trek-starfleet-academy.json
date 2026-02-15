@@ -2,24 +2,105 @@
     "id": 223530,
     "imdb_id": "tt8622160",
     "name": "Star Trek: Starfleet Academy",
+    "original_name": "Star Trek: Starfleet Academy",
+    "overview": "",
     "poster": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
     "year": "2026",
+    "rating": 4.8,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Paramount+",
+        "Amazon Prime",
+        "Paramount Plus Essential",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Apple TV Channel",
+        "Paramount Plus Premium"
+    ],
     "cast": [
-        "Holly Hunter",
-        "Sandro Rosta",
-        "Karim Diane",
-        "Kerrice Brooks",
-        "George Hawkins"
+        {
+            "name": "Holly Hunter",
+            "role": "Nahla Ake",
+            "image": "https://image.tmdb.org/t/p/w200/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+        },
+        {
+            "name": "Sandro Rosta",
+            "role": "Caleb Mir",
+            "image": "https://image.tmdb.org/t/p/w200/y0SPIdGOX8Z1CKCMt4ZhU0QMuxG.jpg"
+        },
+        {
+            "name": "Karim Diane",
+            "role": "Jay-Den Kraag",
+            "image": "https://image.tmdb.org/t/p/w200/1oRkwzDRX5QN52LrpNc6Ot3y3nQ.jpg"
+        },
+        {
+            "name": "Kerrice Brooks",
+            "role": "Series Acclimation Mil 'Sam'",
+            "image": "https://image.tmdb.org/t/p/w200/AfVXStImMwjCfCqMTNdaraJNRme.jpg"
+        },
+        {
+            "name": "George Hawkins",
+            "role": "Darem Reymi",
+            "image": "https://image.tmdb.org/t/p/w200/hG3KQ6Z4RTy7jgxtU4szo1yAWWy.jpg"
+        },
+        {
+            "name": "Bella Shepard",
+            "role": "Genesis Lythe",
+            "image": "https://image.tmdb.org/t/p/w200/6JCwRJNNBXFKqsiixbfbRtSk2F5.jpg"
+        },
+        {
+            "name": "Zoë Steiner",
+            "role": "Tarima Sadal",
+            "image": "https://image.tmdb.org/t/p/w200/35Q3QzPHwV1brW8Vi5tvs90Al0B.jpg"
+        },
+        {
+            "name": "Gina Yashere",
+            "role": "Lura Thok",
+            "image": "https://image.tmdb.org/t/p/w200/Ns2vbmP6RdNyFr8JApjnzOZ2FG.jpg"
+        },
+        {
+            "name": "Robert Picardo",
+            "role": "The Doctor",
+            "image": "https://image.tmdb.org/t/p/w200/9TOY0mhWRMlU5Ur8QHMoDecWs2n.jpg"
+        },
+        {
+            "name": "Tig Notaro",
+            "role": "Jett Reno",
+            "image": "https://image.tmdb.org/t/p/w200/tdZ6XLzIaK0HWWPSM2B5OrOqUC0.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Günümüz Çocukları",
+            "overview": "Zeki bir sokak çocuğu olan Caleb Mir'e yeni açılan Yıldız Filosu Akademisi sınıfına kabul teklifi yapılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1U61OOu2BCLeqqjdIdSeXCCwDWc.jpg",
+            "vote_average": 5.1,
             "link": "https://vidmody.com/vs/tt8622160/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Beta Testi",
+            "overview": "Yeni akademik yıl başlarken Caleb, Yıldız Filosu Akademisi'nde yerinin olup olmadığını sorguluyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vVrNWCRZqegqRkVa7VEcdAp9WEi.jpg",
+            "vote_average": 4.8,
+            "link": "https://vidmody.com/vs/tt8622160/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Öğrencilerimiz Akademi'deki seçkin bir takıma katılmak için yarışırken, Yıldız Filosu Akademisi ile rakip bir okul arasında giderek artan şakalarla dolu bir savaş başlar. Gerilim hızla yükselir ve yeni gelişen bağlarını ve filizlenen romantik ilişkilerini tehdit eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zxGxsjWs4UfQMsReYWHNGhuItne.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt8622160/s1/e03"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 20:00:25"
 }
