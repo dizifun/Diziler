@@ -2,21 +2,245 @@
     "id": 83867,
     "imdb_id": "tt9253284",
     "name": "Andor",
+    "original_name": "Andor",
+    "overview": "Tehlike, hile ve entrikalarla dolu bir çağda Cassian Andor, zalim Galaktik İmparatorluk'a karşı mücadelede yaratacağı farkı keşfedecek. Cassian, onu asi bir kahramana dönüştürecek bir yola girer.",
     "poster": "https://image.tmdb.org/t/p/w500/n649NH6UQv3etlgc0pRgzs1ual0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/kCGwvjpqM1owt9kI4pkYPJWJLvc.jpg",
     "year": "2022",
+    "rating": 8.3,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Aksiyon & Macera",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Disney+"
+    ],
     "cast": [
-        "Diego Luna"
+        {
+            "name": "Diego Luna",
+            "role": "Cassian Andor",
+            "image": "https://image.tmdb.org/t/p/w200/qwbjcyDN37OHiln4a6P4LP31o7F.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Kassa",
+            "overview": "Cassian Andor'un geçmişiyle ilgili pervasızca cevaplar araması onu aranan bir adam yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mOL38zvzT4Xu1gcFNwzhtQfQVsc.jpg",
+            "vote_average": 7.5,
             "link": "https://vidmody.com/vs/tt9253284/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Buyurun Benim",
+            "overview": "Cassian, kanun yetkilileri yaklaşırken Ferrix'te gizlenmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/whihcfB2dZ0PEZC1bzux56B09pK.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Hesaplaşma",
+            "overview": "Cassian'ın kaçarkenki çaresizliği, onu bilinmeyen bağlantıları olan gizemli bir adama götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9M5mXdX8kfsopbuc9X6aBbyKNmw.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Bölüm 4",
+            "overview": "Seçeneği olmayan Cassian, bir İmparatorluk garnizonuna sızma görevini kabul eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7YzyYsFURJXfUTNdxUJuhg4IKQh.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Balta Unutur",
+            "overview": "Cassian, gizli bir operasyonun yeni üyesi olmanın getirdiği güvensizlik içinde dikkatli olmalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n2WzA6ycfOt4ch0WQJ7kUsySeKM.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "The Eye",
+            "overview": "Aldhani görevi, muhteşem bir yerel festivalin arkasında geri dönüşü olmayan bir noktaya ulaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hWqnfYdPHtYlwRAzvcCgPFQiWR0.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Duyuru",
+            "overview": "Cassian eve dönerken Aldhani soygununun yankıları Coruscant'a kadar ulaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dxeAAAOIAIRrck62CksEmgQOXiS.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Narkina 5",
+            "overview": "İmparatorluk, Cassian'ı yakalar ancak henüz kimliğinden ve geçmişinden habersizdir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lco1JOhKVX0jbhJij7On4ks5OTi.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Kimse dinlemiyor!",
+            "overview": "Hapiste yoğun bir inceleme altındaki Cassian imkansız bir kaçış planı yapmak için müttefik edinir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7F5jhvS1XC7GgKRS9gWYMclh92H.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Tek Çıkış Yolu Var",
+            "overview": "Bir fırsat çıkar ve Cassian ile mahkum arkadaşlarının harekete geçme zamanı gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rfClRbCXoXqF9eG3KlMpcFzkllJ.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "Ferrix'in Kızı",
+            "overview": "Bir kez daha kaçak olan Cassian, çok geç olmadan bir sonraki hamlesini yapmalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7dfaQ4qkByhVWrHE2DE4H5Tmvtt.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "Rix Sokağı",
+            "overview": "Cassian eve geldiğinde Ferrix'te isyan kıvılcımı başlamıştır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qYHiKpJfgUv5EnXMiJztPoQbdIk.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt9253284/s1/e12"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1 Yıl Sonra",
+            "overview": "Gizli bir görev. Tehdit edilen bir sığınak. Bir Chandrilan düğünü. Korkunç bir İmparatorluk planı.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rERVoCPadnt0j9qrmOR8SvTL6gj.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Sagrona Teema",
+            "overview": "Cassian, yakalanır. Mon'un düğün sorunları büyür. Ferrix'ten kurtulanlar teftişle yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9g47SgFmhXkTnAOm9aYNHj4Fjnj.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Hasat",
+            "overview": "Herkes için zaman azalıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jAjYowkxQXG13fu0c3Kov4VZUew.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Hiç Ghorman'a Gittin mi?",
+            "overview": "Cassian ve Bix, güvenli eve alışır. Ghorman izlenmektedir. Wilmon, Saw Gererra'yı ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8feBkqFpkTRtR4F3GYoXlUhA1Zm.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Her Yerde Dostlarım Vardır",
+            "overview": "Cassian Ghorman'da. Syril Coruscant'ta. Bix başarısız. Wilmon tutsak. Kleya'nın sorunu ciddi.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3Y3ji6iJOFdjKDpkQ5LC2kxXXjn.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Ne Şenlikli Bir Akşam",
+            "overview": "Vel ve Cinta Ghorman'a gider, Cassian Bix'in yanına. Tartışma. Soygun. Parti. Her şey tehlikededir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/q19D4VmEhHkWKqQpBGMsrc97vxY.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Elçi",
+            "overview": "Yavin büyür. Wilmon yardım istemeye gelir. Dedra Ghorman’da. Cassin çağrıya kulak verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eHqrMwpEw4qnR9c4dCW6MB4QzTe.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Kimsin Sen?",
+            "overview": "İmparatorluk manipülasyonu. Ghorman hüsranı. Palmo dağılırken Cassian ve Syril sahnenin ortasında.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dip1eLt0Ye7Go6iMibgv8rA7t0B.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "İsyan'a Hoş Geldin",
+            "overview": "Ghorman'ın ardından Mon Mothma bir duruş sergiler. Cassian zor bir çıkarma yapmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uBTinBPgka1JL9wdwVQVX08GhbA.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Yeter Artık",
+            "overview": "Lonni Jung'un miadı dolar. Dedra bastırır. Luthen çırpınır. Kleya görevini yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cXFjpvsArTqeO9mlDh5kW0DoDpO.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "Başka Kim Biliyor?",
+            "overview": "Cassian son bir çıkarma için Coruscant'a döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ngqDjWa6DUcxQRwwHpy0OSfgOBI.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "Jedha, Kyber, Erso",
+            "overview": "Cassian, her şeyi değiştirecek bir istihbaratla Yavin'e döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qOamngh93us1GyBo5lMkIwMr2do.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt9253284/s2/e12"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 20:40:05"
 }

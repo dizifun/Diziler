@@ -2,25 +2,281 @@
     "id": 108978,
     "imdb_id": "tt9288030",
     "name": "Reacher",
+    "original_name": "Reacher",
+    "overview": "Emekli Askerî Polis Subayı Jack Reacher işlemediği bir cinayetten tutuklanınca kendini kirli polisler, karanlık iş adamları ve yozlaşmış siyasetçilerle dolu ölümcül bir komplonun ortasında bulur. Aklından başka bir şeyi olmayan Reacher Margrave, Georgia'da neler döndüğünü çözmek zorunda kalacaktır.",
     "poster": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/JYgqp8g2kI3SEus9XBDSHukfBN.jpg",
     "year": "2022",
+    "rating": 8.1,
     "genres": [
         "Aksiyon & Macera",
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Prime Video"
+    ],
     "cast": [
-        "Alan Ritchson",
-        "Maria Sten",
-        "Sonya Cassidy",
-        "Johnny Berchtold",
-        "Roberto Montesinos"
+        {
+            "name": "Alan Ritchson",
+            "role": "Jack Reacher",
+            "image": "https://image.tmdb.org/t/p/w200/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+        },
+        {
+            "name": "Maria Sten",
+            "role": "Frances Neagley",
+            "image": "https://image.tmdb.org/t/p/w200/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg"
+        },
+        {
+            "name": "Sonya Cassidy",
+            "role": "Susan Duffy",
+            "image": "https://image.tmdb.org/t/p/w200/7z0VYq74tKFXoJtKrIUpmygJxak.jpg"
+        },
+        {
+            "name": "Johnny Berchtold",
+            "role": "Richard Beck",
+            "image": "https://image.tmdb.org/t/p/w200/tGKPmmdo6ASnNx0GoHiGgDvnndJ.jpg"
+        },
+        {
+            "name": "Roberto Montesinos",
+            "role": "Guillermo Villanueva",
+            "image": "https://image.tmdb.org/t/p/w200/gRYmaYEXawDmOngzOThnxDL2FHs.jpg"
+        },
+        {
+            "name": "Olivier Richters",
+            "role": "Paulie",
+            "image": "https://image.tmdb.org/t/p/w200/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg"
+        },
+        {
+            "name": "Brian Tee",
+            "role": "Xavier Quinn",
+            "image": "https://image.tmdb.org/t/p/w200/ieqbktfBwcHkeikMfNDW94Yffzp.jpg"
+        },
+        {
+            "name": "Anthony Michael Hall",
+            "role": "Zachary Beck",
+            "image": "https://image.tmdb.org/t/p/w200/nLthzoCuNxxd3KteIrnnMg1066G.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Margrave'e Hoş geldin",
+            "overview": "Reacher, Georgia'daki küçük Margrave kasabasını ziyaret ederken haksız yere cinayetle suçlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/15xLLZN3LLAdvoiHnYL5DcXlsYu.jpg",
+            "vote_average": 7.5,
             "link": "https://vidmody.com/vs/tt9288030/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "İlk Dans",
+            "overview": "Daha fazla kurban ortaya çıkınca, Reacher cevapları bulmaya çalışır, ancak ona tuzak kurulur. Roscoe bir tehdit mesajı alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4nfnpqWMX8dHI1bYZcdxLEvy2c9.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt9288030/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kaşık Dolusu",
+            "overview": "Reacher ve Finlay'in kayıp Spivey hakkındaki araştırmaları onları Kliner ile karşı karşıya getirir. Roscoe, Reacher hakkında rahatsız edici şeyler öğrenir",
+            "still_path": "https://image.tmdb.org/t/p/w400/6dgLq2bUlEBuXz5SPzr1Dn7UpML.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt9288030/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Ağaçta",
+            "overview": "Tehlike artarken, Reacher ile Roscoe daha da yakınlaşır ve Ulusal Güvenlik'teki bağlantılarıyla buluşma planı yaparlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8AgfxcL0WxcDCiTtanrKG9vGyug.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt9288030/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Kabahat Yok",
+            "overview": "Gizem derinleşirken, Reacher eski bir meslektaşıyla bir araya gelir ve Finlay şok edici bir keşifte bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yvSWomTB7uiVOov0iQXrlmek81l.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt9288030/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Kağıt",
+            "overview": "Kasaba yeni bir cinayetle sarsılırken, Reacher New York'a gidip Margrave'deki yasadışı iş hakkında gerçeği öğrenir. Roscoe ise ormanda tehlikeyle karşı karşıya kalır",
+            "still_path": "https://image.tmdb.org/t/p/w400/3GT2msFS0C4KdEDeD9TR2NPOS1s.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt9288030/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Reacher Bir Şey Demedi",
+            "overview": "Reacher bir tuzak kurar ama sonra kendi tuzağa düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i9z3J0xwImiuFhu5DQyYqnBxVDC.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt9288030/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Turta",
+            "overview": "Reacher, depoda büyük bir hesaplaşmayla sonuçlanacak olan bir kurtarma görevine liderlik eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8Pzg1MpVAAbyBGdfAUmRmfSmAWQ.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt9288030/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "ATM",
+            "overview": "Reacher ve Neagley, Reacher'ın bir araya getirdiği özel araştırmacılar grubu 110'un bir üyesinin cinayetini araştırırken, tüm birliğin risk altında olabileceğini fark ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j7hYdtMCzXsRtk8oeoynzcB1skZ.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt9288030/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Atlantik City'de Olan",
+            "overview": "Franz'ın cinayetiyle ilgili soruşturma Reacher'ı ve eski ordu birliğinin hayatta kalan üyelerini gizemin derinleştiği, tehlikenin beklediği ve eski bir aşkın yeniden alevlendiği Atlantic City'ye götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qdsegCgx8x5tXL7k1nwiQ0493J6.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt9288030/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Bir Resim Bin Sözcüğe Bedeldir",
+            "overview": "Daha fazla arkadaşının kurban gitmesinin ardından Reacher, inatçı bir dedektifle zoraki bir ittifak kurar ve davadaki tek ipucu 110'u rahatsız edici bir keşfe götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fRqRZZuBRMhxOw6QHIOL97MAj5P.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt9288030/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Senfonide Bir Gece",
+            "overview": "Reacher ve ekibi, arkadaşlarının ölümünün neden olabilecek çok gizli bir askeri savunma sözleşmesi hakkında içeriden bilgi sahibi olmak için bir siyasetçi yardımcısının izini sürmek için Boston'a gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xZMIwWORGokHKxU4DgGSzcrvvJr.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt9288030/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Cenaze",
+            "overview": "Neagley ve Dixon, Denver'daki eski bir arkadaşlarıyla ilgili şoke edici bilgiler keşfederken, Reacher ve O'Donnell menfur ve gizemli A.M. hakkında daha fazla şey öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qHoDmkiqipd7u8VzVDNcwVksRfd.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt9288030/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "New York'un En İyisi",
+            "overview": "Gizem çözülmeye devam ederken, Reacher ve ekibi ödeşmek için bir tuzak kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r0Xj9M0XfaX1tbuahIZECCo9y6S.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt9288030/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Adam Geçiyor",
+            "overview": "Ekip Langston'a yaklaşırken, 110. birliğin iki üyesi tehlikeyle karşı karşıya kalır. Reacher da onları kurtarmak için tehlikeli bir plan yapmak zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xdX8ijvCkwM6erROSdZYqnlzEre.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt9288030/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Uçan Çocuk",
+            "overview": "Reacher ve Neagley, O'Donnell ve Dixon'ı kurtarmak, A.M.'i durdurmak ve arkadaşlarının intikamını almak için son bir umutsuz girişimde bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Jt8ghfYb2jx7hg1H5UbEUEH101.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt9288030/s2/e08"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "İkna Edici",
+            "overview": "Reacher'ın bir kaçırılma olayına engel olması, onu gizemli iş insanı Zachary Beck'le iletişim hâline sokar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rOH23zL2aisDvZ3aCDlj65gsmdZ.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt9288030/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Kamyoncu",
+            "overview": "Yeni işvereni Zachary Beck için bir yük taşıma görevi alan Reacher, DEA'in yer aldığı olaylar ve meraklı bir dostla uğraşmak zoruna kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cxjl8M0822xIaetKhseEC12znKY.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt9288030/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Mermili İki Numara",
+            "overview": "Ölü sayısının artışıyla gizli görevi tehlikeye giren Reacher, Beck'in güvenini korumak için tehlikeli bir oyun oynar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xewDe800NB1qdxu1l3vjINtBwJK.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt9288030/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Dominique",
+            "overview": "Reacher, Duffy ve Villanueva'yla bir araya gelir ve Xavier Quinn'le olan acı geçmişini onlarla paylaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ypZpH089L0AD45fH0SiixqW3MK8.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt9288030/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Güreş",
+            "overview": "Bir DEA trajedisi bütün görevi riske sokarken Reacher, Duffy ve Villanueva gizliliği bozmamak için sert bir doğaçlama planı yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4r5BUAgNyzhsk28Pr9OpnrQXsvZ.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt9288030/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Sudaki Duman",
+            "overview": "Reacher, Quinn'i öldürme isteği ve Teresa'yı kurtarmak için Duffy'ye verdiği söz arasında kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2gpbqF4AiqwuKuths8jKyap16I6.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt9288030/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Los Angeles Hikâyesi",
+            "overview": "Reacher ve Duffy bir anlaşma için Los Angeles'a gittikten sonra Neagley de Reacher'ın bazı cevaplar bulabilmesine yardım etmek için Maine'e gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/h6n5EXzNYTYycAH72J8FVMqXw9u.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt9288030/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Bitmemiş İş",
+            "overview": "Reacher nihayet Paulie ve Quinn'le yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y0LEFFyCAZqZPM7zggm4KysdF2h.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt9288030/s3/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 20:41:28"
 }

@@ -2,24 +2,329 @@
     "id": 127235,
     "imdb_id": "tt9737326",
     "name": "Invasion",
+    "original_name": "Invasion",
+    "overview": "Dünya, insanlığın varlığını tehdit eden bir uzaylı türü tarafından ziyaret edilmiştir. Olaylar, etraflarında meydana gelen kaosu anlamaya çalışan beş sıradan insanın gözünden gerçek zamanlı olarak aktarılıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
     "year": "2021",
+    "rating": 7.2,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Apple TV"
+    ],
     "cast": [
-        "Golshifteh Farahani",
-        "忽那汐里",
-        "Shamier Anderson",
-        "India Brown",
-        "Enver Gjokaj"
+        {
+            "name": "Golshifteh Farahani",
+            "role": "Aneesha Malik",
+            "image": "https://image.tmdb.org/t/p/w200/lbsd2lAIQq4egOUXDIfjhte12vv.jpg"
+        },
+        {
+            "name": "忽那汐里",
+            "role": "Mitsuki Yamato",
+            "image": "https://image.tmdb.org/t/p/w200/5EdMbcRIemzLszjEr36Ic0Obmdb.jpg"
+        },
+        {
+            "name": "Shamier Anderson",
+            "role": "Trevante Cole",
+            "image": "https://image.tmdb.org/t/p/w200/3AGcyBFeSmzXdz6npak3Znx7TTn.jpg"
+        },
+        {
+            "name": "India Brown",
+            "role": "Jamila Huston",
+            "image": "https://image.tmdb.org/t/p/w200/hqOxRR0DBJ8Z2IKFYThCV7xcsqv.jpg"
+        },
+        {
+            "name": "Enver Gjokaj",
+            "role": "Clark Evans",
+            "image": "https://image.tmdb.org/t/p/w200/gL6ddPdRVTwaNGIGGz1EC6UeHqj.jpg"
+        },
+        {
+            "name": "Shane Zaza",
+            "role": "Nikhil Kapur",
+            "image": "https://image.tmdb.org/t/p/w200/nCuaflK6VoSz7SHMZu0SbOkhqYV.jpg"
+        },
+        {
+            "name": "Erika Alexander",
+            "role": "Verna",
+            "image": "https://image.tmdb.org/t/p/w200/8o9KbXYoRi9v1u94nbjrslOzE0n.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Son Gün",
+            "overview": "Dünya çapında garip ve açıklanamayan olaylar olmaya başlar. Küçük bir kasaba şerifi, daha büyük şeylerin döndüğünü hisseder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n3PDSh5qDWM4YAjPVoL0ahcHcaP.jpg",
+            "vote_average": 6.3,
             "link": "https://vidmody.com/vs/tt9737326/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Kaza",
+            "overview": "Aneesha karmaşanın ortasında ailesinin iyiliği için zor bir karar verir. Donanma komandosu olan Trevante, ekibiyle birlikte bir imdat çağrısını araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bHGRdzZNZM8slCNvrIYa3qDii5j.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt9737326/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Orion",
+            "overview": "Mitsuki, gerçeği ortaya çıkarmak için çaresizce çırpınır. Caspar ve Jamila durumlarının ne kadar vahim olduğunu anlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4nnxJb7HDiP8m3X5lBIXxxD9WXl.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt9737326/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Kral Öldü",
+            "overview": "Trevante, bir yer bildiricisi ona umut verene kadar en kötüsünü beklemektedir. Mitsuki, en beklenmedik yerde bir müttefik bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jOlVwr5mileTTfyyxdxQcgG6YRk.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt9737326/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Eve Gidiş",
+            "overview": "ABD başkanı, dünyayı yakında olacaklara hazırlamak amacıyla acil bir küresel konuşma yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9hCkWgDeo46tMVEjXz7swBVdDya.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt9737326/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Haneye Tecavüz",
+            "overview": "Aneesha başkanın konuşmasının şokuyla ailesinin yanına koşar ve sığınaklarının da hayatlarının da tehdit altında olduğunu öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xiJifDS2YdaDDEINe0XG9WNxJ2F.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt9737326/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Umut",
+            "overview": "Mitsuki, dış uzayla bağlantı kurmayı umarak bir uydu istasyonuna el koyar. Caspar, istilayla bağlantılı olduğunu düşündüğü tuhaf bir sırrı ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pC9HNLY06QYD9CIkOCRl3qkUdXI.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt9737326/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Temas",
+            "overview": "Trevante'nin uçağı iner ama eve dönüş yolculuğu daha yeni başlamıştır. Caspar ve Jamila, onun sırrını anlamak amacıyla Londra'nın sokaklarında dolaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aR8DHaU0ahUSNbHE1dReLGdxm0z.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt9737326/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Yıldızlarla Dolu",
+            "overview": "Mitsuki çok geç olmadan Hoshi 12'yle iletişime geçmeye kararlıdır. O sırada ordu, Malik'leri tutuklar ve Caspar kendi ölümüne sebep olabilecek bir risk alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7hlyzNudRtFBmA9KOe2QIyS9cmK.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt9737326/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "İlk Gün",
+            "overview": "Hâlâ küresel yıkımın etkisinde olan dünya, yeni ve öngörülemeyen bir şafakla karşı karşıya kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6gE55Dd3fVaQtlEUJlcOUk87JAg.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt9737326/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Bir Şey Değişti",
+            "overview": "Mitsuki, Amazon ormanlarında bir uzaylı gemisine götürülür. Aneesha ve çocukları Akım adlı bir gruba sığınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aapdWdEDs2Mgc4EXll42becxWGq.jpg",
+            "vote_average": 5.7,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Hayaletlerin Peşinde",
+            "overview": "Trevante, Miami'deki evinde gündelik hayata dönmekte zorlanır. Benzer şekilde Jamila, Caspar'ı aramak için bitmek bilmeyen bir istek duyar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rhLSA2etybKCwmUyfwIlGji6sgy.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Havai Fişekler",
+            "overview": "Oyunun kurallarını değiştiren bir keşif nihayet Dünya'ya bir avantaj sağlayabilir. Aneesha, yardımlarına ihtiyaç duymasına rağmen Akım'a güvenmekte zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tAKFCs4c9IRlHVf0TIYb933KI6D.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Tünel",
+            "overview": "Jamila'nın Manş Tüneli'ni geçme kararı, grubu daha ölümcül bir düşmanla karşı karşıya getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ggejgUXMWp4BwaTbx7F9s898WFc.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Öte Taraftan Gelen Ses",
+            "overview": "Aneesha, Luke ve Akım, Sarah'yı bulmak için bir plan yapar. Mitsuki, uzaylı varlıkla yıkıcı bir karşılaşma yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pAHkEL9Ux8WjdYCAqP6zLOKQIPV.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Basınç Noktaları",
+            "overview": "Hastaneye giden Jamila ve arkadaşları bir sürprizle karşılaşır. Akım, Camp Pierce yolunda vahşi bir saldırıya uğrar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7PF3sGMheENkABe0dKdRChy4roW.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Tavşan Deliği",
+            "overview": "Trevante ve Rose, kendilerini Ben Shelton'ın çiftliğine götüren bir ipucunu araştırır. Monty'nin görevle ilgili şüpheleri vardır ve Jamila'ya açılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/q0D8FJ6ySeTXbfjvz6WHCFf5kMM.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Kozmik Okyanus",
+            "overview": "Mitsuki, uzaylı varlıkla geçirdiği zamandan kalma belirtiler yaşamaya başlar. Nikhil kabine girerek küresel sismik olayları tetikler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qZniyfpqP2simUu1W6eKOA5au3b.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Gelişme",
+            "overview": "Uzaylı ana gemisine yapılan tehlikeli bir yolculuğun sonunda boyutlar arası bir bağlantı kurulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nXI5cAtP1uOdXeZ6UFn60PlVeCl.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Eski Dostlar, Yeni Sınırlar",
+            "overview": "Riskli bir operasyon, insanlığın en iyi ve son umududur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/chH4ofGLNSDoB6C7jYrTUtC5Sq3.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt9737326/s2/e10"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Geride Bıraktıklarımız",
+            "overview": "Trevante, iki yıl önce ayrıldığından farklı bir Dünya’ya döner. Jamila bu yeni dünyaya uyum sağlamakta zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sXh4XY47CuSdG7f2nvxsVACPkp.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Mesaj",
+            "overview": "Gizemli uzaylı sinyalleri Mitsuki’yi saklandığı yerden çıkarır. Nikhil’e sadakatini sınayacak bir görev verilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7bblgJdRQ3ykhO4SekNbsImtQxv.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Infinitas",
+            "overview": "Aneesha ve Clark’ın huzurlu hayatı, Trevante ve Jamila’nın ziyaretiyle altüst olur. Mitsuki ve Nikhil bir geçit üssünde cevaplar arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4HS5nlqTJRfZWqxPDpowAR1AvcK.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Görev",
+            "overview": "Jamila ve Clark, Infinitas’ı araştırmaya başlayan Aneesha’yı bulmaya çalışır. Trevante, Mitsuki ve Nikhil gizli bir DSK görevine sürüklenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wJTbIApfKLVz1eAhzhSm8FsA9ZY.jpg",
+            "vote_average": 5.7,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Dönüşü Olmayan Nokta",
+            "overview": "Trevante, Mitsuki ve Nikhil tehlikeli bir bölgeden kurtulmak için savaşmak zorundadır. Aneesha, Clark ve Jamila, Infinitas'la birlikte kaçmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rrgYqwizFFB8aNPlSdhC0JTQdFA.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Marilyn",
+            "overview": "İki yıl önce uzaylı istilası başladığında Verna ve Joel, Infinitas’ın yükselişini tetiklemiştir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i8SOr1XBOfrtu45rdusgK9HDT1z.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Karakol 17",
+            "overview": "Ekip Ölü Bölge’ye ulaşır, ancak onları yeni bir tehdit beklemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2q3Opgey3qIKELMpyfs1D7RQ82Z.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Ölü Bölge’de Hayat",
+            "overview": "Olağanüstü bir karşılaşma Mitsuki’yi zorlu bir yolculuğa ve inanç krizine sürükler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6kGW5dKmCq4aOAHYFf9tSmkTt7u.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "Eve Dönüş",
+            "overview": "Trevante’nin anıları geri gelir ve şoke edici bir gerçeği ortaya çıkarır. Mitsuki, uzaylılar hakkındaki şüpheleriyle mücadele eder. DSK ve Infinitas savaşmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6jsMnwZ6tB8UVcjsUgTLRGdPMFW.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Yolun Sonu",
+            "overview": "Trevante, Jamila ve Nikhil uzaylı dehşetinin en derin seviyeleriyle yüzleşir. Aneesha, Infinitas’a karşı harekete geçer. Mitsuki dünyayı değiştirecek bir karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hG08dG8lOfSu61enipj5frsGXOn.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt9737326/s3/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 21:02:22"
 }
