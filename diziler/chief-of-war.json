@@ -2,23 +2,154 @@
     "id": 196890,
     "imdb_id": "tt19381692",
     "name": "Chief of War",
+    "original_name": "Chief of War",
+    "overview": "Hawaii’nin dört krallığı savaşla bölünmüştür. Varoluşsal bir tehlike, kıyılarına yaklaşırken güçlü savaşçı Kaʻiana halkını birleştirmek amacıyla devasa bir göreve girişir.",
     "poster": "https://image.tmdb.org/t/p/w500/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2c3PCbxVgWen5HrYsaukUmfu4J9.jpg",
     "year": "2025",
+    "rating": 7.3,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Apple TV"
+    ],
     "cast": [
-        "Jason Momoa",
-        "Luciane Buchanan",
-        "Te Ao o Hinepehinga",
-        "Cliff Curtis",
-        "Kaina Makua"
+        {
+            "name": "Jason Momoa",
+            "role": "KaʻIana",
+            "image": "https://image.tmdb.org/t/p/w200/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+        },
+        {
+            "name": "Luciane Buchanan",
+            "role": "Kaʻahumanu",
+            "image": "https://image.tmdb.org/t/p/w200/4BVfv9HE6ZipHqZO8xDlkDFBWlN.jpg"
+        },
+        {
+            "name": "Te Ao o Hinepehinga",
+            "role": "Kūpuohi",
+            "image": "https://image.tmdb.org/t/p/w200/xWxwxq0LXhOCvc9L1LH3LxIPYlH.jpg"
+        },
+        {
+            "name": "Cliff Curtis",
+            "role": "Keoua",
+            "image": "https://image.tmdb.org/t/p/w200/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+        },
+        {
+            "name": "Kaina Makua",
+            "role": "King Kamehameha",
+            "image": "https://image.tmdb.org/t/p/w200/ba7bqs6gdzjd1hkqcwi1fySP7C5.jpg"
+        },
+        {
+            "name": "Moses Goods",
+            "role": "Moku",
+            "image": "https://image.tmdb.org/t/p/w200/vo9EoB4dB4gRAtDLX2q0fV7aQvf.jpg"
+        },
+        {
+            "name": "Siua Ikale‘o",
+            "role": "Nāhi",
+            "image": "https://image.tmdb.org/t/p/w200/ZfEFkjtKUXFtQEzpW9kNOsvWe7.jpg"
+        },
+        {
+            "name": "Brandon Finn",
+            "role": "Prince Kūpule",
+            "image": "https://image.tmdb.org/t/p/w200/vQPHRLGuZns4TZi8vRIXShFS1K9.jpg"
+        },
+        {
+            "name": "Mainei Kinimaka",
+            "role": "Heke",
+            "image": "https://image.tmdb.org/t/p/w200/26MgGTXr8Pd858aMLCv7ycaRbE7.jpg"
+        },
+        {
+            "name": "Te Kohe Tuhaka",
+            "role": "Nāmake",
+            "image": "https://image.tmdb.org/t/p/w200/uZOpFSMX3XRuU6JOja3MKZHlaCP.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Savaş Şefi",
+            "overview": "Kaʻiana, vatanı Maui’ye geri çağrılır, orada Kral Kahekili’nin savaşına katılıp katılmayacağına karar vermek zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fVy6isuyhhwOpS8vW0keREibEyY.jpg",
+            "vote_average": 5.9,
             "link": "https://vidmody.com/vs/tt19381692/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Değişen Akıntılar",
+            "overview": "Ölüm korkusu yaşayan Kaʻiana ve ailesi Oahu’dan ayrılır. Güvenli geçiş sözü veren yeni bir müttefik ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oKNCKkpmDra7fgD98GQI3lpAxr7.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt19381692/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Çiçekler Şehri",
+            "overview": "Kaʻiana garip bir diyara gelir. Kaʻahumanu, Kamehameha’nın yanındaki yerini alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1B1dQCzFs3ouuKO8F6RvvMLqXQ2.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt19381692/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Çiçekler Şehri (2)",
+            "overview": "Hawaii Krallığı’nda tehlikeli bir iktidar mücadelesi başlar. Kamehameha yeni sorumluluğuyla boğuşur. Kaʻiana, Tony’yi arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zcajpBi1H2loRqNA5M3b3kT8dA5.jpg",
+            "vote_average": 5.1,
+            "link": "https://vidmody.com/vs/tt19381692/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Tanrıların Yarışı",
+            "overview": "Kaʻiana bir uyarıyla geri döner ve Kamehameha’nın konseyindeki kaderini tehlikeli bir yarışma belirleyecektir. Keōua bir mesaj yollar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iiMoUJpiifjBe3CuWzLVMBMGp2o.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt19381692/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Parçalanmış Kürek",
+            "overview": "Savaş davullarının sesi daha da yükselirken Kūpuohi, barış umudunu canlı tutmaya çalışır. Kaʻiana, Kamehameha’nın liderliğini sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kbOfZ8fk91B5KV4poTQ3YR1zBlX.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt19381692/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Dağılan Beyinlerin Günü",
+            "overview": "Yabancıların gelişi hakkında ne yapılacağı konusunda bir anlaşmazlık çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v1KSTsDFW4e5JgMOJVe0qm9une0.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt19381692/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Kutsal Niu Korusu",
+            "overview": "En büyük korkuları gerçek olduktan sonra Kaʻiana büyük bir kayıp yaşar. Keōua’nın savaş çağrısı, Kamehameha için kaçınılmaz hâle gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fBTWFUS70BSq88ZdtPFKiu9Kjli.jpg",
+            "vote_average": 5.7,
+            "link": "https://vidmody.com/vs/tt19381692/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Kara Çöl",
+            "overview": "Kaʻiana ve Kamehameha, Maui ve Keōua’nın birleşen gücüne karşı ordularına liderlik ederken büyük bir savaş başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qPrXtYc3j3f8qJcmIWcT5VSW1H3.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt19381692/s1/e09"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 06:10:01"
 }

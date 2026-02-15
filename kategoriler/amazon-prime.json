@@ -1,5 +1,2772 @@
 [
     {
+        "id": 196890,
+        "imdb_id": "tt19381692",
+        "name": "Chief of War",
+        "original_name": "Chief of War",
+        "overview": "Hawaii’nin dört krallığı savaşla bölünmüştür. Varoluşsal bir tehlike, kıyılarına yaklaşırken güçlü savaşçı Kaʻiana halkını birleştirmek amacıyla devasa bir göreve girişir.",
+        "poster": "https://image.tmdb.org/t/p/w500/8Mckh3qJRTzXTQNZtpb133RHmO4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2c3PCbxVgWen5HrYsaukUmfu4J9.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Apple TV"
+        ],
+        "cast": [
+            {
+                "name": "Jason Momoa",
+                "role": "KaʻIana",
+                "image": "https://image.tmdb.org/t/p/w200/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+            },
+            {
+                "name": "Luciane Buchanan",
+                "role": "Kaʻahumanu",
+                "image": "https://image.tmdb.org/t/p/w200/4BVfv9HE6ZipHqZO8xDlkDFBWlN.jpg"
+            },
+            {
+                "name": "Te Ao o Hinepehinga",
+                "role": "Kūpuohi",
+                "image": "https://image.tmdb.org/t/p/w200/xWxwxq0LXhOCvc9L1LH3LxIPYlH.jpg"
+            },
+            {
+                "name": "Cliff Curtis",
+                "role": "Keoua",
+                "image": "https://image.tmdb.org/t/p/w200/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+            },
+            {
+                "name": "Kaina Makua",
+                "role": "King Kamehameha",
+                "image": "https://image.tmdb.org/t/p/w200/ba7bqs6gdzjd1hkqcwi1fySP7C5.jpg"
+            },
+            {
+                "name": "Moses Goods",
+                "role": "Moku",
+                "image": "https://image.tmdb.org/t/p/w200/vo9EoB4dB4gRAtDLX2q0fV7aQvf.jpg"
+            },
+            {
+                "name": "Siua Ikale‘o",
+                "role": "Nāhi",
+                "image": "https://image.tmdb.org/t/p/w200/ZfEFkjtKUXFtQEzpW9kNOsvWe7.jpg"
+            },
+            {
+                "name": "Brandon Finn",
+                "role": "Prince Kūpule",
+                "image": "https://image.tmdb.org/t/p/w200/vQPHRLGuZns4TZi8vRIXShFS1K9.jpg"
+            },
+            {
+                "name": "Mainei Kinimaka",
+                "role": "Heke",
+                "image": "https://image.tmdb.org/t/p/w200/26MgGTXr8Pd858aMLCv7ycaRbE7.jpg"
+            },
+            {
+                "name": "Te Kohe Tuhaka",
+                "role": "Nāmake",
+                "image": "https://image.tmdb.org/t/p/w200/uZOpFSMX3XRuU6JOja3MKZHlaCP.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Savaş Şefi",
+                "overview": "Kaʻiana, vatanı Maui’ye geri çağrılır, orada Kral Kahekili’nin savaşına katılıp katılmayacağına karar vermek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fVy6isuyhhwOpS8vW0keREibEyY.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Değişen Akıntılar",
+                "overview": "Ölüm korkusu yaşayan Kaʻiana ve ailesi Oahu’dan ayrılır. Güvenli geçiş sözü veren yeni bir müttefik ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oKNCKkpmDra7fgD98GQI3lpAxr7.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Çiçekler Şehri",
+                "overview": "Kaʻiana garip bir diyara gelir. Kaʻahumanu, Kamehameha’nın yanındaki yerini alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1B1dQCzFs3ouuKO8F6RvvMLqXQ2.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Çiçekler Şehri (2)",
+                "overview": "Hawaii Krallığı’nda tehlikeli bir iktidar mücadelesi başlar. Kamehameha yeni sorumluluğuyla boğuşur. Kaʻiana, Tony’yi arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zcajpBi1H2loRqNA5M3b3kT8dA5.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Tanrıların Yarışı",
+                "overview": "Kaʻiana bir uyarıyla geri döner ve Kamehameha’nın konseyindeki kaderini tehlikeli bir yarışma belirleyecektir. Keōua bir mesaj yollar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iiMoUJpiifjBe3CuWzLVMBMGp2o.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Parçalanmış Kürek",
+                "overview": "Savaş davullarının sesi daha da yükselirken Kūpuohi, barış umudunu canlı tutmaya çalışır. Kaʻiana, Kamehameha’nın liderliğini sorgular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kbOfZ8fk91B5KV4poTQ3YR1zBlX.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Dağılan Beyinlerin Günü",
+                "overview": "Yabancıların gelişi hakkında ne yapılacağı konusunda bir anlaşmazlık çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v1KSTsDFW4e5JgMOJVe0qm9une0.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kutsal Niu Korusu",
+                "overview": "En büyük korkuları gerçek olduktan sonra Kaʻiana büyük bir kayıp yaşar. Keōua’nın savaş çağrısı, Kamehameha için kaçınılmaz hâle gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fBTWFUS70BSq88ZdtPFKiu9Kjli.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Kara Çöl",
+                "overview": "Kaʻiana ve Kamehameha, Maui ve Keōua’nın birleşen gücüne karşı ordularına liderlik ederken büyük bir savaş başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qPrXtYc3j3f8qJcmIWcT5VSW1H3.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt19381692/s1/e09"
+            }
+        ],
+        "update_date": "2026-02-15 06:10:01"
+    },
+    {
+        "id": 200875,
+        "imdb_id": "tt19244304",
+        "name": "IT: Welcome to Derry",
+        "original_name": "IT: Welcome to Derry",
+        "overview": "Bu dehşet verici prequel dizisi 1962'ye dönerek katil, şekil değiştiren varlık Palyaço Pennywise'ın köklerine iniyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
+        "year": "2025",
+        "rating": 8.2,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Taylour Paige",
+                "role": "Charlotte Hanlon",
+                "image": "https://image.tmdb.org/t/p/w200/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
+            },
+            {
+                "name": "Jovan Adepo",
+                "role": "Leroy Hanlon",
+                "image": "https://image.tmdb.org/t/p/w200/aJcuEbYru85meNGzM0oSeW3nsd6.jpg"
+            },
+            {
+                "name": "Matilda Lawler",
+                "role": "Marge Truman",
+                "image": "https://image.tmdb.org/t/p/w200/uKioAyk7zSyO1BCOs5OQtNB4QNP.jpg"
+            },
+            {
+                "name": "Amanda Christine",
+                "role": "Ronnie Grogan",
+                "image": "https://image.tmdb.org/t/p/w200/ytG5JgrniXLY6elImmzTKjvGtCZ.jpg"
+            },
+            {
+                "name": "Clara Stack",
+                "role": "Lilly Bainbridge",
+                "image": "https://image.tmdb.org/t/p/w200/yMK3IADqV2oReJMKdkrcEIBxdtu.jpg"
+            },
+            {
+                "name": "Chris Chalk",
+                "role": "Dick Hallorann",
+                "image": "https://image.tmdb.org/t/p/w200/j8IpJkLTAhalh5Q356VNojcIAtx.jpg"
+            },
+            {
+                "name": "James Remar",
+                "role": "General Francis Shaw",
+                "image": "https://image.tmdb.org/t/p/w200/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+            },
+            {
+                "name": "Stephen Rider",
+                "role": "Hank Grogan",
+                "image": "https://image.tmdb.org/t/p/w200/tQc7TbCfDawrS0DHiQHxuoVrn4L.jpg"
+            },
+            {
+                "name": "Blake Cameron James",
+                "role": "Will Hanlon",
+                "image": "https://image.tmdb.org/t/p/w200/qM3hkhRmqKVRVi1M9jd8sSEMjXf.jpg"
+            },
+            {
+                "name": "Arian S. Cartaya",
+                "role": "Rich Santos",
+                "image": "https://image.tmdb.org/t/p/w200/9jHTcwpYgEXb1MXxPEDD0csri9J.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Uyumsuz dört çocuk, kayıp sınıf arkadaşlarını bulmaya yemin ederken, Binbaşı Leroy Hanlon, Derry Hava Kuvvetleri Üssü'nde karışık tepkilerle karşılanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uwKrKvprzNW9ACtSB27MlzOpIHL.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Karanlıktaki Şey",
+                "overview": "Charlotte ve Will, Derry'deki yeni hayatlarına uyum sağlamaya çalışırken, Ronnie babasının akıbeti hakkında endişelenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eYjrjLWIwD6qE148NKHKYcdHKjv.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Şimdi Onu Görüyorsun",
+                "overview": "Leroy, Pauly ve Dick yeni bir kazı alanı ararken çocuklar da içinde buludukları fenomene ait görsel kanıt peşine düşerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n4BGtiqwoFYd5ZX3UmdupeENcq.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Gezegenimizin İşleyişindeki Dönen Büyük Düzen",
+                "overview": "Çocukların yaşadıkları dehşet artarken Charlotte, Hank'e kefil olmaya çalışır ve General Shaw çabalarını artırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hBKG3nQJ8NzE9U0U5uKQfQD88XY.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Neibolt Sokağı",
+                "overview": "Askerler Neibolt Sokağı'nı basar, çocuklar da kendi amaçları için kanalizasyona iner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wDTjvS7dTnIko5JukSzgYSa3QQW.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Babam İçin",
+                "overview": "Karanlık imgelerden muzdarip Dick, Kara Leke'de bir sürprizle karşılaşır. Bu arada her çocuk da ayrı bir zorlukla başa çıkmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6phQvyEMeX84oeRznxnJWAM91dz.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Kara Leke",
+                "overview": "Kara Leke'ye yapılan zorba saldırısı uzun zamandır uyuyan güçleri uyandırır. Dick başka bir önemli parçanın ortaya çıkarılmasına yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zOAW0v0WLV7vv636Cx8VfSYSktu.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kış Ateşi",
+                "overview": "General Shaw amacına ulaşmak için zorlaken Hanlon'lar, Rose, Dick ve çocuklar, Derry'yi kurtarmanın onlara kaldığını fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8gqmWZUs4GAH1QfqR2u3aXxX5Q2.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 06:06:21"
+    },
+    {
+        "id": 194741,
+        "imdb_id": "tt18552362",
+        "name": "Parish",
+        "original_name": "Parish",
+        "overview": "Çoğunlukla ABD'nin güney limanlarında belgesiz göçmenleri sömürdüğü bilinen Zimbabveli bir gangsteri almayı kabul eden bir taksi şoförünün hayatı altüst olur.",
+        "poster": "https://image.tmdb.org/t/p/w500/iV1YDLXuJHwhxF85zwaTxXyrzN6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/xu7A4P8c8K2Q7bw2HMUqPTuCQbK.jpg",
+        "year": "2024",
+        "rating": 6.5,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "AMC Plus Apple TV Channel",
+            "AMC+ Roku Premium Channel",
+            "Hoopla",
+            "Spectrum On Demand",
+            "Netflix Standard with Ads",
+            "AMC+",
+            "AMC",
+            "Netflix",
+            "Philo",
+            "Plex Channel"
+        ],
+        "cast": [
+            {
+                "name": "Giancarlo Esposito",
+                "role": "Gracián 'Gray' Parish",
+                "image": "https://image.tmdb.org/t/p/w200/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+            },
+            {
+                "name": "Zackary Momoh",
+                "role": "Shepherd 'The Horse' Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/8dKgzZvLUs29RTaEX9xuReQeJeP.jpg"
+            },
+            {
+                "name": "Paula Malcomson",
+                "role": "Rose Parish",
+                "image": "https://image.tmdb.org/t/p/w200/9lJy6ze86ZfVcBcyBK9UZq8FJiC.jpg"
+            },
+            {
+                "name": "Skeet Ulrich",
+                "role": "Colin Broussard",
+                "image": "https://image.tmdb.org/t/p/w200/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+            },
+            {
+                "name": "Ivan Mbakop",
+                "role": "Zenzo Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/457TZ4Ays9qL0I807cJngbL8M1d.jpg"
+            },
+            {
+                "name": "Bonnie Mbuli",
+                "role": "Shamiso Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/vMpZA7z1PmFy18ggceVEOZKEVLO.jpg"
+            },
+            {
+                "name": "Arica Himmel",
+                "role": "Makayla Parish",
+                "image": "https://image.tmdb.org/t/p/w200/icO52TMiqeHMFPOyQ4GAeWy1YHn.jpg"
+            },
+            {
+                "name": "Dax Rey",
+                "role": "Luke Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/n66YIjCBL4f5iq20E2em50rS06z.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Gray Parish, bir aile babası olarak ömür boyu suç hayatından vazgeçmiş, sorunlu bir geçmişi olan iyi bir adamdır. Ancak oğlu vahşice öldürüldüğünde, eski alışkanlıkları geri döner ve ilgili herkes için tehlikeli sonuçlar doğuran amansız bir arayışa başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Blood in the Water",
+                "overview": "Gray ve Colin büyük bir temizlik konusunda tartışır. Gray, ailesinin artan şüphesinden kaçar. Tongalılar ise yeni bir işin peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Sanctuary",
+                "overview": "Gray'in At'a olan bağlılığı nihai bir teste tabi tutulur. Tongalılar düşmanları hakkında bilgi toplamaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vvYTq3znYpA2aYilrHjPg9M1hF2.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Impimpi",
+                "overview": "Eski bir meslektaşı olan Anton, Gray'in Tongais'lerle çalıştığını öğrendiğinde, Gray'i bir seçim yapmaya zorlayacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3KKJ7QGb4D8O1Sj2tnihzQZwwB1.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kumba",
+                "overview": "Gray ve ailesi geçmiş travmalarıyla yüzleşir. Horse, Gray'e reddedemeyeceği bir teklif sunar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iHnPXCsCLpMUSYX5EcBttyE5QQK.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "A Good Man",
+                "overview": "Gray intikam için her şeyi riske atarken beklenmedik müttefikler keşfeder. Tongais'ler beklenmedik bir aksaklıkla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jWet7hAoBP5Ypjqs1U1EPqeQrb2.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 05:49:32"
+    },
+    {
+        "id": 1413,
+        "imdb_id": "tt1844624",
+        "name": "American Horror Story",
+        "original_name": "American Horror Story",
+        "overview": "Cinayet dolu geçmişi olan bir ev, bir akıl hastanesi, bir cadı meclisi, bir ucube gösterisi, bir otel, Roanoke'de bir çiftlik evi, bir tarikat, kıyamet ve bir yaz kampı da dahil olmak üzere farklı karakter ve mekanlara odaklanan bir antoloji korku drama dizisi.",
+        "poster": "https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+        "year": "2011",
+        "rating": 8.1,
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "FX",
+            "Amazon Prime",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Emma Roberts",
+                "role": "Anna Victoria Alcott",
+                "image": "https://image.tmdb.org/t/p/w200/utggW2yIufP3A5CGdT8H5mXyGLs.jpg"
+            },
+            {
+                "name": "Matt Czuchry",
+                "role": "Dexter Harding",
+                "image": "https://image.tmdb.org/t/p/w200/2rjZFfUgD5jJewgQn3HC72aIEBn.jpg"
+            },
+            {
+                "name": "Kim Kardashian",
+                "role": "Siobhan Corbyn",
+                "image": "https://image.tmdb.org/t/p/w200/3TLSq0aHXyxtqaXe9p7yB5Daqsa.jpg"
+            },
+            {
+                "name": "Annabelle Dexter-Jones",
+                "role": "Sonia Shawcross / Adeline Harding",
+                "image": "https://image.tmdb.org/t/p/w200/xym6SQjEQzuP35Fed3Y3gbzSgDI.jpg"
+            },
+            {
+                "name": "Michaela Jaé Rodriguez",
+                "role": "Nicolette",
+                "image": "https://image.tmdb.org/t/p/w200/8Mer8z72B2h2yv77qLVi6C2Io5G.jpg"
+            },
+            {
+                "name": "Denis O'Hare",
+                "role": "Dr. Andrew Hill",
+                "image": "https://image.tmdb.org/t/p/w200/zMim5sdMnyd2GFfPd9Jh59Vcog3.jpg"
+            },
+            {
+                "name": "Cara Delevingne",
+                "role": "Ivy Ehrenreich",
+                "image": "https://image.tmdb.org/t/p/w200/izZ8IbsIjNpjZ5S0HIYreVwVRzn.jpg"
+            },
+            {
+                "name": "Julie White",
+                "role": "Io Preecher",
+                "image": "https://image.tmdb.org/t/p/w200/siiNmtZZldFSc2DwnfUJf0Teouh.jpg"
+            },
+            {
+                "name": "Maaz Ali",
+                "role": "Kamal",
+                "image": "https://image.tmdb.org/t/p/w200/udDn3LgeZRaL1V518UL7n3ULhgF.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Bir terapist, karısını ve kızını alıp ülkenin diğer ucuna taşınır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/71aRrn1Bu3rIlIURFWAgFzLZkjf.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Haneye Tecavüz",
+                "overview": "Vivien ile Violet geçmiştekilere benzer ürkütücü bir olay yaşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/24ugyFFz3CD9g6t7jEbdXLiUmro.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Cinayet Evi",
+                "overview": "Evi satışa çıkaran Vivien, evin ilk sakinleri hakkında bilgiler edinir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qYZj2000oVgQvL2qWGZbm1Z2LYX.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Cadılar Bayramı 1. Bölüm",
+                "overview": "Evin önceki sakinleri, dekorasyon konusunda Harmon'lara öneride bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wEyVM1QLBAqTLGxxSQWi5wsc0FD.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Cadılar Bayramı 2. Bölüm",
+                "overview": "Tate, Cadılar Bayramı gecesi geçmişiyle yüz yüze gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u9P51AgyvsaoKVlqDyUBC00yw65.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Domuzcuk",
+                "overview": "Constance, Violet'e danışır. Ben de hastasını korkularıyla yüzleştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2ZfgFdAnPLw264NiIpob6ODNR2L.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Açık Ev",
+                "overview": "Moira ev için teklif alır. Constance ile Larry de onun aleyhine çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sSliNZXfHzDZKQQZc85zkth9rSR.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Lastik Adam",
+                "overview": "Lastik kostümlü adamın kimliği ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zrmWli2rdj9mrWeVHRoWZbn513c.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Küçük Ürkünç Kız",
+                "overview": "Gelmiş geçmiş en ünlü cinayet kurbanlarından biri evi ziyaret ediyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uyvewdpjODNcfyYMSBQ3B9aDccP.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Yanan Çocuklar",
+                "overview": "Violet evin kurallarını öğrenir. Larry'nin sorunu açıklanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8iKtNib84Iy6ASU3xfElZz0V5Ae.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "Doğum",
+                "overview": "Vivien doğum yapar. Tate ve Violet evdeki bazı hayaletlerden temelli kurtulmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/w9inideNIdY01pIfitvADtECjsC.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "Plasenta",
+                "overview": "Constance, Tate'in bebeğini kendi büyütmek için plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sVVbEAkSUbH692x9r3nlyjniJDD.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt1844624/s1/e12"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Tımarhane: Briarcliff'e Hoş Geldiniz",
+                "overview": "Bir katilin kaldığı tımarhaneye, Briarcliff Malikânesi'ne hoş geldiniz.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sWdUyVIO5R24WiWDKdKQtyNgN75.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Tımarhane: Şeker mi Şaka mı",
+                "overview": "Bir çocuğu kurtarması için Briarcliff'e bir şeytan çıkarıcı çağırılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vY3XVCl9061Nr89BE9w98uESNkg.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Tımarhane: Nor'easter",
+                "overview": "Bir grup hasta, şiddetli bir fırtına sırasında Briarcliff'ten kaçmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lv6WuYXMUqJjUXwQwaDRhgzmUPC.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Tımarhane: Ben, Anne Frank 1. Bölüm",
+                "overview": "Anne Frank olduğunu iddia eden yeni bir hasta, Arden'in geçmişini açığa çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cf9MPvTzmlOXYQsU0o0NjnJLfKe.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Tımarhane: Ben, Anne Frank 2. Bölüm",
+                "overview": "Rahibe Jude, Arden'ın kirli çamaşırlarını bulur. Kit bir şey itiraf eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8TnIGVHH5S3ZxXloWi4gvYUzUK5.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Tımarhane: Canavarlığın Kökenleri",
+                "overview": "Briarcliff'e bir kız terk edilir. Kanlı Yüz'ün geçmişi ortaya çıkarılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bVE5WEmqQ0K5x4gF2gpVLluYAOR.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Tımarhane: Ürkünç Kuzen",
+                "overview": "Rahibe Mary Eunice, Briarcliff'e bir kara melek indiğini keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dBPs6NuD1UjjAfLGJ1MkpIJpM0E.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Tımarhane: Kötücül Gece",
+                "overview": "Kanlı bir Noel Baba ortalığı kasıp kavurur. Rahibe Jude, Şeytan'la yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ldjL9mHJDPXHyXCiuYhOnYvYg0w.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Tımarhane: Elbise Askısı",
+                "overview": "Monsenyör alışılmadık bir dönüşüm geçirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rpXHrb7v3NPBVtXODmbmwdJI3SO.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "Tımarhane: Ad Oyunu",
+                "overview": "Monsenyör, Şeytan'la yüzleşir. Arden'in deneyleri sona erer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rCGdvTrXhPb6iJEJVw8kMnYZXvZ.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e10"
+            },
+            {
+                "season": 2,
+                "episode": 11,
+                "name": "Dökülmüş Süt",
+                "overview": "Grace, uzaylıların Alma üzerine yaptığı deneyler hakkında, Kit'e çarpıcı bilgiler verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6QYCnSmOeaWCL9HgagjTmVRZXDk.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e11"
+            },
+            {
+                "season": 2,
+                "episode": 12,
+                "name": "Süreç",
+                "overview": "Bir hasta, Rahibe Jude'un Briarcliff'ten taburcu edilme şansını zora sokar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bu2fnurKQygYJmYNXpaxPHClbj4.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e12"
+            },
+            {
+                "season": 2,
+                "episode": 13,
+                "name": "Tımarhane: Delilik Sona Erer",
+                "overview": "Johnny, babasının başladığı işi bitirir. Lana, Briarcliff'i kapatmayı dener.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rH1EHLK2qAlv8AAbQW0qRbgRL7P.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s2/e13"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Cadılar Meclisi: Fahişelik",
+                "overview": "Tuhaf, kalıtsal bir hastalığı olduğunu öğrenen Zoe yıkılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y7JwJn2j1cwm61uVoKkmktiM8Ss.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Cadılar Meclisi: Çocukların Parçaları",
+                "overview": "Fiona, bir trajediyle baş edebilmeleri için Zoe ile Madison'a yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wtpfsxhFqQAbk17pvLaUpT1Hxqs.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Cadılar Meclisi: Kadro Değişikliği",
+                "overview": "Fiona yanına bir çırak alır. Zoe de Kyle'ı eski yaşamına döndürmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wKw0kdTel5qwuBKf464Iaxr4J7V.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Cadılar Meclisi: Ürkünç Şakalar Devam Eder",
+                "overview": "Cadılarla Marie Laveau arasındaki ateşkes, Fiona yüzünden bozulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rs3VgNjPrYtmAklYWnsFBmVPR4v.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Cadılar Meclisi: Yan Cadı, Yan!",
+                "overview": "Marie Laveau'nun ordusu tarafından kuşatılan Zoe yeni gücünü kullanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pC5E5whPyU5N4UGTdliutSCdEFX.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Cadılar Meclisi: Baltacı Geliyor",
+                "overview": "Zoe, Queenie ve Nan, Akademi'de hapsolmuş bir ruhla bağlantı kurar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9s2ihbFkazJ8IICagmEDIMfBTnV.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Cadılar Meclisi: Ölüler",
+                "overview": "Fiona yeni bir ilişkiye yelken açar. Queenie de Cadılar Meclisi'ni sorgular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8yErOGpde380FSJYNe6vWiccNvh.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Cadılar Meclisi: Kutsal Kaçırma",
+                "overview": "Cordelia, Fiona'yı durdurmak için kızları mücadeleye çağırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bZanN7GSg81r0ZaMyjor4aseDGB.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "Cadılar Meclisi: Baş",
+                "overview": "Cordelia'ya saldıran ortaya çıkar. Fiona da Marie Laveau ile birlik olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jl0YgedYQkAUzZ9m4ZISB0vPU5M.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "Cadılar Meclisi: Stevie Nicks'in Sihirli Eğlenceleri",
+                "overview": "Fiona, Stevie Nicks'in ziyaretinin ardından yeni Yüce'yi açıklamaya kalkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/323bxodJTRE3AfvMaRyecRwuyHr.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e10"
+            },
+            {
+                "season": 3,
+                "episode": 11,
+                "name": "Cadılar Meclisi: Cadılar Meclisini Koru",
+                "overview": "Fiona ile Laveau, şirketle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hNgAAaTwEEE9e9N13Gfu6F1Mv9r.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e11"
+            },
+            {
+                "season": 3,
+                "episode": 12,
+                "name": "Cadılar Meclisi: Cehenneme Git",
+                "overview": "Fiona'nın devri kapanınca kızların çok güçlü yeni yetenekleri ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/78uSyvutlDQe2I3uIktJCQprjVO.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e12"
+            },
+            {
+                "season": 3,
+                "episode": 13,
+                "name": "Cadılar Meclisi: Yedi Harika",
+                "overview": "Yeni Yüce ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3TDHOFauAvIv1IDGO9njRqarMS0.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1844624/s3/e13"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Aramızdaki Canavarlar",
+                "overview": "Küçük bir gösteri, ayakta kalmak için çabalamaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Katliamlar ve Matineler",
+                "overview": "Sokağa çıkma yasağı, Ucube Gösterisi'ni tehlikeye sokar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5tHkRWsLBWhCdRMU5Wme17oyyC4.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Edward Mordrake 1. Bölüm",
+                "overview": "Ucubeler, batıl inanç yüzünden Cadılar Bayramı'nda gösteriye çıkmak istemez.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fIciCZARRhb91aWZtIPGhTSCjX8.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "Edward Mordrake 2. Bölüm",
+                "overview": "Edward Mordrake, topluluğa katmak için yeni bir ucube aramaya devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lZpprblfjXNOAHkdkHYXOr07jgf.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Pembe Kapkekler",
+                "overview": "Stanley ile Maggie, ucubeleri öldürmek için plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xu1BpUcKV7cWeRy5abA3gmqgo38.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Tam İsabet",
+                "overview": "Stanley, Jimmy'yi öldürmesi için Maggie'ye baskı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u4aro94og1c3r1Ids67veIS8s31.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "Güç Testi",
+                "overview": "Şiddet eylemi nedeniyle, Ucube Gösterisi'ndeki kadınlar Dell'e cephe alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zS95p8e7ZmifgDaBcR1CCQrCbpK.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "Kan Gölü",
+                "overview": "Kamptaki kaybolmaların ardından Ethel'in Elsa hakkındaki kuşkuları artar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y2wSsXT9krEaBGRuGDBRxwuf5BR.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "Partide Katliam",
+                "overview": "Trajik bir kaybın ardından, Jimmy kendini içkiye verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/15WkSNFV7T0IywdleODVloeJ6rQ.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "Kimsesizler",
+                "overview": "Bir ucubenin ölümünün ardından Pepper'ın davranışları tuhaflaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/liYpJfIdeZiAdDduEH6gddOKhh2.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e10"
+            },
+            {
+                "season": 4,
+                "episode": 11,
+                "name": "Büyülü Düşünce",
+                "overview": "Elsa, Hollywood'a taşınacaktır. İkizler de bir satıcıya abayı yakar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iC8Va2UVW4RX0Uzs4dEanzUMNGc.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e11"
+            },
+            {
+                "season": 4,
+                "episode": 12,
+                "name": "Ucube Gösterisi: Alkış Tufanı",
+                "overview": "Dandy ikizlere, Chester hakkında rahatsız edici bilgiler verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mxbYAKo5Y129hsXluiOulpmY58I.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e12"
+            },
+            {
+                "season": 4,
+                "episode": 13,
+                "name": "Sahneye Çağırmak",
+                "overview": "Ucubeler yeni yönetime karşı ayaklanır. Dandy ilk gösterisine hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j7rKqKSP3jyEP6NAwyGrhes82gA.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1844624/s4/e13"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "Giriş Yapmak",
+                "overview": "Dedektif John Lowe, Los Angeles'ta işlenen bir dizi cinayeti soruşturuyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/89eu71hZLaEae2Zj19j63rBAym8.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "Kanallar ve Sarmallar",
+                "overview": "Moda imparatoru Will Drake, Cortez Oteli'ni moda ile tanıştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4YRXAeL9CBYOw0wdqSDayQbLApk.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "Annecim",
+                "overview": "Scarlett, Holden ile olan anıları deşince Alex'in sinirleri altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yjvwYPPTe1uGcmtDBTdjjgB4ZVk.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "Şeytanın Gecesi",
+                "overview": "John, Şeytan'ın Gecesi Suaresi'ne davet edilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mvf6mqjM5iFZ9l0N34IzW8vyvU6.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "Oda Servisi",
+                "overview": "Alex, bir hastasını kurtarmak için alışılmadık tedaviler uygular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7a1g2fs8vOR5THMHHL9Pg1QsX1W.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "Oda 33",
+                "overview": "Ramona ile Donovan, intikam planlarını uygular. Liz Taylor âşık olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dd4BGh0wvkwghybBdWErwSvMl1x.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e06"
+            },
+            {
+                "season": 5,
+                "episode": 7,
+                "name": "Titreşim",
+                "overview": "Will Drake'in yaptırdığı tadilat, otelin sırlarından birini ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jvTvsErxd6pVaEVq4inbY6cHTDZ.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e07"
+            },
+            {
+                "season": 5,
+                "episode": 8,
+                "name": "On Emir Katili",
+                "overview": "John, katili bulmaya yakındır. Sally'nin March ile anlaşması ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j75cyPWx1pmYsid11FiUAsOserM.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e08"
+            },
+            {
+                "season": 5,
+                "episode": 9,
+                "name": "İntikam İstiyor",
+                "overview": "Kontes, sevgilisine kavuşur. Donovan ile Ramona intikam alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ppih0fbnhUesTL6ycMBkcHYE99H.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e09"
+            },
+            {
+                "season": 5,
+                "episode": 10,
+                "name": "İntikamını Alıyor",
+                "overview": "Alex, bir salgını önlemek için John'dan yardım ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lsUFCJAFIW2nprghNpqoNoeLIyA.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e10"
+            },
+            {
+                "season": 5,
+                "episode": 11,
+                "name": "Büyük Münakaşa",
+                "overview": "Ramona, umulmadık birinin canını emer. Sally, gelecek pazarlığı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uacbm3cpIdeTV6FWdBHQiXcv6Gl.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e11"
+            },
+            {
+                "season": 5,
+                "episode": 12,
+                "name": "Misafirimiz Olun",
+                "overview": "Iris ile Liz, Cortez'deki yeni dönemin yöneticileri olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5DImPlCtApJbKGfnp96Tn9skQ9F.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1844624/s5/e12"
+            },
+            {
+                "season": 6,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Matt ve Shelby Miller bir eve taşınır ve başlarına doğa üstü olaylar gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oNQMEX9glxFDJkneUybSuCONNxp.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e01"
+            },
+            {
+                "season": 6,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Matt'in kız kardeşi Lee, kızı Flora'yı konuk olarak eve getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rFB5pp6oMTxtAVYpy8MGSJtatHH.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e02"
+            },
+            {
+                "season": 6,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Ormanda Flora'yı ararlarken rahatsız edici bazı sırlar ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i3tZLifkEREKbUXMCJE3gekjZAC.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e03"
+            },
+            {
+                "season": 6,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Cricket, yerleşimcilerin gücünün kaynağını öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jjHmi7hlMT4qEc8AwleBIsBK24i.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e04"
+            },
+            {
+                "season": 6,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Evin karanlık kökeni gün ışığına çıkarılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bWCKA7Dr9TEnSnnAy7keZsoFSr1.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e05"
+            },
+            {
+                "season": 6,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "İlk filmin kadrosu, \"Roanoke'ye Dönüş: Cehennemde Üç Gün\" için bir arada.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2Z5qQaJzGoO5ws7ib0TzzyRWTDs.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e06"
+            },
+            {
+                "season": 6,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Agnes, gösteriye dâhil olabilmek için son bir çaba sarf eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qVO1V0ZEFYMwWgzaM8C8hvEAe5j.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e07"
+            },
+            {
+                "season": 6,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Polk ailesi, Lee'yi, Monet'yi ve Audrey'yi tutsak alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/syHo6xMD8ZUOVDiWKazuqGyqtmg.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e08"
+            },
+            {
+                "season": 6,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Audrey ile Lee, Money'yi Polkların elinden kurtarmak için bir plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qNdGCDyCVMm7hzDCFlH58JrhxY.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e09"
+            },
+            {
+                "season": 6,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Lee, cinayetle suçlanır. Lana Winters, Lee Harris ile görüşmek için gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oR4PximRHvaPyKZuLNJsDJBa2iZ.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt1844624/s6/e10"
+            },
+            {
+                "season": 7,
+                "episode": 1,
+                "name": "Seçim Gecesi",
+                "overview": "Başkanlık Seçimi'nin ardından, bir kadının korkuları ortaya çıkmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zGttpn1x7ViyOP2Bvr0fgZWeQgU.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e01"
+            },
+            {
+                "season": 7,
+                "episode": 2,
+                "name": "Karanlıktan Korkma",
+                "overview": "Ally'nin korkuları yeni komşuların gelişiyle şiddetlenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8eNfm1AyjFpFClFLRclDmnjv24T.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e02"
+            },
+            {
+                "season": 7,
+                "episode": 3,
+                "name": "Cehennemden Gelen Komşular",
+                "overview": "Bir çalışanının ölümünün ardından halk Ally'ye sırt çevirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6AgjhdihfefZjQQeRe0CPpcO4qP.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e03"
+            },
+            {
+                "season": 7,
+                "episode": 4,
+                "name": "11 Eylül",
+                "overview": "Harrison, spor salonunda yeni bir müşterisine spor yaptırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oAHH3GUm2jeRwTZ7CrQ8b30WyEN.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e04"
+            },
+            {
+                "season": 7,
+                "episode": 5,
+                "name": "Boşluklar",
+                "overview": "Beverly'nin gazetecilik namusu sorgulanmaya başlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rZ6LXBO1rsebmuKxOWAO0pcwkuE.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e05"
+            },
+            {
+                "season": 7,
+                "episode": 6,
+                "name": "Orta Batı Suikastçısı",
+                "overview": "Ally, hiç ummadığı bir kaynaktan tarikat hakkındaki gerçekleri öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gzwBDcKIr3f1dizxnRxVXUPdUMb.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e06"
+            },
+            {
+                "season": 7,
+                "episode": 7,
+                "name": "Valerie Solanas Senin Günahların Yüzünden Öldü Şerefsiz",
+                "overview": "Kai'nin ulusal gazetelerde manşete çıkması ona yeni taraftarlar kazandırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5KQq2XUaG2jzmaxMVKmqBBtoOPQ.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e07"
+            },
+            {
+                "season": 7,
+                "episode": 8,
+                "name": "Huzursuzluğumuzun Kışı",
+                "overview": "Ally hastaneden taburcu olur. Vincent, Kai'nin arkasından dolaplar çevirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qTEwBNs5Y6bwt8Dxfiv8Q2vMF3o.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e08"
+            },
+            {
+                "season": 7,
+                "episode": 9,
+                "name": "Bile Bile Lades",
+                "overview": "Kai, tarikatlara başvurur. Kadınlar, duracakları cepheyi seçerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oUwMMTCNZCUI5OwlbD4cxODv2d0.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e09"
+            },
+            {
+                "season": 7,
+                "episode": 10,
+                "name": "Charles (Manson) İş Başında",
+                "overview": "Kai'nin siyasi hareketi tehdit altındadır. Tarikat, işi ehlinden öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/la4PoRvC3JYdZQvk3IQBhUaJNm8.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e10"
+            },
+            {
+                "season": 7,
+                "episode": 11,
+                "name": "Yeniden Harika",
+                "overview": "kai, ana planına uygulamaya başlar. Ally, gerçekleri Kai'ye anlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dKg3dmQO90O9Iyxi9u3cKKKm9FP.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt1844624/s7/e11"
+            },
+            {
+                "season": 8,
+                "episode": 1,
+                "name": "Son",
+                "overview": "Bir grup, nükleer bir kıyametin ardından gizli bir sığınakta yaşamaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e01"
+            },
+            {
+                "season": 8,
+                "episode": 2,
+                "name": "Ertesi Sabah",
+                "overview": "Karakolun yeni sakininin kötü haberlerle gelmesi domino etkisine yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tSV0e7BsGhl6135AGm5nMBNwg5T.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e02"
+            },
+            {
+                "season": 8,
+                "episode": 3,
+                "name": "Yasak Meyve",
+                "overview": "Bayan Mead sorunlarla boğuşur. Michael da kendi hakkında açıklamalar yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wLrslhcq4IU5aqvAy5vT2446REl.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e03"
+            },
+            {
+                "season": 8,
+                "episode": 4,
+                "name": "Yoksa… Şeytan Mı?",
+                "overview": "Üç Numaralı Karakol bir zamanlar Hawthorne Maharetli Genç Beyler Okulu'dur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/x2bx8juovnJXHXo9jxvSX9Asos2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e04"
+            },
+            {
+                "season": 8,
+                "episode": 5,
+                "name": "Harika Çocuk",
+                "overview": "Cordelia, Michael'ın Yedi Mucize'yi gerçekleştirmesine izin verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sRir6D8wA06KDISwUtbQBsBzTr.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e05"
+            },
+            {
+                "season": 8,
+                "episode": 6,
+                "name": "Cinayet Evine Dönüş",
+                "overview": "Behold ile Madison, Cinayet Evi'ne göreve gönderilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/h2Ad8h19LiVIYV5nKCA2xqdQJ1P.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e06"
+            },
+            {
+                "season": 8,
+                "episode": 7,
+                "name": "Hain",
+                "overview": "Cadılar, düzenbazları ortaya çıkarması için bir dostlarını çağırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ztVTeGBzSEo3RV7PcVzM2MNXruv.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e07"
+            },
+            {
+                "season": 8,
+                "episode": 8,
+                "name": "Geçici İkamet",
+                "overview": "Michael, dünyadaki yerini öğrenebilmek için görü arayışına çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sY3xpt5BchzMSZxjn4wd81fGu3M.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e08"
+            },
+            {
+                "season": 8,
+                "episode": 9,
+                "name": "Kıyamet: Ateş ve Krallık",
+                "overview": "Mutt ile Jeff, daha \"parlak\" bir gelecek hedeflemektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1skaO2HK8udpN3APeejbtFfF9cq.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e09"
+            },
+            {
+                "season": 8,
+                "episode": 10,
+                "name": "Kıyamet Kopunca",
+                "overview": "Cadılar, Deccal'e karşı son bir direniş gerçekleştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xgONEijaqT93zIXTVtQyjDEBO7f.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt1844624/s8/e10"
+            },
+            {
+                "season": 9,
+                "episode": 1,
+                "name": "Redwood Kampı",
+                "overview": "Beş arkadaş, Redwood Kampı'nda çalışmak üzere Los Angeles'tan kaçar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oZtS6m78aCb21xqrZ6uvIipLl5a.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1844624/s9/e01"
+            },
+            {
+                "season": 9,
+                "episode": 2,
+                "name": "Bay Jingles",
+                "overview": "Kampa karanlık çöker. Yatma vakti gelmiştir ama kötülük yasak dinlemez.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vajma2lphiNjlpdLGAyfK1Mn9XA.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s9/e02"
+            },
+            {
+                "season": 9,
+                "episode": 3,
+                "name": "Slashdance",
+                "overview": "Kılavuzlar kaçma planı yaparken Bay Jingles da kaçan birini yakalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xhqlhwwfLot6c1nS3E8iFs9tOB2.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1844624/s9/e03"
+            },
+            {
+                "season": 9,
+                "episode": 4,
+                "name": "Gerçek Katiller",
+                "overview": "Şafak sökerken, hayatta kalanlar son bir çarpışmaya hazırlanmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1RiickdmJxbKLbU3lIztJyp7OBy.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1844624/s9/e04"
+            },
+            {
+                "season": 9,
+                "episode": 5,
+                "name": "Kızıl Şafak",
+                "overview": "Kurtulanlar, dehşeti geride bırakıp seçimlerinin sonuçlarıyla yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8de8KiylutKVeu5aQ6wjzUjuKFJ.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1844624/s9/e05"
+            },
+            {
+                "season": 9,
+                "episode": 6,
+                "name": "100. Bölüm",
+                "overview": "Redwood Kampı'nın gizli bölümü ortaya çıkar. Bir otostopçuya yardım ederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aO425RdlTaczZQ2fV7ivp3UfCih.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s9/e06"
+            },
+            {
+                "season": 9,
+                "episode": 7,
+                "name": "Beyazlı Hanım",
+                "overview": "Redwood Kampı, hesaplaşmak isteyen birine kapılarını açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4HTrXAJqTrHxjZWjzVYd5KMaM06.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt1844624/s9/e07"
+            },
+            {
+                "season": 9,
+                "episode": 8,
+                "name": "Paramparça Yatsın",
+                "overview": "Ortaya çıkan zalim bir üçlü, Redwood Kampı'nda yeni bir dönemi başlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qJ9E1kks0fICU4yRaTOXNAC0CCT.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s9/e08"
+            },
+            {
+                "season": 9,
+                "episode": 9,
+                "name": "Son Kız",
+                "overview": "En iyi trajedi biçimi taklittir. Temize çıkıp bazen zor olabilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pgWDl0aC3RlUew6mlYic56boKuU.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1844624/s9/e09"
+            },
+            {
+                "season": 10,
+                "episode": 1,
+                "name": "Korku Burnu",
+                "overview": "Bir yazar, karısı ve kızı, kışı geçirmek için bir sahil kasabasına taşınır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/enyxlSJ5nsX3W34AbClq3O8r78F.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e01"
+            },
+            {
+                "season": 10,
+                "episode": 2,
+                "name": "Soluk",
+                "overview": "Harry'nin yazar tıkanmasının çözümünün bazı beklenmedik yan etkileri olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cfIb9yu50Pf26WhLla6Bh4zDc5n.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e02"
+            },
+            {
+                "season": 10,
+                "episode": 3,
+                "name": "Arzu",
+                "overview": "Harry'nin keşfettiği yeteneği kasabaya beklenmedik bir ziyaretçi getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/brdgWjBivu3MUFxEWwt3CtMMyin.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e03"
+            },
+            {
+                "season": 10,
+                "episode": 4,
+                "name": "Kanlı Yemek",
+                "overview": "Provincetown'ın ve sakinlerinin karanlık geçmişi gün yüzüne çıkıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8lu6J09eLHxr4JvRAKEjARpcULf.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e04"
+            },
+            {
+                "season": 10,
+                "episode": 5,
+                "name": "Gaz Işığı",
+                "overview": "Harry, Alma'yı kontrol etmekte, Doris de sınırlarını geçmekte zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6UOLWCbJhN34NKRlGTlC01nHi0h.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e05"
+            },
+            {
+                "season": 10,
+                "episode": 6,
+                "name": "Kış Öldürür",
+                "overview": "Ursula sinsi bir plan tasarlar. Gardnerlar oyunun son perdesini yazar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/89FuxqOrHJp57tw68zxoH2zrZGj.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e06"
+            },
+            {
+                "season": 10,
+                "episode": 7,
+                "name": "Beni Önderine Götür",
+                "overview": "Geziye çıkmış bir grup üniversiteli korkunç bir tezgâhın içine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2PQ2k2SWgouGT4BGl9XM1GK2OOA.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e07"
+            },
+            {
+                "season": 10,
+                "episode": 8,
+                "name": "İçerisi",
+                "overview": "Başkan, imzalayacağı bir anlaşmanın ahlaki olup olmadığını sorgular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yWNTqjHYkLN3iZMj3vrt45PphiO.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e08"
+            },
+            {
+                "season": 10,
+                "episode": 9,
+                "name": "Mavi Ay",
+                "overview": "Beyaz Saray'a gelen bir ziyaretçi korkunç bir planı açığa çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zelNOdgoyuYJg1qkX187G3WT5ac.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e09"
+            },
+            {
+                "season": 10,
+                "episode": 10,
+                "name": "Kusursuz Gelecek",
+                "overview": "Mamie sorunları kendi başına çözer. Gelecekte yaşanacaklar ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3bKABYmfbzbWbNeZv311FEnLoVK.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt1844624/s10/e10"
+            },
+            {
+                "season": 11,
+                "episode": 1,
+                "name": "Bir Şeyler Geliyor",
+                "overview": "Şehirde gizemli ölümler ve kayıp vakaları artar. Bir doktor tüyleri ürperten bir keşif yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yvLAbzPhFDaNzYXjv0rNKD8IxRc.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e01"
+            },
+            {
+                "season": 11,
+                "episode": 2,
+                "name": "Verdiğiniz Hizmet İçin Teşekkür Ederiz",
+                "overview": "Gino travmalarıyla boğuşur. Patrick'in arayışı onu karanlık yerlere götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cEIirwqNDZWQUsa97CHxwhUHIQW.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e02"
+            },
+            {
+                "season": 11,
+                "episode": 3,
+                "name": "Duman Sinyalleri",
+                "overview": "NYPD'nin yardımı olmadan, Gino becerikli olmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1DQqu20g95UIwSvd7UGmyDelG55.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e03"
+            },
+            {
+                "season": 11,
+                "episode": 4,
+                "name": "Karartma",
+                "overview": "Karanlık şehri tüketirken, kötülük en beklenmedik yerlerde kök salar...",
+                "still_path": "https://image.tmdb.org/t/p/w400/wV8ZxhUyekZWtO0LUy627ivUmLm.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e04"
+            },
+            {
+                "season": 11,
+                "episode": 5,
+                "name": "Kötü Şans",
+                "overview": "Patrick bir kayıp yaşarken Hannah endişe verici bir haber alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7Ngum5JUct9jQDPn3ghUx0xPeSj.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e05"
+            },
+            {
+                "season": 11,
+                "episode": 6,
+                "name": "Vücut",
+                "overview": "Patrick'in geçmişinden tüyler ürpertici bir olay, peşini bırakmamak üzere geri döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7pfEIhkFqWNVA9Brj1G9zZNCfn.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e06"
+            },
+            {
+                "season": 11,
+                "episode": 7,
+                "name": "Gözcü",
+                "overview": "Patrick'in arayışı destansı bir sonuca ulaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wTRfn12tv7kkgWXi1fcSbe33YSy.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e07"
+            },
+            {
+                "season": 11,
+                "episode": 8,
+                "name": "Fire Island",
+                "overview": "Fire Island'daki korkunç olaylar grubu dağıtır ve her şeyi yeniden gözden geçirmeye zorlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b0ecM7PK0d0IdoVkStBevFOM2Oi.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e08"
+            },
+            {
+                "season": 11,
+                "episode": 9,
+                "name": "Requiem 1981/1987 Birinci Bölüm",
+                "overview": "Yaşam süreleri azalan iki eski dost, geçmişe doğru benzersiz bir yolculuğa çıkarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1UuRxEdyZekLc2z1bhpUsxl6Dzx.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e09"
+            },
+            {
+                "season": 11,
+                "episode": 10,
+                "name": "Requiem 1981/1987 İkinci Bölüm",
+                "overview": "Keder ve tehlike Gino'yu ele geçirir. Bir trajedinin keşfi Adam için bir aydınlanma olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hoheloUjc92pbau2rNjVJxMt0Ty.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt1844624/s11/e10"
+            },
+            {
+                "season": 12,
+                "episode": 1,
+                "name": "Acını Katla",
+                "overview": "Birçok başarısız tüp bebek denemesinden sonra, Anna bir aile kurmaktan başka bir şey istememektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rAjPsLpbVjELwAWYVgdFjCVJvsf.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1844624/s12/e01"
+            },
+            {
+                "season": 12,
+                "episode": 2,
+                "name": "Ninni",
+                "overview": "Ödül sezonu gelmiştir ve Anna yarışmada önemli bir oyuncu olmaya hazırlanmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jQgp5fhw1W9yzRWoxHWPdP6Pk7A.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1844624/s12/e02"
+            },
+            {
+                "season": 12,
+                "episode": 3,
+                "name": "Dal Kırıldığında",
+                "overview": "Anna ve Dex, Hamptons'taki sığınaklarına yerleştiklerinde, rahatlıkları bozulmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/A3JY5NPC1CjUH1Ure8Rkb3HiTQi.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt1844624/s12/e03"
+            },
+            {
+                "season": 12,
+                "episode": 4,
+                "name": "Kaybolan İkiz",
+                "overview": "Siobhan'ın da yardımıyla, önemli bir duyuru Anna'nın kamuoyundaki imajını düzeltmeye yardımcı olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a3i4s52wGKBnVLxpPWUtZvEXZc1.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt1844624/s12/e04"
+            },
+            {
+                "season": 12,
+                "episode": 5,
+                "name": "Preech",
+                "overview": "Anna, karanlık varlığın kendisine her zamankinden daha fazla yaklaştığını hisseder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ehzHMJI4qBuJmwwgUyvyh7UplFs.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt1844624/s12/e05"
+            },
+            {
+                "season": 12,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/micrNpqUOs3jJ7B4qNmHH2ctiBq.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt1844624/s12/e06"
+            },
+            {
+                "season": 12,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6BU5D9wQtEDNVhjvsmjzKe6JS7g.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt1844624/s12/e07"
+            },
+            {
+                "season": 12,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/vf4K2DR5NGSPtR0MEexOMIZGa1W.jpg",
+                "vote_average": 4.9,
+                "link": "https://vidmody.com/vs/tt1844624/s12/e08"
+            },
+            {
+                "season": 12,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ggX7G3GGiyZIMXJ4wc2BAraDcYJ.jpg",
+                "vote_average": 3.7,
+                "link": "https://vidmody.com/vs/tt1844624/s12/e09"
+            }
+        ],
+        "update_date": "2026-02-15 05:46:24"
+    },
+    {
+        "id": 1411,
+        "imdb_id": "tt1839578",
+        "name": "Şüpheli Şahıs",
+        "original_name": "Person of Interest",
+        "overview": "Kameralar her yerde! İzliyorlar, dinliyorlar, kaydediyorlar. Sizin hakkınızda her şeyi biliyorlar! Peki siz onlar hakkında ne biliyorsunuz? Gizemli bir iş adamı olan Mr. Finch, ileride işlenecek suçları önceden önlemeyi hedefleyen bir bilgisayar programı geliştirir. İlginç bir karaktere sahip bu milyoner işadamı elindeki programı hayata geçirebilmek için resmi kayıtlarda ölü olarak geçen Reese adlı eski bir CIA ajanıyla anlaşır. Kendi kaynakları ve teknolojisiyle Reese'in yetenekleri ve sezgilerini birleştiren Mr. Finch'in amacı gelecekte işlenecek olan suçları henüz suçlular eyleme geçmeden önlemektir.",
+        "poster": "https://image.tmdb.org/t/p/w500/qxmXuXb6GxEfoQ5kcPN5guCiOZ5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/ksmcQlCQc7XFGpXpIFZzF5twRSr.jpg",
+        "year": "2011",
+        "rating": 8.1,
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera",
+            "Suç",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "CBS"
+        ],
+        "cast": [
+            {
+                "name": "Jim Caviezel",
+                "role": "John Reese",
+                "image": "https://image.tmdb.org/t/p/w200/yGlRIu6aEbet2QnpKIESfD0zMGf.jpg"
+            },
+            {
+                "name": "Michael Emerson",
+                "role": "Harold Finch",
+                "image": "https://image.tmdb.org/t/p/w200/xOpr90SF1RCtjFNTu32nZQ90buY.jpg"
+            },
+            {
+                "name": "Kevin Chapman",
+                "role": "Lionel Fusco",
+                "image": "https://image.tmdb.org/t/p/w200/sCUwtlhaT2MspHCUx2veRAA9ZXx.jpg"
+            },
+            {
+                "name": "Amy Acker",
+                "role": "Root",
+                "image": "https://image.tmdb.org/t/p/w200/9lpLwfscOoG4jyYIH761SRnm09U.jpg"
+            },
+            {
+                "name": "Sarah Shahi",
+                "role": "Sameen Shaw",
+                "image": "https://image.tmdb.org/t/p/w200/crKD1ax5wRRZ4QM7nQyH8K2deaA.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Genç bir savcının sosyal güvenlik numarası geldiğinde, Reese ve Finch ilgilendikleri kişinin kurban mı yoksa fail mi olduğunu anlamak için birlikte çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8MVJ0T87OA4GpiaiqCSE0AyvfGU.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Hayaletler",
+                "overview": "Reese ve Finch yıllar önce öldürülen bir genci araştırmaları gerekince makinenin güvenilirliğini sorgularlar. Finch makinenin kökenini hatırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vhAYdUkepQuRS2clnS5mjlSRCT8.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Finch'in listesindeki genç ordu gazisi Joey Durbanı tehditten korumak için Reese gizli bir göreve gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iRXOTHZwkrP7Q0qtb0hsITPww1p.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Reese ve Finch Doktor Megan Tillman tarafından denetlenirken detektif Fusco'dan yardım alırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/apZXHn9NmuhSOHD5yjTvIE5ZgfM.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Makine, verdiği ağır cezalar ile tanınan bir yargıcın sosyal güvenlik numarasını Finch ve Reese'in karşısına getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j0jfUvMRhtTtoInI2nGhANw80av.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Reese göründüğü gibi olmayan şüpheli ilişkileri olan bir kadından hoşlanmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/c6cqjYzddSC8NsGrAgpqNT0d94X.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Makine, bu sefer bir okul öğretmenini gösterir. Reese ve Finch acele etmek zorundadırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6TtcwXXZFFkXT5bzhiJ2Pcon1NK.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Reese ve Finch, son POI'larının Soğuk Savaş Sovyet casusları ile bağlantısı olduğunu keşfederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eA9MsEf7rcNuLpSof3kEUCD9ir8.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Reese ve Finch'in Detektif Carter ile kedi fare oyunu, Makine'nin Dedektif Carter'ın yeni hedef olduğunu söyleyince iyice karışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yfOf7Af8EN50Qq6PqFPUc4OdJQG.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Detektif Carter, Reese ve Finch ile olan son karşılaşmasının ardından kalanları toparlamaya çalışır. Makine bu sefer ikiliye bir yerine dört tane sosyal güvenlik numarası verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1iLSE9I2Bro4TIwOaB2UC4Imuq.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Reese, kurşun yarasından sonra tekerlekli sandalyeye hapsolur ama Finch ona en son hedefe göz kulak olması için bir görev verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/65EGY5u8yw0rg0XlOqu2GwesUbS.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Carter sonunda Reese ile yüzleşince ekibin yeni hedefi genç bir kadına yardım etmek için ekibe katılmak istediğini söyler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/c3IJzqQNQ4JxoFbEeNNqew7OP3A.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Makine, Reese ve Finch'e fazla zorlanmış perişan bir adamın numarasını verir ve eski şüphelileri Zoe Morgandan yardım istemek zorunda kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r4qUbdhTKzJhNPmNNhCp3Te3IZm.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e13"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "Makine, kardeşi henüz öldürülen genç Darren'ı bir sonraki hedef olarak tanımlar. Bu arada Finch, eski iş ortağının oğlunun Makine hakkında bilgi edinmeye çok yaklaştığı konusunda endişeleri artar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kdDCJMdWai2cA7IrRhot5yKypSO.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e14"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "Reese, son hedef için bir kaçakçılık çetesine sızdıktan sonra olayların çok daha farklı olduğunu farkeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6drPQk1qphyeuYlTVZAbNEkYubv.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e15"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "name": "16. Bölüm",
+                "overview": "Makine, Reese ve Finch'i Wall Street'e götürür. Büyük bir yatırım bankasındaki zeki genç bir tüccar, milyon dolarlık bir mali dolandırıcılığa karışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v35br6tfncYCr2BMfLOadk35wm3.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e16"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "name": "17. Bölüm",
+                "overview": "Moretti hapishaneden serbest bırakıldığında, Carter ve Reese, onu Elias'tan korumak için işbirliği yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y4X60XnZHem0Q9SkBBoE9WjuJSi.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e17"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "name": "18. Bölüm",
+                "overview": "Finch ve Reese, ikili bir hayat sürüyor gibi görünen bir kişinin peşine düşer. Ancak, çok geçmeden aynı sosyal güvenlik numarasına sahip farklı iki kişi olduğunu fark ederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mI8TFAw6EpIkMnGldzH2aQqJ4bV.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e18"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "name": "19. Bölüm",
+                "overview": "Elias nihayet düşmanını ortadan kaldırmaya ve yeraltının lideri olmaya hazırdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7TPfHn9jyFsnIZo8liv6k0VgY48.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e19"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "name": "20. Bölüm",
+                "overview": "Reese, gerçekleşecek bir soygunu önlemek için zırhlı araç güvenlik görevlisi olarak kılık değiştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hLFcorPTm3jxbo9GOmB0gPX2TDZ.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e20"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "name": "21. Bölüm",
+                "overview": "Makina yeni bir hedef verir. Finch gelen bu hedef sonrası, Reese'e izin verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xmlaLAnGHSpOuYtPEoWuEFxLXxK.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e21"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "name": "22. Bölüm",
+                "overview": "Finch ve Reese, Makina'ya çok yaklaştığını düşündükleri NSA için çalışan bir casusu yakından takip etmeye başlarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f56E0WGaki88FI6gSe1spBNZVzD.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e22"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "name": "23. Bölüm",
+                "overview": "Reese, mahsur kalır. Finch, Fusco ve Carter'ın yardımına ihtiyacı vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4Sqd6gKoIA58ry0o2a1SvzUnjiQ.jpg",
+                "vote_average": 9.2,
+                "link": "https://vidmody.com/vs/tt1839578/s1/e23"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Reese, bazı haydutlarından para çalan Leon'u kurtarmak için Finch'in Makine ile olan iletişim kurallarını çiğner. Sonrasında ise Makine'yi Finch'i bulmak için kullanacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9oiwfvn1jUX654zx3FRrv6pLu7b.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Dedektif Carter ve Bay Reese, Root'un geçmişini incelemek için Teksas'a gider. Root, Finch'e Makinesini satın alan insanların kötü olduğunu gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7qzr4UFmVfkmyQ6CQunnTm9XmhR.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Reese, yanlış tip insanlarla parti yapan Brezilyalı bir diplomatın kızının yeni koruması olur. Finch, kaçırılmasının ardından topluma yeniden uyum sağlamakta zorluklar yaşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/62Y158LcTFWkzIZ4Vg4LWDxAngQ.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Reese ve Finch, üzerinde yakalanması karşılığı ödül olan organize suça karışmış bir adamı korumaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3OJNYFZ8Vxy2oEYedHCRks6hV87.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Reese, risk almaktan hoşlanan genç bir gazetecinin öldürülmesini engellemeye çalışır. Medyanın ilgisini çekmemek için Reese onunla çıkmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/st95v0WTg4VKxFT1ciJKL2b8ToG.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "John ve Zoe, son 15 yıldır ölü bir adamın kimliğini kullanan biriyle yakınlaşmak için karı koca kılığına girerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mzcvXHYcaEbRpQC1DRHTNz1FOFs.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Leon, kendi koruması için tuzağa düşmüştür. Bir tıp doktoru zor bir kararla karşı karşıyadır. Dedektif Carter, Ajan Snow ile karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tV8YWWtzWbH4FDHYWE0ZzGGhTk6.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Reese ve Bay Finch, zengin evli bir çiftin birbirlerini öldürmesini engellemeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fqGEZIUtdvjScT4Key26XTMN1FY.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Finch ve Reese, Estonya mafyası tarafından kovalanan bir taksi şoförünü korumaya çalışır. HR, Elias ile bir anlaşma yapmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6ktq1ipee8Dah2Xskz0R3XaEAqX.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "FBI, Takım Elbiseli Adam'ı yakalama çabalarına yeniden odaklanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bHAtb3ZD9Ojywh3g4uO8empBmOv.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e10"
+            },
+            {
+                "season": 2,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Özel Ajan Donnelly, Reese ve diğer üç adamı Rikers Adası'nda gözaltında tutmaktadır. Finch'in yardımıyla Carter, Reese'in gözaltından çıkmasına yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j7KOyXo6Ldrorag4Cp5yWcRNIHz.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e11"
+            },
+            {
+                "season": 2,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Finch ve Carter, Reese'i hâlâ Donnelly tarafından tutsak tutulduğu Riker'dan çıkarmaya çalışır. Bu arada, Fusco bir sonraki hedef üzerinde tek başına çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lEYOpIRts7bBlu4sFifpp0Gqbw5.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e12"
+            },
+            {
+                "season": 2,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Reese, Stanton tarafından kurtarılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/delGJiGicbtrg33qw8esUD3w1eI.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e13"
+            },
+            {
+                "season": 2,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "Bir teknoloji milyarderinin dengesiz davranışları, iş hayatını yok olma tehlikesiyle karşı karşıya bırakır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/elphpQn1KIJkk5e0BWPKSpKcotF.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e14"
+            },
+            {
+                "season": 2,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "Finch ve Reese, Sırp katillerin görünen hedefi olan temizlikçi bir kadını korumak için bir otele gizlice girerler. Bu arada Carter, FBI'a katılma sürecine başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/claRSECynkGbu0HWYPLVqopCZZa.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e15"
+            },
+            {
+                "season": 2,
+                "episode": 16,
+                "name": "16. Bölüm",
+                "overview": "Sam Shaw ve ortağı Michael Cole, makineden hedef numaraları alır, ancak Reese ve Finch çok geç olmadan onlara yardım etmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mL7B4E1oRfOiI8CRwRCgRYKDBvP.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e16"
+            },
+            {
+                "season": 2,
+                "episode": 17,
+                "name": "17. Bölüm",
+                "overview": "Makine aniden altı numara verir ve bunlardan birinin ücra Owen Adası'nda bir yeri vardır. Tropikal bir fırtına nedeniyle Finch ve Reese, sekiz kişiyle birlikte orada sıkışıp kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/52Kq0YOcWHKlpu6vaFKR3UyWH51.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e17"
+            },
+            {
+                "season": 2,
+                "episode": 18,
+                "name": "18. Bölüm",
+                "overview": "Leon Tao'yu bir kez daha kurtardıktan sonra Reese, kumarhanede servetini kaybeden bir emekliye bakmak için Atlantic City'ye gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vmZchu8DP3YcKYBYQsaDI4COyDa.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e18"
+            },
+            {
+                "season": 2,
+                "episode": 19,
+                "name": "19. Bölüm",
+                "overview": "Finch, yükselen başkan yardımcısını izlemek için bir teknoloji şirketinde gizli göreve gider. Şirket, farklı bir şey için paravan olan ajanlarla dolu görünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/liyHiAVQvLSALG7u0PunICEf845.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e19"
+            },
+            {
+                "season": 2,
+                "episode": 20,
+                "name": "20. Bölüm",
+                "overview": "Saygın bir doktor Polonium ile zehirlenir ve Reese'in katilini bulmasına yardım etmek için sadece 24 saati vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n3E50KEjFV5hDDkBKgVH4NDM7XQ.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e20"
+            },
+            {
+                "season": 2,
+                "episode": 21,
+                "name": "21. Bölüm",
+                "overview": "Bir sistem virüsü nedeniyle yeni bir numara için on gün bekleyeceklerdir. Sorunun kök (Root) olabileceğinden şüphelenirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7p2fY9A4rqqh32vrShqYbmPjwbj.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e21"
+            },
+            {
+                "season": 2,
+                "episode": 22,
+                "name": "22. Bölüm",
+                "overview": "Reese ve Finch, The Machine'i Root'tan kurtarmak için gizemli uluslararası organizasyon Decima ile iş birliği yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/91INR0fSTYWqBu5uGde6fIPokHX.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt1839578/s2/e22"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Hiç kimse makinenin nerede olduğunu bilmemektedir.Fakat makine hem Finch hem Reese ve onların yeni ortakları olan Shaw ve Root ile de iletişim kurmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8GGoawCjJaK8KiWjdnMus9p6hIi.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Bir internet şirketinin sahibi sevdikleri kayıp insanları bulmak adına açtığı sitede insanların kişisel bilgilerini satmaktadır. Carter Beecher'ın katilini ararken yeni bir polisi eğitmek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2aXNoNFJ4Iy8X7ze05P2fI640Im.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Makine gizli takipçi olduğu şüphesine sahip olan Ian Murphy'nin numarasını verince Reese, Shaw ve Carter, Fusco ve Zoe'nın da yardımıyla olayı araştırırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yZJ1iVfcBmIy8F6GAXMzGN0Uwc8.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Ekip, avukat olan bir kadının kocasın cinayetinin mükemmel kurgusundan sorumlu olup olmadığını araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bh7vBiNiRZBtdSY0biKnnvHX7P7.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Shaw makinenin tanımladığı 10 yaşında üstün yeteneklere sahip olan küçük kızın yanında durmak zorundadır. Carter'ın görevi ortaya çıkmak üzeredir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hfuZIJ1zUS0mZCRyD5rcO3Sv3p.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Ruh sağlığı sınırlanmasından kurtulan Root, Makine'nin gösterdiği hedefte, Shaw'ın yardımına ihtiyaç duyar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/maZKn4OYSuf9sXUuxAcFfccWr7.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Ekip hipnoz tedavisi yapan kişinin davasını araştırırken büyük bir sürprizle karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5QiGFyMTpsDgYLDjktrY7F4uddJ.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Makine, Finch'e 38 numara birden verir. Carter'ın geçmişi açığa çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lxV12J024Po0bdSYB0DrODjP1j5.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Suç örgütünü durdurmak için açılan savaş farklı bir boyuta taşınırken, bu sefer Reese'in numarası Makineden çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rwf0Ncra3Z6tUZGQzK7EPIlafcw.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Tüm ekip, Carter'ın cinayetini aydınlatmaya çalışırken, Finch ekipten birinin HR ile olan savaşı durdurmak için fazla ileriye gitmiş olabileceğini farkeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bWpxO28cVrG7Ey7iH4PmM6n7zbR.jpg",
+                "vote_average": 9.1,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e10"
+            },
+            {
+                "season": 3,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Finch'in gençliğine geri dönüşte Makine'nin yaratılış süreci ortaya çıkar. Ayrıca ekip ölmek üzere olan bir adamın numarasını alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uOd9RIIrX8flmVK7c4hu3ZOlPuA.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e11"
+            },
+            {
+                "season": 3,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Ölmek üzere olan adamı korumak üzereyken ekip bir çok düşmanı ile karşı karşıya gelir. Reese olmadan ekip düşmanları tarafından tuzağa düşürülmüşlerdir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y4UvE0VQ109h03UGoQBtx5LJMz0.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e12"
+            },
+            {
+                "season": 3,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Reese ekibi bir araya toplamak için uluslararası bir uçuş yapmaya hazırlanırken, planlarının değiştirilmiş olduğunu farkeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8U5hY5GqnTGYU0eUW4c0YwwDyoo.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e13"
+            },
+            {
+                "season": 3,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "Reese, üstün yetenekli bir hırsızın bir çok vakaya karışmasını araştırması sonucu New York'da bulunan Finch'in yanına gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ySbIVhr6gIJM0VtXErwlx8vySek.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e14"
+            },
+            {
+                "season": 3,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "Finch, acil servis operatörünü korumak için gizli göreve gider, fakat tehdit ekibin düşündüğünden daha da büyük ve tehlikelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nsmikDxcd2v1IUvFQcDGpC0hpMy.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e15"
+            },
+            {
+                "season": 3,
+                "episode": 16,
+                "name": "16. Bölüm",
+                "overview": "Reese, ekibe katılmadan önceki Finch'in yaptığı operasyonlar açığa çıkmıştır ve günümüzde çok fazla şok edici bağlantıya sahiptir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b13kCCbu3vmYtHgaew2lsAdxfO5.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e16"
+            },
+            {
+                "season": 3,
+                "episode": 17,
+                "name": "17. Bölüm",
+                "overview": "Makine gizemli bir geçmişe sahip olan hademeyi bulma görevini Root'a verir. Fakat Makine daha sonra aynı numarayı Finch'e de gönderir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9vcwKBYF3kddyP02UjbDv3UtYc6.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e17"
+            },
+            {
+                "season": 3,
+                "episode": 18,
+                "name": "18. Bölüm",
+                "overview": "Ekip, hükümetin eski paralı askeri Birleşmiş Devletler diplomatını takip edince uluslararası politika olayına karışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fZo0W8eMuGzSlMcV1CFyfzmcjQ9.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e18"
+            },
+            {
+                "season": 3,
+                "episode": 19,
+                "name": "19. Bölüm",
+                "overview": "Reese ve Shaw yeni hedefi göz önünde tutmak için lise mezunlar gününde eski mezunlar gibi organizasyona katılırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/djYMX6mMm77FVVY9qqB5iyZoe7e.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e19"
+            },
+            {
+                "season": 3,
+                "episode": 20,
+                "name": "20. Bölüm",
+                "overview": "Reese, hedefteki yeni kişiye yakın olmak için gizli servis ajanı gibi davranmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mbZeDbD2lXofRbsplpFxWMRaSKX.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e20"
+            },
+            {
+                "season": 3,
+                "episode": 21,
+                "name": "21. Bölüm",
+                "overview": "Decima Samarita'nın yemini Reese ve Shaw'ı yakalamak için kullanırken, Greer Finch'in en büyük zayıflığını ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5RH9G92TqkPbrMsXezhM0jBfzHO.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e21"
+            },
+            {
+                "season": 3,
+                "episode": 22,
+                "name": "22. Bölüm",
+                "overview": "Bilinmeyen bir varlığın Makine'nin olacak büyük bir felakete dair büyük resmi görmesini engellemesi üzerine ekip büyük resmin parçalarını toplamak için beş farklı numaraya yönlendirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bza5nHGlyHgIC2Ugswar0q0D7L8.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e22"
+            },
+            {
+                "season": 3,
+                "episode": 23,
+                "name": "23. Bölüm",
+                "overview": "Ekip Samarita'nın çalışmasını ve ilk hedefi olarak onları almasını önlemek için ellerinden geleni yaparlar",
+                "still_path": "https://image.tmdb.org/t/p/w400/zj6wrCYzwA5B6IufCL7nJaFZryr.jpg",
+                "vote_average": 9.1,
+                "link": "https://vidmody.com/vs/tt1839578/s3/e23"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Ekip, Root tarafından yaratılan yeni kimlikleri ile yaşama uyum sağlamaya çalışır. Ancak yeni gelen sayı işleri karıştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7ZsS8mEITUp0qBuCWfjDuvi8m7L.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Finch, yeni hedeflerden birinin üniversite öğrencisi olması üzerine harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oMZMcYQ1NTkDostPm0z2mAgXAKW.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Finch, hedef kişiye yakın olması için Fusco'yu ikna eder. Reese yeni işinin ilk gününde kurallara uymanın yolunu bulmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yUtVnOaWPin4MCCphwPD0kUwvRA.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Reese'in New York Polis Departmanı'ndaki detektif olarak gizli işi, koruduğu genç kardeşler çetelerin hedefleri haline gelince karışık bir hal alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g2G23LraH0SycCk03e7hl3hlMex.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Reese şiddete olan meyli yüzünden yardım almaya zorlanır. Root, Shaw ve Finch yeni şüpheli kişiye yardım etmeye çalışırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vFCke6lLx3YHLuB5l15kFwQZqee.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "John ve diğerleri, sahte bir dedektifin intihar etmesini engellemeye çalışırken Harold, Hong Kong'da bir konferansa katılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yFCbnGkdL0ZnJY4NVrl3SfSS1vk.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Shaw, takip için uluslararası hırsızlardan oluşan bir ekibe katılır, ancak beklenmedik olaylar onu Samaritan tarafından tespit edilme tehlikesiyle karşı karşıya bırakır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zpMSQCQBe9qBcQF4IG4Lm0jxaFc.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Reese, şüpheli eylemleri ve onun nedenlerini sorgulamasına neden olan yetenekli genç bir subayı gözlemek için New York Polis Akademisi eğitmeni olarak çalışmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2WelJ2fwdnvnyMuKJtvPv1MpHvH.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Reese, Elias'ı Kardeşlik'ten kurtarmalıdır. Shaw'un kimliği açığa çıktığı ve Root'da yanında olduğu için, bu ikiliden yardım alamaz.",
+                "still_path": "https://image.tmdb.org/t/p/w400/za10c9uRFoeFgRYhJZHR06A9eyR.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Samaritan, 48 saat boyunca New York'un kontrolünü ele geçirir. Makina'nın saklandığı yeri bulmak için araştırmalara başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aI9x5DWGL8yP0R5FDj4mkknj00Y.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e10"
+            },
+            {
+                "season": 4,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Samaritan, borsaya bir siber saldırı başlatır. Ekibe ise, küresel bir ekonomik felaketi durdurmak için zor bir görev kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tM1Gz9oX8iCke2MiTfV2xicOz0t.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e11"
+            },
+            {
+                "season": 4,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Makina kontrolü geri alır. Bu sırada bir çift kanunsuzun Kuzeydoğu'ya saldırdığına dair endişe verici haberler su yüzüne çıkmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uQvZum6yUzyRBxTmB3hENb2SuSi.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e12"
+            },
+            {
+                "season": 4,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Shaw'ın peşine düşmek, Root ve Reese'i New York'un taşrasında, her şeyin göründüğü kadar pastoral olmadığı küçük bir kasabaya götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kSMHwWA8OvNSU8zw4MS1VtWQjQj.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e13"
+            },
+            {
+                "season": 4,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "Finch cinayet davası için jürideyken, başka bir jüri üyesinden şüphelenir. Reese bir terapist ile görüşmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gxb7ULERheAMMedZ9AYvRNPUzgp.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e14"
+            },
+            {
+                "season": 4,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "Reese, kimlik değiştirerek bir yazılım programcısını korumaya çalışır, ancak tehdidin hayatının hangi tarafından geldiği belirsizdir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ub2NDHDxzpgY4Ur5RLPgj7IF5f0.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e15"
+            },
+            {
+                "season": 4,
+                "episode": 16,
+                "name": "16. Bölüm",
+                "overview": "Reese ve Finch, tıbbi bir dispanserden para çalma planı başarısız olduktan sonra kaçan bir dolandırıcıyı korumalıdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lzibEEgxxDms9qO7CREy6Y6NXRL.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e16"
+            },
+            {
+                "season": 4,
+                "episode": 17,
+                "name": "17. Bölüm",
+                "overview": "Reese ve Finch, hastalarına yardım etmek için alışılmışın dışında yöntemleri olan bir psikoloğu korumaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rVf8WGifHbdaS91eRqJptQTwMkJ.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e17"
+            },
+            {
+                "season": 4,
+                "episode": 18,
+                "name": "18. Bölüm",
+                "overview": "Reese, hayatına yönelik potansiyel tehdidin onu hedefinin amansız takibinden caydırmasına izin vermeyi reddeden bir ödül avcısını korumalıdır. Finch ayrıca Hong Kong'da başlattığı planı harekete geçirmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rC4dqGATHtKu00mGuVFzwPuX05a.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e18"
+            },
+            {
+                "season": 4,
+                "episode": 19,
+                "name": "19. Bölüm",
+                "overview": "Reese ve Finch, tüm sırlarını ortaya çıkaran ve hayatını çözen bir hacker saldırısının ardından, bir yazılım CEO'sunu korumak için çabalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/k3M0WBvsPJYe4bkkovZSEj8vMmc.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e19"
+            },
+            {
+                "season": 4,
+                "episode": 20,
+                "name": "20. Bölüm",
+                "overview": "Reese, başaramadığı eski bir davayı çözerek Carter'ı onurlandırmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6kAY3PbjNKcCc4Ke33ClYHocS3.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e20"
+            },
+            {
+                "season": 4,
+                "episode": 21,
+                "name": "21. Bölüm",
+                "overview": "Reese ve Fusco, Elias ve Dominic arasındaki savaşta yakalanırlar. Bu sırada Finch ve Root, Shaw'un nerede olduğuna dair bir ipucunu takip eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2O57SlNUQABqNdULjFndaxm6DEU.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e21"
+            },
+            {
+                "season": 4,
+                "episode": 22,
+                "name": "22. Bölüm",
+                "overview": "Finch ve Root, Samaritan tarafından bulunan Makineyi kurtarmak için var güçleriyle uğraşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aYUiJCAIz6LjWZIGP6EBmSppRTw.jpg",
+                "vote_average": 9.2,
+                "link": "https://vidmody.com/vs/tt1839578/s4/e22"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Reese ve Finch, Makine'nin kod kaynağını kurtarmaya çalışırlar. Ayrıca Root hayatı için Samaritan'ın ajanları ile savaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2nZyv6ha46Rv4NuhDCaDV6ys2Q7.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Makine kendisini baştan başlatırken arızalanır. Bu arıza sonucu Finch ile Root'u bir tehdit olarak algılar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6mdGr5DIgXDWT33O9PSw24YsWwk.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Reese'in gizli kimliği, en son gelen numaranın CIA'den eski iş arkadaşı Kara Stanton olması ile açığa çıkma tehlikesi yaşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rrCawvI7DxHEQVduUKw9J7AxmR1.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Shaw, onu esir alan kişilerden kaçmayı başarır. Fakat Shaw paranoyaklaşmaya başlayınca ekip onun akıl sağlığından şüphe etmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2mulh6pbX64tQCcL5KWeNTEp6ue.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Reese ve Fusco, arkadaşının ölümünün intikamını almak isteyen Elias'a yakın biri tarafından tehdit edilirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7RAdNPaYuIIIPLvqyNuKMyIcad2.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Makine yeni verdiği numara ile, Reese ve Finch'i bir çift şüpheli insanı koruması için bir düğüne gitmelerini ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/m1jxLavyeeQZyDTl9G8vdktwPJU.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e06"
+            },
+            {
+                "season": 5,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Makine'den gelen yeni numarada, komplo teorisi şovunun sunucusunu korumak için Root, bir radyo kanalında gizli göreve başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/Adw6FzOZw48epyangqhi4ja3RkH.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e07"
+            },
+            {
+                "season": 5,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Reese ve Finch, bir hastanede mahsur kalırlar. Bu sırada Samaritan'ın yeni üyesinin kafasında farklı düşünceleri vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dxIAIajNol09a9f1ZA2dDa5j67X.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e08"
+            },
+            {
+                "season": 5,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Ses olarak bilinen gizemli suç zekası, geri döner ve Reese ile Fusco'yu tuzağa düşürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6gjJsT0afN0zxdZLeacrfTdcesR.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e09"
+            },
+            {
+                "season": 5,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Yapılan ölümcül bir hata Finch'in kimliğinin açığa çıkmasına neden olur. Makine ise Finch'in numarasını gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pQ90Vo8RZFwbk3Tah5NcrqAEo0.jpg",
+                "vote_average": 9.2,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e10"
+            },
+            {
+                "season": 5,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Amerika Birleşik Devletleri Başkanı yeni hedef kişi olunca ekip hem komployu ortaya çıkarmak hemde gizli servisten uzak durmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9GPaklP2RAYQHM7MpByEP9jn8Ip.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e11"
+            },
+            {
+                "season": 5,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Reese ve Shaw Finch'i yakalamak için yarışırken Finch yalnızca Samaritanın değil aynı zamanda kendinin ve Makinenin de sonu olabilecek bir görevde maksimum güvenlikle bir hükümet tesisine sızmaya çalışacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4Pas6awIU0VMMtUct7zYIXXavUZ.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e12"
+            },
+            {
+                "season": 5,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Finch, Reese, Fusco ve Shaw Samaritan'ın Makineyi yok etmesini engellemek için beraber son bir göreve çıkarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/egjK7mtJ0OzOxNVJxGPDCH8IWtk.jpg",
+                "vote_average": 9.5,
+                "link": "https://vidmody.com/vs/tt1839578/s5/e13"
+            }
+        ],
+        "update_date": "2026-02-15 05:44:37"
+    },
+    {
+        "id": 158300,
+        "imdb_id": "tt18291136",
+        "name": "Knuckles",
+        "original_name": "Knuckles",
+        "overview": "Echidna savaşçısı Knuckles'ın, Şerif Yardımcısı Wade Whipple'ı kendi himayesine alıp bir savaşçı olarak eğitmesini anlatıyor. Bu süreçte ikili, komik ve aksiyon dolu bir kendini keşfetme yolculuğuna çıkıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/aMpNvgWjPimLldhKgwtCt5NjLen.jpg",
+        "year": "2024",
+        "rating": 7.3,
+        "genres": [
+            "Aksiyon & Macera",
+            "Aile",
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "TV+",
+            "Paramount Plus Essential",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Idris Elba",
+                "role": "Knuckles the Echidna (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+            },
+            {
+                "name": "Adam Pally",
+                "role": "Wade Whipple",
+                "image": "https://image.tmdb.org/t/p/w200/yY13PEaVbPoXT5MkitVxTfdAZnU.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Knuckles, Green Hills'deki yeni hayatına uyum sağlamakta zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vwlsLPevEifCNHcxHdzouDiuv9k.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Wade muhteşem bir kurtarma görevi planlarken, Knuckles onu kaçıranlarla yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jV11mJfDdJOwMokzVyGHyjBFeiA.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Kanun kaçakları olan Knuckles ve Wade, Wade'in ailesiyle birlikte saklanırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vNZH7P192kBz7sBXWch4JnRApkA.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Knuckles'ın gerçek gücünün nerede yattığını öğrenebilmek için Wade'in dünyayı onun gözünden görmesi gerekiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xItrifyZP2S1XDTnaPMZuzVmhg.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Knuckles ve Wade, Ulusal Bowling Şampiyonası için Reno, Nevada'ya varıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/toxeVznzxqSDZPCtueUEGoR9gNE.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Knuckles ve Wade arasındaki dostluk sınanıyor, eski ve yeni düşmanlar Reno'da bir araya geliyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/leDsP0biTb7IbXjGo1K8sD8TeyT.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 05:38:26"
+    },
+    {
         "id": 131835,
         "imdb_id": "tt15286302",
         "name": "Nautilus",

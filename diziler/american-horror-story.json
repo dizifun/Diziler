@@ -2,25 +2,1260 @@
     "id": 1413,
     "imdb_id": "tt1844624",
     "name": "American Horror Story",
+    "original_name": "American Horror Story",
+    "overview": "Cinayet dolu geçmişi olan bir ev, bir akıl hastanesi, bir cadı meclisi, bir ucube gösterisi, bir otel, Roanoke'de bir çiftlik evi, bir tarikat, kıyamet ve bir yaz kampı da dahil olmak üzere farklı karakter ve mekanlara odaklanan bir antoloji korku drama dizisi.",
     "poster": "https://image.tmdb.org/t/p/w500/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
     "year": "2011",
+    "rating": 8.1,
     "genres": [
         "Dram",
         "Gizem",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Hulu",
+        "FX",
+        "Amazon Prime",
+        "Disney+"
+    ],
     "cast": [
-        "Emma Roberts",
-        "Matt Czuchry",
-        "Kim Kardashian",
-        "Annabelle Dexter-Jones",
-        "Michaela Jaé Rodriguez"
+        {
+            "name": "Emma Roberts",
+            "role": "Anna Victoria Alcott",
+            "image": "https://image.tmdb.org/t/p/w200/utggW2yIufP3A5CGdT8H5mXyGLs.jpg"
+        },
+        {
+            "name": "Matt Czuchry",
+            "role": "Dexter Harding",
+            "image": "https://image.tmdb.org/t/p/w200/2rjZFfUgD5jJewgQn3HC72aIEBn.jpg"
+        },
+        {
+            "name": "Kim Kardashian",
+            "role": "Siobhan Corbyn",
+            "image": "https://image.tmdb.org/t/p/w200/3TLSq0aHXyxtqaXe9p7yB5Daqsa.jpg"
+        },
+        {
+            "name": "Annabelle Dexter-Jones",
+            "role": "Sonia Shawcross / Adeline Harding",
+            "image": "https://image.tmdb.org/t/p/w200/xym6SQjEQzuP35Fed3Y3gbzSgDI.jpg"
+        },
+        {
+            "name": "Michaela Jaé Rodriguez",
+            "role": "Nicolette",
+            "image": "https://image.tmdb.org/t/p/w200/8Mer8z72B2h2yv77qLVi6C2Io5G.jpg"
+        },
+        {
+            "name": "Denis O'Hare",
+            "role": "Dr. Andrew Hill",
+            "image": "https://image.tmdb.org/t/p/w200/zMim5sdMnyd2GFfPd9Jh59Vcog3.jpg"
+        },
+        {
+            "name": "Cara Delevingne",
+            "role": "Ivy Ehrenreich",
+            "image": "https://image.tmdb.org/t/p/w200/izZ8IbsIjNpjZ5S0HIYreVwVRzn.jpg"
+        },
+        {
+            "name": "Julie White",
+            "role": "Io Preecher",
+            "image": "https://image.tmdb.org/t/p/w200/siiNmtZZldFSc2DwnfUJf0Teouh.jpg"
+        },
+        {
+            "name": "Maaz Ali",
+            "role": "Kamal",
+            "image": "https://image.tmdb.org/t/p/w200/udDn3LgeZRaL1V518UL7n3ULhgF.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Pilot",
+            "overview": "Bir terapist, karısını ve kızını alıp ülkenin diğer ucuna taşınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/71aRrn1Bu3rIlIURFWAgFzLZkjf.jpg",
+            "vote_average": 7.7,
             "link": "https://vidmody.com/vs/tt1844624/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Haneye Tecavüz",
+            "overview": "Vivien ile Violet geçmiştekilere benzer ürkütücü bir olay yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/24ugyFFz3CD9g6t7jEbdXLiUmro.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Cinayet Evi",
+            "overview": "Evi satışa çıkaran Vivien, evin ilk sakinleri hakkında bilgiler edinir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qYZj2000oVgQvL2qWGZbm1Z2LYX.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Cadılar Bayramı 1. Bölüm",
+            "overview": "Evin önceki sakinleri, dekorasyon konusunda Harmon'lara öneride bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wEyVM1QLBAqTLGxxSQWi5wsc0FD.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Cadılar Bayramı 2. Bölüm",
+            "overview": "Tate, Cadılar Bayramı gecesi geçmişiyle yüz yüze gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u9P51AgyvsaoKVlqDyUBC00yw65.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Domuzcuk",
+            "overview": "Constance, Violet'e danışır. Ben de hastasını korkularıyla yüzleştirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2ZfgFdAnPLw264NiIpob6ODNR2L.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Açık Ev",
+            "overview": "Moira ev için teklif alır. Constance ile Larry de onun aleyhine çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sSliNZXfHzDZKQQZc85zkth9rSR.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Lastik Adam",
+            "overview": "Lastik kostümlü adamın kimliği ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zrmWli2rdj9mrWeVHRoWZbn513c.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Küçük Ürkünç Kız",
+            "overview": "Gelmiş geçmiş en ünlü cinayet kurbanlarından biri evi ziyaret ediyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uyvewdpjODNcfyYMSBQ3B9aDccP.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Yanan Çocuklar",
+            "overview": "Violet evin kurallarını öğrenir. Larry'nin sorunu açıklanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8iKtNib84Iy6ASU3xfElZz0V5Ae.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "Doğum",
+            "overview": "Vivien doğum yapar. Tate ve Violet evdeki bazı hayaletlerden temelli kurtulmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/w9inideNIdY01pIfitvADtECjsC.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "Plasenta",
+            "overview": "Constance, Tate'in bebeğini kendi büyütmek için plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sVVbEAkSUbH692x9r3nlyjniJDD.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1844624/s1/e12"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Tımarhane: Briarcliff'e Hoş Geldiniz",
+            "overview": "Bir katilin kaldığı tımarhaneye, Briarcliff Malikânesi'ne hoş geldiniz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sWdUyVIO5R24WiWDKdKQtyNgN75.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Tımarhane: Şeker mi Şaka mı",
+            "overview": "Bir çocuğu kurtarması için Briarcliff'e bir şeytan çıkarıcı çağırılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vY3XVCl9061Nr89BE9w98uESNkg.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Tımarhane: Nor'easter",
+            "overview": "Bir grup hasta, şiddetli bir fırtına sırasında Briarcliff'ten kaçmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lv6WuYXMUqJjUXwQwaDRhgzmUPC.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Tımarhane: Ben, Anne Frank 1. Bölüm",
+            "overview": "Anne Frank olduğunu iddia eden yeni bir hasta, Arden'in geçmişini açığa çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cf9MPvTzmlOXYQsU0o0NjnJLfKe.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Tımarhane: Ben, Anne Frank 2. Bölüm",
+            "overview": "Rahibe Jude, Arden'ın kirli çamaşırlarını bulur. Kit bir şey itiraf eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8TnIGVHH5S3ZxXloWi4gvYUzUK5.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Tımarhane: Canavarlığın Kökenleri",
+            "overview": "Briarcliff'e bir kız terk edilir. Kanlı Yüz'ün geçmişi ortaya çıkarılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bVE5WEmqQ0K5x4gF2gpVLluYAOR.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Tımarhane: Ürkünç Kuzen",
+            "overview": "Rahibe Mary Eunice, Briarcliff'e bir kara melek indiğini keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dBPs6NuD1UjjAfLGJ1MkpIJpM0E.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Tımarhane: Kötücül Gece",
+            "overview": "Kanlı bir Noel Baba ortalığı kasıp kavurur. Rahibe Jude, Şeytan'la yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ldjL9mHJDPXHyXCiuYhOnYvYg0w.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Tımarhane: Elbise Askısı",
+            "overview": "Monsenyör alışılmadık bir dönüşüm geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rpXHrb7v3NPBVtXODmbmwdJI3SO.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Tımarhane: Ad Oyunu",
+            "overview": "Monsenyör, Şeytan'la yüzleşir. Arden'in deneyleri sona erer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rCGdvTrXhPb6iJEJVw8kMnYZXvZ.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "Dökülmüş Süt",
+            "overview": "Grace, uzaylıların Alma üzerine yaptığı deneyler hakkında, Kit'e çarpıcı bilgiler verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6QYCnSmOeaWCL9HgagjTmVRZXDk.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "Süreç",
+            "overview": "Bir hasta, Rahibe Jude'un Briarcliff'ten taburcu edilme şansını zora sokar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bu2fnurKQygYJmYNXpaxPHClbj4.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e12"
+        },
+        {
+            "season": 2,
+            "episode": 13,
+            "name": "Tımarhane: Delilik Sona Erer",
+            "overview": "Johnny, babasının başladığı işi bitirir. Lana, Briarcliff'i kapatmayı dener.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rH1EHLK2qAlv8AAbQW0qRbgRL7P.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s2/e13"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Cadılar Meclisi: Fahişelik",
+            "overview": "Tuhaf, kalıtsal bir hastalığı olduğunu öğrenen Zoe yıkılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y7JwJn2j1cwm61uVoKkmktiM8Ss.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Cadılar Meclisi: Çocukların Parçaları",
+            "overview": "Fiona, bir trajediyle baş edebilmeleri için Zoe ile Madison'a yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wtpfsxhFqQAbk17pvLaUpT1Hxqs.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Cadılar Meclisi: Kadro Değişikliği",
+            "overview": "Fiona yanına bir çırak alır. Zoe de Kyle'ı eski yaşamına döndürmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wKw0kdTel5qwuBKf464Iaxr4J7V.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Cadılar Meclisi: Ürkünç Şakalar Devam Eder",
+            "overview": "Cadılarla Marie Laveau arasındaki ateşkes, Fiona yüzünden bozulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rs3VgNjPrYtmAklYWnsFBmVPR4v.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Cadılar Meclisi: Yan Cadı, Yan!",
+            "overview": "Marie Laveau'nun ordusu tarafından kuşatılan Zoe yeni gücünü kullanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pC5E5whPyU5N4UGTdliutSCdEFX.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Cadılar Meclisi: Baltacı Geliyor",
+            "overview": "Zoe, Queenie ve Nan, Akademi'de hapsolmuş bir ruhla bağlantı kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9s2ihbFkazJ8IICagmEDIMfBTnV.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Cadılar Meclisi: Ölüler",
+            "overview": "Fiona yeni bir ilişkiye yelken açar. Queenie de Cadılar Meclisi'ni sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8yErOGpde380FSJYNe6vWiccNvh.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Cadılar Meclisi: Kutsal Kaçırma",
+            "overview": "Cordelia, Fiona'yı durdurmak için kızları mücadeleye çağırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bZanN7GSg81r0ZaMyjor4aseDGB.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "Cadılar Meclisi: Baş",
+            "overview": "Cordelia'ya saldıran ortaya çıkar. Fiona da Marie Laveau ile birlik olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jl0YgedYQkAUzZ9m4ZISB0vPU5M.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Cadılar Meclisi: Stevie Nicks'in Sihirli Eğlenceleri",
+            "overview": "Fiona, Stevie Nicks'in ziyaretinin ardından yeni Yüce'yi açıklamaya kalkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/323bxodJTRE3AfvMaRyecRwuyHr.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e10"
+        },
+        {
+            "season": 3,
+            "episode": 11,
+            "name": "Cadılar Meclisi: Cadılar Meclisini Koru",
+            "overview": "Fiona ile Laveau, şirketle yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hNgAAaTwEEE9e9N13Gfu6F1Mv9r.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e11"
+        },
+        {
+            "season": 3,
+            "episode": 12,
+            "name": "Cadılar Meclisi: Cehenneme Git",
+            "overview": "Fiona'nın devri kapanınca kızların çok güçlü yeni yetenekleri ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/78uSyvutlDQe2I3uIktJCQprjVO.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e12"
+        },
+        {
+            "season": 3,
+            "episode": 13,
+            "name": "Cadılar Meclisi: Yedi Harika",
+            "overview": "Yeni Yüce ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3TDHOFauAvIv1IDGO9njRqarMS0.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1844624/s3/e13"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Aramızdaki Canavarlar",
+            "overview": "Küçük bir gösteri, ayakta kalmak için çabalamaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Katliamlar ve Matineler",
+            "overview": "Sokağa çıkma yasağı, Ucube Gösterisi'ni tehlikeye sokar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5tHkRWsLBWhCdRMU5Wme17oyyC4.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Edward Mordrake 1. Bölüm",
+            "overview": "Ucubeler, batıl inanç yüzünden Cadılar Bayramı'nda gösteriye çıkmak istemez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fIciCZARRhb91aWZtIPGhTSCjX8.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "Edward Mordrake 2. Bölüm",
+            "overview": "Edward Mordrake, topluluğa katmak için yeni bir ucube aramaya devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lZpprblfjXNOAHkdkHYXOr07jgf.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "Pembe Kapkekler",
+            "overview": "Stanley ile Maggie, ucubeleri öldürmek için plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xu1BpUcKV7cWeRy5abA3gmqgo38.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Tam İsabet",
+            "overview": "Stanley, Jimmy'yi öldürmesi için Maggie'ye baskı yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u4aro94og1c3r1Ids67veIS8s31.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Güç Testi",
+            "overview": "Şiddet eylemi nedeniyle, Ucube Gösterisi'ndeki kadınlar Dell'e cephe alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zS95p8e7ZmifgDaBcR1CCQrCbpK.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Kan Gölü",
+            "overview": "Kamptaki kaybolmaların ardından Ethel'in Elsa hakkındaki kuşkuları artar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y2wSsXT9krEaBGRuGDBRxwuf5BR.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "Partide Katliam",
+            "overview": "Trajik bir kaybın ardından, Jimmy kendini içkiye verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/15WkSNFV7T0IywdleODVloeJ6rQ.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "Kimsesizler",
+            "overview": "Bir ucubenin ölümünün ardından Pepper'ın davranışları tuhaflaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/liYpJfIdeZiAdDduEH6gddOKhh2.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e10"
+        },
+        {
+            "season": 4,
+            "episode": 11,
+            "name": "Büyülü Düşünce",
+            "overview": "Elsa, Hollywood'a taşınacaktır. İkizler de bir satıcıya abayı yakar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iC8Va2UVW4RX0Uzs4dEanzUMNGc.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e11"
+        },
+        {
+            "season": 4,
+            "episode": 12,
+            "name": "Ucube Gösterisi: Alkış Tufanı",
+            "overview": "Dandy ikizlere, Chester hakkında rahatsız edici bilgiler verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mxbYAKo5Y129hsXluiOulpmY58I.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e12"
+        },
+        {
+            "season": 4,
+            "episode": 13,
+            "name": "Sahneye Çağırmak",
+            "overview": "Ucubeler yeni yönetime karşı ayaklanır. Dandy ilk gösterisine hazırlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j7rKqKSP3jyEP6NAwyGrhes82gA.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1844624/s4/e13"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "Giriş Yapmak",
+            "overview": "Dedektif John Lowe, Los Angeles'ta işlenen bir dizi cinayeti soruşturuyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/89eu71hZLaEae2Zj19j63rBAym8.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "Kanallar ve Sarmallar",
+            "overview": "Moda imparatoru Will Drake, Cortez Oteli'ni moda ile tanıştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4YRXAeL9CBYOw0wdqSDayQbLApk.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "Annecim",
+            "overview": "Scarlett, Holden ile olan anıları deşince Alex'in sinirleri altüst olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yjvwYPPTe1uGcmtDBTdjjgB4ZVk.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "Şeytanın Gecesi",
+            "overview": "John, Şeytan'ın Gecesi Suaresi'ne davet edilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mvf6mqjM5iFZ9l0N34IzW8vyvU6.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "Oda Servisi",
+            "overview": "Alex, bir hastasını kurtarmak için alışılmadık tedaviler uygular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7a1g2fs8vOR5THMHHL9Pg1QsX1W.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "Oda 33",
+            "overview": "Ramona ile Donovan, intikam planlarını uygular. Liz Taylor âşık olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dd4BGh0wvkwghybBdWErwSvMl1x.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "Titreşim",
+            "overview": "Will Drake'in yaptırdığı tadilat, otelin sırlarından birini ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jvTvsErxd6pVaEVq4inbY6cHTDZ.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "On Emir Katili",
+            "overview": "John, katili bulmaya yakındır. Sally'nin March ile anlaşması ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j75cyPWx1pmYsid11FiUAsOserM.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e08"
+        },
+        {
+            "season": 5,
+            "episode": 9,
+            "name": "İntikam İstiyor",
+            "overview": "Kontes, sevgilisine kavuşur. Donovan ile Ramona intikam alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ppih0fbnhUesTL6ycMBkcHYE99H.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e09"
+        },
+        {
+            "season": 5,
+            "episode": 10,
+            "name": "İntikamını Alıyor",
+            "overview": "Alex, bir salgını önlemek için John'dan yardım ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lsUFCJAFIW2nprghNpqoNoeLIyA.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e10"
+        },
+        {
+            "season": 5,
+            "episode": 11,
+            "name": "Büyük Münakaşa",
+            "overview": "Ramona, umulmadık birinin canını emer. Sally, gelecek pazarlığı yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uacbm3cpIdeTV6FWdBHQiXcv6Gl.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e11"
+        },
+        {
+            "season": 5,
+            "episode": 12,
+            "name": "Misafirimiz Olun",
+            "overview": "Iris ile Liz, Cortez'deki yeni dönemin yöneticileri olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5DImPlCtApJbKGfnp96Tn9skQ9F.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1844624/s5/e12"
+        },
+        {
+            "season": 6,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Matt ve Shelby Miller bir eve taşınır ve başlarına doğa üstü olaylar gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oNQMEX9glxFDJkneUybSuCONNxp.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e01"
+        },
+        {
+            "season": 6,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Matt'in kız kardeşi Lee, kızı Flora'yı konuk olarak eve getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rFB5pp6oMTxtAVYpy8MGSJtatHH.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e02"
+        },
+        {
+            "season": 6,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Ormanda Flora'yı ararlarken rahatsız edici bazı sırlar ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i3tZLifkEREKbUXMCJE3gekjZAC.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e03"
+        },
+        {
+            "season": 6,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Cricket, yerleşimcilerin gücünün kaynağını öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jjHmi7hlMT4qEc8AwleBIsBK24i.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e04"
+        },
+        {
+            "season": 6,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Evin karanlık kökeni gün ışığına çıkarılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bWCKA7Dr9TEnSnnAy7keZsoFSr1.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e05"
+        },
+        {
+            "season": 6,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "İlk filmin kadrosu, \"Roanoke'ye Dönüş: Cehennemde Üç Gün\" için bir arada.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2Z5qQaJzGoO5ws7ib0TzzyRWTDs.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e06"
+        },
+        {
+            "season": 6,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Agnes, gösteriye dâhil olabilmek için son bir çaba sarf eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qVO1V0ZEFYMwWgzaM8C8hvEAe5j.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e07"
+        },
+        {
+            "season": 6,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Polk ailesi, Lee'yi, Monet'yi ve Audrey'yi tutsak alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/syHo6xMD8ZUOVDiWKazuqGyqtmg.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e08"
+        },
+        {
+            "season": 6,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Audrey ile Lee, Money'yi Polkların elinden kurtarmak için bir plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qNdGCDyCVMm7hzDCFlH58JrhxY.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e09"
+        },
+        {
+            "season": 6,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Lee, cinayetle suçlanır. Lana Winters, Lee Harris ile görüşmek için gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oR4PximRHvaPyKZuLNJsDJBa2iZ.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt1844624/s6/e10"
+        },
+        {
+            "season": 7,
+            "episode": 1,
+            "name": "Seçim Gecesi",
+            "overview": "Başkanlık Seçimi'nin ardından, bir kadının korkuları ortaya çıkmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zGttpn1x7ViyOP2Bvr0fgZWeQgU.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e01"
+        },
+        {
+            "season": 7,
+            "episode": 2,
+            "name": "Karanlıktan Korkma",
+            "overview": "Ally'nin korkuları yeni komşuların gelişiyle şiddetlenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8eNfm1AyjFpFClFLRclDmnjv24T.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e02"
+        },
+        {
+            "season": 7,
+            "episode": 3,
+            "name": "Cehennemden Gelen Komşular",
+            "overview": "Bir çalışanının ölümünün ardından halk Ally'ye sırt çevirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6AgjhdihfefZjQQeRe0CPpcO4qP.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e03"
+        },
+        {
+            "season": 7,
+            "episode": 4,
+            "name": "11 Eylül",
+            "overview": "Harrison, spor salonunda yeni bir müşterisine spor yaptırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oAHH3GUm2jeRwTZ7CrQ8b30WyEN.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e04"
+        },
+        {
+            "season": 7,
+            "episode": 5,
+            "name": "Boşluklar",
+            "overview": "Beverly'nin gazetecilik namusu sorgulanmaya başlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rZ6LXBO1rsebmuKxOWAO0pcwkuE.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e05"
+        },
+        {
+            "season": 7,
+            "episode": 6,
+            "name": "Orta Batı Suikastçısı",
+            "overview": "Ally, hiç ummadığı bir kaynaktan tarikat hakkındaki gerçekleri öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gzwBDcKIr3f1dizxnRxVXUPdUMb.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e06"
+        },
+        {
+            "season": 7,
+            "episode": 7,
+            "name": "Valerie Solanas Senin Günahların Yüzünden Öldü Şerefsiz",
+            "overview": "Kai'nin ulusal gazetelerde manşete çıkması ona yeni taraftarlar kazandırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5KQq2XUaG2jzmaxMVKmqBBtoOPQ.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e07"
+        },
+        {
+            "season": 7,
+            "episode": 8,
+            "name": "Huzursuzluğumuzun Kışı",
+            "overview": "Ally hastaneden taburcu olur. Vincent, Kai'nin arkasından dolaplar çevirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qTEwBNs5Y6bwt8Dxfiv8Q2vMF3o.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e08"
+        },
+        {
+            "season": 7,
+            "episode": 9,
+            "name": "Bile Bile Lades",
+            "overview": "Kai, tarikatlara başvurur. Kadınlar, duracakları cepheyi seçerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oUwMMTCNZCUI5OwlbD4cxODv2d0.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e09"
+        },
+        {
+            "season": 7,
+            "episode": 10,
+            "name": "Charles (Manson) İş Başında",
+            "overview": "Kai'nin siyasi hareketi tehdit altındadır. Tarikat, işi ehlinden öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/la4PoRvC3JYdZQvk3IQBhUaJNm8.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e10"
+        },
+        {
+            "season": 7,
+            "episode": 11,
+            "name": "Yeniden Harika",
+            "overview": "kai, ana planına uygulamaya başlar. Ally, gerçekleri Kai'ye anlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dKg3dmQO90O9Iyxi9u3cKKKm9FP.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt1844624/s7/e11"
+        },
+        {
+            "season": 8,
+            "episode": 1,
+            "name": "Son",
+            "overview": "Bir grup, nükleer bir kıyametin ardından gizli bir sığınakta yaşamaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e01"
+        },
+        {
+            "season": 8,
+            "episode": 2,
+            "name": "Ertesi Sabah",
+            "overview": "Karakolun yeni sakininin kötü haberlerle gelmesi domino etkisine yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tSV0e7BsGhl6135AGm5nMBNwg5T.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e02"
+        },
+        {
+            "season": 8,
+            "episode": 3,
+            "name": "Yasak Meyve",
+            "overview": "Bayan Mead sorunlarla boğuşur. Michael da kendi hakkında açıklamalar yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wLrslhcq4IU5aqvAy5vT2446REl.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e03"
+        },
+        {
+            "season": 8,
+            "episode": 4,
+            "name": "Yoksa… Şeytan Mı?",
+            "overview": "Üç Numaralı Karakol bir zamanlar Hawthorne Maharetli Genç Beyler Okulu'dur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x2bx8juovnJXHXo9jxvSX9Asos2.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e04"
+        },
+        {
+            "season": 8,
+            "episode": 5,
+            "name": "Harika Çocuk",
+            "overview": "Cordelia, Michael'ın Yedi Mucize'yi gerçekleştirmesine izin verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sRir6D8wA06KDISwUtbQBsBzTr.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e05"
+        },
+        {
+            "season": 8,
+            "episode": 6,
+            "name": "Cinayet Evine Dönüş",
+            "overview": "Behold ile Madison, Cinayet Evi'ne göreve gönderilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/h2Ad8h19LiVIYV5nKCA2xqdQJ1P.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e06"
+        },
+        {
+            "season": 8,
+            "episode": 7,
+            "name": "Hain",
+            "overview": "Cadılar, düzenbazları ortaya çıkarması için bir dostlarını çağırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ztVTeGBzSEo3RV7PcVzM2MNXruv.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e07"
+        },
+        {
+            "season": 8,
+            "episode": 8,
+            "name": "Geçici İkamet",
+            "overview": "Michael, dünyadaki yerini öğrenebilmek için görü arayışına çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sY3xpt5BchzMSZxjn4wd81fGu3M.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e08"
+        },
+        {
+            "season": 8,
+            "episode": 9,
+            "name": "Kıyamet: Ateş ve Krallık",
+            "overview": "Mutt ile Jeff, daha \"parlak\" bir gelecek hedeflemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1skaO2HK8udpN3APeejbtFfF9cq.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e09"
+        },
+        {
+            "season": 8,
+            "episode": 10,
+            "name": "Kıyamet Kopunca",
+            "overview": "Cadılar, Deccal'e karşı son bir direniş gerçekleştirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xgONEijaqT93zIXTVtQyjDEBO7f.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt1844624/s8/e10"
+        },
+        {
+            "season": 9,
+            "episode": 1,
+            "name": "Redwood Kampı",
+            "overview": "Beş arkadaş, Redwood Kampı'nda çalışmak üzere Los Angeles'tan kaçar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oZtS6m78aCb21xqrZ6uvIipLl5a.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1844624/s9/e01"
+        },
+        {
+            "season": 9,
+            "episode": 2,
+            "name": "Bay Jingles",
+            "overview": "Kampa karanlık çöker. Yatma vakti gelmiştir ama kötülük yasak dinlemez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vajma2lphiNjlpdLGAyfK1Mn9XA.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s9/e02"
+        },
+        {
+            "season": 9,
+            "episode": 3,
+            "name": "Slashdance",
+            "overview": "Kılavuzlar kaçma planı yaparken Bay Jingles da kaçan birini yakalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xhqlhwwfLot6c1nS3E8iFs9tOB2.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1844624/s9/e03"
+        },
+        {
+            "season": 9,
+            "episode": 4,
+            "name": "Gerçek Katiller",
+            "overview": "Şafak sökerken, hayatta kalanlar son bir çarpışmaya hazırlanmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1RiickdmJxbKLbU3lIztJyp7OBy.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1844624/s9/e04"
+        },
+        {
+            "season": 9,
+            "episode": 5,
+            "name": "Kızıl Şafak",
+            "overview": "Kurtulanlar, dehşeti geride bırakıp seçimlerinin sonuçlarıyla yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8de8KiylutKVeu5aQ6wjzUjuKFJ.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1844624/s9/e05"
+        },
+        {
+            "season": 9,
+            "episode": 6,
+            "name": "100. Bölüm",
+            "overview": "Redwood Kampı'nın gizli bölümü ortaya çıkar. Bir otostopçuya yardım ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aO425RdlTaczZQ2fV7ivp3UfCih.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s9/e06"
+        },
+        {
+            "season": 9,
+            "episode": 7,
+            "name": "Beyazlı Hanım",
+            "overview": "Redwood Kampı, hesaplaşmak isteyen birine kapılarını açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4HTrXAJqTrHxjZWjzVYd5KMaM06.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1844624/s9/e07"
+        },
+        {
+            "season": 9,
+            "episode": 8,
+            "name": "Paramparça Yatsın",
+            "overview": "Ortaya çıkan zalim bir üçlü, Redwood Kampı'nda yeni bir dönemi başlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qJ9E1kks0fICU4yRaTOXNAC0CCT.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s9/e08"
+        },
+        {
+            "season": 9,
+            "episode": 9,
+            "name": "Son Kız",
+            "overview": "En iyi trajedi biçimi taklittir. Temize çıkıp bazen zor olabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pgWDl0aC3RlUew6mlYic56boKuU.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1844624/s9/e09"
+        },
+        {
+            "season": 10,
+            "episode": 1,
+            "name": "Korku Burnu",
+            "overview": "Bir yazar, karısı ve kızı, kışı geçirmek için bir sahil kasabasına taşınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/enyxlSJ5nsX3W34AbClq3O8r78F.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e01"
+        },
+        {
+            "season": 10,
+            "episode": 2,
+            "name": "Soluk",
+            "overview": "Harry'nin yazar tıkanmasının çözümünün bazı beklenmedik yan etkileri olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cfIb9yu50Pf26WhLla6Bh4zDc5n.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e02"
+        },
+        {
+            "season": 10,
+            "episode": 3,
+            "name": "Arzu",
+            "overview": "Harry'nin keşfettiği yeteneği kasabaya beklenmedik bir ziyaretçi getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/brdgWjBivu3MUFxEWwt3CtMMyin.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e03"
+        },
+        {
+            "season": 10,
+            "episode": 4,
+            "name": "Kanlı Yemek",
+            "overview": "Provincetown'ın ve sakinlerinin karanlık geçmişi gün yüzüne çıkıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8lu6J09eLHxr4JvRAKEjARpcULf.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e04"
+        },
+        {
+            "season": 10,
+            "episode": 5,
+            "name": "Gaz Işığı",
+            "overview": "Harry, Alma'yı kontrol etmekte, Doris de sınırlarını geçmekte zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6UOLWCbJhN34NKRlGTlC01nHi0h.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e05"
+        },
+        {
+            "season": 10,
+            "episode": 6,
+            "name": "Kış Öldürür",
+            "overview": "Ursula sinsi bir plan tasarlar. Gardnerlar oyunun son perdesini yazar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/89FuxqOrHJp57tw68zxoH2zrZGj.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e06"
+        },
+        {
+            "season": 10,
+            "episode": 7,
+            "name": "Beni Önderine Götür",
+            "overview": "Geziye çıkmış bir grup üniversiteli korkunç bir tezgâhın içine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2PQ2k2SWgouGT4BGl9XM1GK2OOA.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e07"
+        },
+        {
+            "season": 10,
+            "episode": 8,
+            "name": "İçerisi",
+            "overview": "Başkan, imzalayacağı bir anlaşmanın ahlaki olup olmadığını sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yWNTqjHYkLN3iZMj3vrt45PphiO.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e08"
+        },
+        {
+            "season": 10,
+            "episode": 9,
+            "name": "Mavi Ay",
+            "overview": "Beyaz Saray'a gelen bir ziyaretçi korkunç bir planı açığa çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zelNOdgoyuYJg1qkX187G3WT5ac.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e09"
+        },
+        {
+            "season": 10,
+            "episode": 10,
+            "name": "Kusursuz Gelecek",
+            "overview": "Mamie sorunları kendi başına çözer. Gelecekte yaşanacaklar ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3bKABYmfbzbWbNeZv311FEnLoVK.jpg",
+            "vote_average": 4.8,
+            "link": "https://vidmody.com/vs/tt1844624/s10/e10"
+        },
+        {
+            "season": 11,
+            "episode": 1,
+            "name": "Bir Şeyler Geliyor",
+            "overview": "Şehirde gizemli ölümler ve kayıp vakaları artar. Bir doktor tüyleri ürperten bir keşif yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yvLAbzPhFDaNzYXjv0rNKD8IxRc.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e01"
+        },
+        {
+            "season": 11,
+            "episode": 2,
+            "name": "Verdiğiniz Hizmet İçin Teşekkür Ederiz",
+            "overview": "Gino travmalarıyla boğuşur. Patrick'in arayışı onu karanlık yerlere götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cEIirwqNDZWQUsa97CHxwhUHIQW.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e02"
+        },
+        {
+            "season": 11,
+            "episode": 3,
+            "name": "Duman Sinyalleri",
+            "overview": "NYPD'nin yardımı olmadan, Gino becerikli olmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1DQqu20g95UIwSvd7UGmyDelG55.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e03"
+        },
+        {
+            "season": 11,
+            "episode": 4,
+            "name": "Karartma",
+            "overview": "Karanlık şehri tüketirken, kötülük en beklenmedik yerlerde kök salar...",
+            "still_path": "https://image.tmdb.org/t/p/w400/wV8ZxhUyekZWtO0LUy627ivUmLm.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e04"
+        },
+        {
+            "season": 11,
+            "episode": 5,
+            "name": "Kötü Şans",
+            "overview": "Patrick bir kayıp yaşarken Hannah endişe verici bir haber alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Ngum5JUct9jQDPn3ghUx0xPeSj.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e05"
+        },
+        {
+            "season": 11,
+            "episode": 6,
+            "name": "Vücut",
+            "overview": "Patrick'in geçmişinden tüyler ürpertici bir olay, peşini bırakmamak üzere geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7pfEIhkFqWNVA9Brj1G9zZNCfn.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e06"
+        },
+        {
+            "season": 11,
+            "episode": 7,
+            "name": "Gözcü",
+            "overview": "Patrick'in arayışı destansı bir sonuca ulaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wTRfn12tv7kkgWXi1fcSbe33YSy.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e07"
+        },
+        {
+            "season": 11,
+            "episode": 8,
+            "name": "Fire Island",
+            "overview": "Fire Island'daki korkunç olaylar grubu dağıtır ve her şeyi yeniden gözden geçirmeye zorlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b0ecM7PK0d0IdoVkStBevFOM2Oi.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e08"
+        },
+        {
+            "season": 11,
+            "episode": 9,
+            "name": "Requiem 1981/1987 Birinci Bölüm",
+            "overview": "Yaşam süreleri azalan iki eski dost, geçmişe doğru benzersiz bir yolculuğa çıkarlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1UuRxEdyZekLc2z1bhpUsxl6Dzx.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e09"
+        },
+        {
+            "season": 11,
+            "episode": 10,
+            "name": "Requiem 1981/1987 İkinci Bölüm",
+            "overview": "Keder ve tehlike Gino'yu ele geçirir. Bir trajedinin keşfi Adam için bir aydınlanma olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hoheloUjc92pbau2rNjVJxMt0Ty.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt1844624/s11/e10"
+        },
+        {
+            "season": 12,
+            "episode": 1,
+            "name": "Acını Katla",
+            "overview": "Birçok başarısız tüp bebek denemesinden sonra, Anna bir aile kurmaktan başka bir şey istememektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rAjPsLpbVjELwAWYVgdFjCVJvsf.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1844624/s12/e01"
+        },
+        {
+            "season": 12,
+            "episode": 2,
+            "name": "Ninni",
+            "overview": "Ödül sezonu gelmiştir ve Anna yarışmada önemli bir oyuncu olmaya hazırlanmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jQgp5fhw1W9yzRWoxHWPdP6Pk7A.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt1844624/s12/e02"
+        },
+        {
+            "season": 12,
+            "episode": 3,
+            "name": "Dal Kırıldığında",
+            "overview": "Anna ve Dex, Hamptons'taki sığınaklarına yerleştiklerinde, rahatlıkları bozulmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A3JY5NPC1CjUH1Ure8Rkb3HiTQi.jpg",
+            "vote_average": 5.7,
+            "link": "https://vidmody.com/vs/tt1844624/s12/e03"
+        },
+        {
+            "season": 12,
+            "episode": 4,
+            "name": "Kaybolan İkiz",
+            "overview": "Siobhan'ın da yardımıyla, önemli bir duyuru Anna'nın kamuoyundaki imajını düzeltmeye yardımcı olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a3i4s52wGKBnVLxpPWUtZvEXZc1.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt1844624/s12/e04"
+        },
+        {
+            "season": 12,
+            "episode": 5,
+            "name": "Preech",
+            "overview": "Anna, karanlık varlığın kendisine her zamankinden daha fazla yaklaştığını hisseder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ehzHMJI4qBuJmwwgUyvyh7UplFs.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt1844624/s12/e05"
+        },
+        {
+            "season": 12,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/micrNpqUOs3jJ7B4qNmHH2ctiBq.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1844624/s12/e06"
+        },
+        {
+            "season": 12,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/6BU5D9wQtEDNVhjvsmjzKe6JS7g.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt1844624/s12/e07"
+        },
+        {
+            "season": 12,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/vf4K2DR5NGSPtR0MEexOMIZGa1W.jpg",
+            "vote_average": 4.9,
+            "link": "https://vidmody.com/vs/tt1844624/s12/e08"
+        },
+        {
+            "season": 12,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/ggX7G3GGiyZIMXJ4wc2BAraDcYJ.jpg",
+            "vote_average": 3.7,
+            "link": "https://vidmody.com/vs/tt1844624/s12/e09"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 05:46:24"
 }

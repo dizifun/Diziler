@@ -2,24 +2,148 @@
     "id": 200875,
     "imdb_id": "tt19244304",
     "name": "IT: Welcome to Derry",
+    "original_name": "IT: Welcome to Derry",
+    "overview": "Bu dehşet verici prequel dizisi 1962'ye dönerek katil, şekil değiştiren varlık Palyaço Pennywise'ın köklerine iniyor.",
     "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
     "year": "2025",
+    "rating": 8.2,
     "genres": [
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "TV+",
+        "HBO",
+        "HBO Max"
+    ],
     "cast": [
-        "Taylour Paige",
-        "Jovan Adepo",
-        "Matilda Lawler",
-        "Amanda Christine",
-        "Clara Stack"
+        {
+            "name": "Taylour Paige",
+            "role": "Charlotte Hanlon",
+            "image": "https://image.tmdb.org/t/p/w200/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
+        },
+        {
+            "name": "Jovan Adepo",
+            "role": "Leroy Hanlon",
+            "image": "https://image.tmdb.org/t/p/w200/aJcuEbYru85meNGzM0oSeW3nsd6.jpg"
+        },
+        {
+            "name": "Matilda Lawler",
+            "role": "Marge Truman",
+            "image": "https://image.tmdb.org/t/p/w200/uKioAyk7zSyO1BCOs5OQtNB4QNP.jpg"
+        },
+        {
+            "name": "Amanda Christine",
+            "role": "Ronnie Grogan",
+            "image": "https://image.tmdb.org/t/p/w200/ytG5JgrniXLY6elImmzTKjvGtCZ.jpg"
+        },
+        {
+            "name": "Clara Stack",
+            "role": "Lilly Bainbridge",
+            "image": "https://image.tmdb.org/t/p/w200/yMK3IADqV2oReJMKdkrcEIBxdtu.jpg"
+        },
+        {
+            "name": "Chris Chalk",
+            "role": "Dick Hallorann",
+            "image": "https://image.tmdb.org/t/p/w200/j8IpJkLTAhalh5Q356VNojcIAtx.jpg"
+        },
+        {
+            "name": "James Remar",
+            "role": "General Francis Shaw",
+            "image": "https://image.tmdb.org/t/p/w200/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+        },
+        {
+            "name": "Stephen Rider",
+            "role": "Hank Grogan",
+            "image": "https://image.tmdb.org/t/p/w200/tQc7TbCfDawrS0DHiQHxuoVrn4L.jpg"
+        },
+        {
+            "name": "Blake Cameron James",
+            "role": "Will Hanlon",
+            "image": "https://image.tmdb.org/t/p/w200/qM3hkhRmqKVRVi1M9jd8sSEMjXf.jpg"
+        },
+        {
+            "name": "Arian S. Cartaya",
+            "role": "Rich Santos",
+            "image": "https://image.tmdb.org/t/p/w200/9jHTcwpYgEXb1MXxPEDD0csri9J.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Pilot",
+            "overview": "Uyumsuz dört çocuk, kayıp sınıf arkadaşlarını bulmaya yemin ederken, Binbaşı Leroy Hanlon, Derry Hava Kuvvetleri Üssü'nde karışık tepkilerle karşılanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uwKrKvprzNW9ACtSB27MlzOpIHL.jpg",
+            "vote_average": 6.9,
             "link": "https://vidmody.com/vs/tt19244304/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Karanlıktaki Şey",
+            "overview": "Charlotte ve Will, Derry'deki yeni hayatlarına uyum sağlamaya çalışırken, Ronnie babasının akıbeti hakkında endişelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eYjrjLWIwD6qE148NKHKYcdHKjv.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt19244304/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Şimdi Onu Görüyorsun",
+            "overview": "Leroy, Pauly ve Dick yeni bir kazı alanı ararken çocuklar da içinde buludukları fenomene ait görsel kanıt peşine düşerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n4BGtiqwoFYd5ZX3UmdupeENcq.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt19244304/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Gezegenimizin İşleyişindeki Dönen Büyük Düzen",
+            "overview": "Çocukların yaşadıkları dehşet artarken Charlotte, Hank'e kefil olmaya çalışır ve General Shaw çabalarını artırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hBKG3nQJ8NzE9U0U5uKQfQD88XY.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt19244304/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Neibolt Sokağı",
+            "overview": "Askerler Neibolt Sokağı'nı basar, çocuklar da kendi amaçları için kanalizasyona iner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wDTjvS7dTnIko5JukSzgYSa3QQW.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt19244304/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Babam İçin",
+            "overview": "Karanlık imgelerden muzdarip Dick, Kara Leke'de bir sürprizle karşılaşır. Bu arada her çocuk da ayrı bir zorlukla başa çıkmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6phQvyEMeX84oeRznxnJWAM91dz.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt19244304/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Kara Leke",
+            "overview": "Kara Leke'ye yapılan zorba saldırısı uzun zamandır uyuyan güçleri uyandırır. Dick başka bir önemli parçanın ortaya çıkarılmasına yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zOAW0v0WLV7vv636Cx8VfSYSktu.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt19244304/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Kış Ateşi",
+            "overview": "General Shaw amacına ulaşmak için zorlaken Hanlon'lar, Rose, Dick ve çocuklar, Derry'yi kurtarmanın onlara kaldığını fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8gqmWZUs4GAH1QfqR2u3aXxX5Q2.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt19244304/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 06:06:21"
 }

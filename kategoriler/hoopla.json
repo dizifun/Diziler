@@ -1,5 +1,133 @@
 [
     {
+        "id": 194741,
+        "imdb_id": "tt18552362",
+        "name": "Parish",
+        "original_name": "Parish",
+        "overview": "Çoğunlukla ABD'nin güney limanlarında belgesiz göçmenleri sömürdüğü bilinen Zimbabveli bir gangsteri almayı kabul eden bir taksi şoförünün hayatı altüst olur.",
+        "poster": "https://image.tmdb.org/t/p/w500/iV1YDLXuJHwhxF85zwaTxXyrzN6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/xu7A4P8c8K2Q7bw2HMUqPTuCQbK.jpg",
+        "year": "2024",
+        "rating": 6.5,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "AMC Plus Apple TV Channel",
+            "AMC+ Roku Premium Channel",
+            "Hoopla",
+            "Spectrum On Demand",
+            "Netflix Standard with Ads",
+            "AMC+",
+            "AMC",
+            "Netflix",
+            "Philo",
+            "Plex Channel"
+        ],
+        "cast": [
+            {
+                "name": "Giancarlo Esposito",
+                "role": "Gracián 'Gray' Parish",
+                "image": "https://image.tmdb.org/t/p/w200/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+            },
+            {
+                "name": "Zackary Momoh",
+                "role": "Shepherd 'The Horse' Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/8dKgzZvLUs29RTaEX9xuReQeJeP.jpg"
+            },
+            {
+                "name": "Paula Malcomson",
+                "role": "Rose Parish",
+                "image": "https://image.tmdb.org/t/p/w200/9lJy6ze86ZfVcBcyBK9UZq8FJiC.jpg"
+            },
+            {
+                "name": "Skeet Ulrich",
+                "role": "Colin Broussard",
+                "image": "https://image.tmdb.org/t/p/w200/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+            },
+            {
+                "name": "Ivan Mbakop",
+                "role": "Zenzo Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/457TZ4Ays9qL0I807cJngbL8M1d.jpg"
+            },
+            {
+                "name": "Bonnie Mbuli",
+                "role": "Shamiso Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/vMpZA7z1PmFy18ggceVEOZKEVLO.jpg"
+            },
+            {
+                "name": "Arica Himmel",
+                "role": "Makayla Parish",
+                "image": "https://image.tmdb.org/t/p/w200/icO52TMiqeHMFPOyQ4GAeWy1YHn.jpg"
+            },
+            {
+                "name": "Dax Rey",
+                "role": "Luke Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/n66YIjCBL4f5iq20E2em50rS06z.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Gray Parish, bir aile babası olarak ömür boyu suç hayatından vazgeçmiş, sorunlu bir geçmişi olan iyi bir adamdır. Ancak oğlu vahşice öldürüldüğünde, eski alışkanlıkları geri döner ve ilgili herkes için tehlikeli sonuçlar doğuran amansız bir arayışa başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Blood in the Water",
+                "overview": "Gray ve Colin büyük bir temizlik konusunda tartışır. Gray, ailesinin artan şüphesinden kaçar. Tongalılar ise yeni bir işin peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Sanctuary",
+                "overview": "Gray'in At'a olan bağlılığı nihai bir teste tabi tutulur. Tongalılar düşmanları hakkında bilgi toplamaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vvYTq3znYpA2aYilrHjPg9M1hF2.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Impimpi",
+                "overview": "Eski bir meslektaşı olan Anton, Gray'in Tongais'lerle çalıştığını öğrendiğinde, Gray'i bir seçim yapmaya zorlayacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3KKJ7QGb4D8O1Sj2tnihzQZwwB1.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kumba",
+                "overview": "Gray ve ailesi geçmiş travmalarıyla yüzleşir. Horse, Gray'e reddedemeyeceği bir teklif sunar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iHnPXCsCLpMUSYX5EcBttyE5QQK.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "A Good Man",
+                "overview": "Gray intikam için her şeyi riske atarken beklenmedik müttefikler keşfeder. Tongais'ler beklenmedik bir aksaklıkla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jWet7hAoBP5Ypjqs1U1EPqeQrb2.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 05:49:32"
+    },
+    {
         "id": 19885,
         "imdb_id": "tt1475582",
         "name": "Sherlock",

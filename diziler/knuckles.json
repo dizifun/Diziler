@@ -2,22 +2,94 @@
     "id": 158300,
     "imdb_id": "tt18291136",
     "name": "Knuckles",
+    "original_name": "Knuckles",
+    "overview": "Echidna savaşçısı Knuckles'ın, Şerif Yardımcısı Wade Whipple'ı kendi himayesine alıp bir savaşçı olarak eğitmesini anlatıyor. Bu süreçte ikili, komik ve aksiyon dolu bir kendini keşfetme yolculuğuna çıkıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/aMpNvgWjPimLldhKgwtCt5NjLen.jpg",
     "year": "2024",
+    "rating": 7.3,
     "genres": [
         "Aksiyon & Macera",
         "Aile",
         "Komedi"
     ],
+    "categories": [
+        "Tümü",
+        "Paramount+",
+        "Amazon Prime",
+        "TV+",
+        "Paramount Plus Essential",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Apple TV Channel",
+        "Paramount Plus Premium"
+    ],
     "cast": [
-        "Idris Elba",
-        "Adam Pally"
+        {
+            "name": "Idris Elba",
+            "role": "Knuckles the Echidna (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+        },
+        {
+            "name": "Adam Pally",
+            "role": "Wade Whipple",
+            "image": "https://image.tmdb.org/t/p/w200/yY13PEaVbPoXT5MkitVxTfdAZnU.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Knuckles, Green Hills'deki yeni hayatına uyum sağlamakta zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vwlsLPevEifCNHcxHdzouDiuv9k.jpg",
+            "vote_average": 7.9,
             "link": "https://vidmody.com/vs/tt18291136/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Wade muhteşem bir kurtarma görevi planlarken, Knuckles onu kaçıranlarla yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jV11mJfDdJOwMokzVyGHyjBFeiA.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt18291136/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Kanun kaçakları olan Knuckles ve Wade, Wade'in ailesiyle birlikte saklanırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vNZH7P192kBz7sBXWch4JnRApkA.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt18291136/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Knuckles'ın gerçek gücünün nerede yattığını öğrenebilmek için Wade'in dünyayı onun gözünden görmesi gerekiyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xItrifyZP2S1XDTnaPMZuzVmhg.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt18291136/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Knuckles ve Wade, Ulusal Bowling Şampiyonası için Reno, Nevada'ya varıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/toxeVznzxqSDZPCtueUEGoR9gNE.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt18291136/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Knuckles ve Wade arasındaki dostluk sınanıyor, eski ve yeni düşmanlar Reno'da bir araya geliyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/leDsP0biTb7IbXjGo1K8sD8TeyT.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt18291136/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 05:38:26"
 }

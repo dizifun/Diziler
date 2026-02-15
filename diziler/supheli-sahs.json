@@ -2,26 +2,978 @@
     "id": 1411,
     "imdb_id": "tt1839578",
     "name": "Şüpheli Şahıs",
+    "original_name": "Person of Interest",
+    "overview": "Kameralar her yerde! İzliyorlar, dinliyorlar, kaydediyorlar. Sizin hakkınızda her şeyi biliyorlar! Peki siz onlar hakkında ne biliyorsunuz? Gizemli bir iş adamı olan Mr. Finch, ileride işlenecek suçları önceden önlemeyi hedefleyen bir bilgisayar programı geliştirir. İlginç bir karaktere sahip bu milyoner işadamı elindeki programı hayata geçirebilmek için resmi kayıtlarda ölü olarak geçen Reese adlı eski bir CIA ajanıyla anlaşır. Kendi kaynakları ve teknolojisiyle Reese'in yetenekleri ve sezgilerini birleştiren Mr. Finch'in amacı gelecekte işlenecek olan suçları henüz suçlular eyleme geçmeden önlemektir.",
     "poster": "https://image.tmdb.org/t/p/w500/qxmXuXb6GxEfoQ5kcPN5guCiOZ5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ksmcQlCQc7XFGpXpIFZzF5twRSr.jpg",
     "year": "2011",
+    "rating": 8.1,
     "genres": [
         "Dram",
         "Aksiyon & Macera",
         "Suç",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "CBS"
+    ],
     "cast": [
-        "Jim Caviezel",
-        "Michael Emerson",
-        "Kevin Chapman",
-        "Amy Acker",
-        "Sarah Shahi"
+        {
+            "name": "Jim Caviezel",
+            "role": "John Reese",
+            "image": "https://image.tmdb.org/t/p/w200/yGlRIu6aEbet2QnpKIESfD0zMGf.jpg"
+        },
+        {
+            "name": "Michael Emerson",
+            "role": "Harold Finch",
+            "image": "https://image.tmdb.org/t/p/w200/xOpr90SF1RCtjFNTu32nZQ90buY.jpg"
+        },
+        {
+            "name": "Kevin Chapman",
+            "role": "Lionel Fusco",
+            "image": "https://image.tmdb.org/t/p/w200/sCUwtlhaT2MspHCUx2veRAA9ZXx.jpg"
+        },
+        {
+            "name": "Amy Acker",
+            "role": "Root",
+            "image": "https://image.tmdb.org/t/p/w200/9lpLwfscOoG4jyYIH761SRnm09U.jpg"
+        },
+        {
+            "name": "Sarah Shahi",
+            "role": "Sameen Shaw",
+            "image": "https://image.tmdb.org/t/p/w200/crKD1ax5wRRZ4QM7nQyH8K2deaA.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Genç bir savcının sosyal güvenlik numarası geldiğinde, Reese ve Finch ilgilendikleri kişinin kurban mı yoksa fail mi olduğunu anlamak için birlikte çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8MVJ0T87OA4GpiaiqCSE0AyvfGU.jpg",
+            "vote_average": 7.7,
             "link": "https://vidmody.com/vs/tt1839578/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Hayaletler",
+            "overview": "Reese ve Finch yıllar önce öldürülen bir genci araştırmaları gerekince makinenin güvenilirliğini sorgularlar. Finch makinenin kökenini hatırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vhAYdUkepQuRS2clnS5mjlSRCT8.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Finch'in listesindeki genç ordu gazisi Joey Durbanı tehditten korumak için Reese gizli bir göreve gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iRXOTHZwkrP7Q0qtb0hsITPww1p.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Reese ve Finch Doktor Megan Tillman tarafından denetlenirken detektif Fusco'dan yardım alırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/apZXHn9NmuhSOHD5yjTvIE5ZgfM.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Makine, verdiği ağır cezalar ile tanınan bir yargıcın sosyal güvenlik numarasını Finch ve Reese'in karşısına getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j0jfUvMRhtTtoInI2nGhANw80av.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Reese göründüğü gibi olmayan şüpheli ilişkileri olan bir kadından hoşlanmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/c6cqjYzddSC8NsGrAgpqNT0d94X.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Makine, bu sefer bir okul öğretmenini gösterir. Reese ve Finch acele etmek zorundadırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6TtcwXXZFFkXT5bzhiJ2Pcon1NK.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Reese ve Finch, son POI'larının Soğuk Savaş Sovyet casusları ile bağlantısı olduğunu keşfederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eA9MsEf7rcNuLpSof3kEUCD9ir8.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Reese ve Finch'in Detektif Carter ile kedi fare oyunu, Makine'nin Dedektif Carter'ın yeni hedef olduğunu söyleyince iyice karışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yfOf7Af8EN50Qq6PqFPUc4OdJQG.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Detektif Carter, Reese ve Finch ile olan son karşılaşmasının ardından kalanları toparlamaya çalışır. Makine bu sefer ikiliye bir yerine dört tane sosyal güvenlik numarası verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1iLSE9I2Bro4TIwOaB2UC4Imuq.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "Reese, kurşun yarasından sonra tekerlekli sandalyeye hapsolur ama Finch ona en son hedefe göz kulak olması için bir görev verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/65EGY5u8yw0rg0XlOqu2GwesUbS.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "Carter sonunda Reese ile yüzleşince ekibin yeni hedefi genç bir kadına yardım etmek için ekibe katılmak istediğini söyler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/c3IJzqQNQ4JxoFbEeNNqew7OP3A.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e12"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "Makine, Reese ve Finch'e fazla zorlanmış perişan bir adamın numarasını verir ve eski şüphelileri Zoe Morgandan yardım istemek zorunda kalırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r4qUbdhTKzJhNPmNNhCp3Te3IZm.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e13"
+        },
+        {
+            "season": 1,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "Makine, kardeşi henüz öldürülen genç Darren'ı bir sonraki hedef olarak tanımlar. Bu arada Finch, eski iş ortağının oğlunun Makine hakkında bilgi edinmeye çok yaklaştığı konusunda endişeleri artar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kdDCJMdWai2cA7IrRhot5yKypSO.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e14"
+        },
+        {
+            "season": 1,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "Reese, son hedef için bir kaçakçılık çetesine sızdıktan sonra olayların çok daha farklı olduğunu farkeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6drPQk1qphyeuYlTVZAbNEkYubv.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e15"
+        },
+        {
+            "season": 1,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "Makine, Reese ve Finch'i Wall Street'e götürür. Büyük bir yatırım bankasındaki zeki genç bir tüccar, milyon dolarlık bir mali dolandırıcılığa karışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v35br6tfncYCr2BMfLOadk35wm3.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e16"
+        },
+        {
+            "season": 1,
+            "episode": 17,
+            "name": "17. Bölüm",
+            "overview": "Moretti hapishaneden serbest bırakıldığında, Carter ve Reese, onu Elias'tan korumak için işbirliği yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y4X60XnZHem0Q9SkBBoE9WjuJSi.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e17"
+        },
+        {
+            "season": 1,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "Finch ve Reese, ikili bir hayat sürüyor gibi görünen bir kişinin peşine düşer. Ancak, çok geçmeden aynı sosyal güvenlik numarasına sahip farklı iki kişi olduğunu fark ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mI8TFAw6EpIkMnGldzH2aQqJ4bV.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e18"
+        },
+        {
+            "season": 1,
+            "episode": 19,
+            "name": "19. Bölüm",
+            "overview": "Elias nihayet düşmanını ortadan kaldırmaya ve yeraltının lideri olmaya hazırdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7TPfHn9jyFsnIZo8liv6k0VgY48.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e19"
+        },
+        {
+            "season": 1,
+            "episode": 20,
+            "name": "20. Bölüm",
+            "overview": "Reese, gerçekleşecek bir soygunu önlemek için zırhlı araç güvenlik görevlisi olarak kılık değiştirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hLFcorPTm3jxbo9GOmB0gPX2TDZ.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e20"
+        },
+        {
+            "season": 1,
+            "episode": 21,
+            "name": "21. Bölüm",
+            "overview": "Makina yeni bir hedef verir. Finch gelen bu hedef sonrası, Reese'e izin verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xmlaLAnGHSpOuYtPEoWuEFxLXxK.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e21"
+        },
+        {
+            "season": 1,
+            "episode": 22,
+            "name": "22. Bölüm",
+            "overview": "Finch ve Reese, Makina'ya çok yaklaştığını düşündükleri NSA için çalışan bir casusu yakından takip etmeye başlarlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f56E0WGaki88FI6gSe1spBNZVzD.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e22"
+        },
+        {
+            "season": 1,
+            "episode": 23,
+            "name": "23. Bölüm",
+            "overview": "Reese, mahsur kalır. Finch, Fusco ve Carter'ın yardımına ihtiyacı vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4Sqd6gKoIA58ry0o2a1SvzUnjiQ.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt1839578/s1/e23"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Reese, bazı haydutlarından para çalan Leon'u kurtarmak için Finch'in Makine ile olan iletişim kurallarını çiğner. Sonrasında ise Makine'yi Finch'i bulmak için kullanacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9oiwfvn1jUX654zx3FRrv6pLu7b.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Dedektif Carter ve Bay Reese, Root'un geçmişini incelemek için Teksas'a gider. Root, Finch'e Makinesini satın alan insanların kötü olduğunu gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7qzr4UFmVfkmyQ6CQunnTm9XmhR.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Reese, yanlış tip insanlarla parti yapan Brezilyalı bir diplomatın kızının yeni koruması olur. Finch, kaçırılmasının ardından topluma yeniden uyum sağlamakta zorluklar yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/62Y158LcTFWkzIZ4Vg4LWDxAngQ.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Reese ve Finch, üzerinde yakalanması karşılığı ödül olan organize suça karışmış bir adamı korumaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3OJNYFZ8Vxy2oEYedHCRks6hV87.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Reese, risk almaktan hoşlanan genç bir gazetecinin öldürülmesini engellemeye çalışır. Medyanın ilgisini çekmemek için Reese onunla çıkmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/st95v0WTg4VKxFT1ciJKL2b8ToG.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "John ve Zoe, son 15 yıldır ölü bir adamın kimliğini kullanan biriyle yakınlaşmak için karı koca kılığına girerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mzcvXHYcaEbRpQC1DRHTNz1FOFs.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Leon, kendi koruması için tuzağa düşmüştür. Bir tıp doktoru zor bir kararla karşı karşıyadır. Dedektif Carter, Ajan Snow ile karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tV8YWWtzWbH4FDHYWE0ZzGGhTk6.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Reese ve Bay Finch, zengin evli bir çiftin birbirlerini öldürmesini engellemeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fqGEZIUtdvjScT4Key26XTMN1FY.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Finch ve Reese, Estonya mafyası tarafından kovalanan bir taksi şoförünü korumaya çalışır. HR, Elias ile bir anlaşma yapmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6ktq1ipee8Dah2Xskz0R3XaEAqX.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "FBI, Takım Elbiseli Adam'ı yakalama çabalarına yeniden odaklanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bHAtb3ZD9Ojywh3g4uO8empBmOv.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "Özel Ajan Donnelly, Reese ve diğer üç adamı Rikers Adası'nda gözaltında tutmaktadır. Finch'in yardımıyla Carter, Reese'in gözaltından çıkmasına yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j7KOyXo6Ldrorag4Cp5yWcRNIHz.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "Finch ve Carter, Reese'i hâlâ Donnelly tarafından tutsak tutulduğu Riker'dan çıkarmaya çalışır. Bu arada, Fusco bir sonraki hedef üzerinde tek başına çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lEYOpIRts7bBlu4sFifpp0Gqbw5.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e12"
+        },
+        {
+            "season": 2,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "Reese, Stanton tarafından kurtarılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/delGJiGicbtrg33qw8esUD3w1eI.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e13"
+        },
+        {
+            "season": 2,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "Bir teknoloji milyarderinin dengesiz davranışları, iş hayatını yok olma tehlikesiyle karşı karşıya bırakır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/elphpQn1KIJkk5e0BWPKSpKcotF.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e14"
+        },
+        {
+            "season": 2,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "Finch ve Reese, Sırp katillerin görünen hedefi olan temizlikçi bir kadını korumak için bir otele gizlice girerler. Bu arada Carter, FBI'a katılma sürecine başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/claRSECynkGbu0HWYPLVqopCZZa.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e15"
+        },
+        {
+            "season": 2,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "Sam Shaw ve ortağı Michael Cole, makineden hedef numaraları alır, ancak Reese ve Finch çok geç olmadan onlara yardım etmelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mL7B4E1oRfOiI8CRwRCgRYKDBvP.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e16"
+        },
+        {
+            "season": 2,
+            "episode": 17,
+            "name": "17. Bölüm",
+            "overview": "Makine aniden altı numara verir ve bunlardan birinin ücra Owen Adası'nda bir yeri vardır. Tropikal bir fırtına nedeniyle Finch ve Reese, sekiz kişiyle birlikte orada sıkışıp kalırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/52Kq0YOcWHKlpu6vaFKR3UyWH51.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e17"
+        },
+        {
+            "season": 2,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "Leon Tao'yu bir kez daha kurtardıktan sonra Reese, kumarhanede servetini kaybeden bir emekliye bakmak için Atlantic City'ye gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vmZchu8DP3YcKYBYQsaDI4COyDa.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e18"
+        },
+        {
+            "season": 2,
+            "episode": 19,
+            "name": "19. Bölüm",
+            "overview": "Finch, yükselen başkan yardımcısını izlemek için bir teknoloji şirketinde gizli göreve gider. Şirket, farklı bir şey için paravan olan ajanlarla dolu görünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/liyHiAVQvLSALG7u0PunICEf845.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e19"
+        },
+        {
+            "season": 2,
+            "episode": 20,
+            "name": "20. Bölüm",
+            "overview": "Saygın bir doktor Polonium ile zehirlenir ve Reese'in katilini bulmasına yardım etmek için sadece 24 saati vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n3E50KEjFV5hDDkBKgVH4NDM7XQ.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e20"
+        },
+        {
+            "season": 2,
+            "episode": 21,
+            "name": "21. Bölüm",
+            "overview": "Bir sistem virüsü nedeniyle yeni bir numara için on gün bekleyeceklerdir. Sorunun kök (Root) olabileceğinden şüphelenirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7p2fY9A4rqqh32vrShqYbmPjwbj.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e21"
+        },
+        {
+            "season": 2,
+            "episode": 22,
+            "name": "22. Bölüm",
+            "overview": "Reese ve Finch, The Machine'i Root'tan kurtarmak için gizemli uluslararası organizasyon Decima ile iş birliği yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/91INR0fSTYWqBu5uGde6fIPokHX.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1839578/s2/e22"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Hiç kimse makinenin nerede olduğunu bilmemektedir.Fakat makine hem Finch hem Reese ve onların yeni ortakları olan Shaw ve Root ile de iletişim kurmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8GGoawCjJaK8KiWjdnMus9p6hIi.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Bir internet şirketinin sahibi sevdikleri kayıp insanları bulmak adına açtığı sitede insanların kişisel bilgilerini satmaktadır. Carter Beecher'ın katilini ararken yeni bir polisi eğitmek zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2aXNoNFJ4Iy8X7ze05P2fI640Im.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Makine gizli takipçi olduğu şüphesine sahip olan Ian Murphy'nin numarasını verince Reese, Shaw ve Carter, Fusco ve Zoe'nın da yardımıyla olayı araştırırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yZJ1iVfcBmIy8F6GAXMzGN0Uwc8.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Ekip, avukat olan bir kadının kocasın cinayetinin mükemmel kurgusundan sorumlu olup olmadığını araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bh7vBiNiRZBtdSY0biKnnvHX7P7.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Shaw makinenin tanımladığı 10 yaşında üstün yeteneklere sahip olan küçük kızın yanında durmak zorundadır. Carter'ın görevi ortaya çıkmak üzeredir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hfuZIJ1zUS0mZCRyD5rcO3Sv3p.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Ruh sağlığı sınırlanmasından kurtulan Root, Makine'nin gösterdiği hedefte, Shaw'ın yardımına ihtiyaç duyar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/maZKn4OYSuf9sXUuxAcFfccWr7.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Ekip hipnoz tedavisi yapan kişinin davasını araştırırken büyük bir sürprizle karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5QiGFyMTpsDgYLDjktrY7F4uddJ.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Makine, Finch'e 38 numara birden verir. Carter'ın geçmişi açığa çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lxV12J024Po0bdSYB0DrODjP1j5.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Suç örgütünü durdurmak için açılan savaş farklı bir boyuta taşınırken, bu sefer Reese'in numarası Makineden çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rwf0Ncra3Z6tUZGQzK7EPIlafcw.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Tüm ekip, Carter'ın cinayetini aydınlatmaya çalışırken, Finch ekipten birinin HR ile olan savaşı durdurmak için fazla ileriye gitmiş olabileceğini farkeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bWpxO28cVrG7Ey7iH4PmM6n7zbR.jpg",
+            "vote_average": 9.1,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e10"
+        },
+        {
+            "season": 3,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "Finch'in gençliğine geri dönüşte Makine'nin yaratılış süreci ortaya çıkar. Ayrıca ekip ölmek üzere olan bir adamın numarasını alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uOd9RIIrX8flmVK7c4hu3ZOlPuA.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e11"
+        },
+        {
+            "season": 3,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "Ölmek üzere olan adamı korumak üzereyken ekip bir çok düşmanı ile karşı karşıya gelir. Reese olmadan ekip düşmanları tarafından tuzağa düşürülmüşlerdir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y4UvE0VQ109h03UGoQBtx5LJMz0.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e12"
+        },
+        {
+            "season": 3,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "Reese ekibi bir araya toplamak için uluslararası bir uçuş yapmaya hazırlanırken, planlarının değiştirilmiş olduğunu farkeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8U5hY5GqnTGYU0eUW4c0YwwDyoo.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e13"
+        },
+        {
+            "season": 3,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "Reese, üstün yetenekli bir hırsızın bir çok vakaya karışmasını araştırması sonucu New York'da bulunan Finch'in yanına gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ySbIVhr6gIJM0VtXErwlx8vySek.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e14"
+        },
+        {
+            "season": 3,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "Finch, acil servis operatörünü korumak için gizli göreve gider, fakat tehdit ekibin düşündüğünden daha da büyük ve tehlikelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nsmikDxcd2v1IUvFQcDGpC0hpMy.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e15"
+        },
+        {
+            "season": 3,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "Reese, ekibe katılmadan önceki Finch'in yaptığı operasyonlar açığa çıkmıştır ve günümüzde çok fazla şok edici bağlantıya sahiptir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b13kCCbu3vmYtHgaew2lsAdxfO5.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e16"
+        },
+        {
+            "season": 3,
+            "episode": 17,
+            "name": "17. Bölüm",
+            "overview": "Makine gizemli bir geçmişe sahip olan hademeyi bulma görevini Root'a verir. Fakat Makine daha sonra aynı numarayı Finch'e de gönderir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9vcwKBYF3kddyP02UjbDv3UtYc6.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e17"
+        },
+        {
+            "season": 3,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "Ekip, hükümetin eski paralı askeri Birleşmiş Devletler diplomatını takip edince uluslararası politika olayına karışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fZo0W8eMuGzSlMcV1CFyfzmcjQ9.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e18"
+        },
+        {
+            "season": 3,
+            "episode": 19,
+            "name": "19. Bölüm",
+            "overview": "Reese ve Shaw yeni hedefi göz önünde tutmak için lise mezunlar gününde eski mezunlar gibi organizasyona katılırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/djYMX6mMm77FVVY9qqB5iyZoe7e.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e19"
+        },
+        {
+            "season": 3,
+            "episode": 20,
+            "name": "20. Bölüm",
+            "overview": "Reese, hedefteki yeni kişiye yakın olmak için gizli servis ajanı gibi davranmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mbZeDbD2lXofRbsplpFxWMRaSKX.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e20"
+        },
+        {
+            "season": 3,
+            "episode": 21,
+            "name": "21. Bölüm",
+            "overview": "Decima Samarita'nın yemini Reese ve Shaw'ı yakalamak için kullanırken, Greer Finch'in en büyük zayıflığını ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5RH9G92TqkPbrMsXezhM0jBfzHO.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e21"
+        },
+        {
+            "season": 3,
+            "episode": 22,
+            "name": "22. Bölüm",
+            "overview": "Bilinmeyen bir varlığın Makine'nin olacak büyük bir felakete dair büyük resmi görmesini engellemesi üzerine ekip büyük resmin parçalarını toplamak için beş farklı numaraya yönlendirilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bza5nHGlyHgIC2Ugswar0q0D7L8.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e22"
+        },
+        {
+            "season": 3,
+            "episode": 23,
+            "name": "23. Bölüm",
+            "overview": "Ekip Samarita'nın çalışmasını ve ilk hedefi olarak onları almasını önlemek için ellerinden geleni yaparlar",
+            "still_path": "https://image.tmdb.org/t/p/w400/zj6wrCYzwA5B6IufCL7nJaFZryr.jpg",
+            "vote_average": 9.1,
+            "link": "https://vidmody.com/vs/tt1839578/s3/e23"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Ekip, Root tarafından yaratılan yeni kimlikleri ile yaşama uyum sağlamaya çalışır. Ancak yeni gelen sayı işleri karıştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7ZsS8mEITUp0qBuCWfjDuvi8m7L.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Finch, yeni hedeflerden birinin üniversite öğrencisi olması üzerine harekete geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oMZMcYQ1NTkDostPm0z2mAgXAKW.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Finch, hedef kişiye yakın olması için Fusco'yu ikna eder. Reese yeni işinin ilk gününde kurallara uymanın yolunu bulmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yUtVnOaWPin4MCCphwPD0kUwvRA.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Reese'in New York Polis Departmanı'ndaki detektif olarak gizli işi, koruduğu genç kardeşler çetelerin hedefleri haline gelince karışık bir hal alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/g2G23LraH0SycCk03e7hl3hlMex.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Reese şiddete olan meyli yüzünden yardım almaya zorlanır. Root, Shaw ve Finch yeni şüpheli kişiye yardım etmeye çalışırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vFCke6lLx3YHLuB5l15kFwQZqee.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "John ve diğerleri, sahte bir dedektifin intihar etmesini engellemeye çalışırken Harold, Hong Kong'da bir konferansa katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yFCbnGkdL0ZnJY4NVrl3SfSS1vk.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Shaw, takip için uluslararası hırsızlardan oluşan bir ekibe katılır, ancak beklenmedik olaylar onu Samaritan tarafından tespit edilme tehlikesiyle karşı karşıya bırakır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zpMSQCQBe9qBcQF4IG4Lm0jxaFc.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Reese, şüpheli eylemleri ve onun nedenlerini sorgulamasına neden olan yetenekli genç bir subayı gözlemek için New York Polis Akademisi eğitmeni olarak çalışmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2WelJ2fwdnvnyMuKJtvPv1MpHvH.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Reese, Elias'ı Kardeşlik'ten kurtarmalıdır. Shaw'un kimliği açığa çıktığı ve Root'da yanında olduğu için, bu ikiliden yardım alamaz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/za10c9uRFoeFgRYhJZHR06A9eyR.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Samaritan, 48 saat boyunca New York'un kontrolünü ele geçirir. Makina'nın saklandığı yeri bulmak için araştırmalara başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aI9x5DWGL8yP0R5FDj4mkknj00Y.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e10"
+        },
+        {
+            "season": 4,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "Samaritan, borsaya bir siber saldırı başlatır. Ekibe ise, küresel bir ekonomik felaketi durdurmak için zor bir görev kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tM1Gz9oX8iCke2MiTfV2xicOz0t.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e11"
+        },
+        {
+            "season": 4,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "Makina kontrolü geri alır. Bu sırada bir çift kanunsuzun Kuzeydoğu'ya saldırdığına dair endişe verici haberler su yüzüne çıkmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uQvZum6yUzyRBxTmB3hENb2SuSi.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e12"
+        },
+        {
+            "season": 4,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "Shaw'ın peşine düşmek, Root ve Reese'i New York'un taşrasında, her şeyin göründüğü kadar pastoral olmadığı küçük bir kasabaya götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kSMHwWA8OvNSU8zw4MS1VtWQjQj.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e13"
+        },
+        {
+            "season": 4,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "Finch cinayet davası için jürideyken, başka bir jüri üyesinden şüphelenir. Reese bir terapist ile görüşmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gxb7ULERheAMMedZ9AYvRNPUzgp.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e14"
+        },
+        {
+            "season": 4,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "Reese, kimlik değiştirerek bir yazılım programcısını korumaya çalışır, ancak tehdidin hayatının hangi tarafından geldiği belirsizdir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ub2NDHDxzpgY4Ur5RLPgj7IF5f0.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e15"
+        },
+        {
+            "season": 4,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "Reese ve Finch, tıbbi bir dispanserden para çalma planı başarısız olduktan sonra kaçan bir dolandırıcıyı korumalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lzibEEgxxDms9qO7CREy6Y6NXRL.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e16"
+        },
+        {
+            "season": 4,
+            "episode": 17,
+            "name": "17. Bölüm",
+            "overview": "Reese ve Finch, hastalarına yardım etmek için alışılmışın dışında yöntemleri olan bir psikoloğu korumaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rVf8WGifHbdaS91eRqJptQTwMkJ.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e17"
+        },
+        {
+            "season": 4,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "Reese, hayatına yönelik potansiyel tehdidin onu hedefinin amansız takibinden caydırmasına izin vermeyi reddeden bir ödül avcısını korumalıdır. Finch ayrıca Hong Kong'da başlattığı planı harekete geçirmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rC4dqGATHtKu00mGuVFzwPuX05a.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e18"
+        },
+        {
+            "season": 4,
+            "episode": 19,
+            "name": "19. Bölüm",
+            "overview": "Reese ve Finch, tüm sırlarını ortaya çıkaran ve hayatını çözen bir hacker saldırısının ardından, bir yazılım CEO'sunu korumak için çabalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k3M0WBvsPJYe4bkkovZSEj8vMmc.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e19"
+        },
+        {
+            "season": 4,
+            "episode": 20,
+            "name": "20. Bölüm",
+            "overview": "Reese, başaramadığı eski bir davayı çözerek Carter'ı onurlandırmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6kAY3PbjNKcCc4Ke33ClYHocS3.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e20"
+        },
+        {
+            "season": 4,
+            "episode": 21,
+            "name": "21. Bölüm",
+            "overview": "Reese ve Fusco, Elias ve Dominic arasındaki savaşta yakalanırlar. Bu sırada Finch ve Root, Shaw'un nerede olduğuna dair bir ipucunu takip eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2O57SlNUQABqNdULjFndaxm6DEU.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e21"
+        },
+        {
+            "season": 4,
+            "episode": 22,
+            "name": "22. Bölüm",
+            "overview": "Finch ve Root, Samaritan tarafından bulunan Makineyi kurtarmak için var güçleriyle uğraşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aYUiJCAIz6LjWZIGP6EBmSppRTw.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt1839578/s4/e22"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Reese ve Finch, Makine'nin kod kaynağını kurtarmaya çalışırlar. Ayrıca Root hayatı için Samaritan'ın ajanları ile savaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2nZyv6ha46Rv4NuhDCaDV6ys2Q7.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Makine kendisini baştan başlatırken arızalanır. Bu arıza sonucu Finch ile Root'u bir tehdit olarak algılar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6mdGr5DIgXDWT33O9PSw24YsWwk.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Reese'in gizli kimliği, en son gelen numaranın CIA'den eski iş arkadaşı Kara Stanton olması ile açığa çıkma tehlikesi yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rrCawvI7DxHEQVduUKw9J7AxmR1.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Shaw, onu esir alan kişilerden kaçmayı başarır. Fakat Shaw paranoyaklaşmaya başlayınca ekip onun akıl sağlığından şüphe etmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2mulh6pbX64tQCcL5KWeNTEp6ue.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Reese ve Fusco, arkadaşının ölümünün intikamını almak isteyen Elias'a yakın biri tarafından tehdit edilirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7RAdNPaYuIIIPLvqyNuKMyIcad2.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Makine yeni verdiği numara ile, Reese ve Finch'i bir çift şüpheli insanı koruması için bir düğüne gitmelerini ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/m1jxLavyeeQZyDTl9G8vdktwPJU.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Makine'den gelen yeni numarada, komplo teorisi şovunun sunucusunu korumak için Root, bir radyo kanalında gizli göreve başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/Adw6FzOZw48epyangqhi4ja3RkH.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Reese ve Finch, bir hastanede mahsur kalırlar. Bu sırada Samaritan'ın yeni üyesinin kafasında farklı düşünceleri vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dxIAIajNol09a9f1ZA2dDa5j67X.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e08"
+        },
+        {
+            "season": 5,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Ses olarak bilinen gizemli suç zekası, geri döner ve Reese ile Fusco'yu tuzağa düşürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6gjJsT0afN0zxdZLeacrfTdcesR.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e09"
+        },
+        {
+            "season": 5,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Yapılan ölümcül bir hata Finch'in kimliğinin açığa çıkmasına neden olur. Makine ise Finch'in numarasını gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pQ90Vo8RZFwbk3Tah5NcrqAEo0.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e10"
+        },
+        {
+            "season": 5,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "Amerika Birleşik Devletleri Başkanı yeni hedef kişi olunca ekip hem komployu ortaya çıkarmak hemde gizli servisten uzak durmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9GPaklP2RAYQHM7MpByEP9jn8Ip.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e11"
+        },
+        {
+            "season": 5,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "Reese ve Shaw Finch'i yakalamak için yarışırken Finch yalnızca Samaritanın değil aynı zamanda kendinin ve Makinenin de sonu olabilecek bir görevde maksimum güvenlikle bir hükümet tesisine sızmaya çalışacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4Pas6awIU0VMMtUct7zYIXXavUZ.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e12"
+        },
+        {
+            "season": 5,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "Finch, Reese, Fusco ve Shaw Samaritan'ın Makineyi yok etmesini engellemek için beraber son bir göreve çıkarlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/egjK7mtJ0OzOxNVJxGPDCH8IWtk.jpg",
+            "vote_average": 9.5,
+            "link": "https://vidmody.com/vs/tt1839578/s5/e13"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 05:44:37"
 }

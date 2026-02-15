@@ -1,5 +1,377 @@
 [
     {
+        "id": 200875,
+        "imdb_id": "tt19244304",
+        "name": "IT: Welcome to Derry",
+        "original_name": "IT: Welcome to Derry",
+        "overview": "Bu dehşet verici prequel dizisi 1962'ye dönerek katil, şekil değiştiren varlık Palyaço Pennywise'ın köklerine iniyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
+        "year": "2025",
+        "rating": 8.2,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Taylour Paige",
+                "role": "Charlotte Hanlon",
+                "image": "https://image.tmdb.org/t/p/w200/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
+            },
+            {
+                "name": "Jovan Adepo",
+                "role": "Leroy Hanlon",
+                "image": "https://image.tmdb.org/t/p/w200/aJcuEbYru85meNGzM0oSeW3nsd6.jpg"
+            },
+            {
+                "name": "Matilda Lawler",
+                "role": "Marge Truman",
+                "image": "https://image.tmdb.org/t/p/w200/uKioAyk7zSyO1BCOs5OQtNB4QNP.jpg"
+            },
+            {
+                "name": "Amanda Christine",
+                "role": "Ronnie Grogan",
+                "image": "https://image.tmdb.org/t/p/w200/ytG5JgrniXLY6elImmzTKjvGtCZ.jpg"
+            },
+            {
+                "name": "Clara Stack",
+                "role": "Lilly Bainbridge",
+                "image": "https://image.tmdb.org/t/p/w200/yMK3IADqV2oReJMKdkrcEIBxdtu.jpg"
+            },
+            {
+                "name": "Chris Chalk",
+                "role": "Dick Hallorann",
+                "image": "https://image.tmdb.org/t/p/w200/j8IpJkLTAhalh5Q356VNojcIAtx.jpg"
+            },
+            {
+                "name": "James Remar",
+                "role": "General Francis Shaw",
+                "image": "https://image.tmdb.org/t/p/w200/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+            },
+            {
+                "name": "Stephen Rider",
+                "role": "Hank Grogan",
+                "image": "https://image.tmdb.org/t/p/w200/tQc7TbCfDawrS0DHiQHxuoVrn4L.jpg"
+            },
+            {
+                "name": "Blake Cameron James",
+                "role": "Will Hanlon",
+                "image": "https://image.tmdb.org/t/p/w200/qM3hkhRmqKVRVi1M9jd8sSEMjXf.jpg"
+            },
+            {
+                "name": "Arian S. Cartaya",
+                "role": "Rich Santos",
+                "image": "https://image.tmdb.org/t/p/w200/9jHTcwpYgEXb1MXxPEDD0csri9J.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Uyumsuz dört çocuk, kayıp sınıf arkadaşlarını bulmaya yemin ederken, Binbaşı Leroy Hanlon, Derry Hava Kuvvetleri Üssü'nde karışık tepkilerle karşılanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uwKrKvprzNW9ACtSB27MlzOpIHL.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Karanlıktaki Şey",
+                "overview": "Charlotte ve Will, Derry'deki yeni hayatlarına uyum sağlamaya çalışırken, Ronnie babasının akıbeti hakkında endişelenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eYjrjLWIwD6qE148NKHKYcdHKjv.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Şimdi Onu Görüyorsun",
+                "overview": "Leroy, Pauly ve Dick yeni bir kazı alanı ararken çocuklar da içinde buludukları fenomene ait görsel kanıt peşine düşerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n4BGtiqwoFYd5ZX3UmdupeENcq.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Gezegenimizin İşleyişindeki Dönen Büyük Düzen",
+                "overview": "Çocukların yaşadıkları dehşet artarken Charlotte, Hank'e kefil olmaya çalışır ve General Shaw çabalarını artırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hBKG3nQJ8NzE9U0U5uKQfQD88XY.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Neibolt Sokağı",
+                "overview": "Askerler Neibolt Sokağı'nı basar, çocuklar da kendi amaçları için kanalizasyona iner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wDTjvS7dTnIko5JukSzgYSa3QQW.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Babam İçin",
+                "overview": "Karanlık imgelerden muzdarip Dick, Kara Leke'de bir sürprizle karşılaşır. Bu arada her çocuk da ayrı bir zorlukla başa çıkmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6phQvyEMeX84oeRznxnJWAM91dz.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Kara Leke",
+                "overview": "Kara Leke'ye yapılan zorba saldırısı uzun zamandır uyuyan güçleri uyandırır. Dick başka bir önemli parçanın ortaya çıkarılmasına yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zOAW0v0WLV7vv636Cx8VfSYSktu.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kış Ateşi",
+                "overview": "General Shaw amacına ulaşmak için zorlaken Hanlon'lar, Rose, Dick ve çocuklar, Derry'yi kurtarmanın onlara kaldığını fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8gqmWZUs4GAH1QfqR2u3aXxX5Q2.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt19244304/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 06:06:21"
+    },
+    {
+        "id": 194741,
+        "imdb_id": "tt18552362",
+        "name": "Parish",
+        "original_name": "Parish",
+        "overview": "Çoğunlukla ABD'nin güney limanlarında belgesiz göçmenleri sömürdüğü bilinen Zimbabveli bir gangsteri almayı kabul eden bir taksi şoförünün hayatı altüst olur.",
+        "poster": "https://image.tmdb.org/t/p/w500/iV1YDLXuJHwhxF85zwaTxXyrzN6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/xu7A4P8c8K2Q7bw2HMUqPTuCQbK.jpg",
+        "year": "2024",
+        "rating": 6.5,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "AMC Plus Apple TV Channel",
+            "AMC+ Roku Premium Channel",
+            "Hoopla",
+            "Spectrum On Demand",
+            "Netflix Standard with Ads",
+            "AMC+",
+            "AMC",
+            "Netflix",
+            "Philo",
+            "Plex Channel"
+        ],
+        "cast": [
+            {
+                "name": "Giancarlo Esposito",
+                "role": "Gracián 'Gray' Parish",
+                "image": "https://image.tmdb.org/t/p/w200/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+            },
+            {
+                "name": "Zackary Momoh",
+                "role": "Shepherd 'The Horse' Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/8dKgzZvLUs29RTaEX9xuReQeJeP.jpg"
+            },
+            {
+                "name": "Paula Malcomson",
+                "role": "Rose Parish",
+                "image": "https://image.tmdb.org/t/p/w200/9lJy6ze86ZfVcBcyBK9UZq8FJiC.jpg"
+            },
+            {
+                "name": "Skeet Ulrich",
+                "role": "Colin Broussard",
+                "image": "https://image.tmdb.org/t/p/w200/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+            },
+            {
+                "name": "Ivan Mbakop",
+                "role": "Zenzo Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/457TZ4Ays9qL0I807cJngbL8M1d.jpg"
+            },
+            {
+                "name": "Bonnie Mbuli",
+                "role": "Shamiso Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/vMpZA7z1PmFy18ggceVEOZKEVLO.jpg"
+            },
+            {
+                "name": "Arica Himmel",
+                "role": "Makayla Parish",
+                "image": "https://image.tmdb.org/t/p/w200/icO52TMiqeHMFPOyQ4GAeWy1YHn.jpg"
+            },
+            {
+                "name": "Dax Rey",
+                "role": "Luke Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/n66YIjCBL4f5iq20E2em50rS06z.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Gray Parish, bir aile babası olarak ömür boyu suç hayatından vazgeçmiş, sorunlu bir geçmişi olan iyi bir adamdır. Ancak oğlu vahşice öldürüldüğünde, eski alışkanlıkları geri döner ve ilgili herkes için tehlikeli sonuçlar doğuran amansız bir arayışa başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Blood in the Water",
+                "overview": "Gray ve Colin büyük bir temizlik konusunda tartışır. Gray, ailesinin artan şüphesinden kaçar. Tongalılar ise yeni bir işin peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Sanctuary",
+                "overview": "Gray'in At'a olan bağlılığı nihai bir teste tabi tutulur. Tongalılar düşmanları hakkında bilgi toplamaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vvYTq3znYpA2aYilrHjPg9M1hF2.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Impimpi",
+                "overview": "Eski bir meslektaşı olan Anton, Gray'in Tongais'lerle çalıştığını öğrendiğinde, Gray'i bir seçim yapmaya zorlayacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3KKJ7QGb4D8O1Sj2tnihzQZwwB1.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kumba",
+                "overview": "Gray ve ailesi geçmiş travmalarıyla yüzleşir. Horse, Gray'e reddedemeyeceği bir teklif sunar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iHnPXCsCLpMUSYX5EcBttyE5QQK.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "A Good Man",
+                "overview": "Gray intikam için her şeyi riske atarken beklenmedik müttefikler keşfeder. Tongais'ler beklenmedik bir aksaklıkla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jWet7hAoBP5Ypjqs1U1EPqeQrb2.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 05:49:32"
+    },
+    {
+        "id": 158300,
+        "imdb_id": "tt18291136",
+        "name": "Knuckles",
+        "original_name": "Knuckles",
+        "overview": "Echidna savaşçısı Knuckles'ın, Şerif Yardımcısı Wade Whipple'ı kendi himayesine alıp bir savaşçı olarak eğitmesini anlatıyor. Bu süreçte ikili, komik ve aksiyon dolu bir kendini keşfetme yolculuğuna çıkıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/sK6Nr6KNUA4WlAHyNBTioz9FK87.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/aMpNvgWjPimLldhKgwtCt5NjLen.jpg",
+        "year": "2024",
+        "rating": 7.3,
+        "genres": [
+            "Aksiyon & Macera",
+            "Aile",
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "TV+",
+            "Paramount Plus Essential",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Idris Elba",
+                "role": "Knuckles the Echidna (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+            },
+            {
+                "name": "Adam Pally",
+                "role": "Wade Whipple",
+                "image": "https://image.tmdb.org/t/p/w200/yY13PEaVbPoXT5MkitVxTfdAZnU.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Knuckles, Green Hills'deki yeni hayatına uyum sağlamakta zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vwlsLPevEifCNHcxHdzouDiuv9k.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Wade muhteşem bir kurtarma görevi planlarken, Knuckles onu kaçıranlarla yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jV11mJfDdJOwMokzVyGHyjBFeiA.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Kanun kaçakları olan Knuckles ve Wade, Wade'in ailesiyle birlikte saklanırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vNZH7P192kBz7sBXWch4JnRApkA.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Knuckles'ın gerçek gücünün nerede yattığını öğrenebilmek için Wade'in dünyayı onun gözünden görmesi gerekiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xItrifyZP2S1XDTnaPMZuzVmhg.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Knuckles ve Wade, Ulusal Bowling Şampiyonası için Reno, Nevada'ya varıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/toxeVznzxqSDZPCtueUEGoR9gNE.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Knuckles ve Wade arasındaki dostluk sınanıyor, eski ve yeni düşmanlar Reno'da bir araya geliyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/leDsP0biTb7IbXjGo1K8sD8TeyT.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt18291136/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 05:38:26"
+    },
+    {
         "id": 1402,
         "imdb_id": "tt1520211",
         "name": "The Walking Dead",

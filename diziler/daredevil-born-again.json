@@ -2,21 +2,144 @@
     "id": 202555,
     "imdb_id": "tt18923754",
     "name": "Daredevil: Born Again",
+    "original_name": "Daredevil: Born Again",
+    "overview": "Gelişmiş yeteneklere sahip kör bir avukat olan Matt Murdock, hareketli bir hukuk bürosunda adalet için mücadele ederken, eski mafya babası Wilson Fisk New York'ta kendi siyasi çabalarını sürdürmektedir. Geçmişteki kimlikleri ortaya çıkmaya başlayınca her iki adam da kendilerini kaçınılmaz bir ihtilaf halinde bulur.",
     "poster": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
     "year": "2025",
+    "rating": 8.0,
     "genres": [
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Disney+"
+    ],
     "cast": [
-        "Charlie Cox",
-        "Vincent D'Onofrio"
+        {
+            "name": "Charlie Cox",
+            "role": "Matt Murdock / Daredevil",
+            "image": "https://image.tmdb.org/t/p/w200/jBHDZ8MA4I7krNQx4IfqdfPfleD.jpg"
+        },
+        {
+            "name": "Vincent D'Onofrio",
+            "role": "Wilson Fisk",
+            "image": "https://image.tmdb.org/t/p/w200/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+        },
+        {
+            "name": "Margarita Levieva",
+            "role": "Heather Glenn",
+            "image": "https://image.tmdb.org/t/p/w200/7rSf7C5oKuvjgEBfe2GVv064Le.jpg"
+        },
+        {
+            "name": "Wilson Bethel",
+            "role": "Benjamin Poindexter / Bullseye",
+            "image": "https://image.tmdb.org/t/p/w200/xHLjGi9onJXwHoZALZ9pLBVnH5x.jpg"
+        },
+        {
+            "name": "Deborah Ann Woll",
+            "role": "Karen Page",
+            "image": "https://image.tmdb.org/t/p/w200/btTnyvRLXOH0pz2SLBwyKbmnFhX.jpg"
+        },
+        {
+            "name": "Krysten Ritter",
+            "role": "Jessica Jones",
+            "image": "https://image.tmdb.org/t/p/w200/iF9jsrcY39uDzJnAbi3FW056D7u.jpg"
+        },
+        {
+            "name": "Matthew Lillard",
+            "role": "Mr. Charles",
+            "image": "https://image.tmdb.org/t/p/w200/auUbijDzR9xpSgQtLsYDvNatloj.jpg"
+        },
+        {
+            "name": "Ayelet Zurer",
+            "role": "Vanessa Fisk",
+            "image": "https://image.tmdb.org/t/p/w200/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Cennette Yarım Saat",
+            "overview": "Matt Murdock kahramanlığı bırakır. Wilson Fisk gözünü daha yükseklere diker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cbOOHuurtiG7XluczaWr0y9SO1q.jpg",
+            "vote_average": 8.0,
             "link": "https://vidmody.com/vs/tt18923754/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Algı",
+            "overview": "Matt’in yeni müvekkili göründüğünden fazlasıdır. Fisk, algının gücünü keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qOJE3sylDFZpA8FzDkD9Z2sfAw8.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt18923754/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Tanrı'nın Gözetimi",
+            "overview": "Hector Ayala’nın davası başlar. Fisk’in eski ortakları onun boş koltuğunu göz diker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3hmYkDPhwbQHXrSfIwF4fqPPkox.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt18923754/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Sic Semper Systema",
+            "overview": "Matt Murdock ve Wilson Fisk’in karanlık tarafları serbest kalmak için savaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2R9R09snm4TxuDYVvYexiosMBaf.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt18923754/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Faiziyle",
+            "overview": "Matt Murdock'ın günü gittikçe zorlaşır ve tanıdık bir sima ile iş birliği yapmaya zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kV83MLFfJHyiSAaTgituymMReoN.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt18923754/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Aşırı Güç",
+            "overview": "Bir seri katil New York'u dehşete boğarken şehir bir kurtarıcıya ihtiyaç duyar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pAFBzoRUqhF48q907Kk4tB4zgr7.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt18923754/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Sanat Sanat İçindir",
+            "overview": "Daredevil geri döner ve Muse'u durdurmak için Fisk ile yarışa girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tJelpQdDGxnFK4xSyg5ajvbMo3q.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt18923754/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Neşe Adası",
+            "overview": "Belediye Başkanı Fisk, Resmi Açılış Balosu'nda, New York’taki hakimiyetini artırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dVGlvHP6gjyr8DLYYpBpZIXypd.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt18923754/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Cehenneme Doğru",
+            "overview": "Başkan Fisk, Başkan Kingpin olur. Şehir kaosa sürüklenirken Daredevil zincirlerinden kurtulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6RqhDNvIXj1HQkSylAIvoN0qcs5.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt18923754/s1/e09"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 05:59:59"
 }

@@ -2,24 +2,146 @@
     "id": 270734,
     "imdb_id": "tt19853270",
     "name": "Murdaugh: Death in the Family",
+    "original_name": "Murdaugh: Death in the Family",
+    "overview": "",
     "poster": "https://image.tmdb.org/t/p/w500/fqNT4hsPdA0999NEMuLVeja4Cm2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pIbemkVivwk1SKVvmKlo53edMZt.jpg",
     "year": "2025",
+    "rating": 6.7,
     "genres": [
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Hulu",
+        "Disney+"
+    ],
     "cast": [
-        "Patricia Arquette",
-        "Jason Clarke",
-        "J. Smith-Cameron",
-        "Will Harrison",
-        "Johnny Berchtold"
+        {
+            "name": "Patricia Arquette",
+            "role": "Maggie Murdaugh",
+            "image": "https://image.tmdb.org/t/p/w200/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+        },
+        {
+            "name": "Jason Clarke",
+            "role": "Alex Murdaugh",
+            "image": "https://image.tmdb.org/t/p/w200/ma1BPr7pjzgxmYkHFlkMJLQDPC5.jpg"
+        },
+        {
+            "name": "J. Smith-Cameron",
+            "role": "Marian Proctor",
+            "image": "https://image.tmdb.org/t/p/w200/7DlYGLX5oywXpyvCsDZpOsWYpbg.jpg"
+        },
+        {
+            "name": "Will Harrison",
+            "role": "Buster Murdaugh",
+            "image": "https://image.tmdb.org/t/p/w200/cBVQp3Q0nFl5dmeGVQJQYHImRkw.jpg"
+        },
+        {
+            "name": "Johnny Berchtold",
+            "role": "Paul Murdaugh",
+            "image": "https://image.tmdb.org/t/p/w200/tGKPmmdo6ASnNx0GoHiGgDvnndJ.jpg"
+        },
+        {
+            "name": "Brittany Snow",
+            "role": "Mandy Matney",
+            "image": "https://image.tmdb.org/t/p/w200/uSQW2E7caOaXHBbvL2jdzGbwDwH.jpg"
+        },
+        {
+            "name": "Noah Emmerich",
+            "role": "Randy Murdaugh",
+            "image": "https://image.tmdb.org/t/p/w200/qwPPHYWJ3a9yRwFXicbbHsf60Nm.jpg"
+        },
+        {
+            "name": "Kathleen Wilhoite",
+            "role": "Gloria Satterfield",
+            "image": "https://image.tmdb.org/t/p/w200/uAkw5E8PJMALLW8yUmDqEOcQCuZ.jpg"
+        },
+        {
+            "name": "Tommy Dewey",
+            "role": "Mark Tinsle",
+            "image": "https://image.tmdb.org/t/p/w200/piIRDfyUEpgBL651qZmmrGx4Vhg.jpg"
+        },
+        {
+            "name": "Gerald McRaney",
+            "role": "Randolph Murdaugh",
+            "image": "https://image.tmdb.org/t/p/w200/eSh98sG5yTgXrYVTW6G8ptuQ3lj.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/3C7xORNBYuO3jsVmt7SqfxO57XQ.jpg",
+            "vote_average": 8.0,
             "link": "https://vidmody.com/vs/tt19853270/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/2AA2u4Gn7YcJNZc3O32cyTjbzxy.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt19853270/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/2SVNk66ukmjtGDDJKPaNLyNHsmK.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt19853270/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/ceXZWoaIc61BzCsRJJTk1mUaqk.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt19853270/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/BYfQkswjjTA8V6UeMrDwjFo1xE.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt19853270/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/464fGpvWwNbdnostLOoKrLRU8yw.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt19853270/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/fOITp64VYb6kkWNX9wqTyG7KPkF.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt19853270/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/nKcQDgoKQTsJQToGDdCL5N5fD0l.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt19853270/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 06:21:11"
 }

@@ -1,0 +1,169 @@
+[
+    {
+        "id": 135894,
+        "imdb_id": "tt18265192",
+        "name": "그리드",
+        "original_name": "그리드",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/4oh6P9jF9KoBq6Xw7dukjUQiPGJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/w3jA7mvNW2TjrnNCe2MmTzV7rtY.jpg",
+        "year": "2022",
+        "rating": 7.0,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Gizem",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "서강준",
+                "role": "Kim Sae-ha",
+                "image": "https://image.tmdb.org/t/p/w200/a73St97D7GmJteo3s3rNKxQWk7a.jpg"
+            },
+            {
+                "name": "김아중",
+                "role": "Jung Sae-byeok",
+                "image": "https://image.tmdb.org/t/p/w200/iy3zJ4fXaDdF9EsCsfVbG4LSgGE.jpg"
+            },
+            {
+                "name": "이시영",
+                "role": "Ghost",
+                "image": "https://image.tmdb.org/t/p/w200/dPdd6o587UaGuDRlAN4XqdXWbGy.jpg"
+            },
+            {
+                "name": "김무열",
+                "role": "Song Eo-jin",
+                "image": "https://image.tmdb.org/t/p/w200/7SoxNZ826OzxV7WBplJWud8WhOr.jpg"
+            },
+            {
+                "name": "장소연",
+                "role": "Choi Sun-wool",
+                "image": "https://image.tmdb.org/t/p/w200/f6P6S8MIVAsoyzuqvT63DF1iahy.jpg"
+            },
+            {
+                "name": "김성균",
+                "role": "Kim Ma-nok",
+                "image": "https://image.tmdb.org/t/p/w200/pii4fmXdkSEppsHSIhJ9jV5izX1.jpg"
+            },
+            {
+                "name": "허준석",
+                "role": "Im Ji-Yoo",
+                "image": "https://image.tmdb.org/t/p/w200/7UFyGXrKPDeAICdUUcmJaApyy9h.jpg"
+            },
+            {
+                "name": "이규회",
+                "role": "Han Wi Han",
+                "image": "https://image.tmdb.org/t/p/w200/rf0Qca9sVYFaxTN00Yf5jctMyj7.jpg"
+            },
+            {
+                "name": "Song Sang-eun",
+                "role": "Chae Jong-Yi",
+                "image": "https://image.tmdb.org/t/p/w200/vAnDRoj5fiDtXowKQq30oYNNPtD.jpg"
+            },
+            {
+                "name": "김형묵",
+                "role": "Jo Heung-Shik",
+                "image": "https://image.tmdb.org/t/p/w200/iFDFDCActOFrsdUbdv1xlLEh2yr.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jSImZwqZhX0eS8YoNC13AtgRUjc.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jzkqgjljayI9JfiqcVOX1864bcP.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jPgRmjjYXiG9OeUmB73oJgpoCEu.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/vYYbNQiWptW06QBy0Dut9YnCEiB.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5g1nsJXk7NZcXEir5VRoz7rz1Gi.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/z73ylKp8TzDYw3LD80yrFcv6Yxp.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2GiUHSrsJGnHj4xJ2YbdiBvNxBF.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/8Iu74vE8eh8xCO2Phs5WgYbsAoe.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/yfSuUGKX2hiIxvcNgQxEQdiFX67.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ux4DczmAK5BfLOlYIrBlieOO7KK.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt18265192/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 05:36:41"
+    }
+]
