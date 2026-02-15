@@ -2,23 +2,71 @@
     "id": 304199,
     "imdb_id": "tt39266137",
     "name": "Heaven",
-    "poster": "https://image.tmdb.org/t/p/w500/md5icWQyzD9jaVBenpr0gvvnRSB.jpg",
+    "original_name": "Niebo",
+    "overview": "Bekâr bir annenin büyüttüğü Sebastian, anlam arıyor. Bunu, Cennet olarak bilinen bir komüne liderlik eden, kendini guru ilan eden Piotr'da bulur.",
+    "poster": "https://image.tmdb.org/t/p/w500/nEPHznUswIcS7f5nVxIv6GogFtb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5D8xbKFrh9pqVUhjXVGZMpfqjwv.jpg",
     "year": "2025",
+    "rating": 4.2,
     "genres": [
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "HBO Max"
+    ],
     "cast": [
-        "Stanisław Linowski",
-        "Tomasz Kot",
-        "Magdalena Różczka",
-        "Zofia Jastrzębska"
+        {
+            "name": "Stanisław Linowski",
+            "role": "Sebastian Keller",
+            "image": "https://image.tmdb.org/t/p/w200/wf3P8fMUIwKMkq6yTrs89lbOCYe.jpg"
+        },
+        {
+            "name": "Tomasz Kot",
+            "role": "Piotr",
+            "image": "https://image.tmdb.org/t/p/w200/k4LgSV1p2FI8xhFwNOzBcDcEX7s.jpg"
+        },
+        {
+            "name": "Magdalena Różczka",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/7oh7C2212ZI28YmSIkyPnuMi0wV.jpg"
+        },
+        {
+            "name": "Zofia Jastrzębska",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/pB4rCXhLpRv0F9MYN7uodyc0NvX.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Hastalık ve kargaşadan sonra kaybolan genç ve hassas Sebastian, Piotr adında karizmatik bir şifacının büyüsüne kapılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uEYfs4cSZzbS5X1T5apze8lMjDw.jpg",
+            "vote_average": 10.0,
             "link": "https://vidmody.com/vs/tt39266137/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Sebastian, Cennet topluluğuna iyice gömülür ve gerçeklikle bağı kopar. Piotr'un karizmasının büyüsüne kapılarak eski hayatıyla bağlarını koparır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vQJqskazkrVRRyaQY60WZwg9XfW.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt39266137/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Piotr'un topluluğu, bir tarikata dönüşümünü tamamlar. Bir zamanlar iyileştirmesi gereken inanç, bir tahakküm ve kontrol silahı hâline gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2ZImcXXpcEU5j9hYSZbESXRxAoz.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt39266137/s1/e03"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 13:55:32"
 }

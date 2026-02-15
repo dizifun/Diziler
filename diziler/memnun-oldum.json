@@ -2,24 +2,219 @@
     "id": 285770,
     "imdb_id": "tt37506062",
     "name": "Memnun Oldum",
+    "original_name": "얄미운 사랑",
+    "overview": "Lim Hyeon-jun, oyunculuktan uzaklaştıktan sonra mucizevi şekilde yıldızlığa yükselir. Melodram ustası olmayı hayal etse de dedektif rolleriyle sıkışıp kalır. Bu sırada siyasetten magazin servisine sürülen muhabir Wi Jeong-sin hayatına girer. İlk anda çatışsalar da Jeong-sin, “İyi Dedektif Kang Pil-gu”yu izledikten sonra hayranı olur. Böylece iki rakip arasında romantik bir komedi başlar.",
     "poster": "https://image.tmdb.org/t/p/w500/5YCWOoPczXrAewbIYoOpnbvyORG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/xiWu9f9jP2NSmXu2hWzrtafrpQ.jpg",
     "year": "2025",
+    "rating": 7.6,
     "genres": [
         "Komedi",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "tvN",
+        "Amazon Prime",
+        "Kore"
+    ],
     "cast": [
-        "이정재",
-        "임지연",
-        "김지훈",
-        "서지혜",
-        "최귀화"
+        {
+            "name": "이정재",
+            "role": "Lim Hyeon-jun",
+            "image": "https://image.tmdb.org/t/p/w200/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+        },
+        {
+            "name": "임지연",
+            "role": "Wi Jeong-sin",
+            "image": "https://image.tmdb.org/t/p/w200/nUdLruXK0lcjLBNcpK8eNxXwyF6.jpg"
+        },
+        {
+            "name": "김지훈",
+            "role": "Lee Jae-hyeong",
+            "image": "https://image.tmdb.org/t/p/w200/8aDGLz92eaTcz6y31IeKmKNSAV8.jpg"
+        },
+        {
+            "name": "서지혜",
+            "role": "Yun Hwa-yeong",
+            "image": "https://image.tmdb.org/t/p/w200/55PUL5Yo6hoD2WJO5ysOiYULopg.jpg"
+        },
+        {
+            "name": "최귀화",
+            "role": "Hwang Ji-sun",
+            "image": "https://image.tmdb.org/t/p/w200/aYiS6jQNNmOSfzcobDs12pLOOjj.jpg"
+        },
+        {
+            "name": "Kim Hyun-jin",
+            "role": "Lim Seon-u",
+            "image": "https://image.tmdb.org/t/p/w200/2bKZb6DK01ERmBciiTlMEMnisKl.jpg"
+        },
+        {
+            "name": "진호은",
+            "role": "Wi Hong-sin",
+            "image": "https://image.tmdb.org/t/p/w200/qUbjtCCnltqTXaK4hZUHOdUBDMl.jpg"
+        },
+        {
+            "name": "전성우",
+            "role": "Bak Byeong-gi",
+            "image": "https://image.tmdb.org/t/p/w200/wpUQNHwwx6icC0zLdQQDruelvA8.jpg"
+        },
+        {
+            "name": "나영희",
+            "role": "Seong Ae-suk",
+            "image": "https://image.tmdb.org/t/p/w200/sVuIgKFg7i6MlNapbhmKsCspAC.jpg"
+        },
+        {
+            "name": "전수경",
+            "role": "Oh Mi-ran",
+            "image": "https://image.tmdb.org/t/p/w200/aCU4zek584nZscfrymE8hgDBIXT.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Eski yükselen yıldız Hyeon-jun, bir öğrenci filmiyle parlayıp, 7 yıl sessiz kalır. Gizli muhabir Jeong-sin’in hayatına girmesiyle her şey değişir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9qSonA8UnPZmlUVqzfkJQZ1mMHS.jpg",
+            "vote_average": 7.0,
             "link": "https://vidmody.com/vs/tt37506062/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Kırmızı halı kavgası sonrası magazin servisine sürülen Jeong-sin, Hyeon-jun’un sırlarını açığa çıkarır; kovulunca intikam yemini eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/icdwd7w8v5dw3hMv3lGF3aZ6hCc.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Hyeon-jun gittikçe sapıtırken annesi Ae-suk çıkagelir. Hwa-yeong onu Jeong-sin'in hastanesinde görüp haber karşılığı transfer teklif eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/glJqNUkSDQubqTeE5yGi35n7xOC.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Jeong-sin, yetişkin film oyuncularıyla ilgili yazısında Hyeon-jun’un hastane odasında gördüğü Ae-suk’tan bahseder. Haber çıkınca ortalık karışır!",
+            "still_path": "https://image.tmdb.org/t/p/w400/1BbTmEdP9YFIY918FTUFkZ4ktOq.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/dJ4PgUdjcxRT6Z23QiJpxCWCeFr.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/26fvdZmjEjeMOzm3OsMP17ttd0f.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/raWvxE6HRmqsCXLWg4kqH6XAtf6.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/rdLyBboKYoavpkkTdufOXvYLoXX.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/4fZyA8c14wBPkJUkAmKFYPcX3RR.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/cfUjq0EWdlPFO13md7Jnlk8VKBd.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/y3gjRqBECOxRbQV111rgdCkTVp5.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/4FgeiZXn8MUwA7dVnFbj1owWEs7.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e12"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/rcGWF9A4C5JkdNVizZwNt9FLFE8.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e13"
+        },
+        {
+            "season": 1,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/6rj3kv4UlLkMC4RBz2p3pBKEuxm.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e14"
+        },
+        {
+            "season": 1,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/bfa4w4IuQhBp945RRzWT3CJoUIk.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e15"
+        },
+        {
+            "season": 1,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/3fRQiFhZjIBAQyFu9zeoi7ikB6k.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37506062/s1/e16"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 13:25:25"
 }

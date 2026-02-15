@@ -1,5 +1,654 @@
 [
     {
+        "id": 280948,
+        "imdb_id": "tt39137681",
+        "name": "Bahar Esintisi",
+        "original_name": "스프링 피버",
+        "overview": "Bahar Esintisi: Baharda esen, bazen insanları hasta eden serin bir esinti. Buz gibi bir kalbe sahip öğretmen Yoon Bom küçük bir köy okuluna gelir ve Sun Jae-gyu'nun sıcakkanlılığı sayesinde mutluluğu yavaş yavaş yeniden bulur.",
+        "poster": "https://image.tmdb.org/t/p/w500/z7qBomUexU29AJnK0xxMnczF0Ad.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/nRxbtO6OchyepUL2Zr4dpMZsdsX.jpg",
+        "year": "2026",
+        "rating": 8.0,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Prime Video",
+            "tvN",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "안보현",
+                "role": "Seon Jae-gyu",
+                "image": "https://image.tmdb.org/t/p/w200/2pNNCnjI1TwxjyP3Y4cJln1wOKE.jpg"
+            },
+            {
+                "name": "이주빈",
+                "role": "Yoon Bom",
+                "image": "https://image.tmdb.org/t/p/w200/rO9UM65KgxfacCY3IsrHheOFBpZ.jpg"
+            },
+            {
+                "name": "차서원",
+                "role": "Choi Yi-joon",
+                "image": "https://image.tmdb.org/t/p/w200/tyezR9xwN8QF6lOSURL34cRMMzB.jpg"
+            },
+            {
+                "name": "조준영",
+                "role": "Seon Han-gyeol",
+                "image": "https://image.tmdb.org/t/p/w200/xHNIgkCoFLN9tJZbcPq8M325GXc.jpg"
+            },
+            {
+                "name": "이재인",
+                "role": "Choi Se-jin",
+                "image": "https://image.tmdb.org/t/p/w200/5gdJ9n6rJZZyGGaMw3Hcr52zQMU.jpg"
+            },
+            {
+                "name": "나영희",
+                "role": "Jeong Nan-hee",
+                "image": "https://image.tmdb.org/t/p/w200/sVuIgKFg7i6MlNapbhmKsCspAC.jpg"
+            },
+            {
+                "name": "조승연",
+                "role": "Yoon Jeong-ki",
+                "image": "https://image.tmdb.org/t/p/w200/lBWyQfK4PPzJO3IDRjpv0ilN6nw.jpg"
+            },
+            {
+                "name": "Im Su-hyung",
+                "role": "Oh Seong-tae",
+                "image": "https://image.tmdb.org/t/p/w200/9YBaSBTpw0FfEvp0co5xTVOEjx8.jpg"
+            },
+            {
+                "name": "진경",
+                "role": "Seo Hye-sook",
+                "image": "https://image.tmdb.org/t/p/w200/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg"
+            },
+            {
+                "name": "배정남",
+                "role": "Jeong Jin-hyeok",
+                "image": "https://image.tmdb.org/t/p/w200/m4DnODpzR5850HZZTnNQyPwyhQQ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Senin Amcan... O Adam Mı?",
+                "overview": "Yoon Bom, Shinsu adlı küçük sahil kasabasında herkesin merakını uyandırır. Seul'den başarılı bir öğretmenin neden burada olduğunu kimse bilmemektedir. Ama herkesin dikkati aniden kasabanın meşhur ismi Sun Jae-gyu'ya yönelir. Onun gelişiyle Bom'un sakin hayatı altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uOTbf7hvWzapH00Omwaxq6wIa4c.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt39137681/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Senin Amcanın... İşi Mi Var?",
+                "overview": "Jae-gyu'nun hareketleri tanıdık gelmektedir ama Bom bunun nedenini tam olarak çözemez. Bu arada, Han-gyul yüzünden sürekli ikinci planda kalmaktan bıkan Se-jin ortadan kaybolur. Bom ve Jae-gyu onu bulmak için Seul'e gider. Jae-gyu'nun kritik bir anda aniden ortaya çıkışı Bom'un hafızasında bir kapıyı açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ly00dZMYpi2kfiEHP2FGml1DlkC.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt39137681/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Senin Amcan... Baba Mı?",
+                "overview": "Bom, Jae-gyu'nun sürpriz bir yönünü fark eder ve aslında o kadar da kötü biri olmayabileceğini düşünmeye başlar. Sonra kasabada şoke edici bir söylenti yayılır. Jae-gyu aslında Han-gyul'un amcası değil, babasıdır! Bu haberin ağırlığı karşısında gerçekle yüzleşmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/11QSmQjpkw628Q2JdbbSciUF0Gu.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt39137681/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Senin Amcan... Vâris Mi?",
+                "overview": "Sırlarını Jae-gyu'nun bildiğini fark eden Bom'un kalbi tekrar buz keser. Etrafına soğuk bir duvar örer ve hayatından uzak durmasını söyler. Yanlış anlaşılmayı gidermeye kararlı olan Jae-gyu, onu geri kazanmak için en büyük hamlesini yapar. Acaba Bom'un kalbini yumuşatmayı başarabilecek midir?",
+                "still_path": "https://image.tmdb.org/t/p/w400/zai8S0kFoXs38o6ZoCFhIOC4dmG.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt39137681/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 13:53:16"
+    },
+    {
+        "id": 284744,
+        "imdb_id": "tt39012462",
+        "name": "Pro Bono",
+        "original_name": "프로보노",
+        "overview": "Saygın bir hâkimin dünyası bir gecede altüst olunca önde gelen bir hukuk bürosunun gönüllü ekibine katılarak umudun beklenmedik köşelerde sessizce beklediği bir dünyaya adım atar.",
+        "poster": "https://image.tmdb.org/t/p/w500/sNGKN7Nvdi85gj75pnSvqzMF3MC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
+        "year": "2025",
+        "rating": 8.2,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "tvN",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "정경호",
+                "role": "Kang Da-wit",
+                "image": "https://image.tmdb.org/t/p/w200/fanLZsECF5nDy17HkhcdoLJjPaw.jpg"
+            },
+            {
+                "name": "소주연",
+                "role": "Park Gi-ppeum",
+                "image": "https://image.tmdb.org/t/p/w200/2pRaLYEJq673t9CAYaEl8K131qR.jpg"
+            },
+            {
+                "name": "이유영",
+                "role": "Oh Jeong-in",
+                "image": "https://image.tmdb.org/t/p/w200/16E3VXh5mubkKuRZPOELAESkJ4H.jpg"
+            },
+            {
+                "name": "윤나무",
+                "role": "Jang Yeong Sil",
+                "image": "https://image.tmdb.org/t/p/w200/vXQA20pwMw0TwDB3GlW1WBcucJm.jpg"
+            },
+            {
+                "name": "강형석",
+                "role": "Hwang Jun U",
+                "image": "https://image.tmdb.org/t/p/w200/xclHffQgjyMTCO0KWTopkkDHvX5.jpg"
+            },
+            {
+                "name": "서혜원",
+                "role": "Yoo Nan Hui",
+                "image": "https://image.tmdb.org/t/p/w200/rhAhBIlJQL0ejI7cwIIxyrESE2W.jpg"
+            },
+            {
+                "name": "최대훈",
+                "role": "Woo Myeong Hun",
+                "image": "https://image.tmdb.org/t/p/w200/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
+            },
+            {
+                "name": "김갑수",
+                "role": "Oh Gyoo-jang",
+                "image": "https://image.tmdb.org/t/p/w200/u5Y4oC2qKPD2Xsw5JsC8vHQRo8s.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Kang Da-wit'in yargıç olarak yükselişi, bir skandalın ardından aniden sona erer. Ancak çok daha az gösterişli bir fırsat, ona beklenmedik yeni bir başlangıç şansı sunar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wumy9RzFNDUSmhaCL3unFYrUzMk.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Başlangıçta mücadeleci bir ekibe liderlik etmek istemeyen Da-wit, çalınan bir sokak köpeğiyle ilgili bir davayı üstlenir; ancak sıra dışı taktikleri herkesi şaşkına çevirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xgmlujgEB8N8vFahGbtuAUJwAvC.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Sık sık çatışsalar da Da-wit ve gönüllü ekip, kendi aralarında uyumu yakalamaya başlar. Kısa süre sonra, müşteri olarak bir çocuk gelir ve imkânsız bir talepte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zb9UDGYPvnbas40frUryuuYwIdB.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Engelli çocuğun davası görülürken Da-wit, mahkemeyi bir teste tabi tutar. Bu sırada çocuğun değerinin ne olduğu sorusu da mercek altına alınır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xelJMXVMKrQDIk3jMdIftItUHj0.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/38S68bfQMIleEodR1MGOgvVYLtD.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ahJRA970AkYdhW4RjGYXdt3mESy.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6TWTI9eY4zWwS5gMUSfHtHpRfpF.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/sREtF7Tf8OivoBff2N80krG4foL.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/955cFulSIekdG5iYdkcwJG00YE3.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/qYP3QOqercPJ0hxKRQVDCWHZeXq.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/y8eOd28keMN1twrADKxcnpovqA4.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt39012462/s1/e11"
+            }
+        ],
+        "update_date": "2026-02-15 13:50:14"
+    },
+    {
+        "id": 285770,
+        "imdb_id": "tt37506062",
+        "name": "Memnun Oldum",
+        "original_name": "얄미운 사랑",
+        "overview": "Lim Hyeon-jun, oyunculuktan uzaklaştıktan sonra mucizevi şekilde yıldızlığa yükselir. Melodram ustası olmayı hayal etse de dedektif rolleriyle sıkışıp kalır. Bu sırada siyasetten magazin servisine sürülen muhabir Wi Jeong-sin hayatına girer. İlk anda çatışsalar da Jeong-sin, “İyi Dedektif Kang Pil-gu”yu izledikten sonra hayranı olur. Böylece iki rakip arasında romantik bir komedi başlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/5YCWOoPczXrAewbIYoOpnbvyORG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/xiWu9f9jP2NSmXu2hWzrtafrpQ.jpg",
+        "year": "2025",
+        "rating": 7.6,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "tvN",
+            "Amazon Prime",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "이정재",
+                "role": "Lim Hyeon-jun",
+                "image": "https://image.tmdb.org/t/p/w200/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+            },
+            {
+                "name": "임지연",
+                "role": "Wi Jeong-sin",
+                "image": "https://image.tmdb.org/t/p/w200/nUdLruXK0lcjLBNcpK8eNxXwyF6.jpg"
+            },
+            {
+                "name": "김지훈",
+                "role": "Lee Jae-hyeong",
+                "image": "https://image.tmdb.org/t/p/w200/8aDGLz92eaTcz6y31IeKmKNSAV8.jpg"
+            },
+            {
+                "name": "서지혜",
+                "role": "Yun Hwa-yeong",
+                "image": "https://image.tmdb.org/t/p/w200/55PUL5Yo6hoD2WJO5ysOiYULopg.jpg"
+            },
+            {
+                "name": "최귀화",
+                "role": "Hwang Ji-sun",
+                "image": "https://image.tmdb.org/t/p/w200/aYiS6jQNNmOSfzcobDs12pLOOjj.jpg"
+            },
+            {
+                "name": "Kim Hyun-jin",
+                "role": "Lim Seon-u",
+                "image": "https://image.tmdb.org/t/p/w200/2bKZb6DK01ERmBciiTlMEMnisKl.jpg"
+            },
+            {
+                "name": "진호은",
+                "role": "Wi Hong-sin",
+                "image": "https://image.tmdb.org/t/p/w200/qUbjtCCnltqTXaK4hZUHOdUBDMl.jpg"
+            },
+            {
+                "name": "전성우",
+                "role": "Bak Byeong-gi",
+                "image": "https://image.tmdb.org/t/p/w200/wpUQNHwwx6icC0zLdQQDruelvA8.jpg"
+            },
+            {
+                "name": "나영희",
+                "role": "Seong Ae-suk",
+                "image": "https://image.tmdb.org/t/p/w200/sVuIgKFg7i6MlNapbhmKsCspAC.jpg"
+            },
+            {
+                "name": "전수경",
+                "role": "Oh Mi-ran",
+                "image": "https://image.tmdb.org/t/p/w200/aCU4zek584nZscfrymE8hgDBIXT.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Eski yükselen yıldız Hyeon-jun, bir öğrenci filmiyle parlayıp, 7 yıl sessiz kalır. Gizli muhabir Jeong-sin’in hayatına girmesiyle her şey değişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9qSonA8UnPZmlUVqzfkJQZ1mMHS.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Kırmızı halı kavgası sonrası magazin servisine sürülen Jeong-sin, Hyeon-jun’un sırlarını açığa çıkarır; kovulunca intikam yemini eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/icdwd7w8v5dw3hMv3lGF3aZ6hCc.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Hyeon-jun gittikçe sapıtırken annesi Ae-suk çıkagelir. Hwa-yeong onu Jeong-sin'in hastanesinde görüp haber karşılığı transfer teklif eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/glJqNUkSDQubqTeE5yGi35n7xOC.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Jeong-sin, yetişkin film oyuncularıyla ilgili yazısında Hyeon-jun’un hastane odasında gördüğü Ae-suk’tan bahseder. Haber çıkınca ortalık karışır!",
+                "still_path": "https://image.tmdb.org/t/p/w400/1BbTmEdP9YFIY918FTUFkZ4ktOq.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dJ4PgUdjcxRT6Z23QiJpxCWCeFr.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/26fvdZmjEjeMOzm3OsMP17ttd0f.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/raWvxE6HRmqsCXLWg4kqH6XAtf6.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rdLyBboKYoavpkkTdufOXvYLoXX.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4fZyA8c14wBPkJUkAmKFYPcX3RR.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/cfUjq0EWdlPFO13md7Jnlk8VKBd.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/y3gjRqBECOxRbQV111rgdCkTVp5.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4FgeiZXn8MUwA7dVnFbj1owWEs7.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rcGWF9A4C5JkdNVizZwNt9FLFE8.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e13"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6rj3kv4UlLkMC4RBz2p3pBKEuxm.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e14"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bfa4w4IuQhBp945RRzWT3CJoUIk.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e15"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "name": "16. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3fRQiFhZjIBAQyFu9zeoi7ikB6k.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37506062/s1/e16"
+            }
+        ],
+        "update_date": "2026-02-15 13:25:25"
+    },
+    {
+        "id": 259710,
+        "imdb_id": "tt37262316",
+        "name": "Özgüven Kraliçesi",
+        "original_name": "컨피던스 맨 KR",
+        "overview": "Kurnaz kötüler ve sessiz kurbanlarla dolu bir dünyada üç dolandırıcı açgözlülükle mücadele ediyor. Sadece kötülerden çalıyor, asla intikam peşinde koşmuyorlar. Ya suç bir oyun, adalet zekice bir numara olursa? Özgüven Kraliçesi dünyasına hoş geldiniz. Etkileyici lider Yi-rang, tecrübeli profesyonel James ve sıradan Gu-ho'yla tanışın. Unutmayın, gördüğünüze ve bir dolandırıcıya asla kanmayın.",
+        "poster": "https://image.tmdb.org/t/p/w500/7oIFAu6NDYtryLsu4cjxdTiMkAP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/brugu6L6cGP7I0G1EH7id46brj2.jpg",
+        "year": "2025",
+        "rating": 7.5,
+        "genres": [
+            "Suç",
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV Chosun",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "박민영",
+                "role": "Yoon Yi-rang",
+                "image": "https://image.tmdb.org/t/p/w200/5Op0Gx0DULFLHtGdWVdqnYdwkAS.jpg"
+            },
+            {
+                "name": "박희순",
+                "role": "James",
+                "image": "https://image.tmdb.org/t/p/w200/s2SSzvlsSfCPP5EXhCoWUr8970F.jpg"
+            },
+            {
+                "name": "주종혁",
+                "role": "Myung Gu-ho",
+                "image": "https://image.tmdb.org/t/p/w200/xOx3f9y4rLa84AMglgejC6spEQD.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Hızlı Arama 0",
+                "overview": "Yi-rang, James ve Gu-ho bir kötüyü daha indiriyor. Birden Gu-ho dolandırıcılığı bıraktığını açıklayıp ekipten ayrılıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uVbVXPJwrlFagmrwSLJxOJucoz4.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kum Vakfı",
+                "overview": "Yi-rang ve Gu-ho, komadaki James'in intikamını almaya Filipinler'e gidiyor. Tae-su kara ve deniz yolunu kapatıyor. Artık tek şansları hava saldırısı!",
+                "still_path": "https://image.tmdb.org/t/p/w400/hzvbabXU5dDmOqMwWDY4hgzDr5V.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Dejavu",
+                "overview": "Gu-ho, en meşhur sanat eleştirmeni Bay Ünlü'nün gizli bir yanını keşfeder. Ama tuhaf şekilde Yi-rang bu dolandırıcılığa katılmak istemez.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rwjwU0J4Caae6mmf7It6hhFy0rC.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Hayalet Kale",
+                "overview": "Nihayet ortaya çıkan bir tablo, müzayedede karmaşaya yol açar. O sırada Yi-rang tek başına kaçar ve çok eski bir anının izinden gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/roNT3BSPa3dnbursiX44Ys7tqaw.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Atmos Kara Noir",
+                "overview": "Gu-ho kâbus görür ve beklenmedik biriyle karşılaşır. O sırada Başkan Lee, VVIP sağlık hizmeti veren Dr. Rachel'ı duyar ve James'in peşine takılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4vSdL9PGsC3pO2XOf1rpZ8x3iUy.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Kenardaki Dalgalar",
+                "overview": "Seong-woo, Yi-rang'ın sırrını öğrenir ve onu şok edici bir duyuru yapmaya zorlar. Gwank-sik'in dönüşü Başkan Lee'ye son bir şans verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nUM0pL9s8L2tTgawRKtWXEPaPw6.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Maskeli Kız",
+                "overview": "Rezil olan James'in karşısına tanıdık bir kadın çıkar. Üçlümüzse dava kraliçesi Gil Beauty'yi cezalandırmak için popüler bir fenomeni ekibe alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ejEv77naOx6Tcc3Acu47m9e3QKZ.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Bay Gray",
+                "overview": "Un-Nyun ve Big Noggin'in üzücü hikâyesi ortaya çıkar. Gil Beauty'nin bulduğu bir şey onu sakinlerinin ortak bir yanı olan bir köye götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jCMx0IKnIrUzMJKGUwerB7OhEZ2.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "İlk Karşılaşma",
+                "overview": "Ha Jung-ho, yozlaşmış bir deniz ürünleri kodamanı ve sinemaseverdir. Yatırım yapmayınca Yi-rang yeni bir plan bulur. Bal tuzağı değil, değil mi?",
+                "still_path": "https://image.tmdb.org/t/p/w400/fTzEmClLMQ4JuZKE3EAN3GuQQy7.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Madam Oh'nun Altın Çağı",
+                "overview": "Jung-ho senaryoyu elden geçirme şartıyla yatırımı kabul eder. Yazar, yapımcı, yönetmen ve oyuncu olmak istiyordur. Yi-rang'ın amacı ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1RgD6T9RgkXS7xj7XhxCXjOXOAN.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "Ayrılık",
+                "overview": "Üçlü ayrılır ve kendi hayatlarını yaşamaya başlar. Yi-rang, James'i ve Gu-ho'yu özler ama hâlâ Kang Yo-seop'a tek başına ulaşmayı planlamaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f8KSKT8F4eFKunXsC4InUq46IVK.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/tfRZYEVBwGVU7P1WgdhgW1EtRid.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt37262316/s1/e12"
+            }
+        ],
+        "update_date": "2026-02-15 13:21:02"
+    },
+    {
         "id": 209110,
         "imdb_id": "tt37218592",
         "name": "İtirafın Bedeli",

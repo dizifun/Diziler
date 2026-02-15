@@ -1,5 +1,206 @@
 [
     {
+        "id": 304199,
+        "imdb_id": "tt39266137",
+        "name": "Heaven",
+        "original_name": "Niebo",
+        "overview": "Bekâr bir annenin büyüttüğü Sebastian, anlam arıyor. Bunu, Cennet olarak bilinen bir komüne liderlik eden, kendini guru ilan eden Piotr'da bulur.",
+        "poster": "https://image.tmdb.org/t/p/w500/nEPHznUswIcS7f5nVxIv6GogFtb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/5D8xbKFrh9pqVUhjXVGZMpfqjwv.jpg",
+        "year": "2025",
+        "rating": 4.2,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Stanisław Linowski",
+                "role": "Sebastian Keller",
+                "image": "https://image.tmdb.org/t/p/w200/wf3P8fMUIwKMkq6yTrs89lbOCYe.jpg"
+            },
+            {
+                "name": "Tomasz Kot",
+                "role": "Piotr",
+                "image": "https://image.tmdb.org/t/p/w200/k4LgSV1p2FI8xhFwNOzBcDcEX7s.jpg"
+            },
+            {
+                "name": "Magdalena Różczka",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/7oh7C2212ZI28YmSIkyPnuMi0wV.jpg"
+            },
+            {
+                "name": "Zofia Jastrzębska",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/pB4rCXhLpRv0F9MYN7uodyc0NvX.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Hastalık ve kargaşadan sonra kaybolan genç ve hassas Sebastian, Piotr adında karizmatik bir şifacının büyüsüne kapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uEYfs4cSZzbS5X1T5apze8lMjDw.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt39266137/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Sebastian, Cennet topluluğuna iyice gömülür ve gerçeklikle bağı kopar. Piotr'un karizmasının büyüsüne kapılarak eski hayatıyla bağlarını koparır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vQJqskazkrVRRyaQY60WZwg9XfW.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt39266137/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Piotr'un topluluğu, bir tarikata dönüşümünü tamamlar. Bir zamanlar iyileştirmesi gereken inanç, bir tahakküm ve kontrol silahı hâline gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2ZImcXXpcEU5j9hYSZbESXRxAoz.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt39266137/s1/e03"
+            }
+        ],
+        "update_date": "2026-02-15 13:55:32"
+    },
+    {
+        "id": 276254,
+        "imdb_id": "tt37986748",
+        "name": "The Heritage",
+        "original_name": "Scheda",
+        "overview": "Üç kardeş ve sevdikleri, babanın bıraktığı mirasın ailenin arasını açmasının ardından çalkantılı bir dönemden geçerler.",
+        "poster": "https://image.tmdb.org/t/p/w500/sYxMFo5szMXUU6gp11qPrFLamhq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/r1cbjlVcADjxkgSxSFEPlBXLytn.jpg",
+        "year": "2025",
+        "rating": 8.1,
+        "genres": [
+            "Gizem",
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Magdalena Popławska",
+                "role": "Hanka Mróz",
+                "image": "https://image.tmdb.org/t/p/w200/f1bz0HdPPwZuQA73WoJkRzxASjf.jpg"
+            },
+            {
+                "name": "Jacek Koman",
+                "role": "Jan 'Johnny' Mróz",
+                "image": "https://image.tmdb.org/t/p/w200/t72LPCMYV7xkGeRel1tGPyP4V1r.jpg"
+            },
+            {
+                "name": "Grzegorz Damięcki",
+                "role": "Paweł Mróz",
+                "image": "https://image.tmdb.org/t/p/w200/bDc90Cbe3QkagE4UcF4aUtJm0a6.jpg"
+            },
+            {
+                "name": "Bartosz Gelner",
+                "role": "Maciej Mróz",
+                "image": "https://image.tmdb.org/t/p/w200/byOQN7QpYeSGPphAZzUO0485JE3.jpg"
+            },
+            {
+                "name": "Wojciech Zieliński",
+                "role": "Wojtek Słowik",
+                "image": "https://image.tmdb.org/t/p/w200/yt48QlTQm123yfk2y4R20d8r4ay.jpg"
+            },
+            {
+                "name": "Bartłomiej Kotschedoff",
+                "role": "Stanisław Kocur",
+                "image": "https://image.tmdb.org/t/p/w200/dffqB6PsOeg5gevabtLkbFfnqyV.jpg"
+            },
+            {
+                "name": "Karol Pocheć",
+                "role": "Turbot",
+                "image": "https://image.tmdb.org/t/p/w200/JHMOmFQxpFOmNYStk21DXL4ua2.jpg"
+            },
+            {
+                "name": "Michalina Łabacz",
+                "role": "Ola Żarska",
+                "image": "https://image.tmdb.org/t/p/w200/960l2Fl6aH3KYOGAQN2ZgCVMz5m.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Emekli deniz subayından yüklü bir miras kalır. Şaşırtıcı bir şekilde tek hak sahibi de arasının açık olduğu oğlunun kızıdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rQ7ZvS2cf0v6JDDPhr0X7QT7iuS.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt37986748/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Johnny'nin azmi kaosa sebep olur. Pawel sahtekârlıktan şüphelenir. Ola, Maciek'in kaybolmasının ardından hayat sigortasından para almaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g2XMCZmKOAtqHwCP8PatWHGEp4I.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt37986748/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Miras haberi yayılır. Pawel siyasi baskı altındadır, Maciek'in sahtekârlık yaptığını düşünür. Hanka sefere çıkar. Maciek, Ola'ya borçlarını anlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nADM8FgvZiCdoJVnbIJfwIe5eXb.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt37986748/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Dört yıl önce, ölüm döşeğindeki Johnny, hayallerinden vazgeçip Hel'de kalmaları için çocuklarını kandırmaya çalışır. Sadece Maciek karşı koyar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rXD6h5zRGBpVX8XuLTkdS17axiU.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt37986748/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Pawel vasiyete itiraz eder, Ola'ya gerçeği sorar. Maciek'in ailesi bir kiralık katilin hedefidir. Hanka işini kurtarmak için gizli bir anlaşma yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y7vPvRqDjfpAwjdzDCyvFk9foYO.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt37986748/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Maja aileyi itirafa zorlar. Pawel'in kanıtları davayı uzatır. Aylar sonra, ilişkisi ortaya çıkar. Hanka kocasının Maciek'in öldürdüğünden şüphelenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eX0Hu3sftWtVfjAoz7gXgYp7b51.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt37986748/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Wojtek aileye Maciek'in ölmediğini açıklar. Ölmüş bir katilin cesedini kullanmıştır. Öfkelenen Hanka onlara şantaj yapar. Kocur da gerçeği öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/olbEYjjesa6ktsfvKtGhVvpcNL6.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt37986748/s1/e07"
+            }
+        ],
+        "update_date": "2026-02-15 13:33:11"
+    },
+    {
         "id": 293298,
         "imdb_id": "tt37202552",
         "name": "Most Wanted: Julius Kivimäki",

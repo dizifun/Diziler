@@ -2,24 +2,165 @@
     "id": 284744,
     "imdb_id": "tt39012462",
     "name": "Pro Bono",
+    "original_name": "프로보노",
+    "overview": "Saygın bir hâkimin dünyası bir gecede altüst olunca önde gelen bir hukuk bürosunun gönüllü ekibine katılarak umudun beklenmedik köşelerde sessizce beklediği bir dünyaya adım atar.",
     "poster": "https://image.tmdb.org/t/p/w500/sNGKN7Nvdi85gj75pnSvqzMF3MC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
     "year": "2025",
+    "rating": 8.2,
     "genres": [
         "Komedi",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "tvN",
+        "Netflix Standard with Ads",
+        "Netflix",
+        "Kore"
+    ],
     "cast": [
-        "정경호",
-        "소주연",
-        "이유영",
-        "윤나무",
-        "강형석"
+        {
+            "name": "정경호",
+            "role": "Kang Da-wit",
+            "image": "https://image.tmdb.org/t/p/w200/fanLZsECF5nDy17HkhcdoLJjPaw.jpg"
+        },
+        {
+            "name": "소주연",
+            "role": "Park Gi-ppeum",
+            "image": "https://image.tmdb.org/t/p/w200/2pRaLYEJq673t9CAYaEl8K131qR.jpg"
+        },
+        {
+            "name": "이유영",
+            "role": "Oh Jeong-in",
+            "image": "https://image.tmdb.org/t/p/w200/16E3VXh5mubkKuRZPOELAESkJ4H.jpg"
+        },
+        {
+            "name": "윤나무",
+            "role": "Jang Yeong Sil",
+            "image": "https://image.tmdb.org/t/p/w200/vXQA20pwMw0TwDB3GlW1WBcucJm.jpg"
+        },
+        {
+            "name": "강형석",
+            "role": "Hwang Jun U",
+            "image": "https://image.tmdb.org/t/p/w200/xclHffQgjyMTCO0KWTopkkDHvX5.jpg"
+        },
+        {
+            "name": "서혜원",
+            "role": "Yoo Nan Hui",
+            "image": "https://image.tmdb.org/t/p/w200/rhAhBIlJQL0ejI7cwIIxyrESE2W.jpg"
+        },
+        {
+            "name": "최대훈",
+            "role": "Woo Myeong Hun",
+            "image": "https://image.tmdb.org/t/p/w200/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
+        },
+        {
+            "name": "김갑수",
+            "role": "Oh Gyoo-jang",
+            "image": "https://image.tmdb.org/t/p/w200/u5Y4oC2qKPD2Xsw5JsC8vHQRo8s.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Kang Da-wit'in yargıç olarak yükselişi, bir skandalın ardından aniden sona erer. Ancak çok daha az gösterişli bir fırsat, ona beklenmedik yeni bir başlangıç şansı sunar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wumy9RzFNDUSmhaCL3unFYrUzMk.jpg",
+            "vote_average": 0.0,
             "link": "https://vidmody.com/vs/tt39012462/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Başlangıçta mücadeleci bir ekibe liderlik etmek istemeyen Da-wit, çalınan bir sokak köpeğiyle ilgili bir davayı üstlenir; ancak sıra dışı taktikleri herkesi şaşkına çevirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xgmlujgEB8N8vFahGbtuAUJwAvC.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Sık sık çatışsalar da Da-wit ve gönüllü ekip, kendi aralarında uyumu yakalamaya başlar. Kısa süre sonra, müşteri olarak bir çocuk gelir ve imkânsız bir talepte bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zb9UDGYPvnbas40frUryuuYwIdB.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Engelli çocuğun davası görülürken Da-wit, mahkemeyi bir teste tabi tutar. Bu sırada çocuğun değerinin ne olduğu sorusu da mercek altına alınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xelJMXVMKrQDIk3jMdIftItUHj0.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/38S68bfQMIleEodR1MGOgvVYLtD.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/ahJRA970AkYdhW4RjGYXdt3mESy.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/6TWTI9eY4zWwS5gMUSfHtHpRfpF.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/sREtF7Tf8OivoBff2N80krG4foL.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/955cFulSIekdG5iYdkcwJG00YE3.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/qYP3QOqercPJ0hxKRQVDCWHZeXq.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/y8eOd28keMN1twrADKxcnpovqA4.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt39012462/s1/e11"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 13:50:14"
 }

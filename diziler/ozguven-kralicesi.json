@@ -2,23 +2,149 @@
     "id": 259710,
     "imdb_id": "tt37262316",
     "name": "Özgüven Kraliçesi",
+    "original_name": "컨피던스 맨 KR",
+    "overview": "Kurnaz kötüler ve sessiz kurbanlarla dolu bir dünyada üç dolandırıcı açgözlülükle mücadele ediyor. Sadece kötülerden çalıyor, asla intikam peşinde koşmuyorlar. Ya suç bir oyun, adalet zekice bir numara olursa? Özgüven Kraliçesi dünyasına hoş geldiniz. Etkileyici lider Yi-rang, tecrübeli profesyonel James ve sıradan Gu-ho'yla tanışın. Unutmayın, gördüğünüze ve bir dolandırıcıya asla kanmayın.",
     "poster": "https://image.tmdb.org/t/p/w500/7oIFAu6NDYtryLsu4cjxdTiMkAP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/brugu6L6cGP7I0G1EH7id46brj2.jpg",
     "year": "2025",
+    "rating": 7.5,
     "genres": [
         "Suç",
         "Komedi",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "TV Chosun",
+        "Kore"
+    ],
     "cast": [
-        "박민영",
-        "박희순",
-        "주종혁"
+        {
+            "name": "박민영",
+            "role": "Yoon Yi-rang",
+            "image": "https://image.tmdb.org/t/p/w200/5Op0Gx0DULFLHtGdWVdqnYdwkAS.jpg"
+        },
+        {
+            "name": "박희순",
+            "role": "James",
+            "image": "https://image.tmdb.org/t/p/w200/s2SSzvlsSfCPP5EXhCoWUr8970F.jpg"
+        },
+        {
+            "name": "주종혁",
+            "role": "Myung Gu-ho",
+            "image": "https://image.tmdb.org/t/p/w200/xOx3f9y4rLa84AMglgejC6spEQD.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Hızlı Arama 0",
+            "overview": "Yi-rang, James ve Gu-ho bir kötüyü daha indiriyor. Birden Gu-ho dolandırıcılığı bıraktığını açıklayıp ekipten ayrılıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uVbVXPJwrlFagmrwSLJxOJucoz4.jpg",
+            "vote_average": 8.0,
             "link": "https://vidmody.com/vs/tt37262316/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Kum Vakfı",
+            "overview": "Yi-rang ve Gu-ho, komadaki James'in intikamını almaya Filipinler'e gidiyor. Tae-su kara ve deniz yolunu kapatıyor. Artık tek şansları hava saldırısı!",
+            "still_path": "https://image.tmdb.org/t/p/w400/hzvbabXU5dDmOqMwWDY4hgzDr5V.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Dejavu",
+            "overview": "Gu-ho, en meşhur sanat eleştirmeni Bay Ünlü'nün gizli bir yanını keşfeder. Ama tuhaf şekilde Yi-rang bu dolandırıcılığa katılmak istemez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rwjwU0J4Caae6mmf7It6hhFy0rC.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Hayalet Kale",
+            "overview": "Nihayet ortaya çıkan bir tablo, müzayedede karmaşaya yol açar. O sırada Yi-rang tek başına kaçar ve çok eski bir anının izinden gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/roNT3BSPa3dnbursiX44Ys7tqaw.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Atmos Kara Noir",
+            "overview": "Gu-ho kâbus görür ve beklenmedik biriyle karşılaşır. O sırada Başkan Lee, VVIP sağlık hizmeti veren Dr. Rachel'ı duyar ve James'in peşine takılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4vSdL9PGsC3pO2XOf1rpZ8x3iUy.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Kenardaki Dalgalar",
+            "overview": "Seong-woo, Yi-rang'ın sırrını öğrenir ve onu şok edici bir duyuru yapmaya zorlar. Gwank-sik'in dönüşü Başkan Lee'ye son bir şans verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nUM0pL9s8L2tTgawRKtWXEPaPw6.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Maskeli Kız",
+            "overview": "Rezil olan James'in karşısına tanıdık bir kadın çıkar. Üçlümüzse dava kraliçesi Gil Beauty'yi cezalandırmak için popüler bir fenomeni ekibe alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ejEv77naOx6Tcc3Acu47m9e3QKZ.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Bay Gray",
+            "overview": "Un-Nyun ve Big Noggin'in üzücü hikâyesi ortaya çıkar. Gil Beauty'nin bulduğu bir şey onu sakinlerinin ortak bir yanı olan bir köye götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jCMx0IKnIrUzMJKGUwerB7OhEZ2.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "İlk Karşılaşma",
+            "overview": "Ha Jung-ho, yozlaşmış bir deniz ürünleri kodamanı ve sinemaseverdir. Yatırım yapmayınca Yi-rang yeni bir plan bulur. Bal tuzağı değil, değil mi?",
+            "still_path": "https://image.tmdb.org/t/p/w400/fTzEmClLMQ4JuZKE3EAN3GuQQy7.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Madam Oh'nun Altın Çağı",
+            "overview": "Jung-ho senaryoyu elden geçirme şartıyla yatırımı kabul eder. Yazar, yapımcı, yönetmen ve oyuncu olmak istiyordur. Yi-rang'ın amacı ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1RgD6T9RgkXS7xj7XhxCXjOXOAN.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "Ayrılık",
+            "overview": "Üçlü ayrılır ve kendi hayatlarını yaşamaya başlar. Yi-rang, James'i ve Gu-ho'yu özler ama hâlâ Kang Yo-seop'a tek başına ulaşmayı planlamaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f8KSKT8F4eFKunXsC4InUq46IVK.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/tfRZYEVBwGVU7P1WgdhgW1EtRid.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt37262316/s1/e12"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 13:21:02"
 }

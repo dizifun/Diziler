@@ -2,20 +2,56 @@
     "id": 301498,
     "imdb_id": "tt38501655",
     "name": "Mob War: Philadelphia vs. the Mafia",
+    "original_name": "Mob War: Philadelphia vs. the Mafia",
+    "overview": "",
     "poster": "https://image.tmdb.org/t/p/w500/5vtAydTEQuOVj144b3ob80KUryg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dEvbe7rj6vdcbMpZUn1pE682qjh.jpg",
     "year": "2025",
+    "rating": 6.5,
     "genres": [
         "Belgesel",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "John Alite"
+        {
+            "name": "John Alite",
+            "role": "Self",
+            "image": ""
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/mgZAg2C412Su26LjW5SZI0tB4Ks.jpg",
+            "vote_average": 8.1,
             "link": "https://vidmody.com/vs/tt38501655/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/8wt8Xt1nQjs2LgTLKGjlyOFE20s.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt38501655/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/zYWRfIk4VUGYREdm7alc4f4S82B.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt38501655/s1/e03"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 13:39:34"
 }

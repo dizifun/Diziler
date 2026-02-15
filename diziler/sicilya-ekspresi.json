@@ -2,24 +2,119 @@
     "id": 303072,
     "imdb_id": "tt38566460",
     "name": "Sicilya Ekspresi",
+    "original_name": "Sicily Express",
+    "overview": "Noel yaklaşırken, Milano'da çalışan Sicilyalı iki beceriksiz arkadaş saniyeler içinde ailelerinin yanına ışınlanmalarını sağlayan bir çöp tenekesi keşfeder.",
     "poster": "https://image.tmdb.org/t/p/w500/2D1lZv6TEa938P0tZLub1gK4iEp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ytLYh9lWn7MItdcuIqA50pnIkeC.jpg",
     "year": "2025",
+    "rating": 7.0,
     "genres": [
         "Komedi",
         "Aile"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Salvatore Ficarra",
-        "Valentino Picone",
-        "Katia Follesa",
-        "Barbara Tabita",
-        "Max Tortora"
+        {
+            "name": "Salvatore Ficarra",
+            "role": "Salvo",
+            "image": "https://image.tmdb.org/t/p/w200/h3q5f3pg5d6JeSxxz5hxaLTJcR.jpg"
+        },
+        {
+            "name": "Valentino Picone",
+            "role": "Valentino",
+            "image": "https://image.tmdb.org/t/p/w200/700JeA0KaBBQaO5FthyjQyjsLJa.jpg"
+        },
+        {
+            "name": "Katia Follesa",
+            "role": "Claudia",
+            "image": "https://image.tmdb.org/t/p/w200/9UjtrBB4z53iqzLg7gbUPZGHhQD.jpg"
+        },
+        {
+            "name": "Barbara Tabita",
+            "role": "Maria Teresa",
+            "image": "https://image.tmdb.org/t/p/w200/njiZh4jR11huGtFW77QWcpqpXA3.jpg"
+        },
+        {
+            "name": "Max Tortora",
+            "role": "Presidente del Consiglio",
+            "image": "https://image.tmdb.org/t/p/w200/d9qY7LSOiKe3oYSjYAjtInJr5RT.jpg"
+        },
+        {
+            "name": "Sergio Vastano",
+            "role": "il Direttore",
+            "image": "https://image.tmdb.org/t/p/w200/5x7JL1SecxKsSHPteg4oGmwfgSp.jpg"
+        },
+        {
+            "name": "Jerry Calà",
+            "role": "Ministro dell'Interno",
+            "image": "https://image.tmdb.org/t/p/w200/rYVXvDyTyEfl6Zde7S7AC1B9v7E.jpg"
+        },
+        {
+            "name": "Giorgio Tirabassi",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/o88lUmQ1FEqBRAgdPk833pBAaSa.jpg"
+        },
+        {
+            "name": "Enrico Bertolino",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/935IU22Al8C98ZOnHhbhd41v2EM.jpg"
+        },
+        {
+            "name": "Angelo Tosto",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/khguXGTI7sVQrcntOsZIIPaqqGE.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Milano'daki patronlarına meydan okuyan Salvo ve Valentino'nun Sicilya'ya dönüş yolculuğunda her şey ters gider; ta ki bir Noel dileği gerçekleşene kadar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qeAYXOz8TQuPDKNYRyh8HL8CTrP.jpg",
+            "vote_average": 7.0,
             "link": "https://vidmody.com/vs/tt38566460/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Salvo ve Valentino, Sicilya'da ve Milano'da çöplük mevzusunu saklamaya çalışır, ancak eşlerini riskli bir planla kandırırken sırlarının kokusu etrafa yayılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8YMJ6a1mMLVBmMMDgc2NT3nxt5z.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt38566460/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Şüphelerine karşı koyamayan Salvo, çöp konteynerlerini sinsice kullanmanın bir yolunu bulur. Bu sırada polisle yaşanan bir anlaşmazlık, çok önemli bir işi sekteye uğratır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e61wVJHhRmfuQsSDG7uElXSPJMg.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt38566460/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Salvo ve Valentino'nun yeni işleri yoluna girerken polis delil toplar. Claudia ve Maria Teresa, arkalarından bir iş çevrildiğinden şüphelenir. Tuhaf bir hasta kaçırılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pc0bVgbZubivXW4zQxZfns0gfNw.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt38566460/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Noel yaklaşırken tuhaf olaylar yaşanmaya devam eder ve Palermo taraftarları arbedeye neden olur. Aurora ortadan kaybolur ve Başbakan, Bakanlar Kurulu'nu toplar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5jg5ewfNJLVmq2Qhru2wQrOUsbP.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt38566460/s1/e05"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 13:40:24"
 }

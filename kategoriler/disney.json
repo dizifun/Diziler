@@ -1,5 +1,152 @@
 [
     {
+        "id": 304774,
+        "imdb_id": "tt38781098",
+        "name": "Sekizinci Aile",
+        "original_name": "Sekizinci Aile",
+        "overview": "Mütevazı bir başlangıçtan dünyanın en güçlü ailesi olmaya uzanan Basmacıgiller, zirvedeki yerlerini korumak için mücadele ediyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/y8NmGRfD3GuhhR8bTj7rXWkOMqk.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2pi53UfC61zRYDU7BOlNoEG3myo.jpg",
+        "year": "2025",
+        "rating": 8.8,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Yerli",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Haluk Bilginer",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/krCEBAIGmEUUcA4GpLt3RiTHKLC.jpg"
+            },
+            {
+                "name": "Hazal Kaya",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/gvBNGXWEyTHALxedaqRlOQgJt1S.jpg"
+            },
+            {
+                "name": "Mehmet Özgür",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/n4QOcXf2eXPmJ8KOZcMlUEetUA8.jpg"
+            },
+            {
+                "name": "Ali Atay",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/yRQTggkHQnPCbxOfKiTm9jazJAu.jpg"
+            },
+            {
+                "name": "Erdem Şenocak",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/k8bC4RlEXbKhyO5ekoeE8mcMIg2.jpg"
+            },
+            {
+                "name": "Melisa Döngel",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/qzA0I0gR7DwCG0dK9pde2iTizeM.jpg"
+            },
+            {
+                "name": "Serkan Keskin",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/tLnZN612GhFis8BGIlOTBjzPqHq.jpg"
+            },
+            {
+                "name": "Çağlar Çorumlu",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/xv15eYrkRvGvIFyvxIW4544XMAq.jpg"
+            },
+            {
+                "name": "Cihan Talay",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/nVBOHi0kbZiWYo0KLReL8YSbjYq.jpg"
+            },
+            {
+                "name": "Alper Baytekin",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/qLRqSd3wrMkX8zHvCYfa1MNKWim.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Sıfırbir Otuzbir",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hNLzBV7ZTSaTw6xRPDTmwzJvMXT.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt38781098/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Fakirin Dostu",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mwQy7WhEY3wVqiXrm8c9ybbAWWA.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt38781098/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Jetlag",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1H2tzJ3bSfcAsMA70vVmKgo62qp.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt38781098/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Canlı Yayın",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/topbMachsXRSvfnajQzwvDs9Xou.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt38781098/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Doğum Günün Kutlu Olsun",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hBdnRbQOFdn4QQHlL2a5lwtoqYZ.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt38781098/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Kurşun Geçirmez Yelek",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9HMbsJ77JXvcf3ETfGLKhxkUWyY.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt38781098/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Adım Adım",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5bXjJFE8wlfe8owNr4KVr6awyBK.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt38781098/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "İzleme Kaydı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/p9XY3bIor9rA7HheHzD2FA0mD9h.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt38781098/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 13:45:34"
+    },
+    {
         "id": 239385,
         "imdb_id": "tt36188448",
         "name": "The Manipulated",

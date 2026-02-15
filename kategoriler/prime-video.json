@@ -1,5 +1,118 @@
 [
     {
+        "id": 280948,
+        "imdb_id": "tt39137681",
+        "name": "Bahar Esintisi",
+        "original_name": "스프링 피버",
+        "overview": "Bahar Esintisi: Baharda esen, bazen insanları hasta eden serin bir esinti. Buz gibi bir kalbe sahip öğretmen Yoon Bom küçük bir köy okuluna gelir ve Sun Jae-gyu'nun sıcakkanlılığı sayesinde mutluluğu yavaş yavaş yeniden bulur.",
+        "poster": "https://image.tmdb.org/t/p/w500/z7qBomUexU29AJnK0xxMnczF0Ad.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/nRxbtO6OchyepUL2Zr4dpMZsdsX.jpg",
+        "year": "2026",
+        "rating": 8.0,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Prime Video",
+            "tvN",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "안보현",
+                "role": "Seon Jae-gyu",
+                "image": "https://image.tmdb.org/t/p/w200/2pNNCnjI1TwxjyP3Y4cJln1wOKE.jpg"
+            },
+            {
+                "name": "이주빈",
+                "role": "Yoon Bom",
+                "image": "https://image.tmdb.org/t/p/w200/rO9UM65KgxfacCY3IsrHheOFBpZ.jpg"
+            },
+            {
+                "name": "차서원",
+                "role": "Choi Yi-joon",
+                "image": "https://image.tmdb.org/t/p/w200/tyezR9xwN8QF6lOSURL34cRMMzB.jpg"
+            },
+            {
+                "name": "조준영",
+                "role": "Seon Han-gyeol",
+                "image": "https://image.tmdb.org/t/p/w200/xHNIgkCoFLN9tJZbcPq8M325GXc.jpg"
+            },
+            {
+                "name": "이재인",
+                "role": "Choi Se-jin",
+                "image": "https://image.tmdb.org/t/p/w200/5gdJ9n6rJZZyGGaMw3Hcr52zQMU.jpg"
+            },
+            {
+                "name": "나영희",
+                "role": "Jeong Nan-hee",
+                "image": "https://image.tmdb.org/t/p/w200/sVuIgKFg7i6MlNapbhmKsCspAC.jpg"
+            },
+            {
+                "name": "조승연",
+                "role": "Yoon Jeong-ki",
+                "image": "https://image.tmdb.org/t/p/w200/lBWyQfK4PPzJO3IDRjpv0ilN6nw.jpg"
+            },
+            {
+                "name": "Im Su-hyung",
+                "role": "Oh Seong-tae",
+                "image": "https://image.tmdb.org/t/p/w200/9YBaSBTpw0FfEvp0co5xTVOEjx8.jpg"
+            },
+            {
+                "name": "진경",
+                "role": "Seo Hye-sook",
+                "image": "https://image.tmdb.org/t/p/w200/eKw4YbLw0LWkTCn6wbTiKkRltc2.jpg"
+            },
+            {
+                "name": "배정남",
+                "role": "Jeong Jin-hyeok",
+                "image": "https://image.tmdb.org/t/p/w200/m4DnODpzR5850HZZTnNQyPwyhQQ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Senin Amcan... O Adam Mı?",
+                "overview": "Yoon Bom, Shinsu adlı küçük sahil kasabasında herkesin merakını uyandırır. Seul'den başarılı bir öğretmenin neden burada olduğunu kimse bilmemektedir. Ama herkesin dikkati aniden kasabanın meşhur ismi Sun Jae-gyu'ya yönelir. Onun gelişiyle Bom'un sakin hayatı altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uOTbf7hvWzapH00Omwaxq6wIa4c.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt39137681/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Senin Amcanın... İşi Mi Var?",
+                "overview": "Jae-gyu'nun hareketleri tanıdık gelmektedir ama Bom bunun nedenini tam olarak çözemez. Bu arada, Han-gyul yüzünden sürekli ikinci planda kalmaktan bıkan Se-jin ortadan kaybolur. Bom ve Jae-gyu onu bulmak için Seul'e gider. Jae-gyu'nun kritik bir anda aniden ortaya çıkışı Bom'un hafızasında bir kapıyı açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ly00dZMYpi2kfiEHP2FGml1DlkC.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt39137681/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Senin Amcan... Baba Mı?",
+                "overview": "Bom, Jae-gyu'nun sürpriz bir yönünü fark eder ve aslında o kadar da kötü biri olmayabileceğini düşünmeye başlar. Sonra kasabada şoke edici bir söylenti yayılır. Jae-gyu aslında Han-gyul'un amcası değil, babasıdır! Bu haberin ağırlığı karşısında gerçekle yüzleşmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/11QSmQjpkw628Q2JdbbSciUF0Gu.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt39137681/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Senin Amcan... Vâris Mi?",
+                "overview": "Sırlarını Jae-gyu'nun bildiğini fark eden Bom'un kalbi tekrar buz keser. Etrafına soğuk bir duvar örer ve hayatından uzak durmasını söyler. Yanlış anlaşılmayı gidermeye kararlı olan Jae-gyu, onu geri kazanmak için en büyük hamlesini yapar. Acaba Bom'un kalbini yumuşatmayı başarabilecek midir?",
+                "still_path": "https://image.tmdb.org/t/p/w400/zai8S0kFoXs38o6ZoCFhIOC4dmG.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt39137681/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 13:53:16"
+    },
+    {
         "id": 253376,
         "imdb_id": "tt32267726",
         "name": "Kız Arkadaş",
