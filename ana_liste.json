@@ -1,5 +1,1276 @@
 [
     {
+        "id": 271128,
+        "imdb_id": "tt31828197",
+        "name": "Yeni Güç",
+        "original_name": "Skiftet",
+        "overview": "1950'lerin İsveç'inde personel eksikliği çeken bir polis teşkilatı, cesur bir deneye imza atarak tarihin ilk kadın polis memurlarını görevlendirir. Gerçek olaylardan esinlenildi.",
+        "poster": "https://image.tmdb.org/t/p/w500/sdGDtKzTJff5iTnzWUB4uRtaEwI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/jWUcTfpLo1nVBqBrbzZYP1hTMqf.jpg",
+        "year": "2025",
+        "rating": 6.0,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Josefin Asplund",
+                "role": "Carin Eriksson",
+                "image": "https://image.tmdb.org/t/p/w200/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+            },
+            {
+                "name": "Agnes Westerlund Rase",
+                "role": "Siv Morell",
+                "image": "https://image.tmdb.org/t/p/w200/sXNtvq9ds0MYil8KXkGuDKFM2HO.jpg"
+            },
+            {
+                "name": "Malin Persson",
+                "role": "Ingrid Gustafsson",
+                "image": "https://image.tmdb.org/t/p/w200/yg2a5RIVikXdiMawknIQi4BDzFV.jpg"
+            },
+            {
+                "name": "Christopher Wagelin",
+                "role": "Johan Reimer",
+                "image": "https://image.tmdb.org/t/p/w200/pqo0mTnRcRvL0zDKaK2SCIxbdPZ.jpg"
+            },
+            {
+                "name": "Rasmus Luthander",
+                "role": "Arne Grahn",
+                "image": "https://image.tmdb.org/t/p/w200/xBzTqdPsEkTj8RQ2lh9xJwQ9muM.jpg"
+            },
+            {
+                "name": "Cilla Thorell",
+                "role": "Jenny Berg",
+                "image": "https://image.tmdb.org/t/p/w200/tr2PM3IPGWgYsmPsIBqVHAmPlim.jpg"
+            },
+            {
+                "name": "Hannes Fohlin",
+                "role": "Oscar Thornberg",
+                "image": "https://image.tmdb.org/t/p/w200/qdlAiGGpEW74bee0Vl6l5AhMrIj.jpg"
+            },
+            {
+                "name": "Jimmy Lindström",
+                "role": "Wallin",
+                "image": "https://image.tmdb.org/t/p/w200/jdeNSmrt0rgrLEXtawYS5RzdfRa.jpg"
+            },
+            {
+                "name": "Peter Eriksson",
+                "role": "Gunnar Swärd",
+                "image": "https://image.tmdb.org/t/p/w200/5SULDtaYpFN3n97aveZqaqPHJBP.jpg"
+            },
+            {
+                "name": "Pablo Leiva Wenger",
+                "role": "Rossi",
+                "image": "https://image.tmdb.org/t/p/w200/sIenZV6LpRCHx8zYuxkg87njYZz.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Siz Gerçek Polis misiniz?",
+                "overview": "Deneyin ilk gününde kadın polis memurları gerginliğin hüküm sürdüğü Klara bölgesinde devriye gezer. Carin kaybettiği bir şeyi ararken belediğinden fazlasını bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iKxZ9nn2uMIqmIHeKCotA3U8cKC.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31828197/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "İsveç Güzeli",
+                "overview": "Gizemli bir mektup alan Carin, kendi yetki alanını aşan bir vakayı soruşturmaya karar verir. Ingrid ise polis karakolundaki sorunlu tutumları sorgular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4wIhlEgijZEposnLqBzH51LvwaJ.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31828197/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Dur, Ateş Ederim!",
+                "overview": "Memurlardan birinin aniden ayrılması deneyin geleceği konusunda şüphe yaratır. Sürpriz bir ziyaretçi Carin'i görmeye gelir. Güçlü biri, perde arkasında dizginleri ele alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r4XvHQsPohloVUXuzEvMx7F8bqM.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31828197/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Şikayet Etmek Yok",
+                "overview": "Kadınların öz güveni yerine gelmeye başlar. Siv yaptığı tutuklamayla memurların saygısını kazanır. Carin gerçeği ortaya çıkarmaya kararlıdır. Ama Ingrid'in vicdanı rahat değildir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hTN1VRQqLbI5MrxU8w4sNerl1a.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31828197/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Güzellik Salonu",
+                "overview": "Carin, Siv'e açılır. Ingrid, Arne'yle arasını düzeltmeye çalışır. Tehlikeli biri sorgulanırken soruşturma iyice derinleşir ve sırlar ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3oYvqECqji9vBOOX6ISdx4giU6V.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31828197/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Böyle mi Oluyor?",
+                "overview": "Yaklaşmakta olan son değerlendirme deneyin geleceğini belirleyecektir. Bu yüzden Carin'in soruşturmayı ve diğer kadın memurları etkileyecek zor bir karar vermesi gerekir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jaZUh9IYSqV81qjJFpwHoNa9HWa.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31828197/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:26:55"
+    },
+    {
+        "id": 286840,
+        "imdb_id": "tt31806040",
+        "name": "Millenium Star Soygunu",
+        "original_name": "The Diamond Heist",
+        "overview": "Bu inanılmaz ama gerçek suç dizisinde, değerli bir mücevheri çalmaya kalkışan soyguncular ve onların peşine düşen polisler bu soygun girişiminin öyküsünü anlatıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/yhbwLnjKzTqTNEIrf88e2MI0Xyi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/5nWLwHIX9nAgsreSY6MaAc39gm.jpg",
+        "year": "2025",
+        "rating": 6.8,
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Nicholas Blatt",
+                "role": "Bob Adams",
+                "image": "https://image.tmdb.org/t/p/w200/yw9LC2Hj2yzVm2kV0G3teYjmJ0D.jpg"
+            },
+            {
+                "name": "Λουκ Φίλποτ",
+                "role": "Lee Wenham",
+                "image": "https://image.tmdb.org/t/p/w200/9GHhNePHz9wKEte5zw7Q9YDWuFZ.jpg"
+            },
+            {
+                "name": "Tuncay Gunes",
+                "role": "Ray Betson",
+                "image": "https://image.tmdb.org/t/p/w200/ontQKU28YSZ6k2W8rAbQRBKXlZr.jpg"
+            },
+            {
+                "name": "Lee Wenham",
+                "role": "Self -   Robber",
+                "image": ""
+            },
+            {
+                "name": "Ray Betson",
+                "role": "Self - The Diamond Heist Mastermind (archive footage)",
+                "image": ""
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "No. 1: Hırsızlar",
+                "overview": "2000 yılında farklı tiplerden oluşan bir suçlu çetesi İngiliz tarihinin en cüretkâr soygununu planlar. Plan, Milenyum Kubbesi'nden çok iri bir elması çalmaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pA9iW9qtUQADyYkWcmh6r0TIQba.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt31806040/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "No. 2: Polisler",
+                "overview": "Büyükşehir polisinin seçkin bir departmanı, çete ile daha önce işlenen bir suç arasında bağ kurunca çete üyelerinin daha cüretkâr bir şey planladıklarından şüphelenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wJJHrT7DmEN2sQMue44JD4q5ifd.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt31806040/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "No. 3: Hırsızlar ve Polisler",
+                "overview": "Soygun günü yaklaşırken hem suçlular hem de polisler eyleme geçmeye hazırlanır. Çete bu soygunun üstesinden gelmeyi başaracak mı yoksa Çevik Kuvvet oraya onlardan önce mi varacak?",
+                "still_path": "https://image.tmdb.org/t/p/w400/tK0lm5BYztr64GpCqT5O3lQ6gQV.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31806040/s1/e03"
+            }
+        ],
+        "update_date": "2026-02-15 11:26:24"
+    },
+    {
+        "id": 249042,
+        "imdb_id": "tt31806037",
+        "name": "Adolescence",
+        "original_name": "Adolescence",
+        "overview": "13 yaşındaki bir çocuk, sınıf arkadaşını öldürmekle suçlanınca ailesi, terapisti ve olayı soruşturan dedektif aynı soruyu sormak zorunda kalır: Gerçekte ne yaşandı?",
+        "poster": "https://image.tmdb.org/t/p/w500/20i4nShZZg1g1VFHSB8xpaYM4r7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/llZodlkVKRkTdUsiRxvn8h80hhx.jpg",
+        "year": "2025",
+        "rating": 7.9,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Miller ailesinin evine baskın yapan polis, genç Jamie'yi tutuklar ve sorgu odasına alır. Ancak Jamie yanlış bir şey yapmadığı konusunda ısrarcıdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5h4BocxrJG4UVfsX0cdI3QCUyoK.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt31806037/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Jamie'nin okulunda cevap ve silah arayışına girişen polis, çocuğun arkadaşlarından hiçbir ipucu elde edemez. Ancak Dedektif Bascombe'un oğlu yetkililere yardım etmeye gönüllü olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uZ8QDoszwxM68WgPgjHfqTCZWZB.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31806037/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Jamie bir psikologla görüşür. İlk başta konuşmaktan çekinen genç, nihayet Katie'ye karşı beslediği karmaşık duyguları ortaya döker.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tx6jUngouwZxnVQDmz34bw24IQN.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31806037/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Miller ailesi Eddie'nin doğum gününü her şey normalmiş gibi kutlamaya çalışır. Ama bir dizi üzücü olay aileyi uçurumun kenarına getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bVi6fXdsj2GXTJda563OfNJ1axQ.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31806037/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 11:26:23"
+    },
+    {
+        "id": 248716,
+        "imdb_id": "tt31656537",
+        "name": "Çürük Miras",
+        "original_name": "Legado",
+        "overview": "Federico Seligman (Jose Coronado), sahibi olduğu iletişim şirketindeki görevinden, iki yıldır işlerden elini ayağını çekmesine sebep olan hastalığı nedeniyle ayrılır. Döndüğünde ise oğullarının birer yabancıya dönüştüğünü ve şirketi nefret edeceği bir yola soktuğunu fark eder. Federico, mirasının çocukları tarafından yok edilmesini önlemek için akla hayale gelmeyecek şeyleri bile yapmayı göze alır.",
+        "poster": "https://image.tmdb.org/t/p/w500/izMSX6IhszveWSmvd048toS7tCg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/clIn3tF321TcsajGGNoWMGcz0ii.jpg",
+        "year": "2025",
+        "rating": 6.0,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Jose Coronado",
+                "role": "Federico Seligman",
+                "image": "https://image.tmdb.org/t/p/w200/9xo68HzH8n78Xv6gMzKK7XnjtHd.jpg"
+            },
+            {
+                "name": "Belén Cuesta",
+                "role": "Yolanda Seligman",
+                "image": "https://image.tmdb.org/t/p/w200/caDd0J8smaQMvVjgJsDYabe4dzk.jpg"
+            },
+            {
+                "name": "Diego Martín",
+                "role": "Andrés Seligman",
+                "image": "https://image.tmdb.org/t/p/w200/vLCrfjWAS6cjN3CUE7p3HYPYoev.jpg"
+            },
+            {
+                "name": "Natalia Huarte",
+                "role": "Guadalupe Seligman",
+                "image": "https://image.tmdb.org/t/p/w200/dBWkYqzBRj4z0MuNUMyTHxjXzRO.jpg"
+            },
+            {
+                "name": "Gustavo Salmerón",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/tsfXGt9uyUD3JNSMIRJN8YqsEmi.jpg"
+            },
+            {
+                "name": "Nico Romero",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/46KRVkcecnOkygXmmyyhrbE2t68.jpg"
+            },
+            {
+                "name": "Iván Pellicer",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/uhwAlJ5hbHri3TUmAno9NcOA1MV.jpg"
+            },
+            {
+                "name": "Maria Morera Colomer",
+                "role": "Lara Seligman",
+                "image": "https://image.tmdb.org/t/p/w200/wFNhG5zX9qsoCCo9QEdkGuxjN7m.jpg"
+            },
+            {
+                "name": "Mireia Portas",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/aLmYbrWGKEF724U2T6N3FzMqVQz.jpg"
+            },
+            {
+                "name": "Susi Sánchez",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/hsOZ4Hyw3Zu2GnariSg28sUixPV.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Eve Dönüş",
+                "overview": "Tedavisi sona eren ve işinin başına dönen medya patronu Federico Seligman, gazetesinin yüksek itibarlı adının, çocukları tarafından bir skandala bulaştırıldığını öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rXiNJrlgzr7KrPmwZDFKW5fK7Lw.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31656537/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Ceza",
+                "overview": "Andrés sağlık durumunu kullanarak babasını itibarsızlaştırmaya çalışırken üç kardeş paniğe kapılmamaya çalışır. Lara üniversitede gizemli yeni bir arkadaşla tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zHsBN3g6SAnoVjjxCe2sMBiUfKn.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31656537/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Pazarlık",
+                "overview": "Guadalupe siyasette yükselmeye çalışırken Federico, El Báltico'da üst düzey bir pozisyon için Andrés ile kapışır. Yolanda tehlikeli bir aşk üçgenine dâhil olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cZCdgHeYUNwOuy0mxC9XzjhulCp.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31656537/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Veda",
+                "overview": "Ortaya çıkan şoke edici bir gerçek, Manuel'in tutuklanmasına sebep olur. Yeniden alevlenen eski duygularıyla başa çıkmaya çalışan Federico, El Báltico'yu bırakmayı düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2Yuxn2lqwyai5VmRbW1bWKjPUJf.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31656537/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Yayımlamak",
+                "overview": "Aile evinde gerçekleşen tehlikeli bir hırsızlığın ardından Manuel, aldığı bir bilgiyi kayınpederine iletir. Lara, León'un geçmişi hakkında daha fazla şey öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zrB3WwNDYqiLz4MdvtUzL13Otyk.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31656537/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Affetmek",
+                "overview": "Röportajın basına sızmasıyla Andrés ve Federico yakınlaşır. Yolanda'nın kocası, evliliklerini gözden geçirirken Guadalupe kendi evliliği hakkında bir şey öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/caDXjNvyMBCoj6RPVnKvtFO4DwH.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31656537/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Kavga",
+                "overview": "Andrés, Progresa'nın hissedarlarına konuşma yapar. Federico öfke içindeki bir mahkûmu ziyaret eder. Guadalupe, Manuel'in hatasıyla uğraşır. Lara, León'a yardım etmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l5MF9AVmgrN89brcEirDmTr98GU.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31656537/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Karar",
+                "overview": "Gazete, reddedemeyeceği bir teklif alır. Geçmişte işlenmiş bir suça ilişkin gerçek ortaya çıkınca Federico'nun bıraktığı mirasın geleceği tehlikeye girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qvuSTIAws1mXB7s4MPStU0lRsOG.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31656537/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:24:09"
+    },
+    {
+        "id": 248416,
+        "imdb_id": "tt31613279",
+        "name": "The Twisted Tale of Amanda Knox",
+        "original_name": "The Twisted Tale of Amanda Knox",
+        "overview": "Amanda Knox, üniversite eğitimi için İtalya'ya gitmesinden haftalar sonra işlemediği bir cinayetten haksız yere hapse atılır. Bu belgesel dizisi, Amanda'nın özgürlüğüne kavuşmak ve masumiyetini kanıtlamak için verdiği mücadeleyi ve de hem yetkililerin hem de dünyanın onu nasıl ve neden bu kadar kolay suçladığını inceliyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/udxkpbqBsVS4Hnrfn4HabDKKxb5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/iLzaLdkva7wUV9HMyykaHFUFHKA.jpg",
+        "year": "2025",
+        "rating": 7.1,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Grace Van Patten",
+                "role": "Amanda Knox",
+                "image": "https://image.tmdb.org/t/p/w200/2I5bXUYmjX10OzIqTpYhUrBwNkg.jpg"
+            },
+            {
+                "name": "Sharon Horgan",
+                "role": "Edda Mellas",
+                "image": "https://image.tmdb.org/t/p/w200/mNTtNGqdL8CzOBjCYCjOLRosOTM.jpg"
+            },
+            {
+                "name": "Francesco Acquaroli",
+                "role": "Giuliano Mignini",
+                "image": "https://image.tmdb.org/t/p/w200/djRTttvjXoRDHwdUpQdIngbfBnu.jpg"
+            },
+            {
+                "name": "Giuseppe De Domenico",
+                "role": "Raffaele Sollecito",
+                "image": "https://image.tmdb.org/t/p/w200/nOrnhwbzyaDop28nFS3JwKvO09J.jpg"
+            },
+            {
+                "name": "John Hoogenakker",
+                "role": "Curt Knox",
+                "image": "https://image.tmdb.org/t/p/w200/wjA5d3Mcv0uqwQqKqEKbQtF7BuH.jpg"
+            },
+            {
+                "name": "Roberta Mattei",
+                "role": "Valentina Greco",
+                "image": "https://image.tmdb.org/t/p/w200/oEXmUHiTtKVmwQUrWLCdXRWqQZx.jpg"
+            },
+            {
+                "name": "Joe Lanza",
+                "role": "Chris Mellas",
+                "image": "https://image.tmdb.org/t/p/w200/hSAgzc6sKwGa6FeO5oCJtpbtVBr.jpg"
+            },
+            {
+                "name": "Anna van Patten",
+                "role": "Deanna Knox",
+                "image": "https://image.tmdb.org/t/p/w200/tRLu2OUfnjtthOPvbVlBoIWuVRJ.jpg"
+            },
+            {
+                "name": "Corinna Locastro",
+                "role": "Ginevra Ferrari",
+                "image": "https://image.tmdb.org/t/p/w200/h0FEhBGKSePhLjU6TV2hVeShPCj.jpg"
+            },
+            {
+                "name": "Fabio Salerno",
+                "role": "Bruno Ricci",
+                "image": "https://image.tmdb.org/t/p/w200/kWIulDwDmXGlCPmvpbwFsW7n2Yi.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Amanda",
+                "overview": "Amerikalı üniversite öğrencisi Amanda Knox, İtalya'daki değişim programına katılır. Yeni İtalyan erkek arkadaşı Raffaele Sollecito ile romantik bir geziye çıkacağı sabah, işler kötüye gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nQ7pJAwqWt52oLT74VCEPAX4oSz.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Sonra Görüşürüz",
+                "overview": "Polis baskısı artarken, Amanda ve Raffaele'nin direnci kırılmaya çalışılıyor. Edda ise kızına kavuşmak için zamana karşı yarışıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tSxxMa7E2M6gouPkq4MsmauH0ym.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Perugia’nın Muhafızı",
+                "overview": "Amanda, Raffaele ve Patrick Lumumba hapse girerken, Savc? Giuliano Mignini iddialar?n? güçlendirmeye çal???r ve medya Amanda'y? canavar gibi gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rZNZMQauPfFo6N9WrsbHCAbEHwI.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Aşk Sana Yeter",
+                "overview": "Beklenmedik bir olay Mignini’nin iddianamesini sekteye u?rat?r ve yeni ?üpheli Rudy Guede aranmaya ba?lan?r. Merakla beklenen dava görülürken, medya da Amanda’n?n seçimlerini didik didik etmeye devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xK10K8oWH1DyBgYJerwaf2ur7KH.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Bay Hiç Kimse",
+                "overview": "Dava devam ederken Raffaele'nin hapiste geçirdiği günler aylara, aylar yıllara dönüşür ve çektikleri gözler önüne serilir. Raffaele'ye karardan önce savunmasını Amanda'nın savunmasından ayırması için baskı yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AitrKSOCDHXYVPwjKykqHHK4Xxj.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Colpevole",
+                "overview": "Karar sonrası bunalıma giren Amanda, hapis hayatına alışmaya çalışır. Temyiz duruşması yaklaşıp yeni gerçekler ortaya çıkarken Amanda, ilk duruşmadaki hatalarını tekrarlamamaya karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/x7o8vNUVfI48LYTEhtbNWJF3vxZ.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Sen de Oradaydın",
+                "overview": "Dört yıl haksız yere hapis yattıktan sonra Amanda ve Raffaele özgürlüklerine kavuşur. Amanda evine döner, ancak hiçbir şey eskisi gibi değildir. Kendisi bile değişmiştir. Üstelik kamuoyu hâlâ onun acı çekmesini istemektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lDs2LgR3N7u9gYksJ5g6EZipB6t.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Libertá",
+                "overview": "Artık özgür olsa da Perugia’da ve sonrasında yaşadığı olaylar Amanda'nın peşini bir türlü bırakmaz. Kendisine katil damgasını vuran adamla ne pahasına olursa olsun yüzleşmek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nVunfOO0Qd6mJGonizTh7ThHrBC.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt31613279/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:23:06"
+    },
+    {
+        "id": 242907,
+        "imdb_id": "tt31522591",
+        "name": "La suerte",
+        "original_name": "La suerte",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/k9ibdbWVF0qptcQQN6nqz4NlRhC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/6iGEQZUYugExJjmT5KWVKKNUxKA.jpg",
+        "year": "2025",
+        "rating": 6.3,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Ricardo Gómez",
+                "role": "David",
+                "image": "https://image.tmdb.org/t/p/w200/v1wrShJLsBnOypbXdxksvjy4cKG.jpg"
+            },
+            {
+                "name": "Óscar Jaenada",
+                "role": "Maestro",
+                "image": "https://image.tmdb.org/t/p/w200/qwphNLIwMyQW2ZLA0g0l1zFiB3w.jpg"
+            },
+            {
+                "name": "Óscar Higares",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/2WsJx83JvHw0q07cd3B43Yob5Nr.jpg"
+            },
+            {
+                "name": "Carlos Bernardino",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/lkyskhpzOX1nEbnJT452Wm0yYA0.jpg"
+            },
+            {
+                "name": "Pedro Bachura",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/bgOGxlpen6HoJUXPEkL1kZrCvdR.jpg"
+            },
+            {
+                "name": "Jason Fernández",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/6ah7wEH5b4yNQ4QeqGOcECNT2DX.jpg"
+            },
+            {
+                "name": "Óscar Reyes",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/y1j9Pk7ri4at9OmxvjWQjjtoPnI.jpg"
+            },
+            {
+                "name": "Almudena Amor",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/mmwdXj20aW4I0f413j1F0TeSGPC.jpg"
+            },
+            {
+                "name": "Almudena Cid",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/sjLcN9QzVttTBydICi10zGamxP9.jpg"
+            },
+            {
+                "name": "Diana Peñalver",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/kgaGA9jR3cN8IY7PKQwFLcKyA8r.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rZTPAZfAduuqg9hq3BZn9ZffkXM.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31522591/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5uNKNzrLTrbemVRi6baQVlQxQIu.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt31522591/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9dTSd95XkoGHoF2InM06NWBsp5J.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31522591/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5amI52FFsTuRTRQro7XiglTX4jf.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31522591/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/Ahjs7LOr4l6vCik7LOFJCfWJ4x6.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt31522591/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dAvTsPeLw86INvRO3uPjq9Qh5zB.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt31522591/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:21:53"
+    },
+    {
+        "id": 247732,
+        "imdb_id": "tt31512256",
+        "name": "NCIS: Tony & Ziva",
+        "original_name": "NCIS: Tony & Ziva",
+        "overview": "Cote de Pablo ve Michael Weatherly yeniden bir arada!Paris sokaklarında geçen dizi, eski ajanlar Tony DiNozzo ve Ziva David'in hem geçmişleriyle hem de peşlerindeki tehlikelerle yüzleşirken ailelerini koruma çabasını anlatıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/ub0xUWZUBoAwy1eBG1uwi9ikaVg.jpg",
+        "year": "2025",
+        "rating": 7.6,
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Michael Weatherly",
+                "role": "Tony DiNozzo",
+                "image": "https://image.tmdb.org/t/p/w200/o4UqLl3mx7SvFhr9xrpFv7VLpCS.jpg"
+            },
+            {
+                "name": "Cote De Pablo",
+                "role": "Ziva David",
+                "image": "https://image.tmdb.org/t/p/w200/py0I61VEXUyTvjHwWffClwfl9yb.jpg"
+            },
+            {
+                "name": "Isla Gie",
+                "role": "Tali",
+                "image": "https://image.tmdb.org/t/p/w200/ebVVBTpJFiEyKoMwKnbPqLSbSUb.jpg"
+            },
+            {
+                "name": "Amita Suman",
+                "role": "Claudette",
+                "image": "https://image.tmdb.org/t/p/w200/sNvhzsyttm39LPaANbwOMMmeXh4.jpg"
+            },
+            {
+                "name": "Maximilian Osinski",
+                "role": "Boris",
+                "image": "https://image.tmdb.org/t/p/w200/wMRtFsZSR9FvYj1wzsziKQqpZ0C.jpg"
+            },
+            {
+                "name": "Nassima Benchicou",
+                "role": "Martine",
+                "image": "https://image.tmdb.org/t/p/w200/dSKwE6u1VbImK7YqQri9tdFtyWV.jpg"
+            },
+            {
+                "name": "Julian Ovenden",
+                "role": "Jonah",
+                "image": "https://image.tmdb.org/t/p/w200/7ngG8lUX7G4bRH1fVw62yZVZ2X3.jpg"
+            },
+            {
+                "name": "Lara Rossi",
+                "role": "Sophie",
+                "image": "https://image.tmdb.org/t/p/w200/vjaf98Q2ZtFObKV28crg1PspaXn.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Aileleri tehlikede olan Tony ve Ziva, bu kötü niyetli siber saldırının arkasında kimin olduğunu bulmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tmGFYgaiPcoCvIzTDMrhpVIwwog.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Tony ve Ziva, izini sürmekte zorlandıkları bilgisayar korsanını bulurlar ancak Interpol peşlerine düşünce güçlerini birleştirirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sutGPC82CsVjlrAcSqX4YCK5z7q.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Kime güveneceklerini bilemeyen ve bir terör saldırısıyla suçlanan Tony ve Ziva ortadan kaybolurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zQTJXVOyJv9adIn5gbwScuLxgK6.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Tony ve Ziva, düşmanlarını ortaya çıkarmak için bir düğünü gizli operasyon olarak kullanırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kr4yeZqZAWZuwyek4axnvsCjsnu.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Interpol'ün kayıp genel sekreterini aramak için Tony ve Ziva, yüksek güvenlikli bir hapishaneye giderler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3bljEN3VwaM1MDjXTmkrIheFR36.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Tali'nin saklandığı güvenli evin ele geçirilmesiyle riskler daha da artar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/peqH3K7UxBuNAKUKDerl5fKU8Kz.jpg",
+                "vote_average": 9.6,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Tony ve Ziva, kendilerini tuzağa düşüren ajanları gözetlemek için Paris'e geri dönerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qetrRE3ekzBBxlOKe0GLJpBpF2A.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Yüksek teknoloji ürünü bir silah üreticisi ile bağlantıları ortaya çıkaran Tony ve Ziva hedef haline gelirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3zs0kAM4So2C9bSzio9xG9dqLJ7.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Tony ve Ziva, kritik bir anda düşmanla karşı karşıya kalırken korkularıyla yüzleşirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pC7rOu2xjkrElmNYBAVUnDkNNPx.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1iEG1PHRCCISpRVGmEgvQHImei.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 11:21:29"
+    },
+    {
+        "id": 247718,
+        "imdb_id": "tt31510819",
+        "name": "MobLand",
+        "original_name": "MobLand",
+        "overview": "İki düşman Londra suç ailesi olan Harrigan’lar ve Stevenson’lar arasında, imparatorlukları yıkma ve hayatları mahvetme tehdidi oluşturan öl ya da öldür savaşında güç ele geçirilmeyi bekliyor. Çatışmanın ortasında kalan ve tehlikeli olduğu kadar yakışıklı da olan ’çözümleyici’ Harry Da Souza, karşıt güçler çarpıştığında sadakatin nerede yattığını çok iyi biliyor. Krallıklar karşı karşıya gelirken, sınırlar aşılacak ve tek kurtuluş garantisi var: Her şeyin üstünde aile.",
+        "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+        "year": "2025",
+        "rating": 8.3,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Tom Hardy",
+                "role": "Harry Da Souza",
+                "image": "https://image.tmdb.org/t/p/w200/scbbuyWX3yuMjDlm1etAljrbCr0.jpg"
+            },
+            {
+                "name": "Pierce Brosnan",
+                "role": "Conrad Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+            },
+            {
+                "name": "Paddy Considine",
+                "role": "Kevin Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/rui7HJUi2TzqMh2GQJ1bcQzr8M0.jpg"
+            },
+            {
+                "name": "Joanne Froggatt",
+                "role": "Jan Da Souza",
+                "image": "https://image.tmdb.org/t/p/w200/eL6B9OTjeRALm5uUfMmy74Wu9Sr.jpg"
+            },
+            {
+                "name": "Lara Pulver",
+                "role": "Bella Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/uacMDTL4YnuJD6frGF35CHLFh43.jpg"
+            },
+            {
+                "name": "Anson Boon",
+                "role": "Eddie Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/e1Fffuy99j5TSi0Qbyt1N6adlOI.jpg"
+            },
+            {
+                "name": "Geoff Bell",
+                "role": "Richie Stevenson",
+                "image": "https://image.tmdb.org/t/p/w200/8aNglSp8fyxZLaJ1YtkYrssBGgN.jpg"
+            },
+            {
+                "name": "Jasmine Jobson",
+                "role": "Zosia",
+                "image": "https://image.tmdb.org/t/p/w200/3nPjCQdAUofg6qlfWomTVPaFLEu.jpg"
+            },
+            {
+                "name": "Mandeep Dhillon",
+                "role": "Seraphina Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/rVlSWINjaCMFWqkHpkjYy3zECka.jpg"
+            },
+            {
+                "name": "Helen Mirren",
+                "role": "Maeve Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Devam mı, Risk mi?",
+                "overview": "Harry, dışarı çıktıkları bir gecenin ardından bir sorunu çözmek için görevlendirilir. Patron Rischie Stevenson suçu başkasına atmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5IBWjTRedZgLgUEx5MYAq76FBZf.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Yapboz",
+                "overview": "Harry, Harrigan ailesinin toplantısının sonuçlarıyla uğraşır. Kevin ise Richie'nin tehdidinden sonra Eddie'yi Lonra'dan uzaklaştırmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/22kcWCxB4bf4ZlKx1UiE1zArFr2.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Richie hamlesini yapar ve Harriganları alarma geçirir. Conrad ve Maeve, Eddie konusunda anlaşmazlığa düşer ancak bir B planı üzerinde anlaşırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jKXqCG2lyCgWHSRyukpriRzoI14.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Harry, Bella'nın ısrarıyla Antoine'ı ziyaret eder. Bir köstebekten şüphelenen Conrad, Jan'dan bir iyilik ister. Richie, şaşırtıcı sonuçları olacak bir toplantı düzenler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vZFTF8722Rb2ERHLzy59kZLCNcO.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Harry ve Kevin yeni strateji arayışında olası senaryoları değerlendirir. Brendan geri dönmenin bir yolunu ararken Seraphina'yla yakınlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5qmnYYdQeeDpfo0Y5OxydemNdJl.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "İki aile arasında başlayan büyük savaş şehri kaosa sürüklerken arada kalan Harry Da Souza için her şey daha da karmaşık bir hal alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oOt4vYbcx4agDz6z0469mpsKtFG.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "O'Hara, herkesin kaçındığı gerçeği dile getirir. Maeve planını değiştirerek Conrad'ın güvenilirliğini sınar. Eddie ve Gina beklenmedik bir şekilde yakınlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6DDC6p6X3t2PczrhGrGpeTIHM2D.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "İki aile arasındaki gerilim artarken, Maeve zeytin dalı uzatır. Kevin, Jamie'yle masaya oturmanın akıllıca olup olmadığını sorgular. Harry Kat'tan yardım ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2vUQbTVyRYalHyJycvGuDI3x4KS.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Harry Da Souza, Harrigan ailesine olan sadakatini sorgulamaya başlar. Kevin geçmişiyle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5MES9byNUXMEmLYVZNkoSoi6P8e.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Conrad ve Maeve'nin tutuklanmasıyla aile içindeki dengeler sarsılır. Harry, Harrigan ailesinin çıkarlarını korumak için tehlikeli bir plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4jM8RZfCsdsqiCCQe0W3WNVMcVv.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 11:21:04"
+    },
+    {
+        "id": 247168,
+        "imdb_id": "tt31449991",
+        "name": "Chad Powers",
+        "original_name": "Chad Powers",
+        "overview": "Gözde oyun kurucu Russ Holliday, affedilmez bir hatayla yıkılan üniversite futbol kariyerinden sekiz yıl sonra, yetenekli ama tuhaf Chad Powers kılığına girerek zor zamanlar geçiren Güney Georgia Catfish takımına katılır ve hayallerini yeniden canlandırmaya çalışır.",
+        "poster": "https://image.tmdb.org/t/p/w500/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/lu4HO4kJx2aZzVgjoRcF9vYPaFI.jpg",
+        "year": "2025",
+        "rating": 8.2,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Glen Powell",
+                "role": "Russ Holliday / Chad Powers",
+                "image": "https://image.tmdb.org/t/p/w200/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+            },
+            {
+                "name": "Perry Mattfeld",
+                "role": "Ricky",
+                "image": "https://image.tmdb.org/t/p/w200/7oM81wmfkM185bivpMx95HMWeQ7.jpg"
+            },
+            {
+                "name": "Quentin Plair",
+                "role": "Coach Byrd",
+                "image": "https://image.tmdb.org/t/p/w200/jCVuX3cB0iyjsYaz2RcuBtX2MaL.jpg"
+            },
+            {
+                "name": "Wynn Everett",
+                "role": "Tricia",
+                "image": "https://image.tmdb.org/t/p/w200/hWLWcoqXumM9NY9vfByvQmmcFdb.jpg"
+            },
+            {
+                "name": "Frankie A. Rodriguez",
+                "role": "Danny",
+                "image": "https://image.tmdb.org/t/p/w200/uId2vuXalFLUQ9FyliPBLJcjP8u.jpg"
+            },
+            {
+                "name": "Steve Zahn",
+                "role": "Jake Hudson",
+                "image": "https://image.tmdb.org/t/p/w200/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. ÇEYREK",
+                "overview": "Sorunlu oyun kurucu Russ Holliday, üniversite futbol kariyerini mahvettikten yıllar sonra genç Chad Powers kimliğiyle zor durumdaki Güney Georgia Catfish’in kadrosuna girmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yhEiHCU5uK2wotYJjkPSZ0jxruI.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt31449991/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. ÇEYREK",
+                "overview": "Chad, ilk oyun kurucu olarak maç kadrosuna girmekte zorlanır, ardından Koç Hudson’ın göl kenarındaki mangal partisinde yeni kimliğini gizlemekte daha da zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/luQ25qUqg2FKUgFVjuI7SJGjY4y.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt31449991/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. ÇEYREK",
+                "overview": "Sezon açılış maçında Ole Miss'e karşı ikinci yarı oynanıyor ve Catfish geride. Yedek kalan Chad ve Ricky güçlerini birleştirip takımı kurtarmak için sahneye çıkarlar. Oyunun gidişatını değiştirmek için son bir şansları vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lIvp4XJJCZzkYhCkgdek6Ixplsv.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31449991/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. ÇEYREK",
+                "overview": "Knoxville’daki deplasman maçından bir gece önce Russ ve Danny kamp otelinden gizlice çıkıp düşman hattının ötesinde tehlikeli bir göreve gitmek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Gt6WqnmyFJFmU0c5HeZGga8enC.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt31449991/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. ÇEYREK",
+                "overview": "Catfish 5-0 yapar, Chad Powers ise yıldız oyuncudur. ESPN, Chad’i College Gameday’da ağırlamak ister. Ne ters gidebilir ki?",
+                "still_path": "https://image.tmdb.org/t/p/w400/hg8bUFST2TTqFp8Iz6mmL5h6DGw.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt31449991/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. ÇEYREK",
+                "overview": "Sezonun en önemli maçı yaklaşırken Chad Powers hakkındaki gerçekler açığa çıkmak üzeredir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ymn37pd1ZzRXcPdyqkrfifmukG2.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt31449991/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:19:02"
+    },
+    {
+        "id": 247784,
+        "imdb_id": "tt31407116",
+        "name": "PULSE",
+        "original_name": "PULSE",
+        "overview": "Miami'de bir hastanenin acil servisindeki bir grup asistan doktor, aralarında ihtilaf çıkaran bir suçlamanın ortasında tıbbi krizler ve kişisel dramalarla boğuşur.",
+        "poster": "https://image.tmdb.org/t/p/w500/uGKTDr8ruc4IHGsEZ8wSQZpy2eN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/pfEqosKFlJUvYgrO0XiJAiCzMFy.jpg",
+        "year": "2025",
+        "rating": 7.7,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Willa Fitzgerald",
+                "role": "Danielle Simms",
+                "image": "https://image.tmdb.org/t/p/w200/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
+            },
+            {
+                "name": "Colin Woodell",
+                "role": "Xander Phillips",
+                "image": "https://image.tmdb.org/t/p/w200/sMd7ba1hWVm5E1Lf5VYcj82ouod.jpg"
+            },
+            {
+                "name": "Jack Bannon",
+                "role": "Tom Cole",
+                "image": "https://image.tmdb.org/t/p/w200/eGX4dFdQz8bTYQXLasZkILvch8G.jpg"
+            },
+            {
+                "name": "Jessie T. Usher",
+                "role": "Sam Elijah",
+                "image": "https://image.tmdb.org/t/p/w200/bkFM2GHKU1rr6CRCgeaojY1TDCS.jpg"
+            },
+            {
+                "name": "Jessy Yates",
+                "role": "Harper Simms",
+                "image": "https://image.tmdb.org/t/p/w200/cwE9qYmKCcpfRiOgpm91djTKCyH.jpg"
+            },
+            {
+                "name": "Chelsea Muirhead",
+                "role": "Sophie Chan",
+                "image": "https://image.tmdb.org/t/p/w200/chIRzXrYwkOMmBtyGpqN7JTmJFL.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Abby",
+                "overview": "Kasırga Miami'ye yaklaşırken asistanların arasını bozan ciddi bir suçlamanın etkilediği Maguire acil servisi de fırtınadan nasibini alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/obtjfXrYY4izoCz3z7cF8mVo7SM.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Yalnız Kalmak",
+                "overview": "Giderek kötüleşen fırtına Acil Servis'te yoğunluğa neden olurken Danny zor kararlar vermeye mecbur kalır. Tom, sevdiği birisi yaralanınca duruma müdahale eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ghmqq3ULXOAKphRdiVV3P3LrKKp.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Elektrik",
+                "overview": "Hastanenin yedek jeneratörlerinin yakıtı azalınca Dr. Cruz, Vero için endişelenir. Sophie ve Camila tehlike içindeki bir hastayı kurtarmak amacıyla her şeyi göze alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u1MFzrmF6r3iH7X0wTanFrxxmOM.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "İyileştir, Gönder",
+                "overview": "Acil Servis, fırtınadan sonra tam kapasiteyle çalışırken Danny, hem ağır iş yükünün altından kalkmaya hem de Xander'la bir geçmişi olan yeni uzman doktorla baş etmeye uğraşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lWGKlvGpNxiynVAVCyLM3DECscq.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Özel Bir Şey Değil",
+                "overview": "Karizmatik bir şerif yardımcısı, kafayı Danny'ye takar. Küçük bir hastanın anne babası, bitmek bilmeyen istekleriyle Harper'ı zor duruma sokar. Sophie ahlaki bir ikilemle boğuşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8SnOs6pUnNLZ8SQl94xRSQlQcoz.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Homestead Kasabası",
+                "overview": "Geçimsiz babalarını ziyaret etmek için memleketlerine giden Danny ve Harper arasındaki anlaşmazlıklar tekrar baş gösterir. Tom ve Dr. Soriano'nun izin günü yarıda kesilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5xzcxj4zO6OIBuzNamC56eUTTUf.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Tercihler",
+                "overview": "Gelecek senenin başasistanını seçmeye hazırlanan Dr. Cruz, Danny ve Sam'i yakından izler. Camila küçük bir kızın gizemli hastalığıyla ilgili ipuçları arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/92sW7O2ss93cvNZooi71G7PI9xm.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Tatil",
+                "overview": "Danny ve Xander, İnsan Kaynakları Departmanı ile görüşmeyi beklerken acı dolu geçmişleriyle hesaplaşırlar. Yaşanan bir kriz, Tom'un sadakatsizliğinin açığa çıkmasına neden olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yPlMqzSVPFYSzpouXw6SsVyf4Rg.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Son Nöbet",
+                "overview": "Bir gece kulübünde çıkan yangın nedeniyle acil servis hastalarla dolar. Danny'nin kariyeri tehlikedeyken Dr. Cruz zor bir karar vermek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uj2Ce7cTxpGt0DMIg5ChlozGwgM.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Kennedy Hastanesi",
+                "overview": "Xander daha önce çalıştığı hastanede aslında neler yaşandığını itiraf eder. Acil serviste yeni akademik yıl başlarken yeni bir başasistan seçilir ve yeni zorluklar baş gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fqtdvIlnhqwzYr3chlaAh3pG2wT.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31407116/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 11:18:12"
+    },
+    {
         "id": 257534,
         "imdb_id": "tt31314754",
         "name": "Devil in Disguise: John Wayne Gacy",

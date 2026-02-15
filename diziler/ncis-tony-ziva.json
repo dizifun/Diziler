@@ -2,25 +2,160 @@
     "id": 247732,
     "imdb_id": "tt31512256",
     "name": "NCIS: Tony & Ziva",
+    "original_name": "NCIS: Tony & Ziva",
+    "overview": "Cote de Pablo ve Michael Weatherly yeniden bir arada!Paris sokaklarında geçen dizi, eski ajanlar Tony DiNozzo ve Ziva David'in hem geçmişleriyle hem de peşlerindeki tehlikelerle yüzleşirken ailelerini koruma çabasını anlatıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ub0xUWZUBoAwy1eBG1uwi9ikaVg.jpg",
     "year": "2025",
+    "rating": 7.6,
     "genres": [
         "Aksiyon & Macera",
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "TOD TV",
+        "Paramount+",
+        "Amazon Prime",
+        "Paramount Plus Essential",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Apple TV Channel",
+        "Paramount Plus Premium"
+    ],
     "cast": [
-        "Michael Weatherly",
-        "Cote De Pablo",
-        "Isla Gie",
-        "Amita Suman",
-        "Maximilian Osinski"
+        {
+            "name": "Michael Weatherly",
+            "role": "Tony DiNozzo",
+            "image": "https://image.tmdb.org/t/p/w200/o4UqLl3mx7SvFhr9xrpFv7VLpCS.jpg"
+        },
+        {
+            "name": "Cote De Pablo",
+            "role": "Ziva David",
+            "image": "https://image.tmdb.org/t/p/w200/py0I61VEXUyTvjHwWffClwfl9yb.jpg"
+        },
+        {
+            "name": "Isla Gie",
+            "role": "Tali",
+            "image": "https://image.tmdb.org/t/p/w200/ebVVBTpJFiEyKoMwKnbPqLSbSUb.jpg"
+        },
+        {
+            "name": "Amita Suman",
+            "role": "Claudette",
+            "image": "https://image.tmdb.org/t/p/w200/sNvhzsyttm39LPaANbwOMMmeXh4.jpg"
+        },
+        {
+            "name": "Maximilian Osinski",
+            "role": "Boris",
+            "image": "https://image.tmdb.org/t/p/w200/wMRtFsZSR9FvYj1wzsziKQqpZ0C.jpg"
+        },
+        {
+            "name": "Nassima Benchicou",
+            "role": "Martine",
+            "image": "https://image.tmdb.org/t/p/w200/dSKwE6u1VbImK7YqQri9tdFtyWV.jpg"
+        },
+        {
+            "name": "Julian Ovenden",
+            "role": "Jonah",
+            "image": "https://image.tmdb.org/t/p/w200/7ngG8lUX7G4bRH1fVw62yZVZ2X3.jpg"
+        },
+        {
+            "name": "Lara Rossi",
+            "role": "Sophie",
+            "image": "https://image.tmdb.org/t/p/w200/vjaf98Q2ZtFObKV28crg1PspaXn.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Aileleri tehlikede olan Tony ve Ziva, bu kötü niyetli siber saldırının arkasında kimin olduğunu bulmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tmGFYgaiPcoCvIzTDMrhpVIwwog.jpg",
+            "vote_average": 8.6,
             "link": "https://vidmody.com/vs/tt31512256/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Tony ve Ziva, izini sürmekte zorlandıkları bilgisayar korsanını bulurlar ancak Interpol peşlerine düşünce güçlerini birleştirirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sutGPC82CsVjlrAcSqX4YCK5z7q.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt31512256/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Kime güveneceklerini bilemeyen ve bir terör saldırısıyla suçlanan Tony ve Ziva ortadan kaybolurlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zQTJXVOyJv9adIn5gbwScuLxgK6.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt31512256/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Tony ve Ziva, düşmanlarını ortaya çıkarmak için bir düğünü gizli operasyon olarak kullanırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kr4yeZqZAWZuwyek4axnvsCjsnu.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt31512256/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Interpol'ün kayıp genel sekreterini aramak için Tony ve Ziva, yüksek güvenlikli bir hapishaneye giderler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3bljEN3VwaM1MDjXTmkrIheFR36.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt31512256/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Tali'nin saklandığı güvenli evin ele geçirilmesiyle riskler daha da artar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/peqH3K7UxBuNAKUKDerl5fKU8Kz.jpg",
+            "vote_average": 9.6,
+            "link": "https://vidmody.com/vs/tt31512256/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Tony ve Ziva, kendilerini tuzağa düşüren ajanları gözetlemek için Paris'e geri dönerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qetrRE3ekzBBxlOKe0GLJpBpF2A.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt31512256/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Yüksek teknoloji ürünü bir silah üreticisi ile bağlantıları ortaya çıkaran Tony ve Ziva hedef haline gelirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3zs0kAM4So2C9bSzio9xG9dqLJ7.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt31512256/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Tony ve Ziva, kritik bir anda düşmanla karşı karşıya kalırken korkularıyla yüzleşirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pC7rOu2xjkrElmNYBAVUnDkNNPx.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt31512256/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/1iEG1PHRCCISpRVGmEgvQHImei.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt31512256/s1/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:21:29"
 }

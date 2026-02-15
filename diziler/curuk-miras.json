@@ -2,23 +2,145 @@
     "id": 248716,
     "imdb_id": "tt31656537",
     "name": "Çürük Miras",
+    "original_name": "Legado",
+    "overview": "Federico Seligman (Jose Coronado), sahibi olduğu iletişim şirketindeki görevinden, iki yıldır işlerden elini ayağını çekmesine sebep olan hastalığı nedeniyle ayrılır. Döndüğünde ise oğullarının birer yabancıya dönüştüğünü ve şirketi nefret edeceği bir yola soktuğunu fark eder. Federico, mirasının çocukları tarafından yok edilmesini önlemek için akla hayale gelmeyecek şeyleri bile yapmayı göze alır.",
     "poster": "https://image.tmdb.org/t/p/w500/izMSX6IhszveWSmvd048toS7tCg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/clIn3tF321TcsajGGNoWMGcz0ii.jpg",
     "year": "2025",
+    "rating": 6.0,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Jose Coronado",
-        "Belén Cuesta",
-        "Diego Martín",
-        "Natalia Huarte",
-        "Gustavo Salmerón"
+        {
+            "name": "Jose Coronado",
+            "role": "Federico Seligman",
+            "image": "https://image.tmdb.org/t/p/w200/9xo68HzH8n78Xv6gMzKK7XnjtHd.jpg"
+        },
+        {
+            "name": "Belén Cuesta",
+            "role": "Yolanda Seligman",
+            "image": "https://image.tmdb.org/t/p/w200/caDd0J8smaQMvVjgJsDYabe4dzk.jpg"
+        },
+        {
+            "name": "Diego Martín",
+            "role": "Andrés Seligman",
+            "image": "https://image.tmdb.org/t/p/w200/vLCrfjWAS6cjN3CUE7p3HYPYoev.jpg"
+        },
+        {
+            "name": "Natalia Huarte",
+            "role": "Guadalupe Seligman",
+            "image": "https://image.tmdb.org/t/p/w200/dBWkYqzBRj4z0MuNUMyTHxjXzRO.jpg"
+        },
+        {
+            "name": "Gustavo Salmerón",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/tsfXGt9uyUD3JNSMIRJN8YqsEmi.jpg"
+        },
+        {
+            "name": "Nico Romero",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/46KRVkcecnOkygXmmyyhrbE2t68.jpg"
+        },
+        {
+            "name": "Iván Pellicer",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/uhwAlJ5hbHri3TUmAno9NcOA1MV.jpg"
+        },
+        {
+            "name": "Maria Morera Colomer",
+            "role": "Lara Seligman",
+            "image": "https://image.tmdb.org/t/p/w200/wFNhG5zX9qsoCCo9QEdkGuxjN7m.jpg"
+        },
+        {
+            "name": "Mireia Portas",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/aLmYbrWGKEF724U2T6N3FzMqVQz.jpg"
+        },
+        {
+            "name": "Susi Sánchez",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/hsOZ4Hyw3Zu2GnariSg28sUixPV.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Eve Dönüş",
+            "overview": "Tedavisi sona eren ve işinin başına dönen medya patronu Federico Seligman, gazetesinin yüksek itibarlı adının, çocukları tarafından bir skandala bulaştırıldığını öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rXiNJrlgzr7KrPmwZDFKW5fK7Lw.jpg",
+            "vote_average": 6.0,
             "link": "https://vidmody.com/vs/tt31656537/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Ceza",
+            "overview": "Andrés sağlık durumunu kullanarak babasını itibarsızlaştırmaya çalışırken üç kardeş paniğe kapılmamaya çalışır. Lara üniversitede gizemli yeni bir arkadaşla tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zHsBN3g6SAnoVjjxCe2sMBiUfKn.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt31656537/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Pazarlık",
+            "overview": "Guadalupe siyasette yükselmeye çalışırken Federico, El Báltico'da üst düzey bir pozisyon için Andrés ile kapışır. Yolanda tehlikeli bir aşk üçgenine dâhil olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cZCdgHeYUNwOuy0mxC9XzjhulCp.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt31656537/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Veda",
+            "overview": "Ortaya çıkan şoke edici bir gerçek, Manuel'in tutuklanmasına sebep olur. Yeniden alevlenen eski duygularıyla başa çıkmaya çalışan Federico, El Báltico'yu bırakmayı düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2Yuxn2lqwyai5VmRbW1bWKjPUJf.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt31656537/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Yayımlamak",
+            "overview": "Aile evinde gerçekleşen tehlikeli bir hırsızlığın ardından Manuel, aldığı bir bilgiyi kayınpederine iletir. Lara, León'un geçmişi hakkında daha fazla şey öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zrB3WwNDYqiLz4MdvtUzL13Otyk.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt31656537/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Affetmek",
+            "overview": "Röportajın basına sızmasıyla Andrés ve Federico yakınlaşır. Yolanda'nın kocası, evliliklerini gözden geçirirken Guadalupe kendi evliliği hakkında bir şey öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/caDXjNvyMBCoj6RPVnKvtFO4DwH.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt31656537/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Kavga",
+            "overview": "Andrés, Progresa'nın hissedarlarına konuşma yapar. Federico öfke içindeki bir mahkûmu ziyaret eder. Guadalupe, Manuel'in hatasıyla uğraşır. Lara, León'a yardım etmeye karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l5MF9AVmgrN89brcEirDmTr98GU.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt31656537/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Karar",
+            "overview": "Gazete, reddedemeyeceği bir teklif alır. Geçmişte işlenmiş bir suça ilişkin gerçek ortaya çıkınca Federico'nun bıraktığı mirasın geleceği tehlikeye girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qvuSTIAws1mXB7s4MPStU0lRsOG.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt31656537/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:24:09"
 }

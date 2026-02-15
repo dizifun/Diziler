@@ -2,18 +2,59 @@
     "id": 249042,
     "imdb_id": "tt31806037",
     "name": "Adolescence",
+    "original_name": "Adolescence",
+    "overview": "13 yaşındaki bir çocuk, sınıf arkadaşını öldürmekle suçlanınca ailesi, terapisti ve olayı soruşturan dedektif aynı soruyu sormak zorunda kalır: Gerçekte ne yaşandı?",
     "poster": "https://image.tmdb.org/t/p/w500/20i4nShZZg1g1VFHSB8xpaYM4r7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/llZodlkVKRkTdUsiRxvn8h80hhx.jpg",
     "year": "2025",
+    "rating": 7.9,
     "genres": [
         "Dram",
         "Suç"
+    ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
     ],
     "cast": [],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Miller ailesinin evine baskın yapan polis, genç Jamie'yi tutuklar ve sorgu odasına alır. Ancak Jamie yanlış bir şey yapmadığı konusunda ısrarcıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5h4BocxrJG4UVfsX0cdI3QCUyoK.jpg",
+            "vote_average": 8.1,
             "link": "https://vidmody.com/vs/tt31806037/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Jamie'nin okulunda cevap ve silah arayışına girişen polis, çocuğun arkadaşlarından hiçbir ipucu elde edemez. Ancak Dedektif Bascombe'un oğlu yetkililere yardım etmeye gönüllü olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uZ8QDoszwxM68WgPgjHfqTCZWZB.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt31806037/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Jamie bir psikologla görüşür. İlk başta konuşmaktan çekinen genç, nihayet Katie'ye karşı beslediği karmaşık duyguları ortaya döker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tx6jUngouwZxnVQDmz34bw24IQN.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt31806037/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Miller ailesi Eddie'nin doğum gününü her şey normalmiş gibi kutlamaya çalışır. Ama bir dizi üzücü olay aileyi uçurumun kenarına getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bVi6fXdsj2GXTJda563OfNJ1axQ.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt31806037/s1/e04"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:26:23"
 }

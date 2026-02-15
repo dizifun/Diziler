@@ -2,24 +2,76 @@
     "id": 286840,
     "imdb_id": "tt31806040",
     "name": "Millenium Star Soygunu",
+    "original_name": "The Diamond Heist",
+    "overview": "Bu inanılmaz ama gerçek suç dizisinde, değerli bir mücevheri çalmaya kalkışan soyguncular ve onların peşine düşen polisler bu soygun girişiminin öyküsünü anlatıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/yhbwLnjKzTqTNEIrf88e2MI0Xyi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5nWLwHIX9nAgsreSY6MaAc39gm.jpg",
     "year": "2025",
+    "rating": 6.8,
     "genres": [
         "Belgesel",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Nicholas Blatt",
-        "Λουκ Φίλποτ",
-        "Tuncay Gunes",
-        "Lee Wenham",
-        "Ray Betson"
+        {
+            "name": "Nicholas Blatt",
+            "role": "Bob Adams",
+            "image": "https://image.tmdb.org/t/p/w200/yw9LC2Hj2yzVm2kV0G3teYjmJ0D.jpg"
+        },
+        {
+            "name": "Λουκ Φίλποτ",
+            "role": "Lee Wenham",
+            "image": "https://image.tmdb.org/t/p/w200/9GHhNePHz9wKEte5zw7Q9YDWuFZ.jpg"
+        },
+        {
+            "name": "Tuncay Gunes",
+            "role": "Ray Betson",
+            "image": "https://image.tmdb.org/t/p/w200/ontQKU28YSZ6k2W8rAbQRBKXlZr.jpg"
+        },
+        {
+            "name": "Lee Wenham",
+            "role": "Self -   Robber",
+            "image": ""
+        },
+        {
+            "name": "Ray Betson",
+            "role": "Self - The Diamond Heist Mastermind (archive footage)",
+            "image": ""
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "No. 1: Hırsızlar",
+            "overview": "2000 yılında farklı tiplerden oluşan bir suçlu çetesi İngiliz tarihinin en cüretkâr soygununu planlar. Plan, Milenyum Kubbesi'nden çok iri bir elması çalmaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pA9iW9qtUQADyYkWcmh6r0TIQba.jpg",
+            "vote_average": 7.3,
             "link": "https://vidmody.com/vs/tt31806040/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "No. 2: Polisler",
+            "overview": "Büyükşehir polisinin seçkin bir departmanı, çete ile daha önce işlenen bir suç arasında bağ kurunca çete üyelerinin daha cüretkâr bir şey planladıklarından şüphelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wJJHrT7DmEN2sQMue44JD4q5ifd.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt31806040/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "No. 3: Hırsızlar ve Polisler",
+            "overview": "Soygun günü yaklaşırken hem suçlular hem de polisler eyleme geçmeye hazırlanır. Çete bu soygunun üstesinden gelmeyi başaracak mı yoksa Çevik Kuvvet oraya onlardan önce mi varacak?",
+            "still_path": "https://image.tmdb.org/t/p/w400/tK0lm5BYztr64GpCqT5O3lQ6gQV.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt31806040/s1/e03"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:26:24"
 }

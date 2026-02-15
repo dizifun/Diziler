@@ -2,23 +2,145 @@
     "id": 248416,
     "imdb_id": "tt31613279",
     "name": "The Twisted Tale of Amanda Knox",
+    "original_name": "The Twisted Tale of Amanda Knox",
+    "overview": "Amanda Knox, üniversite eğitimi için İtalya'ya gitmesinden haftalar sonra işlemediği bir cinayetten haksız yere hapse atılır. Bu belgesel dizisi, Amanda'nın özgürlüğüne kavuşmak ve masumiyetini kanıtlamak için verdiği mücadeleyi ve de hem yetkililerin hem de dünyanın onu nasıl ve neden bu kadar kolay suçladığını inceliyor.",
     "poster": "https://image.tmdb.org/t/p/w500/udxkpbqBsVS4Hnrfn4HabDKKxb5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iLzaLdkva7wUV9HMyykaHFUFHKA.jpg",
     "year": "2025",
+    "rating": 7.1,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Hulu",
+        "Disney+"
+    ],
     "cast": [
-        "Grace Van Patten",
-        "Sharon Horgan",
-        "Francesco Acquaroli",
-        "Giuseppe De Domenico",
-        "John Hoogenakker"
+        {
+            "name": "Grace Van Patten",
+            "role": "Amanda Knox",
+            "image": "https://image.tmdb.org/t/p/w200/2I5bXUYmjX10OzIqTpYhUrBwNkg.jpg"
+        },
+        {
+            "name": "Sharon Horgan",
+            "role": "Edda Mellas",
+            "image": "https://image.tmdb.org/t/p/w200/mNTtNGqdL8CzOBjCYCjOLRosOTM.jpg"
+        },
+        {
+            "name": "Francesco Acquaroli",
+            "role": "Giuliano Mignini",
+            "image": "https://image.tmdb.org/t/p/w200/djRTttvjXoRDHwdUpQdIngbfBnu.jpg"
+        },
+        {
+            "name": "Giuseppe De Domenico",
+            "role": "Raffaele Sollecito",
+            "image": "https://image.tmdb.org/t/p/w200/nOrnhwbzyaDop28nFS3JwKvO09J.jpg"
+        },
+        {
+            "name": "John Hoogenakker",
+            "role": "Curt Knox",
+            "image": "https://image.tmdb.org/t/p/w200/wjA5d3Mcv0uqwQqKqEKbQtF7BuH.jpg"
+        },
+        {
+            "name": "Roberta Mattei",
+            "role": "Valentina Greco",
+            "image": "https://image.tmdb.org/t/p/w200/oEXmUHiTtKVmwQUrWLCdXRWqQZx.jpg"
+        },
+        {
+            "name": "Joe Lanza",
+            "role": "Chris Mellas",
+            "image": "https://image.tmdb.org/t/p/w200/hSAgzc6sKwGa6FeO5oCJtpbtVBr.jpg"
+        },
+        {
+            "name": "Anna van Patten",
+            "role": "Deanna Knox",
+            "image": "https://image.tmdb.org/t/p/w200/tRLu2OUfnjtthOPvbVlBoIWuVRJ.jpg"
+        },
+        {
+            "name": "Corinna Locastro",
+            "role": "Ginevra Ferrari",
+            "image": "https://image.tmdb.org/t/p/w200/h0FEhBGKSePhLjU6TV2hVeShPCj.jpg"
+        },
+        {
+            "name": "Fabio Salerno",
+            "role": "Bruno Ricci",
+            "image": "https://image.tmdb.org/t/p/w200/kWIulDwDmXGlCPmvpbwFsW7n2Yi.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Amanda",
+            "overview": "Amerikalı üniversite öğrencisi Amanda Knox, İtalya'daki değişim programına katılır. Yeni İtalyan erkek arkadaşı Raffaele Sollecito ile romantik bir geziye çıkacağı sabah, işler kötüye gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nQ7pJAwqWt52oLT74VCEPAX4oSz.jpg",
+            "vote_average": 8.9,
             "link": "https://vidmody.com/vs/tt31613279/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Sonra Görüşürüz",
+            "overview": "Polis baskısı artarken, Amanda ve Raffaele'nin direnci kırılmaya çalışılıyor. Edda ise kızına kavuşmak için zamana karşı yarışıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tSxxMa7E2M6gouPkq4MsmauH0ym.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt31613279/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Perugia’nın Muhafızı",
+            "overview": "Amanda, Raffaele ve Patrick Lumumba hapse girerken, Savc? Giuliano Mignini iddialar?n? güçlendirmeye çal???r ve medya Amanda'y? canavar gibi gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rZNZMQauPfFo6N9WrsbHCAbEHwI.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt31613279/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Aşk Sana Yeter",
+            "overview": "Beklenmedik bir olay Mignini’nin iddianamesini sekteye u?rat?r ve yeni ?üpheli Rudy Guede aranmaya ba?lan?r. Merakla beklenen dava görülürken, medya da Amanda’n?n seçimlerini didik didik etmeye devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xK10K8oWH1DyBgYJerwaf2ur7KH.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt31613279/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Bay Hiç Kimse",
+            "overview": "Dava devam ederken Raffaele'nin hapiste geçirdiği günler aylara, aylar yıllara dönüşür ve çektikleri gözler önüne serilir. Raffaele'ye karardan önce savunmasını Amanda'nın savunmasından ayırması için baskı yapılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AitrKSOCDHXYVPwjKykqHHK4Xxj.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt31613279/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Colpevole",
+            "overview": "Karar sonrası bunalıma giren Amanda, hapis hayatına alışmaya çalışır. Temyiz duruşması yaklaşıp yeni gerçekler ortaya çıkarken Amanda, ilk duruşmadaki hatalarını tekrarlamamaya karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x7o8vNUVfI48LYTEhtbNWJF3vxZ.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt31613279/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Sen de Oradaydın",
+            "overview": "Dört yıl haksız yere hapis yattıktan sonra Amanda ve Raffaele özgürlüklerine kavuşur. Amanda evine döner, ancak hiçbir şey eskisi gibi değildir. Kendisi bile değişmiştir. Üstelik kamuoyu hâlâ onun acı çekmesini istemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lDs2LgR3N7u9gYksJ5g6EZipB6t.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt31613279/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Libertá",
+            "overview": "Artık özgür olsa da Perugia’da ve sonrasında yaşadığı olaylar Amanda'nın peşini bir türlü bırakmaz. Kendisine katil damgasını vuran adamla ne pahasına olursa olsun yüzleşmek zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nVunfOO0Qd6mJGonizTh7ThHrBC.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt31613279/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:23:06"
 }

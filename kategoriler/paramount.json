@@ -1,5 +1,338 @@
 [
     {
+        "id": 247732,
+        "imdb_id": "tt31512256",
+        "name": "NCIS: Tony & Ziva",
+        "original_name": "NCIS: Tony & Ziva",
+        "overview": "Cote de Pablo ve Michael Weatherly yeniden bir arada!Paris sokaklarında geçen dizi, eski ajanlar Tony DiNozzo ve Ziva David'in hem geçmişleriyle hem de peşlerindeki tehlikelerle yüzleşirken ailelerini koruma çabasını anlatıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/ub0xUWZUBoAwy1eBG1uwi9ikaVg.jpg",
+        "year": "2025",
+        "rating": 7.6,
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Michael Weatherly",
+                "role": "Tony DiNozzo",
+                "image": "https://image.tmdb.org/t/p/w200/o4UqLl3mx7SvFhr9xrpFv7VLpCS.jpg"
+            },
+            {
+                "name": "Cote De Pablo",
+                "role": "Ziva David",
+                "image": "https://image.tmdb.org/t/p/w200/py0I61VEXUyTvjHwWffClwfl9yb.jpg"
+            },
+            {
+                "name": "Isla Gie",
+                "role": "Tali",
+                "image": "https://image.tmdb.org/t/p/w200/ebVVBTpJFiEyKoMwKnbPqLSbSUb.jpg"
+            },
+            {
+                "name": "Amita Suman",
+                "role": "Claudette",
+                "image": "https://image.tmdb.org/t/p/w200/sNvhzsyttm39LPaANbwOMMmeXh4.jpg"
+            },
+            {
+                "name": "Maximilian Osinski",
+                "role": "Boris",
+                "image": "https://image.tmdb.org/t/p/w200/wMRtFsZSR9FvYj1wzsziKQqpZ0C.jpg"
+            },
+            {
+                "name": "Nassima Benchicou",
+                "role": "Martine",
+                "image": "https://image.tmdb.org/t/p/w200/dSKwE6u1VbImK7YqQri9tdFtyWV.jpg"
+            },
+            {
+                "name": "Julian Ovenden",
+                "role": "Jonah",
+                "image": "https://image.tmdb.org/t/p/w200/7ngG8lUX7G4bRH1fVw62yZVZ2X3.jpg"
+            },
+            {
+                "name": "Lara Rossi",
+                "role": "Sophie",
+                "image": "https://image.tmdb.org/t/p/w200/vjaf98Q2ZtFObKV28crg1PspaXn.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Aileleri tehlikede olan Tony ve Ziva, bu kötü niyetli siber saldırının arkasında kimin olduğunu bulmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tmGFYgaiPcoCvIzTDMrhpVIwwog.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Tony ve Ziva, izini sürmekte zorlandıkları bilgisayar korsanını bulurlar ancak Interpol peşlerine düşünce güçlerini birleştirirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sutGPC82CsVjlrAcSqX4YCK5z7q.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Kime güveneceklerini bilemeyen ve bir terör saldırısıyla suçlanan Tony ve Ziva ortadan kaybolurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zQTJXVOyJv9adIn5gbwScuLxgK6.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Tony ve Ziva, düşmanlarını ortaya çıkarmak için bir düğünü gizli operasyon olarak kullanırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kr4yeZqZAWZuwyek4axnvsCjsnu.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Interpol'ün kayıp genel sekreterini aramak için Tony ve Ziva, yüksek güvenlikli bir hapishaneye giderler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3bljEN3VwaM1MDjXTmkrIheFR36.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Tali'nin saklandığı güvenli evin ele geçirilmesiyle riskler daha da artar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/peqH3K7UxBuNAKUKDerl5fKU8Kz.jpg",
+                "vote_average": 9.6,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Tony ve Ziva, kendilerini tuzağa düşüren ajanları gözetlemek için Paris'e geri dönerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qetrRE3ekzBBxlOKe0GLJpBpF2A.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Yüksek teknoloji ürünü bir silah üreticisi ile bağlantıları ortaya çıkaran Tony ve Ziva hedef haline gelirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3zs0kAM4So2C9bSzio9xG9dqLJ7.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Tony ve Ziva, kritik bir anda düşmanla karşı karşıya kalırken korkularıyla yüzleşirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pC7rOu2xjkrElmNYBAVUnDkNNPx.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1iEG1PHRCCISpRVGmEgvQHImei.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt31512256/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 11:21:29"
+    },
+    {
+        "id": 247718,
+        "imdb_id": "tt31510819",
+        "name": "MobLand",
+        "original_name": "MobLand",
+        "overview": "İki düşman Londra suç ailesi olan Harrigan’lar ve Stevenson’lar arasında, imparatorlukları yıkma ve hayatları mahvetme tehdidi oluşturan öl ya da öldür savaşında güç ele geçirilmeyi bekliyor. Çatışmanın ortasında kalan ve tehlikeli olduğu kadar yakışıklı da olan ’çözümleyici’ Harry Da Souza, karşıt güçler çarpıştığında sadakatin nerede yattığını çok iyi biliyor. Krallıklar karşı karşıya gelirken, sınırlar aşılacak ve tek kurtuluş garantisi var: Her şeyin üstünde aile.",
+        "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+        "year": "2025",
+        "rating": 8.3,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Tom Hardy",
+                "role": "Harry Da Souza",
+                "image": "https://image.tmdb.org/t/p/w200/scbbuyWX3yuMjDlm1etAljrbCr0.jpg"
+            },
+            {
+                "name": "Pierce Brosnan",
+                "role": "Conrad Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+            },
+            {
+                "name": "Paddy Considine",
+                "role": "Kevin Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/rui7HJUi2TzqMh2GQJ1bcQzr8M0.jpg"
+            },
+            {
+                "name": "Joanne Froggatt",
+                "role": "Jan Da Souza",
+                "image": "https://image.tmdb.org/t/p/w200/eL6B9OTjeRALm5uUfMmy74Wu9Sr.jpg"
+            },
+            {
+                "name": "Lara Pulver",
+                "role": "Bella Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/uacMDTL4YnuJD6frGF35CHLFh43.jpg"
+            },
+            {
+                "name": "Anson Boon",
+                "role": "Eddie Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/e1Fffuy99j5TSi0Qbyt1N6adlOI.jpg"
+            },
+            {
+                "name": "Geoff Bell",
+                "role": "Richie Stevenson",
+                "image": "https://image.tmdb.org/t/p/w200/8aNglSp8fyxZLaJ1YtkYrssBGgN.jpg"
+            },
+            {
+                "name": "Jasmine Jobson",
+                "role": "Zosia",
+                "image": "https://image.tmdb.org/t/p/w200/3nPjCQdAUofg6qlfWomTVPaFLEu.jpg"
+            },
+            {
+                "name": "Mandeep Dhillon",
+                "role": "Seraphina Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/rVlSWINjaCMFWqkHpkjYy3zECka.jpg"
+            },
+            {
+                "name": "Helen Mirren",
+                "role": "Maeve Harrigan",
+                "image": "https://image.tmdb.org/t/p/w200/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Devam mı, Risk mi?",
+                "overview": "Harry, dışarı çıktıkları bir gecenin ardından bir sorunu çözmek için görevlendirilir. Patron Rischie Stevenson suçu başkasına atmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5IBWjTRedZgLgUEx5MYAq76FBZf.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Yapboz",
+                "overview": "Harry, Harrigan ailesinin toplantısının sonuçlarıyla uğraşır. Kevin ise Richie'nin tehdidinden sonra Eddie'yi Lonra'dan uzaklaştırmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/22kcWCxB4bf4ZlKx1UiE1zArFr2.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Richie hamlesini yapar ve Harriganları alarma geçirir. Conrad ve Maeve, Eddie konusunda anlaşmazlığa düşer ancak bir B planı üzerinde anlaşırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jKXqCG2lyCgWHSRyukpriRzoI14.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Harry, Bella'nın ısrarıyla Antoine'ı ziyaret eder. Bir köstebekten şüphelenen Conrad, Jan'dan bir iyilik ister. Richie, şaşırtıcı sonuçları olacak bir toplantı düzenler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vZFTF8722Rb2ERHLzy59kZLCNcO.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Harry ve Kevin yeni strateji arayışında olası senaryoları değerlendirir. Brendan geri dönmenin bir yolunu ararken Seraphina'yla yakınlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5qmnYYdQeeDpfo0Y5OxydemNdJl.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "İki aile arasında başlayan büyük savaş şehri kaosa sürüklerken arada kalan Harry Da Souza için her şey daha da karmaşık bir hal alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oOt4vYbcx4agDz6z0469mpsKtFG.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "O'Hara, herkesin kaçındığı gerçeği dile getirir. Maeve planını değiştirerek Conrad'ın güvenilirliğini sınar. Eddie ve Gina beklenmedik bir şekilde yakınlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6DDC6p6X3t2PczrhGrGpeTIHM2D.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "İki aile arasındaki gerilim artarken, Maeve zeytin dalı uzatır. Kevin, Jamie'yle masaya oturmanın akıllıca olup olmadığını sorgular. Harry Kat'tan yardım ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2vUQbTVyRYalHyJycvGuDI3x4KS.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Harry Da Souza, Harrigan ailesine olan sadakatini sorgulamaya başlar. Kevin geçmişiyle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5MES9byNUXMEmLYVZNkoSoi6P8e.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Conrad ve Maeve'nin tutuklanmasıyla aile içindeki dengeler sarsılır. Harry, Harrigan ailesinin çıkarlarını korumak için tehlikeli bir plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4jM8RZfCsdsqiCCQe0W3WNVMcVv.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31510819/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 11:21:04"
+    },
+    {
         "id": 52814,
         "imdb_id": "tt2934286",
         "name": "Halo",

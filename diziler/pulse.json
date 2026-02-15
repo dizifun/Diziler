@@ -2,23 +2,143 @@
     "id": 247784,
     "imdb_id": "tt31407116",
     "name": "PULSE",
+    "original_name": "PULSE",
+    "overview": "Miami'de bir hastanenin acil servisindeki bir grup asistan doktor, aralarında ihtilaf çıkaran bir suçlamanın ortasında tıbbi krizler ve kişisel dramalarla boğuşur.",
     "poster": "https://image.tmdb.org/t/p/w500/uGKTDr8ruc4IHGsEZ8wSQZpy2eN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/pfEqosKFlJUvYgrO0XiJAiCzMFy.jpg",
     "year": "2025",
+    "rating": 7.7,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Willa Fitzgerald",
-        "Colin Woodell",
-        "Jack Bannon",
-        "Jessie T. Usher",
-        "Jessy Yates"
+        {
+            "name": "Willa Fitzgerald",
+            "role": "Danielle Simms",
+            "image": "https://image.tmdb.org/t/p/w200/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
+        },
+        {
+            "name": "Colin Woodell",
+            "role": "Xander Phillips",
+            "image": "https://image.tmdb.org/t/p/w200/sMd7ba1hWVm5E1Lf5VYcj82ouod.jpg"
+        },
+        {
+            "name": "Jack Bannon",
+            "role": "Tom Cole",
+            "image": "https://image.tmdb.org/t/p/w200/eGX4dFdQz8bTYQXLasZkILvch8G.jpg"
+        },
+        {
+            "name": "Jessie T. Usher",
+            "role": "Sam Elijah",
+            "image": "https://image.tmdb.org/t/p/w200/bkFM2GHKU1rr6CRCgeaojY1TDCS.jpg"
+        },
+        {
+            "name": "Jessy Yates",
+            "role": "Harper Simms",
+            "image": "https://image.tmdb.org/t/p/w200/cwE9qYmKCcpfRiOgpm91djTKCyH.jpg"
+        },
+        {
+            "name": "Chelsea Muirhead",
+            "role": "Sophie Chan",
+            "image": "https://image.tmdb.org/t/p/w200/chIRzXrYwkOMmBtyGpqN7JTmJFL.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Abby",
+            "overview": "Kasırga Miami'ye yaklaşırken asistanların arasını bozan ciddi bir suçlamanın etkilediği Maguire acil servisi de fırtınadan nasibini alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/obtjfXrYY4izoCz3z7cF8mVo7SM.jpg",
+            "vote_average": 8.6,
             "link": "https://vidmody.com/vs/tt31407116/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Yalnız Kalmak",
+            "overview": "Giderek kötüleşen fırtına Acil Servis'te yoğunluğa neden olurken Danny zor kararlar vermeye mecbur kalır. Tom, sevdiği birisi yaralanınca duruma müdahale eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ghmqq3ULXOAKphRdiVV3P3LrKKp.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt31407116/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Elektrik",
+            "overview": "Hastanenin yedek jeneratörlerinin yakıtı azalınca Dr. Cruz, Vero için endişelenir. Sophie ve Camila tehlike içindeki bir hastayı kurtarmak amacıyla her şeyi göze alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u1MFzrmF6r3iH7X0wTanFrxxmOM.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt31407116/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "İyileştir, Gönder",
+            "overview": "Acil Servis, fırtınadan sonra tam kapasiteyle çalışırken Danny, hem ağır iş yükünün altından kalkmaya hem de Xander'la bir geçmişi olan yeni uzman doktorla baş etmeye uğraşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lWGKlvGpNxiynVAVCyLM3DECscq.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt31407116/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Özel Bir Şey Değil",
+            "overview": "Karizmatik bir şerif yardımcısı, kafayı Danny'ye takar. Küçük bir hastanın anne babası, bitmek bilmeyen istekleriyle Harper'ı zor duruma sokar. Sophie ahlaki bir ikilemle boğuşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8SnOs6pUnNLZ8SQl94xRSQlQcoz.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt31407116/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Homestead Kasabası",
+            "overview": "Geçimsiz babalarını ziyaret etmek için memleketlerine giden Danny ve Harper arasındaki anlaşmazlıklar tekrar baş gösterir. Tom ve Dr. Soriano'nun izin günü yarıda kesilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5xzcxj4zO6OIBuzNamC56eUTTUf.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt31407116/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Tercihler",
+            "overview": "Gelecek senenin başasistanını seçmeye hazırlanan Dr. Cruz, Danny ve Sam'i yakından izler. Camila küçük bir kızın gizemli hastalığıyla ilgili ipuçları arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/92sW7O2ss93cvNZooi71G7PI9xm.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt31407116/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Tatil",
+            "overview": "Danny ve Xander, İnsan Kaynakları Departmanı ile görüşmeyi beklerken acı dolu geçmişleriyle hesaplaşırlar. Yaşanan bir kriz, Tom'un sadakatsizliğinin açığa çıkmasına neden olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yPlMqzSVPFYSzpouXw6SsVyf4Rg.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt31407116/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Son Nöbet",
+            "overview": "Bir gece kulübünde çıkan yangın nedeniyle acil servis hastalarla dolar. Danny'nin kariyeri tehlikedeyken Dr. Cruz zor bir karar vermek zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uj2Ce7cTxpGt0DMIg5ChlozGwgM.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt31407116/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Kennedy Hastanesi",
+            "overview": "Xander daha önce çalıştığı hastanede aslında neler yaşandığını itiraf eder. Acil serviste yeni akademik yıl başlarken yeni bir başasistan seçilir ve yeni zorluklar baş gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fqtdvIlnhqwzYr3chlaAh3pG2wT.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt31407116/s1/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:18:12"
 }

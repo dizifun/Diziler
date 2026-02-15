@@ -2,23 +2,107 @@
     "id": 247168,
     "imdb_id": "tt31449991",
     "name": "Chad Powers",
+    "original_name": "Chad Powers",
+    "overview": "Gözde oyun kurucu Russ Holliday, affedilmez bir hatayla yıkılan üniversite futbol kariyerinden sekiz yıl sonra, yetenekli ama tuhaf Chad Powers kılığına girerek zor zamanlar geçiren Güney Georgia Catfish takımına katılır ve hayallerini yeniden canlandırmaya çalışır.",
     "poster": "https://image.tmdb.org/t/p/w500/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lu4HO4kJx2aZzVgjoRcF9vYPaFI.jpg",
     "year": "2025",
+    "rating": 8.2,
     "genres": [
         "Komedi"
     ],
+    "categories": [
+        "Tümü",
+        "Hulu",
+        "Disney+"
+    ],
     "cast": [
-        "Glen Powell",
-        "Perry Mattfeld",
-        "Quentin Plair",
-        "Wynn Everett",
-        "Frankie A. Rodriguez"
+        {
+            "name": "Glen Powell",
+            "role": "Russ Holliday / Chad Powers",
+            "image": "https://image.tmdb.org/t/p/w200/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+        },
+        {
+            "name": "Perry Mattfeld",
+            "role": "Ricky",
+            "image": "https://image.tmdb.org/t/p/w200/7oM81wmfkM185bivpMx95HMWeQ7.jpg"
+        },
+        {
+            "name": "Quentin Plair",
+            "role": "Coach Byrd",
+            "image": "https://image.tmdb.org/t/p/w200/jCVuX3cB0iyjsYaz2RcuBtX2MaL.jpg"
+        },
+        {
+            "name": "Wynn Everett",
+            "role": "Tricia",
+            "image": "https://image.tmdb.org/t/p/w200/hWLWcoqXumM9NY9vfByvQmmcFdb.jpg"
+        },
+        {
+            "name": "Frankie A. Rodriguez",
+            "role": "Danny",
+            "image": "https://image.tmdb.org/t/p/w200/uId2vuXalFLUQ9FyliPBLJcjP8u.jpg"
+        },
+        {
+            "name": "Steve Zahn",
+            "role": "Jake Hudson",
+            "image": "https://image.tmdb.org/t/p/w200/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. ÇEYREK",
+            "overview": "Sorunlu oyun kurucu Russ Holliday, üniversite futbol kariyerini mahvettikten yıllar sonra genç Chad Powers kimliğiyle zor durumdaki Güney Georgia Catfish’in kadrosuna girmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yhEiHCU5uK2wotYJjkPSZ0jxruI.jpg",
+            "vote_average": 8.2,
             "link": "https://vidmody.com/vs/tt31449991/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. ÇEYREK",
+            "overview": "Chad, ilk oyun kurucu olarak maç kadrosuna girmekte zorlanır, ardından Koç Hudson’ın göl kenarındaki mangal partisinde yeni kimliğini gizlemekte daha da zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/luQ25qUqg2FKUgFVjuI7SJGjY4y.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt31449991/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. ÇEYREK",
+            "overview": "Sezon açılış maçında Ole Miss'e karşı ikinci yarı oynanıyor ve Catfish geride. Yedek kalan Chad ve Ricky güçlerini birleştirip takımı kurtarmak için sahneye çıkarlar. Oyunun gidişatını değiştirmek için son bir şansları vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lIvp4XJJCZzkYhCkgdek6Ixplsv.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt31449991/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. ÇEYREK",
+            "overview": "Knoxville’daki deplasman maçından bir gece önce Russ ve Danny kamp otelinden gizlice çıkıp düşman hattının ötesinde tehlikeli bir göreve gitmek zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3Gt6WqnmyFJFmU0c5HeZGga8enC.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt31449991/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. ÇEYREK",
+            "overview": "Catfish 5-0 yapar, Chad Powers ise yıldız oyuncudur. ESPN, Chad’i College Gameday’da ağırlamak ister. Ne ters gidebilir ki?",
+            "still_path": "https://image.tmdb.org/t/p/w400/hg8bUFST2TTqFp8Iz6mmL5h6DGw.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt31449991/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. ÇEYREK",
+            "overview": "Sezonun en önemli maçı yaklaşırken Chad Powers hakkındaki gerçekler açığa çıkmak üzeredir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ymn37pd1ZzRXcPdyqkrfifmukG2.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt31449991/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:19:02"
 }

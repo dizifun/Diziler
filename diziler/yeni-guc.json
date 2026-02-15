@@ -2,23 +2,127 @@
     "id": 271128,
     "imdb_id": "tt31828197",
     "name": "Yeni Güç",
+    "original_name": "Skiftet",
+    "overview": "1950'lerin İsveç'inde personel eksikliği çeken bir polis teşkilatı, cesur bir deneye imza atarak tarihin ilk kadın polis memurlarını görevlendirir. Gerçek olaylardan esinlenildi.",
     "poster": "https://image.tmdb.org/t/p/w500/sdGDtKzTJff5iTnzWUB4uRtaEwI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jWUcTfpLo1nVBqBrbzZYP1hTMqf.jpg",
     "year": "2025",
+    "rating": 6.0,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Josefin Asplund",
-        "Agnes Westerlund Rase",
-        "Malin Persson",
-        "Christopher Wagelin",
-        "Rasmus Luthander"
+        {
+            "name": "Josefin Asplund",
+            "role": "Carin Eriksson",
+            "image": "https://image.tmdb.org/t/p/w200/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+        },
+        {
+            "name": "Agnes Westerlund Rase",
+            "role": "Siv Morell",
+            "image": "https://image.tmdb.org/t/p/w200/sXNtvq9ds0MYil8KXkGuDKFM2HO.jpg"
+        },
+        {
+            "name": "Malin Persson",
+            "role": "Ingrid Gustafsson",
+            "image": "https://image.tmdb.org/t/p/w200/yg2a5RIVikXdiMawknIQi4BDzFV.jpg"
+        },
+        {
+            "name": "Christopher Wagelin",
+            "role": "Johan Reimer",
+            "image": "https://image.tmdb.org/t/p/w200/pqo0mTnRcRvL0zDKaK2SCIxbdPZ.jpg"
+        },
+        {
+            "name": "Rasmus Luthander",
+            "role": "Arne Grahn",
+            "image": "https://image.tmdb.org/t/p/w200/xBzTqdPsEkTj8RQ2lh9xJwQ9muM.jpg"
+        },
+        {
+            "name": "Cilla Thorell",
+            "role": "Jenny Berg",
+            "image": "https://image.tmdb.org/t/p/w200/tr2PM3IPGWgYsmPsIBqVHAmPlim.jpg"
+        },
+        {
+            "name": "Hannes Fohlin",
+            "role": "Oscar Thornberg",
+            "image": "https://image.tmdb.org/t/p/w200/qdlAiGGpEW74bee0Vl6l5AhMrIj.jpg"
+        },
+        {
+            "name": "Jimmy Lindström",
+            "role": "Wallin",
+            "image": "https://image.tmdb.org/t/p/w200/jdeNSmrt0rgrLEXtawYS5RzdfRa.jpg"
+        },
+        {
+            "name": "Peter Eriksson",
+            "role": "Gunnar Swärd",
+            "image": "https://image.tmdb.org/t/p/w200/5SULDtaYpFN3n97aveZqaqPHJBP.jpg"
+        },
+        {
+            "name": "Pablo Leiva Wenger",
+            "role": "Rossi",
+            "image": "https://image.tmdb.org/t/p/w200/sIenZV6LpRCHx8zYuxkg87njYZz.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Siz Gerçek Polis misiniz?",
+            "overview": "Deneyin ilk gününde kadın polis memurları gerginliğin hüküm sürdüğü Klara bölgesinde devriye gezer. Carin kaybettiği bir şeyi ararken belediğinden fazlasını bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iKxZ9nn2uMIqmIHeKCotA3U8cKC.jpg",
+            "vote_average": 6.0,
             "link": "https://vidmody.com/vs/tt31828197/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "İsveç Güzeli",
+            "overview": "Gizemli bir mektup alan Carin, kendi yetki alanını aşan bir vakayı soruşturmaya karar verir. Ingrid ise polis karakolundaki sorunlu tutumları sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4wIhlEgijZEposnLqBzH51LvwaJ.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt31828197/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Dur, Ateş Ederim!",
+            "overview": "Memurlardan birinin aniden ayrılması deneyin geleceği konusunda şüphe yaratır. Sürpriz bir ziyaretçi Carin'i görmeye gelir. Güçlü biri, perde arkasında dizginleri ele alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r4XvHQsPohloVUXuzEvMx7F8bqM.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt31828197/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Şikayet Etmek Yok",
+            "overview": "Kadınların öz güveni yerine gelmeye başlar. Siv yaptığı tutuklamayla memurların saygısını kazanır. Carin gerçeği ortaya çıkarmaya kararlıdır. Ama Ingrid'in vicdanı rahat değildir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hTN1VRQqLbI5MrxU8w4sNerl1a.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt31828197/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Güzellik Salonu",
+            "overview": "Carin, Siv'e açılır. Ingrid, Arne'yle arasını düzeltmeye çalışır. Tehlikeli biri sorgulanırken soruşturma iyice derinleşir ve sırlar ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3oYvqECqji9vBOOX6ISdx4giU6V.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt31828197/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Böyle mi Oluyor?",
+            "overview": "Yaklaşmakta olan son değerlendirme deneyin geleceğini belirleyecektir. Bu yüzden Carin'in soruşturmayı ve diğer kadın memurları etkileyecek zor bir karar vermesi gerekir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jaZUh9IYSqV81qjJFpwHoNa9HWa.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt31828197/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:26:55"
 }

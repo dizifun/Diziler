@@ -2,24 +2,128 @@
     "id": 242907,
     "imdb_id": "tt31522591",
     "name": "La suerte",
+    "original_name": "La suerte",
+    "overview": "",
     "poster": "https://image.tmdb.org/t/p/w500/k9ibdbWVF0qptcQQN6nqz4NlRhC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6iGEQZUYugExJjmT5KWVKKNUxKA.jpg",
     "year": "2025",
+    "rating": 6.3,
     "genres": [
         "Komedi",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Hulu",
+        "Disney+"
+    ],
     "cast": [
-        "Ricardo Gómez",
-        "Óscar Jaenada",
-        "Óscar Higares",
-        "Carlos Bernardino",
-        "Pedro Bachura"
+        {
+            "name": "Ricardo Gómez",
+            "role": "David",
+            "image": "https://image.tmdb.org/t/p/w200/v1wrShJLsBnOypbXdxksvjy4cKG.jpg"
+        },
+        {
+            "name": "Óscar Jaenada",
+            "role": "Maestro",
+            "image": "https://image.tmdb.org/t/p/w200/qwphNLIwMyQW2ZLA0g0l1zFiB3w.jpg"
+        },
+        {
+            "name": "Óscar Higares",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/2WsJx83JvHw0q07cd3B43Yob5Nr.jpg"
+        },
+        {
+            "name": "Carlos Bernardino",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/lkyskhpzOX1nEbnJT452Wm0yYA0.jpg"
+        },
+        {
+            "name": "Pedro Bachura",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/bgOGxlpen6HoJUXPEkL1kZrCvdR.jpg"
+        },
+        {
+            "name": "Jason Fernández",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/6ah7wEH5b4yNQ4QeqGOcECNT2DX.jpg"
+        },
+        {
+            "name": "Óscar Reyes",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/y1j9Pk7ri4at9OmxvjWQjjtoPnI.jpg"
+        },
+        {
+            "name": "Almudena Amor",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/mmwdXj20aW4I0f413j1F0TeSGPC.jpg"
+        },
+        {
+            "name": "Almudena Cid",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/sjLcN9QzVttTBydICi10zGamxP9.jpg"
+        },
+        {
+            "name": "Diana Peñalver",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/kgaGA9jR3cN8IY7PKQwFLcKyA8r.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/rZTPAZfAduuqg9hq3BZn9ZffkXM.jpg",
+            "vote_average": 7.5,
             "link": "https://vidmody.com/vs/tt31522591/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/5uNKNzrLTrbemVRi6baQVlQxQIu.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt31522591/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/9dTSd95XkoGHoF2InM06NWBsp5J.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt31522591/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/5amI52FFsTuRTRQro7XiglTX4jf.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt31522591/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/Ahjs7LOr4l6vCik7LOFJCfWJ4x6.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt31522591/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/dAvTsPeLw86INvRO3uPjq9Qh5zB.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt31522591/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:21:53"
 }
