@@ -1,5 +1,170 @@
 [
     {
+        "id": 224819,
+        "imdb_id": "tt27554348",
+        "name": "Dear Hongrang",
+        "original_name": "탄금",
+        "overview": "Uzun zamandır kayıp olan bir vâris geri dönünce aşk ve şüphe iç içe geçer. O gerçekten Hongrang mıdır, yoksa kalpleri ve aile bağlarını altüst eden bir yabancı mıdır?",
+        "poster": "https://image.tmdb.org/t/p/w500/5L2yIwYrTZ0kmx7MT3P2gkDPUO7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mrofWp3zypeH2Et5YuvwfMFe0ZK.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "이재욱",
+                "role": "Sim Hongrang",
+                "image": "https://image.tmdb.org/t/p/w200/9dsWM2kiXO4utrg4GctdXDvhOKD.jpg"
+            },
+            {
+                "name": "조보아",
+                "role": "Sim Jae-yi",
+                "image": "https://image.tmdb.org/t/p/w200/1torx99sDl20pTzMI9XHaPuVP96.jpg"
+            },
+            {
+                "name": "정가람",
+                "role": "Sim Mu-jin",
+                "image": "https://image.tmdb.org/t/p/w200/nuG7pXpapuedmIEeTdHw7313t4A.jpg"
+            },
+            {
+                "name": "엄지원",
+                "role": "Min Yeon-ui",
+                "image": "https://image.tmdb.org/t/p/w200/21ln2aJX0BWCWURqpDW2CjKL9BB.jpg"
+            },
+            {
+                "name": "박병은",
+                "role": "Sim Yeol-guk",
+                "image": "https://image.tmdb.org/t/p/w200/8lDiEHjbBxPD8VNu1kGifMXhPUn.jpg"
+            },
+            {
+                "name": "김재욱",
+                "role": "Grand Prince Hanpyeong",
+                "image": "https://image.tmdb.org/t/p/w200/nRKpyplqobE3jnP0mewURo4VDNV.jpg"
+            },
+            {
+                "name": "박명훈",
+                "role": "Bang Ji Ryun",
+                "image": "https://image.tmdb.org/t/p/w200/5SucrxkigHss7UuJKrkfAZX5MXz.jpg"
+            },
+            {
+                "name": "조재윤",
+                "role": "Cho Bang Suk",
+                "image": "https://image.tmdb.org/t/p/w200/eFAeusBo0tXQ1Ul596YKl5dV4Rv.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Gökkuşağı Hong, Parlayan Rang - Kardeşim Hongrang",
+                "overview": "Sim Hongrang'ın aniden ortadan kaybolmasının üzerinden on iki yıl geçtikten sonra ona benzeyen bir adam ortaya çıkar ve tüm testlerden geçer. Yine de Sim Jae-yi ikna olmaz.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6vA5KrIQE11Yu2VkImBcMMrSiro.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Dünyamızı Çalan Kişi",
+                "overview": "Jae-yi ve Hongrang, çocukları kaçırdığı söylenen bir hayaleti ayrı ayrı aramaya koyulur. Bu sırada Jae-yi'nin hayatı tehlikeye girer ama Hongrang onu kurtarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qxeLZ3HsogW6wF0tPVcYpk5dpcU.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "En Gerçekçi Taklitçi",
+                "overview": "Hongrang'ın gösterdiği kahramanlıktan sonra Jae-yi şüphelerini gözden geçirir. Sim Mu-jin, Hongrang'ın doğum günü kutlamasında onun kim olduğunu ortaya çıkarmak için plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lpsAnBeZSyrF3F1RjFx0w7ps1F0.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Benzer Yaralarımız",
+                "overview": "Min Yeon-ui'nin planlarını öğrenen Sim Yeol-guk, bir karşı saldırı düzenler. Kendisine korkunç bir görev verilen Hongrang vicdanıyla baş başa kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lUBgBQo9VuN7cTEgikKy2vV8w2X.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Sakladıkça Derinleşen Duygular",
+                "overview": "Hongrang'ın geçmişi hakkında birçok şey öğrenen Jae-yi, ondan hoşlanmaya başlar. Hongrang ve Mu-jin, Min Hanım'ın Jae-yi evlendirerek ondan kurtulma planı yaptığından şüphelenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2fwnmSnX2f7nLBNH6UeWBlW9OYk.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Hiçbir Şey Mu, Bitmedi Jin - Kardeşim Mu-jin",
+                "overview": "Jae-yi'nin anlaşmalı evliliğini önleme planları başarısızlığa uğrayınca Jae-yi kendini tehlikeli bir durumun içinde bulur. Yeol-guk ve Yeon-ui arasındaki anlaşmazlık iyice artar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qncLWbZi3QkN5HgIl62CM9jRrpC.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Gürleyen Dalgalar",
+                "overview": "Jae-yi, Mu-jin'in makûs talihini değiştirip onu kurtarmak için ne mümkünse yapar. Daha sonra ölen bir çocuğun geri döndüğü haberi yayılır. Bu haber Hongrang'ı harekete geçirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5c48HNnJsM24sxlik8eRF7CvLFv.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kusurlu Jae, Ayrılıyor Yi - Benim Adım Jae-yi",
+                "overview": "Jae-yi, Hongrang'dan hoşlanmasına rağmen Mu-jin ile gitmeye karar verir. Yeol-guk bir komployla karşı karşıya olduğunu öğrendikten sonra hasar tespiti yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b2uOefkZtNxY6sn2UBstcedYQPf.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Canlı Kurbanlık",
+                "overview": "Hongrang ve Jae-yi'yi bulmak için başlatılan insan avı onları büyük tehlikeye sokar. Saklanırlarken aralarındaki bağ kuvvetlenir, tehlike ve zorlukları birlikte göğüslerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lLt0AB2f5zxsA2gRtJeOzzzCUyj.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Buruk Bir Veda",
+                "overview": "Hongrang yakalanınca Yeol-guk loncanın başına geçme girişiminde bulunur. Ama Prens Hanpyeong, büyük planını eyleme geçirmek için hiç vakit kaybetmez.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7LYVWRMIPbig9viOOYTgiHDLqJs.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "Sonsuza Dek",
+                "overview": "Hongrang ile ilgili gerçek ortaya çıkar ama düşmanlar değişmez. Acaba Mu-jin sonunda Jae-yi'yi kurtarıp geçmişin zincirlerinden kurtulabilecek midir?",
+                "still_path": "https://image.tmdb.org/t/p/w400/dXOhusS4AYmiDdP7jcTicJcbz4s.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt27554348/s1/e11"
+            }
+        ],
+        "update_date": "2026-02-15 09:43:30"
+    },
+    {
         "id": 135894,
         "imdb_id": "tt18265192",
         "name": "그리드",

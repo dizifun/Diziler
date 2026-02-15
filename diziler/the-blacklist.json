@@ -2,25 +2,1752 @@
     "id": 46952,
     "imdb_id": "tt2741602",
     "name": "The Blacklist",
+    "original_name": "The Blacklist",
+    "overview": "FBI'ın arananlar listesindeki kaçak, diğer kötüleri yakalamaları için FBI'a yardım teklifinde bulunur; tek şartı çaylak profil uzmanı Elizabeth Keen'in ortağı olmasıdır.",
     "poster": "https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
     "year": "2013",
+    "rating": 7.6,
     "genres": [
         "Dram",
         "Suç",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "NBC",
+        "Netflix"
+    ],
     "cast": [
-        "James Spader",
-        "Diego Klattenhoff",
-        "Hisham Tawfiq",
-        "Anya Banerjee",
-        "Harry Lennix"
+        {
+            "name": "James Spader",
+            "role": "Raymond 'Red' Reddington",
+            "image": "https://image.tmdb.org/t/p/w200/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+        },
+        {
+            "name": "Diego Klattenhoff",
+            "role": "Donald Ressler",
+            "image": "https://image.tmdb.org/t/p/w200/mpdtCA5birAW89dtkuAdR73wr2H.jpg"
+        },
+        {
+            "name": "Hisham Tawfiq",
+            "role": "Dembe Zuma",
+            "image": "https://image.tmdb.org/t/p/w200/go8XkwY6pbqfUDExs7o1U6O1r5u.jpg"
+        },
+        {
+            "name": "Anya Banerjee",
+            "role": "Siya Malik",
+            "image": "https://image.tmdb.org/t/p/w200/wQXxOrJAP0BCIacCMtraDoZh24Y.jpg"
+        },
+        {
+            "name": "Harry Lennix",
+            "role": "Harold Cooper",
+            "image": "https://image.tmdb.org/t/p/w200/kNGiizWpetf4pyAkINkjkWacmCL.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Pilot Bölüm",
+            "overview": "Bir suç dahisi, ele geçirmesi zor bir teröristi yakalama teklifiyle FBI'a teslim olur, ancak sadece çaylak bir profil uzmanıyla konuşacağını söyler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fSXe9RohuyfQogDIIOkxf3pq5Gr.jpg",
+            "vote_average": 7.6,
             "link": "https://vidmody.com/vs/tt2741602/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Serbest Çalışan (No.145)",
+            "overview": "Liz ve Red, işlediği cinayetleri büyük çaplı felaketlerle gizleyen bir suikastçıyı izlerler. Adalet Bakanlığı, Red'in gerekçelerini anlamakta zorluk çekmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jP4pxaODGIRFnxtnj1YQcV97eI7.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Wujing (No. 84)",
+            "overview": "Liz ve Red, CIA ajanlarını öldüren bir suikastçıyı yakalamak için gizli göreve giderler. Tom kendisine saldıran adam hakkında Liz'e sorular sorar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cZGANEbAEmk9gUxK1bQBoXRu1bc.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Yahnici (No. 161)",
+            "overview": "Liz'in en önemli tanığı ortadan kaybolduğunda Red, kurbanlarını pişirip iz bırakmadan yok eden bir katilden şüphelenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/w8vgrPlTAhdz3eVgRdrqokjPEAP.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Kurye (No. 85)",
+            "overview": "Benzersiz yeteneklere sahip bir aracı, FBI'ın kayıp bir NSA analistinin izini bulmasını sağlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2ZmIqbWiiLZQYZSZTUofDOaQrmw.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Gina Zanetakos (No. 152)",
+            "overview": "Tom'un adını temize çıkarmaya hevesli olan Liz, onu FBI'a teslim eder, ancak Tom'un kurumsal bir teröristle ilişkili olduğunu keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qWeS6FcCTeztYvWl0WP1bKQiU64.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Frederick Barnes (No. 47)",
+            "overview": "Metrodaki kimyasal saldırının ardından Liz ve ekibi, bir zamanlar devlet için çalışmış çılgın bir bilim adamının peşine düşerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4smyG7fCQC5TEmPoc0yODwpRRg5.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "General Ludd (No. 109)",
+            "overview": "Red, Liz'e yardım etmesi için görevlendirilir ve FBI, ABD ekonomisine diz çöktürmeye niyetli anti-kapitalist bir grubun peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fCg2UcimuZHSbf3M4DqdlVY4trY.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Anslo Garrick (No. 16): 1. Kısım",
+            "overview": "Red'e suikast girişimi FBI'yı kuşatma altına sokar. Liz, tesisi tekrar ele geçirmek için binadan gizlice ayrılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ibERwFXVib0UjYhCRuF2OjhQeT8.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Anslo Garrick (No. 16): 2. Kısım",
+            "overview": "Liz ve gizemli bir yabancı, Red ve Ressler'i Anslo Garrick ve Wild Bunch çetesinden kurtarmak için savaşırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4FHkIb2c3EknPpZ8fOGRo4Torrk.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "Yardımsever Vatandaş (No. 106)",
+            "overview": "Liz'in eskiden tanıdığı bir seri katil yine suç işler ve Red, kendisine ihanet edenin peşini bırakmaz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/winvmWeJaGcjiv9MUH8WamnGxOe.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "Simyacı (No. 101)",
+            "overview": "FBI'ın Simyacı olarak bilinen son hedefi, masumların DNA'larıyla oynayarak suçluları korumaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/SKHmnhwLM3L4iWQWjpCpiFimOE.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e12"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "name": "Evlat Edinme Acentası (No. 64)",
+            "overview": "Liz'in evlat edinme işleminin arifesinde Red, Liz'i gerçekten kötü niyetli yöntemler kullanan bir evlat edinme ajansının peşine takar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gHwC43BxubpqKaI5qEqsPbNhTUO.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e13"
+        },
+        {
+            "season": 1,
+            "episode": 14,
+            "name": "Madeline Pratt (No. 73)",
+            "overview": "Red'in eskiden tanıdığı baştan çıkarıcı bir kadın, bir antika eseri bulmak için yardım ister ve FBI'ı hayali bir göreve sürükler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6JTBfWugkuDYQkez2ZQJDkAj2ro.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e14"
+        },
+        {
+            "season": 1,
+            "episode": 15,
+            "name": "Yargıç (No. 57)",
+            "overview": "FBI, haksız yere hapse atılmış kişilere \"adalet\" dağıtan bir adamın peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5Cb9wkHmtEoIdISPfN3TkxSCDzC.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e15"
+        },
+        {
+            "season": 1,
+            "episode": 16,
+            "name": "Mako Tanida (No. 83)",
+            "overview": "Bir Yakuza lideri hapisten kaçıp, Ressler'den intikam almaya çalıştığında, Tom ve Jolene onunla karşı karşıya gelirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ouETCGahJ9vwHEHFngoevzYrYoF.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e16"
+        },
+        {
+            "season": 1,
+            "episode": 17,
+            "name": "Ivan (No. 88)",
+            "overview": "Liz, bir yandan istediği sistemi ele geçirebilen bir siber teröristi kovalarken, bir yandan da Jolene'in ortadan kayboluşunu araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3Vkojxvj5lHPLKGMTyfDcpxaaVT.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e17"
+        },
+        {
+            "season": 1,
+            "episode": 18,
+            "name": "Milton Bobbit (No. 135)",
+            "overview": "Liz, Tom'un gerçek kimliğini öğrenmeye çalışırken, sıradan insanları kiralık katil olmaya ikna eden bir sigortacıyı arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xyhPyi2ws5Fq94rncOrjPuQOm5F.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e18"
+        },
+        {
+            "season": 1,
+            "episode": 19,
+            "name": "Pavlovich Kardeşler (No. 119-122)",
+            "overview": "FBI adam kaçıran bir Sırp aileyi ararken Red, onları Tom'u yakalamak için bir planda kullanır, bu da Liz'le kaçınılmaz bir çatışma yaşamasına neden olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6yDB3sYlg567B1VQldRpVoGucM7.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e19"
+        },
+        {
+            "season": 1,
+            "episode": 20,
+            "name": "İktidarı Belirleyen (No. 42)",
+            "overview": "FBI, Kingmaker adıyla bilinen bir politik iş bitiriciyi takip ederken Red, kendisini saf dışı bırakmaya çalışan bilinmeyen bir düşmana karşı Fitch'ten koruma ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qO7CTFXBr9326iRJM6TBEDz2jGD.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e20"
+        },
+        {
+            "season": 1,
+            "episode": 21,
+            "name": "Berlin (No. 8)",
+            "overview": "Babasının ölümünün ardındaki gerçeği öğrendikten sonra Liz, durumu giderek umutsuzlaşan Red'le çalışmayı reddeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1NajMhELO2VIS7AEwHlgakByha5.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e21"
+        },
+        {
+            "season": 1,
+            "episode": 22,
+            "name": "Berlin: Sonuç (No. 8)",
+            "overview": "Rus uçak kazasının ardından Liz, Berlin'in izini bulmak için yeniden Red'le birlikte çalışmaya zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dMDglSv9KnB8mE70QJZnmpmlyy8.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt2741602/s1/e22"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Lord Baltimore (No. 104)",
+            "overview": "Gizemli bir suikastçı Reddington'ın eski karısını tehlikeye atar; Liz, Tom'la restleşmesinin sonuçlarıyla uğraşır; Cooper ise görev gücüne geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ghZAbde831XG4qvMEckSNpfPpkj.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Monarch Douglas Bankası (No. 112)",
+            "overview": "Görev Gücü ilginç bir Varşova banka soygununu soruşturur; Reddington'ın eski karısını kurtarmak için bir planı vardır, bu sırada Cooper ekibe yeni bir üye alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a5NjJHUfCEC2JywOdzZvYlRz2FD.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Dr. James Covington (No. 89)",
+            "overview": "Görev Gücü, karaborsa işler yürüten gözden düşmüş bir cerraha odaklanırken, Reddington yeni fırsatlar bulur; Liz ise güvensizliğini ifade eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iosq8xw8xS4Fybal093XnlfigpZ.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Dr. Linus Creel (No. 82)",
+            "overview": "Sıradan insanlar aniden katil haline geldiğinde Reddington, şeytani bir deneyden kuşkulanır; Liz, Naomi'ye gider ve onu Red hakkında sorgulamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ahkBzlbkdbvNgi1ChpMnudyG00x.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Cephe (No. 74)",
+            "overview": "Görev Gücü ölümcül bir virüsü yaymak üzere olan eko-teröristin peşine düşer; Reddington, gizlice Jennifer'ı gözetler; Liz, gizli bir bodrum katını ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u9f0WLTrEpCOQlGFSv1BmFojxuI.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Mombasa Karteli (No. 114)",
+            "overview": "Liz ve Reddington, insan kaçakçılığıyla bağlantılı kaçak avcılarla çatışırlar. Ressler'in bağımlılığı sorun çıkarmaya başlar. Bu arada Liz'in gizli sırrı ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/49gpMU6XuzxqFHuaM6ORmIJBouo.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Pala (No. 22)",
+            "overview": "Görev Gücü bir nükleer bilim insanının kaçırılmasına odaklanır. Tom'dan gelen istihbarat, Liz'e Berlin ve Reddington arasında bir görüşme ayarlama şansı verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5YYWRIVLxAGDJ5YaMrGU5WCzBRF.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Aralıkçı (No. 12)",
+            "overview": "Reddington ve Berlin, Moskova'da beklenmedik bir ittifak kurarlar. Liz sırrını Tom'dan saklamaya çalışırken, Tom ve Reddington'ın da kendi sırları vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AonRmUCRUZ3fep4FmFv9ptMcVUJ.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Luther Braxton (No. 21)",
+            "overview": "Reddington uzak bir hapishaneye atıldıktan sonra, onu çıkarmaları için Liz, Ressler ve Samar gönderilir. Braxton ise bildiklerini Liz'e anlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4KQLJ0SpbCyzQXIL9rzHil2kfyS.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Luther Braxton: Sonuç (No. 21)",
+            "overview": "Hapishane saldırısının ardından, Cooper bir kurtarma ekibi gönderir. Braxton Liz'i ele geçirir ve yangınla ilgili çocukluk anılarını ortaya çıkarmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/te6M8kDQx1fLNVMgWWEZnNd76Tb.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "Ruslan Denisov (No. 67)",
+            "overview": "Liz, Ressler ve Reddington, elinde birçok Amerikalı rehine tutan bir suçluyu etkisiz hale getirmek için çalışırlar. Bir yerel cinayet Liz için sorunlara neden olabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pYTFmwNaUr0bKVFuseaxF8tes9q.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "Kenyon Ailesi (No. 71)",
+            "overview": "Çok eşli bir tarikat lideri hakkında yapılan inceleme, yasadışı silah satışına bağlanır. Reddington, Fitch'in gizemli kasasının yerini bulmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vep4SmmhUWdqUN01lZDEmyCcmwb.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e12"
+        },
+        {
+            "season": 2,
+            "episode": 13,
+            "name": "Geyik Avcısı (No. 93)",
+            "overview": "Görev Gücü, yıllardır kurbanlarını avlayan bir seri katili yakalamayı kafasına koyar. Liz ve Red ise Fulcrum hakkında tartışırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/m7jmbcT8uw0kCtEvbABgSN2Sl6l.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e13"
+        },
+        {
+            "season": 2,
+            "episode": 14,
+            "name": "T. Earl King VI (No. 94)",
+            "overview": "Reddington, ünlü bir suç ailesi hakkında FBI'a bilgi verdikten sonra kaçırılır. Gizli göreve gitmeden önce Tom içinde hâlâ Liz'e karşı duygular beslediğini fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1mCc1zcfxRaNG2SsfSPuTNhajkI.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e14"
+        },
+        {
+            "season": 2,
+            "episode": 15,
+            "name": "Binbaşı (No. 75)",
+            "overview": "Liz işlemediği bir cinayetle suçlanırken, Reddington sorunu kendi çözmeye karar verir ve Tom'u aramak için Almanya'ya gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3oJvnb77Jx876Etyg5cOvIhTeei.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e15"
+        },
+        {
+            "season": 2,
+            "episode": 16,
+            "name": "Tom Keen (No. 7)",
+            "overview": "Liz aleyhine kanıtlar ortaya çıktıkça, Reddington ve Ressler'in Tom'u bulmaları kaçınılmaz olur. Ciddi bir teşhis Görev Gücü için işleri dallanıp budaklandırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jbTDMPJNE0ae5z9xpzejQNsK2qs.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e16"
+        },
+        {
+            "season": 2,
+            "episode": 17,
+            "name": "Uzun Ömürlülük Girişimi (No. 97)",
+            "overview": "Korkunç bir keşif, Reddington ve Liz'i ölümsüzlük deneyleri yapan bir bilimadamına götürür. Tom'un Liz'e hissettikleri ikisini birden tehlikeye atabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/saSdBVDfVkmvthKAIfi3fxvLeGl.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e17"
+        },
+        {
+            "season": 2,
+            "episode": 18,
+            "name": "Vanessa Cruz (No. 117)",
+            "overview": "Görev Gücü, zengin işadamlarını hedef alan gizemli bir kadını aramaktadır. Fulcrum üzerinde restleşmenin istenmeyen sonuçları olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/s8Qm6zM5IewIeKy56XnBOd9uV6M.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e18"
+        },
+        {
+            "season": 2,
+            "episode": 19,
+            "name": "Leonard Caul (No. 62)",
+            "overview": "Liz, kötü yaralanan Reddington'ı kurtarmak için idareyi ele alırken, Connoly'nin politik hamleleri şekillenmeye başlar. Liz ise Reddington konusunda Tom'u karşısına alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/btZbtBtwchtuqQYMtmpLQprUNwp.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e19"
+        },
+        {
+            "season": 2,
+            "episode": 20,
+            "name": "Quon Zhang (No. 87)",
+            "overview": "Görev Gücü cesetleri çalan bir usta suçluyu araştırırken, Liz geçmişi hakkında gerçeği aramaya devam eder. Tom ve Liz yeniden yakınlaşmaya başlarlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oS9BXeQwJRVJjzpP2meJjCr2NBI.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e20"
+        },
+        {
+            "season": 2,
+            "episode": 21,
+            "name": "Karakurt (No. 55)",
+            "overview": "Liz ve Ressler, yeni bir biyolojik silahla bir ABD senatörünü öldürmeyi hedefleyen suikastçının peşine düşerler. Liz, annesiyle ilgili şaşırtıcı şeyler öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2I4CYbIWpkVwAsk3vTezfhcebGD.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e21"
+        },
+        {
+            "season": 2,
+            "episode": 22,
+            "name": "Tom Connolly (No. 11)",
+            "overview": "Düzmece bir suikast suçlamasına maruz kalan Liz'e Reddington ve Cooper yardım eder. Liz ve Reddington yol ayrımına geldiklerinde eski sırlar açığa çıkmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fILf3A00xWvf9Yj8DoXCIpGCOwW.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt2741602/s2/e22"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Trol Çiftçisi (No. 38)",
+            "overview": "Liz ve Red, kara listeden birinden yardım almak ister. Ressler, Cooper'ı sorgular. Dembe'nin torunu kaçırılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eDt9GYwu9oo4B67SdbrX0QlgENl.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Marvin Gerard (No. 80)",
+            "overview": "Liz ve Red ayrıldıktan sonra bir akşam yemeğinde bir araya gelirler. Ressler onları izlemektedir. Cooper izne çıkması için baskı görür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vJYTfGhJYAAL1G6aoGHkH0kDG72.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Eli Matchett (No. 72)",
+            "overview": "Red ve Liz, Cabal'ın para aklayıcılarından, tarım ticareti yapan biri yoluyla onun hakkında bilgi toplar. Ekip küresel bir gıda krizini açığa çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iTrIedQpd5H6bekDO95wQrtKczF.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Ecinni (No. 43)",
+            "overview": "Red, Liz'in adını temize çıkarmak için Cabal'ın izini sürüp kara listeden biri olan Djinn'i bulmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tgW57kXR9zeyIm6fHl2kueXb3I3.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Arioch Cain (No. 50)",
+            "overview": "Liz ve Red, kara listede yer alan ve Liz'i öldürene ödül vaat eden birini bulmak için çalışır. Ressler'e CIA ile işbirliği yapma talimatı verilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k2u71D8MY72nEjedTHbiONtDRzN.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Sör Crispin Crandall (No. 86)",
+            "overview": "Red ve Liz, insanlığı kitle halinde yok olmaktan kurtarmak adına dünyanın en zeki insanlarını kaçıran bir milyarderle karşılaşırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qSar2ja1qw9EI9z9MGGuUWem7FO.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Zal Bin Hasaan (No. 31)",
+            "overview": "Ekip, Mossad ajanlarını öldürmek ve İsrailli bilim insanlarını kaçırmaktan sorumlu olan Samar'ın geçmişiyle bağlantılı bir İranlı teröristin peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eyytRGaP8Urjtgb2E5Uf4H4QTZp.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Otoyolun Kralları (No. 108)",
+            "overview": "Bir çete Red'i kaçırır. Liz'in çete üyelerinden birini rehine olarak alıp Red'le takas etmesi gerekmektedir. Cooper ve Tom, Liz'i temize çıkarma çabalarını sürdürürler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qTAZ5vIWZ78KEwsuPTrCB1bUUvx.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "Yönetici (No. 24)",
+            "overview": "Liz mahkemeye çıkana kadar gözetim altında tutulacaktır, ancak bazı güçler onun federal mahkemeye gitmesini engellemek için bir araya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jmJDqR6xmetv3vjl3ZsB0TK9z3p.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Yönetici: Sonuç (No. 24)",
+            "overview": "Cabal, Liz'e suikast düzenleyecektir. Red gizlice ekiple buluşur ve düşmanlarını kurnazca alt etmek için ince düşünülmüş bir oyun başlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cLNjAL7BGSefLVzOAausb7mhtiz.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e10"
+        },
+        {
+            "season": 3,
+            "episode": 11,
+            "name": "Bay Gregory Devry (No. 95)",
+            "overview": "Red ekibi uyararak, suç patronlarının gizli bir toplantı düzenlediklerini ve onu FBI ile işbirliği yaptığı için cezalandıracaklarını söyler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/asfhY98zz5dpx1hkuVdBADmELtz.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e11"
+        },
+        {
+            "season": 3,
+            "episode": 12,
+            "name": "Yargısız İnfaz Çetesi (No. 132)",
+            "overview": "Nadir bulunan tıbbi bir cihaz bir cinayette kullanılınca, Red ekibi uyararak, geçmişi Orta Çağ'a kadar uzanan yasa dışı bir örgütün yeniden ortaya çıktığını bildirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2IZZ5VI5ClGvZt2rhQXF3lcafth.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e12"
+        },
+        {
+            "season": 3,
+            "episode": 13,
+            "name": "Alistair Pitt (No. 103)",
+            "overview": "Red ve Liz, yasa dışı işlerle uğraşan iki aileyi birleştirmeye çalışan bir arabulucuyu durdurmak için ekiple birlikte çalışırlar. Tom eski aşklarından biriyle buluşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4lBf7eUb7leO3AVMgWhyi9aK65Y.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e13"
+        },
+        {
+            "season": 3,
+            "episode": 14,
+            "name": "Leydi Ambrosia (No. 77)",
+            "overview": "Red ve Liz, çocukları kaçıran bir kadının peşine düşerler. Tom'un Liz'e yardım etmek için yaptığı ihtiyatsız plan feci şekilde ters gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cvozLnZBvbaIEMu2PUbUb8ZsJ6.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e14"
+        },
+        {
+            "season": 3,
+            "episode": 15,
+            "name": "Drexel (No. 113)",
+            "overview": "Yeni bir İnternet şirketinin kurucusu öldürülür. Red şöhretli bir seri katilden şüphelenir. Bu arada Tom, hayatını tehlikeye sokan bir durumla karşı karşıya kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2j5cLtF1A6ENIFk8XYQaUTZPMil.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e15"
+        },
+        {
+            "season": 3,
+            "episode": 16,
+            "name": "Emanetçi (No. 78)",
+            "overview": "Pekin'de bir Dışişleri Bakanlığı görevlisinin öldürülmesi Red ve Liz'i, suçlulara kasa hizmeti sunan Emanetçi'ye götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qPzp1Zu9rk1rKbRcYH6Cynr6hU6.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e16"
+        },
+        {
+            "season": 3,
+            "episode": 17,
+            "name": "Bay Solomon (No. 32)",
+            "overview": "Liz önemli bir törene hazırlanırken Tom'un geçmişi onu rahat bırakmaz. Solomon polisin elinden kaçınca Red olayı soruşturur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pMwbpenVjJVT4EBTGjRvdLv2DPe.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e17"
+        },
+        {
+            "season": 3,
+            "episode": 18,
+            "name": "Bay Solomon: Sonuç (No. 32)",
+            "overview": "Ekip, aralarından biri ölüm tehlikesi geçirince Red'in alışılmışın dışındaki yöntemlerine göre hareket etmek zorunda kalır. Tom ve Liz beklemedikleri haberler alırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mzVwbQ4UxsOwkispebGYSYPOfKa.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e18"
+        },
+        {
+            "season": 3,
+            "episode": 19,
+            "name": "Mayıs Burnu",
+            "overview": "Acı içindeki Red yeni bir olay üzerinde çalışmaya başlar: Güzel bir kadın kim olduğunu bilmediği takipçilerinden kaçmaktadır ve onun yardımına ihtiyacı vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fA5b2cQ9azIu0q97nC2g0g0ER70.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e19"
+        },
+        {
+            "season": 3,
+            "episode": 20,
+            "name": "Artax Şebekesi",
+            "overview": "Ekip, bir uydu sistemini kontrol eden gizli bir grubun izini sürerken, Red eskiden tanıdığı ve sırlarını bilen biriyle karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hWYw7VplNcpveNWUtcshV3Z8Ksu.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e20"
+        },
+        {
+            "season": 3,
+            "episode": 21,
+            "name": "Susan Hargrave",
+            "overview": "Red zarif, güçlü ve çok tehlikeli bir kadınla Liz'in ölümü arasında bağlantı kurunca ekip bu kadını tekrar suç işlemeden önce durdurmak için bir kedi fare oyununa girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e0wJ61vtPR1zPWc1KEMSpLJGA1a.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e21"
+        },
+        {
+            "season": 3,
+            "episode": 22,
+            "name": "Alexander Kirk (No. 14)",
+            "overview": "Red ve FBI ekibi, yakın zamanda ortaya çıkan olayları düzenlediğinden şüphelenilen suçluya yaklaştıkça yasa dışı yöntemler kullanmaları gerektiğini fark ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jq5E0UIpXNHgEw5tiC5OJD2Qgwf.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e22"
+        },
+        {
+            "season": 3,
+            "episode": 23,
+            "name": "Alexander Kirk: Sonuç (No. 14)",
+            "overview": "Reddington ve ekip trajik bir kaybın baş şüphelisini ele geçirmek üzereyken beklenmedik bir ihanetle aralarından birini daha kaybetme tehlikesiyle karşı karşıya kalırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kf2SlQzjyMkoLUUI3Lf7zbj2yP1.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s3/e23"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Esteban (No. 79)",
+            "overview": "Özel tim Liz'in kaderi hakkında şoke edici bir açıklamayla sarsılırken Red, risklerin had safhada olduğu bir kurtarma görevine çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pvbrOJVtuEFpWRnPRIqAXf7KyPC.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Mato (No. 66)",
+            "overview": "Liz, Kirk'ün güvenilirliğini tartmaya çalışırken Red, Kirk'ün gelecek planlarını öngörmesine yardım edebilecek bir ödül avcısını bulmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7VtAFioZwQI9juiEgWgG10XqZ8g.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Miles McGrath (No. 65)",
+            "overview": "Red ve ekip, Kirk'ün kâr amacıyla suçları finanse eden müttefiklerinden birini bulmak için etkili adımlar atarken Liz, ailesi hakkında daha fazla şey öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iip9UDgzwA3naKHRRdrCT7zVn92.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "Gaia (No. 81)",
+            "overview": "Tom bebek Agnes'i bulmak için tehlikeli yöntemler izlerken çaresiz hâldeki Liz, Red ve özel timin yardımıyla, Kirk'le bağlantılı bir eko-teröristin peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8sdarVvmRfleGQGnqCiC92bJP43.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "Lindquist Sorunu (No. 105)",
+            "overview": "Özel tim, teknoloji yenilikçilerini hedef alan katili bulmaya çalışır. Red'in Kirk'ü yakalamak için başlattığı operasyon yüzünden Liz kendini arada kalmış hisseder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/orK8epesLwpZBH8Ko6XOspZj4jC.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Thrush (No. 53)",
+            "overview": "Kirk, yüksek düzeyde güvenli bilgisayar ağlarına sızmakta meşhur bir bilgisayar korsanı grubu tutunca Red ve Liz, hedeflerine kilitlenme fırsatı bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A1zuQL7Mhwm48GgAsgj14J6niBQ.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Dr. Adrian Shaw (No. 98)",
+            "overview": "Kirk'ün durumu kötüleşirken Liz, Cooper'a akıl danışır. Red, sahte kimlikler düzenleyen bir suçlunun peşindeki özel time önderlik eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4hNy8p2uFvsZVL30qrdRFBSkosg.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Dr. Adrian Shaw (No. 98): Sonu",
+            "overview": "Alexander Kirk hastaneden kaçınca Red ona zorlayıcı bir teklifte bulunur: Çaresiz hastalığının tedavisine karşılık Liz'i geri almak.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mU5rBic5cISRxbTCZRFFX2NEYRa.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "Lipet Deniz Mahsulü Şirketi (No. 111)",
+            "overview": "Birleşik Devletler'de faaliyet gösteren uluslararası bir teröristin soruşturması, şoke edici gerçeği ortaya çıkarır: ekip üyelerinden birisinin köstebek olma ihtimali.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l8bjvgl33WTmzFCjwaETUXjHdrS.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "Öngörücü (No. 163)",
+            "overview": "Onun için bıraktığı ipuçlarıyla Elizabeth'le dalga geçen bir seri katile ilişkin vakayı çözmek için son umut, 9 yaşındaki bir kızın önsezileridir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kZvKSSTcZapcpc7hhr5zzyaxyG2.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e10"
+        },
+        {
+            "season": 4,
+            "episode": 11,
+            "name": "Harem (No. 102)",
+            "overview": "Liz, federal koruma altındaki tanıkların kimliklerinin yer aldığı, farklı türde bir listenin çalınmasını engellemek için bir kadınlar çetesine sızar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/t4j74vdBPfBpBSGqsDW04cGdiOj.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e11"
+        },
+        {
+            "season": 4,
+            "episode": 12,
+            "name": "Natalie Luca (No. 184)",
+            "overview": "Red, Tom'a şaşırtıcı bir kariyer değişikliği teklif ederken ekip, hedeflerini çaresiz bir hastalık yardımıyla öldüren bir suikastçının kimliğini belirlemeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/m1OsKxUDr4euuQ3w9qccSNVjFFp.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e12"
+        },
+        {
+            "season": 4,
+            "episode": 13,
+            "name": "Isabella Stone (No. 34)",
+            "overview": "Tom geçmişi hakkında yanıtlar ararken Red, ekibin Kara Listesi'ndeki yeni kişi hakkında Liz'i uyarır: Liz'i mahvetmeye çalışan acımasız bir iftiracı.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9Lk1OteQQF145WMZdFiHiV8Ckbz.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e13"
+        },
+        {
+            "season": 4,
+            "episode": 14,
+            "name": "Mimar (No. 107)",
+            "overview": "Aram, titiz bir suç dehasını soruşturmak için bilgisayar korsanı kılığına girerken Red'in Isabella Stone'a parasal destek sağlayan kişiyi tespit etme arayışı devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vshbbTOAqwsAZx8j7dG4bwzIbTo.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e14"
+        },
+        {
+            "season": 4,
+            "episode": 15,
+            "name": "Eczacı (No. 59)",
+            "overview": "Kendisine ölümcül bir zehir verilen Red, ortaklarından hangisinin ona ihanet ettiğini tespit etmeye çalışır. Bu arada Liz ve ekip, zehri hazırlayanı araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3wOMHtGzqJ9PB73WoalS62uRx7S.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e15"
+        },
+        {
+            "season": 4,
+            "episode": 16,
+            "name": "Dembe Zuma (No. 10)",
+            "overview": "Aram'ın ortadan kaybolması, Red'e ve Özel Tim'e Dembe'nin nerede olabileceğine ilişkin ilk ipucunu vererek eski yardımcıyı büyük bir risk almaya mecbur eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rvxX4aDEnDvqvvdlCd53iRFZZ38.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e16"
+        },
+        {
+            "season": 4,
+            "episode": 17,
+            "name": "Ağıt",
+            "overview": "En tehlikeli düşmanı hesaplaşmak ve imparatorluğunu yok etmek için sinsi bir nihai plana girişirken Red'in geçmiş anıları, onu tehlikeli bir duruma düşürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ygMySd5Is2ANh7uGJo7dQthsVOa.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e17"
+        },
+        {
+            "season": 4,
+            "episode": 18,
+            "name": "Philomena (No. 61)",
+            "overview": "Red'in en yakın ortaklarını özel olarak hedefleyen bir ödül avcısı kiralanır. Yeni bir görevde eski iş arkadaşıyla çalışmak, Ressler için ahlaki ikilem yaratır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/c7tVjqzCJrZ9pBPePRN6yLlPcsM.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e18"
+        },
+        {
+            "season": 4,
+            "episode": 19,
+            "name": "Dr. Bogdan Krilov (No. 29)",
+            "overview": "Red ve ekip, anıları elde edip manipüle etmekteki becerisiyle Liz'in geçmiş deneyimlerini sorgulamasına neden olan, Kara Liste'deki bir kişiyi arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ow2YeZdeT4xYg3ldAG4vRoC3BU6.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e19"
+        },
+        {
+            "season": 4,
+            "episode": 20,
+            "name": "Tahsildar (No. 46)",
+            "overview": "Liz, Kara Liste'de yer alan, Tahsildar adlı biri tarafından kaçırılınca Red, onu güvenli biçimde geri almak için zor bir ittifak kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n8z062ulBf9DCczuxK9p5ut0zyG.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e20"
+        },
+        {
+            "season": 4,
+            "episode": 21,
+            "name": "Bay Kaplan (No. 4)",
+            "overview": "Özel Tim onunla olan ittifakı sebebiyle devlet tarafından soruşturulurken Red, suç ortaklarının yardımıyla Bay Kaplan'a iyice yaklaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hfUXSG5VStimupSLcIvskRMCWWk.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e21"
+        },
+        {
+            "season": 4,
+            "episode": 22,
+            "name": "Bay Kaplan (No. 4): Sonuç",
+            "overview": "Cooper ve Bay Kaplan, Red'in Liz'le ilişkisi hakkındaki gerçeği ararken Red, Özel Tim aleyhindeki davayı sabote etmesi için kötü şöhretli bir iş bitiriciyi görevlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/81U7sX0oDazy7IWeFv5nuO9Vm2g.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt2741602/s4/e22"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "Smokey Putnum (No. 30)",
+            "overview": "İmparatorluğunu kaybetmeyi umursamayan Red, görev gücüne para sağlamak ve kara listede olan yeni birini teslim etmek için Liz ile yeni bir iş ilişkisi kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vIdVdAPGCLvhnVDbe1ZqMYJKMjI.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "Greyson Blaise (No. 37)",
+            "overview": "Liz, Red ve görev gücü, sanat hırsızı olan bir milyarderin peşine düşer. Tom gizemli kemik kalıntılarını teşhis etmeye çalışır. Dembe bir ipucunu takip eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6l4gspWxQlrmxjST5P3qcfdm5MY.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "Bayan Rebecca Thrall (No. 76)",
+            "overview": "Görev gücü, polise yönelik bir dizi gizemli saldırıyı araştırır. Red, lekelenen itibarını yeniden düzeltmek için Tom'dan yardım ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vXpDIatLX1kWpWhbphNF461IkKX.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "Son Örnek (No. 44)",
+            "overview": "Liz ve görev gücü, dünyanın değerli hazinelerine zarar veren, yakalaması güç bir suçlunun peşine düşer. Parasız kalan Red, yeni bir iş fırsatını değerlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xVe9MIuSGixp7I2y2iwVaRaEZrv.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "Ilyas Surkov (No. 54)",
+            "overview": "Hawkins ile yeni bir iş girişimi için hazırlık yapan Red'in bir teröristle ilgili istihbaratı, görev gücünü rakip bir CIA birimi ile karşı karşıya getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fr7r4GZUocPegqx5zHcMwv5RGgq.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "Seyahat Acentesi (No. 90)",
+            "overview": "Red, kişisel bir davada Cooper'a yardım eder. Ressler, bir suikast şirketinin yeniden faaliyete geçmesini önlemek için görev gücüne liderlik eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qcd3yF7M7zkrNbDpPkb5PQ2rz0.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "Killgannon Şirketi (No. 48)",
+            "overview": "Dembe bir insan kaçakçılığı örgütünün içine sızar, ancak görev gücünün onunla irtibatı kesilir. Tom'un soruşturması hayatını tehlikeye atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cnsc7eWwabhLaxVkpothQM8uNVs.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "Ian Garvey (No. 13)",
+            "overview": "Tom kayıplara karışınca çılgına dönen Liz, onun izini sürmeye çalışır. Kemiklerle dolu gizemli bir valizi bulmaya çalışan Red, tehlikeli bir yola girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u6iENt8j49FBRwWhIptGMogfQiz.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e08"
+        },
+        {
+            "season": 5,
+            "episode": 9,
+            "name": "Çöküş",
+            "overview": "İntikam almak için yanıp tutuşmasına rağmen, Liz her şeyden uzakta yeni bir hayat kurmaya çalışır. Ancak çok geçmeden kimsenin öngörmediği bir tehdit ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7jjik2G1pP31blM2li6TKIM6yP0.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e09"
+        },
+        {
+            "season": 5,
+            "episode": 10,
+            "name": "Muhbir (No. 118)",
+            "overview": "Liz geleceğini planlarken görev gücü, bazı sırları satmak için konumunu kullanan, kara listedeki birinin peşine düşer ve Ressler'ı ifşa edebilecek bir insan avı başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8CkSTq5cZJtj0wwW89Ds0vGo3re.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e10"
+        },
+        {
+            "season": 5,
+            "episode": 11,
+            "name": "Abraham Stern (No. 100)",
+            "overview": "Red, servetini yeniden ele geçirmek için hayatı boyunca uğraşan acımasız bir finansçının dikkatini çeker. Liz, kara listedeki tehlikeli birinin yöntemlerini inceler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5lXCoLy8q2aB1hqmNos9dY1md0U.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e11"
+        },
+        {
+            "season": 5,
+            "episode": 12,
+            "name": "Aşçı (No. 56)",
+            "overview": "Tom'un katillerini bulmaya çalışırlarken Liz, Red'in asıl amacını sorgulamaya başlar. Görev gücü, bir kundakçıyı yakalamak için bir diğerinin becerilerinden faydalanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pbvoZCPHVyRAos3Cg6amXULhbQZ.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e12"
+        },
+        {
+            "season": 5,
+            "episode": 13,
+            "name": "Görünmez El",
+            "overview": "Ormanda bulunan cesetler, Red'in gizli ve ölümcül bir grup olan Görünmez El'den şüphelenmesine yol açar. Liz, Tom'un soruşturmasında bir ipucunu ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eCSU9nyO2g0oABeT6L2AoxgEW7b.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e13"
+        },
+        {
+            "season": 5,
+            "episode": 14,
+            "name": "Raleigh Sinclair III (No. 51)",
+            "overview": "Red ve görev gücü, katiller için sahte tanık sağlayan bir kara liste isminin peşine düşer. Bu sırada Liz, yeniden FBI'a katılmadan önce bir terapistle mülakat yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8CrfjSWJNXT51Qj2hHtgLjKUGvI.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e14"
+        },
+        {
+            "season": 5,
+            "episode": 15,
+            "name": "Pattie Sue Edwards (No. 68)",
+            "overview": "Aram, bir virüs salgınını araştırırken sahaya çıkar. Liz, Tom'un katillerini bulmak için yeni bir yol izler. Red, bir vergi sorunuyla uğraşmak zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gYWS3GaHGGFdqXmnQ9dvluPol2i.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e15"
+        },
+        {
+            "season": 5,
+            "episode": 16,
+            "name": "Oğlak Katili (No. 19)",
+            "overview": "Liz'in kariyerinin başlarında FBI için profil uzmanı olarak araştırdığı bir davayla ilgili yeni bilgiler su yüzüne çıkar. Görev gücü, Tom'un katillerinin peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uUX5ZXLwPF6A6vbWqUuiLCIZ5rJ.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s5/e16"
+        },
+        {
+            "season": 6,
+            "episode": 1,
+            "name": "Dr. Hans Koehler (No. 33)",
+            "overview": "Liz ve Jennifer, gerçek Raymond Reddington'ın ölümünü araştırırken Red ve görev gücü, suçlularla iş birliği yapan bir estetik cerrahı arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sE85ePiK2m4Eoev6GNrNwGLhQSX.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e01"
+        },
+        {
+            "season": 6,
+            "episode": 2,
+            "name": "Korsikalı (No. 20)",
+            "overview": "Liz görev gücüne Kara Liste'nin ele geçirilmesi en zor isimlerinden birinin saldırısını durdurmak için yardım ederken Red hayatını kökten değiştiren bir karşılaşma yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/p8r8hUut2jMpAkys3Yz8UV6qs3Q.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e02"
+        },
+        {
+            "season": 6,
+            "episode": 3,
+            "name": "Eczacı (No. 124)",
+            "overview": "Cooper'ın dürüstlüğü bir sınavdan geçerken Red, zorlu bir durumdan kurtulmaya çalışır. Liz, görev gücü ile birlikte kötü şöhretli bir biyolojik korsanın izini sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fbizhblaSX6teuq5QYLleX2VE8g.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e03"
+        },
+        {
+            "season": 6,
+            "episode": 4,
+            "name": "Rehinciler (No. 146/147)",
+            "overview": "Liz ve Jennifer, Red'in geçmişini araştırmaya devam ederken Red, eski bir düşmanıyla karşılaşır. Samar ise kimliğini gizleyerek karaborsaya girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/apaMnaR9RuQRv4Hr8cPLnlZyOdq.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e04"
+        },
+        {
+            "season": 6,
+            "episode": 5,
+            "name": "Alter Ego (No. 131)",
+            "overview": "Red dokunulmazlık anlaşmasının mahkemede tanınması için mücadele ederken Liz ve görev gücü, mirası şüpheli olan bir vârisi araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/z40ryaSw1zFlf5Xq0Va0WdFnO9H.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e05"
+        },
+        {
+            "season": 6,
+            "episode": 6,
+            "name": "Etik Kararlar (No. 91)",
+            "overview": "Red psikiyatrik değerlendirme için bir tıp merkezine gönderilirken Liz ve Jennifer, Kara Liste'de yer alan ve Red hakkında daha fazla bilgiye sahip olan birini arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tynZgJbBNMKdC1FM0WXbIJnbsW4.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e06"
+        },
+        {
+            "season": 6,
+            "episode": 7,
+            "name": "General Shiro (No. 116)",
+            "overview": "Red yaklaşan duruşma için Dembe ve Glenn'in yardımıyla jüri seçimi yapmaya çalışır. Görev gücü ise silah olarak kullanılan böceklere dair bir vakayla uğraşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lu8U2J0gBTjO2SJNYMajxlU2DPt.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e07"
+        },
+        {
+            "season": 6,
+            "episode": 8,
+            "name": "Marko Jankowics (No. 58)",
+            "overview": "Red'in geçmişine dair bir sırrı bilme ihtimali olan bir kadını arayan Liz ve Jennifer, bir kaçakçının hedefi hâline gelir. Red rakip çeteler arasında ara buluculuk yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kRGotgaTj51ifB3yuM8RdEiObbl.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e08"
+        },
+        {
+            "season": 6,
+            "episode": 9,
+            "name": "Bakan D (No. 99)",
+            "overview": "Liz ve görev gücü, kara listede yer alan ve karanlık sırları satmasıyla tanınan birini araştırırken Red, mahkemede vatan hainliği suçunu işlemediğini kanıtlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hQsZodhDk0fxdWbzCG0sLDbqV28.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e09"
+        },
+        {
+            "season": 6,
+            "episode": 10,
+            "name": "Kriptobanker (No. 160)",
+            "overview": "Görev gücü, yaklaşan bir saldırıyı durdurmak için internetteki kontrolsüz kripto para dünyasını araştırır. Red, özgürlük için bir risk alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fRv9kvZnlB1qqVHrpJRuUQL2yjN.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e10"
+        },
+        {
+            "season": 6,
+            "episode": 11,
+            "name": "Bastien Moreau (no. 20)",
+            "overview": "İdamına saatler kalan Red'i kurtarmak isteyen Liz ve görev gücü, uluslararası bir suikast hakkındaki gerçeği araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fcCju14onPG2WYQy98KUqlbTFqw.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e11"
+        },
+        {
+            "season": 6,
+            "episode": 12,
+            "name": "Bastien Moreau (no. 20): Sonuç",
+            "overview": "Cooper, Red adına doğrudan Beyaz Saray'a başvurma riskini alır. Liz ve ekip, bir komployla bağlantılı olan ve kara listede yer alan Korsikalı'nın izini sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oTYcbzrBQAKH1sro43ajMCbjlu8.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e12"
+        },
+        {
+            "season": 6,
+            "episode": 13,
+            "name": "Robert Vesco (No. 9)",
+            "overview": "Red ve görev gücü, dolandırıcılık kariyeriyle bir efsaneye dönüşen kötü şöhretli bir kanun kaçağının izini sürer. Samar hayatını değiştirebilecek bir seçimle karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fugVG4ZJnFho1wxu0CpF642c5Vd.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e13"
+        },
+        {
+            "season": 6,
+            "episode": 14,
+            "name": "Osterman Şemsiye Şirketi (No. 6)",
+            "overview": "Red, Liz'i gizli bir suikastçı örgütünü soruşturmaya gönderir. Farklı ülkelerin istihbarat birimleri için çalışan bu örgüt, eski ajanları ortadan kaldırmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/epZq4RDgyEoNmjqpCZmvpagqfNn.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e14"
+        },
+        {
+            "season": 6,
+            "episode": 15,
+            "name": "Olivia Olson (No. 115)",
+            "overview": "Görev gücünün yeni hedefi, suç örgütlerini yutma uzmanı olan ve Kara Liste'de yer alan biridir. Bu kişinin büyük bir komploya dair bilgi sahibi olma ihtimali de vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pgsFvOmZoLTB0Z36mJg3vT0NuNG.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e15"
+        },
+        {
+            "season": 6,
+            "episode": 16,
+            "name": "Leydi Şans (No. 69)",
+            "overview": "Red'in kendini ihbar eden hainin kimliğini belirleme çabası Dembe'yi endişelendirir. Liz ve Ressler kumar borçlarını silen ve Kara Liste'de yer alan bir ismi arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kalw6izHCbcE06fpsxAX9ke72HG.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2741602/s6/e16"
+        },
+        {
+            "season": 7,
+            "episode": 1,
+            "name": "Louis T. Steinhil (No. 27)",
+            "overview": "Red gözlerini açtığında kendini bir tutsak olarak bulur ve kime güveneceğini bilemez. Bu arada Liz ve ekibi, Red'in yerini bulmaya çalışırken bilinmedik sulara adım atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/38XlNvTMfo90cWU1zpTQq47l77H.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e01"
+        },
+        {
+            "season": 7,
+            "episode": 2,
+            "name": "Louis T. Steinhil (No. 27): Sonuç",
+            "overview": "Liz ve görev gücü, Red'i aramaya devam ederken Red, şaşırtıcı bir müttefikten yardım alır ve Katarina'nın tek hedefinin kendisi olmadığını öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eibJdsPVOJ1s07n2x8nneGMKfDf.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e02"
+        },
+        {
+            "season": 7,
+            "episode": 3,
+            "name": "Kötülük Çiçekleri (No. 151)",
+            "overview": "Aram, kana susamış zevklere sahip zenginlerin üye olduğu gizli bir derneğe sızar. Red, gizemli Townsend Emri'yle ilgili olan eski bir çalışma arkadaşını arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5LK0zZCg9caFu61nj94qTouKuhX.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e03"
+        },
+        {
+            "season": 7,
+            "episode": 4,
+            "name": "Kuveyt",
+            "overview": "Uzun süredir ölü sanılan iş arkadaşı bir savaş esiri olarak ortaya çıkınca geçmişi ve Kuveyt'te gerçekleşen \"ufak bir tatsızlık\" Cooper'ın yakasını bırakmaz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/QPryHcHgE83Ofgn7nKD7mt7kYo.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e04"
+        },
+        {
+            "season": 7,
+            "episode": 5,
+            "name": "Norman Devane (No. 138)",
+            "overview": "Liz ve ekibi, hastalık tiplerini silah olarak kullanmakta uzmanlaşmış, kötü şöhretli bir kiralık katilin peşine düşer. Küba'da ise Red ve Dembe bir ipucu peşindedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e7opDL2QXxG34Yjvyc4J8bnKQKQ.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e05"
+        },
+        {
+            "season": 7,
+            "episode": 6,
+            "name": "Dr. Lewis Powell (No. 130)",
+            "overview": "Bir yapay zekâ uzmanının ölümü Red'i ve görev gücünü teyakkuza geçirirken Francesca Campbell, Red'le daha fazla ilgilenmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/R0rrjnBrJur8FLpG6i3MKYOuE.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e06"
+        },
+        {
+            "season": 7,
+            "episode": 7,
+            "name": "Hannah Hayes (No. 125)",
+            "overview": "Görev gücü, bir valinin aniden ortadan kaybolup tekrar ortaya çıkmasını soruşturur. Red ve Dembe, Katarina Rostova'ya yakın birisini takip eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qJomG3ePCFSveuzGZsDGem0nowq.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e07"
+        },
+        {
+            "season": 7,
+            "episode": 8,
+            "name": "Hawaladar (No. 162)",
+            "overview": "Red ve görev gücü, izi takip edilemeyen para aktarımları konusunda uzmanlaşmış, kara listedeki bir adamı arar. Liz, Agnes'ten üzücü haberler alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o04DMX4s7tqKyTi1Eq6JEaOo5pU.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e08"
+        },
+        {
+            "season": 7,
+            "episode": 9,
+            "name": "Orion Ev Taşıma Hizmetleri (No. 159)",
+            "overview": "Red ve Liz suçluların ortadan kaybolmasına gizlice yardım eden bir grubu soruşturur. Katarina, Townsend Emri hakkında bilgi almak için eski bir arkadaşından yardım alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bfsJJ2VBLK66q2HEkcNkfA72aTB.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e09"
+        },
+        {
+            "season": 7,
+            "episode": 10,
+            "name": "Katarina Rostova (No. 3)",
+            "overview": "Red ve görev gücü eskiden kara listede olan birini ziyaret eder. Bu arada Liz sert bir çatışma nedeniyle önemli bir tercihte bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kSIMlx8REOOPwqy1V1wPCU7gNlk.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e10"
+        },
+        {
+            "season": 7,
+            "episode": 11,
+            "name": "Victoria Fenberg (No. 137)",
+            "overview": "Liz ve Ressler birbirlerine güvenir. Aram'ın aşk hayatı karmaşık bir hâl alır. Red, çalıntı bir sanat eserini satma planını sekteye uğratan bir sahtekârın peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AlklaPsQ1QHAJrtXgYuf3V0LMFW.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e11"
+        },
+        {
+            "season": 7,
+            "episode": 12,
+            "name": "Cornelius Ruck (No. 155)",
+            "overview": "Red, çalıntı sanat eseri planının bir parçası olarak özel bir adada eski bir sevgilisiyle yeniden bir araya gelir, ama adadaki konuklar gizemli bir şekilde ölmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rWCZlRy5GsKvSf1IftstheRhXMl.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e12"
+        },
+        {
+            "season": 7,
+            "episode": 13,
+            "name": "Newton Purcell (No. 144)",
+            "overview": "Kara listede bulunan, tuhaf bir duruma sahip bir kişi veri merkezlerine saldırır. Liz gizli bir yan soruşturma yürütür. Glen, Red'e faydalı olduğunu kanıtlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fbCQduaWXbGOFtCxshK68x7csRn.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e13"
+        },
+        {
+            "season": 7,
+            "episode": 14,
+            "name": "Twamie Ullulaq (No. 126)",
+            "overview": "Alaska Üçgeni'ndeki gizemli bir kayıp vakası, Ajan Park için kişisel önem taşır. Aram ve Red, Elodie'nin kocasının başına neler geldiğini tespit etmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zmigo6tSm2DRvf7t4ykj4nSMTMW.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e14"
+        },
+        {
+            "season": 7,
+            "episode": 15,
+            "name": "Gordon Kemp (No. 158)",
+            "overview": "Bir silah üreticisiyle alakalı bir dava, Red 'i hem görev gücü hem de Liz ile karşı karşıya getirir. Herkesten şüphelenen Ilya Koslov izlendiğini düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a2ygkifhs4C0hPncgedlyFMaf77.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e15"
+        },
+        {
+            "season": 7,
+            "episode": 16,
+            "name": "Nyle Hatcher (No. 149)",
+            "overview": "Liz'in FBI'da profil uzmanıyken üzerinde çalıştığı, unutulmuş bir dosya yeniden açılır ve görev gücünü tuhaf bir yolla servet kazanan bir cenazeciye yönlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cKmVAVhEFyM0CWhgYiDKFQpDrWm.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt2741602/s7/e16"
+        },
+        {
+            "season": 8,
+            "episode": 1,
+            "name": "Roanoke (No. 139)",
+            "overview": "Red, ekibin efsanevi bir suçlu olan Roanoke’i ayrıntılı bir şekilde araştırmasını ister. Bu sırada Liz, annesi Katarina Rostova’nın gizli planlarına dahil olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lPRk573a9e5DUDCQNYiF4vTMSiw.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e01"
+        },
+        {
+            "season": 8,
+            "episode": 2,
+            "name": "Katarina Rostova (No. 3): Sonuç",
+            "overview": "Liz, aradığı soruların kaynağı olan büyükbabasını konuşturmak ve doğruları öğrenmek için zorlar. Red ve ekip Liz’in annesi ile hareket ettiğini öğrenir. Red ve Liz’in ilişkisini sonsuza dek değiştirecek çok önemli bir olay yaşanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2wLyuGpMMaklQ5miNUP25mXVi6V.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e02"
+        },
+        {
+            "season": 8,
+            "episode": 3,
+            "name": "16 ons",
+            "overview": "İhanete uğrayan Elizabeth Keen, Reddington'dan intikam almak ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mz3oHUhlmwr7RFU8dozdww10RQ.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e03"
+        },
+        {
+            "season": 8,
+            "episode": 4,
+            "name": "Elizabeth Keen (No. 1)",
+            "overview": "Red ve ekip Liz’i ararken, Liz çok kötü sonuçlara yol açacak yeni bir planı devreye sokar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3QjpMzdn4Q8SWvhneDCwyCEoQhr.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e04"
+        },
+        {
+            "season": 8,
+            "episode": 5,
+            "name": "Fribourg Güvencesi (No. 140)",
+            "overview": "Ekip, hırsızlıktan banka soygunculuğuna, birçok suçta uzmanlaşmış bir örgütü araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1G6OAOmE0yznk5eDjOnJMCaW4Im.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e05"
+        },
+        {
+            "season": 8,
+            "episode": 6,
+            "name": "Wellstone Ajansı (No. 127)",
+            "overview": "Red ve Dembe, yakın bir arkadaşının son dileklerini yerine getirmek için büyük çaba sarf ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8KeEE9AzXfHf3eUZ6OYMWTYNnyW.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e06"
+        },
+        {
+            "season": 8,
+            "episode": 7,
+            "name": "Kimyasal Mary (No. 143)",
+            "overview": "Ekip, kara listeye giren iki örgütün yol açtığı tehlikeyi durdurmak için mücadele eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8v7YUw4PyhgFUl2zlizRJkiIaqv.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e07"
+        },
+        {
+            "season": 8,
+            "episode": 8,
+            "name": "Ogden Greeley (No. 40)",
+            "overview": "Ekip, önemli bir kayıp vakasını araştırmaya başlarken, Cooper beklenmedik bir teklif alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qRf3piJDqVlEcziMQC9x4RmJZ5C.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e08"
+        },
+        {
+            "season": 8,
+            "episode": 9,
+            "name": "Cyranoid (No. 35)",
+            "overview": "Ekip, suçlulara yardım eden bir girişimle karşılaşır. Red ise Liz'in cesur hamlesine karşı koymaya çabalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mHM7SbEMAXAQgnqsUZE1Tlv3Jm7.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e09"
+        },
+        {
+            "season": 8,
+            "episode": 10,
+            "name": "Dr. Laken Perillos (No. 70)",
+            "overview": "Townsend, kurbanlarını sorgulamak için alışılmışın dışında yöntemler kullanan bir işkence uzmanını görevlendirince Red ve Dembe tehlikeye atılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3g43OfpEzDevUI9DQakD96PJZTm.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e10"
+        },
+        {
+            "season": 8,
+            "episode": 11,
+            "name": "Kaptan Kidd (No. 96)",
+            "overview": "Ekip, “hazine adam” isminde tehlikeli bir suçluyu durdurmak için mücadeleye girişir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/edLD4J8Fa0hQDo00JDnsAC61VeW.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e11"
+        },
+        {
+            "season": 8,
+            "episode": 12,
+            "name": "Rakitin (No. 28)",
+            "overview": "Görev Gücü'nün ABD hükümetindeki bir Rus varlığını tespit etme kararlılığı, Cooper ve Reddington'ı giderek daha tehlikeli konumlara sokar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qz5LQjfPtqraO74XIKYFRTOeviW.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e12"
+        },
+        {
+            "season": 8,
+            "episode": 13,
+            "name": "Anne",
+            "overview": "Red, Amerika'nın kırsalındaki evinde bir arkadaşıyla sessiz bir ziyaretin tadını çıkarıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/c3F9dwYVPikvaiSSChe5RhvLh0d.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e13"
+        },
+        {
+            "season": 8,
+            "episode": 14,
+            "name": "Misère",
+            "overview": "Önemli dönüm noktalarına geriye dönük bakıldığında, Elizabeth Keen'in güçlü bir düşmanla ittifak kurmasına yol açan adımlar yeniden izleniyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6LqdyH3kV4EBt6E9V9TgL26mqGs.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e14"
+        },
+        {
+            "season": 8,
+            "episode": 15,
+            "name": "Rus Düğümü",
+            "overview": "Görev Gücü, kodlanmış mesajların şifresini çözmek için gereken Sovyet döneminden kalma bir şifre makinesini çalmak için bir plan yapar. Townsend, Liz'in sadakatini teste tabi tutar. Red ve Dembe beklenmedik bir toplantıya çağrılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6o3YVOU9MNKZ6tu55xjLv9YsfyX.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e15"
+        },
+        {
+            "season": 8,
+            "episode": 16,
+            "name": "Nicholas Obenrader (No. 133)",
+            "overview": "Liz ve Özel Tim, N-13 soruşturmasında yeni ipuçlarını takip ederken Red, Townsend'in suç örgütüne sızmak için adımlar atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l3V9NMkDyppDPL057d8lGJvf9Cn.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e16"
+        },
+        {
+            "season": 8,
+            "episode": 17,
+            "name": "Ivan Stepanov (No. 5)",
+            "overview": "Red, ne pahasına olursa olsun eski bir dostunu kurtarmaya çalışır. Bu sırada Liz ve Townsend bir sorgulama yürütür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/79Jd5rfyUGfLrADFn3jEgfOGear.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e17"
+        },
+        {
+            "season": 8,
+            "episode": 18,
+            "name": "Değişken (No. 36)",
+            "overview": "Görev Gücü, Liz'in peşindeki yakalanması zor bir suikastçıyı durdurmak için harekete geçiyor",
+            "still_path": "https://image.tmdb.org/t/p/w400/gUzNrRuBv9WVwUwsp4x5Adar2GZ.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e18"
+        },
+        {
+            "season": 8,
+            "episode": 19,
+            "name": "Balthazar 'Bino' Baker (No. 129)",
+            "overview": "Bazı değerli kargoları sessizce taşımayı uman Red, eşyaları yer altı ağı üzerinden taşıma konusunda uzmanlaşmış bir uygulayıcının yardımına başvurur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1VuOoP6hBzOLTJ5cpz78kcauFcq.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e19"
+        },
+        {
+            "season": 8,
+            "episode": 20,
+            "name": "Godwin Page (No. 141)",
+            "overview": "Liz, Red ve Dembe, Townsend'in saldırısından kurtulmak için birlikte çalışmak zorunda kalır. Cooper ve Görev Gücü, herkes için artan tehlikeyi hafifletmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/beKv29wchaHpqlyWzwOtCeds6PY.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e20"
+        },
+        {
+            "season": 8,
+            "episode": 21,
+            "name": "Naçalo",
+            "overview": "Reddington, Liz'i imparatorluğunun gizemli merkez üssüne götürdüğünde, ortak geçmişleri ortaya çıkar ve uzun süredir saklı olan sırlar açığa çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/74CcPVllEr3Mx8pR5i7KeKWuLlZ.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt2741602/s8/e21"
+        },
+        {
+            "season": 9,
+            "episode": 1,
+            "name": "Skinner (No. 45)",
+            "overview": "Elizabeth Keen'in ölümünün ardından Reddington ve özel ekip dağıldı ve Red'in nerede olduğu bilinmiyor. Ancak içlerinden biri görev sırasında yaralanınca küresel bir komployu çökertmek için tekrar bir araya gelirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zVVSRCQVwO6i5zIjC4H0IXaps1i.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e01"
+        },
+        {
+            "season": 9,
+            "episode": 2,
+            "name": "Skinner (No. 45): Sonuç",
+            "overview": "Bir adam kaçırma olayı, gizemli bir korsanlık örgütüyle mücadele eden Görev Gücü'nün yetenekleri açısından bir sınav teşkil ediyor",
+            "still_path": "https://image.tmdb.org/t/p/w400/ucFmHrAWCSRbeKThTWseb7FwWlK.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e02"
+        },
+        {
+            "season": 9,
+            "episode": 3,
+            "name": "SPK (No. 178)",
+            "overview": "Çalınan eserlerle ilgili yeni bir vaka, Red'i eski bir Kara Liste üyesiyle yeniden bir araya getirir. Aram zor bir kararla karşı karşıyadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6bbANNlkqEzQYeL9rKavBbRufql.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e03"
+        },
+        {
+            "season": 9,
+            "episode": 4,
+            "name": "İntikam Meleği (No. 49)",
+            "overview": "Görev Gücü, haksız yere çalınan şeyi geri vermek için her türlü yolu kullanan bir Kara Listeciyi bulmak için yarışır. Ressler, Park'tan bir iyilik ister. Cooper, hatırlamadığı bir olayın parçalarını birleştirmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y05jyqskeSAlOrZFdaeSN6s35yd.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e04"
+        },
+        {
+            "season": 9,
+            "episode": 5,
+            "name": "Benjamin T. Okara (No. 183)",
+            "overview": "Dembe'nin bir FBI ajanı olarak konumu, görev gücünün askeri teknolojiyle ilgili bir davayı ele alması nedeniyle Red için karmaşıklığa neden olur. Cooper ve Park'ın her biri kişisel hayatlarının giderek karmaşıklaştığını fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sQuSecXpZ5G54hHtxteSetOrMUS.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e05"
+        },
+        {
+            "season": 9,
+            "episode": 7,
+            "name": "Uyku ile Uyanıklık Arasında",
+            "overview": "Bir dizi geri dönüşte Donald Ressler, Elizabeth Keen'in ölümünün ardından yaptıklarını hatırlıyor",
+            "still_path": "https://image.tmdb.org/t/p/w400/ikMYJCwR1vhs0iBHLhKqXRjNRBd.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e07"
+        },
+        {
+            "season": 9,
+            "episode": 8,
+            "name": "Dr. Razmik Maier (No. 168)",
+            "overview": "Profesyonel bir tenis oyuncusunun ölümü, Görev Gücü'nü büyük bir spor bahisleri sendikasının bahis oranlarını ayarlayan bir doktora götürür. Red, Dembe'nin ihanetini derinlemesine araştırır. Ressler ayıklıkla mücadele ediyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3jhdwwtwNhOdzMxwF7AOCfe0epD.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e08"
+        },
+        {
+            "season": 9,
+            "episode": 9,
+            "name": "Boukman Baptiste (No. 164)",
+            "overview": "Red'in teğmenlerine yönelik bir dizi koordineli saldırı, Dembe'yi yakın bir tehlikeye sokar ve onu iki yıl önce FBI'a katılmaya yönlendiren olayları yeniden yaşamaya sevk eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ubpz0k9bLMuUQ5kL0y4WQvqBZWt.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e09"
+        },
+        {
+            "season": 9,
+            "episode": 10,
+            "name": "Arcane Kablosuz (No. 154)",
+            "overview": "Görev Gücü'nün suçlulara yönelik izlenemez bir hücresel ağ olan Arcane Wireless'a yönelik araştırması beklenmedik sonuçlara yol açar. Red, bir meslektaşını beladan kurtarmak için zamana karşı yarışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3E3HBzS8jIcuHPDSYc4WL69GgBs.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e10"
+        },
+        {
+            "season": 9,
+            "episode": 11,
+            "name": "Konglomera (No. 142)",
+            "overview": "Eski hükümet destekli suikastçılardan oluşan bir grup olan Holding'e yönelik soruşturma, özel görev gücü içlerinden birinin grupla bağları olduğunu öğrendiğinde karmaşık hale gelir. Red, Liz'in ölümüne yol açan olayları derinlemesine araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jihNmL3G1f2E1y6ftSpLnvH58QQ.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e11"
+        },
+        {
+            "season": 9,
+            "episode": 12,
+            "name": "Başkan (No. 171)",
+            "overview": "Görev Gücü, suç örgütlerinin hisselerinin alınıp satıldığı karanlık bir web borsasını işleten Başkan'ın peşine düşer. Red, bir izleme cihazının yerini tespit etmek için aşırı önlemler alır ve Ressler'ın sarmal yapmasına neden olur. Cooper şantajcıyla iletişime geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qgBJWiYV7AAqn9je1aUbuV6zTy4.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e12"
+        },
+        {
+            "season": 9,
+            "episode": 13,
+            "name": "Orijinal Modeller A.Ş. (No. 176)",
+            "overview": "Bir eskort hizmetinin müşterileri ölmeye başlayınca, görev gücü alışılmadık bir şüpheliyle karşı karşıya kalır. Red ve bir arkadaşı, bir arkadaşlarının anma töreninde yeniden bir araya geldikten sonra bir eşyayı kurtarmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rmxHbrog0byIyNjOCmgCdFb75tv.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e13"
+        },
+        {
+            "season": 9,
+            "episode": 14,
+            "name": "Eva Mason (No. 181)",
+            "overview": "Görev gücü, Senatör Panabaker'in kayıp gelinini ararken daha geniş bir kaçırma olayının olabileceğini öğrenir. Red, Liz'in ölümünün ardındaki gizemi çözmeye devam ediyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/16znLRZM0lUwmo0oNDSJPpHVybH.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e14"
+        },
+        {
+            "season": 9,
+            "episode": 15,
+            "name": "Andrew Kennison (No. 185)",
+            "overview": "Cooper'ın şantajcıyı araması Özel Tim'in en son Kara Liste davasıyla örtüşünce gerilim yükselir; Kennison, Liz'in yuttuğu izleme cihazını tasarladığını itiraf ediyor, ancak şu ana kadar Liz'in bunu nasıl yaptığını öğrenemedik.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9XUAAEY5g4QfTqLyqpsIXbxRpf0.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e15"
+        },
+        {
+            "season": 9,
+            "episode": 16,
+            "name": "Helen Maghi (No. 172)",
+            "overview": "Red, hem Liz'in ölümüne hem de Cooper'ın şantajına ışık tutabilecek bir ipucunun peşine düşer. Görev gücü, içlerinden birinin tutuklanmasıyla büyük bir sarsıntı yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6QdCpUGpaaFXzuC9A6vsecvzUbj.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2741602/s9/e16"
+        },
+        {
+            "season": 10,
+            "episode": 1,
+            "name": "Gece Kuşu",
+            "overview": "Wujing'in gözaltından kaçmasından altı ay sonra Reddington, bir patlamanın ortasında gizlice Manhattan'da yeniden ortaya çıkar. Olay yerinde eski bir Kara Liste üyesi bulununca Özel Tim, oyundaki daha büyük bir komployu araştırmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Rp11qN4CjVwE4fVvlnyZ1yR8Ic.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e01"
+        },
+        {
+            "season": 10,
+            "episode": 2,
+            "name": "Balina Avcısı (No. 165)",
+            "overview": "Görev Gücü, yeni ekip üyesi Siya Malik'in yardımıyla Wujing'e bağlı yüksek bahisli bir poker oyununa sızmaya çalışıyor. Agnes okulda zorbalığa uğradığında Red ve Cooper'ın karşıt taktikleri vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tTDo5edcFedVN7vcPoj4REHbMw3.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e02"
+        },
+        {
+            "season": 10,
+            "episode": 3,
+            "name": "Dört Silah (No. 199)",
+            "overview": "Senatör Panabaker'a yönelik bir suikast girişimi, Görev Gücü'nü bir grup ünlü yankesiciye yönlendirir; Red, gözaltındaki eski bir arkadaşına tehlikeli bir hediye gönderir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fOt8E7OcPW3woyMOFc9ESEW4L42.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e03"
+        },
+        {
+            "season": 10,
+            "episode": 4,
+            "name": "Sırtlan (No. 200)",
+            "overview": "Red, bir dizi zorlu ipucuyla kilitlenen geç bir finansçının servetini güvence altına almaya çalışır. Ölümcül bir suikastçı paranın peşine düştüğünde Görev Gücü, bağışın gerçek mirasçılarını korumak için bir araya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eUJ38mFtdSyDVIYNfoHvBF9xkPD.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e04"
+        },
+        {
+            "season": 10,
+            "episode": 5,
+            "name": "Tersanecilik Meselesi",
+            "overview": "Bir hakimin öldürülmesiyle ilgili soruşturma, çözülmemiş bir davaya yeni bir ışık tutuyor. Red'in güvendiği bir meslektaşıyla olan ilişkisi, FBI ile işbirliğinin ortaya çıkmasıyla riskli bir duruma düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bThMDQu3ntR3QT6NuRgjABnYMr1.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e05"
+        },
+        {
+            "season": 10,
+            "episode": 6,
+            "name": "Dr. Laken Perillos (No. 70): Sonuç",
+            "overview": "Dr. Laken Perillos, Wujing'in Red'e karşı mücadelesine katılmak için yeniden ortaya çıktığında, Görev Gücü'nün bir üyesi tehlikeye girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qEiKyXKN0u6k3un7e8x65fn7xmN.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e06"
+        },
+        {
+            "season": 10,
+            "episode": 7,
+            "name": "Serbest Çalışan (No. 145): Pt. 2",
+            "overview": "The Freelancer'ın geri dönüşü, yerel bir fotoğrafçının da dahil olduğu bir komployu açığa çıkarır; Ressler kişisel bir dönüm noktasına ulaştı.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a2PusVKJznZ1MBN7MwYukykBfU0.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e07"
+        },
+        {
+            "season": 10,
+            "episode": 8,
+            "name": "Trol Çiftçisi (No. 38): Pt. 2",
+            "overview": "Görev Gücü, tehlikeli halka açık saldırıları simüle eden bir dizi sosyal medya komplosunu araştırıyor. Çok gizli bir hükümet programı çalınınca ekip, Trol Çiftçisinin olayla ilgisini ortaya çıkarmak için çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5XeOmjbNVcseMCCuBSjwyHv7n3s.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e08"
+        },
+        {
+            "season": 10,
+            "episode": 9,
+            "name": "Trol Çiftçisi (No. 38): Pt. 3",
+            "overview": "Görev Gücü, hükümetten çalınan değerli bir varlığı kurtarmak için zamana karşı yarışır. Red, faillerin izini sürmeye yardımcı olacak bir plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6FkNx0Zlh8RP9In5T8j5T94rKai.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e09"
+        },
+        {
+            "season": 10,
+            "episode": 10,
+            "name": "Postacı (No. 173)",
+            "overview": "Bir mahkumun yüksek güvenlikli bir hapishanede ateş açmasının ardından özel ekip, Postacı olarak bilinen bir kaçakçıyı araştırır. Cooper şüpheliyle olan geçmiş bağlarını yeniden gözden geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/raVqVljykOJA0Iv3YnUhrih3qH6.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e10"
+        },
+        {
+            "season": 10,
+            "episode": 11,
+            "name": "Şapkalı Adam",
+            "overview": "Philadelphia'daki bir şarküteri soygunu sırasında Red'in olası bir rehine olduğu belirlenince Dembe ve Ressler harekete geçer. DC'ye döndüğünde Senatör Panabaker özel ekibin Red'le olan ilişkilerini değerlendirirken Siya da annesinin geçmişini derinlemesine araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/BgT47p3PDYYQ3fcf9srQQNaCEh.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e11"
+        },
+        {
+            "season": 10,
+            "episode": 12,
+            "name": "Dr. Michael Abani (No. 198)",
+            "overview": "Dembe, eski bir bağlantısından endişe verici bir telefon aldığında karmaşık geçmişini düşünür. Hırslı bir Kongre Üyesi, Görev Gücü'nün operasyonlarını sorgulamaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4cTmKbFjpJ4wJgWhS9cUzFY3Jr6.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e12"
+        },
+        {
+            "season": 10,
+            "episode": 13,
+            "name": "Sicilya Renk Hatası",
+            "overview": "Red'e bir dizi anormal görevde eşlik eden Siya, Meera'nın geçmişi hakkında daha fazla şey öğrenir. Kongre üyesi Hudson, güçlü bir dostunu görev gücüne karşı yürüttüğü kampanyaya katılmaya ikna etmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j0XQ72eCExcOBsMAcdiV06gzdSM.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e13"
+        },
+        {
+            "season": 10,
+            "episode": 14,
+            "name": "Hiçbir Yerde Gelin (No. 192)",
+            "overview": "Görev Gücü, kayıp yeni evli bir kişinin nerede olduğunu araştırıyor. Red, güçlü bir kartel liderine yardım teklif ederken Siya, annesinin geçmişinden bir bağlantıyı ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1psB8qlXsqgbmZ2hyUFVu5dRKMY.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e14"
+        },
+        {
+            "season": 10,
+            "episode": 15,
+            "name": "Şapka Oyunu",
+            "overview": "Red, Kongre Üyesi Hudson'a değerlerini kanıtlama çabasıyla, Görev Gücü'ne göründüğünden daha derin üç ceza davası sunuyor. Ressler bir arkadaşının durumu düzeltmesine yardım ediyor",
+            "still_path": "https://image.tmdb.org/t/p/w400/gocnQI6wywwq9TAOW7Yp1dMgCbd.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e15"
+        },
+        {
+            "season": 10,
+            "episode": 16,
+            "name": "Blair Foster (No. 39)",
+            "overview": "Yolsuzluk yapan bir avukatın bir dizi kurumsal örtbas olayıyla bağlantısı ortaya çıkınca Red, ekibin onun operasyonunu araştırmasına yardım eder; Senatör Panabaker ve Cooper, özel görev gücünün kaderi hakkında yargıcın vereceği kararı bekliyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ohFtyYE6jSLxxl618Pi4O7lLpcL.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt2741602/s10/e16"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 09:39:32"
 }

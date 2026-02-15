@@ -2,17 +2,130 @@
     "id": 250670,
     "imdb_id": "tt27792190",
     "name": "Maxton Hall - Aramızdaki Dünya",
+    "original_name": "Maxton Hall – Die Welt zwischen uns",
+    "overview": "Ruby istemeden de olsa Maxton Hall özel okulunda sansasyonel bir sırra şahit olur. Kibirli milyoner vâris James Beaufort bu talihsizlik sonucunda, burslu okuyan zeki öğrenciyle yüz yüze gelmek zorunda kalır. Ruby'yi susturmak ister. Ateşli tartışmalarından şaşırtıcı bir kıvılcım doğar...",
     "poster": "https://image.tmdb.org/t/p/w500/p1nIxYi8xweNEiOLnl78iQgDct2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dkhjP3GK44gkxmKzrgYzHs8hbtf.jpg",
     "year": "2024",
+    "rating": 8.3,
     "genres": [
         "Dram"
+    ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Prime Video"
     ],
     "cast": [],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Gözlerden Uzak",
+            "overview": "İçine kapanık burslu öğrenci Ruby Bell, büyük bir sırra tanık olunca kendini ayrıcalıklı ve küstah milyoner varis James Beaufort'un hedefinde bulur. Aslında seçkin Maxton Hall Okulu'nda hayatının hayaline ulaşmak için çalışmaktadır: Oxford Üniversitesi'nde okumak. Ancak James'in ortaya çıkmasıyla mükemmel planı altüst olur...",
+            "still_path": "https://image.tmdb.org/t/p/w400/cbxIxWXp6KDW9U2II6afrCvdisQ.jpg",
+            "vote_average": 8.3,
             "link": "https://vidmody.com/vs/tt27792190/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Asalet Zorunluluğu",
+            "overview": "Mahvolan hoş geldin partisinden sonra Ruby, yaklaşan bağış gecesinde her şeyin kusursuz olması için elinden geleni yapar. Bu yüzden James'in komitenin üyesi olmaya zorlanması ve fikirlerini sunması hiç hoşuna gitmez. İkili arasında yaşanan beklenmedik derecede ateşli bir tartışmanın ardından, Ruby aniden çok ileri gittiğini itiraf etmek zorunda kalır...",
+            "still_path": "https://image.tmdb.org/t/p/w400/37OI3H6BMHbNCKJAbxDopITJHut.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt27792190/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "İfşa",
+            "overview": "Ruby ve James, Londra'daki Beaufort Mağazası'nda çok yakınlaşırlar. Ancak James'in ailesiyle sürpriz bir karşılaşmadan sonra Ruby tekrar gerçeklerle yüzleşir: O bu dünyaya ait değildir. James'le birlikte çekilmiş bir posteri ertesi gün okulun en önemli sohbet konusu olunca, James'e bir açıklama yapar. Onunla bağlarını koparmak istemektedir. Ancak James için artık bu seçenek söz konusu değildir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oXV6lKEDjlDvIzdK0naZxtRNVhD.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt27792190/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Gerçeğin Zamanı",
+            "overview": "Cyril'deki partiden sonra artık her şey farklıdır. Dedikodular yayılırken Ruby'nin James'e olan hisleri coşmaktadır. Mortimer'ın baskısıyla karşılaşan James kendini tamamen farklı iki dünya arasında sıkışmış bulur. Ancak yeni \"Genç Beaufort\" serisinin tanıtım günü, bağış toplama galasıyla aynı güne denk gelince James bir karar vermek zorunda kalır...",
+            "still_path": "https://image.tmdb.org/t/p/w400/xIBhYt1VecY0Qq0dyVlMcrRn4nM.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt27792190/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Fırtınanın Ortasında",
+            "overview": "En büyük yükselişi en kötü düşüş takip eder. Büyük başarıya ulaşan bağış gecesinden sonra, tavsiye mektubu alınır ve Ruby'le James sonunda yakınlaşır. Ancak Mortimer onları olabilecek en kötü anda yakalar. Beaufort evindeki gerilim Mortimer'ın tehlikeli bir tehdidiyle sonuçlanır. Ruby'nin geleceği tehlikededir. James, Ruby'yi korumak için imkânsız olanı yapmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lzApzjfALwbRwUeLyXhfSw5Rxfr.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt27792190/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Bir Parça Mutluluk",
+            "overview": "Sonunda vakit gelir: Oxford'daki mülakatlar başlamak üzeredir ve Ruby artık hayaline çok yakındır. Yurtta James'in olması Ruby'nin keyfini kaçırır. Böyle bir şeyin dikkatini dağıtmasına ihtiyacı yoktur. İkili birbirlerinden uzak durmaya çalışsa da aralarındaki gerilimin patlaması uzun sürmez...",
+            "still_path": "https://image.tmdb.org/t/p/w400/vTkFSOnpNag9g0V5gxaHE0BLfzU.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt27792190/s1/e06"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/3JVUN7z1ldro25iKqf7NWyZk3bF.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt27792190/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/o6olPa1UDgiZkqINEAofxQWYbpW.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt27792190/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/5BH4MxFK9ccwTCcMnAJNjYOi5hp.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt27792190/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/1FTF5iyMqPReYvHxTDvJKLADf6E.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt27792190/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/t5sQhgra4GiImQWkUqY6HfCmJZg.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt27792190/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/xi9ZfqaRgi2od8Q2mDc6FU1yq1L.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt27792190/s2/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 09:53:07"
 }

@@ -2,25 +2,124 @@
     "id": 226362,
     "imdb_id": "tt27740241",
     "name": "Sonsuzluk Yolcusu",
+    "original_name": "El Eternauta",
+    "overview": "Milyonlarca insanı öldüren toksik bir kar yağışının ardından Juan Salvo ile Buenos Aires'te hayatta kalan bir grup insan, dünya dışından görünmez bir tehdide karşı direnmelidir.",
     "poster": "https://image.tmdb.org/t/p/w500/7gT79KFAE4MGfA2C1N8ZAIEKq7u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
     "year": "2025",
+    "rating": 7.5,
     "genres": [
         "Dram",
         "Aksiyon & Macera",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Ricardo Darín",
-        "Carla Peterson",
-        "César Troncoso",
-        "Andrea Pietra",
-        "Ariel Staltari"
+        {
+            "name": "Ricardo Darín",
+            "role": "Juan Salvo",
+            "image": "https://image.tmdb.org/t/p/w200/wP7gyISMcsXLJoInWTjncqhrsAT.jpg"
+        },
+        {
+            "name": "Carla Peterson",
+            "role": "Elena",
+            "image": "https://image.tmdb.org/t/p/w200/wzu3UNvxIlk1i9uWjcFi8ANrAyl.jpg"
+        },
+        {
+            "name": "César Troncoso",
+            "role": "Alfredo Favalli",
+            "image": "https://image.tmdb.org/t/p/w200/eUbQSEPu2qrIAQ2UMzTXN1Ofq8r.jpg"
+        },
+        {
+            "name": "Andrea Pietra",
+            "role": "Ana",
+            "image": "https://image.tmdb.org/t/p/w200/otpcmgf87yWytteQUu6IpfwA0Ow.jpg"
+        },
+        {
+            "name": "Ariel Staltari",
+            "role": "Omar",
+            "image": "https://image.tmdb.org/t/p/w200/aXAgNDrPbg5s5AIjkuLWHskiVOm.jpg"
+        },
+        {
+            "name": "Marcelo Subiotto",
+            "role": "Lucas",
+            "image": "https://image.tmdb.org/t/p/w200/zOkp6fSyduND420qmlYnhSJw3n4.jpg"
+        },
+        {
+            "name": "Orianna Cárdenas",
+            "role": "Inga",
+            "image": "https://image.tmdb.org/t/p/w200/cVxwik3YcUibe5N4KZbpvvJbVN0.jpg"
+        },
+        {
+            "name": "Dante Mastropierro",
+            "role": "Maquinista",
+            "image": "https://image.tmdb.org/t/p/w200/arkJKtVJDkgpH8Z8eo6ue2wCBvo.jpg"
+        },
+        {
+            "name": "Jorge Sesán",
+            "role": "Maquinista",
+            "image": "https://image.tmdb.org/t/p/w200/ghD2JHh2XdDGuvOFjahVZP0SCM5.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Oyun Gecesi",
+            "overview": "Uğursuz bir kar yağışı, Juan ve arkadaşlarının oyun gecesini yarıda keser. Gerilim yükselirken grup, fırtınaya göğüs gerip kızını bulabilmesi için Juan'a bir giysi hazırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yXje7npgrNtAdx9FPwuwHuO9O8Z.jpg",
+            "vote_average": 7.7,
             "link": "https://vidmody.com/vs/tt27740241/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Güneşe Çıkın",
+            "overview": "Salvo, harap hâldeki Buenos Aires'i aşarak Elena ve Clara'nın evine ulaşmaya çalışırken insanların hayatta kalma güdüsünün en az zehirli kar kadar ölümcül olduğunu fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xGl6Ctm1trLI6wyFpZdcWv67vn6.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt27740241/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Manyetizma",
+            "overview": "Clara'nın okulunda ipucu arayan Juan ve Elena, zor bir durumdaki Pablo adlı öğrenciyle tanışır. Bu esnada Juan'ın vizyonları artar ve Tano telsizle iletişim kurmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4UEANa319Zgt2r2KHJzzQ0CZKub.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt27740241/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "İnanç",
+            "overview": "Şehir merkezine giden Tano ile Juan burada bir barikat ve ordu birlikleriyle karşılaşır. Ani bir tehditle karşı karşıya kaldıklarında ise onlara beklenmedik bir grup yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/w5cQnWlp0M0xiSigi0p2NaYpqvN.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt27740241/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Ufuk",
+            "overview": "Alınan kararın ardından Tano, adaya ulaşmalarını sağlamak için zor bir seçim yapmak zorundadır. Yola çıkan grup, terk edilmiş bir alışveriş merkezinde bir sığınma kampı bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ysuMRVHBHxRSX6FFjPHmz3HNHG5.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt27740241/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Soğuk Domates Suyu",
+            "overview": "Trenle yapılan riskli bir şehre dönüş yolculuğundan sonra Juan, gizemli bir parlak ışığın peşine takılır ve akla hayale gelmeyen bir keşif yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iXCVfc0Na5AvHmkrF4SAB7GEIBX.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt27740241/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 09:50:39"
 }

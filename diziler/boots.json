@@ -2,25 +2,147 @@
     "id": 225647,
     "imdb_id": "tt27987047",
     "name": "Boots",
+    "original_name": "Boots",
+    "overview": "Ani bir kararla ABD Deniz Piyadeleri'ne katılıp zorbalığa uğrayan bir delikanlı, acemi birliğindeki diğer gençlerle beklenmedik kardeşlik bağları kurar ve yeni bir amaç edinir.",
     "poster": "https://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7a78G7fisRp9N9upjyX5b3GNRNI.jpg",
     "year": "2025",
+    "rating": 7.9,
     "genres": [
         "Komedi",
         "Dram",
         "Savaş & Politik"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Miles Heizer",
-        "Max Parker",
-        "Vera Farmiga",
-        "Liam Oh",
-        "Cedrick Cooper"
+        {
+            "name": "Miles Heizer",
+            "role": "Cameron Cope",
+            "image": "https://image.tmdb.org/t/p/w200/fQeByexqxm2W6u9p1bMRNy12VtH.jpg"
+        },
+        {
+            "name": "Max Parker",
+            "role": "Sgt. Liam Robert Sullivan",
+            "image": "https://image.tmdb.org/t/p/w200/pDuI2jyXibiLyjkNUCRJ4xYZYhw.jpg"
+        },
+        {
+            "name": "Vera Farmiga",
+            "role": "Barbara Cope",
+            "image": "https://image.tmdb.org/t/p/w200/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+        },
+        {
+            "name": "Liam Oh",
+            "role": "Ray McCaffey",
+            "image": "https://image.tmdb.org/t/p/w200/lFohLkLwkmXrIdNACq4tWYkU63c.jpg"
+        },
+        {
+            "name": "Cedrick Cooper",
+            "role": "Staff Sgt. Marcus McKinnon",
+            "image": "https://image.tmdb.org/t/p/w200/oONAYaURJP9QUzC2IHKSey90vkm.jpg"
+        },
+        {
+            "name": "Ana Ayora",
+            "role": "Capt. Denise Fajardo",
+            "image": "https://image.tmdb.org/t/p/w200/6mo946WfFCeCvHFjglr00nDI4KD.jpg"
+        },
+        {
+            "name": "Angus O'Brien",
+            "role": "Thaddeus Beau Sterling Hicks",
+            "image": "https://image.tmdb.org/t/p/w200/8nj3sIDbMQxJqvEkrlK7ffmsDuX.jpg"
+        },
+        {
+            "name": "Kieron Moore",
+            "role": "Nicholas Slovacek",
+            "image": "https://image.tmdb.org/t/p/w200/pp6CZg6lMz0T21lDoAxoKsEKsFl.jpg"
+        },
+        {
+            "name": "Dominic Goodman",
+            "role": "Isaiah Nash",
+            "image": "https://image.tmdb.org/t/p/w200/y2ZVef2P4VsMms9daFyumkCNOb1.jpg"
+        },
+        {
+            "name": "Nicholas Logan",
+            "role": "Sgt. Cary Wayne Howitt",
+            "image": "https://image.tmdb.org/t/p/w200/mEXZ8KXCyy67hOuMDuC2AYZvrIu.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Pembeli Deniz Piyadesi",
+            "overview": "Samimi genç Cameron, annesine söylemeden ani bir kararla en yakın arkadaşı Ray'in peşinden Deniz Piyadaleri'nin acımasız eğitim kampına katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6wlgx8Ek2qJxRGejgZV4yz6rI2p.jpg",
+            "vote_average": 6.3,
             "link": "https://vidmody.com/vs/tt27987047/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Arkadaş Sistemi",
+            "overview": "Bir eğitim egzersizi Cameron'un Ray ile arasındaki bağa zarar verip, kardeş olan John ve Cody'yi Parris Adası'na getirdikleri yüklü aile geçmişleriyle uğraşmaya zorlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kUuUFW3KBE4CVraCr7rsPu4hfH9.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt27987047/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Cesaret Parkuru",
+            "overview": "Cameron, öz güven inşa etmeye yardımcı olan bir derste kendini kanıtlamak için uğraşır. Bölüğe sonradan bir ekleme yapılır. Barbara acınmanın faydalarını keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nukWldyeyvl0jHYOMXjZG6vTFie.jpg",
+            "vote_average": 4.9,
+            "link": "https://vidmody.com/vs/tt27987047/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Ya Batacaksın Ya Yüzeceksin",
+            "overview": "Ray, yoğun baskı altında geçen yüzme eğitimi haftasının ortasında boğulmamak için mücadele verir. Ta ki Cameron onu kurtarmak için riskli bir planla dalana kadar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zMrbTdRflbqpXEdPbHoonJMt67Z.jpg",
+            "vote_average": 4.9,
+            "link": "https://vidmody.com/vs/tt27987047/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Tam İsabet",
+            "overview": "Cameron ve acemiler silah eğitiminde hedeflerini vurmayı amaçlarken duygular yoğunlaşır. Başçavuş Sullivan kendini alışmadığı farklı bir ilginin odağında bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jnoSyUcohBlkNQPKZFqqR58L8G7.jpg",
+            "vote_average": 4.7,
+            "link": "https://vidmody.com/vs/tt27987047/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Omuzlarımızdaki Yük",
+            "overview": "Bölük, deniz piyadesi olmanın bedeliyle başa çıkmaya çalışır. Fajardo, olanları Çavuş McKinnon'a anlatır. Yemekhanede işler çığrından çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/MttKVnASu0vS0YGN298AiMZoGp.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt27987047/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Aşk Bir Savaş Meydanıdır",
+            "overview": "Savaş eğitimi başlarken acımasızca bir zihin oyunu askerlerden birini kırılma noktasına getirir. Protokole aykırı bir eylem askerler arasında huzursuzluğa yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uSTtrJnwKtgbdmTPvMdXqSXcC85.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt27987047/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Cendere",
+            "overview": "Cendere dayanma sınırlarını zorlarken asker adayları en büyük testle karşı karşıya kalır. Bitiş çizgisini aşmanın tek yolu ise kardeşlikten geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aNwGawy15NKLh7AB2vw1gOOC4d4.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt27987047/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 09:59:42"
 }

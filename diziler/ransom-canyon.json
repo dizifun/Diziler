@@ -2,24 +2,159 @@
     "id": 240993,
     "imdb_id": "tt28088031",
     "name": "Ransom Canyon",
+    "original_name": "Ransom Canyon",
+    "overview": "Küçük bir Teksas kasabasında çiftçilikle uğraşan üç aile; toprakları, mirasları ve sevdikleri insanlar için mücadele verirken tutkular en derinde yaşanır.",
     "poster": "https://image.tmdb.org/t/p/w500/vp6A0mthGwZmnowmLxqNPF0lVRN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/29P64FqDp0UVa9oJsIl49PHn5tH.jpg",
     "year": "2025",
+    "rating": 6.8,
     "genres": [
         "Dram",
         "Vahşi Batı"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Josh Duhamel",
-        "Minka Kelly",
-        "Eoin Macken",
-        "Lizzy Greene",
-        "Garrett Wareing"
+        {
+            "name": "Josh Duhamel",
+            "role": "Staten Kirkland",
+            "image": "https://image.tmdb.org/t/p/w200/5Rp9aeWdN2S623KCjwfii9MhDK1.jpg"
+        },
+        {
+            "name": "Minka Kelly",
+            "role": "Quinn O'Grady",
+            "image": "https://image.tmdb.org/t/p/w200/A7k2z1JGuJwcrqMgCBqcPjzbLAL.jpg"
+        },
+        {
+            "name": "Eoin Macken",
+            "role": "Davis Collins",
+            "image": "https://image.tmdb.org/t/p/w200/9QcWKlulGbdDI8XNCJW88BfPyPv.jpg"
+        },
+        {
+            "name": "Lizzy Greene",
+            "role": "Lauren Brigman",
+            "image": "https://image.tmdb.org/t/p/w200/uK648OpFU1kfhTJEtxI71oEekdv.jpg"
+        },
+        {
+            "name": "Garrett Wareing",
+            "role": "Lucas Russell",
+            "image": "https://image.tmdb.org/t/p/w200/ghJmP5QlDsVSQEF8XlDSciZ4q6x.jpg"
+        },
+        {
+            "name": "Marianly Tejada",
+            "role": "Ellie Estevez",
+            "image": "https://image.tmdb.org/t/p/w200/sxnkidP9iZ2Rgv5f8rtGNIpDXsF.jpg"
+        },
+        {
+            "name": "Jack Schumacher",
+            "role": "Yancy Grey",
+            "image": "https://image.tmdb.org/t/p/w200/pMRUZPW4vnzSqC86A0jElpXHkD9.jpg"
+        },
+        {
+            "name": "Andrew Liner",
+            "role": "Reid Collins",
+            "image": "https://image.tmdb.org/t/p/w200/nSwyaxgQP24alkVCMnxSUKHxyrK.jpg"
+        },
+        {
+            "name": "James Brolin",
+            "role": "Cap Fuller",
+            "image": "https://image.tmdb.org/t/p/w200/mdkmgcWySHNNQRJcPhtKqH9hCIE.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Düşmeme İzin Verme",
+            "overview": "Kayıplarının acısıyla sarsılan Staten, Quinn'in giderek artan ilgisini fark edemez. Davis, bir fırsat elde ettiğini düşünür. Gizemli bir serserinin gelişi kasabayı karıştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dLnJMJUbuUJjWAm1MhQjt5GhbHz.jpg",
+            "vote_average": 5.7,
             "link": "https://vidmody.com/vs/tt28088031/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Son Derece Eminim",
+            "overview": "Staten, soruşturmasıyla ilgili önemli bir ipucunu takip eder. Quinn, rahatsız edici sonuçları olan bir anlaşma yapar. Lucas, kardeşini hizaya sokmakta zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kq5FJBVY8Orvg6xjxzWUrG49ju2.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt28088031/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Bela Bazen Eğlencelidir",
+            "overview": "Dans salonunun görkemli yeniden açılış partisinde tartışmalar alevlenir. Yancy'nin geçmişinden tanıdık bir yüz istenmeyen bir şekilde ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lzH72MYK9V7S4GwmlqNRk2UL2qX.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt28088031/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "O Çocuk Benim Her Şeyim",
+            "overview": "Babasıyla yaşadığı bir anlaşmazlığın ardından Staten ile bağ kurma şansı elde eden Reid, Lucas ile birlikte çalışmayı bile sorun etmez. Davis, Quinn'in kalbini kazanmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8AlB0GpLNfkW5OMFtRj06i7LsSh.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt28088031/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Sırları Severim",
+            "overview": "Davis ile Quinn arasındaki giderek güçlenen bağ, Davis'in Staten ve Cap'i devirmek için sinsi bir planı olan eski eşi yüzünden tehlikeye girer. Yancy, rodeoda bir risk alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2GfiKJXVazt6iGfA1t2sjEKYApS.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt28088031/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Reid Hakkında Konuşmamız Lazım",
+            "overview": "Paula Jo, Staten ile Quinn'in arasını bozar. Ellie, Yancy'nin geçmişini araştırır. Lucas ve Lauren, çok şaşırtıcı bir şey keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bhbPcJOIW69wXJ2u6Lqgvca5lGe.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt28088031/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Tanrı'nın Lütfuyla",
+            "overview": "Kasırga bastırınca Staten ile Quinn aynı yerde mahsur kalır. Bir itiraf, Randall’ın ölümüyle ilgili soruşturmada yeni gerçeklerin ortaya çıkmasına sebep olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tsJVsWw1kGhDVCcDAzA96WLgYhu.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt28088031/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Kanı Bozuk",
+            "overview": "Vakada bir gelişme yaşansa da Dan hâlâ emin değildir. Elle, Cap'e doğruyu söylemesi için Yancy'ye baskı yapar. Lauren amigo seçmelerine hazırlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hxUQgGiutk1qrSZmevZN1CRUEbk.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt28088031/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Sonsuzluk Hakkında",
+            "overview": "Tutkuları arasında ikilemde kalan Quinn, bir seçim yapmalıdır. Staten ile Davis'in hiç de sağlam olmayan iş birliği tehlikeye girer. Cap geçmiş pişmanlıklarıyla yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aUwp41ewSLdoHcS7RNcSX7tFEtf.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt28088031/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Belki Yancy Grey'in de Ölme Zamanı Gelmiştir",
+            "overview": "Staten ve Davis arasındaki gerginlik doruk noktasına ulaşır. Ellie büyük bir gerçeği açığa çıkarır. Dan bedeli çok ağır olan gerçeği açıklayıp açıklamayacağına karar vermelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uOE8jOJjplfxKEMQQpFLy9Pvj6s.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt28088031/s1/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:01:56"
 }

@@ -2,24 +2,126 @@
     "id": 255859,
     "imdb_id": "tt27427326",
     "name": "Wayward",
+    "original_name": "Wayward",
+    "overview": "Kasabalı bir polis, sorunlu ergenlerin gittiği yerel okulun da karizması tehlikeli boyuttaki kurucusunun da göründükleri gibi olmadıklarından şüphelenir.",
     "poster": "https://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/znwchNfU5Vr2RNbxnI2iVIxVeMD.jpg",
     "year": "2025",
+    "rating": 6.3,
     "genres": [
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Mae Martin",
-        "Sarah Gadon",
-        "Alyvia Alyn Lind",
-        "Sydney Topliffe",
-        "Toni Collette"
+        {
+            "name": "Mae Martin",
+            "role": "Alex Dempsey",
+            "image": "https://image.tmdb.org/t/p/w200/jlIZDpIm4jRfz2TuaHcRKiiuDo0.jpg"
+        },
+        {
+            "name": "Sarah Gadon",
+            "role": "Laura Redman",
+            "image": "https://image.tmdb.org/t/p/w200/9ip4v5DR8wSy9qnbClUkgwgeIgP.jpg"
+        },
+        {
+            "name": "Alyvia Alyn Lind",
+            "role": "Leila",
+            "image": "https://image.tmdb.org/t/p/w200/4eu182akRujOHwTJGzAzwrzCaui.jpg"
+        },
+        {
+            "name": "Sydney Topliffe",
+            "role": "Abbie",
+            "image": "https://image.tmdb.org/t/p/w200/k0Mwg7YttBceUisELONGiwAkODx.jpg"
+        },
+        {
+            "name": "Toni Collette",
+            "role": "Evelyn Wade",
+            "image": "https://image.tmdb.org/t/p/w200/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+        },
+        {
+            "name": "Tricia Black",
+            "role": "Mule",
+            "image": "https://image.tmdb.org/t/p/w200/sVDxbs55nQ5758wZOKwhG3FELzb.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Tall Pines",
+            "overview": "Sorunlu gençlerin eğitim gördüğü Tall Pines Akademisi'nden bir öğrencinin kaçması, kasabaya yeni atanan polis memuru Alex Dempsey'yi okulda olup bitenler hakkında şüphelendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qyCPTPSvBkC9X2f74qaftnjheQZ.jpg",
+            "vote_average": 8.4,
             "link": "https://vidmody.com/vs/tt27427326/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Yuva",
+            "overview": "Dehşete kapılan Abbie yeni ortamına alışmaya çalışır. Leila cüretkâr bir kurtarma girişiminde bulunur. Alex küçük bir kasabada mahremiyete yer olmadığını keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v3a6TldDmqMMZM0qBCiQWHJS9Zp.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt27427326/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kırma",
+            "overview": "Abbie ve Leila, Tall Pines'ın alışılmadık rehabilitasyon yöntemini deneyimler. Alex okulun tarihine ve Laura'nın geçmişine dair yeni bilgiler keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y1N8VZPXLbeXgsiJJxqDrAsLnte.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt27427326/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Çamur",
+            "overview": "Alex'in okul hakkındaki şüpheleri Laura'yı bunaltır. Leila cezasını çeker. Rory ve Abbie, okuldan kaçmalarına yardımcı olabilecek önemli kanıtlar bulmak için iş birliği yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AcBSdcEcLmsCwSO3F60yOtx9aDX.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt27427326/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "İnşa",
+            "overview": "Alex, okulun bir şeyler sakladığına inanan bir blog yazarıyla bağlantı kurar. Leila'nın ifşa ettiği sırrın ardından iş sarpa sarar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x1e4aZypDtJXVGdWCsaZABzQQyG.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt27427326/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Ayna",
+            "overview": "Öğrenciler özgürlük şansı için birbirleriyle yarışırken bir vahşi doğa gezisi acımasız bir hâl alır. Evelyn, Leila'yı ablasının öldüğü geceyi hatırlamaya zorlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jUdF7qn4KqUHELIN1JlsYjvHkzo.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt27427326/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Yükseliş",
+            "overview": "Evelyn; Leila ve Abbie'nin aralarının giderek kötüleşmesinden yararlanırken, Laura onun planlarına çomak sokmak için bir fırsat yakalar. Alex, Tall Pines'ın gerçek yüzünü görür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cPIzW46FhbpzxdMsYilbcx8J7qE.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt27427326/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Sıçrayış",
+            "overview": "Evelyn çaresizce kontrolü yeniden ele geçirmeye çalışır. Abbie, Leila ve Rory kaçma planını uygulamaya koyulur. Alex hayattaki amacını bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8xGLrnAKQxHPIcvM4n0vQOZebLW.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt27427326/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 09:39:31"
 }

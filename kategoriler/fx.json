@@ -1,5 +1,156 @@
 [
     {
+        "id": 126308,
+        "imdb_id": "tt2788316",
+        "name": "Shōgun",
+        "original_name": "Shōgun",
+        "overview": "Japonya'da 1600 yılında geçen hikayede Lord Yoshii Toranaga, yakınlardaki bir balıkçı köyünde gizemli bir Avrupa gemisi karaya oturduğunda, Naipler Konseyi'ndeki düşmanları ona karşı birleştiği için hayatı uğruna savaşmaktadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+        "year": "2024",
+        "rating": 8.4,
+        "genres": [
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "FX",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Hiroyuki Sanada",
+                "role": "Yoshii Toranaga",
+                "image": "https://image.tmdb.org/t/p/w200/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+            },
+            {
+                "name": "Cosmo Jarvis",
+                "role": "John Blackthorne",
+                "image": "https://image.tmdb.org/t/p/w200/1kgghZ558CxZCJip5ufO6BAqUGp.jpg"
+            },
+            {
+                "name": "Anna Sawai",
+                "role": "Toda Mariko",
+                "image": "https://image.tmdb.org/t/p/w200/6uFaCOupDTPRnTiedveTUvjOikC.jpg"
+            },
+            {
+                "name": "浅野忠信",
+                "role": "Kashigi Yabushige",
+                "image": "https://image.tmdb.org/t/p/w200/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
+            },
+            {
+                "name": "平岳大",
+                "role": "Ishido Kazunari",
+                "image": "https://image.tmdb.org/t/p/w200/2N1viBfPY4cRlz6W6YfM2F6UbSH.jpg"
+            },
+            {
+                "name": "Tommy Bastow",
+                "role": "Father Martin Alvito",
+                "image": "https://image.tmdb.org/t/p/w200/dIQcrDm9dZqc98Ca6Em67x5ivba.jpg"
+            },
+            {
+                "name": "二階堂ふみ",
+                "role": "Ochiba No Kata / Ruri",
+                "image": "https://image.tmdb.org/t/p/w200/tqxgrZdOpx2FuTJYlhago4fttI3.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Anjin",
+                "overview": "Barbar bir geminin fakir bir balıkçı köyünde kıyıya vurmasının ardından Japonya'da kaderler birleşiyor. Bu arada Osaka'da Lord Toranaga, kendisini düşmanları tarafından mağlup edilmiş halde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8uib4EWHrAnhUg08pFLAnoo50rf.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "İki Efendinin Hizmetkarları",
+                "overview": "Blackthorne'un Osaka'ya gelişi bir rekabet ortamını harekete geçirir. Mariko, Lord Toranaga'nın gözetimindeki barbar adına tercüme yapmak zorunda kaldığında davası ve inancı arasında sıkışıp kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gUglbYu9EjhpVoxzBWHsXVQYpQX.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Yarın Yarındır",
+                "overview": "Blackthorne küstah bir suikast girişiminden sağ kurtulduktan sonra Toranaga, müttefiklerini Osaka'dan çıkarması gerektiğini, aksi takdirde kesin bir yenilgiyi göze alması gerektiğini fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uXMdeoIltO85372VLX85abAC109.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Sekiz Katlı Çit",
+                "overview": "Blackthorne ve Mariko, Toranaga'nın silah alayına savaş için eğitim verirken yeni ittifaklarını test ediyor. Eski bir arkadaşı köye geldiğinde Yabushige, Ishido'ya verdiği geçmiş sözlerden vazgeçmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kF8DfadGNPJi3fMZEZgiFRaoRH9.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Yumruk olarak evcilleşmek",
+                "overview": "Blackthorne ve Mariko, ikisinin de ölmesine yol açabilecek sırrı saklamakta zorlanır. Yabushige, niyetini Lord Toranaga'ya açıklayan casusu arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5N5isVZvgdYeGsASiUgQJzHW6Ll.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Söğüt Dünyasının Leydileri",
+                "overview": "Leydi Ochiba, Vekillerin Toranaga'ya karşı kampanyasını hızlandırmak için Osaka'ya döner. Ajiro'da Toranaga, Mariko'nun davasına olan bağlılığını sınar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/15qoHmtC3zKQtZulccXs2GAMnKq.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Bir Tütsülük Vakit",
+                "overview": "Osaka'daki yeni ittifaklar karşısında geride kalan Toranaga, uzun zamandır kayıp olan bir aile üyesiyle yeni bir anlaşma yapmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/s5yGuWq058n3urFKDIwjyNOzgCD.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Yaşamın Sonsuz Derinliği",
+                "overview": "Toranaga'nın mağlup klanı Edo'ya taşınır ve kaderlerini bekler. Blackthorne kimin için savaşacağına karar vermelidir; ona sırtını dönen lord için mi yoksa onu Japonya'ya getiren hırs için mi?",
+                "still_path": "https://image.tmdb.org/t/p/w400/jX99BvnOAF2bNjQvNHtMmCxmUOa.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Kızıl Gökyüzü",
+                "overview": "Mariko hayatının mücadelesi için Osaka'ya gelir. Blackthorne ve Yabushige, seçenekleri azaldıkça kendi kafalarını kurtarmak için çabalıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tAoNG2uBLRYJZKJOq9k9Xvb0voT.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Bir Rüyanın Rüyası",
+                "overview": "Trajik bir ölümün ardından Blackthorne sonunda Toranaga'nın planının gerçek mahiyetini düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dIXtG4MafmmjzNhU7ANJZByGmvr.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 09:56:28"
+    },
+    {
         "id": 1413,
         "imdb_id": "tt1844624",
         "name": "American Horror Story",
