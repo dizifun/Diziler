@@ -1,5 +1,155 @@
 [
     {
+        "id": 221079,
+        "imdb_id": "tt26862142",
+        "name": "The Last Frontier",
+        "original_name": "The Last Frontier",
+        "overview": "Bir mahkûm nakil uçağı Alaska’nın ücra bir yerinde düşer ve onlarca gaddar mahkûm serbest kalır. Bölgedeki tek polis şefinin korumaya yemin ettiği kasabayı savunması gerekmektedir.",
+        "poster": "https://image.tmdb.org/t/p/w500/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/pzxIAuKHqQqCFOxh2ALmHUgXkOD.jpg",
+        "year": "2025",
+        "rating": 7.2,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Apple TV",
+            "Peacock Premium"
+        ],
+        "cast": [
+            {
+                "name": "Jason Clarke",
+                "role": "Frank Remnick",
+                "image": "https://image.tmdb.org/t/p/w200/ma1BPr7pjzgxmYkHFlkMJLQDPC5.jpg"
+            },
+            {
+                "name": "Haley Bennett",
+                "role": "Sidney Scofield",
+                "image": "https://image.tmdb.org/t/p/w200/8HRgGypSwHeI27ffmcAELNoxIOw.jpg"
+            },
+            {
+                "name": "Dominic Cooper",
+                "role": "Havlock",
+                "image": "https://image.tmdb.org/t/p/w200/bz2nzQ1lDiu62R0e4GOncuq1hIk.jpg"
+            },
+            {
+                "name": "Simone Kessell",
+                "role": "Sarah Remnick",
+                "image": "https://image.tmdb.org/t/p/w200/rWZrkFkJVbrLSAxdHRE90it3yGh.jpg"
+            },
+            {
+                "name": "Dallas Goldtooth",
+                "role": "Hutch",
+                "image": "https://image.tmdb.org/t/p/w200/lSn8AUXjAhFfafGAZ683UA8fTlp.jpg"
+            },
+            {
+                "name": "Tait Blum",
+                "role": "Luke Remnick",
+                "image": "https://image.tmdb.org/t/p/w200/hPkRuyvAaA85eFO1pQzfu5bj6Xx.jpg"
+            },
+            {
+                "name": "Alfre Woodard",
+                "role": "Jacqueline Bradford",
+                "image": "https://image.tmdb.org/t/p/w200/jaojqEDdOBWfDpQfdWIbvyLDy5z.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Mavi Gökyüzü",
+                "overview": "Eşi benzeri görülmemiş bir acil durum, Fairbanks şehrini kapanmaya zorlar. Frank, kapsamlı bir operasyon başlatmak için mevcut tüm kaynakları toplar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oVi82txNurQQK0nghDKGINaFW0Y.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Değişim Rüzgârı",
+                "overview": "Havlock'ı arama çalışmalarının şiddeti artarken Luke eve dönmeye çalışır. Frank, bir dizi talebi kabul edip etmeyeceğini düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/blbOrV9ZfyA4E3lB1qYF3KAwDJE.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Tam Bir Taşralı",
+                "overview": "Sarah'nın ortadan kaybolması, Frank'in arama çalışmalarını hızlandırır. Havlock'ın büyük planı beklenmedik bir yöne gider ve rehine sayısını artırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/orl3lIpg3TJk7n7vlsaUZD51muD.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Amerikan Rüyası",
+                "overview": "Bir eyalet polisi kaybolunca Frank'in soruşturması genişler. Silahlı yerliler aramaya katılır. Sarah, Luke'un nerede olduğu konusunda endişe duymaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3k9cfe8bDE0dRWj9jx3VmLHgmjU.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Arnaq",
+                "overview": "Frank, Luke'u bulmaya odaklanır. Havlock'ın planı yeni bir aşamaya geçince CIA, olaylara daha fazla dâhil olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i7mUHOoGNPXwC6rMqLyhZhuqYI9.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Şeytan Takım Elbise Giyer",
+                "overview": "Fairbanks'te büyük bir elektrik kesintisi yaşanır. Sarah, acil serviste şüpheli birini fark eder. Sidney, önemli bir delili ele geçirmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pR3vqxu8hZmbSqPdXXaMvoEUBUu.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Zamanın Değişimi",
+                "overview": "Gizemli bir yeni şüpheli sorgulanır. Frank'ın sırrı ortaya çıkar. Havlock, sabit sürücüsünün içeriğini geri almaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bDsaIv8aklDyDoBXYLmKZO9QS3v.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kayıp Hava",
+                "overview": "Sidney, babasının geçmişini, Atwater Protokolü'nü ve Arşiv 6'daki gizli istihbaratı öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ziGycx8ZJVxxBJCuVza3n5csn2E.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Birleşme",
+                "overview": "Bradford, bir CIA timiyle Fairbanks'e gelir ve artık yeni bir birincil hedefi vardır. Sidney, gerçeği ortaya çıkarmak için çaresizce uğraşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uzDURDcNyWS7q9ifGNCgXbGmgBB.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Her Şey Çabalıyor",
+                "overview": "Sidney ve Havlock, Arşiv'i ele geçirmek için her şeyi riske atar. Frank, bir hayat kurtarma görevine çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oIxPIgs38rTzZj3bvcQqIrvdQzn.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt26862142/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 09:25:58"
+    },
+    {
         "id": 225171,
         "imdb_id": "tt22202452",
         "name": "Pluribus",

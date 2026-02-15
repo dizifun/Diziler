@@ -1,5 +1,144 @@
 [
     {
+        "id": 219080,
+        "imdb_id": "tt26453092",
+        "name": "The Mighty Nein",
+        "original_name": "The Mighty Nein",
+        "overview": "Gerçekliği şekillendirme gücüne sahip bir eser yanlış ellere düşünce, bir grup dışlanmış, suçlu ve uyumsuz kendilerini kıtayı kurtarırken bulur.",
+        "poster": "https://image.tmdb.org/t/p/w500/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/7K7wbQIpkzif4fMhDHsCweXFS42.jpg",
+        "year": "2025",
+        "rating": 8.0,
+        "genres": [
+            "Animasyon",
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Animasyon",
+            "Prime Video"
+        ],
+        "cast": [
+            {
+                "name": "Laura Bailey",
+                "role": "Jester (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/y2szEyFy7VFAzdQjMwN3fLwEDn.jpg"
+            },
+            {
+                "name": "Marisha Ray",
+                "role": "Beau (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/pLP67Y4iV6vQVaV1O2K7FNmvXJX.jpg"
+            },
+            {
+                "name": "Liam O'Brien",
+                "role": "Caleb (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+            },
+            {
+                "name": "Ashley Johnson",
+                "role": "Yasha (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
+            },
+            {
+                "name": "Taliesin Jaffe",
+                "role": "Mollymauk (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/6J7WD9B9ijvP8rw5hREV47MQbUt.jpg"
+            },
+            {
+                "name": "Sam Riegel",
+                "role": "Nott the Brave (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/fgQMEXtqK4xubDf0a2P8r4VJ8SF.jpg"
+            },
+            {
+                "name": "Travis Willingham",
+                "role": "Fjord (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/clvP30k6cUMf4hukRQqZD3k9z4S.jpg"
+            },
+            {
+                "name": "Matthew Mercer",
+                "role": "Essek (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/fe1S317253vfMuNuIDjhp9vtNSs.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Olasılık Parçacığı",
+                "overview": "Sınırda meydana gelen bir patlamanın ardından Wildemount savaşın eşiğine gelir. Beauregard Lionett patlama mahallini araştırırken, karanlıkta saklı kötü niyetli bir planın izini bulur. Bu arada Caleb Widogast, beklenmedik bir müttefikle işbirliği yaparak büyülü bir evcil hayvan dükkânına girmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hFFiKB4xUTjKzMjhfjpdZniOkLN.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt26453092/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kim Olacaksın?",
+                "overview": "Bir gemi kazasından kurtulan Fjord Stone, birdenbire sihirli güçlere sahip olduğunu keşfeder. Nicodranas'ta, Jester Lavorre'nin müstehcen şakaları yüzünden başı derde girer. Bu arada, Nott'un hırsızlığı onu ve Caleb'i neredeyse öldürtecekken, Beau'nun soruşturması güneye doğru ilerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/c5KqDZJlMeGe6hTabskvM1PZBN0.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt26453092/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Fletching & Moondrop Gezgin Harikalar Karnavalı",
+                "overview": "Mollymauk Tealeaf, başarısız karnavalına müşteri çekmek için tehlikeli bir yeni gösteri sunar. Gösteriler sırasında Beau gizli muhbiriyle buluşur, Jester Fjord'a nasıl eğlenileceğini gösterir, Caleb ve Nott ise nadir bulunan bir sihirli bileşeni çalmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5YWDn5aTP6flYRELBiRaqDZVGE5.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt26453092/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "The Mighty Nein",
+                "overview": "Karnaval katliamının suçlusu olarak gösterilen Mighty Nein, birbirlerini öldürmeden önce bir araya gelerek genç bir kızı kurtarmak ve adlarını temize çıkarmak zorundadır. Bu arada Essek ve Trent Ikithon, Fener deneylerine başlar. Trent, bunun getireceği sonuçlar için heyecanlanırken, Essek tercihlerini yeniden gözden geçirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/A1djPL3aX36anrUZ9rewG2zlg6J.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt26453092/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Küçük Kıvılcım",
+                "overview": "Mighty Nein hapishaneden kaçıp Volstrucker suikastçısını etkisiz hâle getirdikten sonra, Beau onu acımasızca sorguya çeker. Ama sorgu ilerledikçe, Beau'nun şüpheleri Caleb'e yönelir, çünkü onun İmparatorluk ile bağlantısı ve karanlık geçmişi ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dlBAG5teZC72D3dkos7gc9XKneP.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt26453092/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Birçok Hediye",
+                "overview": "Mighty Nein, Zadash'ta kendilerini Volstrucker suikastçılarından koruyabilecek \"Beyefendi\" olarak bilinen, meşhur bir kaçakçıyı arar. Ama bunun için bir şartı vardır. Onun için eski bir hazineyi ele geçirmeleri gerekir. Fakat birlikte çalışmayı öğrenmeleri gerekmektedir, aksi takdirde ölümcül sonuçlarla karşı karşıya kalacaklardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oocKX35ZXuFCAu8NRbQgS842zZd.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt26453092/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Aidiyet",
+                "overview": "Mighty Nein değerini kanıtladıktan sonra, Beyefendi onlara başka bir görev verir. Gizemli bir Kryn eserini çalmak. Ama birbiriyle çelişen arzular sonucu Mighty Nein, Zadash'ın dört bir yanına ayrı ayrı yolculuklara çıkar. Hanedan'da ise Essek, yıkıcı bir yenilginin ardından Verrat'a ihanet eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yZuPxdh1jhwb2TtJirqGxKWhONV.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt26453092/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Zadash İşi",
+                "overview": "Mighty Nein yeniden bir araya geldikten sonra, Beyefendi için gizemli Kryn eserini çalmak üzere ayrıntılı bir soygun planı yapar. Ancak planları tamamen suya düştüğünde, Mighty Nein'in hayatta kalıp kaçabileceği bile belirsizdir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/53d4rujgSgswxrSEUG3zwis8Ax5.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt26453092/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 09:16:08"
+    },
+    {
         "id": 231727,
         "imdb_id": "tt20917940",
         "name": "Kurt Kral",

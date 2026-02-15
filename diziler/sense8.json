@@ -2,24 +2,290 @@
     "id": 61664,
     "imdb_id": "tt2431438",
     "name": "Sense8",
+    "original_name": "Sense8",
+    "overview": "Matrix ve Babylon 5'ın yaratıcılarının elinden çıkan bu harika gerilim dizisinde, telepati yoluyla birbirlerinin hayatını yaşayabilen sekiz kişinin hikayesini izliyoruz.",
     "poster": "https://image.tmdb.org/t/p/w500/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/TePSNzSC8NoOkB7D7eIP3nIL1V.jpg",
     "year": "2015",
+    "rating": 7.7,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Miguel Ángel Silvestre",
-        "Max Riemelt",
-        "Jamie Clayton",
-        "배두나",
-        "Brian J. Smith"
+        {
+            "name": "Miguel Ángel Silvestre",
+            "role": "Lito Rodriguez",
+            "image": "https://image.tmdb.org/t/p/w200/ft14HqAFsvk0o2m5rOXrfYUI4KA.jpg"
+        },
+        {
+            "name": "Max Riemelt",
+            "role": "Wolfgang Bogdanow",
+            "image": "https://image.tmdb.org/t/p/w200/qFwwLIafzvRfytWnphxYMg2RLvU.jpg"
+        },
+        {
+            "name": "Jamie Clayton",
+            "role": "Nomi Marks",
+            "image": "https://image.tmdb.org/t/p/w200/zLEclKF0NBDEzIs3XQsQS81aDak.jpg"
+        },
+        {
+            "name": "배두나",
+            "role": "Sun Bak",
+            "image": "https://image.tmdb.org/t/p/w200/owMv65TuU4thBBJCpv3uWr1bWfc.jpg"
+        },
+        {
+            "name": "Brian J. Smith",
+            "role": "Will Gorski",
+            "image": "https://image.tmdb.org/t/p/w200/sAlWlK9mtX9BVGFybx7wQ9SSzTp.jpg"
+        },
+        {
+            "name": "Tuppence Middleton",
+            "role": "Riley Blue",
+            "image": "https://image.tmdb.org/t/p/w200/otWL8adXFVViJG1Y8rsGlPn3R2H.jpg"
+        },
+        {
+            "name": "Tina Desai",
+            "role": "Kala Dandekar",
+            "image": "https://image.tmdb.org/t/p/w200/qgWNQup7v43INpgSe24WlGcSo0G.jpg"
+        },
+        {
+            "name": "Freema Agyeman",
+            "role": "Amanita Caplan",
+            "image": "https://image.tmdb.org/t/p/w200/qL741lSB4GJIzBRCMz2xzrO7C45.jpg"
+        },
+        {
+            "name": "Naveen Andrews",
+            "role": "Jonas Maliki",
+            "image": "https://image.tmdb.org/t/p/w200/tVAQ4dP9rRosjHZBLNVlfAGVE66.jpg"
+        },
+        {
+            "name": "Toby Onwumere",
+            "role": "Capheus Onyango",
+            "image": "https://image.tmdb.org/t/p/w200/nlRElwoVrV6etxnt7vpnqM0MmD1.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Limbik Rezonans",
+            "overview": "Farklı şehirlerde yaşayan ve birbirini hiç tanımayan sekiz yabancı açıklanması zor deneyimler yaşamaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jkYFJXi3tXByIXRRRXcIN49yDEC.jpg",
+            "vote_average": 6.9,
             "link": "https://vidmody.com/vs/tt2431438/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Ben Aslında Bizim",
+            "overview": "Nomi'nin talihi tersine dönerken, duyusalların bağları giderek daha güçlü ve daha tehlikeli hale gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9aqGXAVU23jI4mxMAKBJs6gd46J.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Paranın Çoğu Sıska Kaltağın Üzerinde",
+            "overview": "Duyusalların çoğunun hayatı giderek daha fazla karışır. Yeni keşfettikleri yetenekleri hala gizemini korusa da, hayatta kalmalarını sağlayacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vbwqaNsxV0CDrA8kYCoSleil2C1.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "What's Going On?",
+            "overview": "Nomi'nin kaderi giderek yaklaşırken, Capheus ve Wolfgang'ın kaderleri yön değiştirir. Sun çok zor bir tercih yapmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fjICQLQbVsCVX6trq1wLcgEpZBT.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Sanat Din Gibidir",
+            "overview": "Duyusallar'ın güçlenen bağları başlarına dert açmaya başlar. Lito sette ilginç günler yaşar, Kala'yı ise düğün gününde bir sürpriz beklemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oQyiFuXn7W2Z4lpB2yC7ogiuhnY.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "İblisler",
+            "overview": "Duyusallar yakınlaşmaya başlarken, Nomi özgürlüğünü kazanmak için cesur bir adım atar. Bu sırada Sun ileride pişman olabileceği bir seçim yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6pudOGD2qZPnn98T7U4t9xmhtrV.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "N-D-N-Y?",
+            "overview": "Nomi eski doktoruyla ilgili şok edici bir gerçeği keşfeder. Will gördüklerinin arkasında yatan gerçeğe yaklaşırken, Kala'nın şüpheleri artmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6cZCfsCYuVfxFH69LaW4FFQv9w0.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Neticede Hepimiz Yüreğimizdeki Mertlikle Yargılanacağız",
+            "overview": "Sun yeni hayatına alışmaya çalışırken, diğer yandan Capheus hayatını değiştirmek için uğraşmaktadır. Will ve Nomi her şeyi değiştirebilecek bilgilere ulaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7mYnY9PhZIUlarHbUBfozTEJ3TH.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Ölüm Veda Etmene İzin Vermez",
+            "overview": "Riley yeni hayatı ve tehlikelerini daha iyi anlar. Kala Rejan'ın babasına yapılan saldırı sonrasında olanlarla uğraşmaktadır. Bu sırada Lito'nun hayatı kontrolden çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8xrPwmEEQOSNnTIjrdx1RkysyZ4.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "İnsan Nedir?",
+            "overview": "Will kökleri ve geleceğine dair tehditler hakkında daha çok şey öğrenir. Kala ile kurduğu bağ güçlense de, Wolfgang'ın yaptıkları peşini bırakmaz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kcVASyaEdGvBDsxnkxfuqg91ywY.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "Direksiyonu Çevir Yeter ve Gelecek Değişsin",
+            "overview": "Riley'nin kaderi yaklaşırken, Capheus ve Sun bir sınavdan geçer. Wolfgang şimdiye kadarki en cesurca hamlesini yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dAchHZwKAMy4RDp6GhSPJJDF8WM.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "Onu Bırakamam",
+            "overview": "Sezon finalinde Riley Whispers'ın elindeyken, Duyusalların hayatta kalabilmesi için her birinin becerilerine ihtiyaç vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sP089JBueCpK0ZBWqqU3mSTWB5q.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt2431438/s1/e12"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Nice S**** Yıllara",
+            "overview": "Skandallar, sürprizler ve kutlamalar, hayatlarını yeniden kurmaya ve Whispers'a üstünlük sağlamaya çalışan Duyusallar'ın aralarındaki bağları güçlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/poE3sXa5eYI1W5Apb10uUDBte6i.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Ben Kimim?",
+            "overview": "Will ve Whispers birbirlerinin konumlarını bulmak için yarışırlar, bu sırada Lito, fotoğraflar sızdığından beri ilk film galasına gitmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4leUjdBGyUKcF07c3u5aDvMvAzM.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Birlikte Yaşamaya Mecbur",
+            "overview": "Duyusallar BPO'daki önemli biri ile iletişime geçerler. Hapishanedeki hücresinden alınan Sun, bir yardım talebi gönderir. Wolfgang ilginç bir yabancıyla tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AirU7LACGlMPc3VNg2kiEZYeb3m.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Çok Seslilik",
+            "overview": "Kala ve Capheus, öfkeli protestoların ortasında kalır. Lito, bir gazetecinin ortadan kaybolmasını araştırır ve Angelica'nın kümesiyle ilgili yeni bilgiler ortaya çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tT3vTYbPpBI25P1PjVHfbT6Much.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Korkunun Ecele Faydası Yok",
+            "overview": "Bug, Nomi'nin yasal sorunlarına çözüm bulur. Kala'nın kusursuz yaşamında yeni çatlaklar ortaya çıkar. Duyusallar, planlarında cüretkâr bir değişiklik yapmayı düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x7AKDdyRPkrv051h8s9oTdNfv7K.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Üstte İzole, Altta Bağlı",
+            "overview": "Capheus hoş geldin sürprizinin keyfini çıkarırken Lito üst düzey bir etkinlikte dikkatleri üzerine çeker. Riley, partide gördüğü Duyusalın güvenini kazanmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ehqsmkLVHLiJ3wsfnR0DCREzbZs.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Kalbimde Nefrete Yer Yok",
+            "overview": "Will, eski bir arkadaşından yardım ister. Riley, riskli bir yolculuğa çıkar. Kala, tedirgin edici bir keşifte bulunur. Sun, mezarlıkta duygu dolu bir karşılaşma yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rPSv9E0DEgHJNO2ds1tcYAgT8qY.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Şu An Tek İstediğim Bir Mermi Daha",
+            "overview": "Tanıdık bir yüz, ölümden geri döner. Morali bozuk olan Lito, teselliyi Sun'da arar. Lila, Wolfgang'ı bir tuzağa çeker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fQpxYlSsogqcTUlzFNNrwUVwaUV.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Ailenin Gerçek Anlamı",
+            "overview": "Bir düğün, Nomi için yeni sorunlara yol açar. Daniela, Lito'ya kusursuz bir görev sağlamak için elinden geleni yapar. Duyusallar'dan biri, yıkıcı bir kayıpla yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k2atyYYIUKvc1cxJJ4ejGW8Kvlq.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Eğer Dünya Bir Sahneyse, Kimlik Sadece Bir Kostümdür",
+            "overview": "Sun, gizli görevinde ilerlerken Lito, hayatının seçmesi için Hollywood'a gider. Capheus, ilk büyük konuşmasına hazırlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1hnrok7Nzadn9HOMCrB8gDtKTWi.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "Savaş mı İstiyorsun?",
+            "overview": "Sun, galada erkek kardeşiyle hesaplaşmaya hazırlanır. Vahim ve yeni bir tehdit, Duyusalların kümelerinin bir başka üyesini kurtarmak için harekete geçmesine neden olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dkuL99D2itPJUFWSijmAYFLoXn5.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "Amor Vincit Omnia",
+            "overview": "Dizinin sürükleyici finalinde Duyusallar ve en yakın müttefikleri, kümeyi kurtarmak ve düşmanlarını sonsuza dek durdurmak için savaşırken yoğun tutkular yaşanıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/utvU48Wnqbq0bKwjuxYxTAh95gC.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2431438/s2/e12"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 08:42:16"
 }

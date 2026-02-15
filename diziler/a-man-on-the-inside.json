@@ -2,23 +2,188 @@
     "id": 245312,
     "imdb_id": "tt26670955",
     "name": "A Man on the Inside",
+    "original_name": "A Man on the Inside",
+    "overview": "Araştırma konusunda becerikli bir emekli profesör, bir özel dedektif tarafından gizli görev için tutulunca hayatına beklenmedik bir heyecan katar.",
     "poster": "https://image.tmdb.org/t/p/w500/c09XdTLpLku2tqHt158NZBgC4hi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6EObfIe4akZGvCLXwXLJw3kPitQ.jpg",
     "year": "2024",
+    "rating": 7.5,
     "genres": [
         "Komedi",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Ted Danson",
-        "Mary Elizabeth Ellis",
-        "Lilah Richcreek Estrada",
-        "Mary Steenburgen"
+        {
+            "name": "Ted Danson",
+            "role": "Charles Nieuwendyk",
+            "image": "https://image.tmdb.org/t/p/w200/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
+        },
+        {
+            "name": "Mary Elizabeth Ellis",
+            "role": "Emily Nieuwendyk-Piñero",
+            "image": "https://image.tmdb.org/t/p/w200/dxU1L86zV6gjcOdATfO4uo6zIpt.jpg"
+        },
+        {
+            "name": "Lilah Richcreek Estrada",
+            "role": "Julie Kovalenko",
+            "image": "https://image.tmdb.org/t/p/w200/pA3pPpC5ShWvoqREeHLpScXd2Qg.jpg"
+        },
+        {
+            "name": "Mary Steenburgen",
+            "role": "Mona Margadoff",
+            "image": "https://image.tmdb.org/t/p/w200/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "İhtiyar Casus",
+            "overview": "Kızı tarafından yeni bir şeyler denemesi için cesaretlendirilen taze dul Charles Nieuwendyk, huzurevinde köstebeklik yapacak birini arayan bir özel dedektifin ilanına cevap verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pwKM386LEXQjfPrDdaqqFBriIPp.jpg",
+            "vote_average": 6.8,
             "link": "https://vidmody.com/vs/tt26670955/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Köprüler Hakkında Çok Şey Bilen Adam",
+            "overview": "Dedektifliğe uyum sağlamaya çalışan Charles huzurevindeki içki saatinde yeni komşularını etkilemeyi başarır. Ama gizemli bir uyarı, soruşturmayı daha başlamadan bitirecek midir?",
+            "still_path": "https://image.tmdb.org/t/p/w400/dwCi7PbTD7Zu8E1cn97fxFYnNk.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt26670955/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Emily Kapıyı İki Kere Çalar",
+            "overview": "Emily aniden şehre gelince Charles'ın ona bir açıklama yapması gerekir. Bir şeyin daha ortadan kaybolmasının ardından huysuz Elliott, Charles'ı hedef gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6AA5tRj1y12bdBxcz61DNj1IqJ0.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt26670955/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Resim Dersindeki Köpek Vakası",
+            "overview": "Pacific View'un grup aktiviteleri Charles'a şüpheli listesini kısaltmak için mükemmel bir fırsat sunar. Ama kurduğu yakınlıklar Julie'yi endişelendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mTwyTgnDQIQ4OvY76xwxjaG9H7I.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt26670955/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Hediyeleri Ayarlama Enstitüsü",
+            "overview": "Julie lüks bir hediyeyi yem olarak kullanırken Charles, Gladys ile yakınlaşmaya çalışır. Virginia, Florence'ı hep almak istediği bir şeye para harcaması için cesaretlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/z5JcnKxhvmdsfCV3kJBny7ACeuC.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt26670955/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Sacramento Casusu",
+            "overview": "Pacific View ani bir kayıpla sarsılırken Charles, Emily ile duygusal bir yolculuğa çıkar. Didi, şirket yönetiminden gelen cazip bir teklifi değerlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vetObV7RdWMKCd4NZi3MG3VQNG4.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt26670955/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Russian Hill'den Sevgilerle",
+            "overview": "San Francisco'nun tarihî yerlerini gezen Charles ve Calbert geçmişi, bugünü ve geleceği konuşarak yakınlaşır. Didi ve Julie ise takışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1J4SsL44GraMV4eZ1fcmxP9ymLs.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt26670955/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Soğuktan Gelen Casus",
+            "overview": "Tüm parçalar yerine oturunca Charles, Pacific View'daki asıl amacını açıklamakta zorlanır. Emily ona geçmişiyle yüzleşmesinde yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6bkQaqjEO6AOhYMjBwhBgiqZlN9.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt26670955/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Oryantasyon",
+            "overview": "Bir üniversite rektörünün sırları yanlış kişilerin eline düşünce, misafir öğretim görevlisi kılığında kampüse sızan Charles kimliği belirsiz şantajcının izini sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tJZtvhCMy8VPeco3vmMoUxXGgXN.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt26670955/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Büyük Karar",
+            "overview": "Julie yeni delilleri araştırması için beklenmedik bir uzmandan yardım alır. Profesyonel kimliğiyle özel hayatının kesişmesi, Charles'ı zor durumda bırakır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6sOWw02JPd8M1RLBls18P3vVfxO.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt26670955/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Aile Günü",
+            "overview": "Brad'i bilgilendirmek için yapılan bir toplantı, kaotik bir beyin fırtınasına dönüşür. Mona hakkındaki şüpheleriyle baş edemeyen Charles, kızı Emily'den yardım ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wANKMcwEhIlaNXgFh4T9g1PPYc3.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt26670955/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Okul Ruhu Haftası",
+            "overview": "Şantajcının baskısı tırmanışa geçerken, yeni bir şüpheli ortaya çıkar. Çok değerli bir okul geleneği, Charles'ı göz kamaştırıcı bir engelle yüzleştirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8kB6cy0WVHgPLXjO6vmKof2aBqG.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt26670955/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Şükran Günü Tatili",
+            "overview": "Nieuwendyk ailesinin Şükran Günü yemeği, davetsiz misafirler ve turta krizi sayesinde bayram coşkusunun sınırlarını zorlayan bir curcunaya dönüşür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4qaUYPH6OXPKbEcynKS1MHZgIxD.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt26670955/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Okul Dışı Etkinlikler",
+            "overview": "İpuçları tükenen Charles ve Julie, başından beri yanlış izleri sürüp sürmediklerini sorgularlar. Mona ve Emily birlikte takılmak için işten kaytarmaya karar verirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mJQYyfnmLJy6GQz3y8I3a3HXBGO.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt26670955/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Grup Projesi",
+            "overview": "Cesur ama pek becerikli olmayan bir grup ajandan yardım alan Charles, kod adları ve el çabukluğu kullanarak bir mezunlar buluşmasını riskli bir soyguna dönüştürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A67oJGOIN21qfh5Pei7hgX4mQoK.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt26670955/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Finaller",
+            "overview": "Wheeler vakasında son yapboz parçalarının yerli yerine oturmasıyla hem dedektifler hem de şüpheliler için yeni kapılar açılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fK1mDk67iklSEvZIa2gQuKHR1kA.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt26670955/s2/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 09:22:02"
 }

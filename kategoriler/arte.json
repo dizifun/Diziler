@@ -1,0 +1,124 @@
+[
+    {
+        "id": 217606,
+        "imdb_id": "tt26741906",
+        "name": "Rematch",
+        "original_name": "Rematch",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/9qfSj2IaMD6C8CqT0pkc1jW7oGb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/oyQ5Q5NzdpHAlk5CV2znnlAnacU.jpg",
+        "year": "2024",
+        "rating": 7.2,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "ARTE"
+        ],
+        "cast": [
+            {
+                "name": "Christian Cooke",
+                "role": "Garry Kasparov",
+                "image": "https://image.tmdb.org/t/p/w200/pqIqDP4HuRLc60KR8QMTHWhIJNq.jpg"
+            },
+            {
+                "name": "Orion Lee",
+                "role": "P.C.",
+                "image": "https://image.tmdb.org/t/p/w200/jHz7papyoOAFvMql64cXQVQqKYu.jpg"
+            },
+            {
+                "name": "Sarah Bolger",
+                "role": "Helen Brock",
+                "image": "https://image.tmdb.org/t/p/w200/A3K2l5kkqTMQHtAkctzICqtbZMY.jpg"
+            },
+            {
+                "name": "Trine Dyrholm",
+                "role": "Klara Kasparova",
+                "image": "https://image.tmdb.org/t/p/w200/ntUn5eKFlQxbjPci5A99qJOjulY.jpg"
+            },
+            {
+                "name": "Aidan Quinn",
+                "role": "Roger Laver",
+                "image": "https://image.tmdb.org/t/p/w200/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+            },
+            {
+                "name": "Tom Austen",
+                "role": "Paul Nelson",
+                "image": "https://image.tmdb.org/t/p/w200/6TC9gW3ZJzrNyFgsYDeWj8V6RYo.jpg"
+            },
+            {
+                "name": "Luke Pasqualino",
+                "role": "Xavier Valens",
+                "image": "https://image.tmdb.org/t/p/w200/egwyqohJ3KLag4GUyTzXGngwTc1.jpg"
+            },
+            {
+                "name": "Molly Harris",
+                "role": "Debbie",
+                "image": "https://image.tmdb.org/t/p/w200/sJ6LJl75paSDDtxtdBPrBQB4UDA.jpg"
+            },
+            {
+                "name": "Trieve Blackwood-Cambridge",
+                "role": "Michael",
+                "image": "https://image.tmdb.org/t/p/w200/zd5w5sCxAdGIquYeW1Uqbz8pbbI.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bDpnmCglNwx7QopSDoNMX7q2KPm.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lyx07zFt8G0rrfGF8tSlH2t37i0.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bQJhxozsByQ915QxVY77rwH1Yjl.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/adNnXfQ1cwyESzplG58ucIC6CEu.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lAWtQc4kFeGV3G0UPLrLHxkirrR.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oS2php4KqtRUPfUMj4cr5ItCTLU.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt26741906/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 09:24:01"
+    }
+]

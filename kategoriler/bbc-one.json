@@ -1,5 +1,375 @@
 [
     {
+        "id": 60574,
+        "imdb_id": "tt2442560",
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/l8v3gJDlASN0lNn51gR8zQJsu5O.jpg",
+        "year": "2013",
+        "rating": 8.5,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix",
+            "BBC One",
+            "BBC Two"
+        ],
+        "cast": [
+            {
+                "name": "Cillian Murphy",
+                "role": "Thomas Shelby",
+                "image": "https://image.tmdb.org/t/p/w200/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
+            },
+            {
+                "name": "Paul Anderson",
+                "role": "Arthur Shelby",
+                "image": "https://image.tmdb.org/t/p/w200/xROnQbYvFH3OSEoC9EgRriVAQ1G.jpg"
+            },
+            {
+                "name": "Sophie Rundle",
+                "role": "Ada Shelby",
+                "image": "https://image.tmdb.org/t/p/w200/9HxJ6pG1Q0BBbIV1UXk5iU9zDM9.jpg"
+            },
+            {
+                "name": "Natasha O'Keeffe",
+                "role": "Lizzie Stark",
+                "image": "https://image.tmdb.org/t/p/w200/tOX10C02tSFnOSra8a8rGuA6QZ5.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Hırslı çete lideri Thomas Shelby, kayıp bir silah sandığı sayesinde yükselme fırsatı yakaladığını fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wMK677CxhZbgWHonyDMnT84wTf5.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Thomas bir at yarışında hile yaparak bölgenin elebaşlarından birini kışkırtır ve bir çingene ailesiyle aralarında savaş çıkar. Dedektif Campbell ani bir baskın düzenler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Thomas, Cheltenham yarışlarında Billy Kimber'a yaklaşmak için bir tezgah kurar ve IRA sempatizanlarının çalıntı silahlarını satın alma teklifini değerlendirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Lee ailesiyle aralarındaki düşmanlık artarken, Thomas kardeşinin nişanlısından kuşkulanmaya başlar. Campbell silahları teslim etmeleri için çeteye baskı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Thomas, öldürülen kuzeninin intikamını almaya kararlı IRA lideri ile bir anlaşma yapar. Bu sırada Grace Campbell'e mi yoksa Thomas'a mı sadık kalacağına karar vermelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/11HGUikej3bARNmp44vEnkBel5K.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Thomas Billy Kimber'ın gücünü elinden almaya hazırlanmaktadır. Ancak gün yüzüne çıkan aile sırları ve takıntılı Campbell felaketi olabilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e06"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Birmingham suç dünyasının patronu Tommy Shelby'nin sevgili Garrison barı bombalanır ve İrlandalı bir muhalifi öldürmesi için şantaja maruz kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2JxCri29xSPtPdrrZBWtbehhClL.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "İrlandalı bir muhalifi öldürmesinin ardından, Tommy'nin Dedektif Campbell'ın tehlikeli siyasi oyunlarında piyon olmaktan başka seçeneği yoktur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Bir iş için Londra yeraltı dünyasının patronu Alfie Solomons'a katılan Tommy, Alfie'nin yeni ortaya çıkan havai tavırlarının sorun olabileceğinden endişe etmektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Peaky Blinders Londra'nın ünlü barı Eden Club'ı devralır. Sabini eski düşmanı Alfie Solomons'u güçlerini birleştirmeye ve çeteyi ortadan kaldırmaya ikna eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zYGvwuFcg5WdqqdR5px1xADc8bn.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Peaky Blinders saldırıya uğrar. Tommy'nin Londra'daki üssü yok edilmiş, hem Arthur hem de Michael tutuklanıp hapse atılmıştır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b6Yhg94P1OvTWeOuvZkZ2v5Ct4t.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Tommy Campbell'in verdiği görevi uygulamayı planlamaktadır: Ordu teşkilatının üst düzey bir üyesine suikast düzenleyecektir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e06"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Yeni bir iş ortağı, Tommy'nin düğün gününde gizli bir görüşme ayarlar. Arthur dindar bir kadınla birliktedir, Polly ise çekici bir adamla tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6RRRhM5ehUVb69KVMn9HQbN99iZ.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Düşüncesizce savrulan bir tehdit savaşı tetikler. Tommy alışılmadık bir ödeme yöntemiyle karşılaşır, ancak patronları onu dizginlemek için güç kullanırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cFGD6AaP4GXEROEQBAfFsKfSq9Q.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Tommy af dilemek için Galler'e gider ve Ekonomi Birliği'nde bir haini ortaya çıkarır. Michael, silahlara ilgi duymaya başlarken; Arthur iyi haberler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y41GIASNa9nBDkQdpScDKRki2R3.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Polly'nin itirafı, kurulan bir tuzağı ortaya çıkaran olaylar zincirini başlatır. Tommy ise kirli işlerden elini eteğini çekmeyi düşünmektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tcOWVbd1V46RRhbgNIGyTwwijne.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Rusların onu köşeye sıkıştırdığını anlayan Tommy, eski bir iş ortağından yardım ister. Polly'nin yeni arkadaşlığı, bambaşka bir şeye dönüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8oDs7pMOkNad9sFPhn0Gz6G0BKw.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Kariyerinin en gözü pek suçunu işlemeye hazırlanan Tommy, zamana karşı yarışırken onu en büyük korkularıyla yüzleşmeye zorlayan bir darbe alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/prDRv2l7hjooZWNFMui9Ll7Plf5.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e06"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Halat",
+                "overview": "1925 Noel'inde, parçalanmış Shelby ailesinin fertleri, New York mafyasının bir yıl önce işledikleri cinayetlerin intikamını almak için peşlerine düştüğünü öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lbxpucGwT4OIykqe0O9E9LnA9wV.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Kâfirler",
+                "overview": "Yaşadığı kayıpla sarsılan Shelby ailesi Small Heath'te toplanır. Tommy, mafyaya karşı saldırı başlatmak için aile arasında bir ateşkes çağrısı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cXslOUj3dI481fLi96XraGFpul4.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Karatavuk",
+                "overview": "Linda, daha sonra bir pusuya düşen Arthur'un dikkatini dağıtmaya çalışır. Tommy, savaştan önce nasıl biri olduğunu hatırlar. Polly, geçmişinden gelen bir adamla buluşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7hICJbOPyaKGNwI6w10fbZc7zqq.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "Tehlikeli",
+                "overview": "Mafya, Shelby ailesinin bir üyesini tuzağa düşürmeye çalışır. Eski bir sevgilisi, Tommy'i ziyaret eder. Lizzie beklenmedik haberler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9W5UtzSNPA4YSuRZdhC2tyiFkah.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Düello",
+                "overview": "Sayıca az olmalarına rağmen, Tommy mafyayla çatışmaya girer. Luca Changretta, Alfie Solomons'a yaklaşır. İngiliz ordusu ise Ada'yı aramaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gvfJVdkEW0reVa1DoLqBSWadMxG.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Şirket",
+                "overview": "Boks maçı sırasında, Arthur önsezilerinin peşinden gider. Tommy, Alfie Solomons'un bilgece sözlerinden etkilenir ve Jessie'den çok değerli bilgiler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oznSCw2RggRbxHIQsFSOM9it5pV.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e06"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "Kara Salı",
+                "overview": "Amerika'dan gelen kötü haberler nedeniyle Shelby ailesi acilen yönetim kurulunu toplar. Ada bir sır saklar. Geçmişinden biri Tommy'nin karşısına gazeteci olarak çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/66FTuKBoDYzUhTWJjFnFxloutdu.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "Kara Kediler",
+                "overview": "Anonim mesajlar korku verici bir hâl alır. Michael'ın sadakati sorgulanır. Tommy, Oswald Mosley'den bir teklif alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bmEFL2zyYInPGichfyyRHPtMHaY.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "Strateji",
+                "overview": "Aberama, intikam için Glasgow'a gider. Tommy kendisini tehdit eden Mosley'nin ayağını kaydırmaya karar verir. Hummalı şekilde Linda'yı arayan Arthur kontrolünü kaybeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lPhtB5KxpNAR1SOhj7eydgrAaXX.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "Döngü",
+                "overview": "Tommy ateşkes ilan ederek Jimmy McCavern ile buluşur. Ortaya kârlı bir iş fırsatı çıkar. Aberama'dan intikamını erteleyip aşka öncelik vermesi istenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9o9Obi0uzcAksnocm14AViXhYZu.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "Şok",
+                "overview": "Tommy'nin faşistlerle ilgili verdiği bilgileri üstlerine ileten Ben Younger beklenmedik sonuçlarla karşılaşır. Tommy, akıl hastanesindeki birini ziyaret eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2EvMNs9p7NEzV4VUQioUL2GTU2W.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "Bay Jones",
+                "overview": "Michael aile toplantısında cüretkâr bir teklifte bulunur. Köstebeğin kimliği tespit edilir. Tommy eski bir düşmanından Mosley'yi saf dışı etme planı için yardım ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tK75oU0JfkCAZfC4QWuA1uPDMDg.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e06"
+            },
+            {
+                "season": 6,
+                "episode": 1,
+                "name": "Kara Gün",
+                "overview": "Önlenen Mosley suikasti, Shelby ailesinin bir ferdinin canına mal olur. Dört yıl sonra, alkol yasağının kalkmasına yakın, Tommy Kuzey Amerika'ya gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qCmmKG9He0lIp7RITOxbqzOfURF.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e01"
+            },
+            {
+                "season": 6,
+                "episode": 2,
+                "name": "Siyah Gömlek",
+                "overview": "Eve dönen Tommy, Jack Nelson'a sunduğu teklifi cazip hâle getirmek için hiç akla gelmeyecek biriyle ittifak kurar. Kızı Ruby'nin söyledikleri tedirginlik yaratır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i6C8T76p9kbHs62sz6VRVCnTZTS.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e02"
+            },
+            {
+                "season": 6,
+                "episode": 3,
+                "name": "Altın",
+                "overview": "Tommy, Esme'yi bulmaya gider. Ada onun yerine, Jack Nelson'ı Mosley ve Diana ile tanıştırır. Arthur onun neler yaşadığını çok iyi anlayan eski bir bağımlı ile tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6oPTroNgWE75kUf8hWoX7qJTdVp.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e03"
+            },
+            {
+                "season": 6,
+                "episode": 4,
+                "name": "Safir",
+                "overview": "Bir kayıp daha yaşayan ve derinden sarsılan Tommy intikam peşine düşer. Faşizm, Ada'yı canevinden vurur. Sağlıkevinden üzerinde acil yazan bir zarf gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/53RBnbWROENe9wnT13tfOl2t3lg.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e04"
+            },
+            {
+                "season": 6,
+                "episode": 5,
+                "name": "Cehennem Yolu",
+                "overview": "Tommy, Linda ile bir anlaşma yapar. Shelby ailesinin içine sızan köstebeğe yeni bir görev verilir. Diana, Tommy'e bir iyilik yapmayı kabul eder ama tek bir şartı vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pLYq28eSV8zierLtoywFGATOmJw.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e05"
+            },
+            {
+                "season": 6,
+                "episode": 6,
+                "name": "Kilit ve Anahtar",
+                "overview": "Köstebek, Arthur'un ne zaman ve nerede yalnız olacağını öğrenir. Hapisten yeni çıkan Michael, işe koyulur. Finn'in Shelby'lere olan sadakati teste tabi tutulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/caBuctwmvKPJNuJD3FYdd8UxTtE.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e06"
+            }
+        ],
+        "update_date": "2026-02-15 08:44:11"
+    },
+    {
         "id": 19885,
         "imdb_id": "tt1475582",
         "name": "Sherlock",

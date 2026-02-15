@@ -1,5 +1,176 @@
 [
     {
+        "id": 219971,
+        "imdb_id": "tt26656917",
+        "name": "The Agency: Central Intelligence",
+        "original_name": "The Agency: Central Intelligence",
+        "overview": "Gizli bir CIA ajanı olan Martian'a, gizli hayatını terk edip Londra İstasyonu'na dönmesi emredilir. Burada terk ettiği aşkı yeniden ortaya çıktığında, romantizm yeniden alevlenir. Kariyeri, gerçek kimliği ve misyonu kalbine karşı karşıya gelir; ikisini de uluslararası entrika ve casusluğun ölümcül oyununa fırlatır.",
+        "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/fNA0mMdHlRwVrQSRlYONmSAO8Su.jpg",
+        "year": "2024",
+        "rating": 7.1,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "Paramount+ with Showtime",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Michael Fassbender",
+                "role": "Martian",
+                "image": "https://image.tmdb.org/t/p/w200/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+            },
+            {
+                "name": "Jeffrey Wright",
+                "role": "Henry Ogletree",
+                "image": "https://image.tmdb.org/t/p/w200/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+            },
+            {
+                "name": "Jodie Turner-Smith",
+                "role": "Dr. Samia 'Sami' Zahir",
+                "image": "https://image.tmdb.org/t/p/w200/70w93LWJqpt0Ibw0mqNc6NKNA8U.jpg"
+            },
+            {
+                "name": "Richard Gere",
+                "role": "James 'Bosko' Bradley",
+                "image": "https://image.tmdb.org/t/p/w200/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+            },
+            {
+                "name": "Katherine Waterston",
+                "role": "Naomi Ford",
+                "image": "https://image.tmdb.org/t/p/w200/5fIEhBldLuIkFK0R3USTzngyE3c.jpg"
+            },
+            {
+                "name": "Harriet Sansom Harris",
+                "role": "Dr Rachel Blake",
+                "image": "https://image.tmdb.org/t/p/w200/1ShvYCWkZycAGb27ZivGrLx1PhS.jpg"
+            },
+            {
+                "name": "John Magaro",
+                "role": "Owen Taylor",
+                "image": "https://image.tmdb.org/t/p/w200/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+            },
+            {
+                "name": "Saura Lightfoot Leon",
+                "role": "Danny Ruiz",
+                "image": "https://image.tmdb.org/t/p/w200/3QVMX3QLG6N2nEAGM5rU2kQCMa2.jpg"
+            },
+            {
+                "name": "Andrew Brooke",
+                "role": "Grandpa",
+                "image": "https://image.tmdb.org/t/p/w200/qiPoNixXUXnVFXuq2Rb87QUoI8K.jpg"
+            },
+            {
+                "name": "India Fowler",
+                "role": "Poppy",
+                "image": "https://image.tmdb.org/t/p/w200/2yDVQeUya6ZlPjzsDun9TUNs0O0.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Gizli CIA ajanı Martian Londra İstasyonu'na geri çağırılır. Belarus'ta yaşanan bir olay, Bosko ve Henry'yi Langley ile karşı karşıya getirir. Danny bir ders alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dtP8VGcSwlZp9x86cB3Y8iVmjJM.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Dr. Blake Langley'den gelir ve Martian ile Henry tarafından bir teste tabi tutulur. Danny'nin kimliği ortaya çıkar. Martian, Sami'nin nedenlerini sorgulamaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qhPqaFdHuZ6DLoQbrxAt1QQphdH.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Henry, Martian'ın düşüncelerini sorgular. Bosko çok gizli bir operasyon hakkında bilgilendirilir. Martian, Sami'yle neden Londra'da olduğu konusunda yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uv3kWNuqaFG0rMoWBr4NVVTNtKX.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Henry ve Martian, Belarus heyetiyle diplomatik bir olaya karışırlar. Poppy ve Martian yeni bir başlangıç yapmaya çalışır. Osman, Sami'yi tehdit eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gF6BlJvV5gJHQiqzyVh4r5Bbka.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Langley'nin baskısıyla karşılaşan Henry, Owen'ı bir istihbarat görevi için Minsk'e gönderir.Sami, Osman'la hassas konular hakkında yüzleşir ve Martian bir tuzak hazırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y3nFQeSkeLrJvxzTmRokJ7Ou7ox.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Richardson'ın Fishbowl'a gelişi Henry'yi hazırlıksız yakalar. Martian, riskler arttıkça Cossack'ın oyununu çözmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pDi01MIY7EEsDC3nkFWHTR9Gp6Q.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Bay Dalaga, Sami üzerindeki baskısını arttırır. Bosko, Valhalla'nın kapsamı hakkında bilgilendirilir. Henry ise yüksek riskli bir strateji geliştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gM6AWFvUwwh5nHnLFc9HrnRvh7V.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Riskler netleştikçe ve ahlaki ikilemler su yüzüne çıktıkça tansiyon yükselir. Sami şaşırtıcı bir itirafta bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6MYGWNp9fOAPkrVVutx1DazpOAJ.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Martian, Langley'e blöf yaparak zaman kazanır. Henry, Dr. Blake'i bir değerlendirme için görevlendirir. Danny geri dönüşü olmayan bir karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8H6iA76n8P5o5d46QHL6FpQIh9H.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Operasyonun komutası el değiştirirken Bosko korkunç bir gerçeği paylaşır. Naomi ise İran'da kötü haberler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6vHF8JZMZBbi7QBzN10tRPhxINR.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt26656917/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 09:21:33"
+    },
+    {
         "id": 208569,
         "imdb_id": "tt17543592",
         "name": "Will Trent",

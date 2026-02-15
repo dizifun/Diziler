@@ -1,0 +1,861 @@
+[
+    {
+        "id": 1429,
+        "imdb_id": "tt2560140",
+        "name": "Attack on Titan",
+        "original_name": "進撃の巨人",
+        "overview": "Birkaç yüzyıl önce insanlar, devler tarafından neredeyse tamamen yok edilmiştir. Bu devler uzun boyludur, zeki değildirler ve insanları yiyerek beslenirler. Küçük bir grup insan, çareyi en büyük devlerden bile uzun olan yüksek duvarlarla çevrili bir şehre kendilerini kapatarak bulmuşlardır. Günümüze gelindiğinde şehirde 100 yıldır hiç dev görülmemiştir. Genç çocuk Eren ve üvey kız kardeşi Mikasa, büyük bir dev tarafından şehrin duvarlarının yıkılışına tanık olurlar. Devler şehre akın etmeye başlar ve iki çocuk da annelerinin canlı canlı yenişine korku içinde tanıklık ederler. Eren her bir devi öldürüp tüm insanlığın intikamını alacağına yemin eder.",
+        "poster": "https://image.tmdb.org/t/p/w500/y4yOyiURGUfRZO0WRHuA8BFsb9M.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+        "year": "2013",
+        "rating": 8.7,
+        "genres": [
+            "Animasyon",
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Amazon Prime",
+            "Anime",
+            "MBS",
+            "NHK G",
+            "Tokyo MX",
+            "Crunchyroll"
+        ],
+        "cast": [
+            {
+                "name": "梶裕貴",
+                "role": "Eren Yeager (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+            },
+            {
+                "name": "石川由依",
+                "role": "Mikasa Ackerman (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg"
+            },
+            {
+                "name": "井上麻里奈",
+                "role": "Armin Arlert (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/nQ7a3krkbea6ukw9KGvvTpMma96.jpg"
+            },
+            {
+                "name": "谷山紀章",
+                "role": "Jean Kirstein (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/9lOnUF6C6xEhZ0FQmYNzNZhcUpd.jpg"
+            },
+            {
+                "name": "下野紘",
+                "role": "Connie Springer (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+            },
+            {
+                "name": "細谷佳正",
+                "role": "Reiner Braun (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+            },
+            {
+                "name": "子安武人",
+                "role": "Zeke (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+            },
+            {
+                "name": "佐倉綾音",
+                "role": "Gabi Braun (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
+            },
+            {
+                "name": "花江夏樹",
+                "role": "Falco Grice (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Günümüzden 2000 Yıl Sonraki Sana: Shiganshina'nın Düşüşü (1)",
+                "overview": "Yüz yıllık barışın ardından insanlık aniden Devlerin merhametine kalmış olmanın dehşetini hatırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e363TDn4uP8jP7kHAXQfHAs6HTR.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "O Gün: Shiganshina'nın Düşüşü (2)",
+                "overview": "Devler surları aştıktan sonra Shiganshina'lılar canlarını kurtarmak için kaçmak zorunda kalır. Ancak güvenli bir yere ulaşabilenleri zorlu bir hayat beklemektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3l0CkbEdnBeYvpEm9nSVIQXs237.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Umutsuzluk İçinde Hafif Bir Işık: İnsanlığın Geri Dönüşü (1)",
+                "overview": "Eren, Acemi Birliği'ndeki eğitimine başlar ancak acı dolu geçmişiyle ilgili sorular onu bunaltır. Manevra teçhizatı alıştırmasında zorlanınca, Bertolt ve Reiner ona nazik tavsiyelerde bulunurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eBDbxFioIZQx7Nu0vOEQVP4cCIq.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Kapanış Töreni Gecesi: İnsanlığın Geri Dönüşü (2)",
+                "overview": "İki yıl geçer ve yeni mezunların mezuniyet zamanı yaklaşır. Annie bir dövüş seansında yeteneğini kanıtlar, Jean Kral'ın yanında hizmet etmeyi hayal eder ve mezuniyet günü şok edici ifşalarla birlikte eski bir düşmanın aniden ortaya çıkmasıyla birlikte gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iQMZuF65LHGnA7q9snxM8CHb7SW.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "İlk Savaş: Trost Mücadelesi (1)",
+                "overview": "Sur Maria'nın düşüşünün üzerinden beş yıl geçmiştir ve Eren, bir kez daha ansızın ortaya çıkıp Sur Rose'un kapısında bir delik açan Muazzam Dev ile karşı karşıya gelir. Devler şehre akın ederken, yeni mezun olan acemiler kayıpların eksik olmayacağı acımasız bir savaşa çağrılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9O4oJGdRxVkjiqQOnahg1H0q6hf.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Kızın Gördüğü Dünya: Trost İçin Mücadele (2)",
+                "overview": "Armin, Devlerin ekibini katletmesinin ardından arkadaşlarının ve müttefiklerinin kaybıyla başa çıkmaya çalışır. Şehrin başka bir yerinde Mikasa birkaç devi alt etmeyi başarır, bu da geçmişine ve Eren'le ilk tanışmasına dair trajik anıları geri getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/m7Yzfqhvv3SAwiLwI0iWtj8px9v.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Küçük Bıçak: Trost İçin Mücadele (3)",
+                "overview": "Geri çekilme zili çaldıktan sonra, birçok öğrenci kendilerini duvardan güvenli bir yere geri tırmanmak için yeterli yakıt olmadan bulur. Mikasa, Armin'in takımındaki ölümleri duyduğunda umudunu kaybetmeye başlar, ancak yeni bir Dev türünün ortaya çıkması onun savaşma isteğini körükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/z2QHfSCLIO7PuVnI8hcVUAGgaJl.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kalp Atışını Duyabiliyorum: Trost İçin Mücadele (4)",
+                "overview": "Armin, terk edilmiş öğrenciler karargahlarını geri almaya çalışırken Titan'ı Titan'a karşı karşıya getiren riskli bir plan yapar. Binaya girmek mümkün olabilir, ancak canlı çıkıp yakıt ikmali yapmak daha fazla devle yüzleşmek anlamına gelecektir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/w7URwYFNTSqQhqtgoTZk3wUu1TA.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Sol Kolun Nerede: Trost İçin Mücadele (5)",
+                "overview": "Mucizevi bir dönüş öfke ve korkuyla karşılanır. Toplar, Eren'in bir Dev'in karnında başına gelenleri ve insanlığın düşmanı olarak nasıl sona erdiğini hatırlamaya çalışırken üzerine sabitlenir. Önemli olan tek soru şudur: Eren insan mıdır yoksa Dev midir?",
+                "still_path": "https://image.tmdb.org/t/p/w400/wnZ2XNmROpeYIdNVnQ7zz1Gsx5M.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Tepki: Trost İçin Mücadele (6)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iM0ZnpWE0pzZdNh2dDF5f0O6jK1.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "İdol: Trost İçin Mücadele (7)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gNy0q9EbzQKeRx4XsLh8dFMUT1c.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "Yara: Trost İçin Mücadele (8)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/nz1KTxTFXJMae4vvLvicQWxuhX0.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "İlk Arzu: Trost İçin Mücadele (9)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6Yzzfpfjc00Z9ozWNDxqz4jsnhO.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e13"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "name": "Henüz Gözlerine Bakamıyorum: Karşı Saldırının Arifesi (1)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/g1emLjP0tFQXnV7wFaeRw8plBDG.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e14"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "name": "Özel Operasyon Ekibi: Karşı Saldırının Arifesi (2)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/niQbkMOzZCFeFa2wuufyBbDTbfp.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e15"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "name": "Şimdi Ne Yapılmalı: Karşı Saldırının Arifesi (3)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/imyHAoRf7yeVMal0UCvmSQulovr.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e16"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "name": "Dişi Dev: 57. Dış Keşif Görevi (1)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/biJWsiI2CzKxWlLJqyPPGj9Krbq.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e17"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "name": "Dev Ağaçlar Ormanı: 57. Dış Keşif Görevi (2)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/qytiWM8NAn3EzdLaoigJTJgLuD5.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e18"
+            },
+            {
+                "season": 1,
+                "episode": 19,
+                "name": "Isırık: 57. Dış Keşif Görevi (3)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1Uxxm7lpMdHOQ8ebTdfCGQYBL5d.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e19"
+            },
+            {
+                "season": 1,
+                "episode": 20,
+                "name": "Erwin Smith: 57. Dış Keşif Görevi (4)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/k5CjtyUxdfhlzyFhF4isJoY0855.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e20"
+            },
+            {
+                "season": 1,
+                "episode": 21,
+                "name": "Ezici Darbe: 57. Dış Keşif Görevi (5)",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eFI6G70djH0OGRz1NFQZKicImGA.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e21"
+            },
+            {
+                "season": 1,
+                "episode": 22,
+                "name": "Yenilmişler: 57. Dış Keşif Görevi (6)",
+                "overview": "Dişi Titan, Eren'i Titan bedeninden kopardıktan sonra yakalar, ancak Mikasa ve Kaptan Levi peşine düşer. Başka bir yerde, Keşif Kolordusu, yanlarında çok sayıda ölüyle Duvar'a dönüş yolculuğu için hazırlıklara başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2zk4zdZ12Oinssj4DVkVA15URrs.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e22"
+            },
+            {
+                "season": 1,
+                "episode": 23,
+                "name": "Gülümseme: Stohess'a Saldırı (1)",
+                "overview": "57. Sefer'in feci sonuçlarının ardından Eren, mahkeme-i harp için Kral'ın sarayına getirilecektir. Eren'i kesin idamdan kurtarmak isteyen Armin, bir kaçış planında yardımcı olması için eski bir arkadaşının yardımını ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8M1VyncRhIXYn112ietpj3p33cb.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e23"
+            },
+            {
+                "season": 1,
+                "episode": 24,
+                "name": "Merhamet: Stohess'a Saldırı (2)",
+                "overview": "Dişi Titan'ın kimliği artık ortaya çıkınca, Eren onunla dövüşmek konusunda çekincelere sahip olur. Mikasa, Armin ve Keşif Kolordusu'nun geri kalanı, Eren'in duygularıyla yüzleşmesi için yeterince zaman kazanmak amacıyla Dişi Titan'la dövüşmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/36TL36zTiN4GnYuBgqCPfHjsrWE.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e24"
+            },
+            {
+                "season": 1,
+                "episode": 25,
+                "name": "Duvar: Stohess'a Saldırı (3)",
+                "overview": "Eren, her Titan'ı öldürme sözüyle harekete geçerek, Dişi Titan'la mücadelede Titan formunun tüm gücünü serbest bırakır. Kanlı savaşları sona ererken, insanlığın sonunda hayatta kalma şansına sahip olabileceği anlaşılıyor. Ancak, hala çözülmemiş birçok gizem varken, Eren, Mikasa ve Armin'i ne bekliyor?",
+                "still_path": "https://image.tmdb.org/t/p/w400/2euk86Y2huYGUHuuAAczyLydNWE.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2560140/s1/e25"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Canavar Dev",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/sczAgbEyvLwnMhjSRo3KhSR5FEc.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Eve Geldim",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/cVtiOuKZbAOmPhJOipNokPae4cc.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Güneybatıya Doğru",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kjjKsoZojdCWiydpkQf9dFIclZH.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Asker",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ykAYnzBvVkFlb4uik0jb50HeHh9.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Historia",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ixW3tXUUK4RrEzFhWhLU0NVI0zn.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Savaşçı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mGsGFFdkjXeLikNShJfBu81NVlD.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Yakın Dövüş",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/tXRinQf6X3DRrJjWGnq9wijIQQ0.jpg",
+                "vote_average": 9.1,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Avcılar",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ryAWXAwuJVnssPYZU6tLCsdNZEr.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Açılış",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1mLrRyRdD0KJLbMqUcHY5VCq72r.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "Çocuklar",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mXvMLRj2rlYdoOSoVe5oHZz7faZ.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e10"
+            },
+            {
+                "season": 2,
+                "episode": 11,
+                "name": "Hücum",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2WRCppDd5AXvFOidA5GZFiCG0Ix.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e11"
+            },
+            {
+                "season": 2,
+                "episode": 12,
+                "name": "Çığlık",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3wjYUJLyYK16Qm70IonUAaroCde.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt2560140/s2/e12"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Duman Sinyali",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/g5gdbz4MUxHYAakgFeHfAOQMIvs.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Acı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5qFlHCtb82MWuMf72NgXltjnq96.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Eski Hikaye",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/40NoDcR6HqiUlMmuO84cC3BfW56.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Güven",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hHRzu09zqzwA2c2J5VF48zAbc78.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Cevap",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/f4N2VrRSA8ghqGdCtSVRTNnpEO7.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Günah",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/GK11zADVSDF7VWS1CXvBrUhf0G.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Dilek",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ujJLDJ8rC2jU8eMPEN7VsP2nftA.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Orvud Bölgesi Surlarının Dışında",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/8Gm8GDMPsviXQJRzunQTTWlXnw1.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "Surların Hükümdarı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/a5HryZioGnROWRyona6uSjZQyq5.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "Arkadaşlar",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oIqiOCiui0wBkGImdxma4XfWsnJ.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e10"
+            },
+            {
+                "season": 3,
+                "episode": 11,
+                "name": "Seyirci",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/qeISjI2nxqaaUvf4LcW9rlExGcY.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e11"
+            },
+            {
+                "season": 3,
+                "episode": 12,
+                "name": "Sur Maria'yı Geri Almak İçin Savaş Gecesi",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aFmPdWGTXXRQun2yQzS9ojX3yzC.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e12"
+            },
+            {
+                "season": 3,
+                "episode": 13,
+                "name": "Herşeyin Başladığı Şehir",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uI0Aazy8kUgT7LKu4UGascoPw7i.jpg",
+                "vote_average": 9.1,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e13"
+            },
+            {
+                "season": 3,
+                "episode": 14,
+                "name": "Yıldırım Mızrakları",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2XX3Oq8VLE2khmISIvOtJgCOL19.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e14"
+            },
+            {
+                "season": 3,
+                "episode": 15,
+                "name": "İniş",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9SLwCEPccFQaQabdoxDmjSIdDWU.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e15"
+            },
+            {
+                "season": 3,
+                "episode": 16,
+                "name": "Mükemmel Oyun",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jH3AxrnKAb1fbKwN2Pn3wIoqji2.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e16"
+            },
+            {
+                "season": 3,
+                "episode": 17,
+                "name": "Kahraman",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zsgNadsBXC1ubn1qGAskI55DLw0.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e17"
+            },
+            {
+                "season": 3,
+                "episode": 18,
+                "name": "Gece Yarısı Güneşi",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/66eGWciFTEr2Igp5nXPpt8ZC8j.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e18"
+            },
+            {
+                "season": 3,
+                "episode": 19,
+                "name": "Bodrum",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6JT83J6bV4W4Yi9B1v1lrYsfMHy.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e19"
+            },
+            {
+                "season": 3,
+                "episode": 20,
+                "name": "O gün",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/h6NOM2GcAIGnS9buXire5MBmU8w.jpg",
+                "vote_average": 9.1,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e20"
+            },
+            {
+                "season": 3,
+                "episode": 21,
+                "name": "Saldırı Devi",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/k6vEmquLyVY1ke0iJwE0G9MP8Uw.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e21"
+            },
+            {
+                "season": 3,
+                "episode": 22,
+                "name": "Surların Öteki Tarafı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/n48B3uNyOdzEcK6koCoYdelxiYE.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt2560140/s3/e22"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Denizin Diğer Tarafı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/nZJKdntlDRrlUkneD5CHbbOzLnh.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Gece Yarısı Treni",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oWqPmJGtbLpOlxLmlU5wSkaxBij.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Umut Kapısı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/qy5HFULnm26qfIWOV98WOtJQTnD.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "Bir Elden Diğerine",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9S4W9H69wM3YQv6ebH9iSFVqrmF.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Savaş ilanı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/8wAQqWibI7FUpEWeDqrgZtbJvWf.jpg",
+                "vote_average": 9.1,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Savaş Çekici Devi",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fYwa43vhmIEhTrrrNUJ13LA8YsG.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "Saldırı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4fYKNPg6npvAr8S3gVs6NDmiz9Z.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "Suikastçının Mermisi",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2vpDtLZnQLSiwBko8xbAMDTqvDX.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "Cesur Gönüllüler",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aq8oMwYb3zewlbeb1uh53pf6IOy.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "Sağlam Bir Argüman",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/so6rHSKqbB4epZ8gH2fchb3J4hP.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e10"
+            },
+            {
+                "season": 4,
+                "episode": 11,
+                "name": "Aldatıcı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/a0IoWgOTP9l1b5ToMGdKPPGK0WC.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e11"
+            },
+            {
+                "season": 4,
+                "episode": 12,
+                "name": "Kılavuz",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iX51PzRc8ciLfzqixBrREqiD21t.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e12"
+            },
+            {
+                "season": 4,
+                "episode": 13,
+                "name": "Ormanın Çocukları",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2reAExbdgrqSqphnLHi9vJSn1M0.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e13"
+            },
+            {
+                "season": 4,
+                "episode": 14,
+                "name": "Vahşet",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fcF46uEXO9VQtNgJkFSfOg27dU0.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e14"
+            },
+            {
+                "season": 4,
+                "episode": 15,
+                "name": "Yegane Kurtuluş",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4NKaIWiO8y5M33cKIOe70qxjpKV.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e15"
+            },
+            {
+                "season": 4,
+                "episode": 16,
+                "name": "Yukarısı Ve Aşağısı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aWpoliRX1m1kR4uFqtgneMcBrNf.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e16"
+            },
+            {
+                "season": 4,
+                "episode": 17,
+                "name": "Yargı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/cQp51TGhvY4rBv1DOjXAUhlF32Y.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e17"
+            },
+            {
+                "season": 4,
+                "episode": 18,
+                "name": "Gizli Saldırı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jaC9B14RbTOZskWjRX9nCpgcRg.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e18"
+            },
+            {
+                "season": 4,
+                "episode": 19,
+                "name": "Abiler Ve Kardeşler",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/xljKlZf3RIrRsrhaxdCBjvO1uFn.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e19"
+            },
+            {
+                "season": 4,
+                "episode": 20,
+                "name": "Geleceğin Anıları",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9NEZISr8VKpRVDqcC1i8cOpxsJf.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e20"
+            },
+            {
+                "season": 4,
+                "episode": 21,
+                "name": "Senden, 2000 Yıl Önce",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/vRXC0k8wsCFRwmgWwVu7KDcGKRT.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e21"
+            },
+            {
+                "season": 4,
+                "episode": 22,
+                "name": "Çözülme",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/7xsdshzr4G7icvzJNX4oCkWcxAa.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e22"
+            },
+            {
+                "season": 4,
+                "episode": 23,
+                "name": "Gün Batımı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/v3W1R7NSLQKiVf5Nmi6rFxFD7j4.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e23"
+            },
+            {
+                "season": 4,
+                "episode": 24,
+                "name": "Gurur",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/tKO4N1phRpgdwVGSh7oxOCPmE4J.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e24"
+            },
+            {
+                "season": 4,
+                "episode": 25,
+                "name": "Sonun Gecesi",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2XNOaOXY073RsdSh6mhLjd8pF1V.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e25"
+            },
+            {
+                "season": 4,
+                "episode": 26,
+                "name": "Hain",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/xUcJ93Tt5RHjdFPeXBKDEH3J7U1.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e26"
+            },
+            {
+                "season": 4,
+                "episode": 27,
+                "name": "Retrospektif",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/z1ymXAlYjYeTfsFvOAveVdSBeqQ.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e27"
+            },
+            {
+                "season": 4,
+                "episode": 28,
+                "name": "İnsanlığın Şafağı",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9IT29LxBTDd610r2XzzGZXeca0b.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2560140/s4/e28"
+            }
+        ],
+        "update_date": "2026-02-15 08:59:00"
+    }
+]

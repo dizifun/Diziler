@@ -2,21 +2,97 @@
     "id": 219760,
     "imdb_id": "tt26576161",
     "name": "İnfaz Listesi: Kara Kurt",
+    "original_name": "The Terminal List: Dark Wolf",
+    "overview": "İnfaz Listesi'ndeki olaylardan birkaç yıl önce donanma SEAL'ları Ben Edwards ve Raife Hastings, CIA adına yürütülen bir görevde kendilerini küresel bir casusluk komplosunun tam ortasında bulur. Ancak \"gizli operasyonlar\"dan kimse yara almadan çıkamaz. Geride sadece cansız bedenler değil, parçalanmış ruhlar da kalır.",
     "poster": "https://image.tmdb.org/t/p/w500/hJH4y7Z2ivQ80PXN9lGNqhmH5FW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yQw23xxmVBFVHPCF6V68TAIIfno.jpg",
     "year": "2025",
+    "rating": 7.5,
     "genres": [
         "Aksiyon & Macera",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Prime Video"
+    ],
     "cast": [
-        "Taylor Kitsch",
-        "Tom Hopper"
+        {
+            "name": "Taylor Kitsch",
+            "role": "Ben Edwards",
+            "image": "https://image.tmdb.org/t/p/w200/lnpp4g14fsLqI29KajEbJUsuBhf.jpg"
+        },
+        {
+            "name": "Tom Hopper",
+            "role": "Raife Hastings",
+            "image": "https://image.tmdb.org/t/p/w200/9yiibWu3gcSbig3L0HUtMPX6D8s.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "İçsel Kararlılık",
+            "overview": "2015 yılında donanma SEAL'ı Başçavuş Ben Edwards ve Charlie Müfrezesi, Musul görevlerini tamamlayarak operasyonu James Reece'in Alfa Müfrezesi'ne devreder. Ben ve ekibi eve dönmeden önce bir IGG tercümanını hedef alan IŞİD liderinin peşine düştüğünde, teröristin hiç beklemedikleri kadar güçlü bağlantıları olduğunu keşfederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/alv68jhd6I5Aqvn5jv79u0et7Tw.jpg",
+            "vote_average": 7.5,
             "link": "https://vidmody.com/vs/tt26576161/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Seçmeler",
+            "overview": "Al-Jabouri'nin müttefikleri, Ben Edwards ve Raife Hastings'in kural dışı baskınına misilleme yapar. Ancak eski bir istihbaratçıdan gelen ani iş teklifi belki de Ben'in tüm sorunlarını çözecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/orI29i5mDUgQ95MZIhvprt1VYv7.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt26576161/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Geçmiş, Geleceğin Önsözüdür",
+            "overview": "Haverford'ın Danawi'yi ele geçirip öldürme operasyonu, Danawi'nin kiminle, niçin buluştuğuna dair yeni bir ipucunu ortaya çıkarır. Paranın izini süren Ben ve Raife, beklenmedik ortaklarla birlikte gizli bir tim kurar. Ancak karşılarına çıkan tehdit, düşündüklerinden çok daha büyüktür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/748hbs7OwEsCCFQ6DawihDHyQdN.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt26576161/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Silahların Sesi",
+            "overview": "Khalid Ağı'nın Molnar'ın rulmanlarını teslim almasının önüne geçmeye çalışırken artan baskı, Ben'in ekibini dağılma noktasına getirir. Cenevre'de ise Haverford'ın İranlı muhbiri; ailesi, ülkesi ve ABD istihbaratıyla yürüttüğü çifte hayat arasında sıkışıp kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7pBuDeNvSJdwS7O9DSZlJ1HXzt8.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt26576161/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Kaçma ve Kurtulma",
+            "overview": "Yalnız başına kalan Ben, kendisine ihanet eden kişinin peşine düşer. Raife, Khalid Ağı'ndan bir esiri sorgularken aradığı cevapları almak için karanlık tarafa geçmek zorundadır. Bu sırada Tal, Mossad'ın asıl planını devreye sokmak üzere tek başına harekete geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1zSeRX4MH4pFuBLgZmoob6RvniH.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt26576161/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Piyonlar ve Şahlar",
+            "overview": "Ekiple yeniden bir araya gelen Ben inanması güç cevaplarla karşılaşmıştır. Yeraltı operasyonlarının karanlık dünyasında hiçbir şeyin siyah beyaz olmadığını kabullenmekte zorlanan Raife'le Başçavuş'un arasındaki çatlak derinleşir. Ben savaşı durdurmak için gri alana adım atmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2QNqrV5zNqzvhPhF61ZoO86j9pn.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt26576161/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Beslediğin Kurt",
+            "overview": "Havaalanındaki takastan üç ay sonra Ben, gözlerden uzak kalmak için Almanya'daki Kara Orman'da yaşamaktadır. Artık eski hayatıyla tüm bağlarını koparmaya ve Haverford'ın casusluk oyununda kaybettiklerinin intikamını almaya hazırdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/p88wQia1SYh4f0078Pt0nzQIQuW.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt26576161/s1/e07"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 09:19:25"
 }

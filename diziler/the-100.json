@@ -2,26 +2,193 @@
     "id": 48866,
     "imdb_id": "tt2661044",
     "name": "The 100",
+    "original_name": "The 100",
+    "overview": "Nükleer bir kıyametin Dünya'yı yok edişinden bir asır sonra uzay istasyonundan 100 genç, gezegende yaşanıp yaşanamayacağını öğrenmek için dünyaya gönderilir.",
     "poster": "https://image.tmdb.org/t/p/w500/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
     "year": "2014",
+    "rating": 7.9,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Aksiyon & Macera",
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "The CW"
+    ],
     "cast": [
-        "Eliza Taylor",
-        "Bob Morley",
-        "Lindsey Morgan",
-        "Marie Avgeropoulos",
-        "Richard Harmon"
+        {
+            "name": "Eliza Taylor",
+            "role": "Clarke Griffin",
+            "image": "https://image.tmdb.org/t/p/w200/si6ySpGi2Pv1wuOyVdfkNRbOGu1.jpg"
+        },
+        {
+            "name": "Bob Morley",
+            "role": "Bellamy Blake",
+            "image": "https://image.tmdb.org/t/p/w200/nzMQzX68b8iTDB6gFx5vM9bRcJ.jpg"
+        },
+        {
+            "name": "Lindsey Morgan",
+            "role": "Raven Reyes",
+            "image": "https://image.tmdb.org/t/p/w200/fl1Jt9brtTV6vfNl5mv55SrSCZm.jpg"
+        },
+        {
+            "name": "Marie Avgeropoulos",
+            "role": "Octavia Blake",
+            "image": "https://image.tmdb.org/t/p/w200/cCzCHmDZXrNfyzbkpxvaKDaGy77.jpg"
+        },
+        {
+            "name": "Richard Harmon",
+            "role": "John Murphy",
+            "image": "https://image.tmdb.org/t/p/w200/tlWgu5Kp37C7XsgJVLmYsPKiAd6.jpg"
+        },
+        {
+            "name": "Tasya Teles",
+            "role": "Echo",
+            "image": "https://image.tmdb.org/t/p/w200/mfTimAo8fHOYL8uVabCle7feJw7.jpg"
+        },
+        {
+            "name": "JR Bourne",
+            "role": "Russell Lightbourne",
+            "image": "https://image.tmdb.org/t/p/w200/ytic06VRha6addRGF7BSXXj9OkG.jpg"
+        },
+        {
+            "name": "Shannon Kook",
+            "role": "Jordan Green",
+            "image": "https://image.tmdb.org/t/p/w200/rCTdLWbrqsGbMml8TNfGD94jPpp.jpg"
+        },
+        {
+            "name": "Chuku Modu",
+            "role": "Gabriel Santiago",
+            "image": "https://image.tmdb.org/t/p/w200/1yy2VDpFRGYqpaZarKvFoPdwc3Q.jpg"
+        },
+        {
+            "name": "Shelby Flannery",
+            "role": "Hope Diyoza",
+            "image": "https://image.tmdb.org/t/p/w200/wpAuhYulI9ulm276Pzfgzolyabm.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Pilot",
+            "overview": "97 yıl önceki bir nükleer savaştan sonra, insan tür uzayda yaşıyor. 100 suçlu çocuk dünyanın yaşanabilir olup olmadığını görmek için yeryüzüne gönderilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yMB0FqEUmp2rPUPcivJ1XhC005.jpg",
+            "vote_average": 6.8,
             "link": "https://vidmody.com/vs/tt2661044/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Dünya Becerileri",
+            "overview": "Clarke, Bellamy, Finn, Wells ve Murphy Jasper'ın hala hayatta olabileceğini düşünürler, onu bulmak için dışarı çıkmalılar. Abby Dünya'nın yaşanabilir olduğunu kanıtlamaya kararlıdır ve bir tamirci ile kaçış planlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lWGRq2T9qy89OZidN1ZVByyDo5J.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Ölümcül Dünya",
+            "overview": "Hızla yayılan, zehirli bir sis Jasper'ın hayatını kurtarabilecek bir maddeyi bulma görevini tehlikeye düşürür. Clarke, babasının ihaneti hakkındaki gerçeği öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zWgS4g1mHsz5RWdduf2U1qLFsMe.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Murphy Kanunu",
+            "overview": "Beklenmeyen bir ölümün ardından Clarke ve Finn daha da yakınlaşırlar. Bellamy gruptakilerin birbirine düşmesini engellemelidir. Abby çok büyük bir risk alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rItEXhC0srkFqSjT6kTwgYMQqFH.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Twilight's Last Gleaming",
+            "overview": "Ark'ın nüfusunu azaltmayı amaçlayan Kane'in bu planını ortaya çıkaran Abby ve Jaha, 100'lerin en azından bazılarının hâlâ hayatta olabileceğini fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ix5QMg2kSznscrjnfeBfDX4G6kh.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Kız Kardeşinin Bekçisi",
+            "overview": "Bellamy ve ekibi Octavia'yı ararken Yeryüzü İnsanları'nın bölgesine girerler, bu arada Raven, Finn ve Clarke arasındaki derin bağı fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/g0S4KnMOeUcP0vzcYZxRm0KEKgZ.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Baskı Altında",
+            "overview": "Abby tehlikeli bir süreçte Clarke'a rehberlik ederken, Diana Sydney ise Bakan olarak yerini alır. Kane son kararından dolayı acı çekmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7sZOWav4J6XEeMdhEznmhloqx6q.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Günübirlik Gezi",
+            "overview": "100'ün bir kısmı, halüsinojen yemelerinin ardından gerçeklikle bağlarını yitirir. İçlerinden birine öldürme görevi verilmiştir. Diana Sydney'in ihaneti ortaya çıkarılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vCM0sW3Zbke8gLMe7Befj4Cg67D.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Birlik Günü",
+            "overview": "Diğerleri savaşa hazırlanırken, Clarke ve Finn Yeryüzü İnsanları ile barışı sağlamada aracılık yapmaya çalışır. Bu arada Birlik Günü kutlamalarında bir trajedi yaşanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oxB6THWezq1zxKcYevcwmxddvZG.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Dünyaları Yok Eden",
+            "overview": "John Murphy, Yeryüzü İnsanları tarafından esir tutulduğunu iddia ederek geri döner. Clarke ve Bellamy'nin bu durumla baş edebilmek için başka planları vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2mrZvSGG1gqF0C3gmEhZ8BJVPyR.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "11. Sessizlik",
+            "overview": "Clarke ve Finn yiyecek avına öncülük ederler, Raven ise Bellamy'e çok cazip bir teklif yapar. Kane hayatını riske atarak Jaha ve Abby'yi yeniden bir araya getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sI1Sr6oOleCrk4pwaa7zifOCo1.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "12. Yeryüzü İnsanlarıyız: 1. Bölüm",
+            "overview": "Clarke ve Finn yeni bir düşmanla karşılaşırlar. Ark'takiler kaçınılmaz olanla yüzleşirken; Bellamy, Jasper'ı kurtarmak için kahramanca bir hareket yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u2TRn2R3D3cFhERtzeMcA8kfaFb.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e12"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "name": "13. Yeryüzü İnsanlarıyız: 2. Bölüm",
+            "overview": "Çekişme artarken, Clarke doğru şeyi yapma konusunda Bellamy'i sıkıştırır. Octavia zor bir seçim yapar. Raven ve Jasper zamana karşı yarışırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j9Bj0pjUgRLW6MW7j8CJPoGj2Wi.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt2661044/s1/e13"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 09:20:46"
 }
