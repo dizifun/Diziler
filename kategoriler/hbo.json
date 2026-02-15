@@ -1,5 +1,125 @@
 [
     {
+        "id": 87108,
+        "imdb_id": "tt7366338",
+        "name": "Chernobyl",
+        "original_name": "Chernobyl",
+        "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır.",
+        "poster": "https://image.tmdb.org/t/p/w500/vDwYRtmfBgM9zq4o0xbeUuVo3DL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/3URK0z9PzpVNJrGE7XOuyy6KFzk.jpg",
+        "year": "2019",
+        "rating": 8.7,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "HBO",
+            "HBO Max",
+            "Amazon Prime"
+        ],
+        "cast": [
+            {
+                "name": "Jared Harris",
+                "role": "Valery Legasov",
+                "image": "https://image.tmdb.org/t/p/w200/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+            },
+            {
+                "name": "Stellan Skarsgård",
+                "role": "Boris Shcherbina",
+                "image": "https://image.tmdb.org/t/p/w200/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+            },
+            {
+                "name": "Emily Watson",
+                "role": "Ulana Khomyuk",
+                "image": "https://image.tmdb.org/t/p/w200/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+            },
+            {
+                "name": "Paul Ritter",
+                "role": "Anatoly Dyatlov",
+                "image": "https://image.tmdb.org/t/p/w200/hYRSjC5vxrIFZ5sx1rM6V4ZEI8G.jpg"
+            },
+            {
+                "name": "Jessie Buckley",
+                "role": "Lyudmilla Ignatenko",
+                "image": "https://image.tmdb.org/t/p/w200/i8IlkFbZqKUgkypZKpdhrw00uqw.jpg"
+            },
+            {
+                "name": "Adam Nagaitis",
+                "role": "Vasily Ignatenko",
+                "image": "https://image.tmdb.org/t/p/w200/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg"
+            },
+            {
+                "name": "Sam Troughton",
+                "role": "Alexandr Akimov",
+                "image": "https://image.tmdb.org/t/p/w200/7Gnt2TblEvlj0Nrzc5mQyOcHtPF.jpg"
+            },
+            {
+                "name": "Robert Emms",
+                "role": "Leonid Toptunov",
+                "image": "https://image.tmdb.org/t/p/w200/yqXBUz5WMcuicfyp6GlKSLBdBJH.jpg"
+            },
+            {
+                "name": "Con O'Neill",
+                "role": "Viktor Bryukhanov",
+                "image": "https://image.tmdb.org/t/p/w200/7Fnj1dB9kStTuy29eEVK4IuOxWO.jpg"
+            },
+            {
+                "name": "Adrian Rawlins",
+                "role": "Nikolai Fomin",
+                "image": "https://image.tmdb.org/t/p/w200/G0PGZqTjenuVTAQiib4ScU7vAI.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1:23:45",
+                "overview": "1986 senesinde Sovyet nükleer santralinde meydana gelen patlama sonrası santral işçileri ve itfaiyeciler faciayı kontrol altına almaya çalışır...",
+                "still_path": "https://image.tmdb.org/t/p/w400/thaMHLz5l6TVL8R4EzaBkjn2EZA.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt7366338/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Lütfen Sakin Olun",
+                "overview": "Chernobyl patlaması sonrası nükleer fizikçi Ulana Khomyuk, Sovyet meslektaşı Valery Legasov'u ikinci bir patlama olasılığı konusunda uyarır...",
+                "still_path": "https://image.tmdb.org/t/p/w400/kVsUEtOOYeLRmABVuZztl4k9onO.jpg",
+                "vote_average": 9.2,
+                "link": "https://vidmody.com/vs/tt7366338/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Ey Dünya, Kucak Aç!",
+                "overview": "Pripyat sakinlerinden biri olan Lyudmilla Ignatenko, kocasının durumu ile ilgili uyarıları dikkate almaz...",
+                "still_path": "https://image.tmdb.org/t/p/w400/f3AgIEfGWWO3qNoxymagUqCBaE8.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt7366338/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Tüm İnsanlığın Mutluluğu",
+                "overview": "Valery Legasov ve Sovyet Başbakan Yardımcısı Boris Shcherbina radyoaktif enkazı ortadan kaldırmak için çözüm üretmeye çalışır...",
+                "still_path": "https://image.tmdb.org/t/p/w400/xV2eVT4ejGhVn9OIMCo4uBOhmCC.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt7366338/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Vichnaya Pamyat (Ebedi Anı)",
+                "overview": "(DİZİ FİNALİ) Valery Legasov, Boris Shcherbina ve Ulana Khomyuk, Chernobyl hakkındaki gerçeği açığa çıkarmak için itibarlarını ve hayatlarını riske atarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt7366338/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-15 18:35:48"
+    },
+    {
         "id": 100088,
         "imdb_id": "tt3581920",
         "name": "The Last of Us",

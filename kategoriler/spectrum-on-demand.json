@@ -1,5 +1,161 @@
 [
     {
+        "id": 256711,
+        "imdb_id": "tt6151526",
+        "name": "The Rainmaker",
+        "original_name": "The Rainmaker",
+        "overview": "Genç avukat Rudy Baylor, ülkenin en güçlü hukuk firmalarından biriyle karşı karşıya gelir.",
+        "poster": "https://image.tmdb.org/t/p/w500/q8l0lj20amBFi0SBs8NI9yJpaHq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "USA Network",
+            "Spectrum On Demand",
+            "YouTube TV"
+        ],
+        "cast": [
+            {
+                "name": "Milo Callaghan",
+                "role": "Rudy Baylor",
+                "image": "https://image.tmdb.org/t/p/w200/jRPVXcIc3nfRbWPe5NQODVl9N10.jpg"
+            },
+            {
+                "name": "Lana Parrilla",
+                "role": "Jocelyn 'Bruiser' Stone",
+                "image": "https://image.tmdb.org/t/p/w200/jw0H1hMEW9xJ4atAzGMMRUFiys.jpg"
+            },
+            {
+                "name": "Madison Iseman",
+                "role": "Sarah Plankmore",
+                "image": "https://image.tmdb.org/t/p/w200/5JVhacnNhqLcWpGPH1fqL7Ovq7g.jpg"
+            },
+            {
+                "name": "P.J. Byrne",
+                "role": "Deck Shifflet",
+                "image": "https://image.tmdb.org/t/p/w200/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg"
+            },
+            {
+                "name": "Dan Fogler",
+                "role": "Melvin Pritcher",
+                "image": "https://image.tmdb.org/t/p/w200/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
+            },
+            {
+                "name": "Wade Briggs",
+                "role": "Brad Noonan",
+                "image": "https://image.tmdb.org/t/p/w200/gxWV3yLLQrMMSpQS3jijgcXsyRk.jpg"
+            },
+            {
+                "name": "Robyn Cara",
+                "role": "Kelly Riker",
+                "image": "https://image.tmdb.org/t/p/w200/i6hQQwtU3BSb3mU7XYs3C0rEsiV.jpg"
+            },
+            {
+                "name": "John Slattery",
+                "role": "Leo F. Drummond",
+                "image": "https://image.tmdb.org/t/p/w200/tm7g84OWD5gQRoyfG4hduBphP1j.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Hukuk fakültesinden yeni mezun olan Rudy Baylor, bir tıbbi ihmal davasında Leo F. Drummond ile karşı karşıya gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/if3SwwAqV9wXcatsUFvdl49tXZ3.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Rudy ve Deck bir tanıkla gergin bir karşılaşma yaşar ve müvekkilleri hakkında önemli bir keşifte bulunurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j6WkYhSUFNGf4953uSDlBuBI5sj.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Rudy ve Deck kayıp bir hemşireyi ararken, soruşturmaları karanlık bir komploya işaret eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wpPKvdln4GQPhjbEjf1lbimwcag.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Sarah dava hakkında bir ayrıntı açıkladığında, Rudy müvekkili ile sevgilisi arasında bir seçim yapmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9A65TzQIFCvzh8GWVEEwVC1B9px.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Melvin’in tehdidinden endişelenen Rudy, Bruiser’a karşı gelir ve Dot’un avukatı olarak işini ve geleceğini riske atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iv0jvhIBoilEOqq9zKE5Ri0WEfr.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Rudy müvekkilini savunmaya devam eder. Sarah ise Londra’da Leo ve Brad’le yeni ayartmalarla karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kYR9GMzmF3wefFOIxegUVHh7Eza.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Rudy cinayet suçlamasıyla tutuklandığında, Bruiser onu savunmayı kabul eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cU8hk1jl1PWuuRkg3r8q8tBJB3U.jpg",
+                "vote_average": 9.1,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Rudy ve Deck, Melvin Pritcher’ı takip eder ve bu, heyecan verici bir olaylar zincirini başlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uSHd1nZt1a9PzCzZLe5okhXXTiV.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Rudy, kazanabileceği bir savunma mı yapacağına yoksa gerçeği mi ortaya çıkaracağına karar vermek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yEaPH0JQCnTr8axyPdxqGAmjhDs.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Sarah’yla karşı karşıya gelen Rudy, onun hâlâ bir zamanlar tanıdığı ve sevdiği kadın olup olmadığını mera",
+                "still_path": "https://image.tmdb.org/t/p/w400/ywpoPFZ3IkUUD5AHVTMod1sgBXi.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt6151526/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 17:03:18"
+    },
+    {
         "id": 291084,
         "imdb_id": "tt36885662",
         "name": "Best Medicine",

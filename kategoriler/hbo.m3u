@@ -1,5 +1,15 @@
 #EXTM3U
 #PLAYLIST:HBO
+#EXTINF:-1 group-title="Chernobyl" tvg-logo="https://image.tmdb.org/t/p/w400/thaMHLz5l6TVL8R4EzaBkjn2EZA.jpg", [8.7] Chernobyl S01E01 - 1:23:45
+https://vidmody.com/vs/tt7366338/s1/e01
+#EXTINF:-1 group-title="Chernobyl" tvg-logo="https://image.tmdb.org/t/p/w400/kVsUEtOOYeLRmABVuZztl4k9onO.jpg", [8.7] Chernobyl S01E02 - Lütfen Sakin Olun
+https://vidmody.com/vs/tt7366338/s1/e02
+#EXTINF:-1 group-title="Chernobyl" tvg-logo="https://image.tmdb.org/t/p/w400/f3AgIEfGWWO3qNoxymagUqCBaE8.jpg", [8.7] Chernobyl S01E03 - Ey Dünya, Kucak Aç!
+https://vidmody.com/vs/tt7366338/s1/e03
+#EXTINF:-1 group-title="Chernobyl" tvg-logo="https://image.tmdb.org/t/p/w400/xV2eVT4ejGhVn9OIMCo4uBOhmCC.jpg", [8.7] Chernobyl S01E04 - Tüm İnsanlığın Mutluluğu
+https://vidmody.com/vs/tt7366338/s1/e04
+#EXTINF:-1 group-title="Chernobyl" tvg-logo="https://image.tmdb.org/t/p/w400/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg", [8.7] Chernobyl S01E05 - Vichnaya Pamyat (Ebedi Anı)
+https://vidmody.com/vs/tt7366338/s1/e05
 #EXTINF:-1 group-title="The Last of Us" tvg-logo="https://image.tmdb.org/t/p/w400/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg", [8.5] The Last of Us S01E01 - Karanlıkta Kaybolduğun Zaman
 https://vidmody.com/vs/tt3581920/s1/e01
 #EXTINF:-1 group-title="The Last of Us" tvg-logo="https://image.tmdb.org/t/p/w400/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg", [8.5] The Last of Us S01E02 - Enfekte

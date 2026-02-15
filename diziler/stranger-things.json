@@ -2,25 +2,453 @@
     "id": 66732,
     "imdb_id": "tt4574334",
     "name": "Stranger Things",
+    "original_name": "Stranger Things",
+    "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
     "poster": "https://image.tmdb.org/t/p/w500/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
     "year": "2016",
+    "rating": 8.6,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Gizem",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Winona Ryder",
-        "David Harbour",
-        "Millie Bobby Brown",
-        "Finn Wolfhard",
-        "Gaten Matarazzo"
+        {
+            "name": "Winona Ryder",
+            "role": "Joyce Byers",
+            "image": "https://image.tmdb.org/t/p/w200/b2WcWMCJFb2eNFOJrExwevIBTSp.jpg"
+        },
+        {
+            "name": "David Harbour",
+            "role": "Jim Hopper",
+            "image": "https://image.tmdb.org/t/p/w200/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+        },
+        {
+            "name": "Millie Bobby Brown",
+            "role": "Eleven / Jane Hopper",
+            "image": "https://image.tmdb.org/t/p/w200/k9KGzGDVhXKfOGpoN62MNuXL28q.jpg"
+        },
+        {
+            "name": "Finn Wolfhard",
+            "role": "Mike Wheeler",
+            "image": "https://image.tmdb.org/t/p/w200/dQ1Fj2gCwko0Jnt3QEj1GLseXSh.jpg"
+        },
+        {
+            "name": "Gaten Matarazzo",
+            "role": "Dustin Henderson",
+            "image": "https://image.tmdb.org/t/p/w200/alVT7oDp8N5G9WLIApI9jqeuqHq.jpg"
+        },
+        {
+            "name": "Caleb McLaughlin",
+            "role": "Lucas Sinclair",
+            "image": "https://image.tmdb.org/t/p/w200/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
+        },
+        {
+            "name": "Noah Schnapp",
+            "role": "Will Byers",
+            "image": "https://image.tmdb.org/t/p/w200/rmsJ0UJumpQOVEHffGeUVyJyVcj.jpg"
+        },
+        {
+            "name": "Sadie Sink",
+            "role": "Max Mayfield",
+            "image": "https://image.tmdb.org/t/p/w200/o6DZF6dgQjLC96qEqCw23AoY2HN.jpg"
+        },
+        {
+            "name": "Natalia Dyer",
+            "role": "Nancy Wheeler",
+            "image": "https://image.tmdb.org/t/p/w200/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg"
+        },
+        {
+            "name": "Charlie Heaton",
+            "role": "Jonathan Byers",
+            "image": "https://image.tmdb.org/t/p/w200/8Se6WZuvRmoB990bT29OPgVAyBo.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm: Will Byers'ın Ortadan Kayboluşu",
+            "overview": "Arkadaşından dönen Will, yolda korkutucu bir şey görür. Devlete ait bir laboratuvarın derinliklerinde korkutucu bir gizem yatmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6jSA6JpxNDV63aDXpmsUFCjCINb.jpg",
+            "vote_average": 8.5,
             "link": "https://vidmody.com/vs/tt4574334/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm: Maple Sokağı'ndaki Ucube",
+            "overview": "Lucas, Mike ve Dustin ormanda rastladıkları bir kızla konuşmaya çalışırlar. Hopper, rahatsız edici bir telefon konuşmasıyla kaygılanan Joyce'u sorguya çeker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt4574334/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm: Mutlu Noeller",
+            "overview": "Gitgide endişelenen Nancy, Barb'ı arar ve Jonathan'ın neyin peşinde olduğunu öğrenir. Joyce, Will'in kendisiyle konuşmaya çalıştığından emindir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5snULpWQWp7aqFto7UbRcEkEyyS.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt4574334/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm: Ceset",
+            "overview": "Will'in öldüğünü kabullenmek istemeyen Joyce, oğluyla iletişim kurmak ister. Çocuklar, El'e çeki düzen verir. Nancy ve Jonathan pek olası olmayan bir ittifak kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/60wmC1e20HV8gu688GAhsWxqxPx.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt4574334/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm: Pire ve Cambaz",
+            "overview": "Hopper, laboratuvara girer. Nancy ve Jonathan, Will'i alan güçle yüzleşir. Çocuklarsa Bay Clarke'a başka bir boyuta nasıl yolculuk edildiğini sorar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/idAoStMju7xrMmCvHiLldKXUaPk.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt4574334/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm: Canavar",
+            "overview": "Çılgına dönen Jonathan, karanlıklar içinde Nancy'yi arar. Ancak Steve de Nancy'yi aramaktadır. Hopper ve Joyce, laboratuvarda olan bitenle ilgili gerçekleri öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tOb9lLSrWBIQfl1ulMHsVVTGtkv.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt4574334/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm: Küvet",
+            "overview": "Eleven, Will'e ulaşmaya çalışmaktadır. Lucas kötü adamların yaklaştığını söyler. Nancy ve Jonathan, Jonathan'ın fotoğraf makinesine takılanları polise gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mkZzUTNWYfGwRH2f1TzlRgouypa.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt4574334/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm: Alt Üst",
+            "overview": "Dr. Brenner, Hopper ve Joyce'u sorgulamak için alıkoyar. Bu sırada çocuklar Eleven'la birlikte spor salonunda beklemektedir. Nancy ve Jonathan savaşa hazırlanmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1teJ5dbuepfqOOs9uYhYTUjr2qs.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt4574334/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1. Bölüm: ÇILGIN MAX",
+            "overview": "Kasabada Cadılar Bayramı hazırlıkları sürerken rekortmen bir rakip, oyun salonunda olay yaratır. Kuşkucu Hopper, çürümekte olan bal kabaklarıyla dolu bir tarlayı inceler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt4574334/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "2. Bölüm: Şeker mi Şaka mı Ucube?",
+            "overview": "Şeker mi şaka mı gecesinde Will korkunç bir şeye tanık olunca Mike, Eleven'ın hâlâ bir yerlerde olup olmadığını merak eder. Nancy, Barb hakkındaki gerçekle boğuşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3gzPnRilyASmcoSyUKXhaD5ofhr.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt4574334/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "3. Bölüm: İribaş",
+            "overview": "Dustin yeni ve tuhaf bir evcil hayvan sahiplenir. Bu arada El'in sabrı giderek tükenmektedir. İyi niyetli Bob, Will'den korkularıyla yüzleşmesini ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/792NQjFydcr5ucb1sga55LS6Vt3.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt4574334/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "4. Bölüm: Bilge Will",
+            "overview": "Zor durumdaki Will'in Joyce'a içini dökmesi, rahatsız edici sonuçlar doğurur. Hopper gerçeği aramaya devam ederken Eleven şaşırtıcı bir şey keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wZ7ZDnftX9Y1O25I5tOaEKdK7FT.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt4574334/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "5. Bölüm: Dig Dug",
+            "overview": "Nancy, Jonathan ve yeni dostları birbirleriyle komplo teorilerini paylaşırken Eleven, geçmişinden birini aramaktadır. \"Beyin Bob\" zorlu bir sorunla mücadele eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/westZSpDwRPjxG2eBWIT7utDcnL.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt4574334/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "6. Bölüm: Casus",
+            "overview": "Will ile karanlık güçler arasındaki bağ güçlenmektedir, ancak hiç kimse bunun nasıl durdurulacağını bilemez. Bu sırada Dustin ve Steve beklenmedik bir yakınlık kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y3Npi32SQZ6hGM0LnSQ9ONJyNJY.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt4574334/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "7. Bölüm: Kayıp Kız Kardeş",
+            "overview": "Eleven'ın psişik vizyonları, onu hiddet dolu dışlanmış bir gruba ve karanlık bir geçmişe sahip olan öfkeli bir kıza götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kgOaaTbAutwAoA7tkVzYCfTjPXn.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt4574334/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "8. Bölüm: Zihin Hırsızı",
+            "overview": "Ölümcül bir olay yüzünden Hawkins Laboratuvarı kilitlendiğinde, Will ve birkaç kişi içeride mahsur kalır. Tam bu sırada, beklenmedik bir kahraman ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vuLea0DA9rYc9Y4M2Ic28CXL4Al.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt4574334/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "9. Bölüm: Kapı",
+            "overview": "Eleven başladığı işi bitirmek için planlar yaparken hayatta kalanlar Will'i rehin tutan korkunç güce yaptıkları baskıyı artırmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cxCf7O5WPHfyXb7PLSJCG6EvXc3.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt4574334/s2/e09"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "1. Bölüm: Suzie, Duyuyor musun?",
+            "overview": "Yaz, yeni işler ve filizlenen bir aşkla gelir. Ama Dustin'in radyosu Rusça bir yayın yakalayıp Will bir şeylerin yanlış gittiğini hissedince hava değişir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/97PVnrEQWEsdMnD08QDmMxLkV7h.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt4574334/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "2. Bölüm: AVM Fareleri",
+            "overview": "Nancy ve Jonathan bir ipucunu izler. Steve ve Robin gizli bir görevi kabul eder. Max ve El alışverişe gider. Kafası karışan Billy, rahatsız edici hayaller görür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1XgtGAnheGKfrYtV3mLSFf13AJi.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt4574334/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "3. Bölüm: Kayıp Cankurtaran Vakası",
+            "overview": "El ve Max, Billy'yi ararken Will kızların olmadığı bir gün geçirmeyi planlar. Steve ve Dustin AVM'de devriyeye çıkar. Joyce ve Hopper, Hawkins Laboratuvarı'na döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oaYdVvYwnvoQ7SLelKUcaAt0HKJ.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt4574334/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "4. Bölüm: Sauna Testi",
+            "overview": "Kırmızı alarm, ekibi korkutucu derecede tanıdık bir kötülükle yüzleşmek için tekrar toplar. Karen Nancy'yi incelemeyi sürdürmeye zorlar. Robin işe yarar bir harita bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tEgd6fXKngAG8eC92dH7ey6Y4eA.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt4574334/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "5. Bölüm: Ordu",
+            "overview": "Eski bir çiftlik evinin içinde ve Starcourt Alışveriş Merkezi'nin derinliklerinde tuhaf sürprizler pusuda bekler. Bu arada Zihin Hırsızı güç toplamaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/40CezQOYMQ1t726K3hqdz7Y1Z6G.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt4574334/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "6. Bölüm: Çokluktan Birliğe",
+            "overview": "Dr. Alexei, Rusların ne inşa ettiğini açıklarken Eleven, Billy'nin nerede olduğunu görür. Dustin ve Erica cesur bir kaçış planını hayata geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dZKsMHJm8DPdBuqFcZxdIulrpNs.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt4574334/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "7. Bölüm: Isırık",
+            "overview": "Zaman tükenirken ve enselerinde bir suikastçı varken Hopper'ın ekibi hızla Hawkins'e döner. Bu sırada El ve çocuklar savaş için hazırlanmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6QA91GJK2ze1EaGPEKhil9MJIXx.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt4574334/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "8. Bölüm: Starcourt Savaşı",
+            "overview": "Zihin Avcısı'nın ekiple hesaplaşmak üzere geri dönüşüyle alışveriş merkezinin yemek katında terör eser. Dünya'nın geleceği, yer altının karanlığında belirlenecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5YcjTWas07RteM9lssOzL9UhmJh.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt4574334/s3/e08"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "1. Bölüm: Hellfire Kulübü",
+            "overview": "El okulda zorbalığa uğrar. Joyce gizemli bir paket alır. Amatör bir oyuncu D&D gecesini alt üst eder. Uyarı: Çocukların bulunduğu şiddet öğeleri içerir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cmCOUjjQ1TfCh1Gj9V4IFAd2XNu.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt4574334/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "2. Bölüm: Vecna'nın Laneti",
+            "overview": "Bir uçak Mike'ı Kaliforniya'ya getirir ve bir ceset Hawkins'i şaşkına çevirir. Nancy ipucu aramaya gider. Sarsılmış hâldeki Eddie gördüklerini tüm ekibe anlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lSSWqv7XrO51uY2uc4lql9Hub3f.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt4574334/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "3. Bölüm: Canavar mı, Süper Kahraman mı?",
+            "overview": "Murray ve Joyce Alaska'ya uçar. El ciddi sonuçlara katlanmak zorunda kalır. Robin ve Nancy, Hawkins'in iblislerini araştırır. Dr. Owens üzücü haberler verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iSvNiCJ0XIEUyj6kydm1wISZHeM.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt4574334/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "4. Bölüm: Sevgili Billy",
+            "overview": "Max büyük tehlikededir ve zaman tükenmektedir. Pennhurst Akıl Hastanesi'ndeki bir hastanın ziyaretçileri vardır. Hopper ise Rusya'da sıkı bir çalışma içindedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u3LeFRR7AhyPp4y0Ii7hpkD488b.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt4574334/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "5. Bölüm: Nina Projesi",
+            "overview": "Hawkins'teki çocuklar yıkık dökük bir evde ipucu ararken Owens tarafından Nevada'ya götürülen El, geçmişiyle yüzleşmek zorunda kalır. Birisi daha Vecna'ya kurban gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qpYggM5hj59q7h8rDv3GRI195W9.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt4574334/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "6. Bölüm: Derinlere Dalış",
+            "overview": "Demir Perde'nin ardında riskli bir kurtarma görevi başlatılır. Kaliforniya ekibi bir hacker'dan yardım ister. Steve ekip için bir fedakârlıkta bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9EbhReDcbfmqLhDBg0Rn97z4lT.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt4574334/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "7. Bölüm: Hawkins Laboratuvarında Katliam",
+            "overview": "Hopper bir canavarla savaşmaya hazırlanırken Dustin, Vecna'nın neyin peşinde olduğunu araştırır ve gaipten gelen bir mesajın şifresini çözer. Eski bir anı El'e güç verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n64hMYFaVunT8jqSVgYq5qt0Vbn.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt4574334/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "8. Bölüm: Baba",
+            "overview": "Nancy sarsıcı hayaller görür, El ise kendisi için çok önemli bir sınavı geçer. Hawkins'dekiler erzak ve silah toplayarak savaşa hazırlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sdNa4Z49RTZDkezFAMg00hciFZZ.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt4574334/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "9. Bölüm: Kaçak Yolcu",
+            "overview": "Kahramanlarımız tek yürek olup Hawkins'i kurtarmak için düşmanlarına dört koldan savaş açar. Sadece Hawkins'in değil, tüm dünyanın geleceği onların elindedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fvoa0Hosu4yK7TUiHglV8TvjMUB.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt4574334/s4/e09"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "1. Bölüm: Arayış",
+            "overview": "Kasım 1987. Ekip Baş Aşağı Dünya'ya ulaşıp Vecna'nın saklandığı yeri bulmak için askerî kontrol noktasından kaçmayı başarır, ancak çok yakınlarındaki bir tehdidi gözden kaçırırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jnpSxSMdFAj4dtF59agzgmKM9fg.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt4574334/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "2. Bölüm: Kayboluş",
+            "overview": "Wheeler'ların evine yapılan vahşi saldırının ardından Mike ve Nancy sır saklamanın bedeliyle yüzleşmek zorunda kalırken, El ve Hopper bir kurtarma operasyonuna girişir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/loM7T7Mwd849wFaWj9KPlNNSHZr.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt4574334/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "3. Bölüm: Turnbow Tuzağı",
+            "overview": "Vecna'nın bir sonraki hamlesi hakkında Will'in elde ettiği benzersiz ipucu, ekibe bir tuzak kurma fırsatı verir. Holly yeni ortamını keşfetmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iCsM4oeBM9PIESD6PJw7mWO1xbl.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt4574334/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "4. Bölüm: Büyücü",
+            "overview": "Ordu kasabadaki kontrolünü sıkılaştırır. Mike, Lucas ve Robin cesaret dolu bir kaçış planlar. El, düşmanla karşı karşıya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r0uVKBsPj74lQGNRdC9IM2P5roW.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt4574334/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "5. Bölüm: Elektroşok",
+            "overview": "Ekip, Will'in sürü bilincini tekrar ele geçirmesini sağlamak için heyecan verici bir plan yapar. Baş Aşağı Dünya'da Hawkins Laboratuvarı'nda yapılan arama sırasında gerilim artar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A9gML0mmuyE2m3hGK0eZZA2tRPg.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt4574334/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "6. Bölüm: Camazotz'dan Kaçış",
+            "overview": "Holly ve Max Vecna'nın zihninden kaçmaya çalışırken El, Will'in zihnine girmenin bir yolunu bulmalıdır. Joyce suçluluk hissine kapılır. Jonathan ve Nancy bir dönüm noktasına gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zwJuStMjSOT1jaPUkX3dweIciRs.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt4574334/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "7. Bölüm: Köprü",
+            "overview": "Will'in ortadan kayboluşunun yıl dönümünde ekip yeniden bir araya gelir ve dünyayı değiştirecek sonuçlara yol açacak bir savaşa hazırlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xJv3oJoVQqITux8N9isJfb1Ao6g.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt4574334/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "8. Bölüm: Gerçek Dünya",
+            "overview": "Vecna bildiğimiz dünyayı yok etmeye hazırlanırken ekip, onu kesin olarak alt etmek için hem kendilerinin hem de sevdiklerinin hayatını riske atmak zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kP23RWbUWM6vGhT9PxFyP5VT3y4.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt4574334/s5/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 14:50:19"
 }

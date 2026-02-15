@@ -2,24 +2,362 @@
     "id": 71912,
     "imdb_id": "tt5180504",
     "name": "The Witcher",
+    "original_name": "The Witcher",
+    "overview": "Mutasyona uğramış bir canavar avcısı olan Rivyalı Geralt, insanların çoğunlukla yaratıklardan daha uğursuz olduğu, karmaşa içindeki bir dünyada kaderine doğru yol alıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/foGkPxpw9h8zln81j63mix5B7m8.jpg",
     "year": "2019",
+    "rating": 7.9,
     "genres": [
         "Dram",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Liam Hemsworth",
-        "Anya Chalotra",
-        "Freya Allan",
-        "Joey Batey",
-        "Eamon Farren"
+        {
+            "name": "Liam Hemsworth",
+            "role": "Geralt of Rivia",
+            "image": "https://image.tmdb.org/t/p/w200/7UIm9RoBnlqS1uLlbElAY8urdWD.jpg"
+        },
+        {
+            "name": "Anya Chalotra",
+            "role": "Yennefer of Vengerberg",
+            "image": "https://image.tmdb.org/t/p/w200/gq0RpJ2Y5kHOFMbUWHIc60xCZrd.jpg"
+        },
+        {
+            "name": "Freya Allan",
+            "role": "Princess Cirilla 'Ciri' of Cintra",
+            "image": "https://image.tmdb.org/t/p/w200/8RuLG2mePw8YgFNUjWROBuxMrwT.jpg"
+        },
+        {
+            "name": "Joey Batey",
+            "role": "Jaskier / The Sandpiper",
+            "image": "https://image.tmdb.org/t/p/w200/4uo4JPaK6KpdN7v8C1pbwKpNVJU.jpg"
+        },
+        {
+            "name": "Eamon Farren",
+            "role": "Cahir",
+            "image": "https://image.tmdb.org/t/p/w200/f4EX93f9MRCfjJc4kKAKqVqRsUW.jpg"
+        },
+        {
+            "name": "Mimî M. Khayisa",
+            "role": "Fringilla Vigo",
+            "image": "https://image.tmdb.org/t/p/w200/kfwWaxcovzkahqDDhhJwPrGbnny.jpg"
+        },
+        {
+            "name": "Anna Shaffer",
+            "role": "Triss Merigold",
+            "image": "https://image.tmdb.org/t/p/w200/te5rydQcq4v5m6Y8CVUT430rh1C.jpg"
+        },
+        {
+            "name": "Mahesh Jadu",
+            "role": "Vilgefortz of Roggeveen",
+            "image": "https://image.tmdb.org/t/p/w200/pugsskE62XbyYRruJk8KGk3JVdC.jpg"
+        },
+        {
+            "name": "张梦儿",
+            "role": "Milva",
+            "image": "https://image.tmdb.org/t/p/w200/lOJ0EIjNybCDT6J3ZLMDnqpoDXD.jpg"
+        },
+        {
+            "name": "Danny Woodburn",
+            "role": "Zoltan Chivay",
+            "image": "https://image.tmdb.org/t/p/w200/wmxPxtUWPr7Vux9nsYpFPRGDlWM.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Sonun Başlangıcı",
+            "overview": "Geralt'ı Blaviken kasabasında düşmanca davranan ahali ve kurnaz bir büyücü karşılar. Nilfgaard'ın gözlerini Cintra'ya dikmesiyle Ciri'nin kraliyet yaşantısı altüst olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kvnbgfKMSOeq08gWeL7FrzT0mah.jpg",
+            "vote_average": 7.8,
             "link": "https://vidmody.com/vs/tt5180504/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Dört Altın",
+            "overview": "Zorbalığa uğrayan ve ihmal edilen Yennefer, şans eseri bir kaçış yolu bulur. Sözde bir şeytanı avlayan Geralt'ın işleri yolunda gitmez. Ciri kalabalık bir gruba sığınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7KWyZgiSXSAuagbtzjTZLrkOtNk.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt5180504/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Hain Dolunay",
+            "overview": "Geralt, bir yaratığın rahatsız ettiği bir krallıkta başka bir Witcher'ın yarım bıraktığı işi üstlenir. Yennefer büyük bir bedel ödeyerek sihirli, yeni bir gelecek kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jiNkIfEOsKQNNc0roNmzZZ0VJVi.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt5180504/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Şölenler, Piçler ve Cenazeler",
+            "overview": "Geralt bunun iyi bir fikir olmadığını bile bile Jaskier'e bir kraliyet balosunda eşlik eder. Ciri büyülü bir ormana girer. Yennefer yanındakileri korumaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AfebvAOUQDaIy2TMmzhWk1ddZMJ.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt5180504/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Bastırılmış İstekler",
+            "overview": "Uyarılara kulak asmayan Yennefer, kaybettiği bir şeyi geri almak için çare arar. Geralt istemeden Jaskier'i tehlikeye atar. Ciri'yi arama çalışmaları yoğunlaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/10yazSY4hMWfH8M48D7rhHVDvsA.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt5180504/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Nadir Türler",
+            "overview": "Gizemli bir adam, Geralt'ı bir ejderhayı yakalamak için yapılan ava katılmaya ikna etmeye çalışır. Bu av tanıdık bir simayı cezbeder. Ciri kime güvenebileceğini sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1fmFzsVZSi0PPDc3yGvR3pllzPK.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt5180504/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Düşüşten Önce",
+            "overview": "Nilfgaard'ın yükselen gücü Kıta için tehlike oluştururken Yennefer, geride bıraktığı geçmişe göz atar. Geralt ise Şaşırma Hakkı'na ilişkin yükümlülüğünü gözden geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2HL6kDFLCVtcqRlqf8X4Ir6Huqw.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt5180504/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Çok Daha Fazlası",
+            "overview": "Geralt dehşet verici bir grup düşmandan saklanır. Yennefer ve diğer büyücüler direnmeye hazırlanır. Sarsılan Ciri, bir yabancının iyiliğine bel bağlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3MqMmcoRShLEylaVlCy97ziGWF0.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt5180504/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Ufak Bir Gerçeklik Payı",
+            "overview": "Geralt'ın Ciri ile çıktığı yolculuk onu eski bir dostuna götürür. Sodden Savaşı'nın ardından Tissaia bilgi almak uğruna hiç kimsenin gözünün yaşına bakmaz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lRYwDG1Mu576iRJJ3sfzmm9rJTz.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt5180504/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Kaer Morhen",
+            "overview": "Ciri için güvenli bir yer arayan Geralt eve doğru yola çıkar, ancak onun için Kaer Morhen bile tehlikelerle doludur. Yennefer'ın rüyaları onu özgürlüğüne kavuşturabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bD0fkV9hxxxjmQXWfjB1LZQ154s.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt5180504/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Kaybedilenler",
+            "overview": "Geralt'ın yöntemleriyle ilgili sabırsızlanan Ciri cesaretini kanıtlamak için büyük engellere meydan okur. Kardeşlik'in plan ve kuşkuları Yennefer'ı hedef hâline getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/N7qYLPhDxFdFYga4pDaJw1cCaJ.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt5180504/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Redanyalı Casuslar",
+            "overview": "Kaer Morhen'deki bir misafir Ciri'ye yol gösterir ve Geralt'a bir davette bulunur. Redanya'daki kaçak Yennefer yer altında güvenli bir sığınak arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wF4qk9RimFWr28ZC0nT4c6XuOdw.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt5180504/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Sırt Çevirmek",
+            "overview": "Kudretli bir büyücü Ciri'nin peşindeki güruha katılırken Ciri, olağanüstü bir şey keşfeden Vesemir ile bir anlaşma yapar. Geralt monolitlerin gizemini araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xPytQd9tDAxDoECXbNwbeR3Fi2h.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt5180504/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Sevgili Dostum...",
+            "overview": "Ciri'nin gücüyle ilgili bilgi almasına yardım eden Geralt yakın bir dostunu kaybeder ve başka bir dost bulur. Cahir asıl görevlerine odaklanması için Fringilla'yı uyarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/p0WVue8TDH4BCkgwUVpk93LKI4z.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt5180504/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Voleth Meir",
+            "overview": "Geralt, alçakgönüllü ozan dostundan yardım ister. Yennefer Ciri'nin ne kadar özel olduğunu anlar ve İmparator Emhyr'in Cintra'yı ziyaret edeceği gün gerilim tırmanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lVnEbnHgFr56xyj4Kpl41UYAzWB.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt5180504/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Aile",
+            "overview": "Ciri'nin peşinde olan Kıta'nın en güçlü oyuncuları takiplerine hız verirken Geralt en yakınındakileri ve en sevdiklerini hedef alan bir iblisle karşı karşıya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qEfDFrmsF3L9EfnUkniXmEtXITm.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt5180504/s2/e08"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Shaerrawedd",
+            "overview": "Geralt, Yennefer ve Ciri, güvenli bir sığınak bulmak için Kıta'nın en ücra yerlerine kadar gider. Kral Vizimir, küçük erkek kardeşinden faydalanmaya karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e2acePDzVFczUGwO6qppdqjjnGu.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt5180504/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Ayrılma",
+            "overview": "Rience hakkında bilgi alan Geralt'ı korkunç bir şey beklemektedir. Ciri'nin adalet duygusu yüzünden sorunlar çıkar. Jaskier, bir prens için sahneye çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iNOfRFMLUab9Xt39U9ffWo5vLYM.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt5180504/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Yeniden Buluşma",
+            "overview": "Ciri ve Yennefer gelecekle ilgili planları konusunda çatışır. Geralt bir aile dostundan büyülü bir yardım ister. Philippa ve Dijkstra, Vizimir'i hizaya sokmak için plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kIymMMvcDSTasaRYPHX5QOrpLiK.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt5180504/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Davetiye",
+            "overview": "Yennefer, Kardeşlik'e cesur bir fikir sunar, Geralt bir kayıkçıyla riskli bir anlaşma yapar ve Triss, kayıp acemilerin gizemini araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/s7qPoBctK678eoGrKLgkUgwTtfb.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt5180504/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "İllüzyon Sanatı",
+            "overview": "Kol kola giren Yennefer ve Geralt, gösterişli bir baloda çok şık bir şekilde boy gösterirler. Ancak eğlence ve sırlarla dolu bu gecede her şey göründüğü gibi değildir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ePpQeSYtWPZdyIOPCUTFQQqtsXU.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt5180504/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Yumruğu Yiyene Kadar Herkesin Bir Planı Vardır",
+            "overview": "Ciri'yi yakalama işi zıvanadan çıkınca meclis, ihanet ve katliamla sarsılır. Taraflar seçilirken ve düşmanların maskesi düşerken hiçbir şey eskisi gibi olmayacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jPc4g8j7zv70FQXbMEMsFaGyeLX.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt5180504/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Yağmurdan Kaçarken Doluya Tutulmak",
+            "overview": "Geçmişindeki yüzlerden bir türlü kurtulamayan Ciri, umutsuz bir yolculukta en zorlu koşullar altında hayatta kalmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nbTpbjnQ4eZVsaNjDAPFpZ6jzKv.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt5180504/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Kaosun Bedeli",
+            "overview": "Aretuza'da yaşanan vahim olayların ardından savaş Kıta'ya yaklaşmaktadır. Geralt ve Yennefer, iyileşmek ve ailelerini yeniden birleştirmek için çabalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aPPP9UjwgkqOhOOCCCeUqsHgByy.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt5180504/s3/e08"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Seni Öldürmeyen Şey Güçlendirir",
+            "overview": "Geralt, Ciri’yi Emhyr’in pençesinden kurtarmak için yola çıkar ama Ciri'nin gerçek kaderinden bihaberdir. Vilgefortz'un sıkıştırdığı Yennefer, onun planını açığa çıkarmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ihhPrHJhamp5iGu6LACWMzTT94r.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt5180504/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Gerçekleşen Dileğin Rüyası",
+            "overview": "Ciri, bir soygun sırasında kendini kanıtlama fırsatı bulur. Geralt beklenmedik bir müttefik kazanırken Yennefer da sığınmak üzere Montecalvo'ya gittiğinde aynısını yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ciupzVmgLZ1RLvQQklgxSNmUANY.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt5180504/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Zorlu Yargı",
+            "overview": "Cadıların yargılanmasına denk gelen Geralt, arayışından uzaklaşmak durumunda kalır. Ciri, yeni hayatının karanlığına dalar. Yennefer yanına yeni birilerini daha toplar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vFD8IIbPT6xeNZVeajxLeHrybOu.jpg",
+            "vote_average": 4.9,
+            "link": "https://vidmody.com/vs/tt5180504/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "Hayatta Kalmaya Dair Bir Vaaz",
+            "overview": "Yennefer kararlılığını yitirmeye başlar. Ciri, gerçek kimliğini Mistle’a açar. Geralt kendini Dijkstra’nın insafına kalmış hâlde bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yTKE8PmQy4lm1gHgobnoxIGq3WK.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt5180504/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "Yemek Yapmanın Keyfi",
+            "overview": "Nehirden geçmeden önce soluklanmak isteyen Geralt ve yol arkadaşları, birbirlerine hikâyeler anlatıp şarkılar söylerken şoke edici bir gerçek açığa çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3W2bfQn2grrCaXUVsC88ACH6Ana.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt5180504/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Kurdun Sonbaharı",
+            "overview": "Çaresiz kalan Yennefer, acemilerle birlikte Vilgefortz’un ordusuna karşı ölümcül bir savaşa girer. Bu sırada tehlikeli bir düşman, Ciri’nin kokusunu alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v48IboEhWLnMYUkwwsbIYXtz6tI.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt5180504/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Sevdiğimi Karnımda Taşımam",
+            "overview": "Tehlikeli bataklıklardan geçen bir yürüyüş, Geralt’ı rahatsız edici görülerle karşı karşıya bırakır. Emhyr, mutlak gücü elde edebilmek için ne yapması gerektiğini keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4I1DRflZglLFDZxlwjH5qIIIsIz.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt5180504/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Ateşle İmtihan",
+            "overview": "Savaş Kıta'nın dört bir yanına yayılırken Geralt, Yennefer ve Ciri, kaderlerinden kaçmak için çıktıkları yolda yine kaderleriyle karşı karşıya kalırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ypXmVKO23UsMycxgkKgTfmJisKv.jpg",
+            "vote_average": 5.1,
+            "link": "https://vidmody.com/vs/tt5180504/s4/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 15:40:59"
 }

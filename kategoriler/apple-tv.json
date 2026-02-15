@@ -1,5 +1,623 @@
 [
     {
+        "id": 80752,
+        "imdb_id": "tt7949218",
+        "name": "See",
+        "original_name": "See",
+        "overview": "See, günümüzden uzak bir gelecekte geçiyor. Dizide, görme yetisini yitiren insanlığın, hayatta kalmak için yeni yollar aramasını konu ediniyor. Ne var ki yeni hayata gelen ikiz bebeklerin görme yetisiyle doğması işleri karıştırıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/u5N8tXgGDY6jS7R8Xn42LDeL0Dk.jpg",
+        "year": "2019",
+        "rating": 8.1,
+        "genres": [
+            "Dram",
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Apple TV"
+        ],
+        "cast": [
+            {
+                "name": "Jason Momoa",
+                "role": "Baba Voss",
+                "image": "https://image.tmdb.org/t/p/w200/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+            },
+            {
+                "name": "Sylvia Hoeks",
+                "role": "Queen Sibeth Kane",
+                "image": "https://image.tmdb.org/t/p/w200/wKC9LgqgJRCXuzs1kUKaK7Uicv.jpg"
+            },
+            {
+                "name": "Hera Hilmar",
+                "role": "Maghra",
+                "image": "https://image.tmdb.org/t/p/w200/hPrpOpQrJ0Ksh62NHFmKon4vEtr.jpg"
+            },
+            {
+                "name": "Christian Camargo",
+                "role": "Tamacti Jun",
+                "image": "https://image.tmdb.org/t/p/w200/7smKRlZUxTJqt1smgarwzzks684.jpg"
+            },
+            {
+                "name": "Archie Madekwe",
+                "role": "Kofun",
+                "image": "https://image.tmdb.org/t/p/w200/tdTv1E3309yWTU9IdtdhZj1a1Zj.jpg"
+            },
+            {
+                "name": "Nesta Cooper",
+                "role": "Haniwa",
+                "image": "https://image.tmdb.org/t/p/w200/rmHzFvZ1rDf9C0cULfsvz1WMRL9.jpg"
+            },
+            {
+                "name": "Eden Epstein",
+                "role": "Wren",
+                "image": "https://image.tmdb.org/t/p/w200/6ZYbrwHUR3VyGeWx7obPKDASGCJ.jpg"
+            },
+            {
+                "name": "Olivia Cheng",
+                "role": "Charlotte",
+                "image": "https://image.tmdb.org/t/p/w200/c1rOhwVuZi3v47fuTAnVVB4XuSc.jpg"
+            },
+            {
+                "name": "Tom Mison",
+                "role": "Lord Harlan",
+                "image": "https://image.tmdb.org/t/p/w200/ubTAjuIpAURFCPM1HJV3JyVcDOw.jpg"
+            },
+            {
+                "name": "Michael Raymond-James",
+                "role": "Ranger",
+                "image": "https://image.tmdb.org/t/p/w200/1rSn1xKAwkJ19uFLyLovW9sN7Jo.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Alev Tanrı",
+                "overview": "Baba Voss, Maghra, Paris ve ikizler hayatta kalmak için yolculuğa çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sXMYCIALBMYTrimBeJqcqpmpeuB.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt7949218/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Şişedeki Mesaj",
+                "overview": "İkizler için özel bir hediye grup içinde gerilime neden olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jnBZ9eY01nzNAWPf691UySZVcI0.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt7949218/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Taze Kan",
+                "overview": "İkizler bir sırrı annelerinden saklamak için çabalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Mq2p5o2DR5VbNiVOOqqU0nf1X2.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt7949218/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Nehir",
+                "overview": "Köye yapılan bir saldırı kurbanlara ve yeni zorluklara yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/A5Lqm0M3UJFPjyUNXfVhYQRnooI.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt7949218/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Plastik",
+                "overview": "Tamacti Jun’un ordusu Baba ailesine yaklaşırken Maghra’nın geçmişi açığa çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oYkGfl1ulpm0e6gps8uvLub2Ky1.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt7949218/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "İpek",
+                "overview": "Baba ve ailesi ihanete uğrar. Kraliçe Kane yeni bir çatışmayla yüzleşmek için kurnazlığını kullanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4G7UsI5SdNXgv4OTWQQ83JBSfD9.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt7949218/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Lavanta Yolu",
+                "overview": "İkizler Aydınlanma Evi'ne doğru yolculuklarında bir yol ayrımına gelirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6fTXWzWPU8uqljCbKhF1J5qdWHU.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt7949218/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Aydınlanma Evi",
+                "overview": "İkizler Jerlamarel'le karşılaşır ve sonunda gerçeği keşfederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1yqnFbSZskNfIpqULdjmA2ruxzR.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt7949218/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Erkek ve Kız Kardeşler",
+                "overview": "Baba, Haniwa'yı ararken düşman topraklara girer. Kraliçe Kane yeni bir Payan başkenti seçer ve şaşırtıcı bir açıklama yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AeY8Oj7n0amXU5DKFIcyVbH9bW2.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt7949218/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Sonsuza Dek",
+                "overview": "Eski bir düşman Baba'yla yüz yüze gelir. Jerlamarel görmediği bir hayatı kabullenmekte zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/d3SfstpFPRJjD0mb8osLKKYVQ1T.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt7949218/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Pusula",
+                "overview": "Edo'nun liderliği sorgulanır. Baba ve Haniwa Pusula adıyla bilinen gizli bir savaşçılar kabilesiyle tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8nfqRoYnWATomOwQFkeJT9p9kxx.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt7949218/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Cadı Avcısı",
+                "overview": "Maghra hayatını değiştirecek bir karar alırken Kofun ve Kurbağa Pennsa'ya varır. Baba, Paris ve Haniwa güvendikleri bir dostlarıyla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nEpfNIdIY2Qmjf8weq6Gm35RdfT.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt7949218/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Yemek Daveti",
+                "overview": "Baba ve ailesi sonunda birbirine kavuşur ama kraliçenin planlarını öğrenen Baba'nın sevinci kursağında kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hUrDDzcx3WKjJD4o7itMuxgZ195.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt7949218/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Tek Boynuzlar Hakkındaki Gerçek",
+                "overview": "Maghra, Lort Harlan ve Baba barış zirvesine gider. Haniwa, Paris'in gördükleri konusunda onları uyarır. Kraliçeyle Kofun günü beraber geçirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vqN8j3m8tyRYfGSJCazkWm9KAya.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt7949218/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Kraliçenin Konuşması",
+                "overview": "Kraliçe Kane'in ihaneti Maghra'yı köşeye sıkıştırır. Kofun üzücü bir haber alır. Barışı sağlamak için Haniwa Wren'e son bir kez yalvarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/16z9I068CbNtD9ux4etfaZXswGt.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt7949218/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Ninni",
+                "overview": "Baba ve Edo, ordularını kardeşler arasında yoğun bir yüzleşmeyle sonuçlanacak olan destansı bir savaşa sürer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r5NgxarUrc2KYr8MAIacokIkU4S.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt7949218/s2/e08"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Büyük Başın Derdi",
+                "overview": "Pennsa’da görenlere karşı nefret artarken Baba dağlardaki hayatı benimser. Trivantesli bir bilim insanı korkutucu yeni bir silah geliştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ch5fCayQtmswDBgA3OLhZVGx4QL.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt7949218/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Kurtlara Dikkat Et",
+                "overview": "Yıkıcı bir kaybın ardından Baba ailesini uyarmak için Pennsa’ya doğru yola çıkar. Maghra, Cadı Avcılarının kaderi hakkında düşünür. Wren, cüretkâr bir kaçış gerçekleştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cCbewuCwPln4QMsMAc5NImdVIC3.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt7949218/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Bu Ülke Senin Ülken",
+                "overview": "Wren, Pennsa’ya gelir ve Tormada’nın planları hakkındaki bilgisini paylaşır. Tamacti Jun, bir kez daha Cadı Avcılarının isyanını bastırmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qQejB64G459Kg7ak4DARi0CR7Xw.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt7949218/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Fırtına",
+                "overview": "Tormada yeni silahını Üçgen’e sunarken Baba, Tormada’nın cephaneliğini yok etmek için Aydınlanma Evi’ne giden bir gruba liderlik eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bh9TMojjAxg94SqVxNnY4KmXhiB.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt7949218/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Aydınlanma Evi",
+                "overview": "Aydınlanma Evi’nde tarafların yenişememesi, Baba’nın grubuyla Tormada’nın askerleri arasında kanlı bir kuşatmaya yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7P3QDiKud1YkNFncIZmwCJCiXrs.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt7949218/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Ova",
+                "overview": "Baba ve grubu Pennsa’ya ulaşmak için ovadaki tehlikeli bir kestirme yolu kullanırlar. Maghra ve Tamacti Jun, dehşet verici bir keşifte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bS88sDCeRRwK3aDdGaTqzp5et94.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt7949218/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Gürleyen Tanrı",
+                "overview": "Tormada ve Sibeth, Pennsa’ya şiddetli bir saldırı düzenleyince Maghra ve şehir sakinlerinin hayatı tehlikeye düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i2qfTBHwvkF5IiPIx6yejvrIbyg.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt7949218/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Seni Görüyorum",
+                "overview": "Sibeth ve Tormada’yı kesin olarak durdurmaya karar veren Baba ve Ranger, Sibeth’in kampına sızar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u4swkZb3iwKxwaEYoZGFjl3iHhB.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt7949218/s3/e08"
+            }
+        ],
+        "update_date": "2026-02-15 19:19:08"
+    },
+    {
+        "id": 95480,
+        "imdb_id": "tt5875444",
+        "name": "Slow Horses",
+        "original_name": "Slow Horses",
+        "overview": "Bu zekice yazılmış casus hikâyesinde, İngiltere'yi uğursuz güçlerden korumak için casusluk dünyasının kandırmacaları arasında gezinen işlevsiz bir MI5 ajanları ekibini ve iğrenç patronları, kötü şöhretli Jackson Lamb'ı izliyoruz.",
+        "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+        "year": "2022",
+        "rating": 8.0,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Apple TV"
+        ],
+        "cast": [
+            {
+                "name": "Gary Oldman",
+                "role": "Jackson Lamb",
+                "image": "https://image.tmdb.org/t/p/w200/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+            },
+            {
+                "name": "Jack Lowden",
+                "role": "River Cartwright",
+                "image": "https://image.tmdb.org/t/p/w200/3wSE6uHLkslE9xvRiMbnphuI0VK.jpg"
+            },
+            {
+                "name": "Kristin Scott Thomas",
+                "role": "Diana Taverner",
+                "image": "https://image.tmdb.org/t/p/w200/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg"
+            },
+            {
+                "name": "Saskia Reeves",
+                "role": "Catherine Standish",
+                "image": "https://image.tmdb.org/t/p/w200/dTzb4BHZ9T9O2kNgNgTuMtGQ8rB.jpg"
+            },
+            {
+                "name": "Christopher Chung",
+                "role": "Roddy Ho",
+                "image": "https://image.tmdb.org/t/p/w200/wV4r6tVjP9Prk2acj7bYTmdtaMF.jpg"
+            },
+            {
+                "name": "Aimee-Ffion Edwards",
+                "role": "Shirley Dander",
+                "image": "https://image.tmdb.org/t/p/w200/iwk8yjyWd46R5BFAYQLImFUvlHh.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Başarısızlık Bulaşıcıdır",
+                "overview": "River Cartwright, MI5'ten atılır ve kendini araftan beter bir yerde bulur: Başarısız casusların atıldığı Iskarta Bürosunda.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hLDT28rK6YwWHwuIQAgEHfgMjEw.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt5875444/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "İş Yeri İçkileri",
+                "overview": "River ve Sid güç birliği yapar. Yanlış ateşlenen bir silah vahim sonuçlar doğurur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lAYmAPrr8WFUknwVvc2vVSliBtO.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt5875444/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Mesleki Hata",
+                "overview": "Iskarta Bürosu gizli bir romantizm için alışılmadık bir mekândır, ancak tehlikeli bir karşılaşma ölümcül biçimde sonuçlanınca olaylar karanlık bir hâl alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7JU302Tf3afLyn0m6ENQwkzhWzw.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt5875444/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Ziyaret Saatleri",
+                "overview": "Taverner, Tazıları, Lamb ve Iskartaları avlamaları için yollar. Ekibi kurtarmanın sırrı River'dadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iwD7NKfSLK7wbl9Psrkl1JryHnh.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt5875444/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Fiyasko",
+                "overview": "Iskartalar MI5 tarafından yakalanmamak için ortadan kaybolmak zorundadır. Lamb ve River, Taverner'ı alt etmek için Regent Park'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r1h2s5XoPnYObXa4fLQBMzPQ7ws.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt5875444/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Ahmaklıklar",
+                "overview": "Taverner ve Iskartalar, Hassan'ı ve onu kaçıranları bulmak için farklı yöntemler dener. Ho, Sid hakkında şoke edici bir keşifte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kvavIgDPCRiKHDbFHhjiuGjiwE2.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt5875444/s1/e06"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Son Durak",
+                "overview": "Jackson Lamb, eski bir casusun ölü bulunmasının ardından alarma geçer. Iskarta Bürosu dışından gelen bir teklif Min ve Louisa'yı cezbeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/henDWWSmXd0Crdb6YnocCxejO0m.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt5875444/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Upshott'tan Sevgilerle",
+                "overview": "Lamb, hazır bekleyen ajanlara dair ipucu verebilecek bir Rus sığınmacıyla bağlantı kurar. River, acımasız bir suikastçının peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6EH3YmOXblz91dw6H64ZcHpy2H5.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt5875444/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "İçki Oyunları",
+                "overview": "River, hazır bekleyen bir ajanı ararken Cotswolds'da keyif çatar. Min, Rus içki oyunlarının hepsinden daha acımasız olduğunu keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wVV3QZ4S5vNEY6A67oTjPLtfImX.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt5875444/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Cicada",
+                "overview": "Louisa, Pashkin'e hamlesini yapar. Catherine, tehlikeli bir yabancıyla yüksek riskli satranç oynarken farklı türden hamleler yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wCnfdJi05f5GCSNu3GJmOStJPGM.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt5875444/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Yönetim Kurulu Odası Siyaseti",
+                "overview": "Lamb, Iskartalarına tuzaklara düşmelerini emreder. River, endişe verici bir şeyin Londra'ya doğru gittiğine inanmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bn7PfRXevaN9EEvaK5f9sAdEwMX.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt5875444/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Eski Hesaplar",
+                "overview": "Lamb ve Katinsky mücadele eder. Ho, kendisini bir Rus suikastçıyla birlikte bir trende kapana kısılmış olarak bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j7NQIxyVruZtOm8i6Q3FjS08OUy.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt5875444/s2/e06"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Tuhaf Oyunlar",
+                "overview": "İstanbul'daki romantik bir ilişki kötü biçimde biter. Lamb, Iskartalarından biri işe gelmeyince panik düğmesine basar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nWn7Ge7GXBhCORXVpy3Pl9imjRX.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt5875444/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Zor Dersler",
+                "overview": "River bir hayat kurtarmak için Park'tan bir şey çalmak zorundadır. Lamb daha tuhaf bir oyunun başladığını fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e61whgtD9wIueSh12qyLc7NAUep.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt5875444/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Kaplanlarla Pazarlık",
+                "overview": "Marcus ve Shirley, Lamb'in gazabına maruz kalır. River intikamın soğuk yenen bir yemek olduğunu keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ptSHuyxEcB02tZeIEq0F0yrWN6.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt5875444/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Davetsiz Misafirler",
+                "overview": "Tearney cesur bir hamle yapar. Iskartalar, gizli gündemlerinden habersiz oldukları Kaplan Timi'ne yardım eder. Lamb ve Ho bir yolculuğa çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ulhLXCvPBAnYDuUglWXqZxok13t.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt5875444/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Temizlik",
+                "overview": "Taverner ve Tearney, MI5'ın kontrolü için karşı karşıya gelir. River ve Louisa kendilerini çapraz ateşin ortasında bulurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g7xl5ZrQgS85gW3bO2yXnNs7gMM.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5875444/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Ayak İzleri",
+                "overview": "Iskartalar hayatları için savaşır. Lamb, Catherine'le bazı korkunç gerçekleri paylaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xKgue6UIjF0gRnBsWIzDSAHTSAj.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5875444/s3/e06"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Kimlik Hırsızlığı",
+                "overview": "Londra'daki bir bombalama olayı Taverner'ı baskı altına alır. River büyükbabası için endişelenmeye başlayınca Louisa onu ziyarete gitmesi için cesaretlendirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bdoqC55STyd3xofF7mDTqGrKL11.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt5875444/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Kasabaya Bir Yabancı Gelir",
+                "overview": "Saf bir ajan Westacres bombacısı hakkında bir keşifte bulunur. Lamb, David'in, anlattığından daha fazlasını bildiğinden şüphelenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/riuPXYv9UzMumjVyapTOsxGUcL4.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt5875444/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Ne Düşünüyorsun?",
+                "overview": "River Fransa'da kapana kısılmıştır. Iskarta Bürosu'ndaysa Tazılar Lamb için gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mTqJARAvBa9Weq7R9SndwMdDAGX.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt5875444/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "Dönüşler",
+                "overview": "Taverner tehlikeli sırları saklama konusunda çaresizdir. River büyükbabasının evinde cevaplar arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3EUao8vitbNtkP4qb3W5cCM9YGB.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt5875444/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Büyük Tehlike",
+                "overview": "River düşmanla yüz yüze gelirken Lamb, David'e Fransa hakkında sorular sorar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tPnfMkUXU7H4aWQdakuN8gC7H6q.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt5875444/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Merhaba Elveda",
+                "overview": "Zor kararlarla yüzleşilir ve fedakârlıklar yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1fFCTMjrWyg0VUNbo6j8JFnmzVi.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt5875444/s4/e06"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "Kötü Tarihler",
+                "overview": "Londra'yı sarsan bir toplu silahlı saldırı, gergin belediye başkanlığı yarışını daha da alevlendirir. Shirley, Iskartalar'dan birinin hedef alınmış olabileceğine inanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qE61tCQ8u1n0G1zi4GO42nrgW5Q.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt5875444/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "İletişimsizlik",
+                "overview": "Lamb bir suikastçıyı yakalar. Taverner, Abbotsfield saldırısıyla ilgili önemli bir istihbarat alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pqYIYtIYDfWYVXbAJh4cbayy1V2.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt5875444/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "Abartılı Hikâyeler",
+                "overview": "Bir sabotaj eylemi Londra'yı durma noktasına getirir. Taverner, Roddy'yi sorgular. Coe, bir istikrarsızlaştırma stratejisinin devrede olduğuna inanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/c4gbt7hDg6gJni52j9ChQFPon8E.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt5875444/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "Füzeler",
+                "overview": "Flyte, Roddy'nin kız arkadaşını bulmak için yola çıkar. Ekip, yeni bir saldırıyı önlemek üzere iki farklı seçim kampanyası etkinliğine gönderilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pohbbnImWScFAE55SUrqe2UdOfn.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt5875444/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "Sirk",
+                "overview": "Lamb, River ve Coe'yu sorgular. İstikrarsızlaştırma stratejisi son aşamasına yaklaşırken Roddy, bir kodu çözmek için göreve çağrılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f1rUTzqanS6rRv1gyahuS0yFB8N.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt5875444/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "Yaralar",
+                "overview": "Son bir büyük katliam gerçekleştirmeye çalışan Farouk'un ekibini durdurmak Iskartalar'a düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dPEWltoCYwpAddG3xDUD3ebLW9w.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5875444/s5/e06"
+            }
+        ],
+        "update_date": "2026-02-15 16:43:45"
+    },
+    {
         "id": 221079,
         "imdb_id": "tt26862142",
         "name": "The Last Frontier",

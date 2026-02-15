@@ -2,22 +2,265 @@
     "id": 70523,
     "imdb_id": "tt5753856",
     "name": "Dark",
+    "original_name": "Dark",
+    "overview": "Bir çocuğun kaybolması, dört aileyi hummalı bir cevap arayışına iter. Bu arayışları, üç nesli kapsayan akıl almaz bir gizemi ortaya çıkarmalarına neden olur.",
     "poster": "https://image.tmdb.org/t/p/w500/7yQyDCqSazrYTnmxdQLAZ8YDH87.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2VpSajCTI26zddsp5cSjqfCBKEa.jpg",
     "year": "2017",
+    "rating": 8.4,
     "genres": [
         "Suç",
         "Dram",
         "Bilim Kurgu & Fantazi",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Louis Hofmann"
+        {
+            "name": "Louis Hofmann",
+            "role": "Jonas Kahnwald",
+            "image": "https://image.tmdb.org/t/p/w200/v6SJbgkWOP2xEV2nhHD8m6BPtFT.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Sırlar",
+            "overview": "2019'da kasabalı bir oğlanın kaybolması, tuhaf ve trajik bir geçmişe sahip olan küçük Alman kasabası Winden'ın sakinleri arasında korkuya neden olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ljQC5U5Ag86vRylCR5gmf78fVaS.jpg",
+            "vote_average": 7.9,
             "link": "https://vidmody.com/vs/tt5753856/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Yalanlar",
+            "overview": "Umut kırıcı bir keşif polisin şaşkınlık yaşamasına yol açtığında Ulrich, elektrik santrali için arama emri çıkarmaya çalışır. Gizemli bir yabancı, otele giriş yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oFTNaNwF1g0GCQPTXgHviixMCDM.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt5753856/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Geçmiş ve Günümüz",
+            "overview": "1986'da Ulrich'in kardeşi Mads, bir aydır kayıptır. Geçmiş ve şimdiki zamanın iç içe geçmesi, kafa karışıklığının hüküm sürmesine yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/86XR5D6BVpYGRKO5qu1mRLY8EM2.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt5753856/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Çifte Yaşamlar",
+            "overview": "Tuhaf olaylar nedeniyle dejavu hissi yaşayan Charlotte, Peter'in bir şeyler sakladığından şüphelenir. Magnus karşısına dikildiğinde Franziska sinirden köpürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eH3NmNsMv5uNygAn57uOBS3wHqB.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt5753856/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Gerçekler",
+            "overview": "Hannah'nın Ulrich'e karşı duyduğu takıntı aşırıya kaçar. Bir yabancı, Regina'dan önemli bir paketi teslim etmesini ister. Martha, Jonas ve Bartosz'un arasında kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/piwRYraJ1jUE8pcuQJfWPgs6hdy.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt5753856/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Sic Mundus Creatus Est",
+            "overview": "Yanıtları bulmak için geçmişe bakan Ulrich, rahatsız edici aile sırlarını araştırmaya başlar. Yeni araçlarla donanan Jonas, mağaranın karanlık derinliklerini araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b29shl2dzHgCclnKgk7xXQQ2qC.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt5753856/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Yol Ayrımı",
+            "overview": "Ulrich, huzurevinde yaşayan kırılgan ve korkmuş Helge'yi sorgular. Jonas, Mikkel'i arar, ancak yabancı onu geçmişe burnunu sokmaması konusunda uyarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uiVy4inmid0dvTAAj6g3QjOTO19.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt5753856/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Ne Ekersen Onu Biçersin",
+            "overview": "1953'te iki oğlanın biçimsiz cesetleri inşaat alanından çıkarılır. Gelecekte bu konumda Winden'ın nükleer santrali yükselecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pgRyuIwDfrTrDj02IjajEz4pKwv.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt5753856/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Her Şey, Şimdi",
+            "overview": "Ulrich kanunla ters düşer. Helge, Egon Tiedemann'ı atlatmaya çalışır. Claudia mağaranın güçlerinden yararlanır. Katharina, Hannah'ya tepki gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Po2UkodniCiksyJT4sLLky4dEz.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt5753856/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Alfa ve Omega",
+            "overview": "Peter, büyük bir şaşkınlık yaşar. Jonas, ailesiyle ilgili gerçeği öğrenir, ancak onu bekleyen başka sürprizler de vardır. Helge, bir fedakârlıkta bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9oZjmjudW8bCyhhIOfiacYsTgx0.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt5753856/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Başlangıçlar ve Bitişler",
+            "overview": "Çocukların kaybolmasından altı ay sonra polis, bir görev timi kurar. 2052'de Jonas, Winden'dakilerin büyük kısmının feci bir olayda can verdiğini öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vMNgEJ1jAZHKRa5BFMOMEf2chCD.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt5753856/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Karanlık Madde",
+            "overview": "Clausen ve Charlotte, Regina'yı sorguya çeker. Yabancı, Hannah'yı Claudia'nın sinir bozucu bir karşılaşma yaşadığı ve Egon'un eski bir düşmanını gördüğü 1987'ye götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jCcXjvvWUacYUGgCx4Shm3ZDU4N.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt5753856/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Hayaletler",
+            "overview": "1954'te, kayıp Helge geri gelir ama sadece Noah'yla konuşacaktır. 1987'de, Claudia zaman makinesini Tannhaus'a götürür ve Egon tekrar Ulrich'i sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cl9JapS68DjSZ9EaUkFQtmpcqXV.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt5753856/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Yolcular",
+            "overview": "Jonas kaygı verici biriyle tanışır. Çocuklar cevap bulmak için mağarayı ararken yetişkinler, yolcular hakkında bildiklerini paylaşmak için sığınakta toplanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hkOx4uLxTzcEOzznZq5qF2l1imY.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt5753856/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Kaybolanlar ve Bulunanlar",
+            "overview": "1987'de Ulrich bir fırsatı değerlendirir. Çocuklar zaman makinesiyle mağaraya döner. Jonas, geleceği değiştirebilecek bir yol keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/siAOyAoWhLhRuYIamOTchNA8aWn.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt5753856/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Sonsuz Döngü",
+            "overview": "Kıyameti önleyecek bir plan yapan Jonas, 2019'a gider. Ulrich, Nielsen'ların evlilik yıl dönümü partisinden Hannah'yla birlikte gizlice ayrılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pz9UeyasJ5NuIuQBqx1vZqlXO6V.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt5753856/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Beyaz Şeytan",
+            "overview": "Martha, Yabancı'yla tanışır ve asıl kimliğini öğrenir. Claudia, 1987'de Egon'un ölümünü önlemeye çalışır. Hannah, Ulrich'i görmek için 1954'e gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sK3fPLNisFr6CJicjlZw0KLQvHF.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt5753856/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Bitişler ve Başlangıçlar",
+            "overview": "Kıyamet günü Jonas ve Claudia, geçmiş ve geleceği birleştirmek için zaman makinesini kullanırken, Clausen enerji santralinde arama emrini yerine getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/acB8hIIGrG2XNTbXAfhwf3oMX7D.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt5753856/s2/e08"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Dejavu",
+            "overview": "2019'da Jonas, mağaradan çıktığında tuhaf ancak tanıdık bir dünya ile karşılaşır: Winden kasabası, yakın zamanda küçük bir çocuğun ortadan kaybolmasıyla sarsılmıştır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fAXoC9NOj4yYCXJpgVOxIZRPT2q.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt5753856/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Sağ Kalanlar",
+            "overview": "Martha, arkadaşlarını 2020'de yaşanacak felaket hakkında uyarmak için 1888'e gider. Geçmişteki ve günümüzdeki Winden sakinleri, ortadan kaybolan sevdiklerini arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rXAWKz0ZLJdvurlOPl87Y5n3EKp.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt5753856/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Adem ile Havva",
+            "overview": "Charlotte ve Ulrich, sığınakta neler olduğunu anlamak için uğraşır. Farklı zamanlarda ve dünyalardaki Jonas ve Martha, birbirlerinin güvenini kazanmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6SnOR7QdSiZqQ69Myc7Mkm0hsED.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt5753856/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Köken",
+            "overview": "Martha ve Jonas 2052'ye gidip karanlık geleceğe göz atar. 1954'te, iki Winden sakini ortadan kaybolur ve Hannah sürpriz bir haber alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x8jyUkb4RCPn7lVGfjrTkz1pWaa.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt5753856/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Yaşam ve Ölüm",
+            "overview": "2020'de, bir ziyaretçi Claudia'yı uyarmaya gelir. Kıyametten bir önceki gün Jonas, Eva'nın niyetini sorgulamaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hKrDjji8Rk1KZIaVMU7pNmtKFDf.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt5753856/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Işık ve Gölge",
+            "overview": "Adam, Martha'yı tutsak eder. Kıyamet gününde giderek daha fazla çılgına dönen Martha, Bartosz'a ona yardım etmesi için yalvarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vgUjwl8EApRky3NpReVrxCiG9Nz.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt5753856/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Zamanlar Arasında",
+            "overview": "Winden sakinleri, üç yüzyıla yayılan serüvenlerinde kaderlerini değiştirmek ve sevdiklerini kurtarmak için umutsuz arayışlarına devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5VargXK0pGtNyXHbAqTxqfSOY6d.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt5753856/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Cennet",
+            "overview": "Claudia, Adam'a her şeyin nasıl birbiriyle bağlantılı olduğunu ve bu düğümü nasıl çözebileceğini açıklar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pvPrpHjJbO6TcnBZ7OIiG39dx9X.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt5753856/s3/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 16:33:55"
 }

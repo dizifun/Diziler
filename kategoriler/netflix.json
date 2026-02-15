@@ -1,5 +1,1088 @@
 [
     {
+        "id": 70523,
+        "imdb_id": "tt5753856",
+        "name": "Dark",
+        "original_name": "Dark",
+        "overview": "Bir çocuğun kaybolması, dört aileyi hummalı bir cevap arayışına iter. Bu arayışları, üç nesli kapsayan akıl almaz bir gizemi ortaya çıkarmalarına neden olur.",
+        "poster": "https://image.tmdb.org/t/p/w500/7yQyDCqSazrYTnmxdQLAZ8YDH87.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2VpSajCTI26zddsp5cSjqfCBKEa.jpg",
+        "year": "2017",
+        "rating": 8.4,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Bilim Kurgu & Fantazi",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Louis Hofmann",
+                "role": "Jonas Kahnwald",
+                "image": "https://image.tmdb.org/t/p/w200/v6SJbgkWOP2xEV2nhHD8m6BPtFT.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Sırlar",
+                "overview": "2019'da kasabalı bir oğlanın kaybolması, tuhaf ve trajik bir geçmişe sahip olan küçük Alman kasabası Winden'ın sakinleri arasında korkuya neden olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ljQC5U5Ag86vRylCR5gmf78fVaS.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Yalanlar",
+                "overview": "Umut kırıcı bir keşif polisin şaşkınlık yaşamasına yol açtığında Ulrich, elektrik santrali için arama emri çıkarmaya çalışır. Gizemli bir yabancı, otele giriş yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oFTNaNwF1g0GCQPTXgHviixMCDM.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Geçmiş ve Günümüz",
+                "overview": "1986'da Ulrich'in kardeşi Mads, bir aydır kayıptır. Geçmiş ve şimdiki zamanın iç içe geçmesi, kafa karışıklığının hüküm sürmesine yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/86XR5D6BVpYGRKO5qu1mRLY8EM2.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Çifte Yaşamlar",
+                "overview": "Tuhaf olaylar nedeniyle dejavu hissi yaşayan Charlotte, Peter'in bir şeyler sakladığından şüphelenir. Magnus karşısına dikildiğinde Franziska sinirden köpürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eH3NmNsMv5uNygAn57uOBS3wHqB.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Gerçekler",
+                "overview": "Hannah'nın Ulrich'e karşı duyduğu takıntı aşırıya kaçar. Bir yabancı, Regina'dan önemli bir paketi teslim etmesini ister. Martha, Jonas ve Bartosz'un arasında kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/piwRYraJ1jUE8pcuQJfWPgs6hdy.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Sic Mundus Creatus Est",
+                "overview": "Yanıtları bulmak için geçmişe bakan Ulrich, rahatsız edici aile sırlarını araştırmaya başlar. Yeni araçlarla donanan Jonas, mağaranın karanlık derinliklerini araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b29shl2dzHgCclnKgk7xXQQ2qC.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Yol Ayrımı",
+                "overview": "Ulrich, huzurevinde yaşayan kırılgan ve korkmuş Helge'yi sorgular. Jonas, Mikkel'i arar, ancak yabancı onu geçmişe burnunu sokmaması konusunda uyarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uiVy4inmid0dvTAAj6g3QjOTO19.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Ne Ekersen Onu Biçersin",
+                "overview": "1953'te iki oğlanın biçimsiz cesetleri inşaat alanından çıkarılır. Gelecekte bu konumda Winden'ın nükleer santrali yükselecektir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pgRyuIwDfrTrDj02IjajEz4pKwv.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Her Şey, Şimdi",
+                "overview": "Ulrich kanunla ters düşer. Helge, Egon Tiedemann'ı atlatmaya çalışır. Claudia mağaranın güçlerinden yararlanır. Katharina, Hannah'ya tepki gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7Po2UkodniCiksyJT4sLLky4dEz.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Alfa ve Omega",
+                "overview": "Peter, büyük bir şaşkınlık yaşar. Jonas, ailesiyle ilgili gerçeği öğrenir, ancak onu bekleyen başka sürprizler de vardır. Helge, bir fedakârlıkta bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9oZjmjudW8bCyhhIOfiacYsTgx0.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5753856/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Başlangıçlar ve Bitişler",
+                "overview": "Çocukların kaybolmasından altı ay sonra polis, bir görev timi kurar. 2052'de Jonas, Winden'dakilerin büyük kısmının feci bir olayda can verdiğini öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vMNgEJ1jAZHKRa5BFMOMEf2chCD.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt5753856/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Karanlık Madde",
+                "overview": "Clausen ve Charlotte, Regina'yı sorguya çeker. Yabancı, Hannah'yı Claudia'nın sinir bozucu bir karşılaşma yaşadığı ve Egon'un eski bir düşmanını gördüğü 1987'ye götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jCcXjvvWUacYUGgCx4Shm3ZDU4N.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt5753856/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Hayaletler",
+                "overview": "1954'te, kayıp Helge geri gelir ama sadece Noah'yla konuşacaktır. 1987'de, Claudia zaman makinesini Tannhaus'a götürür ve Egon tekrar Ulrich'i sorgular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cl9JapS68DjSZ9EaUkFQtmpcqXV.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt5753856/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Yolcular",
+                "overview": "Jonas kaygı verici biriyle tanışır. Çocuklar cevap bulmak için mağarayı ararken yetişkinler, yolcular hakkında bildiklerini paylaşmak için sığınakta toplanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hkOx4uLxTzcEOzznZq5qF2l1imY.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt5753856/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Kaybolanlar ve Bulunanlar",
+                "overview": "1987'de Ulrich bir fırsatı değerlendirir. Çocuklar zaman makinesiyle mağaraya döner. Jonas, geleceği değiştirebilecek bir yol keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/siAOyAoWhLhRuYIamOTchNA8aWn.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5753856/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Sonsuz Döngü",
+                "overview": "Kıyameti önleyecek bir plan yapan Jonas, 2019'a gider. Ulrich, Nielsen'ların evlilik yıl dönümü partisinden Hannah'yla birlikte gizlice ayrılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pz9UeyasJ5NuIuQBqx1vZqlXO6V.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt5753856/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Beyaz Şeytan",
+                "overview": "Martha, Yabancı'yla tanışır ve asıl kimliğini öğrenir. Claudia, 1987'de Egon'un ölümünü önlemeye çalışır. Hannah, Ulrich'i görmek için 1954'e gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sK3fPLNisFr6CJicjlZw0KLQvHF.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt5753856/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Bitişler ve Başlangıçlar",
+                "overview": "Kıyamet günü Jonas ve Claudia, geçmiş ve geleceği birleştirmek için zaman makinesini kullanırken, Clausen enerji santralinde arama emrini yerine getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/acB8hIIGrG2XNTbXAfhwf3oMX7D.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt5753856/s2/e08"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Dejavu",
+                "overview": "2019'da Jonas, mağaradan çıktığında tuhaf ancak tanıdık bir dünya ile karşılaşır: Winden kasabası, yakın zamanda küçük bir çocuğun ortadan kaybolmasıyla sarsılmıştır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fAXoC9NOj4yYCXJpgVOxIZRPT2q.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt5753856/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Sağ Kalanlar",
+                "overview": "Martha, arkadaşlarını 2020'de yaşanacak felaket hakkında uyarmak için 1888'e gider. Geçmişteki ve günümüzdeki Winden sakinleri, ortadan kaybolan sevdiklerini arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rXAWKz0ZLJdvurlOPl87Y5n3EKp.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt5753856/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Adem ile Havva",
+                "overview": "Charlotte ve Ulrich, sığınakta neler olduğunu anlamak için uğraşır. Farklı zamanlarda ve dünyalardaki Jonas ve Martha, birbirlerinin güvenini kazanmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6SnOR7QdSiZqQ69Myc7Mkm0hsED.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt5753856/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Köken",
+                "overview": "Martha ve Jonas 2052'ye gidip karanlık geleceğe göz atar. 1954'te, iki Winden sakini ortadan kaybolur ve Hannah sürpriz bir haber alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/x8jyUkb4RCPn7lVGfjrTkz1pWaa.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt5753856/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Yaşam ve Ölüm",
+                "overview": "2020'de, bir ziyaretçi Claudia'yı uyarmaya gelir. Kıyametten bir önceki gün Jonas, Eva'nın niyetini sorgulamaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hKrDjji8Rk1KZIaVMU7pNmtKFDf.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5753856/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Işık ve Gölge",
+                "overview": "Adam, Martha'yı tutsak eder. Kıyamet gününde giderek daha fazla çılgına dönen Martha, Bartosz'a ona yardım etmesi için yalvarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vgUjwl8EApRky3NpReVrxCiG9Nz.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt5753856/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Zamanlar Arasında",
+                "overview": "Winden sakinleri, üç yüzyıla yayılan serüvenlerinde kaderlerini değiştirmek ve sevdiklerini kurtarmak için umutsuz arayışlarına devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5VargXK0pGtNyXHbAqTxqfSOY6d.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt5753856/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Cennet",
+                "overview": "Claudia, Adam'a her şeyin nasıl birbiriyle bağlantılı olduğunu ve bu düğümü nasıl çözebileceğini açıklar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pvPrpHjJbO6TcnBZ7OIiG39dx9X.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt5753856/s3/e08"
+            }
+        ],
+        "update_date": "2026-02-15 16:33:55"
+    },
+    {
+        "id": 71912,
+        "imdb_id": "tt5180504",
+        "name": "The Witcher",
+        "original_name": "The Witcher",
+        "overview": "Mutasyona uğramış bir canavar avcısı olan Rivyalı Geralt, insanların çoğunlukla yaratıklardan daha uğursuz olduğu, karmaşa içindeki bir dünyada kaderine doğru yol alıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+        "year": "2019",
+        "rating": 7.9,
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Liam Hemsworth",
+                "role": "Geralt of Rivia",
+                "image": "https://image.tmdb.org/t/p/w200/7UIm9RoBnlqS1uLlbElAY8urdWD.jpg"
+            },
+            {
+                "name": "Anya Chalotra",
+                "role": "Yennefer of Vengerberg",
+                "image": "https://image.tmdb.org/t/p/w200/gq0RpJ2Y5kHOFMbUWHIc60xCZrd.jpg"
+            },
+            {
+                "name": "Freya Allan",
+                "role": "Princess Cirilla 'Ciri' of Cintra",
+                "image": "https://image.tmdb.org/t/p/w200/8RuLG2mePw8YgFNUjWROBuxMrwT.jpg"
+            },
+            {
+                "name": "Joey Batey",
+                "role": "Jaskier / The Sandpiper",
+                "image": "https://image.tmdb.org/t/p/w200/4uo4JPaK6KpdN7v8C1pbwKpNVJU.jpg"
+            },
+            {
+                "name": "Eamon Farren",
+                "role": "Cahir",
+                "image": "https://image.tmdb.org/t/p/w200/f4EX93f9MRCfjJc4kKAKqVqRsUW.jpg"
+            },
+            {
+                "name": "Mimî M. Khayisa",
+                "role": "Fringilla Vigo",
+                "image": "https://image.tmdb.org/t/p/w200/kfwWaxcovzkahqDDhhJwPrGbnny.jpg"
+            },
+            {
+                "name": "Anna Shaffer",
+                "role": "Triss Merigold",
+                "image": "https://image.tmdb.org/t/p/w200/te5rydQcq4v5m6Y8CVUT430rh1C.jpg"
+            },
+            {
+                "name": "Mahesh Jadu",
+                "role": "Vilgefortz of Roggeveen",
+                "image": "https://image.tmdb.org/t/p/w200/pugsskE62XbyYRruJk8KGk3JVdC.jpg"
+            },
+            {
+                "name": "张梦儿",
+                "role": "Milva",
+                "image": "https://image.tmdb.org/t/p/w200/lOJ0EIjNybCDT6J3ZLMDnqpoDXD.jpg"
+            },
+            {
+                "name": "Danny Woodburn",
+                "role": "Zoltan Chivay",
+                "image": "https://image.tmdb.org/t/p/w200/wmxPxtUWPr7Vux9nsYpFPRGDlWM.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Sonun Başlangıcı",
+                "overview": "Geralt'ı Blaviken kasabasında düşmanca davranan ahali ve kurnaz bir büyücü karşılar. Nilfgaard'ın gözlerini Cintra'ya dikmesiyle Ciri'nin kraliyet yaşantısı altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kvnbgfKMSOeq08gWeL7FrzT0mah.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt5180504/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Dört Altın",
+                "overview": "Zorbalığa uğrayan ve ihmal edilen Yennefer, şans eseri bir kaçış yolu bulur. Sözde bir şeytanı avlayan Geralt'ın işleri yolunda gitmez. Ciri kalabalık bir gruba sığınır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7KWyZgiSXSAuagbtzjTZLrkOtNk.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt5180504/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Hain Dolunay",
+                "overview": "Geralt, bir yaratığın rahatsız ettiği bir krallıkta başka bir Witcher'ın yarım bıraktığı işi üstlenir. Yennefer büyük bir bedel ödeyerek sihirli, yeni bir gelecek kurar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jiNkIfEOsKQNNc0roNmzZZ0VJVi.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt5180504/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Şölenler, Piçler ve Cenazeler",
+                "overview": "Geralt bunun iyi bir fikir olmadığını bile bile Jaskier'e bir kraliyet balosunda eşlik eder. Ciri büyülü bir ormana girer. Yennefer yanındakileri korumaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AfebvAOUQDaIy2TMmzhWk1ddZMJ.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt5180504/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Bastırılmış İstekler",
+                "overview": "Uyarılara kulak asmayan Yennefer, kaybettiği bir şeyi geri almak için çare arar. Geralt istemeden Jaskier'i tehlikeye atar. Ciri'yi arama çalışmaları yoğunlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/10yazSY4hMWfH8M48D7rhHVDvsA.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt5180504/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Nadir Türler",
+                "overview": "Gizemli bir adam, Geralt'ı bir ejderhayı yakalamak için yapılan ava katılmaya ikna etmeye çalışır. Bu av tanıdık bir simayı cezbeder. Ciri kime güvenebileceğini sorgular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1fmFzsVZSi0PPDc3yGvR3pllzPK.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt5180504/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Düşüşten Önce",
+                "overview": "Nilfgaard'ın yükselen gücü Kıta için tehlike oluştururken Yennefer, geride bıraktığı geçmişe göz atar. Geralt ise Şaşırma Hakkı'na ilişkin yükümlülüğünü gözden geçirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2HL6kDFLCVtcqRlqf8X4Ir6Huqw.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt5180504/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Çok Daha Fazlası",
+                "overview": "Geralt dehşet verici bir grup düşmandan saklanır. Yennefer ve diğer büyücüler direnmeye hazırlanır. Sarsılan Ciri, bir yabancının iyiliğine bel bağlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3MqMmcoRShLEylaVlCy97ziGWF0.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt5180504/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Ufak Bir Gerçeklik Payı",
+                "overview": "Geralt'ın Ciri ile çıktığı yolculuk onu eski bir dostuna götürür. Sodden Savaşı'nın ardından Tissaia bilgi almak uğruna hiç kimsenin gözünün yaşına bakmaz.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lRYwDG1Mu576iRJJ3sfzmm9rJTz.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt5180504/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Kaer Morhen",
+                "overview": "Ciri için güvenli bir yer arayan Geralt eve doğru yola çıkar, ancak onun için Kaer Morhen bile tehlikelerle doludur. Yennefer'ın rüyaları onu özgürlüğüne kavuşturabilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bD0fkV9hxxxjmQXWfjB1LZQ154s.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt5180504/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Kaybedilenler",
+                "overview": "Geralt'ın yöntemleriyle ilgili sabırsızlanan Ciri cesaretini kanıtlamak için büyük engellere meydan okur. Kardeşlik'in plan ve kuşkuları Yennefer'ı hedef hâline getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/N7qYLPhDxFdFYga4pDaJw1cCaJ.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt5180504/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Redanyalı Casuslar",
+                "overview": "Kaer Morhen'deki bir misafir Ciri'ye yol gösterir ve Geralt'a bir davette bulunur. Redanya'daki kaçak Yennefer yer altında güvenli bir sığınak arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wF4qk9RimFWr28ZC0nT4c6XuOdw.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt5180504/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Sırt Çevirmek",
+                "overview": "Kudretli bir büyücü Ciri'nin peşindeki güruha katılırken Ciri, olağanüstü bir şey keşfeden Vesemir ile bir anlaşma yapar. Geralt monolitlerin gizemini araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xPytQd9tDAxDoECXbNwbeR3Fi2h.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt5180504/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Sevgili Dostum...",
+                "overview": "Ciri'nin gücüyle ilgili bilgi almasına yardım eden Geralt yakın bir dostunu kaybeder ve başka bir dost bulur. Cahir asıl görevlerine odaklanması için Fringilla'yı uyarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/p0WVue8TDH4BCkgwUVpk93LKI4z.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt5180504/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Voleth Meir",
+                "overview": "Geralt, alçakgönüllü ozan dostundan yardım ister. Yennefer Ciri'nin ne kadar özel olduğunu anlar ve İmparator Emhyr'in Cintra'yı ziyaret edeceği gün gerilim tırmanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lVnEbnHgFr56xyj4Kpl41UYAzWB.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt5180504/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Aile",
+                "overview": "Ciri'nin peşinde olan Kıta'nın en güçlü oyuncuları takiplerine hız verirken Geralt en yakınındakileri ve en sevdiklerini hedef alan bir iblisle karşı karşıya gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qEfDFrmsF3L9EfnUkniXmEtXITm.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt5180504/s2/e08"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Shaerrawedd",
+                "overview": "Geralt, Yennefer ve Ciri, güvenli bir sığınak bulmak için Kıta'nın en ücra yerlerine kadar gider. Kral Vizimir, küçük erkek kardeşinden faydalanmaya karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e2acePDzVFczUGwO6qppdqjjnGu.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt5180504/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Ayrılma",
+                "overview": "Rience hakkında bilgi alan Geralt'ı korkunç bir şey beklemektedir. Ciri'nin adalet duygusu yüzünden sorunlar çıkar. Jaskier, bir prens için sahneye çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iNOfRFMLUab9Xt39U9ffWo5vLYM.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt5180504/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Yeniden Buluşma",
+                "overview": "Ciri ve Yennefer gelecekle ilgili planları konusunda çatışır. Geralt bir aile dostundan büyülü bir yardım ister. Philippa ve Dijkstra, Vizimir'i hizaya sokmak için plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kIymMMvcDSTasaRYPHX5QOrpLiK.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt5180504/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Davetiye",
+                "overview": "Yennefer, Kardeşlik'e cesur bir fikir sunar, Geralt bir kayıkçıyla riskli bir anlaşma yapar ve Triss, kayıp acemilerin gizemini araştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/s7qPoBctK678eoGrKLgkUgwTtfb.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt5180504/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "İllüzyon Sanatı",
+                "overview": "Kol kola giren Yennefer ve Geralt, gösterişli bir baloda çok şık bir şekilde boy gösterirler. Ancak eğlence ve sırlarla dolu bu gecede her şey göründüğü gibi değildir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ePpQeSYtWPZdyIOPCUTFQQqtsXU.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt5180504/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Yumruğu Yiyene Kadar Herkesin Bir Planı Vardır",
+                "overview": "Ciri'yi yakalama işi zıvanadan çıkınca meclis, ihanet ve katliamla sarsılır. Taraflar seçilirken ve düşmanların maskesi düşerken hiçbir şey eskisi gibi olmayacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jPc4g8j7zv70FQXbMEMsFaGyeLX.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt5180504/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Yağmurdan Kaçarken Doluya Tutulmak",
+                "overview": "Geçmişindeki yüzlerden bir türlü kurtulamayan Ciri, umutsuz bir yolculukta en zorlu koşullar altında hayatta kalmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nbTpbjnQ4eZVsaNjDAPFpZ6jzKv.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt5180504/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Kaosun Bedeli",
+                "overview": "Aretuza'da yaşanan vahim olayların ardından savaş Kıta'ya yaklaşmaktadır. Geralt ve Yennefer, iyileşmek ve ailelerini yeniden birleştirmek için çabalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aPPP9UjwgkqOhOOCCCeUqsHgByy.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt5180504/s3/e08"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Seni Öldürmeyen Şey Güçlendirir",
+                "overview": "Geralt, Ciri’yi Emhyr’in pençesinden kurtarmak için yola çıkar ama Ciri'nin gerçek kaderinden bihaberdir. Vilgefortz'un sıkıştırdığı Yennefer, onun planını açığa çıkarmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ihhPrHJhamp5iGu6LACWMzTT94r.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt5180504/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Gerçekleşen Dileğin Rüyası",
+                "overview": "Ciri, bir soygun sırasında kendini kanıtlama fırsatı bulur. Geralt beklenmedik bir müttefik kazanırken Yennefer da sığınmak üzere Montecalvo'ya gittiğinde aynısını yaşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ciupzVmgLZ1RLvQQklgxSNmUANY.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt5180504/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Zorlu Yargı",
+                "overview": "Cadıların yargılanmasına denk gelen Geralt, arayışından uzaklaşmak durumunda kalır. Ciri, yeni hayatının karanlığına dalar. Yennefer yanına yeni birilerini daha toplar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vFD8IIbPT6xeNZVeajxLeHrybOu.jpg",
+                "vote_average": 4.9,
+                "link": "https://vidmody.com/vs/tt5180504/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "Hayatta Kalmaya Dair Bir Vaaz",
+                "overview": "Yennefer kararlılığını yitirmeye başlar. Ciri, gerçek kimliğini Mistle’a açar. Geralt kendini Dijkstra’nın insafına kalmış hâlde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yTKE8PmQy4lm1gHgobnoxIGq3WK.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt5180504/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Yemek Yapmanın Keyfi",
+                "overview": "Nehirden geçmeden önce soluklanmak isteyen Geralt ve yol arkadaşları, birbirlerine hikâyeler anlatıp şarkılar söylerken şoke edici bir gerçek açığa çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3W2bfQn2grrCaXUVsC88ACH6Ana.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt5180504/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Kurdun Sonbaharı",
+                "overview": "Çaresiz kalan Yennefer, acemilerle birlikte Vilgefortz’un ordusuna karşı ölümcül bir savaşa girer. Bu sırada tehlikeli bir düşman, Ciri’nin kokusunu alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v48IboEhWLnMYUkwwsbIYXtz6tI.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt5180504/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "Sevdiğimi Karnımda Taşımam",
+                "overview": "Tehlikeli bataklıklardan geçen bir yürüyüş, Geralt’ı rahatsız edici görülerle karşı karşıya bırakır. Emhyr, mutlak gücü elde edebilmek için ne yapması gerektiğini keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4I1DRflZglLFDZxlwjH5qIIIsIz.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt5180504/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "Ateşle İmtihan",
+                "overview": "Savaş Kıta'nın dört bir yanına yayılırken Geralt, Yennefer ve Ciri, kaderlerinden kaçmak için çıktıkları yolda yine kaderleriyle karşı karşıya kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ypXmVKO23UsMycxgkKgTfmJisKv.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt5180504/s4/e08"
+            }
+        ],
+        "update_date": "2026-02-15 15:40:59"
+    },
+    {
+        "id": 66732,
+        "imdb_id": "tt4574334",
+        "name": "Stranger Things",
+        "original_name": "Stranger Things",
+        "overview": "Ufak bir kasabada küçük bir çocuk kaybolunca, gizli deneyler, korkutucu doğaüstü güçler ve tuhaf bir küçük kızın da parçası olduğu bir gizem ortaya çıkar.",
+        "poster": "https://image.tmdb.org/t/p/w500/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
+        "year": "2016",
+        "rating": 8.6,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Gizem",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Winona Ryder",
+                "role": "Joyce Byers",
+                "image": "https://image.tmdb.org/t/p/w200/b2WcWMCJFb2eNFOJrExwevIBTSp.jpg"
+            },
+            {
+                "name": "David Harbour",
+                "role": "Jim Hopper",
+                "image": "https://image.tmdb.org/t/p/w200/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+            },
+            {
+                "name": "Millie Bobby Brown",
+                "role": "Eleven / Jane Hopper",
+                "image": "https://image.tmdb.org/t/p/w200/k9KGzGDVhXKfOGpoN62MNuXL28q.jpg"
+            },
+            {
+                "name": "Finn Wolfhard",
+                "role": "Mike Wheeler",
+                "image": "https://image.tmdb.org/t/p/w200/dQ1Fj2gCwko0Jnt3QEj1GLseXSh.jpg"
+            },
+            {
+                "name": "Gaten Matarazzo",
+                "role": "Dustin Henderson",
+                "image": "https://image.tmdb.org/t/p/w200/alVT7oDp8N5G9WLIApI9jqeuqHq.jpg"
+            },
+            {
+                "name": "Caleb McLaughlin",
+                "role": "Lucas Sinclair",
+                "image": "https://image.tmdb.org/t/p/w200/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
+            },
+            {
+                "name": "Noah Schnapp",
+                "role": "Will Byers",
+                "image": "https://image.tmdb.org/t/p/w200/rmsJ0UJumpQOVEHffGeUVyJyVcj.jpg"
+            },
+            {
+                "name": "Sadie Sink",
+                "role": "Max Mayfield",
+                "image": "https://image.tmdb.org/t/p/w200/o6DZF6dgQjLC96qEqCw23AoY2HN.jpg"
+            },
+            {
+                "name": "Natalia Dyer",
+                "role": "Nancy Wheeler",
+                "image": "https://image.tmdb.org/t/p/w200/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg"
+            },
+            {
+                "name": "Charlie Heaton",
+                "role": "Jonathan Byers",
+                "image": "https://image.tmdb.org/t/p/w200/8Se6WZuvRmoB990bT29OPgVAyBo.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm: Will Byers'ın Ortadan Kayboluşu",
+                "overview": "Arkadaşından dönen Will, yolda korkutucu bir şey görür. Devlete ait bir laboratuvarın derinliklerinde korkutucu bir gizem yatmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6jSA6JpxNDV63aDXpmsUFCjCINb.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt4574334/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm: Maple Sokağı'ndaki Ucube",
+                "overview": "Lucas, Mike ve Dustin ormanda rastladıkları bir kızla konuşmaya çalışırlar. Hopper, rahatsız edici bir telefon konuşmasıyla kaygılanan Joyce'u sorguya çeker.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt4574334/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm: Mutlu Noeller",
+                "overview": "Gitgide endişelenen Nancy, Barb'ı arar ve Jonathan'ın neyin peşinde olduğunu öğrenir. Joyce, Will'in kendisiyle konuşmaya çalıştığından emindir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5snULpWQWp7aqFto7UbRcEkEyyS.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt4574334/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm: Ceset",
+                "overview": "Will'in öldüğünü kabullenmek istemeyen Joyce, oğluyla iletişim kurmak ister. Çocuklar, El'e çeki düzen verir. Nancy ve Jonathan pek olası olmayan bir ittifak kurar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/60wmC1e20HV8gu688GAhsWxqxPx.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt4574334/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm: Pire ve Cambaz",
+                "overview": "Hopper, laboratuvara girer. Nancy ve Jonathan, Will'i alan güçle yüzleşir. Çocuklarsa Bay Clarke'a başka bir boyuta nasıl yolculuk edildiğini sorar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/idAoStMju7xrMmCvHiLldKXUaPk.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt4574334/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm: Canavar",
+                "overview": "Çılgına dönen Jonathan, karanlıklar içinde Nancy'yi arar. Ancak Steve de Nancy'yi aramaktadır. Hopper ve Joyce, laboratuvarda olan bitenle ilgili gerçekleri öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tOb9lLSrWBIQfl1ulMHsVVTGtkv.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt4574334/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm: Küvet",
+                "overview": "Eleven, Will'e ulaşmaya çalışmaktadır. Lucas kötü adamların yaklaştığını söyler. Nancy ve Jonathan, Jonathan'ın fotoğraf makinesine takılanları polise gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mkZzUTNWYfGwRH2f1TzlRgouypa.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt4574334/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm: Alt Üst",
+                "overview": "Dr. Brenner, Hopper ve Joyce'u sorgulamak için alıkoyar. Bu sırada çocuklar Eleven'la birlikte spor salonunda beklemektedir. Nancy ve Jonathan savaşa hazırlanmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1teJ5dbuepfqOOs9uYhYTUjr2qs.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt4574334/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm: ÇILGIN MAX",
+                "overview": "Kasabada Cadılar Bayramı hazırlıkları sürerken rekortmen bir rakip, oyun salonunda olay yaratır. Kuşkucu Hopper, çürümekte olan bal kabaklarıyla dolu bir tarlayı inceler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt4574334/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm: Şeker mi Şaka mı Ucube?",
+                "overview": "Şeker mi şaka mı gecesinde Will korkunç bir şeye tanık olunca Mike, Eleven'ın hâlâ bir yerlerde olup olmadığını merak eder. Nancy, Barb hakkındaki gerçekle boğuşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3gzPnRilyASmcoSyUKXhaD5ofhr.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt4574334/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm: İribaş",
+                "overview": "Dustin yeni ve tuhaf bir evcil hayvan sahiplenir. Bu arada El'in sabrı giderek tükenmektedir. İyi niyetli Bob, Will'den korkularıyla yüzleşmesini ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/792NQjFydcr5ucb1sga55LS6Vt3.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt4574334/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm: Bilge Will",
+                "overview": "Zor durumdaki Will'in Joyce'a içini dökmesi, rahatsız edici sonuçlar doğurur. Hopper gerçeği aramaya devam ederken Eleven şaşırtıcı bir şey keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wZ7ZDnftX9Y1O25I5tOaEKdK7FT.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt4574334/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm: Dig Dug",
+                "overview": "Nancy, Jonathan ve yeni dostları birbirleriyle komplo teorilerini paylaşırken Eleven, geçmişinden birini aramaktadır. \"Beyin Bob\" zorlu bir sorunla mücadele eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/westZSpDwRPjxG2eBWIT7utDcnL.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt4574334/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm: Casus",
+                "overview": "Will ile karanlık güçler arasındaki bağ güçlenmektedir, ancak hiç kimse bunun nasıl durdurulacağını bilemez. Bu sırada Dustin ve Steve beklenmedik bir yakınlık kurar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y3Npi32SQZ6hGM0LnSQ9ONJyNJY.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt4574334/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "7. Bölüm: Kayıp Kız Kardeş",
+                "overview": "Eleven'ın psişik vizyonları, onu hiddet dolu dışlanmış bir gruba ve karanlık bir geçmişe sahip olan öfkeli bir kıza götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kgOaaTbAutwAoA7tkVzYCfTjPXn.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt4574334/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "8. Bölüm: Zihin Hırsızı",
+                "overview": "Ölümcül bir olay yüzünden Hawkins Laboratuvarı kilitlendiğinde, Will ve birkaç kişi içeride mahsur kalır. Tam bu sırada, beklenmedik bir kahraman ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vuLea0DA9rYc9Y4M2Ic28CXL4Al.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt4574334/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "9. Bölüm: Kapı",
+                "overview": "Eleven başladığı işi bitirmek için planlar yaparken hayatta kalanlar Will'i rehin tutan korkunç güce yaptıkları baskıyı artırmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cxCf7O5WPHfyXb7PLSJCG6EvXc3.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt4574334/s2/e09"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm: Suzie, Duyuyor musun?",
+                "overview": "Yaz, yeni işler ve filizlenen bir aşkla gelir. Ama Dustin'in radyosu Rusça bir yayın yakalayıp Will bir şeylerin yanlış gittiğini hissedince hava değişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/97PVnrEQWEsdMnD08QDmMxLkV7h.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt4574334/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm: AVM Fareleri",
+                "overview": "Nancy ve Jonathan bir ipucunu izler. Steve ve Robin gizli bir görevi kabul eder. Max ve El alışverişe gider. Kafası karışan Billy, rahatsız edici hayaller görür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1XgtGAnheGKfrYtV3mLSFf13AJi.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt4574334/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm: Kayıp Cankurtaran Vakası",
+                "overview": "El ve Max, Billy'yi ararken Will kızların olmadığı bir gün geçirmeyi planlar. Steve ve Dustin AVM'de devriyeye çıkar. Joyce ve Hopper, Hawkins Laboratuvarı'na döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oaYdVvYwnvoQ7SLelKUcaAt0HKJ.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt4574334/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm: Sauna Testi",
+                "overview": "Kırmızı alarm, ekibi korkutucu derecede tanıdık bir kötülükle yüzleşmek için tekrar toplar. Karen Nancy'yi incelemeyi sürdürmeye zorlar. Robin işe yarar bir harita bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tEgd6fXKngAG8eC92dH7ey6Y4eA.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt4574334/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm: Ordu",
+                "overview": "Eski bir çiftlik evinin içinde ve Starcourt Alışveriş Merkezi'nin derinliklerinde tuhaf sürprizler pusuda bekler. Bu arada Zihin Hırsızı güç toplamaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/40CezQOYMQ1t726K3hqdz7Y1Z6G.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt4574334/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm: Çokluktan Birliğe",
+                "overview": "Dr. Alexei, Rusların ne inşa ettiğini açıklarken Eleven, Billy'nin nerede olduğunu görür. Dustin ve Erica cesur bir kaçış planını hayata geçirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dZKsMHJm8DPdBuqFcZxdIulrpNs.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt4574334/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "7. Bölüm: Isırık",
+                "overview": "Zaman tükenirken ve enselerinde bir suikastçı varken Hopper'ın ekibi hızla Hawkins'e döner. Bu sırada El ve çocuklar savaş için hazırlanmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6QA91GJK2ze1EaGPEKhil9MJIXx.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt4574334/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "8. Bölüm: Starcourt Savaşı",
+                "overview": "Zihin Avcısı'nın ekiple hesaplaşmak üzere geri dönüşüyle alışveriş merkezinin yemek katında terör eser. Dünya'nın geleceği, yer altının karanlığında belirlenecektir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5YcjTWas07RteM9lssOzL9UhmJh.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt4574334/s3/e08"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "1. Bölüm: Hellfire Kulübü",
+                "overview": "El okulda zorbalığa uğrar. Joyce gizemli bir paket alır. Amatör bir oyuncu D&D gecesini alt üst eder. Uyarı: Çocukların bulunduğu şiddet öğeleri içerir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cmCOUjjQ1TfCh1Gj9V4IFAd2XNu.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt4574334/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "2. Bölüm: Vecna'nın Laneti",
+                "overview": "Bir uçak Mike'ı Kaliforniya'ya getirir ve bir ceset Hawkins'i şaşkına çevirir. Nancy ipucu aramaya gider. Sarsılmış hâldeki Eddie gördüklerini tüm ekibe anlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lSSWqv7XrO51uY2uc4lql9Hub3f.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt4574334/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "3. Bölüm: Canavar mı, Süper Kahraman mı?",
+                "overview": "Murray ve Joyce Alaska'ya uçar. El ciddi sonuçlara katlanmak zorunda kalır. Robin ve Nancy, Hawkins'in iblislerini araştırır. Dr. Owens üzücü haberler verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iSvNiCJ0XIEUyj6kydm1wISZHeM.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt4574334/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "4. Bölüm: Sevgili Billy",
+                "overview": "Max büyük tehlikededir ve zaman tükenmektedir. Pennhurst Akıl Hastanesi'ndeki bir hastanın ziyaretçileri vardır. Hopper ise Rusya'da sıkı bir çalışma içindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u3LeFRR7AhyPp4y0Ii7hpkD488b.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt4574334/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "5. Bölüm: Nina Projesi",
+                "overview": "Hawkins'teki çocuklar yıkık dökük bir evde ipucu ararken Owens tarafından Nevada'ya götürülen El, geçmişiyle yüzleşmek zorunda kalır. Birisi daha Vecna'ya kurban gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qpYggM5hj59q7h8rDv3GRI195W9.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt4574334/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "6. Bölüm: Derinlere Dalış",
+                "overview": "Demir Perde'nin ardında riskli bir kurtarma görevi başlatılır. Kaliforniya ekibi bir hacker'dan yardım ister. Steve ekip için bir fedakârlıkta bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9EbhReDcbfmqLhDBg0Rn97z4lT.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt4574334/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "7. Bölüm: Hawkins Laboratuvarında Katliam",
+                "overview": "Hopper bir canavarla savaşmaya hazırlanırken Dustin, Vecna'nın neyin peşinde olduğunu araştırır ve gaipten gelen bir mesajın şifresini çözer. Eski bir anı El'e güç verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n64hMYFaVunT8jqSVgYq5qt0Vbn.jpg",
+                "vote_average": 9.0,
+                "link": "https://vidmody.com/vs/tt4574334/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "8. Bölüm: Baba",
+                "overview": "Nancy sarsıcı hayaller görür, El ise kendisi için çok önemli bir sınavı geçer. Hawkins'dekiler erzak ve silah toplayarak savaşa hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sdNa4Z49RTZDkezFAMg00hciFZZ.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt4574334/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "9. Bölüm: Kaçak Yolcu",
+                "overview": "Kahramanlarımız tek yürek olup Hawkins'i kurtarmak için düşmanlarına dört koldan savaş açar. Sadece Hawkins'in değil, tüm dünyanın geleceği onların elindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fvoa0Hosu4yK7TUiHglV8TvjMUB.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt4574334/s4/e09"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "1. Bölüm: Arayış",
+                "overview": "Kasım 1987. Ekip Baş Aşağı Dünya'ya ulaşıp Vecna'nın saklandığı yeri bulmak için askerî kontrol noktasından kaçmayı başarır, ancak çok yakınlarındaki bir tehdidi gözden kaçırırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jnpSxSMdFAj4dtF59agzgmKM9fg.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt4574334/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "2. Bölüm: Kayboluş",
+                "overview": "Wheeler'ların evine yapılan vahşi saldırının ardından Mike ve Nancy sır saklamanın bedeliyle yüzleşmek zorunda kalırken, El ve Hopper bir kurtarma operasyonuna girişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/loM7T7Mwd849wFaWj9KPlNNSHZr.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt4574334/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "3. Bölüm: Turnbow Tuzağı",
+                "overview": "Vecna'nın bir sonraki hamlesi hakkında Will'in elde ettiği benzersiz ipucu, ekibe bir tuzak kurma fırsatı verir. Holly yeni ortamını keşfetmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iCsM4oeBM9PIESD6PJw7mWO1xbl.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt4574334/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "4. Bölüm: Büyücü",
+                "overview": "Ordu kasabadaki kontrolünü sıkılaştırır. Mike, Lucas ve Robin cesaret dolu bir kaçış planlar. El, düşmanla karşı karşıya gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r0uVKBsPj74lQGNRdC9IM2P5roW.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt4574334/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "5. Bölüm: Elektroşok",
+                "overview": "Ekip, Will'in sürü bilincini tekrar ele geçirmesini sağlamak için heyecan verici bir plan yapar. Baş Aşağı Dünya'da Hawkins Laboratuvarı'nda yapılan arama sırasında gerilim artar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/A9gML0mmuyE2m3hGK0eZZA2tRPg.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt4574334/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "6. Bölüm: Camazotz'dan Kaçış",
+                "overview": "Holly ve Max Vecna'nın zihninden kaçmaya çalışırken El, Will'in zihnine girmenin bir yolunu bulmalıdır. Joyce suçluluk hissine kapılır. Jonathan ve Nancy bir dönüm noktasına gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zwJuStMjSOT1jaPUkX3dweIciRs.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt4574334/s5/e06"
+            },
+            {
+                "season": 5,
+                "episode": 7,
+                "name": "7. Bölüm: Köprü",
+                "overview": "Will'in ortadan kayboluşunun yıl dönümünde ekip yeniden bir araya gelir ve dünyayı değiştirecek sonuçlara yol açacak bir savaşa hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xJv3oJoVQqITux8N9isJfb1Ao6g.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt4574334/s5/e07"
+            },
+            {
+                "season": 5,
+                "episode": 8,
+                "name": "8. Bölüm: Gerçek Dünya",
+                "overview": "Vecna bildiğimiz dünyayı yok etmeye hazırlanırken ekip, onu kesin olarak alt etmek için hem kendilerinin hem de sevdiklerinin hayatını riske atmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kP23RWbUWM6vGhT9PxFyP5VT3y4.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt4574334/s5/e08"
+            }
+        ],
+        "update_date": "2026-02-15 14:50:19"
+    },
+    {
         "id": 284744,
         "imdb_id": "tt39012462",
         "name": "Pro Bono",

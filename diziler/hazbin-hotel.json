@@ -2,26 +2,201 @@
     "id": 94954,
     "imdb_id": "tt7216636",
     "name": "Hazbin Hotel",
+    "original_name": "Hazbin Hotel",
+    "overview": "Charlie Morningstar, iblisleri rehabilite etmek gibi muazzam bir görevle görevlendirilen Cehennem prensesidir. Görev onu mahkum ruhların kendi başlarına çalışabilecekleri ve sonunda Cennete \"çıkış yapabilecekleri\" bir yer olan Hazbin Oteli'ni açmaya yönlendirir. Eski dostlar ve beklenmedik yeni müttefikler, Charlie'nin hayalini gerçeğe, hatta belki de başarıya doğru ilerletmesine yardımcı olur.",
     "poster": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/muz4zF9dk1h7b9Nu8duOysvX823.jpg",
     "year": "2024",
+    "rating": 8.6,
     "genres": [
         "Animasyon",
         "Komedi",
         "Dram",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Animasyon",
+        "Prime Video"
+    ],
     "cast": [
-        "Stephanie Beatriz",
-        "Keith David",
-        "Kimiko Glenn",
-        "Erika Henningsen",
-        "Blake Roman"
+        {
+            "name": "Stephanie Beatriz",
+            "role": "Vaggie (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/kk1w7egCVi8gXxl6AWhSyudgaKB.jpg"
+        },
+        {
+            "name": "Keith David",
+            "role": "Husk (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
+        },
+        {
+            "name": "Kimiko Glenn",
+            "role": "Niffty (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg"
+        },
+        {
+            "name": "Erika Henningsen",
+            "role": "Charlie Morningstar (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/cRCGw4P4vNw7CJS65eG88k80sba.jpg"
+        },
+        {
+            "name": "Blake Roman",
+            "role": "Angel Dust (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/lJgLf9gZlpesZbVeaeiC4fDsyEA.jpg"
+        },
+        {
+            "name": "Amir Talai",
+            "role": "Alastor (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/zg5o41YaOESJF5ExZxsOKLefDFI.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Giriş",
+            "overview": "Charlie, oteli aracılığıyla günahkârların kefaretlerini ödeyerek kurtulma planını Cennet'e sunar. Vaggie, otel tanıtımı reklam filmi çekmeleri için personeli görevlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8rj1UJrcPB9g498YmaE57jb4d9l.jpg",
+            "vote_average": 7.7,
             "link": "https://vidmody.com/vs/tt7216636/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Radyo Video Yıldızını Öldürdü",
+            "overview": "Vee'ler: Vox, Velvette ve Valentino, Cehennem'deki köşelerini rakipsiz yönetmektedir ancak Alastor'un yayınlara dönmesi işleri karıştırabilir. Bu arada, yeni bir otel misafiri Melek'in sabrını sınar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AwcWnE5QDsKdhnmArgVGd5nnxkO.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt7216636/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Omlet",
+            "overview": "Otelin konukları ve ekibi günü güven hakkında bir şeyler öğrenerek geçirirken, efendilerin toplantısında ortaya çıkan bilgiler münasebetsiz bir tartışmaya yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9xdoUagj3AnplIS8VmlHzRmsQoU.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt7216636/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Maskeli Balo",
+            "overview": "Melek, işi ve otelde geçirdiği zamanı dengelemekte zorlanır. Charlie, 'Prenses' statüsünü Melek'in patronuna karşı kullanma zamanının geldiğine karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2voEbz6aZvWgTo8NTQSfqfZVBs4.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt7216636/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Baba Babayı Dövdü",
+            "overview": "Charlie, babası Lusifer'dan yardım istemekte zorlanır. Bu arada, beklenmedik yeni bir ziyaretçi otelde işleri sarsar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cUtVWd5FyveDIu9SEfG3Rqisfxm.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt7216636/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Cennete Hoş Geldin",
+            "overview": "Charlie ve Vaggie, Adem'in patronuyla konuşmak için Cennet'e doğru yola çıkarlar. Bu arada patlamaya hazır bir buluşma Melek'e ne kadar ilerlediğini gösterme fırsatı verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A93PBhKxwJMrkqKpqhptnR1w1rr.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt7216636/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Merhaba Rosie!",
+            "overview": "Sırların açığa çıkması ve otelin hedef tahtasına oturtulmasıyla Charlie ve Vaggie, evlerini yıkımdan korumak için ne gerekiyorsa yapmak zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wPzhMhtLOdppSltb3mnYmOFhTAt.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt7216636/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Gösteri Devam Etmeli",
+            "overview": "Birinci Sezon finalinde, Cennet ve Cehennem lejyonları arasındaki yüzleşme başladığında artık her şey mümkündür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mVa6wxS7I7097HyMi1FGe38XrOm.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt7216636/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Yeni Pentious",
+            "overview": "Charlie'nin Cennet'e karşı kazandığı zaferin ardından, günahkârlar yeniden inşa edilen Hazbin Hotel'e akın eder. Ama hepsinin doğru nedenle geldiklerinden emin olabilir mi? Bu arada Vox, Vee'lerin nihai zaferini kazanması için planını açıklar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tSzzDh1W5UX1bI3INyYI5t0XC6s.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt7216636/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Hikâyeci",
+            "overview": "Sör Pentious'ın günahlarından arınması Cennet'te büyük yankı uyandırır ama bir günahkârın bağışlandığını görmek herkesi mutlu etmez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kbaF3AxYWH6O8F98KxboLURTv6U.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt7216636/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Kapalı Kapılar Ardında",
+            "overview": "Charlie, Voxtek'ten otel ve Pentious'ın günahlarından arınması hakkında haber yapmasını ister. Ama şüpheci konukları ikna için somut kanıtlar gerekir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v8mF1N5uUISUszKsUy1GcnYyykL.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt7216636/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Anlaştık",
+            "overview": "Charlie, televizyonda canlı yayına çıkarak hasar kontrolü yapmaya çalışır! Bu arada Alastor, sabrının sınırlarına ulaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bzwvWHBbhTQ68ZsTFaCAVhv0yPD.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt7216636/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Susturulmuş",
+            "overview": "Vox, çoğalan destekçileri için bir toplantı düzenler. Bu arada Charlie, Cennet'ten yardım bekler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lXBrD4efdZg8orbdxzOaydmLx0z.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt7216636/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Çığlık Yağmuru",
+            "overview": "Vox, Efendileri Cennet ile savaşa sürükler. Otelde gerginlik artar ve Husk eski alışkanlıklarına geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/736fVKNNuw8xd9Jo5QuI3ujby0D.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt7216636/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Kitle Oyalama Silahı",
+            "overview": "Vox gizli silahını ortaya çıkarır ve Cennet'e son uyarısını yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fe2mLNXgJNoy8jbGZXTW0G19pgy.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt7216636/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Selamlama",
+            "overview": "Vox (ve sanırım Vee'ler de) herkes Cennet'i ele geçirmesini izleyebilsin diye bir parti düzenler ve hepiniz davetlisiniz!",
+            "still_path": "https://image.tmdb.org/t/p/w400/9sEN4QGCoa2gXxrWWVjcEbX0dLT.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt7216636/s2/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 18:23:42"
 }

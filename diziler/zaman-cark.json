@@ -2,24 +2,290 @@
     "id": 71914,
     "imdb_id": "tt7462410",
     "name": "Zaman Çarkı",
+    "original_name": "The Wheel of Time",
+    "overview": "Beş genç köylünün hayatları, garip ve güçlü bir kadının gelmesiyle sonsuza dek değişir. Kadın, içlerinden birinin Işık ve Karanlık arasındaki dengeyi sonsuza dek değiştirme gücüyle, kadim bir kehanetten geldiğini söyler. Karanlık Varlık hapisten kaçıp Son Savaş başlamadan evvel, dünyanın kaderi konusunda ya o yabancıya ya da kendilerine güveneceklerdir.",
     "poster": "https://image.tmdb.org/t/p/w500/rlNwsszuCWqYzoTYALnf46KEdn6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/1P3QtW1IkivqDrKbbwuR0zCYIf8.jpg",
     "year": "2021",
+    "rating": 7.6,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Prime Video"
+    ],
     "cast": [
-        "Rosamund Pike",
-        "Daniel Henney",
-        "Josha Stradowski",
-        "Zoe Robins",
-        "Madeleine Madden"
+        {
+            "name": "Rosamund Pike",
+            "role": "Moiraine Damodred",
+            "image": "https://image.tmdb.org/t/p/w200/s9i4XoHTgtskbralOtnraEueU2M.jpg"
+        },
+        {
+            "name": "Daniel Henney",
+            "role": "al'Lan Mandragoran",
+            "image": "https://image.tmdb.org/t/p/w200/elAolohpUG5nS99EZxHZjd44DsS.jpg"
+        },
+        {
+            "name": "Josha Stradowski",
+            "role": "Rand al'Thor",
+            "image": "https://image.tmdb.org/t/p/w200/uCbfm39Gad32j2z0vOOh3oa5GEH.jpg"
+        },
+        {
+            "name": "Zoe Robins",
+            "role": "Nynaeve al'Meara",
+            "image": "https://image.tmdb.org/t/p/w200/9vHQhbUZnaPxmNHtbQBN2oMTbff.jpg"
+        },
+        {
+            "name": "Madeleine Madden",
+            "role": "Egwene al'Vere",
+            "image": "https://image.tmdb.org/t/p/w200/oOZ1EJeq2DHxNNLAkLEyYYOlqlM.jpg"
+        },
+        {
+            "name": "Marcus Rutherford",
+            "role": "Perrin Aybara",
+            "image": "https://image.tmdb.org/t/p/w200/zsaJYipeANmwidXsh52qJxjqYvs.jpg"
+        },
+        {
+            "name": "Dónal Finn",
+            "role": "Mat Cauthon",
+            "image": "https://image.tmdb.org/t/p/w200/7AjCt2SorCTcuYRzCMPUqH0Io5v.jpg"
+        },
+        {
+            "name": "Ceara Coveney",
+            "role": "Elayne Trakand",
+            "image": "https://image.tmdb.org/t/p/w200/1zWEshFJ5dSRK37DlfJlQuZEcoO.jpg"
+        },
+        {
+            "name": "Natasha O'Keeffe",
+            "role": "Lanfear",
+            "image": "https://image.tmdb.org/t/p/w200/tOX10C02tSFnOSra8a8rGuA6QZ5.jpg"
+        },
+        {
+            "name": "Ayoola Smart",
+            "role": "Aviendha",
+            "image": "https://image.tmdb.org/t/p/w200/cq3D8eLnPtjY44Ur4zYeX41bdrj.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Veda",
+            "overview": "Tuhaf bir soylu kadın, uzak bir dağ köyüne gelir ve beş gençten birinin, bir zamanlar dünyayı yok eden kadim bir gücün reenkarnasyonu olduğunu iddia eder.Hangisi olduğunu bulamazsa güç yine aynı şeyi yapmaya yeltenecektir. Fakat düşündüklerinden daha az vakitleri vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ucVwvH0NqJC5LdN1C8d4qfaLgDt.jpg",
+            "vote_average": 6.9,
             "link": "https://vidmody.com/vs/tt7462410/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Gölgenin Beklediği Yer",
+            "overview": "Moiraine ve Lan, hangisinin kehanetten olduğundan emin olmaksızın dört köylüyü güvenli bir yere götürür. Ancak arkadaşlar, özellikle Moiraine'in görevi uğuruna ne kadar ileri gidebileceğini ve Lan'ın onların akıllarını çelme isteğini görünce, kurtarıcıları konusunda o kadar emin olamazlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/t1xvBOQdODX2n7EH6ldLBeIGonD.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt7462410/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Güvenli Bir Yer",
+            "overview": "Yolları ayrı düşen köylüler dönüş yolu yahut sığınacak bir yer ararlarken, Moiraine ve Lan beklenmedik ve istenmedik şekilde yardım bulur. Fakat Karanlık Varlık'ın gücünün nereye dek uzandığını, yolda çok az kişiye güvenilebileceğini hep birlikte öğreneceklerdir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fEJrLcvcH5Dikcfv3hrzA2uvw8q.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt7462410/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Yenidendoğan Ejder",
+            "overview": "Lan yeni yoldaşlarıyla mücadele ederken Moiraine belirsizlikle boğuşur. Rand, Mat'ten şüphe edince, Mat de kendinden şüphe duymaya başlar. Egwene ve Perrin farklı bir yola doğru ilk adımlarını atarlar. Olağanüstü, yeni bir güç dünyaya salınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yRFsTWVi5oaDzEfY1RxMaqZheAi.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt7462410/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Kan Kanı Çeker",
+            "overview": "Perrin ile Egwene tanıdık bir yüze rastlarlar. Mat ve Rand ise tuhaf yüzlere. Moiraine ve Lan, kayıplarının yasını tutarlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mG0msmGey6EJ2KPdKV0EROzZPxo.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt7462410/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Tar Valon'un Alevi",
+            "overview": "Moiraine, eylemlerinin sonuçlarıyla yüzleşir. Mat kendi içindeki karanlıkla yüzleşir. Egwene dünyanın en güçlü kadını ile karşı karşıya kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7hsl7FPEqI8OBDtAr6N3oH6Iodh.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt7462410/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Yollardaki Karanlık",
+            "overview": "Moiraine ile beraberindekilerin yolu beklenmedik bir rastlantıyla kesilir. Fakat bu kesinti birçok şeyi gün yüzüne çıkaracaktır. Moiraine'in asıl amacını, Lan'ın geçmişini, gruptaki çatlakları ve Yenidendoğan Ejder'in kimliğini.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dJXKOytnEGNjT13Et0YWTN2R1xH.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt7462410/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Dünyanın Gözü",
+            "overview": "Moiraine 20 yıldır bu anın hayaliyle yatıp kalkmaktadır. Ancak Yenidendoğan Ejder'in, Karanlık'ın cazibesini görmesine mani olamaz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zV4PtAr2cMYhUcypPsIQzFeiWjg.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt7462410/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Biraz Yalnızlık",
+            "overview": "Moiraine, Lan, Nynaeve, Egwene, Perrin ve Mat kendilerini her zamankinden daha yalnız bulurlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2f42fl7AhRSQ4GFtFK5Rj4YVFAg.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt7462410/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Yabancılar ve Dostlar",
+            "overview": "İki Nehirli gençler yeni ilişkiler kurarken, Lan eski bir ilişkiyi onarmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/npwYpbErBmBmH3yBT6bDpujHNoh.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt7462410/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Olabilecekler",
+            "overview": "Nynaeve en büyük korkularıyla yüzleşir. Rand, beklenmedik bir kaynaktan güçleri konusunda rehberlik ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x3fIXKakskWcmWCYNTDLMHbkuYq.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt7462410/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Gecenin Kızı",
+            "overview": "Nynaeve kayıplarının yasını tutarken Moiraine Rand'i arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2znTxo0rWH9dlfdSHsOZIoDNrjV.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt7462410/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Damane",
+            "overview": "Moiraine ve Rand canlarını kurtarmak için kaçarlar. Egwene ve Nynaeve yeni bir düşmanla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/p8caVcKsxnYj7wHdmLq2JTyS722.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt7462410/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Merhametsiz Gözler",
+            "overview": "Rand tehlikeli bir ittifak kurar ve Egwene içinde bulunduğu koşulların dehşetiyle yüzleşmek için gücünü toplar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/d0OIKMIHrmaEZFEz1OSGGDwXP0y.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt7462410/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Daes Dae'Mar",
+            "overview": "Tanıdık bir yüz Moiraine ve Rand'in planlarını bozar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/c9NX6qZND0zufIomjziS88a6doH.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt7462410/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Desen'in Hükmettiği",
+            "overview": "Kader, Rand ve diğerlerini şimdiye kadarki en zorlu düşmanlarıyla kaçınılmaz bir hesaplaşmaya götürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aDrothH9HPVpJ5fhqIs7rFwcnX8.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt7462410/s2/e08"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Gölge'yle Yarış",
+            "overview": "Kahramanlarımız yeni bir kötülüğün hedefine dönüşürken Beyaz Kule'de kaos patlak verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3H6w4odeWAh0R6z4US0JGRnDZKd.jpg",
+            "vote_average": 6.1,
+            "link": "https://vidmody.com/vs/tt7462410/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Kırmızı Meselesi",
+            "overview": "Beyaz Kule'ye tehlikeli bir ziyaretçi gelir. Perrin evine döner. Rand ve Egwene, Moiraine'in himayesinde kendi yollarını çizerler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/27fVWWND99vDYJTJAFJ5w6ADeK6.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt7462410/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Gölge Tohumları",
+            "overview": "Nynaeve ve Elayne'e ölümcül bir görev verilir. Perrin öfkesinin sonuçlarına katlanmayı öğrenir. Lanfear tehlikeli bir oyun çevirmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uK1muHtBp1zqnazFsKtqaC6QUZf.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt7462410/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Mızrağa Giden Yol",
+            "overview": "Moiraine geleceğiyle ilgili yıkıcı gerçeği öğrenirken Rand ailesinin unutulmuş geçmişiyle yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v60i3tIpf6o6QMmHUk1KMU1iW4F.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt7462410/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Tel'aran'rhiod",
+            "overview": "Egwene, Rand'in karanlık sırrını öğrenir. Perrin cesur bir kurtarış gerçekleştirir. Nynaeve, Elayne, Mat ve Min, Kara Ajah'ı avlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3xA2gbv5KSydYA9RBbPTJV5mMmx.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt7462410/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Gecedeki Gölge",
+            "overview": "Egwene ve Rand arasındaki gerilim artar. Moiraine ve Lan kaderleriyle yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lZxv69kekZnlctERFs4UomOK3dH.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt7462410/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Altıngöz",
+            "overview": "Perrin eski bir düşmana karşı savaşta İki Nehir'e liderlik eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/18UHUvBWCXFdwmEfRJmC69YQHM2.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt7462410/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Şafakla Gelen",
+            "overview": "Nynaeve, Elayne, Mat ve Min, Kara Ajah'la ve gelecekleriyle yüzleşir. Moiraine ve Lan kaderleriyle yüzleşmeye hazırlanır. Rand ve Egwene yazgılarını belirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gKWPCVQZ2heuPiYwV8bcu8qIemp.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt7462410/s3/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 18:41:48"
 }

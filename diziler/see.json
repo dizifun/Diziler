@@ -2,25 +2,291 @@
     "id": 80752,
     "imdb_id": "tt7949218",
     "name": "See",
+    "original_name": "See",
+    "overview": "See, günümüzden uzak bir gelecekte geçiyor. Dizide, görme yetisini yitiren insanlığın, hayatta kalmak için yeni yollar aramasını konu ediniyor. Ne var ki yeni hayata gelen ikiz bebeklerin görme yetisiyle doğması işleri karıştırıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/u5N8tXgGDY6jS7R8Xn42LDeL0Dk.jpg",
     "year": "2019",
+    "rating": 8.1,
     "genres": [
         "Dram",
         "Bilim Kurgu & Fantazi",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Apple TV"
+    ],
     "cast": [
-        "Jason Momoa",
-        "Sylvia Hoeks",
-        "Hera Hilmar",
-        "Christian Camargo",
-        "Archie Madekwe"
+        {
+            "name": "Jason Momoa",
+            "role": "Baba Voss",
+            "image": "https://image.tmdb.org/t/p/w200/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+        },
+        {
+            "name": "Sylvia Hoeks",
+            "role": "Queen Sibeth Kane",
+            "image": "https://image.tmdb.org/t/p/w200/wKC9LgqgJRCXuzs1kUKaK7Uicv.jpg"
+        },
+        {
+            "name": "Hera Hilmar",
+            "role": "Maghra",
+            "image": "https://image.tmdb.org/t/p/w200/hPrpOpQrJ0Ksh62NHFmKon4vEtr.jpg"
+        },
+        {
+            "name": "Christian Camargo",
+            "role": "Tamacti Jun",
+            "image": "https://image.tmdb.org/t/p/w200/7smKRlZUxTJqt1smgarwzzks684.jpg"
+        },
+        {
+            "name": "Archie Madekwe",
+            "role": "Kofun",
+            "image": "https://image.tmdb.org/t/p/w200/tdTv1E3309yWTU9IdtdhZj1a1Zj.jpg"
+        },
+        {
+            "name": "Nesta Cooper",
+            "role": "Haniwa",
+            "image": "https://image.tmdb.org/t/p/w200/rmHzFvZ1rDf9C0cULfsvz1WMRL9.jpg"
+        },
+        {
+            "name": "Eden Epstein",
+            "role": "Wren",
+            "image": "https://image.tmdb.org/t/p/w200/6ZYbrwHUR3VyGeWx7obPKDASGCJ.jpg"
+        },
+        {
+            "name": "Olivia Cheng",
+            "role": "Charlotte",
+            "image": "https://image.tmdb.org/t/p/w200/c1rOhwVuZi3v47fuTAnVVB4XuSc.jpg"
+        },
+        {
+            "name": "Tom Mison",
+            "role": "Lord Harlan",
+            "image": "https://image.tmdb.org/t/p/w200/ubTAjuIpAURFCPM1HJV3JyVcDOw.jpg"
+        },
+        {
+            "name": "Michael Raymond-James",
+            "role": "Ranger",
+            "image": "https://image.tmdb.org/t/p/w200/1rSn1xKAwkJ19uFLyLovW9sN7Jo.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Alev Tanrı",
+            "overview": "Baba Voss, Maghra, Paris ve ikizler hayatta kalmak için yolculuğa çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sXMYCIALBMYTrimBeJqcqpmpeuB.jpg",
+            "vote_average": 7.4,
             "link": "https://vidmody.com/vs/tt7949218/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Şişedeki Mesaj",
+            "overview": "İkizler için özel bir hediye grup içinde gerilime neden olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jnBZ9eY01nzNAWPf691UySZVcI0.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt7949218/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Taze Kan",
+            "overview": "İkizler bir sırrı annelerinden saklamak için çabalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3Mq2p5o2DR5VbNiVOOqqU0nf1X2.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt7949218/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Nehir",
+            "overview": "Köye yapılan bir saldırı kurbanlara ve yeni zorluklara yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A5Lqm0M3UJFPjyUNXfVhYQRnooI.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt7949218/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Plastik",
+            "overview": "Tamacti Jun’un ordusu Baba ailesine yaklaşırken Maghra’nın geçmişi açığa çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oYkGfl1ulpm0e6gps8uvLub2Ky1.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt7949218/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "İpek",
+            "overview": "Baba ve ailesi ihanete uğrar. Kraliçe Kane yeni bir çatışmayla yüzleşmek için kurnazlığını kullanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4G7UsI5SdNXgv4OTWQQ83JBSfD9.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt7949218/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Lavanta Yolu",
+            "overview": "İkizler Aydınlanma Evi'ne doğru yolculuklarında bir yol ayrımına gelirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6fTXWzWPU8uqljCbKhF1J5qdWHU.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt7949218/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Aydınlanma Evi",
+            "overview": "İkizler Jerlamarel'le karşılaşır ve sonunda gerçeği keşfederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1yqnFbSZskNfIpqULdjmA2ruxzR.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt7949218/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Erkek ve Kız Kardeşler",
+            "overview": "Baba, Haniwa'yı ararken düşman topraklara girer. Kraliçe Kane yeni bir Payan başkenti seçer ve şaşırtıcı bir açıklama yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AeY8Oj7n0amXU5DKFIcyVbH9bW2.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt7949218/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Sonsuza Dek",
+            "overview": "Eski bir düşman Baba'yla yüz yüze gelir. Jerlamarel görmediği bir hayatı kabullenmekte zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/d3SfstpFPRJjD0mb8osLKKYVQ1T.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt7949218/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Pusula",
+            "overview": "Edo'nun liderliği sorgulanır. Baba ve Haniwa Pusula adıyla bilinen gizli bir savaşçılar kabilesiyle tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8nfqRoYnWATomOwQFkeJT9p9kxx.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt7949218/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Cadı Avcısı",
+            "overview": "Maghra hayatını değiştirecek bir karar alırken Kofun ve Kurbağa Pennsa'ya varır. Baba, Paris ve Haniwa güvendikleri bir dostlarıyla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nEpfNIdIY2Qmjf8weq6Gm35RdfT.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt7949218/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Yemek Daveti",
+            "overview": "Baba ve ailesi sonunda birbirine kavuşur ama kraliçenin planlarını öğrenen Baba'nın sevinci kursağında kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hUrDDzcx3WKjJD4o7itMuxgZ195.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt7949218/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Tek Boynuzlar Hakkındaki Gerçek",
+            "overview": "Maghra, Lort Harlan ve Baba barış zirvesine gider. Haniwa, Paris'in gördükleri konusunda onları uyarır. Kraliçeyle Kofun günü beraber geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vqN8j3m8tyRYfGSJCazkWm9KAya.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt7949218/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Kraliçenin Konuşması",
+            "overview": "Kraliçe Kane'in ihaneti Maghra'yı köşeye sıkıştırır. Kofun üzücü bir haber alır. Barışı sağlamak için Haniwa Wren'e son bir kez yalvarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/16z9I068CbNtD9ux4etfaZXswGt.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt7949218/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Ninni",
+            "overview": "Baba ve Edo, ordularını kardeşler arasında yoğun bir yüzleşmeyle sonuçlanacak olan destansı bir savaşa sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r5NgxarUrc2KYr8MAIacokIkU4S.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt7949218/s2/e08"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Büyük Başın Derdi",
+            "overview": "Pennsa’da görenlere karşı nefret artarken Baba dağlardaki hayatı benimser. Trivantesli bir bilim insanı korkutucu yeni bir silah geliştirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ch5fCayQtmswDBgA3OLhZVGx4QL.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt7949218/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Kurtlara Dikkat Et",
+            "overview": "Yıkıcı bir kaybın ardından Baba ailesini uyarmak için Pennsa’ya doğru yola çıkar. Maghra, Cadı Avcılarının kaderi hakkında düşünür. Wren, cüretkâr bir kaçış gerçekleştirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cCbewuCwPln4QMsMAc5NImdVIC3.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt7949218/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Bu Ülke Senin Ülken",
+            "overview": "Wren, Pennsa’ya gelir ve Tormada’nın planları hakkındaki bilgisini paylaşır. Tamacti Jun, bir kez daha Cadı Avcılarının isyanını bastırmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qQejB64G459Kg7ak4DARi0CR7Xw.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt7949218/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Fırtına",
+            "overview": "Tormada yeni silahını Üçgen’e sunarken Baba, Tormada’nın cephaneliğini yok etmek için Aydınlanma Evi’ne giden bir gruba liderlik eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bh9TMojjAxg94SqVxNnY4KmXhiB.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt7949218/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Aydınlanma Evi",
+            "overview": "Aydınlanma Evi’nde tarafların yenişememesi, Baba’nın grubuyla Tormada’nın askerleri arasında kanlı bir kuşatmaya yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7P3QDiKud1YkNFncIZmwCJCiXrs.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt7949218/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Ova",
+            "overview": "Baba ve grubu Pennsa’ya ulaşmak için ovadaki tehlikeli bir kestirme yolu kullanırlar. Maghra ve Tamacti Jun, dehşet verici bir keşifte bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bS88sDCeRRwK3aDdGaTqzp5et94.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt7949218/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Gürleyen Tanrı",
+            "overview": "Tormada ve Sibeth, Pennsa’ya şiddetli bir saldırı düzenleyince Maghra ve şehir sakinlerinin hayatı tehlikeye düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i2qfTBHwvkF5IiPIx6yejvrIbyg.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt7949218/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Seni Görüyorum",
+            "overview": "Sibeth ve Tormada’yı kesin olarak durdurmaya karar veren Baba ve Ranger, Sibeth’in kampına sızar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u4swkZb3iwKxwaEYoZGFjl3iHhB.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt7949218/s3/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 19:19:08"
 }
