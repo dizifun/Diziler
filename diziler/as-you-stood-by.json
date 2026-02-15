@@ -2,24 +2,118 @@
     "id": 271885,
     "imdb_id": "tt33550045",
     "name": "As You Stood By",
+    "original_name": "당신이 죽였다",
+    "overview": "İki kadın, şiddet dolu bir evliliği cinayetle bitirmeyi planlarken beklenmedik bir ziyaretçi çıkagelir ve onları planladıkları her şeyi yerle bir etmekle tehdit eder.",
     "poster": "https://image.tmdb.org/t/p/w500/cAx7vFmy7gBCqGKU1v8lvrvpDBF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/7uVNWsjnmkvqpeqWHq5qpLBv3wd.jpg",
     "year": "2025",
+    "rating": 8.0,
     "genres": [
         "Suç",
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix",
+        "Kore"
+    ],
     "cast": [
-        "전소니",
-        "이유미",
-        "장승조",
-        "이무생"
+        {
+            "name": "전소니",
+            "role": "Jo Eun-su",
+            "image": "https://image.tmdb.org/t/p/w200/dIYceHYZ9lHePBnAsZo2zMEHHAq.jpg"
+        },
+        {
+            "name": "이유미",
+            "role": "Jo Hui-su",
+            "image": "https://image.tmdb.org/t/p/w200/jZgjJqr6pGEegyziY10b4SklqbD.jpg"
+        },
+        {
+            "name": "장승조",
+            "role": "Noh Jin-pyo",
+            "image": "https://image.tmdb.org/t/p/w200/eNuDu7SIBqgDRbaKajs3C5JXj2B.jpg"
+        },
+        {
+            "name": "이무생",
+            "role": "Chen Shaobo",
+            "image": "https://image.tmdb.org/t/p/w200/xokzuuLDfVzassk0bmje2fvdMcM.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Eun-su",
+            "overview": "Bir saat kaybolunca Jo Eun-su, gizemli tavırlarıyla dikkatini çeken bir müşteriyi cesurca takip eder. Ardından evde sorunlar yaşadığı belli olan annesini ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zbutDcqwJK7c0x4d6HOBNGGsUCn.jpg",
+            "vote_average": 7.9,
             "link": "https://vidmody.com/vs/tt33550045/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Hui-su",
+            "overview": "Jo Hui-su, kaçma girişimlerine rağmen Noh Jin-pyo'nun yıllarca süren acımasız istismarına katlanır. Kırılma noktasına geldiğinde, Eun-su harekete geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oiiFUjJBVvkBq8pNlZQuCCvRue0.jpg",
+            "vote_average": 5.7,
+            "link": "https://vidmody.com/vs/tt33550045/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Eun-su, Hui-su ve Jin-pyo",
+            "overview": "Hui-su'nun uğradığı kötü muameleye tanık olan Eun-su, Jin-pyo'yu durdurmak için onunla birlik olur ve planlarını gerçekleştirmek için Jin So-baek'in bir çalışanıyla anlaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fZCCJQfhlqOFRAZrzfXDJLJhFJE.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt33550045/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Eun-su ve Hui-su",
+            "overview": "Jin-pyo ile yaşadıkları çatışmanın ardından Eun-su ve Hui-su, izlerini silmek için acele etmek zorundadır. Ancak titizlikle ilerlemeye çalışırken birçok engelle karşılaşırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9kVMGGQp6vOIWvplERoZd7p6NCh.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt33550045/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Eun-su, Hui-su ve Jin So-baek",
+            "overview": "Yaşadıkları sorunlar sona ermiş gibi görünen Eun-su ve Hui-su, hayatlarını yeniden kurmaya çalışır. Ama çok geçmeden bela yine Eun-su'yu bulunca So-baek imdadına yetişir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sEHN2vSvgUqi3hq6jq7m0meBxI4.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt33550045/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Eun-su, Hui-su ve Jang Kang",
+            "overview": "Beklenmedik bir ziyaretçinin gelişiyle korkuya kapılan Hui-su, Eun-su ile beraber yeni bir krizle başa çıkmalıdır. So-baek ise ikilinin tuhaf davranışlarını sorgulamaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uAYdBsoDi1BkGF6qYSonRChi0fY.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt33550045/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Eun-su, Hui-su ve Jin-young",
+            "overview": "Noh Jin-young, Eun-su ve Hui-su'nun peşindeyken So-baek onlara yardım etmeyi teklif eder. Ancak Eun-su dizginleri eline alarak herkesi tehlikeye atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/w8887JIEYDFLf3IzbvvEl5mFIZ4.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt33550045/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Eun-su, Hui-su ve Biz",
+            "overview": "Jin-young'un baskısı altında kalan Hui-su, akılalmaz bir şey yapar. Acaba Eun-su, bu cehennem azabının içinden çıkıp döngüyü sonunda kırabilecek midir?",
+            "still_path": "https://image.tmdb.org/t/p/w400/qtXMyeS4IOrwfKvoSakV69tBZ01.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt33550045/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 12:18:24"
 }

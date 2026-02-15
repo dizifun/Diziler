@@ -1,5 +1,284 @@
 [
     {
+        "id": 278011,
+        "imdb_id": "tt34692112",
+        "name": "Platonik",
+        "original_name": "Platonik",
+        "overview": "Bir anne ve iki kızının Alaçatı'da işlettiği mütevazi butik otel, konumundan dolayı yatırımcıların ağzını sulandırır. Yakışıklı bir iş insanı, annenin kesinlikle satmak istemediği bu oteli almak için işi inada bindirir, başka bir kimlikle otelde konaklamaya karar verir ve otele giriş yaptığı anda annenin iki kızını da kendisine aşık eder. Kızlardan biri evren tarafından kendisine gönderilmiş ruh eşini bulduğunu düşünürken diğeri ise kaderinin sonunda geldiğine emindir.",
+        "poster": "https://image.tmdb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/c7mQmsBKo3xKAVsdNVuqKz7eZxb.jpg",
+        "year": "2025",
+        "rating": 5.8,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Yerli",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Gupse Özay",
+                "role": "Gulten",
+                "image": "https://image.tmdb.org/t/p/w200/tFn0kdIqftqqKiuCSYQVr9WwGJx.jpg"
+            },
+            {
+                "name": "Öykü Karayel",
+                "role": "Nedret",
+                "image": "https://image.tmdb.org/t/p/w200/rzMUT2OMgnlsDLKUIdPDM0q2mgf.jpg"
+            },
+            {
+                "name": "Kerem Bürsin",
+                "role": "Kaan",
+                "image": "https://image.tmdb.org/t/p/w200/aEVh7OLO0R2ggKNhAeuTKhrnhe4.jpg"
+            },
+            {
+                "name": "Mehmet Özgür",
+                "role": "Omer",
+                "image": "https://image.tmdb.org/t/p/w200/n4QOcXf2eXPmJ8KOZcMlUEetUA8.jpg"
+            },
+            {
+                "name": "Uğur Demirpehlivan",
+                "role": "Nezahat",
+                "image": "https://image.tmdb.org/t/p/w200/c2mdH9vhte6mfgK3EkLV6m0OYgG.jpg"
+            },
+            {
+                "name": "Ülkü Duru",
+                "role": "Hidayet",
+                "image": "https://image.tmdb.org/t/p/w200/j7Fs4noFACkkUGzFhK8ne9ura3G.jpg"
+            },
+            {
+                "name": "Pınar Çağlar Gençtürk",
+                "role": "Nebahat",
+                "image": "https://image.tmdb.org/t/p/w200/iMSnVDGstCuVjwfvEv1EzinbejB.jpg"
+            },
+            {
+                "name": "Ali İpin",
+                "role": "Avni",
+                "image": "https://image.tmdb.org/t/p/w200/ahl0kBiaGlSxlDt30S5HOBTPUz.jpg"
+            },
+            {
+                "name": "Feri Baycu Güler",
+                "role": "Emel",
+                "image": "https://image.tmdb.org/t/p/w200/ge1lICGb7Lxiek8uCVJyVS2hQjR.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Onun Gelişi",
+                "overview": "Nezahat ve kızları, yıllar sonra otele gelen ilk gerçek misafiri karşılamaya hazırlanır. Ancak Kaan'ın baştan çıkarıcı görüntüsünün altında bambaşka niyetleri vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2vpBVCx6AHXV7BeVQCM2oN6oYZL.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kader mi Ruh Eşi mi?",
+                "overview": "Gülten ve Nedret, Kaan'ın ilgisini çekmek için birbirleriyle yarışırken otel personeli ve diğer misafirler, bu yakışıklı yabancıya kendi çılgın ve farklı pencerelerinden bakar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/x1VEytPaGqEx3BsFk6eT12IhFvb.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Gülten ve Kaan",
+                "overview": "Gülten, Kaan'a kasabayı gezdirince yöre halkı arasında dedikodu alıp yürür. Nedret, ablasıyla sorunlarını çözmek için yeni bir terapi yöntemi dener.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vLQNLaOEscGd8JQanfE9jcCIWuU.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Nedret ve Kaan",
+                "overview": "Bir önceki gece yaşananların ardından Gülten, güzellik merkezindeki gizemli falcıya akıl danışır. Nedret ise Kaan'ı \"Işık ve Sen\" kampına götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dajiJYy6sE5ErX5MzW8EqLe4Mru.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kaan'ı Kaçırdılar",
+                "overview": "Kaan ortadan kaybolur. Kızlar otelde, kasabada ve hatta ruhani dünyada onu ararken, Kaan geceyi çok özel biriyle geçirmektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9ZmnBPyDrPSf97oeRl6t1wrGFu9.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Kaan Evliymiş",
+                "overview": "Mehtap'ın gelişi çığ gibi büyüyen yanlış anlaşılmalara yol açar. Kasabada dedikodular havada uçuşurken Kaan, kazandığı yeni şöhrete kendini biraz fazla kaptırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7kAyg6yGq6Ni4Qy48ZntoQ3DqP3.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Oteli Satıyoruz",
+                "overview": "Edindiği yeni bilgilerden sonra Kaan, kız kardeşleri ayartmaya karar verir. Kızlar ise ona yapacakları evlilik tekliflerini planlamaya koyulur. Mehtap, Kaan'a sinir olmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5xpPsZSnWbWASrMp0pmgnsr0etS.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Mavi Dolunay Gecesi",
+                "overview": "Gülten ve Nedret, üstlendikleri yeni rollerde tatmine ulaşır. \"Seçilmiş kişi\" olmanın ayrıcalığına kendini fazla kaptıran Kaan ise büyük bir kaosa yol açar.",
+                "still_path": "",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 12:34:44"
+    },
+    {
+        "id": 278009,
+        "imdb_id": "tt34692051",
+        "name": "Enfes Bir Akşam",
+        "original_name": "Enfes Bir Akşam",
+        "overview": "Nihal'in aile serveti risk altındadır. Osman için ise hayat iş ve paradan ibarettir. Ancak tüm İstanbul sosyetesini derinden sarsacak bir aşk hikâyesi onları beklemektedir.",
+        "poster": "https://image.tmdb.org/t/p/w500/ua8EQo1HSgHfBPqE41KZVCo3F82.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/tiDVZL3INFjGTbcGhRnLnmmNtKE.jpg",
+        "year": "2025",
+        "rating": 5.7,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Yerli",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Engin Akyürek",
+                "role": "Osman",
+                "image": "https://image.tmdb.org/t/p/w200/jF69AkfDUDlynmlPBMomzQkNHdx.jpg"
+            },
+            {
+                "name": "Aslı Enver",
+                "role": "Nihal",
+                "image": "https://image.tmdb.org/t/p/w200/ElAAxwuUmv8vldYXZrty8uCT7G.jpg"
+            },
+            {
+                "name": "Dolunay Soysert",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/fp6jAtAAbDLpoBkQs2GAUUFyOIj.jpg"
+            },
+            {
+                "name": "İsmail Demirci",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/Av0tUgcbFF5mr4WO3qcvAHBMgvu.jpg"
+            },
+            {
+                "name": "Serkan Altunorak",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/6mZ4mH9GgfMtCeaBJzUt8GfuVir.jpg"
+            },
+            {
+                "name": "Taro Emir Tekin",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/jzq1kYMT7YZSRVbpqQTB3fcL9fW.jpg"
+            },
+            {
+                "name": "Zeynep Oymak",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/fGWEOw1jSwE5hZ6FvQD19hwgpfg.jpg"
+            },
+            {
+                "name": "Ahmet Utlu",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/sz3VHUBb8ppyX9PblmYZoeyevTO.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Nihal, babasının borcunu kapatmasına yardım etmek için Fransa'dan döner ve Bulut ailesinin verdiği tekne siparişini üstlenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/h6EeDtVNK13bOtIEoPbFT9rrP1d.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Nihal, Bulut ailesiyle yaptığı anlaşmayı kurtarmaya çalışırken azmiyle aile üyelerini etkiler. Osman ise kendini Nihal'e kaptırmamaya kararlıdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6sCqxwF3oueM63bsBtZwMoYPWl6.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Engin, bağlantılarını kullanarak Bulutların işine taş koymaya çalışınca Nihal hakkındaki ön yargılar artar. Ama Berna'nın anlattıkları Nihal'e farklı bir gözle bakmalarını sağlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mbPwOUCtU1R4c0sHboVKS7uTpvG.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Kaderini kabullenen Nihal, kredi talebi reddedildikten sonra bankadan sürpriz bir şekilde kredi teklifi alır. Mahir, lansman konserinde Aslı'yı yüzüstü bırakır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gaQ32vZrMZLMxT6APujqqBqQgsT.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Kredi konusunda manipüle edildiğini düşünen Nihal, Osman'a tepki gösterip ondan uzaklaşır. Osman uzlaşmaya yanaşmayınca Engin iyice çileden çıkar ve ona meydan okur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xpMx4UinZxkAIFIDIOFgjQG6lVs.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Nihal duygularına bir anlam vermeye çalışırken arkadaşları, Osman konusunda onu işkillendirir. Songül ise tenis hocasına karşı bir şeyler hissetmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jPMSlTQIBgz9tnyql5sXyJ9BENS.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Bir yanlış anlama yüzünden Nihal sarsılırken Osman'ın kalbi kırılır ve kafası karışır. Arda ve Berna'nın ilişkisi ise bazen ateşli bazen buz gibidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gJZq9QROKPm8ec9KbyRCrj5FFLP.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Engin, Nihal'in babasına reddedemeyeceği bir teklifte bulununca Nihal'in geleceği beklenmedik bir yola sürüklenir. Osman ise artık seçimini yapmalıdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gbY8J43DVzagDk8SwXpzUiN2wBK.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 12:34:42"
+    },
+    {
         "id": 244557,
         "imdb_id": "tt31027788",
         "name": "Mahsun J",

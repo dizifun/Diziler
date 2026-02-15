@@ -1,0 +1,166 @@
+[
+    {
+        "id": 301024,
+        "imdb_id": "tt34987420",
+        "name": "Plaha",
+        "original_name": "Plaha",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/nBfeRh6wHt6iHSvC3hOJkVtHIPS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/crh0pqJOnyjDSAghJQf6ck2Afev.jpg",
+        "year": "2025",
+        "rating": 8.3,
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Jurnal TV"
+        ],
+        "cast": [
+            {
+                "name": "Iulian Postelnicu",
+                "role": "Plaha / Vlad",
+                "image": "https://image.tmdb.org/t/p/w200/fISxPBQ1z8goG99QMpwe5EKexYF.jpg"
+            },
+            {
+                "name": "Dumitru Nastrusnicu",
+                "role": "Borea",
+                "image": ""
+            },
+            {
+                "name": "Zubcu Mihai",
+                "role": "Nechifor",
+                "image": ""
+            },
+            {
+                "name": "Cezar Grumăzescu",
+                "role": "Petru",
+                "image": "https://image.tmdb.org/t/p/w200/4rWWwlKEsn0AxDEEe0NAGAGEM50.jpg"
+            },
+            {
+                "name": "Ada Lupu",
+                "role": "Irina",
+                "image": "https://image.tmdb.org/t/p/w200/tdGEIh6Hpfot02G5NSg4vqq6uxm.jpg"
+            },
+            {
+                "name": "Ciobanu Petru",
+                "role": "Otel",
+                "image": ""
+            },
+            {
+                "name": "Ionuț Cornilă",
+                "role": "Alexei",
+                "image": ""
+            },
+            {
+                "name": "Cosmin Maxim",
+                "role": "Scundu",
+                "image": ""
+            },
+            {
+                "name": "Dima Urusciuc",
+                "role": "Dorel",
+                "image": ""
+            },
+            {
+                "name": "Dimitrii Bogomaz",
+                "role": "Filipescu",
+                "image": ""
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dOTCKvH30YCq4dKeICjuRhmWFRH.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3rPxurXleBbl0Ti1PBUQG4S8wrn.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kjLx24mRY4D4IUSEZlMfNBgJC0G.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zsrAwzz1FaVBULvGInCabiB8l2Q.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/pPpmsAwaehjlmA0htX62kNItumY.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zucJaJf29dLnhgGsFsAYOL9odgk.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fUWABDyEUUQwHVxuGySi3KHcLCM.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/cvgYKnw8D1BlF1HkAtFodeeWNd6.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rS1nJdMTJ4IrLYg1CR67xQPB1nx.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3dKaW59UkYRXgR38kKlHy3BufjQ.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 12:40:44"
+    }
+]

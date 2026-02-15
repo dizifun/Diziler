@@ -2,20 +2,65 @@
     "id": 255251,
     "imdb_id": "tt33473000",
     "name": "Sean Combs: Hesaplaşma",
+    "original_name": "Sean Combs: The Reckoning",
+    "overview": "Bu belgesel dizisi, Sean \"Diddy\" Combs ve Bad Boy imparatorluğunun ardındaki şoke edici iddiaları, Combs'un hayatının ve kariyerinin onlarca yılını ele alarak açıklıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/5L9YS9mpYs0WfuSKYpLd9GUBFc9.jpg",
     "year": "2025",
+    "rating": 7.0,
     "genres": [
         "Belgesel",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Sean Combs"
+        {
+            "name": "Sean Combs",
+            "role": "Self (archive footage)",
+            "image": "https://image.tmdb.org/t/p/w200/4AIfaoGkcuWPhTRR4A6k5tjYJci.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Acı, Sevgiye Karşı",
+            "overview": "New Yorklu bir çocuk nasıl güçlü bir hip-hop devi hâline geldi? Bad Boy Records'un kökenleri, Sean Combs'un nasıl Puff Daddy olduğunu ortaya koyuyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tj23et4SWeIMRhXgPS3xDrWGbO7.jpg",
+            "vote_average": 7.8,
             "link": "https://vidmody.com/vs/tt33473000/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Her İnişin Bir Çıkışı Vardır",
+            "overview": "Ünlülerin yaşam tarzını benimseyen Puffy, Death Row Records ile tehlikeli bir rekabete giriyor. Tupac Shakur'un vurulmasıyla ilgili sorular akıllardaki yerini koruyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2SuRa8vrTX6fwU5aNBWCasQPLNF.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt33473000/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Resmen Sevgili",
+            "overview": "Biggie'nin ölümünün ardından Diddy'nin kariyeri hızla yükselişe geçerken bir dizi şiddet olayı yaşanıyor. İstismara dayalı ilişkiler hakkında endişe verici iddialar ortaya çıkıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sz5jV1tOBDXguc2SP1xXz1RZHGu.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt33473000/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Göz Açıp Kapayıncaya Kadar",
+            "overview": "Combs'u suçlayanlar, şok etkisi yaratan taciz iddialarıyla ortaya çıkıyor. Açılan federal soruşturmayla Combs 2024'te tutuklanıyor ve sansasyonel bir dava başlıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ndTOHfOzaDmuAwR6z7hI7xG2Qgt.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt33473000/s1/e04"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 12:16:17"
 }

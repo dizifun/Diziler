@@ -2,20 +2,65 @@
     "id": 279601,
     "imdb_id": "tt35047134",
     "name": "Man vs Baby",
+    "original_name": "Man vs Baby",
+    "overview": "Beceriksiz baba Trevor Noel'de, Londra'daki lüks çatı katı dairesine göz kulak olurken terk edilen bir bebeğe de bakmak zorunda kalır.",
     "poster": "https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
     "year": "2025",
+    "rating": 6.8,
     "genres": [
         "Komedi",
         "Aile"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Rowan Atkinson"
+        {
+            "name": "Rowan Atkinson",
+            "role": "Trevor Bingley",
+            "image": "https://image.tmdb.org/t/p/w200/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "No. 1",
+            "overview": "Lüks bir eve göz kulak olmak için cazip bir teklif alan Trevor'ın Noel planları, terk edilen bir bebeğe bakmak zorunda kalınca bambaşka bir hâl alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hVVK3uQrN6yka7n5U5CubnfMlPQ.jpg",
+            "vote_average": 7.9,
             "link": "https://vidmody.com/vs/tt35047134/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "No. 2",
+            "overview": "Bir eve göz kulak olma işi için gittiği mülakatta yaramaz bebeği saklamayı başaran Trevor, mülakatı geçer. Fakat şimdi de onu başka bir zorlu görev beklemektedir: bez değiştirmek.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u6B0yi5IFu4hs66oZXkUhW0iFKk.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt35047134/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "No. 3",
+            "overview": "Kapıda kalan ve gece gelen davetsiz misafirlerle uğraşan Trevor, üstüne üstlük talihsiz bir karışıklık sonucu yanlış bebeği gönderir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f2jmWWl8l3vYnWlh78Ybb3TOd74.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt35047134/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "No. 4",
+            "overview": "Çatı katının sahiplerinden gelen sürpriz bir haber üzerine Trevor, hem Noel'i hem de bebeği bir felaketten kurtarmak için çılgın bir mücadeleye girişir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rpHweGjJKyl8SA9TdCFyveYYKMp.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt35047134/s1/e04"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 12:41:55"
 }

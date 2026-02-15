@@ -1,5 +1,1264 @@
 [
     {
+        "id": 279601,
+        "imdb_id": "tt35047134",
+        "name": "Man vs Baby",
+        "original_name": "Man vs Baby",
+        "overview": "Beceriksiz baba Trevor Noel'de, Londra'daki lüks çatı katı dairesine göz kulak olurken terk edilen bir bebeğe de bakmak zorunda kalır.",
+        "poster": "https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+        "year": "2025",
+        "rating": 6.8,
+        "genres": [
+            "Komedi",
+            "Aile"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Rowan Atkinson",
+                "role": "Trevor Bingley",
+                "image": "https://image.tmdb.org/t/p/w200/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "No. 1",
+                "overview": "Lüks bir eve göz kulak olmak için cazip bir teklif alan Trevor'ın Noel planları, terk edilen bir bebeğe bakmak zorunda kalınca bambaşka bir hâl alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hVVK3uQrN6yka7n5U5CubnfMlPQ.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt35047134/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "No. 2",
+                "overview": "Bir eve göz kulak olma işi için gittiği mülakatta yaramaz bebeği saklamayı başaran Trevor, mülakatı geçer. Fakat şimdi de onu başka bir zorlu görev beklemektedir: bez değiştirmek.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u6B0yi5IFu4hs66oZXkUhW0iFKk.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt35047134/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "No. 3",
+                "overview": "Kapıda kalan ve gece gelen davetsiz misafirlerle uğraşan Trevor, üstüne üstlük talihsiz bir karışıklık sonucu yanlış bebeği gönderir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f2jmWWl8l3vYnWlh78Ybb3TOd74.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt35047134/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "No. 4",
+                "overview": "Çatı katının sahiplerinden gelen sürpriz bir haber üzerine Trevor, hem Noel'i hem de bebeği bir felaketten kurtarmak için çılgın bir mücadeleye girişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rpHweGjJKyl8SA9TdCFyveYYKMp.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt35047134/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 12:41:55"
+    },
+    {
+        "id": 301024,
+        "imdb_id": "tt34987420",
+        "name": "Plaha",
+        "original_name": "Plaha",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/nBfeRh6wHt6iHSvC3hOJkVtHIPS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/crh0pqJOnyjDSAghJQf6ck2Afev.jpg",
+        "year": "2025",
+        "rating": 8.3,
+        "genres": [
+            "Aksiyon & Macera",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Jurnal TV"
+        ],
+        "cast": [
+            {
+                "name": "Iulian Postelnicu",
+                "role": "Plaha / Vlad",
+                "image": "https://image.tmdb.org/t/p/w200/fISxPBQ1z8goG99QMpwe5EKexYF.jpg"
+            },
+            {
+                "name": "Dumitru Nastrusnicu",
+                "role": "Borea",
+                "image": ""
+            },
+            {
+                "name": "Zubcu Mihai",
+                "role": "Nechifor",
+                "image": ""
+            },
+            {
+                "name": "Cezar Grumăzescu",
+                "role": "Petru",
+                "image": "https://image.tmdb.org/t/p/w200/4rWWwlKEsn0AxDEEe0NAGAGEM50.jpg"
+            },
+            {
+                "name": "Ada Lupu",
+                "role": "Irina",
+                "image": "https://image.tmdb.org/t/p/w200/tdGEIh6Hpfot02G5NSg4vqq6uxm.jpg"
+            },
+            {
+                "name": "Ciobanu Petru",
+                "role": "Otel",
+                "image": ""
+            },
+            {
+                "name": "Ionuț Cornilă",
+                "role": "Alexei",
+                "image": ""
+            },
+            {
+                "name": "Cosmin Maxim",
+                "role": "Scundu",
+                "image": ""
+            },
+            {
+                "name": "Dima Urusciuc",
+                "role": "Dorel",
+                "image": ""
+            },
+            {
+                "name": "Dimitrii Bogomaz",
+                "role": "Filipescu",
+                "image": ""
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dOTCKvH30YCq4dKeICjuRhmWFRH.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3rPxurXleBbl0Ti1PBUQG4S8wrn.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kjLx24mRY4D4IUSEZlMfNBgJC0G.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zsrAwzz1FaVBULvGInCabiB8l2Q.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/pPpmsAwaehjlmA0htX62kNItumY.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zucJaJf29dLnhgGsFsAYOL9odgk.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fUWABDyEUUQwHVxuGySi3KHcLCM.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/cvgYKnw8D1BlF1HkAtFodeeWNd6.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rS1nJdMTJ4IrLYg1CR67xQPB1nx.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3dKaW59UkYRXgR38kKlHy3BufjQ.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34987420/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 12:40:44"
+    },
+    {
+        "id": 278274,
+        "imdb_id": "tt34779099",
+        "name": "Entrepreneurs",
+        "original_name": "Entrepreneurs",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/dk0cSgzkceAyNKtgfhAbKULlnps.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mkaNtktJwAASDMMhK7Mh22kOAko.jpg",
+        "year": "2025",
+        "rating": 6.2,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Rober Bodegas",
+                "role": "Gonzalo",
+                "image": "https://image.tmdb.org/t/p/w200/xiSGT6apTkAh5ACIRkA4zRqrahx.jpg"
+            },
+            {
+                "name": "Alberto Casado",
+                "role": "Jacobo",
+                "image": "https://image.tmdb.org/t/p/w200/2EWQXO3v5WVHn2jn2RzcA1ehxJD.jpg"
+            },
+            {
+                "name": "Aura Garrido",
+                "role": "Julia",
+                "image": "https://image.tmdb.org/t/p/w200/195NlsR4hNQtvvZi3eZ19EJCOu7.jpg"
+            },
+            {
+                "name": "Gonzalo de Castro",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/abAM8NPul7V7g1B08wSM9QKht6Y.jpg"
+            },
+            {
+                "name": "Victoria Martín",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/1p05mJzyfM2uereWTzie0GhxKBo.jpg"
+            },
+            {
+                "name": "Luis Bermejo",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/rl4hG3Ou4N244hq5eKhGLz0gIBL.jpg"
+            },
+            {
+                "name": "Aníbal Gómez",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/3wDau6jK5VMt0b9Wjn7v8SaW6gb.jpg"
+            },
+            {
+                "name": "Lalo Tenorio",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/2jFpfKhsoqnzjXzh8oQIV4uiQQd.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/n9qlPZqRhyCBFt8b1yRYxMERdNC.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gB96j0SfNjHMyphBjoI8PhoeRH1.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mVsIQjJxsabJCdGiRSJtmKl4mtO.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eukgzVFkfPLTy9GbN2k0DEXhF4O.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/pX3CK0PlczCqbvN1EXsJ9mkAnhQ.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/x7M2BE6SC1xahFpuGKmy4LtxiKk.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/n4QvNmvFFtFrmH8YS3tKC3s3MnE.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kZXDMhfT8oyvKy955gd0C0IgPwN.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lpGvqua1qbUvR9TxahD4WjLBlx3.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/e4Cl1Lqt17vByePwX3yLiarRU3F.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 12:37:00"
+    },
+    {
+        "id": 278011,
+        "imdb_id": "tt34692112",
+        "name": "Platonik",
+        "original_name": "Platonik",
+        "overview": "Bir anne ve iki kızının Alaçatı'da işlettiği mütevazi butik otel, konumundan dolayı yatırımcıların ağzını sulandırır. Yakışıklı bir iş insanı, annenin kesinlikle satmak istemediği bu oteli almak için işi inada bindirir, başka bir kimlikle otelde konaklamaya karar verir ve otele giriş yaptığı anda annenin iki kızını da kendisine aşık eder. Kızlardan biri evren tarafından kendisine gönderilmiş ruh eşini bulduğunu düşünürken diğeri ise kaderinin sonunda geldiğine emindir.",
+        "poster": "https://image.tmdb.org/t/p/w500/dj8A4dX6oC7DFD2RWLqvMLMPVQ3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/c7mQmsBKo3xKAVsdNVuqKz7eZxb.jpg",
+        "year": "2025",
+        "rating": 5.8,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Yerli",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Gupse Özay",
+                "role": "Gulten",
+                "image": "https://image.tmdb.org/t/p/w200/tFn0kdIqftqqKiuCSYQVr9WwGJx.jpg"
+            },
+            {
+                "name": "Öykü Karayel",
+                "role": "Nedret",
+                "image": "https://image.tmdb.org/t/p/w200/rzMUT2OMgnlsDLKUIdPDM0q2mgf.jpg"
+            },
+            {
+                "name": "Kerem Bürsin",
+                "role": "Kaan",
+                "image": "https://image.tmdb.org/t/p/w200/aEVh7OLO0R2ggKNhAeuTKhrnhe4.jpg"
+            },
+            {
+                "name": "Mehmet Özgür",
+                "role": "Omer",
+                "image": "https://image.tmdb.org/t/p/w200/n4QOcXf2eXPmJ8KOZcMlUEetUA8.jpg"
+            },
+            {
+                "name": "Uğur Demirpehlivan",
+                "role": "Nezahat",
+                "image": "https://image.tmdb.org/t/p/w200/c2mdH9vhte6mfgK3EkLV6m0OYgG.jpg"
+            },
+            {
+                "name": "Ülkü Duru",
+                "role": "Hidayet",
+                "image": "https://image.tmdb.org/t/p/w200/j7Fs4noFACkkUGzFhK8ne9ura3G.jpg"
+            },
+            {
+                "name": "Pınar Çağlar Gençtürk",
+                "role": "Nebahat",
+                "image": "https://image.tmdb.org/t/p/w200/iMSnVDGstCuVjwfvEv1EzinbejB.jpg"
+            },
+            {
+                "name": "Ali İpin",
+                "role": "Avni",
+                "image": "https://image.tmdb.org/t/p/w200/ahl0kBiaGlSxlDt30S5HOBTPUz.jpg"
+            },
+            {
+                "name": "Feri Baycu Güler",
+                "role": "Emel",
+                "image": "https://image.tmdb.org/t/p/w200/ge1lICGb7Lxiek8uCVJyVS2hQjR.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Onun Gelişi",
+                "overview": "Nezahat ve kızları, yıllar sonra otele gelen ilk gerçek misafiri karşılamaya hazırlanır. Ancak Kaan'ın baştan çıkarıcı görüntüsünün altında bambaşka niyetleri vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2vpBVCx6AHXV7BeVQCM2oN6oYZL.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kader mi Ruh Eşi mi?",
+                "overview": "Gülten ve Nedret, Kaan'ın ilgisini çekmek için birbirleriyle yarışırken otel personeli ve diğer misafirler, bu yakışıklı yabancıya kendi çılgın ve farklı pencerelerinden bakar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/x1VEytPaGqEx3BsFk6eT12IhFvb.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Gülten ve Kaan",
+                "overview": "Gülten, Kaan'a kasabayı gezdirince yöre halkı arasında dedikodu alıp yürür. Nedret, ablasıyla sorunlarını çözmek için yeni bir terapi yöntemi dener.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vLQNLaOEscGd8JQanfE9jcCIWuU.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Nedret ve Kaan",
+                "overview": "Bir önceki gece yaşananların ardından Gülten, güzellik merkezindeki gizemli falcıya akıl danışır. Nedret ise Kaan'ı \"Işık ve Sen\" kampına götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dajiJYy6sE5ErX5MzW8EqLe4Mru.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kaan'ı Kaçırdılar",
+                "overview": "Kaan ortadan kaybolur. Kızlar otelde, kasabada ve hatta ruhani dünyada onu ararken, Kaan geceyi çok özel biriyle geçirmektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9ZmnBPyDrPSf97oeRl6t1wrGFu9.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Kaan Evliymiş",
+                "overview": "Mehtap'ın gelişi çığ gibi büyüyen yanlış anlaşılmalara yol açar. Kasabada dedikodular havada uçuşurken Kaan, kazandığı yeni şöhrete kendini biraz fazla kaptırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7kAyg6yGq6Ni4Qy48ZntoQ3DqP3.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Oteli Satıyoruz",
+                "overview": "Edindiği yeni bilgilerden sonra Kaan, kız kardeşleri ayartmaya karar verir. Kızlar ise ona yapacakları evlilik tekliflerini planlamaya koyulur. Mehtap, Kaan'a sinir olmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5xpPsZSnWbWASrMp0pmgnsr0etS.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Mavi Dolunay Gecesi",
+                "overview": "Gülten ve Nedret, üstlendikleri yeni rollerde tatmine ulaşır. \"Seçilmiş kişi\" olmanın ayrıcalığına kendini fazla kaptıran Kaan ise büyük bir kaosa yol açar.",
+                "still_path": "",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt34692112/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 12:34:44"
+    },
+    {
+        "id": 278009,
+        "imdb_id": "tt34692051",
+        "name": "Enfes Bir Akşam",
+        "original_name": "Enfes Bir Akşam",
+        "overview": "Nihal'in aile serveti risk altındadır. Osman için ise hayat iş ve paradan ibarettir. Ancak tüm İstanbul sosyetesini derinden sarsacak bir aşk hikâyesi onları beklemektedir.",
+        "poster": "https://image.tmdb.org/t/p/w500/ua8EQo1HSgHfBPqE41KZVCo3F82.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/tiDVZL3INFjGTbcGhRnLnmmNtKE.jpg",
+        "year": "2025",
+        "rating": 5.7,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Yerli",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Engin Akyürek",
+                "role": "Osman",
+                "image": "https://image.tmdb.org/t/p/w200/jF69AkfDUDlynmlPBMomzQkNHdx.jpg"
+            },
+            {
+                "name": "Aslı Enver",
+                "role": "Nihal",
+                "image": "https://image.tmdb.org/t/p/w200/ElAAxwuUmv8vldYXZrty8uCT7G.jpg"
+            },
+            {
+                "name": "Dolunay Soysert",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/fp6jAtAAbDLpoBkQs2GAUUFyOIj.jpg"
+            },
+            {
+                "name": "İsmail Demirci",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/Av0tUgcbFF5mr4WO3qcvAHBMgvu.jpg"
+            },
+            {
+                "name": "Serkan Altunorak",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/6mZ4mH9GgfMtCeaBJzUt8GfuVir.jpg"
+            },
+            {
+                "name": "Taro Emir Tekin",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/jzq1kYMT7YZSRVbpqQTB3fcL9fW.jpg"
+            },
+            {
+                "name": "Zeynep Oymak",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/fGWEOw1jSwE5hZ6FvQD19hwgpfg.jpg"
+            },
+            {
+                "name": "Ahmet Utlu",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/sz3VHUBb8ppyX9PblmYZoeyevTO.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Nihal, babasının borcunu kapatmasına yardım etmek için Fransa'dan döner ve Bulut ailesinin verdiği tekne siparişini üstlenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/h6EeDtVNK13bOtIEoPbFT9rrP1d.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Nihal, Bulut ailesiyle yaptığı anlaşmayı kurtarmaya çalışırken azmiyle aile üyelerini etkiler. Osman ise kendini Nihal'e kaptırmamaya kararlıdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6sCqxwF3oueM63bsBtZwMoYPWl6.jpg",
+                "vote_average": 10.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Engin, bağlantılarını kullanarak Bulutların işine taş koymaya çalışınca Nihal hakkındaki ön yargılar artar. Ama Berna'nın anlattıkları Nihal'e farklı bir gözle bakmalarını sağlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mbPwOUCtU1R4c0sHboVKS7uTpvG.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Kaderini kabullenen Nihal, kredi talebi reddedildikten sonra bankadan sürpriz bir şekilde kredi teklifi alır. Mahir, lansman konserinde Aslı'yı yüzüstü bırakır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gaQ32vZrMZLMxT6APujqqBqQgsT.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Kredi konusunda manipüle edildiğini düşünen Nihal, Osman'a tepki gösterip ondan uzaklaşır. Osman uzlaşmaya yanaşmayınca Engin iyice çileden çıkar ve ona meydan okur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xpMx4UinZxkAIFIDIOFgjQG6lVs.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Nihal duygularına bir anlam vermeye çalışırken arkadaşları, Osman konusunda onu işkillendirir. Songül ise tenis hocasına karşı bir şeyler hissetmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jPMSlTQIBgz9tnyql5sXyJ9BENS.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Bir yanlış anlama yüzünden Nihal sarsılırken Osman'ın kalbi kırılır ve kafası karışır. Arda ve Berna'nın ilişkisi ise bazen ateşli bazen buz gibidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gJZq9QROKPm8ec9KbyRCrj5FFLP.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Engin, Nihal'in babasına reddedemeyeceği bir teklifte bulununca Nihal'in geleceği beklenmedik bir yola sürüklenir. Osman ise artık seçimini yapmalıdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gbY8J43DVzagDk8SwXpzUiN2wBK.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt34692051/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 12:34:42"
+    },
+    {
+        "id": 273801,
+        "imdb_id": "tt33745056",
+        "name": "Florida işte bu,  Adamım",
+        "original_name": "It's Florida, Man.",
+        "overview": "Gerçek hikayeler. Gerçekten aptalca.\n\nBu saygısız gece geç saatlerde yayınlanan komedi dizisi, Güneşli Eyalet'in inanılmaz, manşetlerden fırlamış hikayelerini hayata geçiriyor. Sıradan Floridalılarla yapılan röportajlar ve değişen oyuncu ve komedyen kadrosunun yer aldığı eğlenceli canlandırmalar içeren bu komik ve sıra dışı dizi, viral olan, tuhaf ve garip olaylara ışık tutuyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/yrGQwoY9XUglAlCDzsIlr3ws4pM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/hbWqmgF9NYU2ATBWqvhLnOCeW2V.jpg",
+        "year": "2024",
+        "rating": 6.2,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "Spectrum On Demand",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Stephen Root",
+                "role": "Title Narrator (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dTcvWiUHKxOZ9EQnmIllAXy9C97.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uVVhP4fQPPgD1J0zUsrm9V3hI1r.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/se0r4qnDf6QvOPh7vG5XHqzThxD.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/urtJZqXNLppkOAWNlE0okxe47Ll.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2V3MpoBBM8qUkP7kSYpBZ66FOGz.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lXPpqcNzTaVvv8ywxQla2xwrHWr.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e06"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/wrS3IyCY47ObP2XoY3vD4GUB1SU.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lJNiu7SoiG451OtBTfI4L5w7S7V.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9AXPd0yrjlHXG9YRVJ9gV9cqphg.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/p94UWJrCarplnPejfYX8GJH3lVh.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2GzkQC5Lo9pe791YasRUFhMzahL.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6xhAgdA6ps96zKEDHqrn7LSp5yK.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e06"
+            }
+        ],
+        "update_date": "2026-02-15 12:20:24"
+    },
+    {
+        "id": 271885,
+        "imdb_id": "tt33550045",
+        "name": "As You Stood By",
+        "original_name": "당신이 죽였다",
+        "overview": "İki kadın, şiddet dolu bir evliliği cinayetle bitirmeyi planlarken beklenmedik bir ziyaretçi çıkagelir ve onları planladıkları her şeyi yerle bir etmekle tehdit eder.",
+        "poster": "https://image.tmdb.org/t/p/w500/cAx7vFmy7gBCqGKU1v8lvrvpDBF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/7uVNWsjnmkvqpeqWHq5qpLBv3wd.jpg",
+        "year": "2025",
+        "rating": 8.0,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "전소니",
+                "role": "Jo Eun-su",
+                "image": "https://image.tmdb.org/t/p/w200/dIYceHYZ9lHePBnAsZo2zMEHHAq.jpg"
+            },
+            {
+                "name": "이유미",
+                "role": "Jo Hui-su",
+                "image": "https://image.tmdb.org/t/p/w200/jZgjJqr6pGEegyziY10b4SklqbD.jpg"
+            },
+            {
+                "name": "장승조",
+                "role": "Noh Jin-pyo",
+                "image": "https://image.tmdb.org/t/p/w200/eNuDu7SIBqgDRbaKajs3C5JXj2B.jpg"
+            },
+            {
+                "name": "이무생",
+                "role": "Chen Shaobo",
+                "image": "https://image.tmdb.org/t/p/w200/xokzuuLDfVzassk0bmje2fvdMcM.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Eun-su",
+                "overview": "Bir saat kaybolunca Jo Eun-su, gizemli tavırlarıyla dikkatini çeken bir müşteriyi cesurca takip eder. Ardından evde sorunlar yaşadığı belli olan annesini ziyaret eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zbutDcqwJK7c0x4d6HOBNGGsUCn.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt33550045/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Hui-su",
+                "overview": "Jo Hui-su, kaçma girişimlerine rağmen Noh Jin-pyo'nun yıllarca süren acımasız istismarına katlanır. Kırılma noktasına geldiğinde, Eun-su harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oiiFUjJBVvkBq8pNlZQuCCvRue0.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt33550045/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Eun-su, Hui-su ve Jin-pyo",
+                "overview": "Hui-su'nun uğradığı kötü muameleye tanık olan Eun-su, Jin-pyo'yu durdurmak için onunla birlik olur ve planlarını gerçekleştirmek için Jin So-baek'in bir çalışanıyla anlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fZCCJQfhlqOFRAZrzfXDJLJhFJE.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt33550045/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Eun-su ve Hui-su",
+                "overview": "Jin-pyo ile yaşadıkları çatışmanın ardından Eun-su ve Hui-su, izlerini silmek için acele etmek zorundadır. Ancak titizlikle ilerlemeye çalışırken birçok engelle karşılaşırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9kVMGGQp6vOIWvplERoZd7p6NCh.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33550045/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Eun-su, Hui-su ve Jin So-baek",
+                "overview": "Yaşadıkları sorunlar sona ermiş gibi görünen Eun-su ve Hui-su, hayatlarını yeniden kurmaya çalışır. Ama çok geçmeden bela yine Eun-su'yu bulunca So-baek imdadına yetişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sEHN2vSvgUqi3hq6jq7m0meBxI4.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt33550045/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Eun-su, Hui-su ve Jang Kang",
+                "overview": "Beklenmedik bir ziyaretçinin gelişiyle korkuya kapılan Hui-su, Eun-su ile beraber yeni bir krizle başa çıkmalıdır. So-baek ise ikilinin tuhaf davranışlarını sorgulamaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uAYdBsoDi1BkGF6qYSonRChi0fY.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt33550045/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Eun-su, Hui-su ve Jin-young",
+                "overview": "Noh Jin-young, Eun-su ve Hui-su'nun peşindeyken So-baek onlara yardım etmeyi teklif eder. Ancak Eun-su dizginleri eline alarak herkesi tehlikeye atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/w8887JIEYDFLf3IzbvvEl5mFIZ4.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt33550045/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Eun-su, Hui-su ve Biz",
+                "overview": "Jin-young'un baskısı altında kalan Hui-su, akılalmaz bir şey yapar. Acaba Eun-su, bu cehennem azabının içinden çıkıp döngüyü sonunda kırabilecek midir?",
+                "still_path": "https://image.tmdb.org/t/p/w400/qtXMyeS4IOrwfKvoSakV69tBZ01.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt33550045/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 12:18:24"
+    },
+    {
+        "id": 272586,
+        "imdb_id": "tt33501959",
+        "name": "Günah",
+        "original_name": "Synden",
+        "overview": "Bir kayıp genç vakasıyla kişisel bağları olan bir dedektif, sarsılmaz sadakatleri ve eski aile çekişmelerini ortaya çıkaran gerilim dolu bir soruşturmaya dâhil olur.",
+        "poster": "https://image.tmdb.org/t/p/w500/hXEVR6oJ4QRkLraDi4ckdZVNVlc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/rlTfXiGnDhj8CMm7FK6KW8XFAKA.jpg",
+        "year": "2026",
+        "rating": 5.5,
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Krista Kosonen",
+                "role": "Dani",
+                "image": "https://image.tmdb.org/t/p/w200/7iW2mxbxBgV5sX2y0fSY78lewW4.jpg"
+            },
+            {
+                "name": "Mohammed Nour Oklah",
+                "role": "Malik",
+                "image": "https://image.tmdb.org/t/p/w200/8LpiaYR7SEdhWlAluHlMrtDQM1C.jpg"
+            },
+            {
+                "name": "Peter Gantman",
+                "role": "Elis",
+                "image": "https://image.tmdb.org/t/p/w200/2zmNLuy4GtxcF2lNWsNOyDAbr7d.jpg"
+            },
+            {
+                "name": "Lisa Lindgren",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/f5laRtC1gNhHShyMb3D6tUdlac4.jpg"
+            },
+            {
+                "name": "Ceasar Matijasevic",
+                "role": "",
+                "image": ""
+            },
+            {
+                "name": "Alexander Persson",
+                "role": "",
+                "image": ""
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Seni Uyarıyorum",
+                "overview": "Malmö'de yaşayan dedektifler Dani ve Malik, bir gencin kaybolmasını araştırmak için kırsaldaki bir köye giderler. Burada hoş karşılanmasalar da Dani için bu kişisel bir meseledir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vR83wi1JaTsEx29iCv4WuLNWn4h.jpg",
+                "vote_average": 2.2,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kimliği Belirsiz Adam 1",
+                "overview": "Yeni deliller ve uzun süredir saklanan sırlar ortaya çıkarken vakayla ilgili sorular artar. Dani ve Malik, kimliği belirsiz bir şüpheliyi yakalamak için ipuçlarının peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/koeYpAkJcXBFC4mUB0paUZCLZOt.jpg",
+                "vote_average": 2.2,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Kardeşler",
+                "overview": "Malik, kahrolan iş arkadaşının acı verici bir olasılıkla başa çıkmasına yardımcı olmak için kuralları esnetir. Elis, eskiden tanıdığı tehditkâr biriyle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9DCiGGdFeNdXuD75AhZ0G5EMFzz.jpg",
+                "vote_average": 2.4,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Järven",
+                "overview": "Järven güvenliğini sağlamak için bir ültimatom verirken Elis, tehlikeli sonuçları olabilecek bir teoriyi kanıtlamak için beklenmedik bir ittifak kurar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/H3PfT5Mp06t2IObrG6ahjjXTAk.jpg",
+                "vote_average": 2.0,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kraliçe Arı",
+                "overview": "Rahatsız edici yeni kanıtlar ve acı gerçekler ortaya çıkarken, hem polis hem de yerel halk çok geç olmadan sorumluları bulmak için çabalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eb046jecXt3XD7Mf5tKU95bcOfY.jpg",
+                "vote_average": 2.2,
+                "link": "https://vidmody.com/vs/tt33501959/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-15 12:17:21"
+    },
+    {
+        "id": 272418,
+        "imdb_id": "tt33484460",
+        "name": "Robin Hood",
+        "original_name": "Robin Hood",
+        "overview": "12. yüzyıl İngiltere'sinde, Saksonlar Norman egemenliği altında acı çekmektedir. Bir ormancının oğlu olan Locksley'li Robert, ailesinin mülksüzleştirilmesi ve babasının Nottingham Şerifi tarafından idam edilmesiyle her şeyini kaybeder. Keder, direnişe yol açar ve uzun yay kullanma yeteneğiyle Rob, baskıya karşı koyar. Yanında, aile göreviyle ona olan sevgisi arasında kalmış soylu bir kadın olan Marian vardır. Sherwood Ormanı'ndan sürgün edilmiş bir grupla birlikte, yolsuzluğa ve keyfi yönetime karşı savaşan bir topluluk kurar. Bu intikam arzusu, nihayetinde bir efsaneye yol açar: Zorbalığa karşı isyanın sembolü Robin Hood.",
+        "poster": "https://image.tmdb.org/t/p/w500/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
+        "year": "2025",
+        "rating": 7.5,
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "MGM Plus",
+            "Amazon Prime",
+            "Spectrum On Demand",
+            "MGM+",
+            "Philo",
+            "MGM Plus Roku Premium Channel"
+        ],
+        "cast": [
+            {
+                "name": "Jack Patten",
+                "role": "Robert 'Rob' of Locksley",
+                "image": "https://image.tmdb.org/t/p/w200/sIE11wI7czGjYCUOlEKqXguIdsl.jpg"
+            },
+            {
+                "name": "Lauren McQueen",
+                "role": "Marian",
+                "image": "https://image.tmdb.org/t/p/w200/fdoKXXGRL8cLrRhP5bP5MPdK9Uc.jpg"
+            },
+            {
+                "name": "Lydia Peckham",
+                "role": "Priscilla of Nottingham",
+                "image": "https://image.tmdb.org/t/p/w200/tcBJklZSsP2JuQIYataJHW3pJXE.jpg"
+            },
+            {
+                "name": "Marcus Fraser",
+                "role": "Little John",
+                "image": "https://image.tmdb.org/t/p/w200/qpAxGk8XjUxNsfcW5B1YMupOff5.jpg"
+            },
+            {
+                "name": "Henry Rowley",
+                "role": "Will",
+                "image": "https://image.tmdb.org/t/p/w200/wSAWkHEtCN9dAz3gGjiA5ODr3jN.jpg"
+            },
+            {
+                "name": "Erica Ford",
+                "role": "Ralph Miller",
+                "image": "https://image.tmdb.org/t/p/w200/kcizuJHVuRmvrYGD0vNh4UjJ4Az.jpg"
+            },
+            {
+                "name": "Angus Castle-Doughty",
+                "role": "Friar Tuck",
+                "image": "https://image.tmdb.org/t/p/w200/aEYs00qhM3m9YcknhpFHYngP8Zp.jpg"
+            },
+            {
+                "name": "Steven Waddington",
+                "role": "Earl of Huntingdon",
+                "image": "https://image.tmdb.org/t/p/w200/gmlX5NNJI5HoNrK3RUPwBUmUgBW.jpg"
+            },
+            {
+                "name": "Connie Nielsen",
+                "role": "Eleanor of Aquitaine",
+                "image": "https://image.tmdb.org/t/p/w200/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+            },
+            {
+                "name": "Sean Bean",
+                "role": "Sheriff of Nottingham",
+                "image": "https://image.tmdb.org/t/p/w200/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Onu Gör",
+                "overview": "Bir Sakson ormancının oğlu her şeyini kaybeder. Bir efsane kanla doğar. İngiltere'nin ruhu için mücadele başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iGXov4pwqxoRXpcHIraR453Fbcs.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "İğrenç Bir Şeytan",
+                "overview": "Keder intikama dönüşüyor. Rob bir çizgiyi aşıyor ve içindeki masumiyet ölüyor. Onun yerine yükselen şey, İngiltere'nin geleceğini şekillendirecek.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AtrmCKPdDKD6ufCSIjeXRViUhWG.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Hiçbir Adam Sonsuza Kadar Saklanamaz",
+                "overview": "Marian, ihtişamı karşısında büyülenmiş bir şekilde Westminster'a varır. Rob, Küçük John'un yardımını alır, ancak bir Norman öldürüldükten sonra Şerifin avı yoğunlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zIeZFzCXfa205gAxnJoBQYee4Fa.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Bu Huzursuzluğun Nedeni",
+                "overview": "Rob ve çetesi, Şerifin ödül parasını hedef alırlar; bu, eğer önce kendilerini öldürmezse, kaderlerini değiştirebilecek cesur bir soygundur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jg9zZr4StFrLDvbIPO2QEq2OEew.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Onlara Geri Dön",
+                "overview": "Rob, Miller ailesini asılmaktan kurtarmak için her şeyi riske atar. Westminster'da Marian'ın dünyası, kardeşinin ölüm haberiyle altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eyPznc2hkuFstd6l1YP6z0D7QYc.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Aşkla Bağlı, Yalanlarla Bölünmüş",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uZLJvHJHeUKFNdX19p1cgipfwhR.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/t6TZkhn1Syol70jPpEG7q4B4wO7.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "İsyankarlığın Gerçek Bedeli",
+                "overview": "Rob, amcasını ve Sakson ileri gelenlerini kurtarmak için cesur bir girişimde bulunur, ancak Şerif'in tuzağına düşer; bir kanun kaçağının ölümü Rob'un öfkesini körükler; Westminster'da, Marian'ın Prens John ile giderek güçlenen bağı, Eleanor için yürüttüğü görevi giderek daha tehlikeli hale getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xCREtKphzOgfXwmle78sG8jlym0.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Seni seçiyorum",
+                "overview": "Henry'nin ölümüne karşılık olarak Rob, Warick'in malikanesini yakar ve Warick'i öldürerek Tuck'ı uzaklaştırır; Şerif Eleanor'u ziyaret eder; Prens John, Marian'ın casusluğunu ortaya çıkarır ve Marian, Kral'ın Rob'u öldürmesi için Guy of Gisborne'u gönderdiği haberini iletmek üzere kaçmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/phMMOJd0DtZWjlX3bcEnUJO9BVK.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Bir düşman düşerken, diğeri yükselir.",
+                "overview": "Guy of Gisborne, Rob'u öldürmek için harekete geçerken, Şerif de Kralı İngiltere'ye çekmek için ona karşı planlar kurar; Rob saldırıya hazırlanır; Marian istihbarat toplamak için babasının evine sızar; kanun kaçakları zafer için hayati önem taşıyan görevler yürütür; ya herkes başarılı olur ya da herkes ölür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5CxVoMf9Za7nEqbTMzVc62wfHF2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 12:16:52"
+    },
+    {
+        "id": 255251,
+        "imdb_id": "tt33473000",
+        "name": "Sean Combs: Hesaplaşma",
+        "original_name": "Sean Combs: The Reckoning",
+        "overview": "Bu belgesel dizisi, Sean \"Diddy\" Combs ve Bad Boy imparatorluğunun ardındaki şoke edici iddiaları, Combs'un hayatının ve kariyerinin onlarca yılını ele alarak açıklıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/5L9YS9mpYs0WfuSKYpLd9GUBFc9.jpg",
+        "year": "2025",
+        "rating": 7.0,
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Sean Combs",
+                "role": "Self (archive footage)",
+                "image": "https://image.tmdb.org/t/p/w200/4AIfaoGkcuWPhTRR4A6k5tjYJci.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Acı, Sevgiye Karşı",
+                "overview": "New Yorklu bir çocuk nasıl güçlü bir hip-hop devi hâline geldi? Bad Boy Records'un kökenleri, Sean Combs'un nasıl Puff Daddy olduğunu ortaya koyuyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tj23et4SWeIMRhXgPS3xDrWGbO7.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt33473000/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Her İnişin Bir Çıkışı Vardır",
+                "overview": "Ünlülerin yaşam tarzını benimseyen Puffy, Death Row Records ile tehlikeli bir rekabete giriyor. Tupac Shakur'un vurulmasıyla ilgili sorular akıllardaki yerini koruyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2SuRa8vrTX6fwU5aNBWCasQPLNF.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt33473000/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Resmen Sevgili",
+                "overview": "Biggie'nin ölümünün ardından Diddy'nin kariyeri hızla yükselişe geçerken bir dizi şiddet olayı yaşanıyor. İstismara dayalı ilişkiler hakkında endişe verici iddialar ortaya çıkıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sz5jV1tOBDXguc2SP1xXz1RZHGu.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt33473000/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Göz Açıp Kapayıncaya Kadar",
+                "overview": "Combs'u suçlayanlar, şok etkisi yaratan taciz iddialarıyla ortaya çıkıyor. Açılan federal soruşturmayla Combs 2024'te tutuklanıyor ve sansasyonel bir dava başlıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ndTOHfOzaDmuAwR6z7hI7xG2Qgt.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt33473000/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 12:16:17"
+    },
+    {
         "id": 246473,
         "imdb_id": "tt33298903",
         "name": "Made in Korea",

@@ -1,5 +1,174 @@
 [
     {
+        "id": 272418,
+        "imdb_id": "tt33484460",
+        "name": "Robin Hood",
+        "original_name": "Robin Hood",
+        "overview": "12. yüzyıl İngiltere'sinde, Saksonlar Norman egemenliği altında acı çekmektedir. Bir ormancının oğlu olan Locksley'li Robert, ailesinin mülksüzleştirilmesi ve babasının Nottingham Şerifi tarafından idam edilmesiyle her şeyini kaybeder. Keder, direnişe yol açar ve uzun yay kullanma yeteneğiyle Rob, baskıya karşı koyar. Yanında, aile göreviyle ona olan sevgisi arasında kalmış soylu bir kadın olan Marian vardır. Sherwood Ormanı'ndan sürgün edilmiş bir grupla birlikte, yolsuzluğa ve keyfi yönetime karşı savaşan bir topluluk kurar. Bu intikam arzusu, nihayetinde bir efsaneye yol açar: Zorbalığa karşı isyanın sembolü Robin Hood.",
+        "poster": "https://image.tmdb.org/t/p/w500/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
+        "year": "2025",
+        "rating": 7.5,
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "MGM Plus",
+            "Amazon Prime",
+            "Spectrum On Demand",
+            "MGM+",
+            "Philo",
+            "MGM Plus Roku Premium Channel"
+        ],
+        "cast": [
+            {
+                "name": "Jack Patten",
+                "role": "Robert 'Rob' of Locksley",
+                "image": "https://image.tmdb.org/t/p/w200/sIE11wI7czGjYCUOlEKqXguIdsl.jpg"
+            },
+            {
+                "name": "Lauren McQueen",
+                "role": "Marian",
+                "image": "https://image.tmdb.org/t/p/w200/fdoKXXGRL8cLrRhP5bP5MPdK9Uc.jpg"
+            },
+            {
+                "name": "Lydia Peckham",
+                "role": "Priscilla of Nottingham",
+                "image": "https://image.tmdb.org/t/p/w200/tcBJklZSsP2JuQIYataJHW3pJXE.jpg"
+            },
+            {
+                "name": "Marcus Fraser",
+                "role": "Little John",
+                "image": "https://image.tmdb.org/t/p/w200/qpAxGk8XjUxNsfcW5B1YMupOff5.jpg"
+            },
+            {
+                "name": "Henry Rowley",
+                "role": "Will",
+                "image": "https://image.tmdb.org/t/p/w200/wSAWkHEtCN9dAz3gGjiA5ODr3jN.jpg"
+            },
+            {
+                "name": "Erica Ford",
+                "role": "Ralph Miller",
+                "image": "https://image.tmdb.org/t/p/w200/kcizuJHVuRmvrYGD0vNh4UjJ4Az.jpg"
+            },
+            {
+                "name": "Angus Castle-Doughty",
+                "role": "Friar Tuck",
+                "image": "https://image.tmdb.org/t/p/w200/aEYs00qhM3m9YcknhpFHYngP8Zp.jpg"
+            },
+            {
+                "name": "Steven Waddington",
+                "role": "Earl of Huntingdon",
+                "image": "https://image.tmdb.org/t/p/w200/gmlX5NNJI5HoNrK3RUPwBUmUgBW.jpg"
+            },
+            {
+                "name": "Connie Nielsen",
+                "role": "Eleanor of Aquitaine",
+                "image": "https://image.tmdb.org/t/p/w200/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+            },
+            {
+                "name": "Sean Bean",
+                "role": "Sheriff of Nottingham",
+                "image": "https://image.tmdb.org/t/p/w200/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Onu Gör",
+                "overview": "Bir Sakson ormancının oğlu her şeyini kaybeder. Bir efsane kanla doğar. İngiltere'nin ruhu için mücadele başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iGXov4pwqxoRXpcHIraR453Fbcs.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "İğrenç Bir Şeytan",
+                "overview": "Keder intikama dönüşüyor. Rob bir çizgiyi aşıyor ve içindeki masumiyet ölüyor. Onun yerine yükselen şey, İngiltere'nin geleceğini şekillendirecek.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AtrmCKPdDKD6ufCSIjeXRViUhWG.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Hiçbir Adam Sonsuza Kadar Saklanamaz",
+                "overview": "Marian, ihtişamı karşısında büyülenmiş bir şekilde Westminster'a varır. Rob, Küçük John'un yardımını alır, ancak bir Norman öldürüldükten sonra Şerifin avı yoğunlaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zIeZFzCXfa205gAxnJoBQYee4Fa.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Bu Huzursuzluğun Nedeni",
+                "overview": "Rob ve çetesi, Şerifin ödül parasını hedef alırlar; bu, eğer önce kendilerini öldürmezse, kaderlerini değiştirebilecek cesur bir soygundur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jg9zZr4StFrLDvbIPO2QEq2OEew.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Onlara Geri Dön",
+                "overview": "Rob, Miller ailesini asılmaktan kurtarmak için her şeyi riske atar. Westminster'da Marian'ın dünyası, kardeşinin ölüm haberiyle altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eyPznc2hkuFstd6l1YP6z0D7QYc.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Aşkla Bağlı, Yalanlarla Bölünmüş",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uZLJvHJHeUKFNdX19p1cgipfwhR.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/t6TZkhn1Syol70jPpEG7q4B4wO7.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "İsyankarlığın Gerçek Bedeli",
+                "overview": "Rob, amcasını ve Sakson ileri gelenlerini kurtarmak için cesur bir girişimde bulunur, ancak Şerif'in tuzağına düşer; bir kanun kaçağının ölümü Rob'un öfkesini körükler; Westminster'da, Marian'ın Prens John ile giderek güçlenen bağı, Eleanor için yürüttüğü görevi giderek daha tehlikeli hale getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xCREtKphzOgfXwmle78sG8jlym0.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Seni seçiyorum",
+                "overview": "Henry'nin ölümüne karşılık olarak Rob, Warick'in malikanesini yakar ve Warick'i öldürerek Tuck'ı uzaklaştırır; Şerif Eleanor'u ziyaret eder; Prens John, Marian'ın casusluğunu ortaya çıkarır ve Marian, Kral'ın Rob'u öldürmesi için Guy of Gisborne'u gönderdiği haberini iletmek üzere kaçmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/phMMOJd0DtZWjlX3bcEnUJO9BVK.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Bir düşman düşerken, diğeri yükselir.",
+                "overview": "Guy of Gisborne, Rob'u öldürmek için harekete geçerken, Şerif de Kralı İngiltere'ye çekmek için ona karşı planlar kurar; Rob saldırıya hazırlanır; Marian istihbarat toplamak için babasının evine sızar; kanun kaçakları zafer için hayati önem taşıyan görevler yürütür; ya herkes başarılı olur ya da herkes ölür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5CxVoMf9Za7nEqbTMzVc62wfHF2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt33484460/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 12:16:52"
+    },
+    {
         "id": 256624,
         "imdb_id": "tt32596156",
         "name": "Talamasca Gizli Düzen",

@@ -1,5 +1,159 @@
 [
     {
+        "id": 278274,
+        "imdb_id": "tt34779099",
+        "name": "Entrepreneurs",
+        "original_name": "Entrepreneurs",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/dk0cSgzkceAyNKtgfhAbKULlnps.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mkaNtktJwAASDMMhK7Mh22kOAko.jpg",
+        "year": "2025",
+        "rating": 6.2,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Rober Bodegas",
+                "role": "Gonzalo",
+                "image": "https://image.tmdb.org/t/p/w200/xiSGT6apTkAh5ACIRkA4zRqrahx.jpg"
+            },
+            {
+                "name": "Alberto Casado",
+                "role": "Jacobo",
+                "image": "https://image.tmdb.org/t/p/w200/2EWQXO3v5WVHn2jn2RzcA1ehxJD.jpg"
+            },
+            {
+                "name": "Aura Garrido",
+                "role": "Julia",
+                "image": "https://image.tmdb.org/t/p/w200/195NlsR4hNQtvvZi3eZ19EJCOu7.jpg"
+            },
+            {
+                "name": "Gonzalo de Castro",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/abAM8NPul7V7g1B08wSM9QKht6Y.jpg"
+            },
+            {
+                "name": "Victoria Martín",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/1p05mJzyfM2uereWTzie0GhxKBo.jpg"
+            },
+            {
+                "name": "Luis Bermejo",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/rl4hG3Ou4N244hq5eKhGLz0gIBL.jpg"
+            },
+            {
+                "name": "Aníbal Gómez",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/3wDau6jK5VMt0b9Wjn7v8SaW6gb.jpg"
+            },
+            {
+                "name": "Lalo Tenorio",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/2jFpfKhsoqnzjXzh8oQIV4uiQQd.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/n9qlPZqRhyCBFt8b1yRYxMERdNC.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gB96j0SfNjHMyphBjoI8PhoeRH1.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mVsIQjJxsabJCdGiRSJtmKl4mtO.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eukgzVFkfPLTy9GbN2k0DEXhF4O.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/pX3CK0PlczCqbvN1EXsJ9mkAnhQ.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/x7M2BE6SC1xahFpuGKmy4LtxiKk.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/n4QvNmvFFtFrmH8YS3tKC3s3MnE.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kZXDMhfT8oyvKy955gd0C0IgPwN.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lpGvqua1qbUvR9TxahD4WjLBlx3.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/e4Cl1Lqt17vByePwX3yLiarRU3F.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt34779099/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 12:37:00"
+    },
+    {
         "id": 246473,
         "imdb_id": "tt33298903",
         "name": "Made in Korea",

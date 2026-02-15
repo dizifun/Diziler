@@ -2,25 +2,100 @@
     "id": 272586,
     "imdb_id": "tt33501959",
     "name": "Günah",
+    "original_name": "Synden",
+    "overview": "Bir kayıp genç vakasıyla kişisel bağları olan bir dedektif, sarsılmaz sadakatleri ve eski aile çekişmelerini ortaya çıkaran gerilim dolu bir soruşturmaya dâhil olur.",
     "poster": "https://image.tmdb.org/t/p/w500/hXEVR6oJ4QRkLraDi4ckdZVNVlc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rlTfXiGnDhj8CMm7FK6KW8XFAKA.jpg",
     "year": "2026",
+    "rating": 5.5,
     "genres": [
         "Dram",
         "Suç",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Krista Kosonen",
-        "Mohammed Nour Oklah",
-        "Peter Gantman",
-        "Lisa Lindgren",
-        "Ceasar Matijasevic"
+        {
+            "name": "Krista Kosonen",
+            "role": "Dani",
+            "image": "https://image.tmdb.org/t/p/w200/7iW2mxbxBgV5sX2y0fSY78lewW4.jpg"
+        },
+        {
+            "name": "Mohammed Nour Oklah",
+            "role": "Malik",
+            "image": "https://image.tmdb.org/t/p/w200/8LpiaYR7SEdhWlAluHlMrtDQM1C.jpg"
+        },
+        {
+            "name": "Peter Gantman",
+            "role": "Elis",
+            "image": "https://image.tmdb.org/t/p/w200/2zmNLuy4GtxcF2lNWsNOyDAbr7d.jpg"
+        },
+        {
+            "name": "Lisa Lindgren",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/f5laRtC1gNhHShyMb3D6tUdlac4.jpg"
+        },
+        {
+            "name": "Ceasar Matijasevic",
+            "role": "",
+            "image": ""
+        },
+        {
+            "name": "Alexander Persson",
+            "role": "",
+            "image": ""
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Seni Uyarıyorum",
+            "overview": "Malmö'de yaşayan dedektifler Dani ve Malik, bir gencin kaybolmasını araştırmak için kırsaldaki bir köye giderler. Burada hoş karşılanmasalar da Dani için bu kişisel bir meseledir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vR83wi1JaTsEx29iCv4WuLNWn4h.jpg",
+            "vote_average": 2.2,
             "link": "https://vidmody.com/vs/tt33501959/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Kimliği Belirsiz Adam 1",
+            "overview": "Yeni deliller ve uzun süredir saklanan sırlar ortaya çıkarken vakayla ilgili sorular artar. Dani ve Malik, kimliği belirsiz bir şüpheliyi yakalamak için ipuçlarının peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/koeYpAkJcXBFC4mUB0paUZCLZOt.jpg",
+            "vote_average": 2.2,
+            "link": "https://vidmody.com/vs/tt33501959/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kardeşler",
+            "overview": "Malik, kahrolan iş arkadaşının acı verici bir olasılıkla başa çıkmasına yardımcı olmak için kuralları esnetir. Elis, eskiden tanıdığı tehditkâr biriyle yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9DCiGGdFeNdXuD75AhZ0G5EMFzz.jpg",
+            "vote_average": 2.4,
+            "link": "https://vidmody.com/vs/tt33501959/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Järven",
+            "overview": "Järven güvenliğini sağlamak için bir ültimatom verirken Elis, tehlikeli sonuçları olabilecek bir teoriyi kanıtlamak için beklenmedik bir ittifak kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/H3PfT5Mp06t2IObrG6ahjjXTAk.jpg",
+            "vote_average": 2.0,
+            "link": "https://vidmody.com/vs/tt33501959/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Kraliçe Arı",
+            "overview": "Rahatsız edici yeni kanıtlar ve acı gerçekler ortaya çıkarken, hem polis hem de yerel halk çok geç olmadan sorumluları bulmak için çabalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eb046jecXt3XD7Mf5tKU95bcOfY.jpg",
+            "vote_average": 2.2,
+            "link": "https://vidmody.com/vs/tt33501959/s1/e05"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 12:17:21"
 }

@@ -1,5 +1,146 @@
 [
     {
+        "id": 273801,
+        "imdb_id": "tt33745056",
+        "name": "Florida işte bu,  Adamım",
+        "original_name": "It's Florida, Man.",
+        "overview": "Gerçek hikayeler. Gerçekten aptalca.\n\nBu saygısız gece geç saatlerde yayınlanan komedi dizisi, Güneşli Eyalet'in inanılmaz, manşetlerden fırlamış hikayelerini hayata geçiriyor. Sıradan Floridalılarla yapılan röportajlar ve değişen oyuncu ve komedyen kadrosunun yer aldığı eğlenceli canlandırmalar içeren bu komik ve sıra dışı dizi, viral olan, tuhaf ve garip olaylara ışık tutuyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/yrGQwoY9XUglAlCDzsIlr3ws4pM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/hbWqmgF9NYU2ATBWqvhLnOCeW2V.jpg",
+        "year": "2024",
+        "rating": 6.2,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "Spectrum On Demand",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Stephen Root",
+                "role": "Title Narrator (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dTcvWiUHKxOZ9EQnmIllAXy9C97.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uVVhP4fQPPgD1J0zUsrm9V3hI1r.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/se0r4qnDf6QvOPh7vG5XHqzThxD.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/urtJZqXNLppkOAWNlE0okxe47Ll.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2V3MpoBBM8qUkP7kSYpBZ66FOGz.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lXPpqcNzTaVvv8ywxQla2xwrHWr.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt33745056/s1/e06"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/wrS3IyCY47ObP2XoY3vD4GUB1SU.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lJNiu7SoiG451OtBTfI4L5w7S7V.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9AXPd0yrjlHXG9YRVJ9gV9cqphg.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/p94UWJrCarplnPejfYX8GJH3lVh.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2GzkQC5Lo9pe791YasRUFhMzahL.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6xhAgdA6ps96zKEDHqrn7LSp5yK.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt33745056/s2/e06"
+            }
+        ],
+        "update_date": "2026-02-15 12:20:24"
+    },
+    {
         "id": 271267,
         "imdb_id": "tt31987295",
         "name": "The Chair Company",
