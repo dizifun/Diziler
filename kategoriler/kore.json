@@ -1,5 +1,130 @@
 [
     {
+        "id": 233686,
+        "imdb_id": "tt29921070",
+        "name": "Karma",
+        "original_name": "악연",
+        "overview": "Vahim bir kaza sonucu yolları kesişen altı kişi, ilahi adalet ve suçun iç içe geçtiği heyecan verici bir öyküde kendi karanlık gerçekleri ve bağlantılarıyla yüzleşmelidir.",
+        "poster": "https://image.tmdb.org/t/p/w500/lU4vljHDqDjkUtn9Mk83Tlnjtki.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/l5mHXDvmvfNM4T8S5akFFcLRLKv.jpg",
+        "year": "2025",
+        "rating": 7.4,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "박해수",
+                "role": "Kim Beon-jun",
+                "image": "https://image.tmdb.org/t/p/w200/hFt7Cj8sx1VYIwm18lYmq5kS7Pw.jpg"
+            },
+            {
+                "name": "신민아",
+                "role": "Lee Joo-yeon",
+                "image": "https://image.tmdb.org/t/p/w200/6CjxjYvZBuvbAQTcuoPb8EeVrUI.jpg"
+            },
+            {
+                "name": "이희준",
+                "role": "Park Jae-yeong",
+                "image": "https://image.tmdb.org/t/p/w200/4slyXnHbKgzmeyJNetBSORgDDEF.jpg"
+            },
+            {
+                "name": "김성균",
+                "role": "Jang Gil-Ryong",
+                "image": "https://image.tmdb.org/t/p/w200/pii4fmXdkSEppsHSIhJ9jV5izX1.jpg"
+            },
+            {
+                "name": "이광수",
+                "role": "Han Sang-hoon",
+                "image": "https://image.tmdb.org/t/p/w200/eqjZXCV4EutnoVxZwOveK6Nl5W9.jpg"
+            },
+            {
+                "name": "공승연",
+                "role": "Lee Yoo-jeong",
+                "image": "https://image.tmdb.org/t/p/w200/yHZsZH9AHJbaRiHSWiKQamIeHWa.jpg"
+            },
+            {
+                "name": "최홍일",
+                "role": "Park Dong-Sik",
+                "image": "https://image.tmdb.org/t/p/w200/legbWLwSQ4IJFoljR1g3Ci2AAdv.jpg"
+            },
+            {
+                "name": "박호산",
+                "role": "Hwang Cheol-mok",
+                "image": "https://image.tmdb.org/t/p/w200/gL5eN7UvYlseBD0rjdjgjiVKuQJ.jpg"
+            },
+            {
+                "name": "이서준",
+                "role": "Baek Ji-Hun",
+                "image": "https://image.tmdb.org/t/p/w200/3k0n93Ryz0LnKWHDts7zqyldu9h.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Tefeciye Borcu Olan Adam",
+                "overview": "Tefecisinin mutlak tehdidiyle karşı karşıya kalan borçlu, kendisine çok pahalıya patlayacak olan şeytani bir işi halletmesi için Jang Gil-ryong'u görevlendirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/trMkj1AOdFHU3wyR2Ph24vbRe8O.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt29921070/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Cesetten Kurtulan Adam",
+                "overview": "Lee Yu-jeong yüzünden dikkati dağılan Gözlüklü, bir araba kazasına karışır. Bir görgü tanığı olduğunu keşfedince paniğe kapılır ve olayla ilgisine dair tüm izleri silmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pLCyKjftlHT2uf9uYzvHH6XehcJ.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt29921070/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Erdemsizler",
+                "overview": "Tanık daha fazla para talep edince Gözlüklü, yaşanan kazadaki tutarsızlıkları ortaya çıkarır. Gil-ryong borcunu ödemesini isteyince Borçlu paniğe kapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/U3xQC9V2WHzEHOJdukzw3belNF.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt29921070/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Geçmişe Takılı Kalan Kadın",
+                "overview": "Geçmişe takılı kalan Lee Ju-yeon, eski hatıralarını canlandıran bir isimle sarsılır ve aklını kurcalayan sorularla yüzleşmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tVhxqydglaOvPFzP7UmWlKcGEXF.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt29921070/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Başa Sar",
+                "overview": "Bir plan hazırlayan Borçlu, Gil-ryong'la yüzleşir. Ancak Tanık, faydalanabileceği bir fırsat keşfettiğinde işler kısa sürede kaosa sürüklenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7yhiSf2cB35cwZ30RheurEzTszC.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt29921070/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Karma",
+                "overview": "Temize çıktığını düşünen Tanık, beklenmedik aksiliklerle karşı karşıya kalır. Acaba Ju-yeon peşindeyken, bu amansız karma döngüsünden kurtulabilecek midir?",
+                "still_path": "https://image.tmdb.org/t/p/w400/gMABNyYyk30Epc0VdMcFYFXRkXX.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt29921070/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 10:46:42"
+    },
+    {
         "id": 224819,
         "imdb_id": "tt27554348",
         "name": "Dear Hongrang",

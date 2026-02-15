@@ -1,5 +1,242 @@
 [
     {
+        "id": 52814,
+        "imdb_id": "tt2934286",
+        "name": "Halo",
+        "original_name": "Halo",
+        "overview": "Tüm zamanların en sevilen video oyunlarından, askeri bilim kurgu Halo’nun uzun süredir beklenen sinematik uyarlaması, oyuncuların sevdiği ve şimdiden simgeleşmiş baş karakter Master Chief’i odağına alıyor. 26'ncı yüzyılda insanlık ile The Covenant olarak bilinen uzaylı tehdidi arasındaki büyük çatışmayı konu edinen yapımda, zengin bir hayal gücüyle oluşturulmuş bir gelecek betimlemesinin aksiyon, macera ve derinlikli karakter anlatılarıyla birleşimi olarak tanımlanıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/4UmNhZCEu8Vt3byMvNxNEPyf8EY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
+        "year": "2022",
+        "rating": 8.2,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "TV+",
+            "Paramount Plus Essential",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Pablo Schreiber",
+                "role": "Master Chief, Spartan-117 / John-117",
+                "image": "https://image.tmdb.org/t/p/w200/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+            },
+            {
+                "name": "Natascha McElhone",
+                "role": "Dr. Catherine Halsey",
+                "image": "https://image.tmdb.org/t/p/w200/9pxaoasotR1pdCXYSfN1pkm0geO.jpg"
+            },
+            {
+                "name": "Joseph Morgan",
+                "role": "James Ackerson",
+                "image": "https://image.tmdb.org/t/p/w200/iNNHzvT3glx11njLD3RL4yOYPbJ.jpg"
+            },
+            {
+                "name": "Shabana Azmi",
+                "role": "Margaret Parangosky",
+                "image": "https://image.tmdb.org/t/p/w200/gy7DpFaZnpU4XOwBc8jhhE8rYYj.jpg"
+            },
+            {
+                "name": "Christina Bennington",
+                "role": "Cortana",
+                "image": "https://image.tmdb.org/t/p/w200/xco2FnsnCUWcA13T4qrf6l5w27B.jpg"
+            },
+            {
+                "name": "Natasha Culzac",
+                "role": "Riz-028",
+                "image": "https://image.tmdb.org/t/p/w200/ytMC7Kxx81MO3tIXv62ogsd4ttc.jpg"
+            },
+            {
+                "name": "Olive Gray",
+                "role": "Dr. Miranda Keyes",
+                "image": "https://image.tmdb.org/t/p/w200/iPq2rKuwO5mSPdAXgLvyhVvUGJ.jpg"
+            },
+            {
+                "name": "Yerin Ha",
+                "role": "Kwan Ha",
+                "image": "https://image.tmdb.org/t/p/w200/amG2VsVHn3dBH8ey3H9RVDoxgyz.jpg"
+            },
+            {
+                "name": "Bentley Kalu",
+                "role": "Vannak-134",
+                "image": "https://image.tmdb.org/t/p/w200/nTl6fkv3qxcBecGshPbDx6KP4gy.jpg"
+            },
+            {
+                "name": "Kate Kennedy",
+                "role": "Kai-125",
+                "image": "https://image.tmdb.org/t/p/w200/xrPSWHnBVeLxK8i1dLVcOzphx0T.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "İletişim",
+                "overview": "Sene 2552. Madrigal Gezegeni'ndeki insanlar Dünya'ya karşı bağımsızlık savaşı vermekteyken ölümcül güce sahip uzaylı bir ırk ile karşı karşıya gelirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zfBMkRvJ1M859881quboW3mnwEr.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Bağımsız",
+                "overview": "John, Kwan'i eski̇ bi̇r dostunun yanına götürür ve gi̇zemli̇ nesneye dai̇r bi̇lgi̇ edi̇nmeye çalışır. Tehdi̇t gi̇tgi̇de artarken doktor Halsey'ni̇n bi̇r planı vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wsBa3hDCmUg3h7c6h27KqhbhCff.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Ortaya Çıkış",
+                "overview": "Yeni partneriyle tanışan John kendi anılarındaki sırları keşfetmektedir. Kwan, halkının bağımsızlık mücadelesine katılmak için Madrigal'a dönmek ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7lVJdxrqk6AJLxZrRuCujbQKTp6.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Eve Dönüş",
+                "overview": "John, Halsey ve Cortana'yı her şeyin başladığı yere geri götürür ve geçmişinden cevaplar arar. Kwan, Soren'le birlikte bir ordu aramaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/20EcSRmvdQiJcxwXHoBzgGfHmvP.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Hesaplaşma",
+                "overview": "Kaçmaya devam eden ve tüm seçenekleri tüketen Kwan ve soren çözüm konusunda ayrılık yaşamaktadırlar. John korkunç bir keşifte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eAPqbbHFZBrsTcZhxnoWChq2nX4.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Avuntu",
+                "overview": "Covenant ile yaşanan çatışmanın ardından sağ kalanlar Reach'e döner. John, doktor Halsey ve geçmişindeki yalanlarla yüzleşmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9FGGWwBZeN8YrNmcgIyG8QNnJ6T.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Miras",
+                "overview": "Kwan'ın ailesinin gerçek amacını bulmak için çıktığı yolculuk onu Madrigal çöllerinin derinliklerine götürür. Soren yarım kalan işlerle uğraşmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qvt1RzfgEUejE9dWqXjyX3xaQtk.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Sadakat",
+                "overview": "John ve Makee yaşadıkları ortak deneyimi kabullenmektedirler. Görevini ve kendisini kurtarmak için Halsey'nin son bir şansı vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ww9Q1pDeWV0LsOCD6v3uXYaX5SH.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Üstünlük",
+                "overview": "Harap ve ihanete uğramış haldeki John, insanlığı kurtarmak amacıyla çok zorlu bir göreve liderlik eder. Ancak bedeli ağır olacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AkSS0MyRpjbQ6WrOhIwQw4t7Ea8.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2934286/s1/e09"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Sanctuary",
+                "overview": "Ölümcül bir tahliye görevi, John'un Covenant ile savaşında değişimin sinyallerini verir. John, eve yakın bir tehdidin yaklaştığını hisseder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uCv8zgK3ofjqTMePUMaWenpEEYj.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2934286/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Sword",
+                "overview": "John, kayıp Spartalıları ararken Gümüş Takım'ın sınırlarını zorlar. Kai, John'un kararlılığı konusunda endişelenir. Halsey kendisini esir alan kişinin kim olduğunu arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AlITMrGUAiq0PQ3EMdcXanix4r0.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2934286/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Visegrad",
+                "overview": "John ve Gümüş Takımı izinsiz bir göreve çıkar. Bir saldırı tehdidi Ackerson'ı geri dönülemez bir karar vermeye zorlar. Ackerson, Cortana'dan can sıkıcı bir haber alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u5fBfZjr4EfA2vs9h9Mf20ksGc9.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt2934286/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Reach",
+                "overview": "Bir Covenant saldırısı insanlığın en önemli kalesini tehdit eder. John, Perez ve Gümüş Takım güçlü bir düşmanla savaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v38ILwFzXjF1ULelSyLgfTApxjF.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2934286/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Aleria",
+                "overview": "Issız Aleria gezegeninde John eşi benzeri görülmemiş bir kayıpla boğuşur. Soren ve Laera kayıp oğullarını ararlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/82jr9i1Mj16QZ8q4ejd4BmOw8ua.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2934286/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Onyx",
+                "overview": "John gizli bir ONI gezegeninde intikam peşindedir. Kai kendini Spartan kuralları ile Master Chief'e olan sadakati arasında sıkışmış olarak bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/EuwvYvTYhxCpIqtdMtP7V3a6zm.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2934286/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Thermopylae",
+                "overview": "John, Makee ile yüz yüze gelir. Soren ve Laera'nın ilişkisi çatırmaya başlar. Halsey, Kwan ve Miranda ise bir gizemi çözmeye için çalışırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fXv7OeYXjjPq8Y6QKX8I3YMCVkp.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2934286/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Halo",
+                "overview": "Halo için büyük savaş başlar. John kaderini belirleyecek bir seçim yapar. Soren ve Kwan bir kurtarma görevi üstlenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gxpRvWI551hkMLT9U4QNmLJfqzw.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt2934286/s2/e08"
+            }
+        ],
+        "update_date": "2026-02-15 10:33:54"
+    },
+    {
         "id": 158300,
         "imdb_id": "tt18291136",
         "name": "Knuckles",

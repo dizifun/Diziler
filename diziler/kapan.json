@@ -2,24 +2,118 @@
     "id": 250312,
     "imdb_id": "tt29494109",
     "name": "Kapan",
+    "original_name": "Atrapados",
+    "overview": "Suçluları yakalamasıyla meşhur olan muhabir Ema Garay, kaybolan bir genç vakasının şüphelisi ona yakın biri çıkınca ikilemde kalır.",
     "poster": "https://image.tmdb.org/t/p/w500/vc7nRs9V5MEvzWISplTbq0mKfkM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4FXRxkYqL2bxHPQdL9zzRV4D4Po.jpg",
     "year": "2025",
+    "rating": 7.2,
     "genres": [
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Soledad Villamil",
-        "Juan Minujín",
-        "Alberto Ammann",
-        "Matías Recalt",
-        "Fernán Mirás"
+        {
+            "name": "Soledad Villamil",
+            "role": "Ema Garay",
+            "image": "https://image.tmdb.org/t/p/w200/gDjw5xPPlqOtD8hXCvSQilWBJ1Q.jpg"
+        },
+        {
+            "name": "Juan Minujín",
+            "role": "Marcos Brown",
+            "image": "https://image.tmdb.org/t/p/w200/mOtugfw1ahXJPCDg3kSLifCDyHd.jpg"
+        },
+        {
+            "name": "Alberto Ammann",
+            "role": "Leo Mercer",
+            "image": "https://image.tmdb.org/t/p/w200/aAKmbGgoE8YLds2sLvpezczeiMY.jpg"
+        },
+        {
+            "name": "Matías Recalt",
+            "role": "Bruno Meller Garay",
+            "image": "https://image.tmdb.org/t/p/w200/nM76X11MNK8G3CzeCieTDFOxw5r.jpg"
+        },
+        {
+            "name": "Fernán Mirás",
+            "role": "Commissioner Herrera",
+            "image": "https://image.tmdb.org/t/p/w200/23qPVThNWu0OtpSZtBcMLYngo96.jpg"
+        },
+        {
+            "name": "Mike Amigorena",
+            "role": "Fran Briguel",
+            "image": "https://image.tmdb.org/t/p/w200/2B8CpZiCVblDnthrHlGV0WKnmvG.jpg"
+        },
+        {
+            "name": "Carmela Rivero",
+            "role": "Martina Schulz",
+            "image": ""
+        },
+        {
+            "name": "Tonglan Qiu",
+            "role": "Rafael Stormhaven",
+            "image": "https://image.tmdb.org/t/p/w200/bVrLnj0ytVW8Llg9jV9GFZjlvIH.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Karanlıkta Yaşıyoruz",
+            "overview": "Ünlü gazeteci Ema Garay, çocuk avcısı bir internet sapığını araştırmakla meşguldür. Bu sırada Martina'nın bir hayranına duyduğu aşk iyice derinleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/erHcp1CVtTI7YKQwvtu9TenoSQL.jpg",
+            "vote_average": 5.0,
             "link": "https://vidmody.com/vs/tt29494109/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Ölülere Zarar Veremezsin",
+            "overview": "Bir gecelik ilişkisi yüzünden Ema'nın itibarı sarsılır. Geçmişindeki acıyı hatırlamasına yol açan biri Ema'yı ziyaret eder. Martina'nın ortadan kaybolması panik yaratır. Leo kaçar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ousIVTp3VL8BsjXMywup6lpFC0b.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt29494109/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Masumiyeti Kanıtlanana Kadar Suçlu",
+            "overview": "Bariloche şoke edici bir haberle sarsılırken Ema'ya yeni bir dosya gelir. Annesinin soruşturmasına dahil olan Bruno'nun sırrı her an ortaya çıkabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/Aawd9mpFMIQIRxybPQe4WSmkFiX.jpg",
+            "vote_average": 4.7,
+            "link": "https://vidmody.com/vs/tt29494109/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Şeytan Her Kılığa Girebilir",
+            "overview": "Hayret verici bir ipucu Ema'ya, Martina vakasında önemli veriler sağlar. Bruno ve annesi arasındaki uçurum büyür. Gael, sürpriziyle Sofía'yı şaşırtır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xVeR5QthZGjV0eR3bJ79PPhjJU9.jpg",
+            "vote_average": 4.7,
+            "link": "https://vidmody.com/vs/tt29494109/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Nefretle Yaşamanın Bir Bedeli Vardır",
+            "overview": "Briguel ailesinin evini ziyaret eden Ema, Leo ve Marcos'un karmaşık geçmişini ortaya çıkarır. Davetsiz bir misafir Bruno'yu gafil avlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hZrO9tpFbybWtohzV8XeyFemSBs.jpg",
+            "vote_average": 4.3,
+            "link": "https://vidmody.com/vs/tt29494109/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Yarın Hakkında Hiçbir Şey Bilmiyoruz",
+            "overview": "Ema hem hayatı hem de hakikat için mücadele verir. Marcos'un gizli planları geri teper. Ema, Martina'yı anma töreninde vahim sonuçları olan bir ipucu yakalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pncbFy9TL3cJX9IvvIZFU0UuZGs.jpg",
+            "vote_average": 4.3,
+            "link": "https://vidmody.com/vs/tt29494109/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:38:43"
 }

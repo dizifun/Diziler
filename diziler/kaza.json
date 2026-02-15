@@ -2,17 +2,166 @@
     "id": 259730,
     "imdb_id": "tt30068042",
     "name": "Kaza",
+    "original_name": "Accidente",
+    "overview": "Trajediyle biten bir doğum günü partisi, birbirine sıkı sıkıya bağlı bir grubun arasını açarken aileleri, dostlukları ve yürekleri paramparça eder.",
     "poster": "https://image.tmdb.org/t/p/w500/3is8aLdqrksNO1ezDFziZIkyLoh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/HmLButiM2Ja8ePsoXAbNYLKVqT.jpg",
     "year": "2024",
+    "rating": 7.3,
     "genres": [
         "Dram"
+    ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
     ],
     "cast": [],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Boş Odalar",
+            "overview": "Herkes Rodri'nin doğum günü partisi için hazırlık yaparken, Emiliano, büyük iş vaadeden bir telefon beklemektedir. Bu görüşmenin büyük bir kedere yol açacağından ise habersizdir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tNb6fr6zUawOsOmEShQ8U2ROuiu.jpg",
+            "vote_average": 4.0,
             "link": "https://vidmody.com/vs/tt30068042/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Ne Sorun Çıkabilir ki?",
+            "overview": "David ve Emiliano, Moncho'dan sıra dışı bir istekte bulunurken Lupe, harekete geçmesi için Charro'ya baskı yapar. Paula'yı arama çabaları devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uanSmU1b5q0t9lEWLGPXRJvXzWA.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Herkes Şüpheli",
+            "overview": "Suçlu arayışı devam ederken karakolda kaos baş gösterir. Yıkılan Yola, çektiği acının bedelini Emiliano'ya ödetmeye ant içer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r2fV62knHkdnuUnkdoUFU2o3IPE.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Fırtınadan Sonraki Fırtına",
+            "overview": "Emiliano, Daniela'ya açılır. Brenda'nın Javier'e itirafta bulunması onu Mauricio'ya daha da yaklaştırır. Üstelik ateşle oynayan tek çift onlar değildir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hifon9BSFBdSNEnXJTihCrudQjt.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Yüzleşme",
+            "overview": "Charro gözünü yeni bir hedefe diker ama öncelikle aile meseleleriyle ilgilenmesi gerekir. David'in yalanları çoğalır ve kendisiyle birlikte Carla'yı da aşağı sürükler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gINsGkjpgcKpTmhzmMBRPEuCcNZ.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Benim Hatam",
+            "overview": "Gerçek ortaya çıkınca çiftler taraflarını seçmek zorunda kalır. Charro'nun acımasızlığı zirve yaparken Emiliano cezasını çekmek ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rmshtfp2eOdXEOu0LRySK2s75mm.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "İstenmeyen Sonuçlar",
+            "overview": "Çiftlerin ilişkileri bozulmaya devam eder. Kovalamaca başlayınca Lucía'nın başka seçeneği kalmaz. Alex ciddi bir karar vermek zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/th1xDCjMcCiYSESNUBBcq77qILy.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Arayış",
+            "overview": "Charro, Emiliano'dan kurtulmaya kararlıdır. Bu sırada Ulises, Yola'yı Emiliano'ya karşı tanıklık etmesi için ikna etmeye çalışır. David her şeyi inkâr etmeye devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AtFqaST1qnb9qsRWYrbVFcHzE1H.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Kefaret",
+            "overview": "Lucía'nın durumu belirsizliğini korur. Yola, Carla'yı tehdit eder. Charro, Peyote'ye ulaşmaya çalıştığında telefonu Daniela açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6rOsr5zCIGp0igHDPHN0A1yvvjD.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Hüküm",
+            "overview": "Carla'nın ifşa haberi erkeklerin iş bağlantılarını etkiler. Charro, yoluna çıkanları indirmeye kararlıdır. Mahkemede bir karar çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/878d8aUgplMvGqVejwa50WqRszL.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Bir Yıl Sonra",
+            "overview": "Hapishanede Emiliano ve Charro arasında bir kedi-fare oyunu başlar. Lupe'nin ise birtakım planları vardır. Carla çaresizce David'i arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mZTNmcVxKguMomXMdg1l3H8Upgl.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Tehdit Altında",
+            "overview": "Çıkan isyanda bir mahkûm kaçarken bir diğer mahkûmun hayatı tehlikeye girer. Aileler arasındaki kavga, Lucía ve Alex'in ilişkisini zedeler. Beklenmedik biri Carla'yı ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/h6uXSGbWwRxwirch4vUAwHOMOfx.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Acı Gerçekler",
+            "overview": "Eve dönen Charro beklenmedik bir manzarayla karşılaşır. Alex her şeyi değiştirebilecek korkunç bir sırra kulak misafiri olur. Emiliano ailesine kavuşsa da korkularından kurtulamaz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6Eby0xc2b9yFIqA6yehzHBcMyII.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Ateş Hattı",
+            "overview": "Bir tehlikeyi kıl payı atlatan Emiliano ve Daniela diken üstündedir. Tamara, Lupe'ye bir iş anlaşması önerir. Alex'in itirafı, Lucía ile arasının açılmasına neden olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fkNjbeN5Xwimvp9tnTTYPYR13Rl.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Maskelerin Ardında",
+            "overview": "Bir aile acı ve gerginlik nedeniyle parçalanır. Charro, Alex'i özel birisiyle tanıştırır. Javier ihaneti nedeniyle vicdan azabı çeker. Emiliano, Ulises'i araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mg3obBz8YDAPWoPM0FNHdLlZCz6.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30068042/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Nefretin Enkazından",
+            "overview": "Çöldeki yüzleşme, tehlikeli bir kovalamacaya dönüşür. Lupe mahkemeye çıkarken Alex bir karar verir. Daniela, Charro'nun firarının ardındaki gerçeği keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jQQichemn2wGY5JE57QWdFbb6tq.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt30068042/s2/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:49:52"
 }

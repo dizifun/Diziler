@@ -2,24 +2,137 @@
     "id": 240459,
     "imdb_id": "tt29921437",
     "name": "Spartacus: House of Ashur",
+    "original_name": "Spartacus: House of Ashur",
+    "overview": "Peki ya Ashur ölmemiş olsaydı? Bir zamanlar kanını döktüğü ludusun sahibi olarak ödüllendirildiğini düşün. Achillia adlı bir gladiatriksle birlikte, Roma'yı sarsan ve seçkinleri bile şoke eden gösteriler sahneye koyuyor.",
     "poster": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/c78kbj781ddvmSn5mgLWFQbC7di.jpg",
     "year": "2025",
+    "rating": 6.7,
     "genres": [
         "Dram",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Spectrum On Demand",
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "STARZ"
+    ],
     "cast": [
-        "Nick E. Tarabay",
-        "Graham McTavish",
-        "Tenika Davis",
-        "Jamaica Vaughan",
-        "Ivana Baquero"
+        {
+            "name": "Nick E. Tarabay",
+            "role": "Ashur",
+            "image": "https://image.tmdb.org/t/p/w200/pY4eOU29ZqGdS858JRLoS5ReiEB.jpg"
+        },
+        {
+            "name": "Graham McTavish",
+            "role": "Korris",
+            "image": "https://image.tmdb.org/t/p/w200/qpKVz46PkKVaXzthcJO4ldFPdM9.jpg"
+        },
+        {
+            "name": "Tenika Davis",
+            "role": "Achillia",
+            "image": "https://image.tmdb.org/t/p/w200/qCAf2GjM9HktCcRWrqSzqOkjTZe.jpg"
+        },
+        {
+            "name": "Jamaica Vaughan",
+            "role": "Hilara",
+            "image": "https://image.tmdb.org/t/p/w200/jifdsXam2H26NRnVdGb4QjN30hJ.jpg"
+        },
+        {
+            "name": "Ivana Baquero",
+            "role": "Messia",
+            "image": "https://image.tmdb.org/t/p/w200/tHnwjyI2grO7lqcDwVUwRj89JZH.jpg"
+        },
+        {
+            "name": "Jordi Webber",
+            "role": "Tarchon",
+            "image": "https://image.tmdb.org/t/p/w200/uXQCfPGydlGEJ5xKJH82bwiW680.jpg"
+        },
+        {
+            "name": "Claudia Black",
+            "role": "Cossutia",
+            "image": "https://image.tmdb.org/t/p/w200/xDXr8E1DM1ibfR8K9E9ccjysM7P.jpg"
+        },
+        {
+            "name": "India Shaw-Smith",
+            "role": "Viridia",
+            "image": "https://image.tmdb.org/t/p/w200/rKwBERCIC0jJE07O3Z3BkpLh4ZZ.jpg"
+        },
+        {
+            "name": "Leigh Gill",
+            "role": "Satyrus",
+            "image": "https://image.tmdb.org/t/p/w200/ke4D7YZcH2uVPZGgPHJPrR7yywn.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",
+            "vote_average": 4.4,
             "link": "https://vidmody.com/vs/tt29921437/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/aJdmRPjPPUrZe1hUIpScjdbpNHO.jpg",
+            "vote_average": 4.4,
+            "link": "https://vidmody.com/vs/tt29921437/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/hHtv7cPihyKAWNBATtEF2HMA8dc.jpg",
+            "vote_average": 3.8,
+            "link": "https://vidmody.com/vs/tt29921437/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/bLlQdIk59806tJela0VKltHTrAi.jpg",
+            "vote_average": 4.1,
+            "link": "https://vidmody.com/vs/tt29921437/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/aM3UdyS6mqmOh4wW8qiQliTYAt1.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt29921437/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/h5IMRZhmJv9WDH5nUMzA0WYxSjo.jpg",
+            "vote_average": 4.8,
+            "link": "https://vidmody.com/vs/tt29921437/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/uww4j9MYWAYx1N5qlYDiTgf9PM3.jpg",
+            "vote_average": 4.4,
+            "link": "https://vidmody.com/vs/tt29921437/s1/e07"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:46:44"
 }

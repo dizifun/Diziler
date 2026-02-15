@@ -1,66 +1,73 @@
 [
     {
-        "id": 218347,
-        "imdb_id": "tt11218290",
-        "name": "Sweetpea",
-        "original_name": "Sweetpea",
-        "overview": "Rhiannon Lewis hayatından sıkılan bir kadındır. İnsanlar sokakta ona ikinci bir bakış atmadan yanından geçiyorlar. İş yerinde terfi için sürekli göz ardı ediliyor, hoşlandığı adam tam olarak bağlanmıyor ve babası gerçekten hasta. Sonra hayatındaki her şey altüst olur. Sınırlara kadar zorlanan Rhiannon kontrolü kaybeder. Artık her şeyi yapabilen o, baş döndürücü yeni bir güce erişim kazanır.",
-        "poster": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
-        "year": "2024",
-        "rating": 7.5,
+        "id": 240459,
+        "imdb_id": "tt29921437",
+        "name": "Spartacus: House of Ashur",
+        "original_name": "Spartacus: House of Ashur",
+        "overview": "Peki ya Ashur ölmemiş olsaydı? Bir zamanlar kanını döktüğü ludusun sahibi olarak ödüllendirildiğini düşün. Achillia adlı bir gladiatriksle birlikte, Roma'yı sarsan ve seçkinleri bile şoke eden gösteriler sahneye koyuyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/c78kbj781ddvmSn5mgLWFQbC7di.jpg",
+        "year": "2025",
+        "rating": 6.7,
         "genres": [
-            "Komedi",
-            "Dram"
+            "Dram",
+            "Aksiyon & Macera"
         ],
         "categories": [
             "Tümü",
-            "TOD TV",
             "Amazon Prime",
-            "Sky Showcase",
             "Spectrum On Demand",
             "Starz Apple TV Channel",
             "Starz Roku Premium Channel",
-            "Sky One",
             "Starz",
-            "Sky Atlantic",
-            "Philo"
+            "Philo",
+            "STARZ"
         ],
         "cast": [
             {
-                "name": "Ella Purnell",
-                "role": "Rhiannon",
-                "image": "https://image.tmdb.org/t/p/w200/5PscK9HNXGFQMIxkpbR8ObB7vuR.jpg"
+                "name": "Nick E. Tarabay",
+                "role": "Ashur",
+                "image": "https://image.tmdb.org/t/p/w200/pY4eOU29ZqGdS858JRLoS5ReiEB.jpg"
             },
             {
-                "name": "Nicôle Lecky",
-                "role": "Julia",
-                "image": "https://image.tmdb.org/t/p/w200/1BgqAILgJMGPUYr2bugzejs97S3.jpg"
+                "name": "Graham McTavish",
+                "role": "Korris",
+                "image": "https://image.tmdb.org/t/p/w200/qpKVz46PkKVaXzthcJO4ldFPdM9.jpg"
             },
             {
-                "name": "Jon Pointing",
-                "role": "Craig",
-                "image": "https://image.tmdb.org/t/p/w200/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+                "name": "Tenika Davis",
+                "role": "Achillia",
+                "image": "https://image.tmdb.org/t/p/w200/qCAf2GjM9HktCcRWrqSzqOkjTZe.jpg"
             },
             {
-                "name": "Calam Lynch",
-                "role": "AJ",
-                "image": "https://image.tmdb.org/t/p/w200/6Zkz6DF6tW96LYx0DDqxEPIc31P.jpg"
+                "name": "Jamaica Vaughan",
+                "role": "Hilara",
+                "image": "https://image.tmdb.org/t/p/w200/jifdsXam2H26NRnVdGb4QjN30hJ.jpg"
             },
             {
-                "name": "Jeremy Swift",
-                "role": "Norman",
-                "image": "https://image.tmdb.org/t/p/w200/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+                "name": "Ivana Baquero",
+                "role": "Messia",
+                "image": "https://image.tmdb.org/t/p/w200/tHnwjyI2grO7lqcDwVUwRj89JZH.jpg"
             },
             {
-                "name": "Dustin Demri-Burns",
-                "role": "Jeff",
-                "image": "https://image.tmdb.org/t/p/w200/m0yBhBOqO9HSvsBxj9JzdPfMf3d.jpg"
+                "name": "Jordi Webber",
+                "role": "Tarchon",
+                "image": "https://image.tmdb.org/t/p/w200/uXQCfPGydlGEJ5xKJH82bwiW680.jpg"
             },
             {
-                "name": "Leah Harvey",
-                "role": "Marina",
-                "image": "https://image.tmdb.org/t/p/w200/j5bEw0gtE9RGTq2y4WoQ6HUa9di.jpg"
+                "name": "Claudia Black",
+                "role": "Cossutia",
+                "image": "https://image.tmdb.org/t/p/w200/xDXr8E1DM1ibfR8K9E9ccjysM7P.jpg"
+            },
+            {
+                "name": "India Shaw-Smith",
+                "role": "Viridia",
+                "image": "https://image.tmdb.org/t/p/w200/rKwBERCIC0jJE07O3Z3BkpLh4ZZ.jpg"
+            },
+            {
+                "name": "Leigh Gill",
+                "role": "Satyrus",
+                "image": "https://image.tmdb.org/t/p/w200/ke4D7YZcH2uVPZGgPHJPrR7yywn.jpg"
             }
         ],
         "episodes": [
@@ -68,57 +75,66 @@
                 "season": 1,
                 "episode": 1,
                 "name": "1. Bölüm",
-                "overview": "Babası öldüğünde ve geçmişte ona zorbalık yapan kişi kasabaya döndüğünde, sessiz ve utangaç bir kız sonunda patlama noktasına ulaşır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/qJomU9FjJAX8QVZoeV9yTLSmStf.jpg",
-                "vote_average": 6.9,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e01"
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rjp6SIl4wDPcLbXPPxEwf0v7sfD.jpg",
+                "vote_average": 4.4,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e01"
             },
             {
                 "season": 1,
                 "episode": 2,
                 "name": "2. Bölüm",
-                "overview": "Rhiannon'ın kurbanı bulunur. Kurbanın kimliği ve bu muameleyi hak edip hak etmediğini öğrenmek için bir göreve çıkar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/c8yEdRGtXDGjMNSqgwqGML8TlJw.jpg",
-                "vote_average": 7.1,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e02"
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aJdmRPjPPUrZe1hUIpScjdbpNHO.jpg",
+                "vote_average": 4.4,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e02"
             },
             {
                 "season": 1,
                 "episode": 3,
                 "name": "3. Bölüm",
-                "overview": "Güç ve adalet duygusu yüksek Rhiannon, bir sonraki hedefi Julia Blenkingsopp'un peşine düşer.",
-                "still_path": "https://image.tmdb.org/t/p/w400/aq4l5gOWU6sFAHcgRQfe8UDUfQf.jpg",
-                "vote_average": 6.4,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e03"
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hHtv7cPihyKAWNBATtEF2HMA8dc.jpg",
+                "vote_average": 3.8,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e03"
             },
             {
                 "season": 1,
                 "episode": 4,
                 "name": "4. Bölüm",
-                "overview": "Rhiannon, bir zamanlar olduğu gibi kaybeden olmadığını kanıtlamaya çalışır. Ancak bir gerçek her şeyi değiştirir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/am33xvjzvbjc3vFE0ULeFF5cpL5.jpg",
-                "vote_average": 6.6,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e04"
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bLlQdIk59806tJela0VKltHTrAi.jpg",
+                "vote_average": 4.1,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e04"
             },
             {
                 "season": 1,
                 "episode": 5,
                 "name": "5. Bölüm",
-                "overview": "Rhiannon etrafında şüpheler dolaşırken beklenmedik bir iş birliği yapmak zorunda kalır ve işler planlandığı gibi gider.",
-                "still_path": "https://image.tmdb.org/t/p/w400/n7uomMnQLFns1JF8QEOkFKif3Lw.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e05"
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aM3UdyS6mqmOh4wW8qiQliTYAt1.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e05"
             },
             {
                 "season": 1,
                 "episode": 6,
                 "name": "6. Bölüm",
-                "overview": "Rhiannon yalanları arasında sıkışmaya başlarken attığı tehlikeli adımlar geri dönülmez sonuçlar doğurur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg",
-                "vote_average": 6.8,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e06"
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/h5IMRZhmJv9WDH5nUMzA0WYxSjo.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uww4j9MYWAYx1N5qlYDiTgf9PM3.jpg",
+                "vote_average": 4.4,
+                "link": "https://vidmody.com/vs/tt29921437/s1/e07"
             }
         ],
-        "update_date": "2026-02-14 23:18:10"
+        "update_date": "2026-02-15 10:46:44"
     }
 ]

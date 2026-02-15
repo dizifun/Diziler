@@ -2,21 +2,179 @@
     "id": 251883,
     "imdb_id": "tt28267514",
     "name": "Kimler Geldi Kimler Geçti",
+    "original_name": "Kimler Geldi Kimler Geçti",
+    "overview": "Genç bir avukat, acı verici bir ayrılığın ardından modern ilişkilerin karmaşık dünyasına adım atarken en yakın dostları ona destek olur.",
     "poster": "https://image.tmdb.org/t/p/w500/5K6jZNOjskDCtsZgF0r3nc8l26f.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/sdl9K3IZDo6Z2pqIUiNUz2YyNDJ.jpg",
     "year": "2024",
+    "rating": 7.5,
     "genres": [
         "Dram",
         "Komedi"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Yerli",
+        "Netflix"
+    ],
     "cast": [
-        "Serenay Sarıkaya",
-        "Hakan Kurtaş"
+        {
+            "name": "Serenay Sarıkaya",
+            "role": "Leyla Taylan",
+            "image": "https://image.tmdb.org/t/p/w200/1SJAapOz81mn34WTmlx0SoPIVm.jpg"
+        },
+        {
+            "name": "Hakan Kurtaş",
+            "role": "Cem Murathan",
+            "image": "https://image.tmdb.org/t/p/w200/bPqpPuQddPLqMNxbSwVYl4nc5O2.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "İlişki Durumu Karışık",
+            "overview": "Sevgilisinden yeni ayrılan avukat Leyla, tatilde tanıştığı yakışıklı şef Feyyaz'la çıkmaya başlar. Bir yandan da iş adamı Cem Murathan'ın boşanma davasını üstlenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9uBKgBKxpuoXHTBezHhy5pVMvyQ.jpg",
+            "vote_average": 8.1,
             "link": "https://vidmody.com/vs/tt28267514/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Aşşırı Aşk",
+            "overview": "Leyla, Cem'in eşinin iddialarının aksine onun farklı yönlerini keşfeder. Ömer, Leyla ve Feyyaz'ın romantik randevusunu gizlice gözetler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4EygkmFiTqU0qxs1Zd3w4jPsEUh.jpg",
+            "vote_average": 3.0,
+            "link": "https://vidmody.com/vs/tt28267514/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Behlül Kaçar",
+            "overview": "Feyyaz bir anda arayıp sormayı keser. Leyla, hayatında Ömer'e dair olan bütün izleri silmeye karar verir. Bunun üzerine Ömer, Buddy'nin velayetini almak için Leyla'ya dava açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tDCCUz6Qo0bKvWX4THvIBZhJGLW.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt28267514/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "İki İleri Bir Geri",
+            "overview": "Boşanma davası artık sonuçlanmış olsa da Cem, Leyla'dan bir türlü uzak duramaz. Yılbaşı partisi hastanede son bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jxmsoerDxSb5jmb9XNLKj3S68Kb.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Yedek Kulübesi",
+            "overview": "Cem, Leyla'dan bir şarap müzayedesinde kendisini temsil etmesini ister. Leyla, Cem'le arasına mesafe koymaya çalışır ama Cem'in otelinin açılış gecesinde kendine hâkim olamaz.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rJFou8uU6yBeRwj7VL0RdlBLDCs.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "İç Açılarının Toplamı",
+            "overview": "Her şeyden uzaklaşmak isteyen Leyla, bir aile yemeğinde anne ve babasının aslında mutlu bir evlilik sürdürmediklerini öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jhaBHda3S6BbKE55DVPh64AJccA.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "ya Gel Bana Sahici Sahici ya da Anca Gidersin",
+            "overview": "Ömer, Leyla ile arasını düzeltmeye çalışır. Leyla ise her ne kadar Ömer'le bir gelecek hayal etse de bir türlü Cem'i aklından çıkaramamaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ifwdKC9uefHFIUzBgaEhtsZ808j.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Düğün",
+            "overview": "Leyla nihayet hayatındaki erkeklerin gerçek yüzünü görür ama artık beklediği mutlu sona ulaşmıştır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tivYQ2cu7mYVzOWdcVHShqN6lbZ.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s1/e08"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Kırık Kalp Sendromu",
+            "overview": "Yeni evine taşınan Leyla nihayet hayatında beyaz bir sayfa açmak üzeredir ama Ömer öfkesine hâkim olamaz ve arkadaşlarından biriyle dalaşarak başını belaya sokar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lGwrkIkVNm7VAk7naV8ZFxs6M4m.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt28267514/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Arkadaşımın Aşkısın",
+            "overview": "Acı bir kayıp yaşayan Defne, Şeyyaz yerine Cem'den destek ister. Bunun üzerine Şeyyaz, ilişkilerinin sona erdiğinden şüphelenmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f0tshXCSFlCRKhEb5vqxv8wM7L0.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Kaçan Kovalanır",
+            "overview": "Leyla ile Cem'i yakınlaştıkları bir anda yakalayan Nil, bunu tüm magazincilere duyurur. Beliz ise boşanma davası açmaya karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/onwfNXX4t6IEtlH5iYCRzvwcAEO.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Kuyruksuz Yalan",
+            "overview": "Sarp, Ömer'i dağılmış hâlde bulur ve ona destek olur. Leyla, Cem Murathan'ın kendisine olan takıntısından endişelenmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6X8v5RBtqZzy46LnjUbbbJZA1L7.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt28267514/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Parmağında Yüzükler",
+            "overview": "Esra'nın eski bir sevgilisiyle iletişim kurması, Murat'ı bunalıma sokar. Leyla ani bir kararla New York'a ailesinin yanına gitmeye karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hLwhOouLZXcIhYf6yWmRv5tfNgz.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Aşşırı Mutlu",
+            "overview": "Beliz, yılbaşı partisine beklenmedik biriyle gelir. Leyla ile daha da yakınlaşmayı uman Cem ise ona sürpriz bir hediye alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iJ0li6AcTVNjyi8L6pMjJU3FxiF.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Zurnanın Zırt Dediği Yer",
+            "overview": "Defne, akıl oyunlarıyla Cem ve Leyla'yı ayırma çabalarına devam eder. Bu arada Leyla, Cem'in yanına taşınır ama yeni evinde kendini bir yabancı gibi hissetmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nW8EBhzew1IhdbHZKlyj21HZtFp.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Minareden At Beni İn Aşağı Tut Beni",
+            "overview": "Aşırı kıskançlığa yenik düşen Cem'in gerçek karakteri ortaya çıkar. Defne'nin Cem'in hayatındaki rolü ise göründüğünden çok daha fazladır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i9ALXipXIumHu6pDIa90MYEvnJW.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt28267514/s2/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:08:59"
 }

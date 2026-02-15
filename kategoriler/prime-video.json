@@ -1,5 +1,133 @@
 [
     {
+        "id": 229711,
+        "imdb_id": "tt28256288",
+        "name": "Ödül Avcısı",
+        "original_name": "The Bondsman",
+        "overview": "Öldürülen ödül avcısı Hub Halloran, Cehennem hapishanesinden kaçan iblisleri avlamak için Şeytan tarafından diriltilir. Arasının bozuk olduğu ailesinin yardımı ve engeliyle bu iblisleri kovalayan Hub, kendi günahlarının ruhunu nasıl lanetlediğini öğrenir -- bu da onu hayata, aşka ve country müziğe ikinci bir şans aramaya iter.",
+        "poster": "https://image.tmdb.org/t/p/w500/uyurFAl48L0ePcuYP5ZLnR8WvtU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/vfEtEzBIn0wwWM7ppzJCGEZUSu2.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi",
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Prime Video"
+        ],
+        "cast": [
+            {
+                "name": "Kevin Bacon",
+                "role": "Hub Halloran",
+                "image": "https://image.tmdb.org/t/p/w200/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+            },
+            {
+                "name": "Jennifer Nettles",
+                "role": "Maryanne Dice",
+                "image": "https://image.tmdb.org/t/p/w200/s6IDogtE93cMaMe4EYBjUeXVOV4.jpg"
+            },
+            {
+                "name": "Beth Grant",
+                "role": "Kitty Halloran",
+                "image": "https://image.tmdb.org/t/p/w200/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+            },
+            {
+                "name": "Damon Herriman",
+                "role": "Lucky Callahan",
+                "image": "https://image.tmdb.org/t/p/w200/aB534QzOidJC3gNkhK9RewVfsGA.jpg"
+            },
+            {
+                "name": "Maxwell Jenkins",
+                "role": "Cade Halloran",
+                "image": "https://image.tmdb.org/t/p/w200/7pAqHa0aMHpK6Z717g2WMxzpYya.jpg"
+            },
+            {
+                "name": "Jolene Purdy",
+                "role": "Midge",
+                "image": "https://image.tmdb.org/t/p/w200/hq66UInEJuDjS3M4aCqgTFEcIzA.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Altın Küpü",
+                "overview": "Hub Halloran, dünyevi bir intikam hikâyesine başlar, ancak kısa sürede doğaüstü bir hikâyede olabileceğini fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l1iDCsGmXl4Lm8XIJnhdYrvblQe.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt28256288/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Valacor",
+                "overview": "Hub, şeytan için çalıştığı yeni işi hakkında daha fazla şey öğrenir ve ilk iblisiyle karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hYKBa74uQIg6a3qqAXSUwlW8Ms8.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt28256288/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Marphos",
+                "overview": "Hub, Cade'i Lucky'ye karşı kışkırtmaya çalışırken başka bir iblisi avlarken onu destek olarak kullanmak durumunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jxUY8l8YdBsGCsrq9JaiPQGwRad.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt28256288/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Erdos",
+                "overview": "Hub'ı Cade'e zarar verdiği için azarlamaya karar veren Maryanne, kendisini iblislerin dünyasında bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/krjAWEWmyzSRd7je7ts3cYtM7sF.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt28256288/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Slypharis",
+                "overview": "Midge'in Altın Küpü'ne katılmasının duygusal nedeni ortaya çıkar. Hub daha büyük bir gizemin parçalarını bir araya getirir ve Midge'den yardım almaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fVEBicaOSdrprZAvHI8O8echnmP.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt28256288/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "İfşaat",
+                "overview": "Lucky, Hub'dan intikamını almak ister ancak bir iblis savaşının ortasında kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ujNbZtDepF1szH65B86NcCfHT5h.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt28256288/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Pyralis",
+                "overview": "Hub ve Midge kıyametin gelmesini engellemeye çalışırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yCMjOpFS4Gj7ZRbNmbHRp7x6tah.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt28256288/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Lilith",
+                "overview": "En sevdiği şeyi kaybeden Hub, sonunda en büyük günahıyla yüzleşmek zorunda kalır. Cehennemden serbest bırakılan şeytani bir gücü durdurarak kurtuluş için son bir şans elde etmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/arlcH3SQTtfnOTAhgregR9LLqSz.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt28256288/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 10:08:32"
+    },
+    {
         "id": 250670,
         "imdb_id": "tt27792190",
         "name": "Maxton Hall - Aramızdaki Dünya",

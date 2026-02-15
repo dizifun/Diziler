@@ -1,5 +1,128 @@
 [
     {
+        "id": 240558,
+        "imdb_id": "tt30221531",
+        "name": "King & Conqueror",
+        "original_name": "King & Conqueror",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
+        "year": "2025",
+        "rating": 7.0,
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "BBC One"
+        ],
+        "cast": [
+            {
+                "name": "James Norton",
+                "role": "Harold Godwinson",
+                "image": "https://image.tmdb.org/t/p/w200/jQElUV2w7pMNEPX44qFMmr4zDDC.jpg"
+            },
+            {
+                "name": "Nikolaj Coster-Waldau",
+                "role": "William of Normandy",
+                "image": "https://image.tmdb.org/t/p/w200/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
+            },
+            {
+                "name": "Emily Beecham",
+                "role": "Edith Swanneck",
+                "image": "https://image.tmdb.org/t/p/w200/12zgj8SvKEUML1kRC0CUlyxpJ6r.jpg"
+            },
+            {
+                "name": "Clémence Poésy",
+                "role": "Matilda of Normandy",
+                "image": "https://image.tmdb.org/t/p/w200/cv2DpbJ6GLFPHhOWVj5Xrn94fwp.jpg"
+            },
+            {
+                "name": "Jason Forbes",
+                "role": "Thane Thomas",
+                "image": "https://image.tmdb.org/t/p/w200/2AbhsgF4V72ZW8cZ1F3rhUoYf4k.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rJdLe3rNmMLZWOuoZ8j5cVhdHD0.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/u1MHiIvIvzMfK5CVH13cbqM0A2P.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/98PfsMpvT8W1scp6Q3WYIGVWOaN.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jL1JI9UtIVsrbXWWxtTqCNIQd3d.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iOtM2iH5jkry4S4uh69IMz64Gzn.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oZ9ahpAcjRsCNZO9TdxAqNOvGeP.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oVbqqMjUZ30tVepxVP1Ccjba5iH.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/8Gs8SIlu8fetpASmBnedOWAYnM6.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 10:53:37"
+    },
+    {
         "id": 60574,
         "imdb_id": "tt2442560",
         "name": "Peaky Blinders",

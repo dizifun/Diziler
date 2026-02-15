@@ -1,5 +1,135 @@
 [
     {
+        "id": 136342,
+        "imdb_id": "tt28306749",
+        "name": "Disney Twisted-Wonderland: The Animation",
+        "original_name": "ディズニー ツイステッドワンダーランド ザ アニメーション",
+        "overview": "Lise öğrencisi Yuken, bir anda büyü ve mucizeler diyarı Twisted Wonderland'e gelir. Canavarlarla, tuhaf büyücü adaylarıyla ve gizemli olaylarla, kendi büyüsü olmadan başa çıkar. Yu, kendi dünyasına dönmenin yolunu bulabilecek midir?",
+        "poster": "https://image.tmdb.org/t/p/w500/fHc2eaef6GArxCwmW4VVwyvKPpO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/27ntwTTA3ygsktcwiJYcximegwb.jpg",
+        "year": "2025",
+        "rating": 8.1,
+        "genres": [
+            "Animasyon",
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Tümü",
+            "Anime",
+            "Disney+",
+            "Hulu"
+        ],
+        "cast": [
+            {
+                "name": "阿座上洋平",
+                "role": "Yuken 'Yu' Enma (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/rLIqw8pIjVIxPb5engrTbu9iOex.jpg"
+            },
+            {
+                "name": "花江夏樹",
+                "role": "Riddle Rosehearts (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+            },
+            {
+                "name": "山下誠一郎",
+                "role": "Ace Trappola (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg"
+            },
+            {
+                "name": "小林千晃",
+                "role": "Deuce Spade (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/o0XZFXc50z28ICUpvfZ1QcTL2Yt.jpg"
+            },
+            {
+                "name": "鈴木崚汰",
+                "role": "Trey Clover (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/4Xq18mQttuW2yfRCflnWoU7UqQ5.jpg"
+            },
+            {
+                "name": "Tatsuyuki Kobayashi",
+                "role": "Cater Diamond (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/8Ybf61dY8EIZC3E7oMkVzZ6Gbup.jpg"
+            },
+            {
+                "name": "宮本充",
+                "role": "Dire Crowley (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/zcgbjwPHY9YV4UMpm6bvFXorWCJ.jpg"
+            },
+            {
+                "name": "杉山紀彰",
+                "role": "Grim (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Yabancı Uyanıyor",
+                "overview": "Liseli Yu, aniden büyülü Twisted Wonderland’e çekilir. Ne büyü yeteneği vardır ne de bu dünyaya aittir. Tek isteği eve dönmektir, ancak karşısına ateş püskürten bir canavar çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uhOLXyZq5vEc1tpZIxs5hxMswp3.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt28306749/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Küçümseyici Bir Sıralama",
+                "overview": "Yu, kendi dünyasına dönmenin yolunu ararken Gece Kuzgunu Üniversitesi'nde yaşayıp çalışması için özel bir izin verilir. Yeni ortamına alışırken her şey yolunda gitmektedir ancak tanıdık bir canavar, öfkesiyle yeniden ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kzRvmxO4xhj7DnKMeSqXtbeuNKX.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt28306749/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Büyülü Madene",
+                "overview": "Ace ve Deuce okuldan atılmamak için Yu ve Grim'le birlikte bir büyü taşı aramak üzere terk edilmiş madene gider. Madende yalnız olduklarını sandıkları anda, karanlığın derinliklerinden korkunç bir ses yankılanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ryoMHkDC5ZtcNKQr6o2EKtHrmmn.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt28306749/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Çaresiz Bir Kalp",
+                "overview": "Ace, boynunda garip bir tasmayla gece geç saatte Yu ve Grim'in yurduna gelir. Ertesi gün Yu'nun önerisiyle Heartslabyul Hanesi'ne giderler, ancak ünlü gül bahçesinde yaşanan beklenmedik bir karşılaşma planlarını bozar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hUK0bryuQHojhFyTdStgYtqPUdJ.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt28306749/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Yemek Sohbeti",
+                "overview": "Heartslabyul Hanesi'nin sakinleri, hane müdürlerinin katı kuralcılığı karşısında giderek daha fazla huzursuzluk duymaktadır. Bu sırada Ace, boynundaki tasmanın çıkarılması için hane müdürünü ikna etmenin bir yolunu bulmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/46suAuoA3NXSC1ELiBUtds19mAI.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt28306749/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Tek Kişilik Ordu",
+                "overview": "Kusursuzca hazırlanmış doğmama günü partisi başlarken Ace, Riddle'ın neşeli hâlini fark eder. Bunu, o berbat tasmanın çıkarılması için bir fırsat olarak görerek, kendi yaptığı kestaneli tartla Riddle'a yaklaşır. Ancak Riddle'ın beklenmedik tepkisi, durumu daha da kötüleştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kp4kOjXAboaIA1pSeSwduT4qdey.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt28306749/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Akılsız Bir Düello",
+                "overview": "Ace ve Deuce'un Riddle'la düellosu, diğer Heartslabyul öğrencilerinin tüm memnuniyetsizliklerini açığa çıkaran bir kıvılcım olur. Ancak bu beklenmedik tepki, Riddle'ı öylesine derinden sarsar ki, uğursuz bir değişim geçirmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o6goka5Mc5i96GWcBzVRvdCoTdC.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt28306749/s1/e07"
+            }
+        ],
+        "update_date": "2026-02-15 10:10:43"
+    },
+    {
         "id": 233256,
         "imdb_id": "tt28228082",
         "name": "The Stolen Girl",

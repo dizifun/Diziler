@@ -2,25 +2,96 @@
     "id": 247756,
     "imdb_id": "tt29457135",
     "name": "Floransa Canavarı",
+    "original_name": "Il Mostro",
+    "overview": "İtalya'da çiftleri hedef alan bir seri katil dehşet saçarken yetkililer, 1968'de işlenen bir cinayetin \"Floransa Canavarı\"nı bulmalarında önemli bir rol oynayabileceğini düşünür.",
     "poster": "https://image.tmdb.org/t/p/w500/AewhTESggHM7pffrE9exvVIJDZ3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nYYJBixUNZAk4lmWdE5NBUfIMuw.jpg",
     "year": "2025",
+    "rating": 6.2,
     "genres": [
         "Suç",
         "Gizem",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Marco Bullitta",
-        "Valentino Mannias",
-        "Francesca Olia",
-        "Liliana Bottone",
-        "Giacomo Fadda"
+        {
+            "name": "Marco Bullitta",
+            "role": "Stefano Mele",
+            "image": "https://image.tmdb.org/t/p/w200/teZZiGMg6eihuwGpZa0Y7LQs5qS.jpg"
+        },
+        {
+            "name": "Valentino Mannias",
+            "role": "Salvatore Vinci",
+            "image": "https://image.tmdb.org/t/p/w200/3Gu1yFr2FGjwTb3bcooJ41TJY5E.jpg"
+        },
+        {
+            "name": "Francesca Olia",
+            "role": "Barbara Locci",
+            "image": "https://image.tmdb.org/t/p/w200/qBuU90iEk7WJlttCYI34qi7UoZf.jpg"
+        },
+        {
+            "name": "Liliana Bottone",
+            "role": "Silvia Della Monica",
+            "image": "https://image.tmdb.org/t/p/w200/nRSu0EeQnqkkK512t7l6cebkba3.jpg"
+        },
+        {
+            "name": "Giacomo Fadda",
+            "role": "Francesco Vinci",
+            "image": "https://image.tmdb.org/t/p/w200/3reJtY3zkCq5qSZh1fTc9dVDadD.jpg"
+        },
+        {
+            "name": "Antonio Tintis",
+            "role": "Giovanni Mele",
+            "image": "https://image.tmdb.org/t/p/w200/m8YJbpLvAxMe6n30jMMjKadxLY9.jpg"
+        },
+        {
+            "name": "Barbara Pitzianti",
+            "role": "Barbarina",
+            "image": "https://image.tmdb.org/t/p/w200/tBzWKkf8noDDydWR2vEoC5yhuiF.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Floransa Canavarı 1982'de yeniden harekete geçip genç bir çifti daha öldürünce polisler, 1968'de yine geceleyin ve arabada işlenen başka bir cinayete yoğunlaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zlRp2b2KAU3X76orAFIbbfTYNe2.jpg",
+            "vote_average": 6.8,
             "link": "https://vidmody.com/vs/tt29457135/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Polis ipuçlarını araştırırken geçmişte yaşanmış çalkantılı bir aşk öyküsü gündeme gelince bir şüpheli kaçıp saklanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fZAXRaamlSPLk3pYnZcGO3rit3i.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt29457135/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Canavar korku saçmayı sürdürür. Yine gece buluşan bir çift öldürülünce, üzerinde bulunan araç gereçler ve nerede olduğunu kanıtlayamaması sebebiyle, şüpheler başka birine yönelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uKRL82n8DKXKvti8luuqt9wOV2w.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt29457135/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Polisler tek görgü tanığını ilk cinayetin işlendiği yere götürür. 1958'deki toplum kuralları birini mutsuz bir birlikteliğe sürükler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1JL6F8qGIT6qoPFk4MrQfzmDLnx.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt29457135/s1/e04"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:36:54"
 }
