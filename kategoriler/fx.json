@@ -1,0 +1,150 @@
+[
+    {
+        "id": 157239,
+        "imdb_id": "tt13623632",
+        "name": "Alien: Earth",
+        "original_name": "Alien: Earth",
+        "overview": "Gizemli derin uzay araştırma gemisi USCSS Maginot'nun Dünya'ya çakılmasıyla Wendy ve bir grup asker, gezegenin en büyük tehdidiyle karşı karşıya gelir.",
+        "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/biIBy2LPOOtGCgUYOls3dUEWU3v.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "FX",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Sydney Chandler",
+                "role": "Wendy",
+                "image": "https://image.tmdb.org/t/p/w200/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg"
+            },
+            {
+                "name": "Alex Lawther",
+                "role": "Joe DiMaggio Hermit",
+                "image": "https://image.tmdb.org/t/p/w200/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
+            },
+            {
+                "name": "Essie Davis",
+                "role": "Dame Sylvia",
+                "image": "https://image.tmdb.org/t/p/w200/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg"
+            },
+            {
+                "name": "Samuel Blenkin",
+                "role": "Boy Kavalier",
+                "image": "https://image.tmdb.org/t/p/w200/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg"
+            },
+            {
+                "name": "Babou Ceesay",
+                "role": "Kumi Morrow",
+                "image": "https://image.tmdb.org/t/p/w200/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg"
+            },
+            {
+                "name": "Adarsh Gourav",
+                "role": "Slightly",
+                "image": "https://image.tmdb.org/t/p/w200/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg"
+            },
+            {
+                "name": "Erana James",
+                "role": "Curly",
+                "image": "https://image.tmdb.org/t/p/w200/kEfjALq1CIHpfaOHtw6DSzGlIX6.jpg"
+            },
+            {
+                "name": "Lily Newmark",
+                "role": "Nibs",
+                "image": "https://image.tmdb.org/t/p/w200/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg"
+            },
+            {
+                "name": "Jonathan Ajayi",
+                "role": "Smee",
+                "image": "https://image.tmdb.org/t/p/w200/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg"
+            },
+            {
+                "name": "David Rysdahl",
+                "role": "Arthur Sylvia",
+                "image": "https://image.tmdb.org/t/p/w200/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Neverland",
+                "overview": "Bir uzay gemisi Dünya’ya düştüğünde bir kız kardeş, abisini aramaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/d4cydmliyqDZyBWkxkliiED4B0G.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Bay Ekim",
+                "overview": "Rakip şirketler arasında gerilim tırmanırken bir sır ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cdajiwi3frAqI0XIwsCH5q9P8Hu.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Metamorfoz",
+                "overview": "Ekip, davetsiz bir kargoyla eve döner ve rahatsız edici bir deney yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Gözlem",
+                "overview": "Gizli bir komplo herkesi tehlikeye atarken beklenmedik bir bağ kurulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hzE6VJ37veL4p54IicLcI5pDDSJ.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Uzayda Kimse...",
+                "overview": "Uzay boşluğunda tehlikede olan bir gemi, mürettebatı zorlu bir hesaplaşmaya sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hkLVUpJ8HWSAowCxazGDcUOpxLS.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Sinek",
+                "overview": "Güçlü düşmanlar çatışırken gerilim tırmanır ve merak ölümcül sonuçlara yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ppYjI7rPvsZznQr59XzysFUZTsY.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Belirme",
+                "overview": "Bir kaçış planı, tarafların bölünmesine, ihanetlere ve şoke edici bir yüzleşmeye yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Gerçek Canavarlar",
+                "overview": "Güç dengeleri değişiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tssL6QBaKUkdXtmPUidrsREIEX5.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 02:01:15"
+    }
+]

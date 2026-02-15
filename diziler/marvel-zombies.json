@@ -2,25 +2,91 @@
     "id": 138505,
     "imdb_id": "tt16027014",
     "name": "Marvel Zombies",
+    "original_name": "Marvel Zombies",
+    "overview": "Avengerlar, bir zombi salgınına yenik düştükten sonra, hayatta kalmaya çalışan bir grup, süper güçlü ölüleri durdurmanın yolunu arar. Dünyalarını kurtarmak için distopik bir evrende zamana karşı yarışırlar.",
     "poster": "https://image.tmdb.org/t/p/w500/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
     "year": "2025",
+    "rating": 7.3,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Animasyon",
         "Aksiyon & Macera"
     ],
+    "categories": [
+        "Tümü",
+        "Animasyon",
+        "Disney+"
+    ],
     "cast": [
-        "Iman Vellani",
-        "Todd Williams",
-        "David Harbour",
-        "Simu Liu",
-        "Awkwafina"
+        {
+            "name": "Iman Vellani",
+            "role": "Kamala Khan (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/jD2TNIyJQmdqijGTzhvdiYabYix.jpg"
+        },
+        {
+            "name": "Todd Williams",
+            "role": "Blade Knight (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/uLdgH4w3wT348vdgUE06kSMizlZ.jpg"
+        },
+        {
+            "name": "David Harbour",
+            "role": "Alexei Shostakov / Red Guardian (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+        },
+        {
+            "name": "Simu Liu",
+            "role": "Shang-Chi (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/cCx2OghLj9KN73oyRZe92i2p3Ih.jpg"
+        },
+        {
+            "name": "Awkwafina",
+            "role": "Katy Chen (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+        },
+        {
+            "name": "Elizabeth Olsen",
+            "role": "Wanda Maximoff / The Red Queen (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Hayatta kalan son kişiler, acımasız bir dünyayla yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/25QjykMVOADHoKBre3bLovFrz0j.jpg",
+            "vote_average": 6.4,
             "link": "https://vidmody.com/vs/tt16027014/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Açık yollarda, ete olan açlık her şeye hükmeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vvbPNdHl8gjuRnrU0YhbHrNXLlS.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt16027014/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Çürümüş ölüler, korkularının tadına bakacak.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt16027014/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Kanlı bir son.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt16027014/s1/e04"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 04:21:24"
 }

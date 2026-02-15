@@ -2,24 +2,108 @@
     "id": 217667,
     "imdb_id": "tt16283824",
     "name": "Eric",
+    "original_name": "Eric",
+    "overview": "Yanında azimli bir polisle birlikte dokuz yaşındaki kayıp oğlunu arayan çaresiz bir baba, 1980'lerin New York sokaklarında kendi sorunlarıyla boğuşur.",
     "poster": "https://image.tmdb.org/t/p/w500/o5EmT8OxUnC96pEWW6zMUjmZuP4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/2eX8Lx5VAl7ZKhwd5WOuGYwa3PW.jpg",
     "year": "2024",
+    "rating": 7.0,
     "genres": [
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Benedict Cumberbatch",
-        "Gaby Hoffmann",
-        "McKinley Belcher III",
-        "Dan Fogler",
-        "Clarke Peters"
+        {
+            "name": "Benedict Cumberbatch",
+            "role": "Vincent",
+            "image": "https://image.tmdb.org/t/p/w200/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+        },
+        {
+            "name": "Gaby Hoffmann",
+            "role": "Cassie",
+            "image": "https://image.tmdb.org/t/p/w200/bMdxuHqCJkf4dAFKleYRs2GXDN9.jpg"
+        },
+        {
+            "name": "McKinley Belcher III",
+            "role": "Ledroit",
+            "image": "https://image.tmdb.org/t/p/w200/yoglJWyhgA1tnqQS9T3MQPPEsRc.jpg"
+        },
+        {
+            "name": "Dan Fogler",
+            "role": "Lennie",
+            "image": "https://image.tmdb.org/t/p/w200/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
+        },
+        {
+            "name": "Clarke Peters",
+            "role": "George",
+            "image": "https://image.tmdb.org/t/p/w200/ouDHDpocxXgXrosF3vShAEkOjHL.jpg"
+        },
+        {
+            "name": "Adepero Oduye",
+            "role": "Cecile",
+            "image": "https://image.tmdb.org/t/p/w200/w9axk9dSTVpZPnoDH08iClklmF4.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Vincent'ın oğlu Edgar'ın aklına İyi Günler Gün Işığı'nın yeni kuklası için bir fikir gelir. Ama babasını ikna etmeye fırsat bile bulamadan okul yolunda ortadan kaybolur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yI3fE4QGvk7UC8UzidD2uF9hcVy.jpg",
+            "vote_average": 6.5,
             "link": "https://vidmody.com/vs/tt16283824/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Vincent, Eric'e hayat vermenin oğlunun eve dönmesine yardımcı olacağına kendini inandırır. Dedektif Ledroit birini tutuklar. Cassie'nin ise şüphelendiği şeyler vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/k1JnFXNOayiPwyTGXhVWxSEnWRj.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt16283824/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Vincent fikrini sunmak için hummalı bir şekilde hazırlanırken Ledroit yeni sorularla çıkagelir. Cassie kayıp başka bir çocuğun annesiyle bir araya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9dhHjoyC3o4tGSLjMtU5rZnw28y.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt16283824/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Hem Lennie'den hem de Cassie'den şoke edici haberler alan Vincent'ın ruh sağlığı bozulmaya devam eder. Ancak Edgar'dan kalan bir işaret görünce yeni bir plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/imvCPQkF8f9b8fnqo437iwZ2fpN.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt16283824/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Ledroit her iki soruşturmada da ilerleme kaydeder. Cassie'ye gelen bir telefon her şeyi değiştirir. Vincent haritayı takip etmeyi sürdürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aQgnjxntc3oYtKcRC9zrEPx2Hc3.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt16283824/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Şehrin evsizleri sokaklarda yaşamaya zorlanırken Vincent sorularını cevaplayabilecek kişi ile tanışır. Eski bir dostu, Ledroit'un gizli bir kanıtı ortaya çıkarmasına yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fYl61UW4fb41rCr35x8kRnYJMmb.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt16283824/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 04:28:52"
 }

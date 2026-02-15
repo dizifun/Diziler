@@ -2,25 +2,1676 @@
     "id": 1402,
     "imdb_id": "tt1520211",
     "name": "The Walking Dead",
-    "poster": "https://image.tmdb.org/t/p/w500/s3OIDrCErUjthsnPPreY7XktQXB.jpg",
+    "original_name": "The Walking Dead",
+    "overview": "Dünyanın sonu bir zombi kıyametiyle gelmişken hayatta kalmayı başaranlar bu ölüm kalım mücadelesinde insanlığa karşı duydukları umuda tutunurlar.",
+    "poster": "https://image.tmdb.org/t/p/w500/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
     "year": "2010",
+    "rating": 8.1,
     "genres": [
         "Aksiyon & Macera",
         "Dram",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "TV+",
+        "AMC Plus Apple TV Channel",
+        "AMC+ Roku Premium Channel",
+        "Netflix Standard with Ads",
+        "AMC+",
+        "AMC",
+        "Netflix",
+        "Philo",
+        "Disney+",
+        "YouTube TV"
+    ],
     "cast": [
-        "Lauren Cohan",
-        "Norman Reedus",
-        "Jeffrey Dean Morgan",
-        "Melissa McBride",
-        "Christian Serratos"
+        {
+            "name": "Lauren Cohan",
+            "role": "Maggie Greene",
+            "image": "https://image.tmdb.org/t/p/w200/zJ9nZ5jqQTUD55GLKbgfiKlUoBN.jpg"
+        },
+        {
+            "name": "Norman Reedus",
+            "role": "Daryl Dixon",
+            "image": "https://image.tmdb.org/t/p/w200/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+        },
+        {
+            "name": "Jeffrey Dean Morgan",
+            "role": "Negan Smith",
+            "image": "https://image.tmdb.org/t/p/w200/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+        },
+        {
+            "name": "Melissa McBride",
+            "role": "Carol Peletier",
+            "image": "https://image.tmdb.org/t/p/w200/2omPfeMdnicJqqvgKAU2iqVyD4Z.jpg"
+        },
+        {
+            "name": "Christian Serratos",
+            "role": "Rosita Espinosa",
+            "image": "https://image.tmdb.org/t/p/w200/jP07Elhu2eZdmjIB4fJiag5CfaD.jpg"
+        },
+        {
+            "name": "Seth Gilliam",
+            "role": "Gabriel Stokes",
+            "image": "https://image.tmdb.org/t/p/w200/9CiWZNBysr4IiyERAYQFONqyTAQ.jpg"
+        },
+        {
+            "name": "Ross Marquand",
+            "role": "Aaron",
+            "image": "https://image.tmdb.org/t/p/w200/2CxkVPimin0c2v7fUK3MGjgEnLt.jpg"
+        },
+        {
+            "name": "Josh McDermitt",
+            "role": "Eugene Porter",
+            "image": "https://image.tmdb.org/t/p/w200/9K7zFdSRWMMDyf0UO7Kqx71S5fg.jpg"
+        },
+        {
+            "name": "Khary Payton",
+            "role": "Ezekiel Sutton",
+            "image": "https://image.tmdb.org/t/p/w200/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg"
+        },
+        {
+            "name": "Cooper Andrews",
+            "role": "Jerry",
+            "image": "https://image.tmdb.org/t/p/w200/uyvhcj3hrhCWqXmS4VSM36LhISt.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Günler Sonra",
+            "overview": "Rick, yürüyen ölülerin dehşet saçtığı bir dünyada ailesini arar. Morgan ve Duane, Rick'in hayatta kalmak için yeni kuralları öğrenmesine yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/az8sR27PgpYsZwBOkOYI6xt5mLJ.jpg",
+            "vote_average": 7.8,
             "link": "https://vidmody.com/vs/tt1520211/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Bağırsaklar",
+            "overview": "Farkında olmadan aylakların hayatta kalan bir grubu kapana kıstırmasına sebep olan Rick, yaşayan ölülerden çok daha tehlikeli bir düşmanla yüzleşmelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pzwHqmHp6uh6RilxifM2y29PD2u.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kurbağalara Anlat",
+            "overview": "Rick, silah çantasını almak ve birinin hayatını kurtarmak için Atlanta'ya döner. Lori ve Shane, ölü olduğunu sandıkları birinin geri dönmesiyle baş etmek zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8tBKuZ4nWqIDLT4vT5ivpgivkc7.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Çete",
+            "overview": "İşler ters gidince Rick'in Atlanta görevi tehlikeye girer. Kampta Jim endişe verici hareketler sergilemeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9O7eh9MarFfiSo54IHlxhpC9dVi.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1520211/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Wildfire",
+            "overview": "Saldırının ardından Rick, grubu CDC'ye götürür. Jim, korkunç ve hayati bir karar almalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iuyqfagPbhEmF6yaPWmEMgKsQkd.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "19 Numaralı Denek",
+            "overview": "Tuhaf bir doktor, Rick ve grubun CDC'ye girmesine izin verir. Ama yeni buldukları sığınakta her şey göründüğü gibi değildir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qOsfqcIURwZlP6umsosjE4nxhrj.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1520211/s1/e06"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Bizi Bekleyenler",
+            "overview": "Rick, grubu Atlanta dışına çıkarır. Otoyolda, daha önce gördüklerine benzemeyen bir tehdit yüzünden dururlar. Biri kaybolur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dGKEA22beB0xsVNGxKiJ2yr1h6S.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Kan Kaybı",
+            "overview": "Başkasının yardımına koşan Rick, olası bir güvenli sığınak keşfeder. Shane, çok ihtiyaç duyulan tıbbi malzemeleri bulmak için tehlikeli bir göreve çıkmalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2dUZ2Oh4lH4DImV10dP35LPJOOu.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Sonuncuyu Harcama",
+            "overview": "Grup çaresizce Shane'in dönmesini bekler. Shane, etrafı aylaklarla çevrilmiş bir hâlde okulda kapana kısılmıştır. Daryl ve Andrea birini arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cas8YER6f6Oj1peFYl1DMdItn1Z.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Çeroki Gülü",
+            "overview": "Diğerleri sıra dışı bir tehditle uğraşırken Rick, grubun çiftlikte kalmasına izin vermesi için Hershel'la pazarlık yapar. Glenn bir göreve çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tGvhQKDulzOgULbPenk4eiutdqd.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Chupacabra",
+            "overview": "Ormanda tek başına olan Daryl bir ipucu bulur, ama yaralanır ve aylakların saldırısına uğrar. Rick seçimlerini sorgular. Glenn, Maggie'den karmaşık sinyaller alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tJKg7l4r0MhRWOzbBA28qrqH4Cv.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Sırlar",
+            "overview": "Glenn iki sır saklamaya çalışır. Andrea yeni keşfettiği yeteneğini denemek zorunda kalır. Rick, kendisine yakın olan biri hakkında bir şey öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jaFnWd6Ge0ymmzVqE5X9BuvwZRx.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Zaten Ölmüş Sayılırsın",
+            "overview": "Grup, burunlarının dibindeki büyük bir tehdidi keşfeder. Rick, tehlikeli bir çıkmazdan kaçınmak için Hershel'la birlikte çalışır. Dale, Shane'le yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fBr0hwygAJb3UY95pVWdvkDkluf.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Nebraska",
+            "overview": "Grup, korkunç bir keşfin ardından düzeni yeniden sağlamaya çalışır. Hershel ortadan kaybolunca Rick ve Glenn'in onun peşinden kasabaya gitmesi gerekir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5gXXvhQyu0dJhtjCafy8NSiRJkP.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Eli Tetikte",
+            "overview": "Mahsur kalan Rick, Hershel ve Glenn; hem diri hem ölü olan yeni düşmanlarından sağ kurtulmak için uğraşır. Shane, Lori'yi çiftliğe geri getirmeyi kendine görev edinir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2sgqMeVKRuyEQdKVSa2v8FOlfgG.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "30 Kilometre Ötede",
+            "overview": "Rick ve Shane, bir esirin kaderi hakkında ihtilafa düşer. Andrea, Hershel'ın en küçük kızının önemli bir kararla yüzleşmesine yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4N2vrvnCt6dy7D8Y9qeFJYVHuAJ.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "Yargıç, Jüri, Cellat",
+            "overview": "Rick, önemli bir kararda Shane'e katılır. Dale, grubun insanlığını kaybettiğinden endişe eder. Carl'ın eylemlerinin istenmeyen sonuçları olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4GYMZOSmdKfbPuLSFeoeWeB5pfN.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "İyi Melekler",
+            "overview": "Grup, tehlikeli birinin kayıplara karışmış olabileceğini öğrenir. Gece olunca Rick, Shane, Daryl ve Glenn; durumla ilgilenmek için ormanı arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/21ES174AHVnZ42iOsC8opxg3dL8.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e12"
+        },
+        {
+            "season": 2,
+            "episode": 13,
+            "name": "Ölen Ateşin Yanında",
+            "overview": "Rick döndüğünde çiftliğin tehlikede olduğunu görür. Olayların ardından yaşanan karmaşada grup ayrılır. Durum iyi görünmediğinden Rick'in liderliği sorgulanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AfX5ZoVYicVHqFirgMctnrcFxId.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt1520211/s2/e13"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Tohum",
+            "overview": "Dünya gitgide daha tehlikeli bir hâle gelirken ve Lori'nin hamileliği ilerlerken Rick, zorluklar yaşayan grup için daha güvenli bir yuva arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/igDJ0B2u2bSIByrzy3sqpWYStgp.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Mide Bulandırıcı",
+            "overview": "Rick ve grup, içlerinden birinin hayatını kurtarmak için uğraşırken yeni düşmanların keşfi durumu daha da karmaşık bir hâle getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dmR8StTsJD0Zs4VqMqdRms0P0Uw.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Yanımda Yürüyün",
+            "overview": "Bir kazaya tanık olduktan sonra Andrea ve Michonne, belki de göründükleri kadar yardımsever olmayan yeni bir toplulukla tanışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uHfCgsVwZjwjyX5eIGZ0hMaCDJ2.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "İçindeki Katil",
+            "overview": "Hapishanedeki grup birçok sorunla uğraşırken Michonne ve Andrea, bulundukları yeni ortamı inceler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4QmfqrOHTUkfRfWT9MszlKmuZPQ.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Söylemen Yeter",
+            "overview": "Rick, en son kaybıyla başa çıkmaya çalışır. Vali eşsiz bir eğlencenin olduğu bir parti yapınca, Michonne ondan şüphelenmeye devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/a46hEm2tbDfVW8eRSZJPCZohdXY.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Kovalamaca",
+            "overview": "Andrea, Vali'yle yakınlaşırken Michonne, Woodbury hakkında bir karara varır. Glenn ve Maggie, malzeme bulmaya gitmeye karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dlj9j9V3vw8i9mCzaky77FbzVnW.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Ölüler Kapıyı Çalınca",
+            "overview": "Bilgi almak için baskı yapan Vali, gerçek yüzünü gösterir. Yeni bir konuk, hapishaneyi ayağa kaldırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AlCwYfLHEVJkayzxNzVp3LVTXUT.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Acı Çekmek İçin Yaratılmış",
+            "overview": "Woodbury halkı alışık olmadığı bir durumla karşılaşırken, hapishanedeki grup kendileri için savaşmaları gerektiğine karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dTq6kRxhcAampBaybf4W0s9z6jX.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "İntihar Kralı",
+            "overview": "Rick, grubun bir üyesini kurtarmaya çalışır. Yeni saldırının ardından Woodbury kargaşa içindedir. Hapishanenin yeni konukları endişe uyandırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e2rS0CVzlRsKMZn4rBiBM8TFecn.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Ev",
+            "overview": "Grup ne yapacağını tartışırken Rick, bir arkadaşının peşinden gider. Vali, Woodbury'de yeniden düzeni sağlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/llvfTbRHGQvKCZbMIR2U9xmFIt7.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e10"
+        },
+        {
+            "season": 3,
+            "episode": 11,
+            "name": "Ben Hain Değilim",
+            "overview": "Güvenlikleri tehlikeye giren Rick ve grup, bir seçim yapmalıdır. Woodbury polis devleti olunca Andrea dizginleri ele almaya karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i9qxJVjyBDm9tObdUUyH54wrIOf.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e11"
+        },
+        {
+            "season": 3,
+            "episode": 12,
+            "name": "Temizlik",
+            "overview": "Vali'ye bağlı olan güçlerin elinde kendilerininkinden daha fazla silah olduğunu anlayan Rick, başka silahlar bulmak için keşfe çıkmaya karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7J2cZ4H26PQToYdaez9y4wMBHg9.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e12"
+        },
+        {
+            "season": 3,
+            "episode": 13,
+            "name": "Kapıdaki Ok",
+            "overview": "Daha fazla ölüm olmasını engellemek için Rick ve Vali, oturup barış antlaşmasını olasılığını konuşmaya karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iorClUphO4ITxb0345FmrvRp1BP.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e13"
+        },
+        {
+            "season": 3,
+            "episode": 14,
+            "name": "Av",
+            "overview": "Vali, Woodbury'den kaçan bir muhalifi kovalar. Vali yokken bir hain, onun planlarını sabote etmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/83wMFQBqSKOYCuLOKsk676JQXKH.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e14"
+        },
+        {
+            "season": 3,
+            "episode": 15,
+            "name": "Bu Acı Hayat",
+            "overview": "Rick ve grup, ciddi bir sorunla karşı karşıyadır: Vali'yle ateşkes yapmak istiyorlarsa büyük bir fedakârlıkta bulunmaları gerekmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jCtg4PrDMfcioSNH28N5j3NOG5Y.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e15"
+        },
+        {
+            "season": 3,
+            "episode": 16,
+            "name": "Mezarlığa Hoş Geldiniz",
+            "overview": "Vali'nin saldırısı yaklaştıkça Rick ve grup, hapishanenin savunmaya değer olup olmadığını düşünmek zorundadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yI2qEceOH5DNCsoFY3rMUiqQjrE.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s3/e16"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Kazasız 30 Gün",
+            "overview": "Rick'in grubu, hapishanenin nispeten güvenli bir üs olduğunu düşünürken kıl payı kurtuldukları bir tehlike, asla tedbiri elden bırakmamaları gerektiğini hatırlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9S4kZF14S9djjtQszTPfBss8SUt.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Enfeksiyon",
+            "overview": "Bir virüsün yayılmasını önlemek için, hayatta kalan bazı kişiler karantinaya alınır. Carol, iki kızı kanadı altına alır. Tyreese şaşırtıcı bir keşifte bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7ujT1NDAej9wFPg9FzFfdZ8Fmix.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Karantina",
+            "overview": "Virüs yayılınca, sıhhiyeci görevi gören Hershel hastalığa yakalananların bazılarını tecrit altına alır ve grubu malzeme bulmaları için bir veterinerlik okuluna gönderir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aOp2BBWnfBbN5WZM0g0NnamDLtq.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "Umursamazlık",
+            "overview": "Grup, okuldaki ilaçları almaya çalışırken Bob'ın aldatmacası ortaya çıkar. Rick ve Carol, Carol'ın itirafının sonuçlarını konuşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qT9QDuIJ5uRSTmRa8DdQgbrWrTf.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "Hapsetme",
+            "overview": "Hapishanenin karantina altındaki bölgesinde Hershel, Sasha ve Glenn; endişe verici bir hızda canlanan grip kurbanlarıyla ilgilenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2AujqPJmtbpLo8gHfFxfOvPlooX.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Canlı Yem",
+            "overview": "Bir geriye dönüşte, Vali tesadüfen Lilly ve Tara kardeşler, sakat babaları ve Lilly'nin kızı Meghan'ın dairesini bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mXkdrscvm9bKRG9JD6aqdi2JFIF.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Ölü Ağırlık",
+            "overview": "Martinez, Meghan ve Vali'yi bir çukurdan kurtarır ve onu lider olarak kabul etmeleri şartıyla kampına katılmaya davet eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dNJ8pq77zVwJVMf6qMlzYQBJkFJ.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Çok Geç",
+            "overview": "Tutsakları Michonne ve Hershel'la Vali, grubunu hapishaneye saldırmak için toplar ve topyekûn savaş yaşanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pHsODkFUZeULoqn6f3LhvocsV2V.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "Akıbet",
+            "overview": "Rick ve Carl tek başlarına malzeme bulmak için yola koyulur. Saklandıkları terk edilmiş evde Carl, güçten düşen babasına çıkışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ouCdscTq0B5VGqGwLXHlEWt8j36.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "Mahkûmlar",
+            "overview": "Beth ve Daryl, hapishane saldırısından kurtulanları arar. Tyreese, ona Terminus adındaki bir sığınma yerinden bahseden bir baba oğulla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yoEw0P6PERgyvcSWzz5DwMmOJld.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e10"
+        },
+        {
+            "season": 4,
+            "episode": 11,
+            "name": "Ben Kaptım",
+            "overview": "Michonne ve Carl, bir malzeme arayışında yakınlaşır. Abraham, hükûmet yetkilileriyle görüşmesi için Eugene'i Washington'a götürmeye ant içer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qEaGtjxOAElhf955wMHtbzCYtdO.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e11"
+        },
+        {
+            "season": 4,
+            "episode": 12,
+            "name": "İmbik",
+            "overview": "Kamptaki gerginlik çok boğucu bir hâl alınca Beth ve Daryl, akşam şeftali likörü ve kaçak içki içerken birbirlerini daha yakından tanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cYYDCI4v9YYVzeTuMFK77NGn2TH.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e12"
+        },
+        {
+            "season": 4,
+            "episode": 13,
+            "name": "Yalnız",
+            "overview": "Terminus'un haritasını bulan Maggie, Bob ve Sasha'dan ayrılır. Aylaklar, Daryl ve Beth'in saklandığı bir cenaze evini kuşatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nmJfHTozXudFGR2aS3wtVkBdttD.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e13"
+        },
+        {
+            "season": 4,
+            "episode": 14,
+            "name": "Ağaçlık",
+            "overview": "Terminus'a giderken, Tyreese'in grubu güvenli bir sığınak olabilecek bir ev bulur ama Mika ve Lizzie'nin oradaki tuhaf davranışları hepsini riske atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9PVauylsikGSXy0q6MWEqrkK2Kp.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e14"
+        },
+        {
+            "season": 4,
+            "episode": 15,
+            "name": "Biz",
+            "overview": "Glenn'in grubu Terminus yolunda Maggie ve diğerlerine yetişmeye çalışır. Bir ağız dalaşı, bu yeni gerçeklikte kuralların yerini gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fyoFNOUrTCcFvRXYR8d9nBJWKO4.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e15"
+        },
+        {
+            "season": 4,
+            "episode": 16,
+            "name": "A",
+            "overview": "Hayatta kalan gruplar Terminus yolunda karşılaşırken, Rick katıksız gaddarlıkla yüz yüze gelir ve sabrının sınırları zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vuhpqq8wtyPAT86pnubq57tm2w8.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt1520211/s4/e16"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "Sığınak Yok",
+            "overview": "Tren vagonunda mahsur kalan korku içindeki grup, kendilerini esir alan kişilerin onlar için hazırladığı korkunç kaderi görmek için bekler. Gareth, Rick'i sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kZlyeDo52OhqqsSpLNCtCw3VLwG.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "Yabancılar",
+            "overview": "Grup, konukseverliğine rağmen bir şeyler saklarmış gibi görünen bir papazla karşılaşır. Daha sonra Bob, Terminus hakkında korkunç bir keşif yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AaE5YM2gOpDoAEoWb1NRHirz8Bc.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "Dört Duvar ve Bir Çatı",
+            "overview": "Rick ve Sasha'nın yüzleştiği Peder Gabriel, şaşırtıcı bir itirafta bulunur. Abraham, Washington'a gitmek için gruba baskı yapar ama Rick beklemek ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lSvdoAyA2Gm66ZbMgtQI0bC9Xap.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "Slabtown",
+            "overview": "Yaralı Beth bir hastanede uyanır, hastalara bakmakla görevlendirilir ve kime güvenebileceğini anlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vBhMzz1CjnbxDcYqyGlO0wTUKNi.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "Kişisel Gelişim",
+            "overview": "Bir kaza, grubun Washington yolculuğunu geciktirir. Bir aylak sürüsünün saldırısının ardından Eugene, Tara'ya bir sır verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/An9s0Bi9qrBG6omRDuY3UD5Ss4o.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "Tükenmiş",
+            "overview": "Beyaz haçlı arabanın peşindeki Carol ve Daryl, kendilerini Atlanta'da bulur ve orada üstünde aynı sembol olan başka bir araç görür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eERnYstTmBtRr2g7bfOrDMPP19J.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "Kesişme",
+            "overview": "Beth kurtulmak için bir girişimde bulunurken Rick'in grubu, Atlanta'da en doğru yolun ne olduğuna karar vermeye çalışır. Tara, Eugene'i savunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8T9hATcIs0iVgUs5omHktuTlnI2.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "Koda",
+            "overview": "Peder Gabriel, Carl ve Michonne; kilisede aylakları uzaklaştırmaya çalışır. Hastanede Rick, rehine değişimi için müzakere yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qrzTC3qjUu0DRzN22fOqE6XZf3n.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e08"
+        },
+        {
+            "season": 5,
+            "episode": 9,
+            "name": "Olup Bitenler",
+            "overview": "Atlanta grubu, ailesine kavuşmayı umduğu Virginia'daki memleketine kadar Noah'ya eşlik eder. Ama tehlike onları beklemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l2Qrys52o1hYjrDRkgCKuLVI9mI.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e09"
+        },
+        {
+            "season": 5,
+            "episode": 10,
+            "name": "Onlar",
+            "overview": "Tekrar yola koyulan moralsiz grup umutsuzca yiyecek arar ve şiddetli bir fırtınadan korunmak için terk edilmiş bir ahıra sığınır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tDSfAMkiOZhEwFtAUgnh50H5D54.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e10"
+        },
+        {
+            "season": 5,
+            "episode": 11,
+            "name": "Mesafe",
+            "overview": "Grup, bir yabancının teklifinin hediye mi yoksa tuzak mı olduğuna karar vermelidir. Rick şüphelidir ama Michonne söylediklerini kontrol etmeye karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6N7mmznHgJeMQaKSJ57M2faYeQn.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e11"
+        },
+        {
+            "season": 5,
+            "episode": 12,
+            "name": "Hatırlamak",
+            "overview": "Rick ve diğerleri, güvenli bölge Alexandria'da çok hoş karşılanır ama topluluğun aylaklara karşı savunmasız olmasından endişe ederler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5LSr6potOoZQEL1NaUFp8X3Q3ro.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e12"
+        },
+        {
+            "season": 5,
+            "episode": 13,
+            "name": "Unutmak",
+            "overview": "Carol, gizlice cephaneliğe girip silah çalmak için bir plan yapar. Aaron, Daryl'ı yeni aday bulmada partneri yapar. Sasha gözcü olmayı teklif eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/crJM14UlZdMMGYITtT7J3M1ce6a.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e13"
+        },
+        {
+            "season": 5,
+            "episode": 14,
+            "name": "Bedel",
+            "overview": "Abraham, bir aylak saldırısında Alexandria'da kendini kanıtlar. Deanna, yeni gelenlerin çok güçlü olmalarından endişe duyar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eLeNOdxxUcc1VAsyRj4h0GYopqA.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e14"
+        },
+        {
+            "season": 5,
+            "episode": 15,
+            "name": "Çaba",
+            "overview": "Rick, Pete konusunda Deanna'yla yüzleşir. Glenn, Nicholas'ı topluluktan ayrılmaması için uyarır. Daryl ve Aaron, ormanda rahatsız edici bir manzarayla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8bv7Gr81NScb4roX1QbVPxd7GpY.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e15"
+        },
+        {
+            "season": 5,
+            "episode": 16,
+            "name": "Zapt Etmek",
+            "overview": "Deanna, Rick'in sürgün edilip edilmemesine karar vermek için toplantı düzenleyince grup, savunmaya hazırlanır. Aaron ve Daryl, kırmızı yağmurluk giyen bir adamı izler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/h9QfzHPWftEXkmQcseK2KnCnv31.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt1520211/s5/e16"
+        },
+        {
+            "season": 6,
+            "episode": 1,
+            "name": "İlk Kez Yeniden",
+            "overview": "Alexandria'da kontrolü ele geçirmeye çalışan Rick ve beraberindekilerin, yaklaşmakta olan yeni bir tehdide rağmen şiddet eğilimlerini azaltması gerekmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wv1uhH8sZHWSakHGdcrB8N2x3yj.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e01"
+        },
+        {
+            "season": 6,
+            "episode": 2,
+            "name": "Ne Yapıp Edip Hayatta Kal",
+            "overview": "Grubun bazı üyeleri, aylaklar sürüsünün yönünü değiştirmeye çalışırken Alexandria'da kalanları farklı bir tür tehlike beklemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x16SH3dkMaXCFmPRheLs3EqXXIM.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e02"
+        },
+        {
+            "season": 6,
+            "episode": 3,
+            "name": "Teşekkür Ederim",
+            "overview": "Glenn ve Michonne, sürü onlara yetişmeden Alexandrialıları eve götürmek için zamana karşı yarışır ama her şey planlandığı gibi gitmez.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5stxi0u3jHw7eCoRTIu6GwgnIVC.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e03"
+        },
+        {
+            "season": 6,
+            "episode": 4,
+            "name": "Burası Burada Değil",
+            "overview": "Morgan, huzuru bulmasına ve şiddete başvurmama felsefesini kucaklamasına yardım eden bir dostuyla nasıl tanıştığını anlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/Af0VqKBvUDrC4GuFURf0Wiuhm7D.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e04"
+        },
+        {
+            "season": 6,
+            "episode": 5,
+            "name": "Şimdi",
+            "overview": "Alexandria'ya yapılan son saldırının sonrasında, kapının ardındaki sakinlerin morali yerlerdedir. Aaron, Maggie'nin Glenn'i aramasına yardım etmeyi teklif eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/poVlX4k10ljAAVSwUDOpC94M3hs.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e05"
+        },
+        {
+            "season": 6,
+            "episode": 6,
+            "name": "Her Zaman Sorumlu",
+            "overview": "Daryl, sürüyü Alexandria'dan uzaklaştırırken Abraham ve Sasha'dan ayrı düşer ve üç yabancıyla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gJu1GLCdjPrzv2P7Sqply2UhmXA.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e06"
+        },
+        {
+            "season": 6,
+            "episode": 7,
+            "name": "Dikkat",
+            "overview": "Rick, öldürmeyi reddetmesi hakkında Morgan'la yüzleşir ve topluluğu korumak için Alexandrialılara güvenip güvenemeyeceklerini düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vnJj8y7Ey9V9rQQVQDfk68MjII9.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e07"
+        },
+        {
+            "season": 6,
+            "episode": 8,
+            "name": "Baştan Sona",
+            "overview": "Alexandria'nın duvarı yarılınca, içeridekiler topluluğu istila eden sürüden kaçamazlar ve kendilerini savunmak için ölümüne savaşmak zorunda kalırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fbRN34JfSch33eVez4S7UFuWvhd.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e08"
+        },
+        {
+            "season": 6,
+            "episode": 9,
+            "name": "Çıkış Yok",
+            "overview": "Daryl, Abraham ve Sasha; tehditkâr yeni bir düşmanla yüzleşir. Alexandria'da Rick ve diğerleri, dikkatlice bir kaçış planını uygulamaya koyar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4ePrub8QJVbIB8wOc0niFQF4b6Q.jpg",
+            "vote_average": 9.1,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e09"
+        },
+        {
+            "season": 6,
+            "episode": 10,
+            "name": "Sonraki Dünya",
+            "overview": "Daryl ve Rick, hırslı bir malzeme arayışına çıkar ve düzenbaz bir yabancıyla karşılaşır. Kaosun ortasında Alexandria'da aşk başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gPTmCshau0GPJ8iFziZhH0Uesf7.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e10"
+        },
+        {
+            "season": 6,
+            "episode": 11,
+            "name": "Düğümler Çözülür",
+            "overview": "Grup, topluluğa yeni gelen ve kendilerini zorlu bir düşmana karşı uyaran birine güvenip güvenmeyeceğini düşünür. Yolculukta önemli bir kararla yüzleşirler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1h21VKjuRH198IpN8paBqKC3WwC.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e11"
+        },
+        {
+            "season": 6,
+            "episode": 12,
+            "name": "Henüz Yarın Olmadı",
+            "overview": "Grup, şu ana kadarki en büyük savaşına hazırlanırken Rick ve Morgan çatışır. Geçmişi, Carol'a sorun çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A6NzLYXILMMiYxkCfS549s2K5TD.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e12"
+        },
+        {
+            "season": 6,
+            "episode": 13,
+            "name": "Aynı Gemide",
+            "overview": "Grubun Kurtarıcılar'la karşılaşması, beklenmedik sonuçlar doğurur ve grubun duygusal açıdan zor bir sınavdan geçmesine neden olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u70hDGIZV33G3M0U5E2Zo47eOxq.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e13"
+        },
+        {
+            "season": 6,
+            "episode": 14,
+            "name": "İki Kat Uzak",
+            "overview": "Denise, ilaçlar azalınca Daryl ve Rosita'yla malzeme arayışına çıkar. Eugene, Abraham'a kendini kanıtlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6SoNSAayvbfyZg8E53yxI362GOT.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e14"
+        },
+        {
+            "season": 6,
+            "episode": 15,
+            "name": "Doğu",
+            "overview": "Aralarından birinin kayıp olduğunu öğrenince Alexandria'dan birçok arama ekibi yola koyulur. Morgan bir sırrı açıklar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/erkRIHyPoVlQrhRbth5DXPhc5i1.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e15"
+        },
+        {
+            "season": 6,
+            "episode": 16,
+            "name": "Dünya Üzerindeki Son Gün",
+            "overview": "Hilltop'a yapılacak çok riskli bir görev beklediklerinden daha karmaşık çıkınca, Rick ve diğerleri seçeneklerini değerlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7AEBrgGk6qgZkZK7xOoFFX6OqpR.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt1520211/s6/e16"
+        },
+        {
+            "season": 7,
+            "episode": 1,
+            "name": "Olmayacağın Günler Gelecek",
+            "overview": "Negan'ın adamlarının köşeye sıkıştırdığı Rick ve beraberindekiler, dehşet verici sonuçlarla yüzleşmek zorunda kalır. Kurtarıcıların elinde bir rehine vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/scxmZkTERZNEoOCNMj11tuUXJgx.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e01"
+        },
+        {
+            "season": 7,
+            "episode": 2,
+            "name": "Kuyu",
+            "overview": "Kurtarıcılardan iki kişi, olayları dramatikleştirme eğilimindeki bir liderin yönettiği, huzur dolu gibi görünen yeni bir topluluk olan Krallık'a ulaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5eXUe8ujbazRNkv4OERhUjueWdJ.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e02"
+        },
+        {
+            "season": 7,
+            "episode": 3,
+            "name": "Hücre",
+            "overview": "Kurtarıcı yerleşkesinde esir olan bir Alexandrialı, Dwight'ın nasıl Negan'ın adamı olduğunu öğrenir ve onun yolundan gitmeyi reddeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8hZ5QPTOo0oalJyve9tfSHYHJjH.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e03"
+        },
+        {
+            "season": 7,
+            "episode": 4,
+            "name": "Hizmet",
+            "overview": "Kurtarıcılar, malzemelere el koymak için Alexandria'ya gelince grup, bir çıkış yolu bulması için Rick'ten medet umar. Peder Gabriel, fevri davranır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wI6zcgLS0YKipL1NVl3Y0wgKory.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e04"
+        },
+        {
+            "season": 7,
+            "episode": 5,
+            "name": "Tuttuğunu Koparanlar",
+            "overview": "Gregory, Hilltop'a gelir ve Maggie ile Sasha'ya gitmelerini emreder. Rick malzeme arayışına çıkarken Carl da başka bir göreve gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4t6IZCF1gEWxLzEUpMrqJ5i8AcM.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e05"
+        },
+        {
+            "season": 7,
+            "episode": 6,
+            "name": "Yemin",
+            "overview": "Bir Alexandrialı, kendini soyutlanmış bir toplulukta bulur. Sakinlerinin dost mu, düşman mı olduğuna karar vermelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rWoABMMvaUlyFrKxcH6HM4VayuG.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e06"
+        },
+        {
+            "season": 7,
+            "episode": 7,
+            "name": "Bana Bir Şarkı Söyle",
+            "overview": "Alexandrialı bir kaçak, Kurtarıcı yerleşkesini turlar. Spencer, Rick'in liderliğine kafa tutar. Rosita, Eugene'den yardım ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rEGhpxM97LreXw6iFjTbNjLSNFd.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e07"
+        },
+        {
+            "season": 7,
+            "episode": 8,
+            "name": "Kalpler Hâlâ Atıyor",
+            "overview": "Negan, Alexandria'da rahatına bakar. Rick ve Aaron, malzeme arayışında gizemli bir mesaj bulur. Richard, bir ricada bulunmak için Carol ve Morgan'ı ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4Q0qxnst0PJWlqWVnXAuA33K86g.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e08"
+        },
+        {
+            "season": 7,
+            "episode": 9,
+            "name": "Yoldaki Kaya",
+            "overview": "Rick ve grup, Kurtarıcılar'a saldırmak için seçeneklerini değerlendir ve savaşlarına Hilltop ile Krallık'ın da katılmasını sağlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kNmgrLgzAJ4MCyZ461zYVPMJyxb.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e09"
+        },
+        {
+            "season": 7,
+            "episode": 10,
+            "name": "Yeni Dostlar",
+            "overview": "Richard, Kurtarıcılar'la savaş çıkartmak için plan yapar. Kayıp bir Alexandrialıyı ararken Rick ve diğerleri, tuhaf bir toplumla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8MYrMCO89d8H49CmjdqM5vfLrUb.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e10"
+        },
+        {
+            "season": 7,
+            "episode": 11,
+            "name": "Düşmanlar ve Musibetler",
+            "overview": "Negan'ın en yeni esiri, Sığınak'taki güzel hayatın tadına bakar ve zekâsı için ödüllendirilir. Dwight, zor durumdadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/snj2gq7AJ6rjK65iPsfr8DPYRyo.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e11"
+        },
+        {
+            "season": 7,
+            "episode": 12,
+            "name": "Evet De",
+            "overview": "Rick ve Michonne, silah arar. Rosita, grubun harekete geçmesini beklemekten sıkılır. Tara, Rick'e Oceanside'dan bahsedip bahsetmemeye karar vermeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jvxlnJsrxDiE2o9HIcR8GwMNaqM.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e12"
+        },
+        {
+            "season": 7,
+            "episode": 13,
+            "name": "Beni Buraya Gömün",
+            "overview": "Carol, Krallık'ı ziyaret eder ve Morgan'ı sorgular. Ezekiel'ın tayfası, Kurtarıcılar'a malzeme verirken gerilim doruğa ulaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1XhNKQvPYkVRyANkYVGI1ZhDosL.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e13"
+        },
+        {
+            "season": 7,
+            "episode": 14,
+            "name": "Öteki Taraf",
+            "overview": "Maggie, Hilltop halkını Kurtarıcılar'la savaşmaya hazırlar. Bir şeyler yapmak isteyen Sasha ve Rosita, gizli bir görev için el ele verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1jTRyTHOgeX2ojE3Pk9oXh3a9Qk.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e14"
+        },
+        {
+            "season": 7,
+            "episode": 15,
+            "name": "İhtiyaç Duydukları Şey",
+            "overview": "Tara, bir grup Alexandria'lıyı Oceanside'a götürür. Maggie'nin artan otoritesi, Gregory'nin ağırına gider. Negan, Kurtarıcılar'a katılacak yeni bir esir ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/akYTLIqBFBmaxYPWewaowUR7rAY.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e15"
+        },
+        {
+            "season": 7,
+            "episode": 16,
+            "name": "Ömrünün Geri Kalanının İlk Günü",
+            "overview": "Dwight, Daryl'a bir plan anlatır. Sasha daha güzel günleri hatırlar. Rick ve grup, Kurtarıcılar'ın Alexandria'ya gelişini bekler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mI7tglqlSdxNafcOuBdQMZoDyu5.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1520211/s7/e16"
+        },
+        {
+            "season": 8,
+            "episode": 1,
+            "name": "Merhamet",
+            "overview": "Rick, Ezekiel ve Maggie özenle hazırlanmış bir planla Sığınak'a saldırmaya karar verir. Carl, petrol istasyonunda gizemli bir yabancıyla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1GkFjg4DCCdsXYR324vnJRzCqHs.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e01"
+        },
+        {
+            "season": 8,
+            "episode": 2,
+            "name": "Lanetliler",
+            "overview": "Daryl ve Rick bir silah zulasını ararken Carol ve Ezekiel kaçan bir Kurtarıcı'nın peşine düşer. Tara ve Jesus, ellerindeki bir esire acıyıp acımamak konusunda tartışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fVsoRywhhncBnJ0lUlc48QSn5lq.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e02"
+        },
+        {
+            "season": 8,
+            "episode": 3,
+            "name": "Canavarlar",
+            "overview": "Rick, eski bir müttefikle gergin bir hesaplaşma yaşar. Gitgide dengesizleşen Morgan, İsa'yla kavga eder. Maggie, bir hainin kaderini değerlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ds4Jyxz8LCKTUK2EDU2C60gV8jM.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e03"
+        },
+        {
+            "season": 8,
+            "episode": 4,
+            "name": "Adamın Teki",
+            "overview": "Yıkıcı bir saldırının ardından hayatta kalanlar, yaşam savaşı verir. Bir Kurtarıcı karakolunda tek başına olan Carol, hızlı düşünüp hareket etmelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o24MhNTRTC6Z9ddGC9UBkQRp66R.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e04"
+        },
+        {
+            "season": 8,
+            "episode": 5,
+            "name": "Büyük ve Korkutucu Bilinmeyen",
+            "overview": "Römorkta kapana kısılan Negan ve Gabriel, birbiriyle geçmişlerini paylaşır. Sığınak'ta Negan'ın yardımcıları, bir sonraki adımlarını tartışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kYz5TzlGPQ01zMO8OD8bn2Mua7s.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e05"
+        },
+        {
+            "season": 8,
+            "episode": 6,
+            "name": "Kral, Dul ve Rick",
+            "overview": "Rick, Jadis'e bir teklifte bulunur. Carol, savaşmaya devam etmesi için Ezekiel'a yalvarır. Rosita ve huzursuz Michonne, Sığınak'a gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gmUETjYmfWpE2ksFaTBKz9uDErP.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e06"
+        },
+        {
+            "season": 8,
+            "episode": 7,
+            "name": "Zamanı Geldiğinde",
+            "overview": "Eugene, Dwight'la yüzleşir ve hasta Gabriel'a göz kulak olur. Morgan ve Tara'nın desteğiyle Daryl, gizli bir planı uygulamaya koyar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qqJyqyea8qsYyYQoy1KIkMJ0Scp.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e07"
+        },
+        {
+            "season": 8,
+            "episode": 8,
+            "name": "Bu Şekilde Olmalı",
+            "overview": "Enid ve Aaron, tehlikeli bir göreve çıkar. Maggie ve İsa'nın konvoyu, bir barikatla karşılaşır. Carl, Alexandria'da Negan'a karşı çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/op6Fkgos0beq5F5eSeimmH3MHSj.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e08"
+        },
+        {
+            "season": 8,
+            "episode": 9,
+            "name": "Onur",
+            "overview": "Carol, Krallık'ta hayatta kalanları güvenli bir yere götürüp Ezekiel'ı esir alanlarla yüzleşmek için döner. Carl, babasına intikam peşinde koşmayı bırakmasını önerir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j3SFRgBYaib0NgzoaFknsSAmYF2.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e09"
+        },
+        {
+            "season": 8,
+            "episode": 10,
+            "name": "Kayıplar ve Yağmacılar",
+            "overview": "Rick ve Michonne, hurdalıkta bir sürprizle karşılaşır. Maggie, Hilltop'tan bir mesaj iletir. Enid ve Aaron'ın hayatı Cyndie'nin elindedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/A6o68TxWyVbseCn5aZ9345BB3ko.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e10"
+        },
+        {
+            "season": 8,
+            "episode": 11,
+            "name": "Ölü ya da Diri",
+            "overview": "Daryl, Alexandrialıları Hilltop'a götürür. Kaynaklar azaldığı için Maggie zor bir kararla karşı karşıya kalır. Gabriel, Dr. Carson'ı inançlı olmaya sevk eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5qfjbtyzPSfkXKc5qIaWsmI4kDh.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e11"
+        },
+        {
+            "season": 8,
+            "episode": 12,
+            "name": "Anahtar",
+            "overview": "Daryl, Rick'ten özür diler. Maggie, üstünde gizemli bir not olan bir kasa bulur. Dwight'la yoldayken Simon, Negan'ın planını sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4iYR0hj6hWAS1PKl4n0a5fwYT9t.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e12"
+        },
+        {
+            "season": 8,
+            "episode": 13,
+            "name": "Bizi Yolumuzdan Saptırma",
+            "overview": "Negan ortalıkta yokken Simon, Hilltop'a saldırır. Tara, Daryl'e karşı Dwight'ı savunur. Morgan sürekli halüsinasyon görür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7GiYqdTVqvwodgrnSg5QcRT629c.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e13"
+        },
+        {
+            "season": 8,
+            "episode": 14,
+            "name": "Bir Anlamı Olmalı",
+            "overview": "Hurdalıktaki bir esir, belirsiz bir kaderle karşı karşıyadır. Michonne, kederiyle yüzleşmesi için Rick'e yalvarır. Carol ve Morgan, Henry'yi arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1ZcfE5cNwtMgvtmR0ZDeWwcMg9O.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e14"
+        },
+        {
+            "season": 8,
+            "episode": 15,
+            "name": "Değer",
+            "overview": "Rick, Carl'ın barış yapması için yalvardığı mektubunu okur. Aaron, Oceanside'dan umudunu kesmeyi reddeder. Rosita ve Daryl, birini rehin alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5clnSayWqZfk4u2qzZ8clIlE5lp.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e15"
+        },
+        {
+            "season": 8,
+            "episode": 16,
+            "name": "Gazap",
+            "overview": "Liderler intikam hırslarının mı, barışçıl bir gelecek umudunun mu daha önemli olduğuna karar verirken müttefikler, Kurtarıcılar'a karşı son bir saldırıda birlik olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lNEqKjAtEgQ6nTiptnuYl4eaXmI.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s8/e16"
+        },
+        {
+            "season": 9,
+            "episode": 1,
+            "name": "Yeni Bir Başlangıç",
+            "overview": "Barışın hâkim olmasıyla Rick, Carl'ın vizyonunu gerçeğe dönüştürmeye ve sağ kalanlar arasında köprü kurmaya çalışır. Ancak ihanet, Maggie'yi harekete geçmeye sevk eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rMnf7qMMdKW2RSm5OWvT2y2R0GN.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e01"
+        },
+        {
+            "season": 9,
+            "episode": 2,
+            "name": "Köprü",
+            "overview": "Buyurgan bir liderin idamının ardından köprü onarımı devam eder. Bir Kurtarıcı'nın takım çalışmasında zorlanması birinin ezilmesine yol açar. Gabriel ve Anne yakınlaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1ws4s8iDGdRZuW5VxtMdzWJgI0Y.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e02"
+        },
+        {
+            "season": 9,
+            "episode": 3,
+            "name": "Uyarı İşaretleri",
+            "overview": "Rick gizemli bir cinayeti çözmeye çalışırken gruptaki çatlaklar büyür. Gabriel, Anne'in peşinden ayrılmaz. Maggie ve Daryl geçmişin üzerine sünger çekilmediğini öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/icelNITmbClMy12HFulvrnjWx6P.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e03"
+        },
+        {
+            "season": 9,
+            "episode": 4,
+            "name": "Geçmiş Günahlar",
+            "overview": "Michonne ayakta kalmaya çalışır. Maggie'nin planlarını öğrenen Rick'in sabrı taşar. Bunun ardından Rick, Daryl ile yüzleşir. Hem isyan hem de sürü giderek yaklaşmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1jQ3XnNUinsRqRddxlV0Sfuftq3.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e04"
+        },
+        {
+            "season": 9,
+            "episode": 5,
+            "name": "Sonrasında Olacaklar",
+            "overview": "Kanlar içinde kalsa da pes etmeyen Rick, büyük bir sürüyü uzaklaştırmaya çabalar. Negan ile yüzleşen Maggie seçimini yapar. Bir çıkış yolu arayan Anne bir anlaşma yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/WGw4gzRGLynNMJ9Wc5LFjelqyy.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e05"
+        },
+        {
+            "season": 9,
+            "episode": 6,
+            "name": "Peki Şimdi Kimsiniz?",
+            "overview": "Altı yıl sonra Judith çaresiz bir grubu kurtarırken Michonne, Rick'i anımsar. Haydutlar Carol'a saldırır. Ancak asıl tehdit tuhaf, yeni aylaklardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bafUTYQsxnFBkYvKedy4UnWR7J3.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e06"
+        },
+        {
+            "season": 9,
+            "episode": 7,
+            "name": "Stradivarius",
+            "overview": "Rosita hayatta kalmak için kaçarken Michonne yeni gelenleri Hilltop'a götürür. İsa ve Aaron yakınlaşır. Daryl kürkçü dükkânına geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cfG7SSuMeRCTpNKdlZn9PSqkaAI.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e07"
+        },
+        {
+            "season": 9,
+            "episode": 8,
+            "name": "Evrim",
+            "overview": "Daryl, İsa ve Aaron bir araya gelerek Eugene'i bulmak üzere yola çıkar. Tara, Michonne'u oldukça soğuk bir şekilde karşılar. Negan eline geçen fırsatı kullanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gZQ3UVt7lxN57q3kjMLw2IAUNH.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e08"
+        },
+        {
+            "season": 9,
+            "episode": 9,
+            "name": "Uyum",
+            "overview": "Michonne, Daryl ve Aaron, değerli bir rehine alır. Negan eski gücünden geriye ne kaldığını görmek üzere yola çıkar. Trajik bir kayıp bölünen grupları bir araya getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eoNL5FcszYtcfi3BICYKQhLBkIG.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e09"
+        },
+        {
+            "season": 9,
+            "episode": 10,
+            "name": "Omega",
+            "overview": "Lydia geçmişini Henry'ye açıklarken Daryl anlatılanlara kulak misafiri olur. Ama anlatılanlar travma geçiren bir zihnin ürünüdür. Magna'nın ekibi tek başına hareket eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/m7vPXqO65NOlw9WkDWYTb3tEWdh.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e10"
+        },
+        {
+            "season": 9,
+            "episode": 11,
+            "name": "Ganimet",
+            "overview": "Alfa ve Fısıldayanlar bir rehine takası teklifinde bulunur ve gruplarının acımasızlığını gözler önüne serer. Ezekiel, Carol ve Jerry ise bir ampul bulmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5zCfZfqjZv84pj7RTkJKBPtFs1N.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e11"
+        },
+        {
+            "season": 9,
+            "episode": 12,
+            "name": "Muhafızlar",
+            "overview": "Michonne konseyde taviz vermemeye çalışır. Henry, Lydia'nın izini sürer. Lydia ise umutsuz bir durumda köşeye sıkışmıştır. Negan değiştiğini iddia eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y9cUqHEBDh35hZArzrj3NzWPwWC.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e12"
+        },
+        {
+            "season": 9,
+            "episode": 13,
+            "name": "Barikat",
+            "overview": "Connie, Henry, Lydia ve Daryl kaçar. Beta onlara yetişir ve Daryl ile dövüşür. Ezekiel'ın panayır planı, yeni bir grup nedeniyle beklenmedik şekilde sekteye uğrar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dxsrkbuTC6K5UpnhoR5FFsZuBGJ.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e13"
+        },
+        {
+            "season": 9,
+            "episode": 14,
+            "name": "Yara İzleri",
+            "overview": "Geçmişten bir arkadaşı Michonne'u acı verici bir seçim yapmaya zorlar. Bu seçim onun yabancılara karşı duruşunu sertleştirir. Olgun bir kız onun stratejisini sorgular.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oMQGfuXnvJpVyosvp0KJXaOhFPE.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e14"
+        },
+        {
+            "season": 9,
+            "episode": 15,
+            "name": "Fırtına Öncesi",
+            "overview": "Herkesin panayır için bir araya gelmesiyle umutlar yeşerir ve ittifaklar yenilenir. Ancak harekete geçen sinsi bir düşman, korkunç bir ültimatom vermeye hazırlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ozV1s0JzibaQFOjQliaFhsXDxdz.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e15"
+        },
+        {
+            "season": 9,
+            "episode": 16,
+            "name": "Fırtına",
+            "overview": "Kış gelip çatar. Hava koşulları ve Fısıldayanlar karşısında, aylaklar önemini kaybeder. Bir grup riskli bir yolculuğa çıkar. Eski bir düşman harekete geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/56hDPQizzG7GAKiKoFxor7nLZFf.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s9/e16"
+        },
+        {
+            "season": 10,
+            "episode": 1,
+            "name": "Sınırı Aştık",
+            "overview": "Talim günü insanları aylaklara karşı bir araya getirir. Yanar hâlde Dünya'ya düşen eski bir uydu, grubu düşman bölgesine girmek zorunda bırakır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qe4wxUTj7NsJ0zJZSpCjgQ5RhS9.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e01"
+        },
+        {
+            "season": 10,
+            "episode": 2,
+            "name": "Biz Dünyanın Sonuyuz",
+            "overview": "Fısıldayanlar'ın yaşamı üzerindeki sır perdesi kalkar. Alpha ve Beta'nın ilk başta geliştirdiği acımasız strateji, sürüdekileri kendi akrabalarıyla karşı karşıya getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9nQgdWAtZWghRfYwhI90wzGKpqv.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e02"
+        },
+        {
+            "season": 10,
+            "episode": 3,
+            "name": "Hayaletler",
+            "overview": "Baş düşmanıyla karşı karşıya geldiği anı aklından çıkaramayan Carol, intikam arzusunu kontrol etmekte zorlanır. Alexandria ise paranoya ve aylak dalgalarıyla uğraşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nOkcmuzFpatH6kBoy6yffq28Sm7.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e03"
+        },
+        {
+            "season": 10,
+            "episode": 4,
+            "name": "Fısıltıları Sustur",
+            "overview": "Devrilen bir ağaç Hilltop'ın güvenliğini riske atınca vicdan azabı çeken Ezekiel, Michonne'a açılır. Eski kinler Lydia'nın suçlanmasına yol açtığında Negan araya girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gMC0hHv3iGpcC6M5hjwTZxmqHoY.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e04"
+        },
+        {
+            "season": 10,
+            "episode": 5,
+            "name": "Hep Olan Şey",
+            "overview": "Kelly ormanda yolunu kaybeder. Negan hem bir hayranı olduğunu hem de yürek parçalayıcı bir olayı öğrenir. Malzemeler ortadan kaybolur. Ezekiel sırrını Siddiq'le paylaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dIoBb1wEpBIYOPDSuCWzkzhSMOF.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e05"
+        },
+        {
+            "season": 10,
+            "episode": 6,
+            "name": "Bağlar",
+            "overview": "Carol ve Daryl arama-yok etme görevine çıkar. Negan bir gruba katılmak ister, ama önce güvenilir olduğunu kanıtlamalıdır. Eugene biriyle temas kurar. Rosita hastalanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rpgGDU93E2rEL1fQsCmFij9NZAi.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e06"
+        },
+        {
+            "season": 10,
+            "episode": 7,
+            "name": "Aç Gözlerini",
+            "overview": "Carol bir tutsağı gerçekleri söylemeye zorlar. Ancak bir kalleşlik, oyunun kurallarını Aaron aleyhine değiştirir. Siddiq şoke edici ve gözlerini açan bir sonuca varır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yZZydpuQVa2hAKkol9QJ37Zcqzo.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e07"
+        },
+        {
+            "season": 10,
+            "episode": 8,
+            "name": "Önceki Dünya",
+            "overview": "İyilikler cezasız kalmaz. Bir aldatmaca açığa çıkar. Rosita öfkeye kapılır. Gamma kimliğini açıklar. Alpha'nın sürüsünü arayan grup giderek daha derinlere çekilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wLhoSTVnHYl0MC4yiWT8NDrsWEO.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e08"
+        },
+        {
+            "season": 10,
+            "episode": 9,
+            "name": "Sıkışma",
+            "overview": "Fısıldayanlar, grubu tam istedikleri yere çekmiştir. Bu delikten çıkmak için üstün hayatta kalma becerileri gerekir. Negan bir liderin kulağına bir şeyler fısıldar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/d2rrB6V2tZ8gmHR7dcMyuPgVJ4O.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e09"
+        },
+        {
+            "season": 10,
+            "episode": 10,
+            "name": "İz Sürücü",
+            "overview": "Alexandria'ya gelen Gamma şüpheyle karşılanır. Sinsi bir tehdit gizlice yerleşkeye girer. Mağaraya girmenin bir yolunu arayan Daryl'ın eline bir fırsat geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mIdIJDk0xqQZfc3soH2hCQKaMTP.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e10"
+        },
+        {
+            "season": 10,
+            "episode": 11,
+            "name": "Çivili Gürz",
+            "overview": "Savaş Hilltop'ın kapısına dayanır. Alpha, aylak sürüsünü kullanmak için plan yapar. Eugene bir yabancıyla buluşmaya hazırlanır. Daryl, Carol ile yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zh1pli6AGTGru2ccFaHLRHAJm69.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e11"
+        },
+        {
+            "season": 10,
+            "episode": 12,
+            "name": "Bizimle Birlikte Yürü",
+            "overview": "Bir yerleşim yanarken topluluk dağılır. Dileği gerçekleşen Gamma bir fedakârlıkta bulunur. Judith eski bir arkadaşına yardım ederken Negan faydalı olmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sujU1oE8k9wF5ujkKf9T2ejdhya.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e12"
+        },
+        {
+            "season": 10,
+            "episode": 13,
+            "name": "Dönüştüğümüz Şey",
+            "overview": "İyi bir insan bulmak kolay değildir. Michonne, Virgil ile birlikte üsse gelir. Burada onu geçmişin izleri ve yeni bir umut dâhil çeşitli sürprizler beklemektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nbJ0Rfv3i2TBuOrJtcmtzVxCgvQ.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e13"
+        },
+        {
+            "season": 10,
+            "episode": 14,
+            "name": "Çiçeklere Bak",
+            "overview": "Carol bir anlaşma yapar. Ama intikam huzur getirecek midir? Negan anlaşmayı yerine getirdiğini kanıtlamaya kararlıdır. Eugene görüştüğü kişiyle buluşmak için yola çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vfFT0IX7wlvBqtPpNdateXSbqUr.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e14"
+        },
+        {
+            "season": 10,
+            "episode": 15,
+            "name": "Kule",
+            "overview": "Eugene, Ezekiel ve Yumiko makineli tüfek taşıyan yalnız Prenses'le takılır. Ona güvenmeleri mümkün müdür? Ciddi bir tehlike büyürken Negan, Lydia ile yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/od81y6zfVvtQ39LfdhdtD1x4M42.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e15"
+        },
+        {
+            "season": 10,
+            "episode": 16,
+            "name": "Mutlak Yok Oluş",
+            "overview": "Hayatta kalanlar, Fısıldayanlar Savaşı'nın şiddetli nihai çarpışmasında galip gelmek için hızlı düşünmek ve hem eski hem de yeni dostlarıyla iş birliği yapmak zorunda.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7GNPZVuRiwDpS8WPBpjFGjhE2Nq.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e16"
+        },
+        {
+            "season": 10,
+            "episode": 17,
+            "name": "Evim Güzel Evim",
+            "overview": "Alexandria'ya dönen Maggie, Negan'ın serbest olduğunu görünce dehşete düşer. Daryl olup bitenleri Maggie'ye anlatır. Ancak yaşanan bir felaket tüm planları altüst eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5zdd4KDOTEANr4iHdGBnb1CjVzJ.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e17"
+        },
+        {
+            "season": 10,
+            "episode": 18,
+            "name": "Bul Beni",
+            "overview": "Avlanmak için ormana giden Daryl, Carol'ın kendisine katılma isteğini gönülsüzce kabul eder. Köpeğinin ormanda bulduğu kulübe Daryl'a yürek burkan geçmişini hatırlatır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3vDTWnUTaBxPhO0fyerNTIAEXhL.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e18"
+        },
+        {
+            "season": 10,
+            "episode": 19,
+            "name": "Bir Yer Daha",
+            "overview": "Maggie'nin haritasındaki noktaları keşfe çıkan Gabriel ve Aaron bir erzak deposuna rastlar. Ancak bu keşif, inançlarını sınayan tehlikeleri de beraberinde getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4twA0WSPoARXNOSprn9UJy9FSkS.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e19"
+        },
+        {
+            "season": 10,
+            "episode": 20,
+            "name": "Kıymık",
+            "overview": "Eugene, Ezekiel, Yumiko ve Prenses bir grup maskeli asker tarafından esir alınır. Hayal ile gerçeği birbirine karıştıran Prenses kaçış planları yapmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eBbABgg6svm2iPUKzB31aFXcioU.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e20"
+        },
+        {
+            "season": 10,
+            "episode": 21,
+            "name": "Ayrılan Yollar",
+            "overview": "Birbirlerini inciten Daryl ve Carol'ın yolları ayrılır. Carol Alexandria'daki işlere odaklanırken Daryl hayati öneme sahip bir aleti Carol'da unuttuğunu fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sSc2DMYwOxBzaET6ezuLh6bUC7x.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e21"
+        },
+        {
+            "season": 10,
+            "episode": 22,
+            "name": "Negan",
+            "overview": "Alexandria'da tansiyonun yükselmesiyle Carol, Negan'ı kulübeye sürgüne gönderir. Yalnız başına, öfke ve pişmanlıkla geçmişi hatırlayan Negan eski bir dostuna rastlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1LGpDmJIG3IHrw0kKarnfJXRKYp.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt1520211/s10/e22"
+        },
+        {
+            "season": 11,
+            "episode": 1,
+            "name": "Acheron: Kısım I",
+            "overview": "Maggie'nin hikâyesini anlatması Negan'ın liderlik etmesi gereken bir göreve yol açar. Daryl bir üste işe yarar şeyler arar. Commonwealth güvenliği, Eugene'in ekibini inceler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iTQXolVnAaRmatwetQlJBZOdMbj.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e01"
+        },
+        {
+            "season": 11,
+            "episode": 2,
+            "name": "Acheron: Kısım II",
+            "overview": "Maggie ve grubu ölümcül aylakları geri püskürtüp, şüphe dolu Negan'la baş ederken her dönemeçte bir ihanetle karşılaşırlar. Yumiko, Commonwealth'e başvurur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sgGPsqjpIZtBhQnQS1kf6xasQ0p.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e02"
+        },
+        {
+            "season": 11,
+            "episode": 3,
+            "name": "Av",
+            "overview": "Maggie'nin ekibi, Reaper'larla karşı karşıya gelir. Judith ve çocuklar gidenlerle baş etmeye çalışırken Carol, Rosita, Magna ve Kelly at yakalamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/g6gSK8c0fFTFNyvYm8ZcZcZvl3t.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e03"
+        },
+        {
+            "season": 11,
+            "episode": 4,
+            "name": "Teslim",
+            "overview": "Reaper'lar çok iyi bir av yakalar ve Daryl ile Köpek'i ele geçirirler. Meridian'a götürülen esirler, geçmişlerinden tanıdık bir yüzle karşılaşırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dPJkdo3b6ehslPgcq9HBkCf2CQE.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e04"
+        },
+        {
+            "season": 11,
+            "episode": 5,
+            "name": "Küllerin Arasından",
+            "overview": "Aaron, Carol, Lydia ve Jerry alet aramak üzere Hilltop'a gider ama orada işgalcilerle karşılaşırlar. Commonwealth oryantasyonu başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1SxSaV8j05nSjQfgg2kviBerDaa.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e05"
+        },
+        {
+            "season": 11,
+            "episode": 6,
+            "name": "İçeride",
+            "overview": "Connie ve Virgil kaçarken gizemli insanların yaşadığı bir eve sığınır. Pope tarafından sadakati sınanan Daryl'ın çok dikkatli davranması gerekir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r1iW1Om7lYtOeTXmxCvaIOlAg1d.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e06"
+        },
+        {
+            "season": 11,
+            "episode": 7,
+            "name": "Tutulmayan Sözler",
+            "overview": "Negan, Maggie ve Elijah'ya yeni bir taktik gösterir. Eugene'in ekibi üzerine düşeni yapar. Daryl, Reaper'lar hakkında bilgi toplar ve Gabriel bir din adamıyla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3mNJtPYqCmEaw3ovxOw2JYPUHjY.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e07"
+        },
+        {
+            "season": 11,
+            "episode": 8,
+            "name": "Kan İçin",
+            "overview": "Reaper'lar bir sürüyle savaşırken Pope kimin kışkırttığına dair şüphe içindedir. Alexandrialılar ise şiddetli bir fırtınanın ardından kendilerini korumaya çalışırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xWTsERiIUjl0TPTcXxgnsCKdw4O.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e08"
+        },
+        {
+            "season": 11,
+            "episode": 9,
+            "name": "Başka yol yok",
+            "overview": "Merdian’da Reapers'larla olan kanlı savaş devam etmektedir. Bu sırada Alexandria’da şiddetli yağmur fırtınası ile birlikte aylakların saldırısı herkesin güvenliğini tehlikeye atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4VIVIT7WrLVUwqgyIlkP1GPWRFU.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e09"
+        },
+        {
+            "season": 11,
+            "episode": 10,
+            "name": "Yeni Haunt'lar",
+            "overview": "Alexandria halkının Commonwealth’e varmasının üzerinden haftalar geçmiştir. İki halk yeni görevlendirmeler ve yeni arkadaşlıklar edinmenin tuhaflığına uyum sağlamaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/beSsd4O4fgVCgJfcWhOkHwa1ppc.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e10"
+        },
+        {
+            "season": 11,
+            "episode": 11,
+            "name": "Rogue Element",
+            "overview": "Eugene, gizemli bir şekilde ortadan kaybolan Stephanie'yi arar. Connie, Trooper Davis hakkındaki bir hikayeyi araştırır. Bu sırada Carol, yaşanan bir anlaşmazlığı gidermekiçin Hornsby'ye yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/moJl3XWSWXbJZuoUl74cxfmM7aT.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e11"
+        },
+        {
+            "season": 11,
+            "episode": 12,
+            "name": "Hiçbir şey",
+            "overview": "Aaron ve Maggie, Alexandria, Oceanside ve Hilltop'u gezerken Vali Pamela Milton ile tanışır. Ezekiel rutin kontrollerini yaparken kendini farklı bir yerde bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/71gUmhEuyO5wOAytSJIk37yDajq.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e12"
+        },
+        {
+            "season": 11,
+            "episode": 13,
+            "name": "Savaş ağaları",
+            "overview": "Maggie, Lydia ve Elijah, Riverbend adında bir toplulukta yaşayan bir yabancıya yardım ederler. Bu sırada Aaron ile karşılaşırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eCbCFdJEG3juAQLJ0aycsRPQtaR.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e13"
+        },
+        {
+            "season": 11,
+            "episode": 14,
+            "name": "Çürük Kor",
+            "overview": "Maggie, Lydia ve Elijah, Aaron ve Gabriel'e bir görevde yardım eder. Daryl ve Rosita birlikte bir soygun yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5vCe5ujge0lbopHPOl8Iy4OUfnq.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e14"
+        },
+        {
+            "season": 11,
+            "episode": 15,
+            "name": "Güven",
+            "overview": "Hornsby, Maggie ile yüzleşmek için askerlerini ve Daryl'ı Hilltop'a götürür. Bu sırada Rosita, Milton'ları araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1Ey5KoR2zIgl4KAbXl2iZiK7ym9.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e15"
+        },
+        {
+            "season": 11,
+            "episode": 16,
+            "name": "Tanrı",
+            "overview": "Fısıldayanların arkalarında bıraktığı yıkımdan dolayı Alexandria tehlike altındadır. Alexandria halkı, Maggie ve yeni grubu önderliğinde onu yeniden güçlendirmek ve düşen Krallıktan ve Hilltop’tan gelen yeni kişilerle birlikte daha çok kişiyi beslemek ve korumak zorundadır. İçinde bulundukları durum, geçmişte yaşanan olaylar yüzünden gerilecek bir yandan da kendilerini koruma iç güdüsü açığa çıkacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lOFpJw5HpS1VdRni2AxaJTokgu0.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e16"
+        },
+        {
+            "season": 11,
+            "episode": 17,
+            "name": "Kapanma",
+            "overview": "Daryl ve Negan ailelerini Hornsby'den kurtarmalıdır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/96JAOPWdL859MA2IsFbzOPOHcla.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e17"
+        },
+        {
+            "season": 11,
+            "episode": 18,
+            "name": "Yeni Bir Anlaşma",
+            "overview": "Commonwealth halkı Kurucular Günü'nü kutlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8oAThTF3PMOQEgvtmThkU9iXgvo.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e18"
+        },
+        {
+            "season": 11,
+            "episode": 19,
+            "name": "Başka Türlü",
+            "overview": "Eugene kaçmaya başlar. Aaron'ın grubu bir sorunla karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kSgJDOT8HC21W7HZQttKQ5rpDpw.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e19"
+        },
+        {
+            "season": 11,
+            "episode": 20,
+            "name": "Kaybedilenler",
+            "overview": "Daryl ve Carol kaybolan arkadaşlarını ararlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vOgcQLHUMp9GEG4FA72iOcRGSCI.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e20"
+        },
+        {
+            "season": 11,
+            "episode": 21,
+            "name": "Karakol 22",
+            "overview": "Kahramanlarımız gizemli bir hedefe giden konvoyun izini sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hLhlaHChVFJhHAc9HA0G3KidwCR.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e21"
+        },
+        {
+            "season": 11,
+            "episode": 22,
+            "name": "Güven",
+            "overview": "Ezekiel ve Negan bir işçi isyanı planlarlar. Eugene mahkemeye çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vvNImscHCR4WVtrTXFH8bEGk5Vv.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e22"
+        },
+        {
+            "season": 11,
+            "episode": 23,
+            "name": "Aile",
+            "overview": "Kahramanlarımız Pamela'yla hesaplaşmak için Commonwealth'e geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6XBd7lRXTVK5LYf9T31x1MwWsfU.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e23"
+        },
+        {
+            "season": 11,
+            "episode": 24,
+            "name": "24. Bölüm",
+            "overview": "Commonwealth vatandaşları malikânelere girmeyi talep ederken Mercer ve Vali Milton kozlarını paylaşır. Acımasız bir savaş başlarken herkes tarafını seçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/on7i6jFTJxj5B8c0ljyW7i0nKmj.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt1520211/s11/e24"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 03:39:02"
 }

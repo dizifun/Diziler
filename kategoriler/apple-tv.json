@@ -1,0 +1,829 @@
+[
+    {
+        "id": 125988,
+        "imdb_id": "tt14688458",
+        "name": "Silo",
+        "original_name": "Silo",
+        "overview": "Mahvolmuş ve zehirli bir gelecekte, binlerce kişi yeraltının derinliklerindeki dev bir siloda yaşamaktadır. Silo'nun şerifi temel bir kuralı çiğnedikten ve sakinler gizemli bir şekilde ölmeye başladıktan sonra mühendis Juliette, Silo hakkındaki şok edici sırları ve gerçeği ortaya çıkarmaya başlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/c2OijvbFEXBW1onbzuvENr4CGQB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+        "year": "2023",
+        "rating": 8.1,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Apple TV"
+        ],
+        "cast": [
+            {
+                "name": "Rebecca Ferguson",
+                "role": "Juliette Nichols",
+                "image": "https://image.tmdb.org/t/p/w200/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+            },
+            {
+                "name": "Common",
+                "role": "Robert Sims",
+                "image": "https://image.tmdb.org/t/p/w200/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+            },
+            {
+                "name": "Harriet Walter",
+                "role": "Martha Walker",
+                "image": "https://image.tmdb.org/t/p/w200/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+            },
+            {
+                "name": "Chinaza Uche",
+                "role": "Paul Billings",
+                "image": "https://image.tmdb.org/t/p/w200/5fbbLI9BPiByyIIRYu9pbRQwyUN.jpg"
+            },
+            {
+                "name": "Avi Nash",
+                "role": "Lukas Kyle",
+                "image": "https://image.tmdb.org/t/p/w200/xmdcJQVhrnFdTv9KkrU3EnBWFfV.jpg"
+            },
+            {
+                "name": "Rick Gomez",
+                "role": "Patrick Kennedy",
+                "image": "https://image.tmdb.org/t/p/w200/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg"
+            },
+            {
+                "name": "Tim Robbins",
+                "role": "Bernard Holland",
+                "image": "https://image.tmdb.org/t/p/w200/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+            },
+            {
+                "name": "Shane McRae",
+                "role": "Knox",
+                "image": "https://image.tmdb.org/t/p/w200/ixNSdZDJ6fZzZc2Pdx4Dwr8wHir.jpg"
+            },
+            {
+                "name": "Billy Postlethwaite",
+                "role": "Hank",
+                "image": "https://image.tmdb.org/t/p/w200/cpHNAqOBP8SIcml1A8ODmtuEyNh.jpg"
+            },
+            {
+                "name": "Remmie Milner",
+                "role": "Shirley",
+                "image": "https://image.tmdb.org/t/p/w200/4LDy6vhBZ11kOevBdAGBRM34d3L.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Özgürlük Günü",
+                "overview": "Şerif Becker'ın gelecek planları, karısının Silo hakkında bilgi veren bir hacker'la karşılaşmasıyla altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Holston'ın Seçimi",
+                "overview": "Bir mühendis olan Juliette, bir iş arkadaşının gizemli ölümüne neden olabilecek şeyleri bir araya getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Makineler",
+                "overview": "Yeni bir şerif arayışında olan Belediye Başkanı Jahns, Bernard'la çatışır. Juliette, jeneratörün çalışır durumda kalması için bir anlaşma yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8hQB4jxk9ydj55Mrl9sY95smV7.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Gerçek",
+                "overview": "Juliette, son yaşanan trajedilerle ilgili gerçeği ortaya çıkarmak için çabalarken Şerif Yardımcısı Marnes'ın güvenini kazanmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Hademenin Oğlu",
+                "overview": "Sims, iki cinayeti çözme çabaları bir hesaplaşmaya yol açan Juliette'i takip etmesi için Billings'i baş yardımcısı olarak atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Obje",
+                "overview": "Juliette, araştırması sırasında, tanıdığını sandığı biri hakkında rahatsız edici sırlar keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Alev Koruyucular",
+                "overview": "Silo'nun güvenliği konusunda giderek daha fazla endişelenen Bernard, Juliette'le iş birliği yapmaya çalışır. Juliette babasından bir iyilik ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Hanna",
+                "overview": "Yeni bilgiler, Juliette'in ailesinin geçmişini farklı bir şekilde görmesine neden olur ve sonunda Silo'nun en büyük sırlarına erişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sZaeOvZYS4evALQtm2wfC3eJxit.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Kaçış",
+                "overview": "Suçluluk duygusuyla boğuşan Billings, kişisel bir göreve çıkar ve Juliette'ten akıllara durgunluk veren bir ipucu alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Dışarısı",
+                "overview": "Bazı gerçekler nihayet gün ışığına çıktığında Juliette'in kaderi de kesinleşmiş gibidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt14688458/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Mühendis",
+                "overview": "Juliette, uzun zaman önce savaşta yıkılmış bir siloya sığınır ve orada yalnız olduğunu düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Düzen",
+                "overview": "Silo 18'de, Juliette'in daha önce kimsenin yapmadığı bir şeyi yapmasının ardından şok ve huzursuzluk baş gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Solo",
+                "overview": "Bernard yardım için Yargıç Meadows'a başvurur. Billings kendisine yalan söylenip söylenmediğini merak etmeye başlar. Juliette nihayet kasadaki adamla görüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dY1nJnRuuhC0stZqNWShBYqk93H.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Harmonyum",
+                "overview": "Juliette, eve dönebilmek ve silosunu kurtarabilmek amacıyla, bir kıyafeti geri almak üzere tehlikeli bir maceraya atılır. Mekanik, Yargıç Meadows'la bir toplantı planlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "İniş",
+                "overview": "Sims kendini yeni bir pozisyonda bulur. Juliette, Solo'nun dürüst davranmadığını öğrenir. Bernard ve Lukas önemli bir keşif yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Barikatlar",
+                "overview": "Bernard, Knox, Shirley ve Walker'ı yok etmek için bir plan yapar. Billings tavrını koyar. Solo, Juliette'in hayatını kurtarır ve karşılığında bir şey ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aAPo83kOC5mfgcOado49ijWITVo.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Dalış",
+                "overview": "Lukas'a bir görev verilir. Mekanik, güçlü bir mesaj yollar. Juliette tehlikeli bir inişe başlar ve yeni bir tehlikeyle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Quinn'in Kitabı",
+                "overview": "Juliette, Solo'ya bir şey olduğunu keşfeder. Bernard, Walker'a bir teklif yapar. Lukas, Salvador Quinn'in torunlarıyla buluşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Safeguard",
+                "overview": "Billings'in inancı sarsılır. Lukas En-Derin'e iner. Knox, hainin kimliğini tespit eder. Juliette, Solo'nun geçmişiyle ilgili gerçeği ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aNgT4AEffmGwiabRD03riCz1aWr.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "Ateşin İçine",
+                "overview": "Asiler harekete geçer, Juliette de öyle.",
+                "still_path": "https://image.tmdb.org/t/p/w400/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt14688458/s2/e10"
+            }
+        ],
+        "update_date": "2026-02-15 03:09:01"
+    },
+    {
+        "id": 95396,
+        "imdb_id": "tt11280740",
+        "name": "Severance",
+        "original_name": "Severance",
+        "overview": "Mark, anıları cerrahi müdahaleyle iş ve özel hayat olarak ayrılmış bir ofis çalışanı ekibinin başındadır. Gizemli bir iş arkadaşı ona iş yeri dışında göründüğünde, yaptıkları iş hakkındaki gerçeği keşfetmek için bir yolculuk başlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+        "year": "2022",
+        "rating": 8.4,
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Apple TV"
+        ],
+        "cast": [
+            {
+                "name": "Adam Scott",
+                "role": "Mark Scout",
+                "image": "https://image.tmdb.org/t/p/w200/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+            },
+            {
+                "name": "Britt Lower",
+                "role": "Helly Riggs",
+                "image": "https://image.tmdb.org/t/p/w200/5XIcTMDSyj7hRICQAcnY9U83ujF.jpg"
+            },
+            {
+                "name": "Tramell Tillman",
+                "role": "Seth Milchick",
+                "image": "https://image.tmdb.org/t/p/w200/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+            },
+            {
+                "name": "Zach Cherry",
+                "role": "Dylan George",
+                "image": "https://image.tmdb.org/t/p/w200/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+            },
+            {
+                "name": "Jen Tullock",
+                "role": "Devon Scout-Hale",
+                "image": "https://image.tmdb.org/t/p/w200/n8SF2SEuJLRGrY3BNHgXdgMfGAK.jpg"
+            },
+            {
+                "name": "Dichen Lachman",
+                "role": "Ms. Casey",
+                "image": "https://image.tmdb.org/t/p/w200/ySRHqthzU1gcEhV5rt7awZCzcwd.jpg"
+            },
+            {
+                "name": "Sarah Bock",
+                "role": "Eustice Huang",
+                "image": "https://image.tmdb.org/t/p/w200/LasHm2Geh7htM53btbYty29ddo.jpg"
+            },
+            {
+                "name": "John Turturro",
+                "role": "Irving Bailiff",
+                "image": "https://image.tmdb.org/t/p/w200/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+            },
+            {
+                "name": "Christopher Walken",
+                "role": "Burt Goodman",
+                "image": "https://image.tmdb.org/t/p/w200/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+            },
+            {
+                "name": "Patricia Arquette",
+                "role": "Harmony Cobel",
+                "image": "https://image.tmdb.org/t/p/w200/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Cehennem Hakkında İyi Haber",
+                "overview": "Mark, terfi ettirilerek anıları cerrahi müdahaleyle iş ve özel hayat olarak ayrılmış bir personel ekibinin başına getirilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sP3GZe9j7BY3CAyZGFuZxxnGpN1.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt11280740/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Yarı Döngü",
+                "overview": "Ekip, yeni işe alınan Helly'yi makroveri düzenleme konusunda eğitir. Mark, gizemli eski bir meslektaşıyla buluşmak için bir gün izin alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wIQP0P2tyE7VRIN3xR8Efq7UgKt.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt11280740/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Her Daim",
+                "overview": "Mark, ekibi bir saha gezisine çıkarır ama Helly isyan etmeye devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hMpY4wpHlwMf42aDM25bU9fau5f.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt11280740/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Siz Olan Siz",
+                "overview": "Irving iş yerinde ilginç bir keşifte bulunur. Helly, Dışsal'ıyla görüşmek için çaba sarf eder. Mark, eşini kaybetmekle cedelleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dzQJeDznS0I4spAqTImiLH9p252.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt11280740/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Görsellik ve Tasarım'ın Amansız Mezalimi",
+                "overview": "Irving ve Dylan, yalanları konusunda Burt'le yüzleşir. Ekip koridorlarda dolaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oy4BZotFbNX5YoPkWuWF3kcdMVw.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt11280740/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Saklambaç",
+                "overview": "Ekip, bir ittifak yaparak Cobel'i kızdırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3fQp0pUtgDkqqyEbXY8KKCZPMU7.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt11280740/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Muhalif Caz",
+                "overview": "Mark ve ekip, Cobel'in yeni güvenlik önlemleriyle karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gHoKlbC2esqq3SXm0ZCcl3bzpFZ.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt11280740/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Akşam Yemeğinde Ne Var?",
+                "overview": "Ekip bir plan hazırlar. Mark, Devon ve Ricken'ın partisine katılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8Gv9ELume0jo7gz7R2h4tPmVLsD.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt11280740/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Biz Olan Biz",
+                "overview": "Ekip rahatsız edici keşifler yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dzx8D2B0ELncXuCNwtPCags43Q.jpg",
+                "vote_average": 9.3,
+                "link": "https://vidmody.com/vs/tt11280740/s1/e09"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Merhaba Bayan Cobel",
+                "overview": "Mark farklı koşullar altında işe döner. Dışsal dünyanın sırları gün yüzüne çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a97vNY8Knu45FLQib0uQZ2VReLy.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Elveda Bayan Selvig",
+                "overview": "Mark bir mesajın anlamını düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f2JCzYw69zOChUrE5SKGpTs6SoY.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Kim Yaşıyor?",
+                "overview": "Mark, Helly, Irving ve Dylan cevaplar arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j4AUAq1XJOBmfXsLphZzsCz6pZs.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Woe’s Hollow",
+                "overview": "Ekip bir grup aktivitesine katılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mioOOhTaShLd1MPKsmfirbe9AwI.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Truva Atı",
+                "overview": "Ekip bir mağlubiyet yaşadıktan sonra gerilimler yaşanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/csATq6CUnvyMY26cTKy3YmlmOyK.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Attila",
+                "overview": "Bağlar sınanır. Mark keşif yolculuğuna devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4J8HXT1FIjnLJiNt6xwR0TnmLcX.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Chikhai Bardo",
+                "overview": "Eski bir aşk, günümüzdeki ölümcül bir tehditle kesişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dmzBzYcEtjOYJO46p7kyRmYrHZu.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Tatlı Sert Eleştiriler",
+                "overview": "Keşifler yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/piWjCKARsSkmr9kMKHZ5ynengj3.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Mesai Sonrası",
+                "overview": "Mark ve Devon, bir müttefikle iş birliği yapar. Helly araştırmaya devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2RJaWjY4dD5s7jpdo2aGeSLmtI3.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "Cold Harbor",
+                "overview": "Sezon finali.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1FhuOQo7aBclaOE2WenXmZMCDYn.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt11280740/s2/e10"
+            }
+        ],
+        "update_date": "2026-02-14 23:23:35"
+    },
+    {
+        "id": 93740,
+        "imdb_id": "tt0804484",
+        "name": "Foundation",
+        "original_name": "Foundation",
+        "overview": "Isaac Asimov’un ödüllü romanlarına dayanan Foundation, Galaksi İmparatorluğu’nun çökmesiyle insanlığı kurtarmak ve medeniyeti yeniden inşa etmek için zorlu bir serüvene atılan bir grup sürgünü anlatıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+        "year": "2021",
+        "rating": 7.7,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Apple TV"
+        ],
+        "cast": [
+            {
+                "name": "Jared Harris",
+                "role": "Hari Seldon",
+                "image": "https://image.tmdb.org/t/p/w200/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+            },
+            {
+                "name": "Lee Pace",
+                "role": "Brother Day",
+                "image": "https://image.tmdb.org/t/p/w200/hePfTi5HwU9X0eX2sOmHj9I1Ryp.jpg"
+            },
+            {
+                "name": "Lou Llobell",
+                "role": "Gaal Dornick",
+                "image": "https://image.tmdb.org/t/p/w200/vjCaa2EhEFgkraE6l2Vypzb93fz.jpg"
+            },
+            {
+                "name": "Laura Birn",
+                "role": "Demerzel",
+                "image": "https://image.tmdb.org/t/p/w200/67BraXKgQwZplWBS7PUh8tWssWL.jpg"
+            },
+            {
+                "name": "Cassian Bilton",
+                "role": "Brother Dawn",
+                "image": "https://image.tmdb.org/t/p/w200/kOsyQKk5UvamKORAsu6F7FN2oDG.jpg"
+            },
+            {
+                "name": "Terrence Mann",
+                "role": "Brother Dusk",
+                "image": "https://image.tmdb.org/t/p/w200/b8W9t5x8wF7B14Ui05wVLN9Z4fF.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "İmparatorun Barışı",
+                "overview": "Genç bir kadın, galaksiyi demir yumrukla yöneten ve İmparatorluk olarak bilinen hanedanlığın kalbinde başlayan destansı bir görev için kendi dünyasını terk eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eYwAsUtxMxyGv1qJ9asMftaqjUE.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Yaşamaya Hazırlık",
+                "overview": "Gaal ve Raych yakınlaşırken Vakıf, Terminus'a uzun bir yolculuk yapar. İmparatorluk zor bir kararla karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uC0BRA2QgSKZnswPAdaw1u5UwWf.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Matematikçinin Hayaleti",
+                "overview": "Birader Dusk, yükselmeye hazırlanırken mirasını düşünür. Vakıf, Terminus'a varır ve gizemli bir nesne bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cU2elll7NKNGnXxmDPSFntlJnul.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Barbarlar Kapıda",
+                "overview": "Salvor, İmparatorluk'un bir düşmanıyla karşı karşıya gelir. Day ve Dusk biraderler çatışırken Birader Dawn kendi gerçeğiyle mücadele eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/k0sNoraOGogMPnzn68Ws973PtEN.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Uyanıştan Sonra",
+                "overview": "Bir flashback, Gaal'ın inanç ve bilim arasındaki çatışmasının kökenini ortaya çıkarır. Terminus'taki yüzleşme talihsiz bir hâl alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dIjF3UqGq0Rqa0yJ6QpMQtpo3xu.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Ölüm ve Bakire",
+                "overview": "Birader Day, İmparatorluk'a muhalif, muhtemel bir lider olan Zephyr Halima'yla görüşür. Birader Dusk, Birader Dawn'dan şüphelenmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v7E6LyZoEgNwtCwS2l17Q0irFZf.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Gizemler ve Şehitler",
+                "overview": "Anacreon'lar ve rehineleri, efsanevi Invictus savaş gemisine binerler. Birader Dawn ve Azura arasındaki bağ güçlenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xFFvPC2E2pvItVpz6VHdSD8WxJ1.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kayıp Parça",
+                "overview": "Birader Day, başka hiçbir Cleon'un denemediği bir yolculuğa çıkar. Salvor, eve dönmek için en büyük fedakârlığı yapmaya hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lTr4e8NpKN60X3fd24FAxiY32WB.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "İlk Kriz",
+                "overview": "Terminus'ta boş arazi daha da güçlenmiştir. Birader Dawn cüretkâr bir seçim yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oB5uoHXfPIFeDkmfSrHL8SdxAAS.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Sıçrayış",
+                "overview": "Beklenmedik bir müttefik, Salvor'un bir ittifaka aracılık etmesine yardımcı olur. Kardeşler arasındaki bir çatışma, hayal edilemez sonuçlara yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tJXAQitxYZ4QjghdgDJrKPsbJUx.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt0804484/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Seldon'ın Gölgesinde",
+                "overview": "Hari kendini gizemli bir hapishanede mahsur hâlde bulur. Bir suikast girişimi Day'i sarsar. Gaal ve Salvor bir kaçış planı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tLNS2wdCSAFmPmunZo1P5WQg0Pi.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Bir Anlık Karanlık",
+                "overview": "Gaal rahatsız edici bir imge görmüştür. Day'in Kraliçe Sareth'le olan bağı güçlenir. Mahzen açılır ve ortaya gizemli bir mesaj çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hOF35xreGykyz32jsPCZQKiLXNB.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Kral ve Avam",
+                "overview": "İmparator, yeniden dirilen Vakfı araştırması için Bel Riose'u görevlendirir. Hari, Gaal ve Salvor'u bir çöl gezegenine götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vuUsc3ROf2fWWcQ1d5Zonm85KmE.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Yıldızların Az Olduğu Yer",
+                "overview": "Kraliçe Sareth, Day hakkında daha fazla şey öğrenmeye çalışırken Dawn'la bir anı paylaşır. Constant ve Poly Biraderler, Hober Mallow'u Terminus'a getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4yMVqiszhhX38NetKQCKEijcHnq.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Görülenler",
+                "overview": "Gaal, Salvor ve Hari, Ignis'e varır ve izledikleri garip sinyalin kaynağıyla karşılaşırlar. Dawn ve Dusk, Day'den şüphelenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/53dsfLChOJKy6Nq7ujzPvCf1wM1.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Tanrılar Şarabı Neden Yaptı",
+                "overview": "Day ve Kraliçe Sareth bir duyuru yapar. Tellem, Gaal ve Hari'nin arasına güvensizlik tohumları eker. Hober Mallow hedefine ulaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qH7tvEWcfvt6UrkJAw50cCx0lr7.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Gerekli Bir Ölüm",
+                "overview": "Salvor, Mentalic'lerin amaçlarını sorgulamaya başlar. Hober Mallow'un Uzay Gezginleri'ne yaptığı teklif tepki görür. Constant ve Poly Biraderler yargılanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9Q6kNbwsGUyircoQqe2lV6TnW4m.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Son İmparatoriçe",
+                "overview": "Rue, Demerzel'a olan güvensizliğini Dusk'a anlatır. Hober Mallow cesur bir hamle yapar. Day, Terminus ve Vakıf için yola çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6GYAXHmylEJY2K3Oeqgux7CO89J.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Uzun Zaman Önce Ama Uzakta Değil",
+                "overview": "Dusk ve Rue, Demerzel'ın kökenini ve gerçek amacını öğrenir. Tellem'in Gaal'la ilgili planları karanlık bir hâl alır. Day, Terminus'ta Dr. Seldon'la yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/TdUee5ZozmAkQYIW3vguNOLy5u.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "Yaradılış Efsaneleri",
+                "overview": "Gaal, Salvor ve Hari, Ignis'te ileriye doğru yeni bir yol çizer. Demerzel, İmparatorluk'u sonsuza dek değiştirecek adımlar atarak Trantor'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rDBBUToa28804yhpI5A1Qlu0E6P.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt0804484/s2/e10"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Her Şeyin Sonu İçin Bir Şarkı",
+                "overview": "Korkutucu yeteneklere sahip, Katır olarak tanınan gizemli yeni bir korsan, Vakıf ve İmparatorluk'un dikkatini çeker.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9YXWjKj6SDCaE3SaWbyfjjrPJIt.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Matematikteki Gölgeler",
+                "overview": "Gaal ve Hari, Ignis'teki planlarını ilerletir. İmparatorluk, beklenmedik bir kehanetle mücadele eder. Pritcher, Katır'ı araştırmak için yardım alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wJGsaCKAQYwSnD972hWsPKTn13W.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Bir Kitap Seni Bulduğunda",
+                "overview": "Beklenmedik bir ittifak kurulur. Pritcher, Bayta ve Toran, Katır'la yüzleşir. Demerzel, manevi rehberlik arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1NAH40bTLHuAPNdpRK9TRdhFEsG.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Onun Tarafının Stresi",
+                "overview": "Demerzel, programının paradoksuyla mücadele eder. Pritcher'ın gerçek sadakati ortaya çıkar. Day, cevap arayışı için yola çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fwTUbKEki6eO6z6zIPkvrUbQpjd.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "Zorbaların Sonsuzluğu Geçirdiği Yer",
+                "overview": "Day, keşfedilmemiş topraklara adım atar. Dawn ve Gaal, planlarını hayata geçirir. Magnifico’nun değeri netleşir. Demerzel, gücü yerine getirmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4243bk9E9odifNWS8HNJCWiGfiO.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Zamanın Şekli",
+                "overview": "Uzun zamandır beklenen buluşma şiddete dönüşür. Day, Song’u arar. Yeni Terminus'ta Mahzen açılır ve Katır hedefini belirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vnGCFHmCWi4jimCF78mZpOsK2tb.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "Vakıf'ın Sonu",
+                "overview": "Yeni Terminus'a kaos ve yıkım yağar. Dusk ve Quent, galaksinin durumunu değerlendirmek için Trantor'da bir araya gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ka66SFrROXRhnyJeMjBE5jZHGp8.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Risk Almak",
+                "overview": "Gaal ve İkinci Vakıf, Yeni Terminus'un düşüşüyle yüzleşir. Day, Mycogen’de yargılanır. Dusk'ın yükselişi yaklaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hBNYVvVkU1mMgJh5Do7ol8Ck4gi.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "Bizi Seçen Yollar",
+                "overview": "Gaal, Katır'ın dönüştürme gücüyle yüzleşir. Dusk, radikal önlemlere başvurur. Demerzel, gelecekle ilgili netlik arayışına girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6fmWveBPYdcAKxMT7tEGVZLvYJx.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "Karanlık",
+                "overview": "Gaal ve İkinci Vakıf, Katır'a karşı mücadeleye girişirken İmparatorluk'un mirası yıkıcı bir darbe alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eFNDKhD0uNFH04yAXjVoNnyoWdR.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt0804484/s3/e10"
+            }
+        ],
+        "update_date": "2026-02-14 20:42:07"
+    }
+]

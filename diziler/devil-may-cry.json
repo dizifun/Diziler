@@ -2,19 +2,97 @@
     "id": 235930,
     "imdb_id": "tt15716776",
     "name": "Devil May Cry",
+    "original_name": "Devil May Cry",
+    "overview": "Gizemli bir düşmanın, cehennemin kapılarını açma tehdidiyle karşı karşıya kalan dünyayı ancak şeytani bir yakışıklılığa sahip bir iblis avcısı kurtarabilir.",
     "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
     "year": "2025",
+    "rating": 7.9,
     "genres": [
         "Animasyon",
         "Aksiyon & Macera",
         "Bilim Kurgu & Fantazi"
+    ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Animasyon",
+        "Netflix"
     ],
     "cast": [],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Cehennem",
+            "overview": "Vatikan Şehri'ndeki bir müzede gerçekleşen şiddet içerikli soygun kargaşaya yol açınca iblis avcısı Dante, kendini aniden dünyalar arasında bir yarık açma planının içinde bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3AXTaKtkYwCqtklTNgHLyeFoUyV.jpg",
+            "vote_average": 7.0,
             "link": "https://vidmody.com/vs/tt15716776/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Hüzünlü Hanımefendi",
+            "overview": "Washington'da, DARKCOM paralı askerlerden oluşan bir grup kurar ve Dante ile boynundaki aile yadigârını getirene para ödülü vadeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y9wTar4QMczPjqOeAqrBlsODkCv.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt15716776/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Derin ve Vahşi Yol",
+            "overview": "Geri dönüşler Mary'nin geçmişine ışık tutar. Şimdiki zamanda, Beyaz Tavşan avına iyice yaklaşırken değerli bir kargo taşıyan konvoy bir engelle karşılaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8w71FnTTwcGG6S8Rwj2QXLKFqzJ.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt15716776/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Bütün Umutlardan Vazgeç",
+            "overview": "Tılsımın sinyali DARKCOM'u harabe hâldeki bir binaya yönlendirir. Ama burası gerçekten Tavşan'ın ini midir? Yoksa bir tuzak mıdır? Dante gerçek kökenini öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jeSrAQDh9mxqtPK2jqyrkB04VdD.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt15716776/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "İniş",
+            "overview": "Korkunç keşifler Mary'nin görevini zorlaştırır. Heyecan verici bir serbest düşüş destansı bir dönüşümü tetikleyerek Dante'yi iblis tarafıyla yüzleşmeye mecbur eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/Au1bhII1lTEBSp5Ki1K1hvjOma3.jpg",
+            "vote_average": 4.9,
+            "link": "https://vidmody.com/vs/tt15716776/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "İlk Çember",
+            "overview": "Tavşan deliğinden aşağı iniş, iki çocuğun kaderlerinin kesiştiği, birbirine paralel iki çocukluk hikâyesini gözler önüne serer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/abKCqXorjOqvzubzh17gzcbVIp9.jpg",
+            "vote_average": 5.1,
+            "link": "https://vidmody.com/vs/tt15716776/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Cennetin Kapısında",
+            "overview": "Tavşan ve ordusu pusuya yatmış Dante'nin gelmesini beklerken büyük hesaplaşma için tüm koşullar oluşmuştur. Ama savaşmaya hazır bir kahraman daha vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/m61gU3gV3LT0w4ogesOsrOFBlK8.jpg",
+            "vote_average": 5.1,
+            "link": "https://vidmody.com/vs/tt15716776/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Kan ve Ateş Irmağı",
+            "overview": "Dante ve Mary imkânsız seçeneklerle ve şimdiye dek dünyanın gördüğü en güçlü düşmanla karşı karşıya kalır. Daha sonra Baines cesurca bir planı hayata geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/b4a7be1TBke4CV2AJ0m7xcsloWI.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt15716776/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 04:08:22"
 }

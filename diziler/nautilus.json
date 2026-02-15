@@ -2,25 +2,171 @@
     "id": 131835,
     "imdb_id": "tt15286302",
     "name": "Nautilus",
+    "original_name": "Nautilus",
+    "overview": "Nemo, müthiş bir denizaltı prototipi çalar ve acımasız Doğu Hindistan Ticaret Şirketi'nden intikam almaya kararlı bir ekiple birlikte Hint Okyanusu'na kaçar.",
     "poster": "https://image.tmdb.org/t/p/w500/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/8pWGfg6siFjgWJahhkrzGDz1UDs.jpg",
     "year": "2024",
+    "rating": 6.7,
     "genres": [
         "Dram",
         "Aksiyon & Macera",
         "Bilim Kurgu & Fantazi"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "AMC+ Roku Premium Channel",
+        "AMC Plus Apple TV Channel",
+        "Spectrum On Demand",
+        "Prime Video",
+        "AMC+",
+        "AMC",
+        "Philo"
+    ],
     "cast": [
-        "Shazad Latif",
-        "Georgia Flood",
-        "Céline Menville",
-        "Thierry Frémont",
-        "Luke Arnold"
+        {
+            "name": "Shazad Latif",
+            "role": "Nemo",
+            "image": "https://image.tmdb.org/t/p/w200/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+        },
+        {
+            "name": "Georgia Flood",
+            "role": "Humility Lucas",
+            "image": "https://image.tmdb.org/t/p/w200/6JBj1jy4csuF9sdWRSJuch7595w.jpg"
+        },
+        {
+            "name": "Céline Menville",
+            "role": "Loti",
+            "image": "https://image.tmdb.org/t/p/w200/aZYWdBE0V6U3FwyKXcYtfxDiPEu.jpg"
+        },
+        {
+            "name": "Thierry Frémont",
+            "role": "Benoit",
+            "image": "https://image.tmdb.org/t/p/w200/yUwC2WiydDrCy5TL7xOjdP1PXjM.jpg"
+        },
+        {
+            "name": "Luke Arnold",
+            "role": "Captain Billy Millais",
+            "image": "https://image.tmdb.org/t/p/w200/rs7I8TX4ox3F1tylgmuEuGTm4mC.jpg"
+        },
+        {
+            "name": "Jacob Collins-Levy",
+            "role": "Captain Youngblood",
+            "image": "https://image.tmdb.org/t/p/w200/7m0wDgv3qRes527fBDspudz7AAA.jpg"
+        },
+        {
+            "name": "Damien Garvey",
+            "role": "Director Crawley",
+            "image": "https://image.tmdb.org/t/p/w200/ihEzrFdYfagC41OA8jB3D3toVEG.jpg"
+        },
+        {
+            "name": "Cameron Cuffe",
+            "role": "Algernon Pitt",
+            "image": "https://image.tmdb.org/t/p/w200/1AsKnxWo3vUAvXYDU6TLB7KAkLM.jpg"
+        },
+        {
+            "name": "Kayden Price",
+            "role": "Blaster",
+            "image": "https://image.tmdb.org/t/p/w200/qL0DXqRaD4WUeZ3v0EH0simBxyV.jpg"
+        },
+        {
+            "name": "Benedict Hardie",
+            "role": "Edward Cuff",
+            "image": "https://image.tmdb.org/t/p/w200/bf02Dz4LMV23scJC6c8P4R6xji6.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Anahata",
+            "overview": "Nemo ve Kalpani Ceza Kolonisi'ndeki diğer mahkûmlar, zırhlı bir denizaltı olan Nautilus'u inşa eden köle işçilerdir. İşi bitirdikten sonra, Nemo ve güvendiği bir mürettebat, Nautilus ile kaçmayı planlar. Ama Müdür Crawley, Nautilus'un silahlandırılmak üzere Bombay'a taşınmasını talep etmek için gelince Nemo mürettebat olarak toplayabildiği herkesle birlikte hemen ayrılmak zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aqq5s8fgziqGBFc6TxgTVZNx9qG.jpg",
+            "vote_average": 4.6,
             "link": "https://vidmody.com/vs/tt15286302/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Tik, Tik, Bum",
+            "overview": "Nautilus, Şirket askerleri tarafından görüldüğünde, Nemo mürettebatı açık denizlere ulaşmaları için birlikte çalışmaya teşvik etmelidir. Balina avcılarıyla karşılaşmaları onları yavaşlatır. Açık denize ve özgürlüğe ulaşmak üzereyken, müthiş Dreadnought tarafından önleri kesilir. Böylece derinliklerde bir kedi-fare oyunu başlar. Derinlerde sessiz bir oyun.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uWkeTfbHFxn65TcQ4yyaU8eOstl.jpg",
+            "vote_average": 3.5,
+            "link": "https://vidmody.com/vs/tt15286302/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Altta Yatan",
+            "overview": "Karajan'da mürettebat eksantrik Beyaz Raca'yla tanışır acaba onun misafirperverliği güvenilir midir? Nemo şaşırtıcı bir gerçeği keşfeder ve Humility ile mürettebat Nemo'nun gerçekte kim olduğunu öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yVk3Gu5AWdBfkEioKXexSpyrNJ7.jpg",
+            "vote_average": 3.2,
+            "link": "https://vidmody.com/vs/tt15286302/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Islakken Kaygan",
+            "overview": "Mürettebat gizemli bir tropik ada keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uUbrM7OWZ6deoYwGSrImh8vQfXL.jpg",
+            "vote_average": 3.8,
+            "link": "https://vidmody.com/vs/tt15286302/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Yılan Balığı",
+            "overview": "Nautilus volkanik Ateş Çemberi'ne doğru çekilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nN2WXhdMEtkbhW0A2cvGzAQIB4d.jpg",
+            "vote_average": 3.5,
+            "link": "https://vidmody.com/vs/tt15286302/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Büyük Mavi",
+            "overview": "Ateş Çemberi, Benoit'nın hayat boyu takıntısı olan efsanevi su altı şehri Atlantis'e dair bir ipucu ortaya çıkarır. Küçük bir grup, efsanevi kayıp medeniyetin kadim bir yerleşkesi gibi görünen yeri keşfetmek için yola çıkar ama aynı zamanda oranın binlerce korkunç deniz zambaklarının da evi olduğunu fark ederler ve mürettebat canlarını kurtarmak için kaçmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zb1KTjUuyJcEGKU2owwFWW5zeIq.jpg",
+            "vote_average": 4.3,
+            "link": "https://vidmody.com/vs/tt15286302/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Soğuk Savaş",
+            "overview": "Dreadnought ve Nautilus arasındaki güç oyunu ikisini de Kuzey Kutbu buzunda mahsur bırakır, bu da huzursuz bir ateşkese yol açar. Nemo geçmişinden bir arkadaşıyla yeniden bir araya gelir ve babasıyla ilgili daha fazla ifşayla sarsılır. Humility geleceğini düşünür ve mürettebat, Şirket'e karşı buzlu bir kriket maçında bir araya gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/atL7FKXvYqJIM77dWTIe0oNOpV7.jpg",
+            "vote_average": 4.6,
+            "link": "https://vidmody.com/vs/tt15286302/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Dönüm Noktası",
+            "overview": "Nemo'nun mürettebatın hayatlarıyla oynadığı ortaya çıkınca, Nemo kamarasına hapsedilir ve Boniface onun yerine kaptan olur. Manyetik kuzeye ulaştıklarında bir cihaz arızası yaşarlar ve ardından metal yiyen böcekler tarafından saldırıya uğrarlar. Doğa onlara komplo kurarken, Nemo bölünmüş mürettebatını, kim olduklarını bildiğini gösterip onlara gerçekte kim olduğunu söyleyerek birleştirmelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l9t0CTKAbDwgLjoSSGxZy3CTdss.jpg",
+            "vote_average": 4.3,
+            "link": "https://vidmody.com/vs/tt15286302/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Valkyrie'nin Yolculuğu",
+            "overview": "Halvar Sütunları'na vardıklarında hazinenin vahşi savaşçılar tarafından korunduğunu keşfederler. Hazine kazanılıp sonra denize gömüldüğünde Nemo, Nautilus mürettebatını dünyanın bir ucuna boşuna getirdiğini hisseder. Ranbir onları bir araya getirir. Şirket hepsine ve milyonlarcasına acı çektirmiştir. Yerle bir edilmelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8ieo7uQZ2inWvzkB2jrqVNqtMBm.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt15286302/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Yenilmek İçin Çok Büyük",
+            "overview": "Nautilus mürettebatı, Doğu Hindistan Ticaret Şirketi'nin iflas ettiğine dair söylentiler yayar. Hisse senedi fiyatı düştüğünde, gece bir hissedar toplantısı çağrısı yapılır. Nemo ve mürettebatın Şirket'i sonsuza dek feshedebilmek adına toplantıya girmek için üç saati vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iCf8I365VsuxUaYu8RXRqRrN5bq.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt15286302/s1/e10"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 03:43:42"
 }

@@ -2,24 +2,137 @@
     "id": 223300,
     "imdb_id": "tt16280546",
     "name": "The Abandons",
+    "original_name": "The Abandons",
+    "overview": "1850'lerde Washington'da biri zengin, diğeri fakir ama sadık iki güçlü kadının liderliğindeki iki aile, kanunsuz sınır kasabasında üstünlük için savaşır.",
     "poster": "https://image.tmdb.org/t/p/w500/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/dHCr5HgldBavJPzAYFYmM0rEdQo.jpg",
     "year": "2025",
+    "rating": 5.8,
     "genres": [
         "Dram",
         "Vahşi Batı"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Lena Headey",
-        "Gillian Anderson",
-        "Nick Robinson",
-        "Diana Silvers",
-        "Lucas Till"
+        {
+            "name": "Lena Headey",
+            "role": "Fiona Nolan",
+            "image": "https://image.tmdb.org/t/p/w200/xR2IBnBlUdyBe5hecaVdtRuQqUE.jpg"
+        },
+        {
+            "name": "Gillian Anderson",
+            "role": "Constance Van Ness",
+            "image": "https://image.tmdb.org/t/p/w200/5emeOf49lM2WSs4rc186Wc9Zgs3.jpg"
+        },
+        {
+            "name": "Nick Robinson",
+            "role": "Elias Teller",
+            "image": "https://image.tmdb.org/t/p/w200/k78TNS5p1jajGAQgKXO7swadMjO.jpg"
+        },
+        {
+            "name": "Diana Silvers",
+            "role": "Dahlia Teller",
+            "image": "https://image.tmdb.org/t/p/w200/4az1G7gw4uwdX4u6AyRVbOY019R.jpg"
+        },
+        {
+            "name": "Lucas Till",
+            "role": "Garret Van Ness",
+            "image": "https://image.tmdb.org/t/p/w200/5m8xgsOgT3FgCBo2AsMn7dewe57.jpg"
+        },
+        {
+            "name": "Lamar Johnson",
+            "role": "Albert Mason",
+            "image": "https://image.tmdb.org/t/p/w200/4IEsKiSsyckleKsPsiIVtAh6QDy.jpg"
+        },
+        {
+            "name": "Aisling Franciosi",
+            "role": "Trisha Van Ness",
+            "image": "https://image.tmdb.org/t/p/w200/pE5GpcsMbFd3ZFGeiaTIvfapV6m.jpg"
+        },
+        {
+            "name": "Michiel Huisman",
+            "role": "Xavier Roache",
+            "image": "https://image.tmdb.org/t/p/w200/4QQp2HIrBubKSBZpSWLzI21fNzA.jpg"
+        },
+        {
+            "name": "Katelyn Wells",
+            "role": "Samara Alderton",
+            "image": "https://image.tmdb.org/t/p/w200/tTbN1YvGZWEobpilKR7iwvHpEwt.jpg"
+        },
+        {
+            "name": "Brían F. O'Byrne",
+            "role": "Walter Paxton",
+            "image": "https://image.tmdb.org/t/p/w200/9obqr2sZ0cf4z2ZsZoaHslSx45V.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Kimsesizler",
+            "overview": "Çiftçi Fiona Nolan ile yetimlerden oluşan kendi seçtiği ailesi, topraklarına yapılan saldırı sonrasında komşularını, insafsız Van Ness ailesine karşı bir araya getirmelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jDv7rnFKZMYavtoinScAw8j3sNB.jpg",
+            "vote_average": 4.2,
             "link": "https://vidmody.com/vs/tt16280546/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Av",
+            "overview": "İki aile, düşmanlığı bir kenara bırakıp kasabanın karşı karşıya kaldığı tehdidi bertaraf etmek zorundadır. Eski bir dost, Fiona ile Dahlia'yı ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/osOfIdxBmHHJa2twLyu0gCOukai.jpg",
+            "vote_average": 4.4,
+            "link": "https://vidmody.com/vs/tt16280546/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Acil Müdahale",
+            "overview": "Constance tehlikeli sonuçları olan bir anlaşma yapmaya çalışır. Elias ile Trisha arasında filizlenen aşk güçlenir. Fiona yaralı bir adama bakar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4ZnalqvmRy959wtGgr8fz0w7UYE.jpg",
+            "vote_average": 4.4,
+            "link": "https://vidmody.com/vs/tt16280546/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Bir Annenin Amacı",
+            "overview": "Constance, Albert'a bir fırsat sunar, ama Fiona, Constance'ın asıl niyetinden şüphe eder. Ailevi sorumlulukları ve kimliğinin gerektirdikleri arasında kalan Lilla bocalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qhy7cijJgWw9WrjknCgdvbL44iN.jpg",
+            "vote_average": 4.4,
+            "link": "https://vidmody.com/vs/tt16280546/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Joaquinler",
+            "overview": "Van Ness ailesi için hüzünlü bir töreni basan yabancılar kaos çıkarır. Fiona, Angel's Ridge'in geleceğini belirleyebilecek bir teklifi değerlendirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/WK2ZnK58zLJ7WyfXgFznMkc83H.jpg",
+            "vote_average": 4.0,
+            "link": "https://vidmody.com/vs/tt16280546/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Dindarlık ve Öfke",
+            "overview": "Sınırlarını aşan Constance ve Fiona, kendi çevrelerinde başkaldırılarla karşılaşır. Garret ellerini kirletmek zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gWGeOOaTiY9HVA8JjHpO3mqlrtn.jpg",
+            "vote_average": 2.8,
+            "link": "https://vidmody.com/vs/tt16280546/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Burada Huzur Bulacaktım",
+            "overview": "Van Ness ailesi ve Kimsesizler, iki aileyi de sadakatleri konusunda gerçek bir karar vermeye zorlayan efsanevi bir karşılaşmaya hazırlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/LaQsQ3WJv1LykHmoMuxFXFPuqg.jpg",
+            "vote_average": 3.8,
+            "link": "https://vidmody.com/vs/tt16280546/s1/e07"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 04:28:43"
 }

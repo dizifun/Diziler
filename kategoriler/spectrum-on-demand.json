@@ -1,0 +1,3083 @@
+[
+    {
+        "id": 131835,
+        "imdb_id": "tt15286302",
+        "name": "Nautilus",
+        "original_name": "Nautilus",
+        "overview": "Nemo, müthiş bir denizaltı prototipi çalar ve acımasız Doğu Hindistan Ticaret Şirketi'nden intikam almaya kararlı bir ekiple birlikte Hint Okyanusu'na kaçar.",
+        "poster": "https://image.tmdb.org/t/p/w500/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8pWGfg6siFjgWJahhkrzGDz1UDs.jpg",
+        "year": "2024",
+        "rating": 6.7,
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "AMC+ Roku Premium Channel",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "Prime Video",
+            "AMC+",
+            "AMC",
+            "Philo"
+        ],
+        "cast": [
+            {
+                "name": "Shazad Latif",
+                "role": "Nemo",
+                "image": "https://image.tmdb.org/t/p/w200/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+            },
+            {
+                "name": "Georgia Flood",
+                "role": "Humility Lucas",
+                "image": "https://image.tmdb.org/t/p/w200/6JBj1jy4csuF9sdWRSJuch7595w.jpg"
+            },
+            {
+                "name": "Céline Menville",
+                "role": "Loti",
+                "image": "https://image.tmdb.org/t/p/w200/aZYWdBE0V6U3FwyKXcYtfxDiPEu.jpg"
+            },
+            {
+                "name": "Thierry Frémont",
+                "role": "Benoit",
+                "image": "https://image.tmdb.org/t/p/w200/yUwC2WiydDrCy5TL7xOjdP1PXjM.jpg"
+            },
+            {
+                "name": "Luke Arnold",
+                "role": "Captain Billy Millais",
+                "image": "https://image.tmdb.org/t/p/w200/rs7I8TX4ox3F1tylgmuEuGTm4mC.jpg"
+            },
+            {
+                "name": "Jacob Collins-Levy",
+                "role": "Captain Youngblood",
+                "image": "https://image.tmdb.org/t/p/w200/7m0wDgv3qRes527fBDspudz7AAA.jpg"
+            },
+            {
+                "name": "Damien Garvey",
+                "role": "Director Crawley",
+                "image": "https://image.tmdb.org/t/p/w200/ihEzrFdYfagC41OA8jB3D3toVEG.jpg"
+            },
+            {
+                "name": "Cameron Cuffe",
+                "role": "Algernon Pitt",
+                "image": "https://image.tmdb.org/t/p/w200/1AsKnxWo3vUAvXYDU6TLB7KAkLM.jpg"
+            },
+            {
+                "name": "Kayden Price",
+                "role": "Blaster",
+                "image": "https://image.tmdb.org/t/p/w200/qL0DXqRaD4WUeZ3v0EH0simBxyV.jpg"
+            },
+            {
+                "name": "Benedict Hardie",
+                "role": "Edward Cuff",
+                "image": "https://image.tmdb.org/t/p/w200/bf02Dz4LMV23scJC6c8P4R6xji6.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Anahata",
+                "overview": "Nemo ve Kalpani Ceza Kolonisi'ndeki diğer mahkûmlar, zırhlı bir denizaltı olan Nautilus'u inşa eden köle işçilerdir. İşi bitirdikten sonra, Nemo ve güvendiği bir mürettebat, Nautilus ile kaçmayı planlar. Ama Müdür Crawley, Nautilus'un silahlandırılmak üzere Bombay'a taşınmasını talep etmek için gelince Nemo mürettebat olarak toplayabildiği herkesle birlikte hemen ayrılmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aqq5s8fgziqGBFc6TxgTVZNx9qG.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Tik, Tik, Bum",
+                "overview": "Nautilus, Şirket askerleri tarafından görüldüğünde, Nemo mürettebatı açık denizlere ulaşmaları için birlikte çalışmaya teşvik etmelidir. Balina avcılarıyla karşılaşmaları onları yavaşlatır. Açık denize ve özgürlüğe ulaşmak üzereyken, müthiş Dreadnought tarafından önleri kesilir. Böylece derinliklerde bir kedi-fare oyunu başlar. Derinlerde sessiz bir oyun.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uWkeTfbHFxn65TcQ4yyaU8eOstl.jpg",
+                "vote_average": 3.5,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Altta Yatan",
+                "overview": "Karajan'da mürettebat eksantrik Beyaz Raca'yla tanışır acaba onun misafirperverliği güvenilir midir? Nemo şaşırtıcı bir gerçeği keşfeder ve Humility ile mürettebat Nemo'nun gerçekte kim olduğunu öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yVk3Gu5AWdBfkEioKXexSpyrNJ7.jpg",
+                "vote_average": 3.2,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Islakken Kaygan",
+                "overview": "Mürettebat gizemli bir tropik ada keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uUbrM7OWZ6deoYwGSrImh8vQfXL.jpg",
+                "vote_average": 3.8,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Yılan Balığı",
+                "overview": "Nautilus volkanik Ateş Çemberi'ne doğru çekilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nN2WXhdMEtkbhW0A2cvGzAQIB4d.jpg",
+                "vote_average": 3.5,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Büyük Mavi",
+                "overview": "Ateş Çemberi, Benoit'nın hayat boyu takıntısı olan efsanevi su altı şehri Atlantis'e dair bir ipucu ortaya çıkarır. Küçük bir grup, efsanevi kayıp medeniyetin kadim bir yerleşkesi gibi görünen yeri keşfetmek için yola çıkar ama aynı zamanda oranın binlerce korkunç deniz zambaklarının da evi olduğunu fark ederler ve mürettebat canlarını kurtarmak için kaçmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zb1KTjUuyJcEGKU2owwFWW5zeIq.jpg",
+                "vote_average": 4.3,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Soğuk Savaş",
+                "overview": "Dreadnought ve Nautilus arasındaki güç oyunu ikisini de Kuzey Kutbu buzunda mahsur bırakır, bu da huzursuz bir ateşkese yol açar. Nemo geçmişinden bir arkadaşıyla yeniden bir araya gelir ve babasıyla ilgili daha fazla ifşayla sarsılır. Humility geleceğini düşünür ve mürettebat, Şirket'e karşı buzlu bir kriket maçında bir araya gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/atL7FKXvYqJIM77dWTIe0oNOpV7.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Dönüm Noktası",
+                "overview": "Nemo'nun mürettebatın hayatlarıyla oynadığı ortaya çıkınca, Nemo kamarasına hapsedilir ve Boniface onun yerine kaptan olur. Manyetik kuzeye ulaştıklarında bir cihaz arızası yaşarlar ve ardından metal yiyen böcekler tarafından saldırıya uğrarlar. Doğa onlara komplo kurarken, Nemo bölünmüş mürettebatını, kim olduklarını bildiğini gösterip onlara gerçekte kim olduğunu söyleyerek birleştirmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l9t0CTKAbDwgLjoSSGxZy3CTdss.jpg",
+                "vote_average": 4.3,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Valkyrie'nin Yolculuğu",
+                "overview": "Halvar Sütunları'na vardıklarında hazinenin vahşi savaşçılar tarafından korunduğunu keşfederler. Hazine kazanılıp sonra denize gömüldüğünde Nemo, Nautilus mürettebatını dünyanın bir ucuna boşuna getirdiğini hisseder. Ranbir onları bir araya getirir. Şirket hepsine ve milyonlarcasına acı çektirmiştir. Yerle bir edilmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8ieo7uQZ2inWvzkB2jrqVNqtMBm.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Yenilmek İçin Çok Büyük",
+                "overview": "Nautilus mürettebatı, Doğu Hindistan Ticaret Şirketi'nin iflas ettiğine dair söylentiler yayar. Hisse senedi fiyatı düştüğünde, gece bir hissedar toplantısı çağrısı yapılır. Nemo ve mürettebatın Şirket'i sonsuza dek feshedebilmek adına toplantıya girmek için üç saati vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iCf8I365VsuxUaYu8RXRqRrN5bq.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e10"
+            }
+        ],
+        "update_date": "2026-02-15 03:43:42"
+    },
+    {
+        "id": 19885,
+        "imdb_id": "tt1475582",
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+        "year": "2010",
+        "rating": 8.5,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "WETA+",
+            "BBC One",
+            "Amazon Prime",
+            "Hoopla",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "AMC+",
+            "BritBox",
+            "Britbox Apple TV Channel",
+            "Philo"
+        ],
+        "cast": [
+            {
+                "name": "Benedict Cumberbatch",
+                "role": "Sherlock Holmes",
+                "image": "https://image.tmdb.org/t/p/w200/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+            },
+            {
+                "name": "Martin Freeman",
+                "role": "John Watson",
+                "image": "https://image.tmdb.org/t/p/w200/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pembe Üzerine Bir Çalışma",
+                "overview": "Pembe giysili kadının intiharı, görünürde birbiriyle alakasız bir dizi intiharın dördüncüsüdür, fakat Sherlock Holmes ölümlerin aslında cinayet olduğunu ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kör Bankacı",
+                "overview": "Watson'ın yeni yaşamı ev arkadaşı Sherlock Holmes sayesinde hiç bir zaman sıradan değildir; hatta Sherlock'un bankaya yapacağı sıra dışı ziyaret doktoru tetikte tutar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Büyük Oyun",
+                "overview": "Sherlock, Londra'daki suçluların kıvrak zekalarından ümitsiz olsa da, sıradan bir dava gibi görünen olayda, bir dahinin iş başında olduğunu keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e03"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Belgravia'da Bir Skandal",
+                "overview": "Bir kraliyet skandalı, Sherlock'u zor bir fikir düellosunun ortasında bırakır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Baskerville'in Köpekleri",
+                "overview": "Sherlock, cehennemden gelen bir av köpeğinin gizemini ortaya çıkarmak için Dartmoor'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vjUsJUsF5RcTRKn2prGHCW9Nxro.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Reichenbach Şelalesi",
+                "overview": "Sherlock, en büyük düşmanı Moriarty ile bir savaşa girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e03"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Boş Tabut",
+                "overview": "Sherlock'un \"ölümü\" üzerinden iki yıl geçmiş, Watson hayatına devam etmiştir. Fakat Londra'ya bir terör saldırısı tehdidi olunca, Sherlock geri dönmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zXsOogQ8BVyvWUR2zgs6NBxkReX.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Üçlerin İmzası",
+                "overview": "Ölümcül bir tehlike Watson'ın düğün törenine gizlice yaklaşırken, Sherlock hayatının en zor görevi ile yüzleşir: Sağdıç konuşması!",
+                "still_path": "https://image.tmdb.org/t/p/w400/ca3ayuzXGpxpALFlcsVsXTQau9G.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Onun Son Yemini",
+                "overview": "Çalınan mektuplarla ilgili bir dava Sherlock Holmes'u şantaj ustası olan Charles Augustus Magnussen ile karşı karşıya getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e03"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Altı Thatcher",
+                "overview": "Scotland Yard, kabineden bir bakanın oğlunun ve eski başbakan Margaret Thatcher'ın parçalanmış heykellerinin karıştığı ilginç bir vaka ile Sherlock'a gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Yalancı Dedektif",
+                "overview": "Watson şoke edici bir trajediyle boğuşur. Bu sırada Sherlock bugüne kadarki en kurnaz düşmanı olan, karanlık bir sırra sahip zengin bir hayırsever ile karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/krz3V8MLoVKjMwCuAG2xxnx49TO.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Son Problem",
+                "overview": "Karanlık bir aile sırrı, Sherlock'un varlığından haberdar olmadığı bastırılmış anılarını açığa çıkararak onu ölümcül bir son oyuna çeker. Dirilen düşmanı karşısındadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/52CguxQAPg6JLDuIOT76EsWf2a8.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e03"
+            }
+        ],
+        "update_date": "2026-02-15 03:11:58"
+    },
+    {
+        "id": 111803,
+        "imdb_id": "tt13406094",
+        "name": "The White Lotus",
+        "original_name": "The White Lotus",
+        "overview": "HBO yapımı mini dizi \"The White Lotus\" Hawaii'de seçkin bir otelde tatil yapan misafirlerin bir haftasını konu alan ve sosyal hiciv öğeleri barındıran bir drama. Güler yüzlü çalışanları ve muhteşem manzarasıyla bu mükemmel tatilde her geçen gün karanlık bir karmaşa ortaya çıkmaktadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
+        "year": "2021",
+        "rating": 7.6,
+        "genres": [
+            "Komedi",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "Spectrum On Demand",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Leslie Bibb",
+                "role": "Kate Bohr",
+                "image": "https://image.tmdb.org/t/p/w200/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+            },
+            {
+                "name": "Carrie Coon",
+                "role": "Laurie Duffy",
+                "image": "https://image.tmdb.org/t/p/w200/vWChiHhXFjZVKC6HbACyyRFmdW4.jpg"
+            },
+            {
+                "name": "Walton Goggins",
+                "role": "Rick Hatchett",
+                "image": "https://image.tmdb.org/t/p/w200/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+            },
+            {
+                "name": "Sarah Catherine Hook",
+                "role": "Piper Ratliff",
+                "image": "https://image.tmdb.org/t/p/w200/hLXqA5OZYX9I9BTj82KlVYqgE2i.jpg"
+            },
+            {
+                "name": "Jason Isaacs",
+                "role": "Timothy Ratliff",
+                "image": "https://image.tmdb.org/t/p/w200/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+            },
+            {
+                "name": "ลิซ่า",
+                "role": "Mook",
+                "image": "https://image.tmdb.org/t/p/w200/qI8vV0rh9XWC7FObzEGDRSg4PBN.jpg"
+            },
+            {
+                "name": "Michelle Monaghan",
+                "role": "Jaclyn Lemon",
+                "image": "https://image.tmdb.org/t/p/w200/1N2up9UZZPbNgAOuOLce7hejlQt.jpg"
+            },
+            {
+                "name": "Natasha Rothwell",
+                "role": "Belinda Lindsey",
+                "image": "https://image.tmdb.org/t/p/w200/x5KdL3QoS4YuozVpfuPsu3MLwwf.jpg"
+            },
+            {
+                "name": "Sam Nivola",
+                "role": "Lochlan Ratliff",
+                "image": "https://image.tmdb.org/t/p/w200/4EL6gTYGkmrjZo7hBjDemut3m1Q.jpg"
+            },
+            {
+                "name": "ภัทราวดี มีชูธน",
+                "role": "Sritala Hollinger",
+                "image": "https://image.tmdb.org/t/p/w200/40u5XijcdlqVcnNbvDn8ZyUfuKe.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm - Arrivals",
+                "overview": "Otel müdürü Armond, yeni konukların talepleriyle baş etmeye çalışırken Nicole ise sağlık sorunları yaşayan eşini oğluyla vakit geçirmesi için ikna eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5AkJFSmfPHQDovs23M84p9FPjqy.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt13406094/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm - New Day",
+                "overview": "Armond, Shane'i sakinleştirmek için yollar ararken iş hayatında sorunlar yaşayan Rachel ise kariyeri konusunda tavsiye almak için Nicole ile konuşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/116eiqnFbU00ZCSwLY5u6MMRFXq.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt13406094/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm - Mysterious Monkeys",
+                "overview": "Başka çaresi kalmayan Quinn, Mark ile dalış derslerine katılırken Shane ise Rachel için romantik bir akşam planlamaya çalışmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/d691M8RaRbWVJPGVZPAjzS5StL0.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt13406094/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm - Recentering",
+                "overview": "Rachel'ın kariyer planları Shane tarafından alt üst edilmiştir. Kötü alışkanlıklarından kurtulmaya kararlı olan Armond'u ise zorlu bir sınav bekler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rBe2XfUlVDNraQbRdrjv3wDX4B0.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt13406094/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm - The Lotus-Eaters",
+                "overview": "Armond hasar kontrolü yapmaya çalışırken Belinda, Tanya'nın yeni iş teklifine yoğunlaşması için uğraşmaktadır. Nicole ise Mark'a kızgındır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/izDbDbiKTygyjGOrNfaIHR2TeUn.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt13406094/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm - Departures",
+                "overview": "Rachel, Shane'e birtakım gerçekleri anlatırken Quinn ise hayatına dair büyük planlarını açıklar. Armond'un ise kaybedecek hiçbir şeyi kalmamıştır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u5ZinvxAW6gpkjWHQ8xijdJqSYt.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt13406094/s1/e06"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Sicilya'daki bir gezide Harper, Ethan, Daphne ve Cameron birbirlerini ölçüp biçerek garip bir ilk gün geçirirler. Tanya, yeni asistanı Portia ile gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jZc5svMVSRjStSWIZ4C4XgukbXr.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt13406094/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Tanya, seyahatini mükemmel bir kaçamak haline getirme beklentisiyle Sicilya’da kendisiyle vakit geçirmesi için Greg'i ayarlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b0nK8LtprAJIdi04F0ZTgJMJ7nz.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt13406094/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Olumlu bir tavır takınacağına söz veren Harper, Daphne ile geziye katılır. İki gün boyunca tek başına kalan Tanya, bir tarotçudan tavsiye ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rtSmCH9xGCze8rEOyvPTQ8Z7CSI.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt13406094/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Tanya, Quentin'den beklenmedik bir davet alınca Portia gününü yeğeni Jack ile geçirmek zorunda kalır. Geziden dönen Harper gafil avlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j6yJvMRPt8WyDuD0m4Q2hkJxRGA.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt13406094/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Harper hala Ethan'dan şüphelenmektedir. Valentina ise Isabella'yı korumak için değişikliğe gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lYlIwggNP8mPtySr4jnNzFdT7X0.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt13406094/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Ethan, Harper'ın intikam alma ihtimalinden endişe duymaktadır. Di Grasso ailesi Sicilya'daki akrabalarını bulmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rqLxfTioOxhrklaY7pyK5ZiuRX7.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt13406094/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Albie, Lucia'ya yardımcı olmak için Dominic'ten ricada bulunur. Tanya ise Quentin'e temkinli yaklaşmaktadır. Ethan, Cam ile yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/243a6NIkZ1ai5FmT2bpdcf4Av5g.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt13406094/s2/e07"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "White Lotus Tayland'a yeni bir misafir grubu gelir. Kate, Laurie ve Jaclyn, bir kızlar gezisine çıkar. Belinda, odasına yerleşir. Chelsea, huysuz Rick'le uğraşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l6qFrdVeVPyML2BhRPWY677RPa7.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt13406094/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Kate ve Jaclyn, Laurie'nin boşanmasıyla ilgili spekülasyonlar yaparken Timothy işle ilgili kötü bir haber alır. Rick, meditasyon sırasında yaşadığı travmayı Amrita ile paylaşır. Chelsea, Chloe ile bağ kurar. Gaitok, duygularını Mook'a açıklar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gwVzPPtJEdMGoIPjQVUdlSZkKzl.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt13406094/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Saxon da ofisten telefon almaya başlayınca Timothy, ailenin tesisin telefon yasağı politikasına uyması gerektiğine karar verir. Rick'le birlikte şehre gelen Chelsea, kendisini başka bir tehlikeli durumun içinde bulur. Gaitok, patronları tarafından azarlanmaktan endişelenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wCR6wNzG9OiCMo5FZHWjXXr5r1.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt13406094/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Ortamda değişiklik arayan Jaclyn, Valentin'in önerisi üzerine kızları komşu bir tatil yerine sürükler ancak umduğu genç parti havasını bulamaz. Chloe'nin erkek arkadaşının lüks yatında Piper, ailesiyle hayatındaki bir gelişmeyi paylaşmadan önce Lochlan'ın desteğini ister. Rick sonunda Chelsea'ye geçmişini anlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yc5xQMRhpVO30aAY6Mm4wkN83k.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt13406094/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Chloe, Saxon, Lochlan ve Chelsea'yi yat partisine devam etmeye ikna ettiğinde işler çılgına döner. Laurie, Jaclyn ve Kate, Valentin ve arkadaşlarıyla birlikte bir kulübe gider. Belinda bir otel misafiriyle ilgili şüphelerini paylaşır. Rick, Bangkok'taki eski bir arkadaşını ziyaret eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wF1tgT5wdnjdTCWI8v0fkpNi5Vg.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt13406094/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Dolunay şenliklerinin ardından Laurie, kendisini Jaclyn tarafından aldatılmış hissederken akşamdan kalma olan Saxon, önceki gece olanları örtbas etmeye çalışır. Belinda'nın oğlu uygunsuz bir anda gelir. Chloe, erkek arkadaşının sorularıyla karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3gM6yKGlnvihLiSWFwTF0CER0RA.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt13406094/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Rick, Bangkok'ta düşmanıyla yüzleşir. Belinda, Zion'u Chloe'nin partisine götürür. Saxon, Timothy'nin davranışlarını sorgular. Laurie, Valentin ile Muay Thai'ye katılır ve Gaitok, Mook ile randevuya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6sISDqr1bIbDuGglYMNmtvIwk33.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt13406094/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Laurie, Jaclyn ve Kate, arkadaşlıklarıyla ilgili hesaplaşır. Timothy, ailesi için şok edici bir plan yapar. Belinda, bir anlaşma düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jonVZkIZSAPfK3Ev4wlz6N7VSj1.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt13406094/s3/e08"
+            }
+        ],
+        "update_date": "2026-02-15 01:48:24"
+    },
+    {
+        "id": 113962,
+        "imdb_id": "tt13111078",
+        "name": "Special Ops: Lioness",
+        "original_name": "Lioness",
+        "overview": "Gerçek hayatta da var olan bir CIA programına dayanan hikayede, bir terör örgütünü içeriden çökertmeye yardım etmek için CIA'nın Lioness Engagement Team adlı ekibe katılmak üzere işe alınan kaba ama tutkulu genç bir denizci olan Cruz Manuelos anlatılıyor. Zoe Saldana, kadın gizli ajanlarını sahadaki tehlikeli görevlere hazırlamak için eğitmek, yönetmek ve onlara liderlik etmekle görevli Lioness programının istasyon şefi Joe rolünde izleyici karşısına çıkıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+        "year": "2023",
+        "rating": 8.0,
+        "genres": [
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "TV+",
+            "Paramount Plus Essential",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Zoe Saldaña",
+                "role": "Joe McNamara",
+                "image": "https://image.tmdb.org/t/p/w200/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+            },
+            {
+                "name": "Laysla De Oliveira",
+                "role": "Cruz Manuelos",
+                "image": "https://image.tmdb.org/t/p/w200/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
+            },
+            {
+                "name": "Dave Annable",
+                "role": "Neal McNamara",
+                "image": "https://image.tmdb.org/t/p/w200/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
+            },
+            {
+                "name": "Jill Wagner",
+                "role": "Bobby",
+                "image": "https://image.tmdb.org/t/p/w200/dqPlsNMTHPZV4eso7sFQrtqvImD.jpg"
+            },
+            {
+                "name": "LaMonica Garrett",
+                "role": "Tucker",
+                "image": "https://image.tmdb.org/t/p/w200/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+            },
+            {
+                "name": "James Jordan",
+                "role": "Two Cups",
+                "image": "https://image.tmdb.org/t/p/w200/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+            },
+            {
+                "name": "Genesis Rodriguez",
+                "role": "Captain Josephina 'Josie' Carrillo",
+                "image": "https://image.tmdb.org/t/p/w200/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+            },
+            {
+                "name": "Michael Kelly",
+                "role": "Byron Westfield",
+                "image": "https://image.tmdb.org/t/p/w200/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
+            },
+            {
+                "name": "Austin Hébert",
+                "role": "Randy",
+                "image": "https://image.tmdb.org/t/p/w200/vOuRMtOtPVd8vuNCCxxavQSdGIC.jpg"
+            },
+            {
+                "name": "Jonah Wharton",
+                "role": "Tex",
+                "image": "https://image.tmdb.org/t/p/w200/4wisMOLFgPPQxm7gQO9wSI72O08.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Sacrificial Soldiers",
+                "overview": "Sahadaki bir görev sırasında Joe ve ekibi için işler ters gider. Joe, eve döndüğünde aile hayatındaki zorluklar da baş etmek zorundadır. Cruz, tehlikeli bir durumdan kaçmaya çalışır. Joe ise ekibe yeni bir üye seçmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "The Beating",
+                "overview": "Cruz, Aaliyah ile ilişki kurmaya başlar. Kate, futbol maçı sırasında kavga eder. Neal, küçük bir hastasına kolay olmayan bir haber vermek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Bruise Like a Fist",
+                "overview": "Joe ve ekibinin işleri sarpa sarar. Cruz, tehlikeli bir durumdan kurtulmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aCl27BO3UUJwEoEQruZsZnidlkC.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "The Choice of Failure",
+                "overview": "Joe, Cruz'u eğitmeye devam eder. Cruz, Aaliyah'yla bir bağ kurmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Truth Is the Shrewdest Lie",
+                "overview": "Joe ve Neal, Kate'in bakımıyla ilgilenir. Westfield ve Kaitlyn, Joe'nun ekibini sahada görevlendirir. Cruz, gizli kimliğinin açığa çıkarılması tehlikesiyle karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sh4bjty4YACVogQUOVWbZCUVA15.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "The Lie Is the Truth",
+                "overview": "Joe'nun ekibi bir tehditle karşılaşır. Kaitlyn ve Joe, bilgilendirme toplantısı sırasında azarlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jIEF60suH4Cg7iZEC0ze7b7pKBk.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Wish the Fight Away",
+                "overview": "Cruz, Aaliyah'yla zaman geçirir. Joe, Kaitlyn'i bilgilendirmeye devam eder. Kyle, çaresizce Joe'dan yardım etmesini bekler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Gone Is the Illusion of Order",
+                "overview": "Görev her an tehlikeye girebilir. Eshan, Cruz'la yüzleşir. Joe ve ekibi, kendilerini en kötüsüne hazırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3ndiiSM8sWMclfS123YaVIBOtsw.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Beware the Old Soldier",
+                "overview": "Joe, Kyle ve QRF ekibi, üst düzey bir hükümet yetkilisinin bir kartel tarafından kaçırılmasının ardından operasyonu düzenler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "I Love My Country",
+                "overview": "Yeni bir dişi aslan belirlendikten sonra Joe ve ekibi onu almak için Irak'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Along Came a Spider",
+                "overview": "Kaitlyn planları için destek toplamaya çalışır. Bu arada, Kaptan Josie Carrillo için Dişi Aslan eğitimi başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xt50ehEdhGI21BJxcRc3VqXWM9K.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Five Hundred Children",
+                "overview": "Joe ve Kyle potansiyel yeni bir istihbarat kaynağıyla temas kurar. Yeni genişletilmiş bir ekip beklenmedik sonuçlar doğuran bir saldırı gerçekleştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nIKMf8djtsIYBtBCtKhHjTEo17G.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Shatter the Moon",
+                "overview": "Depo keşfi ekibi sarsar. Joe iki acil görev arasında kalmıştır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/w1vnsU60PRL69oXPckv0ndErq0C.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "2831",
+                "overview": "Carrillo malikanesinde olaylar beklenenden daha hızlı bir şekilde doruğa ulaşır. Josie harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/shHXnFf1tqxqzMgYUAmsZM3eJG1.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "The Devil Has Aces",
+                "overview": "Joe'nun zayıflamış durumuna rağmen ekip, bir noktayı vurgulamak için Irak'a geri dönmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o9DNUy0EaoM2YslSXBq9yLnH5jH.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "The Compass Points Home",
+                "overview": "Kaitlyn ve Westfield'ın Pablo'ya kendi taraflarına geçmesi için baskı yapmasıyla Sky Hawk Operasyonu devam ediyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9xEd84PanI9fulF0P23fTC8gBT4.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e08"
+            }
+        ],
+        "update_date": "2026-02-15 01:27:27"
+    },
+    {
+        "id": 126027,
+        "imdb_id": "tt11379026",
+        "name": "Ghosts",
+        "original_name": "Ghosts",
+        "overview": "Güzel bir kır evinin kendilerine miras kalmasıyla hayallerinin gerçekleştiğine inanan güzel çift Samantha ve Jay'i büyük bir sürpriz bekliyor! Daha önce ölen bir grup insanla aynı evde yaşamaya başlayan çiftin maceraları konu edinmektedir.",
+        "poster": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+        "year": "2021",
+        "rating": 7.9,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "CBS",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "YouTube TV",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Rose McIver",
+                "role": "Samantha Arondekar",
+                "image": "https://image.tmdb.org/t/p/w200/7oswXIUIGAZphpZMBhuXoUgOIJi.jpg"
+            },
+            {
+                "name": "Utkarsh Ambudkar",
+                "role": "Jay Arondekar",
+                "image": "https://image.tmdb.org/t/p/w200/vUW5bFrkjWikNFzh5B6F11r5C3X.jpg"
+            },
+            {
+                "name": "Brandon Scott Jones",
+                "role": "Isaac Higgintoot",
+                "image": "https://image.tmdb.org/t/p/w200/lgw6q8nuBLDet1VUIEbuS5FX9eJ.jpg"
+            },
+            {
+                "name": "Danielle Pinnock",
+                "role": "Alberta Haynes",
+                "image": "https://image.tmdb.org/t/p/w200/hFMGpNsziDjtFvrkQ6KCJSiRN4e.jpg"
+            },
+            {
+                "name": "Richie Moriarty",
+                "role": "Pete Martino",
+                "image": "https://image.tmdb.org/t/p/w200/cXQMQvEzZwALyfHuHUaq9bHvelY.jpg"
+            },
+            {
+                "name": "Asher Grodman",
+                "role": "Trevor Lefkowitz",
+                "image": "https://image.tmdb.org/t/p/w200/vB7oRsWlQ5dIGsh2hdEG3OIdYUh.jpg"
+            },
+            {
+                "name": "Rebecca Wisocky",
+                "role": "Hetty Woodstone",
+                "image": "https://image.tmdb.org/t/p/w200/rR3LZIHFs0pQz0wd9zDPdVvd3nv.jpg"
+            },
+            {
+                "name": "Sheila Carrasco",
+                "role": "Flower",
+                "image": "https://image.tmdb.org/t/p/w200/a3F6yzxjFKZDssAPOymXwYKjwe8.jpg"
+            },
+            {
+                "name": "Devan Chandler Long",
+                "role": "Thorfinn",
+                "image": "https://image.tmdb.org/t/p/w200/qPZeVZqH1z7n5LVKVdzwXbAHe6s.jpg"
+            },
+            {
+                "name": "Román Zaragoza",
+                "role": "Sasappis",
+                "image": "https://image.tmdb.org/t/p/w200/uWkOkSLqj2POMqkeLk5E5UJzebv.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Samantha ve Jay, kendilerine miras kalan yıkık dökük bir kır mülkü için boşuna para harcarlar ve bu evde kimlerle yaşayacaklarından habersizdirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gfTKbRs5DcVQKcohbvO6xvArzxb.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Sam, Woodstone Malikhanesi'nin hayaletlerini görmeye devam ettiği için delirdiğini düşünmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1tanxlI4ch7nnkyEmOmUQySUr4S.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Thorfinn'in kemikleri Woodstone mülkünde bulunduğunda, Sam'den her zaman istediği geleneksel Viking cenazesini düzenlemesini ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9wbhWS1fkdkqkWUVn3ZsDmu2tsb.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Sam ve Jay, meraklı komşuları Henry ve Margaret'i bir akşam yemeği partisine davet eder. Bu sırada yemeğe dahil olmak isteyen hayaletler de vardı.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1YJc171aGLUgc2sS1fq1sPQbsPY.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Hayaletler, Sam ve Jay'in evini her yıl Cadılar Bayramında tahrip eden mahalle çocuklarına karşı korumaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/A9CRGxeLjiQI6siajdWGsQinNd7.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Pete'in yaşayan eşi sakladığı bazı sırlarla ziyarete gelir. Thorfinn, Sasappis'i beklemeden en  sevdikleri televizyon programını tek başına izler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zwF5MWLxyDTaiROELnDVDNPhcCC.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Sam, Flower'ın banka soygunu hakkında bir yazı yazmayı ister. Flower hikayenin açıklamadığı kısmından utandığı için Sam'in yazmasına izin vermez.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ija5kouIih1ug7BhIVCpfvoto6G.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Jay, şehirdeki arkadaşlarıyla iletişim kurmakta zorlanınca Sam, onunla hayaletler arasında bir oyun oynamayı kabul eder. Isaac, Nigel'e olan hisleriyle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6dkC1Gbtg0tnnFN6m6KS8Ytcbjp.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Köşke ziyarete gelen Alberta'nın fanı onu çok heyecanlandırır. Bu sırada Thorfinn özel bir anıyı canlandıracağını umduğu için Hetty'i yürüyüşe çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5XgUUqEEQyjdnra8wOipTHJUmhy.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Ünlü bir düğün organizatörüne Woodstone malikhanesini gösterecek olan Sam ve Jay'in işleri Hetty yüzünden karışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9aRpEQmBD7YBkb0UTFQLZp2WAbR.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Sam ve Jay, Sam'in annesinin hayaletini görmek için onun öldüğü yere giderler. Bu sırada Sasappis, bir sırrı ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rnkC0hfphSuwswWDJavWXrLug28.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Erkek arkadaşı tarafından terk edilen Jay'in kız kardeşi Bela ziyarete gelir. Jay ve Sam, Bela'nın yeni flörtünü görünce şok olurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6W4s9DfqVNDP69LPNGLRWYX7YUs.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Sam ve Jay, bir arkadaşlarının düğününe ev sahipliği yapmak için hazırlanır. Bu sırada Hetty'nin kocasının hayaleti bazı zorluklar çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cmDzugj2MbfQ3ikyaaU7g7lFCWT.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e13"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "Sasappis, Sam'in rezervasyon almaya başlayabilmesi için pansiyonun web sitesini tamamlamasına yardım etmeyi teklif eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9RF5chCsJjg3glBVNXGpq3pGTY2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e14"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "Sam ve Jay pansiyondaki misafirlere oda ayarlamak için hayaletleri bir araya topladıklarında, Thorfinn'in gece terörü yaşadığını öğrenirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aV0TL2jGJkkWVdqtr0qqEjeXc7y.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e15"
+            },
+            {
+                "season": 1,
+                "episode": 16,
+                "name": "16. Bölüm",
+                "overview": "Trevor'un eksik pantolonunun sırrı, zengin arkadaşları Sam ve Jay'in Woodstone malikanesi'ne gelmesiyle ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/igH5zdTa1w2cqqdHdir19PmYJRz.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e16"
+            },
+            {
+                "season": 1,
+                "episode": 17,
+                "name": "17. Bölüm",
+                "overview": "Mezuniyet balosu gecesi ölen Stephanie adlı 80'lerin \"Kötü Kız\" hayaleti tavan arasında uyanır ve Sam'in balo gecesinde olanlarla yüzleşmesini tetikler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cLynZUQxjvdZb8PYG6JEM4l10T3.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e17"
+            },
+            {
+                "season": 1,
+                "episode": 18,
+                "name": "18. Bölüm",
+                "overview": "Sam ve Jay pansiyonun ilk resmi misafirlerini beklerken Thorfinn'in lanetinin yol açtığı sorunlarla uğraşmak zorunda kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aOM118eCGTr16352KiBicBYSYlX.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt11379026/s1/e18"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Spies",
+                "overview": "Sam, pansiyonda kalan eleştirel bir çiftten iyi bir eleştiri almak için hayaletlerden yardım ister. Isaac ise Nigel'i arkadaş grubuna dahil etmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tQ9JWOZJ7cJSKukqMJc947RSqzR.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Alberta's Podcas",
+                "overview": "Sam, Alberta'nın gizemli ölümünü araştıran bir Podcast yayınlamaya karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5xjUEmp1Nn6DAqou87CZTWKVwqQ.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Jay's Friends",
+                "overview": "Hayaletler, Jay'in yeni arkadaşlarının Micah adında bir lider tarafından yönetilen bir tarikatın parçası olduğunu öğrenince Sam alarma geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6IIE66YsSVDUs5JzgkduRPiq9U3.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "The Tree",
+                "overview": "Sasappis, Sam ve Jay'i Woodstone arazisinde komşuların kesmek istediği yaşlı bir ağacı kurtarmaya ikna eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tYnR3qajOfNV0fAT80ITJMjN272.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Hallowen 2",
+                "overview": "Sam ve Jay'in Cadılar Bayramı partisinde Hetty'nin geçmişinden bir ruh çağırılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2Nw5OGXuDlxLAg8kFVpudp1wd6e.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "The Baby Bjorn",
+                "overview": "Sam, Farnsby'lerin evinde Thorfinn ile beklenmedik bir bağlantısı olan bir Viking hayaletiyle tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l5lTQ7hFxCgT9h0w6SyJmIymCzw.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Dumb Deaths",
+                "overview": "Bir televizyon belgesel ekibi programlarının bir bölümünü çekmek için Woodstone Malikanesi'ne gelir ve Pete ölümüyle ilgili acı bir gerçekle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6pQlTc3kjdcA3vytxem5RBoGW57.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "The Liquor License",
+                "overview": "Alberta'nın geçmişinde edindiği bir uzmanlık, Sam ve Jay'in Woodstone viski tadım partisinde bazı sorunlarla karşılaştıklarında işe yarar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b8P2mxjNI8dYSu125KmvQcWzT2J.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "The Christmas Spirit, Part One",
+                "overview": "Jay'in kız kardeşi Bela yanında kendisine hayran bir erkek arkadaşla Woodstone malikanesi'ni ziyaret eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/546GSGBUSBRtMGAXPcZTGP6Rvqv.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "The Christmas Spirit",
+                "overview": "Jay'in kardeşi bela ve hayaletlerin kurduğu plan ters gidince Sam ve Thorfinn çapraz ateş altında kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/24HGeqsLjn3gQYFGr8hfe6cQV55.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e10"
+            },
+            {
+                "season": 2,
+                "episode": 11,
+                "name": "The Perfect Assistant",
+                "overview": "Sam ve Jay, B&B için yetenekli bir asistan bulduklarında çok heyecanlanırlar. Yeni çalışanları ise bazı şaşırtıcı bagajlarla birlikte gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hB3lngkK0rkosYQ0nMpPLfMk6vI.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e11"
+            },
+            {
+                "season": 2,
+                "episode": 12,
+                "name": "The Family Business",
+                "overview": "Sam, Jay'in asistanı Freddie'ye ilişki tavsiyeleri verir ve Hetty'nin uyarılarını göz ardı eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qHug8GaHRtSkut1uCDza61caYbl.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e12"
+            },
+            {
+                "season": 2,
+                "episode": 13,
+                "name": "Ghost Hunter",
+                "overview": "Şüpheli faaliyetler Sam ve Jay'in asistanı Freddie'yi Woodstone'un perili olduğu teorisine götürünce Freddie hayalet avlama ekipmanı satın alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1pFSxSskN5NaFVvzV03dZ84Etqu.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e13"
+            },
+            {
+                "season": 2,
+                "episode": 14,
+                "name": "Trevor's Body",
+                "overview": "Trevor, yeni bulunan eşyalarını almak için Woodstone'a geldiklerinde ailesi hakkında rahatsız edici haberler alır. Isaac ve Nigel'in ilişkisi bir engele takılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hA90t1maallfVG5sUp6T6eFUgGw.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e14"
+            },
+            {
+                "season": 2,
+                "episode": 15,
+                "name": "A Date to Remember",
+                "overview": "Sam ve Jay, Thorfinn'in Flower ile mükemmel bir ilk randevu ayarlamasına yardım eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/guurMxupi4LhMtlqdPQzmB8begE.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e15"
+            },
+            {
+                "season": 2,
+                "episode": 16,
+                "name": "Isaac's Book",
+                "overview": "Sam, Isaac hakkında bir biyografi yayınlamaya çalışırken duvara tosladıktan sonra onun moralini yüksek tutmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rvNFJdi5jCSkdAOzzKZYl5jdXRn.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e16"
+            },
+            {
+                "season": 2,
+                "episode": 17,
+                "name": "Weekend from Hell",
+                "overview": "Elias Woodstone, sonsuza dek cehennemden uzak kalabilmek için Hetty'den af diler. Jay, Flower'da yürüyüşten sonra bulduğu mutfak sanatını tekrarlamakta zorlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qpU7VXdbjHQlIxKvLi1t91VRF6R.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e17"
+            },
+            {
+                "season": 2,
+                "episode": 18,
+                "name": "Alberta's Descendant",
+                "overview": "Yaşayan akrabası Alicia'nın, Alberta hakkında daha fazla bilgi edinmek için Woodstone'u ziyaret etmesi Alberta'yı heyecanlandırsa da işler karışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dQYDkDmIH5Ajl5FjuKVNy2FfrQ5.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e18"
+            },
+            {
+                "season": 2,
+                "episode": 19,
+                "name": "Ghost Father of the Bride",
+                "overview": "Pete'in kızı Laura'nın evleneceği öğrenen Sam, Pete'in ricasıyla Laura'yı düğününü Woodstone B&B'de yapmaya ikna etmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6waoCLqabssSFKxJFRqo78imlT7.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e19"
+            },
+            {
+                "season": 2,
+                "episode": 20,
+                "name": "Woodstone's Hottest Couple",
+                "overview": "Tavan arasında yaşayan Hayalet, aşık olduğu Trevor'ın artık Hetty ile sevgili olduğunu öğrenir. Woodstone'daki tüm ilişkileri baltalamaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/A0696PyuvZEVoxW5Xh6kSvZRxqR.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e20"
+            },
+            {
+                "season": 2,
+                "episode": 21,
+                "name": "Whodunnit",
+                "overview": "Sam'in podcast editörü son şans olarak bir bölüm daha verir. Sam, Jay ve hayaletler Alberta'nın cinayetini çözmek için dedektif moduna geçerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eoEtVuHcoMkRYXZXkoB88CMEQD2.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e21"
+            },
+            {
+                "season": 2,
+                "episode": 22,
+                "name": "The Heir",
+                "overview": "Woodstone Malikanesi'nin asıl varisi olduğunu öne süren bir kadın ortaya çıkar.Sam ve Jay bir avukattan yardım isterken Isaac maddi hesaplamalar içindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gjuni3ca3YV1IPBMxJFNy1pE66K.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s2/e22"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "The Owl",
+                "overview": "Sam, Jay ve kalan hayaletler, öbür dünyaya geçen hayaletlerin gizemini çözer. Ayrıca Jay'in restoranına dönüştürmek için ahırdaki baykuşun yerini değiştirmeleri gerekir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cL5eVOow9v3GNbdily2nmrdsnc8.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Man of Your Dreams",
+                "overview": "Sam, hayaletlerin güçlerinden birini öğrenir. Hayaletler, hayattaki insanların rüyalarına girip kararlarını etkileyebilirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sf28qll1JO9Mhog5c8UjJaJ2Ans.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "He Sees Dead People",
+                "overview": "Jay'in kız kardeşi Bela ve erkek arkadaşı Eric, Woodstone Malikanesi'ni ziyaret eder. Eric, Noel'de malikanede yaşadığı olayın ardından ne olduğunu anlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xXvcKLqsc54KTrKngSlmQYDC8ez.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "Halloween 3: The Guest Who Wouldn't Leave",
+                "overview": "Woodstone Malikanesi Cadılar Bayramı partisinde bazı misafirleri ağırlar. Bir yandan hayaletler Flower'ı geri getirmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/433tgzggKAWRHgtamViyHS1lWZz.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "The Silent Partner",
+                "overview": "Büyük bir yatırımcı Sam ve Jay'in restoranından çekilir. Parası olan tek hayalet Isaac'e mecbur kalmalarını ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kFDR0uTlbMvJydxkLntFrW3RpxH.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "Hello, Brother",
+                "overview": "Trevor'ın kardeşi Jeremy, Woodstone Ödül Puanları programında bir boşluk bulur. Daha sonra Woodstone'a taşınır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tyTPO6ThIMbK89sJylaVAVnLhmq.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "The Polterguest",
+                "overview": "Woodstone'a gelen bir misafire bağlı olan hayalet ve Alberta arasında duygusal bir çekim başlar. Bir yandan malikanede bekarlığa veda partileri gerçekleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/d47ALBPqRjNEUaKfLW1BMPAEKDn.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "Holes Are Bad",
+                "overview": "Sam ve Jay hayaletleri evde yalnız bırakarak kaçamak yaparlar. Bu sırada Woodstone'da büyük bir kavuşma yaşanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3X4M9DrVI2KdwkdShfAVe9xBUQw.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "The Traveling Agent",
+                "overview": "Pete, farkında olmadığı bir gücünü keşfeder. Bu güç, onun Jay'le arasındaki ilişkiyi etkiler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xCMcZA6HjlyIYUluD4yEzotgdKC.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "Isaac's Wedding",
+                "overview": "Bir düğünde olabilecek kötü senaryolar Isaac'in başına gelir. Sürpriz bir konuğun gelmesi işleri iyice karıştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ye80LUa3OhxlGHZ6s5S7hnLgfHm.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s3/e10"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Patience",
+                "overview": "Sam ve hayaletler Isaac'i bulmak için yarışır. Isaac ise toprakta kaybolduğundan beri hayalet Patience ile ilk kez yüz yüze gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nBgLSnqcyHb9Hpk222Ky1MyB9nW.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Sam's Dad",
+                "overview": "Sam'in babası Woodstone'a ziyarete gelince, Patience baba-kız ilişkilerini sınar. Thor ve Flower, Nancy ile yaşadıkları garip durumla başa çıkmak zorunda kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4EnfR2LdmPcdOPavZYtxtILIKbj.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Halloween 4: The Witch",
+                "overview": "Sade bir Cadılar Bayramı kutlamasında hayaletler heyecan arar. Patience'ın yardımıyla Sam'i cadı mahkemesine çıkarırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yYr0IKlvE3mdibY6uRK90UupS8V.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "The Work Retreat",
+                "overview": "Uzaktan finans analistliği işine girmeyi başaran Trevor, yüz yüze çalışma kampına çağrılınca başı derde girer. Hetty ve Sass, Pete hakkında bir dedikodu çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/88x2F9yThFnfrWWJZyLALwPJLxM.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "A Star Is Dead",
+                "overview": "Alberta Sam'e bir topluluk tiyatrosunun prodüksiyonu için seçmelere hazırlanmasında yardım teklifinde bulunur. Sassy ise Jay'in rüyalarına yine müdahale eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nmBbOB54CYArxxMUWSguLmt4Whj.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "The Primary Source",
+                "overview": "Sam'in kitap yayıncısı Isaac hakkındaki biyografisi için kaynak materyal ister. Sam ve Jay, Isaac'in hayattayken sakladığını söylediği bir günlüğü ararlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pNgmCvf1iNhPmulqujsz4IaayNO.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "Sad Farnsby",
+                "overview": "Sam yanlışlıkla komşuları Farnsby'lerin arasını açınca Herny Farnsby, Woodstone B&B'ye taşınır. Isaac ve Nigel gecikmiş bir düğün hediyesi için mücadele eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cgnZzE3wry6PWQDGsYih9yRNHmJ.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "A Very Arondekar Christmas Part 1",
+                "overview": "Sam ve Jay, Jay'in memnun edilmesi zor olan ailesini ağırlamaya hazırlanır. Ancak ufak bir kaza tüm planları alt üst edecek olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uALb7MuuQChnGJ67agHHLlfZKaI.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "A Very Arondekar Christmas Part 2",
+                "overview": "Sam ve Jay, Jay'in memnun edilmesi zor olan babası, annesi ve kız kardeşini ağırlamak için hazırlık yaparken aksilikler yaşamaya devam ederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8ea3yCXhJbrllC2DfdIlgtHBYA4.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "The Not-So-Silent Partner",
+                "overview": "Mark, Jay'in restoranının inşaatını geciktiren sessiz yatırımcıyla görüşmek ister. Bunun üzerine Sam ve Jay işlerini halletmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a8UytvKMR6vFNOgltySyxLPyRiY.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e10"
+            },
+            {
+                "season": 4,
+                "episode": 11,
+                "name": "Thorapy 2: Abandonment Issues",
+                "overview": "Thor, gemi arkadaşları tarafından terk edilmenin verdiği sıkıntıyla baş etmeye kararlıdır. Tekrar terapi almaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/te4BWLJ49jJwxuLCXkGHL7odpp2.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e11"
+            },
+            {
+                "season": 4,
+                "episode": 12,
+                "name": "It's the End of the World as We Know It and What Were We Talking About?",
+                "overview": "Flower, eski tarikat liderinden gelen bir kehanete dayanarak Jay'in restoranının açılışına müdahale eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5t3RRy0oygtQobkTI7j5yioxURx.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e12"
+            },
+            {
+                "season": 4,
+                "episode": 13,
+                "name": "Ghostfellas",
+                "overview": "Jay, Pete'nin verdiği tarifi kendi restoranında kullanır. Bu durum yerel bir restoran işletmecisini kızdırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ypdNE1s07WjQ8IL0slE2ucsm3xZ.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e13"
+            },
+            {
+                "season": 4,
+                "episode": 14,
+                "name": "Alexander Hamilton and the Ruffle Kerfuffle",
+                "overview": "Jay, bir şef arkadaşının başarısına takıntılı hale gelir. Isaac, Alexander Hamilton ile rekabetini ders verici hikaye olarak anlatır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bCIL6r3QkSE1eL4WzqU1dA9e0tz.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e14"
+            },
+            {
+                "season": 4,
+                "episode": 15,
+                "name": "The Bachelorette Party",
+                "overview": "Alberta'nın soyundan gelen biri Woodstone malikanesinde bekarlığa veda partisi düzenler. Alberta, nişanlısından şüphelenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jhgU6xTqm6EFzCXTzQdwgyPTqTm.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e15"
+            },
+            {
+                "season": 4,
+                "episode": 16,
+                "name": "St. Hetty's Day",
+                "overview": "Jay'in kuzeni Sunil, St. Patrick Günü'nde Woodstone Malikanesi'ni ziyaret edince Hetty'nin hayalet gücü ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tylsQ2pDrU1XNqHwdNJaX0iR6Gl.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e16"
+            },
+            {
+                "season": 4,
+                "episode": 17,
+                "name": "His Girl Shiki",
+                "overview": "Pete, Sasappis için verdiği sözü tutar. Hem 1940' larda dolaşabilen hem de espirili olan bir senarist getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7IExs72S6awNBPGrciCIevxxghP.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e17"
+            },
+            {
+                "season": 4,
+                "episode": 18,
+                "name": "18. Bölüm",
+                "overview": "Jay, Sam ve hayaletler hayalet tuzağını onarmaya çalışırlar. Sasappis'in hayalet sınırını geçip büyük aşkı Shiki'yi ziyaret edebileceğini umut ederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jSeepqTprM4HgFaaegVelX3Glbs.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e18"
+            },
+            {
+                "season": 4,
+                "episode": 19,
+                "name": "19. Bölüm",
+                "overview": "Trevor'ın eski iş arkadaşı Pinkus ve kızı Abby, Woodstone Malikanesi'ne gelir. Trevor, öbür dünyanın sürpriziyle karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/k77TsZauQQWTS2GVjpuaREO6IbF.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e19"
+            },
+            {
+                "season": 4,
+                "episode": 20,
+                "name": "20. Bölüm",
+                "overview": "Sam ve Jay, Jay'in restoranı için belediye başkanı aracılığıyla bir bağış gecesi düzenlerler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wTXcIKiJFkLdFK4eLofWldWaG4s.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e20"
+            },
+            {
+                "season": 4,
+                "episode": 21,
+                "name": "Kyle",
+                "overview": "Sam'in hayaletleri görme yeteneğini paylaşan Kyle, Woodstone'a gelir. Bu yüzden Sam ve Jay'in ilişkisi sınanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aSs5D7sNQ5siLwheoa9bYMfMVCd.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e21"
+            },
+            {
+                "season": 4,
+                "episode": 22,
+                "name": "The Devil Went Down to Woodstone",
+                "overview": "Sam ve Jay, Sam ile Isaac'in vampir kitabının tanıtımı için büyük bir parti organize ederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2OBbycXCe7GXljVBdmAWFAZIcyg.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt11379026/s4/e22"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9wOj4mqCJu6MZ2bFzc9ylN43Sf6.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt11379026/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lD2Jl5PljSy0YxSIQcAqJGHrxkG.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt11379026/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uXHIq1Js6iGsh58HBKlLVR0IhWa.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt11379026/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aTcreY7kunUcNcyAESsikXD8tJd.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt11379026/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rvU3UJYMQP63tEOHStCT45VVD1a.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt11379026/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/37rJhrgoV8NQR0TqsAJUvC773LZ.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt11379026/s5/e06"
+            },
+            {
+                "season": 5,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jzkfwb3yJyjIkqQ02ITqSuJ3DaE.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt11379026/s5/e07"
+            },
+            {
+                "season": 5,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fHcW2Lw9g19LcjWaIDekib7daVU.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt11379026/s5/e08"
+            }
+        ],
+        "update_date": "2026-02-14 23:31:51"
+    },
+    {
+        "id": 218347,
+        "imdb_id": "tt11218290",
+        "name": "Sweetpea",
+        "original_name": "Sweetpea",
+        "overview": "Rhiannon Lewis hayatından sıkılan bir kadındır. İnsanlar sokakta ona ikinci bir bakış atmadan yanından geçiyorlar. İş yerinde terfi için sürekli göz ardı ediliyor, hoşlandığı adam tam olarak bağlanmıyor ve babası gerçekten hasta. Sonra hayatındaki her şey altüst olur. Sınırlara kadar zorlanan Rhiannon kontrolü kaybeder. Artık her şeyi yapabilen o, baş döndürücü yeni bir güce erişim kazanır.",
+        "poster": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+        "year": "2024",
+        "rating": 7.5,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "Sky Showcase",
+            "Spectrum On Demand",
+            "Starz Apple TV Channel",
+            "Starz Roku Premium Channel",
+            "Sky One",
+            "Starz",
+            "Sky Atlantic",
+            "Philo"
+        ],
+        "cast": [
+            {
+                "name": "Ella Purnell",
+                "role": "Rhiannon",
+                "image": "https://image.tmdb.org/t/p/w200/5PscK9HNXGFQMIxkpbR8ObB7vuR.jpg"
+            },
+            {
+                "name": "Nicôle Lecky",
+                "role": "Julia",
+                "image": "https://image.tmdb.org/t/p/w200/1BgqAILgJMGPUYr2bugzejs97S3.jpg"
+            },
+            {
+                "name": "Jon Pointing",
+                "role": "Craig",
+                "image": "https://image.tmdb.org/t/p/w200/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+            },
+            {
+                "name": "Calam Lynch",
+                "role": "AJ",
+                "image": "https://image.tmdb.org/t/p/w200/6Zkz6DF6tW96LYx0DDqxEPIc31P.jpg"
+            },
+            {
+                "name": "Jeremy Swift",
+                "role": "Norman",
+                "image": "https://image.tmdb.org/t/p/w200/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+            },
+            {
+                "name": "Dustin Demri-Burns",
+                "role": "Jeff",
+                "image": "https://image.tmdb.org/t/p/w200/m0yBhBOqO9HSvsBxj9JzdPfMf3d.jpg"
+            },
+            {
+                "name": "Leah Harvey",
+                "role": "Marina",
+                "image": "https://image.tmdb.org/t/p/w200/j5bEw0gtE9RGTq2y4WoQ6HUa9di.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Babası öldüğünde ve geçmişte ona zorbalık yapan kişi kasabaya döndüğünde, sessiz ve utangaç bir kız sonunda patlama noktasına ulaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qJomU9FjJAX8QVZoeV9yTLSmStf.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Rhiannon'ın kurbanı bulunur. Kurbanın kimliği ve bu muameleyi hak edip hak etmediğini öğrenmek için bir göreve çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/c8yEdRGtXDGjMNSqgwqGML8TlJw.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Güç ve adalet duygusu yüksek Rhiannon, bir sonraki hedefi Julia Blenkingsopp'un peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aq4l5gOWU6sFAHcgRQfe8UDUfQf.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Rhiannon, bir zamanlar olduğu gibi kaybeden olmadığını kanıtlamaya çalışır. Ancak bir gerçek her şeyi değiştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/am33xvjzvbjc3vFE0ULeFF5cpL5.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Rhiannon etrafında şüpheler dolaşırken beklenmedik bir iş birliği yapmak zorunda kalır ve işler planlandığı gibi gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n7uomMnQLFns1JF8QEOkFKif3Lw.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Rhiannon yalanları arasında sıkışmaya başlarken attığı tehlikeli adımlar geri dönülmez sonuçlar doğurur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-14 23:18:10"
+    },
+    {
+        "id": 100771,
+        "imdb_id": "tt10394844",
+        "name": "Soulmates",
+        "original_name": "Soulmates",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/g2mvINQCGACb9sswdKXh1KwpwzB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/7bpQnv93kbYhbhzmJnEjbE8aMof.jpg",
+        "year": "2020",
+        "rating": 6.0,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Hoopla",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "Netflix Standard with Ads",
+            "AMC+",
+            "AMC",
+            "Netflix",
+            "Philo"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eORILaLSGKaAxWCQKUb8dxeTuCm.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kkEVadfsqUTwZZqglRZq9eEwEci.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iv3w2ak7WeUQTcYKrfZVW5rG22Y.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg",
+                "vote_average": 4.9,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-14 22:21:59"
+    },
+    {
+        "id": 615,
+        "imdb_id": "tt0149460",
+        "name": "Futurama",
+        "original_name": "Futurama",
+        "overview": "Fry pizza dağıtıcısıdır. 2000 yılına girilen yılbaşı gecesi kazara teslimat yaptığı laboratuvarda bir makineye girer. 31 Aralık 2999 gecesi yeniden uyanır. Tek gözlü Leela ve robot Bender ile tanışır. Ortak noktaları yapmak zorunda oldukları işten nefret etmeleri ve bundan kaçmalarıdır. Fry ve arkadaşları, Fry'ın hayattaki tek akrabası olan yaşlı yeğeni Farnsworth'a ulaşırlar ve macera başlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+        "year": "1999",
+        "rating": 8.4,
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Comedy Central",
+            "FXNow",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Animasyon",
+            "FOX",
+            "Disney+",
+            "YouTube TV"
+        ],
+        "cast": [
+            {
+                "name": "Billy West",
+                "role": "Fry / Professor Farnsworth / Zoidberg / Zapp Brannigan (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+            },
+            {
+                "name": "Katey Sagal",
+                "role": "Leela (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+            },
+            {
+                "name": "John DiMaggio",
+                "role": "Bender (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+            },
+            {
+                "name": "Tress MacNeille",
+                "role": "Mom (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+            },
+            {
+                "name": "Maurice LaMarche",
+                "role": "Morbo / Kif Kroker (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+            },
+            {
+                "name": "Lauren Tom",
+                "role": "Amy Wong (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+            },
+            {
+                "name": "Phil LaMarr",
+                "role": "Hermes Conrad (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+            },
+            {
+                "name": "David Herman",
+                "role": "Scruffy (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/cmMqr0jEjKn5sdeMcqhSshueEPR.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt0149460/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eaTsjWXFpySli5ZUgHG1vM3uD1J.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zkGFQZejCzqfXzbPdRTgsvSh6p8.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt0149460/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rCue74nS7rdAwePEvOI2KRbigh7.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt0149460/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jJTSRsiZUZivsJWxgR8Q1HnryQF.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/SKGp9RnGMGFQQ1bzguy4kj6YmE.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/q7iq39dlq8A8cpWIO4aV6vpmgfi.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zofFgn2I2MYza7bRbqJO7sUlNnS.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2bPXyxhhUkB1uBHZQHqGkYZdDLA.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt0149460/s1/e09"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5AFwMenzesdH2fM2Nv7kNspcxn2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uqIVJR1fmkiwpcIsIcV0vxiyY4z.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dAID4tEj8PrDd8273EAJT4k96RN.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oLBjtYYG5Dqpx801W9uQDLjFFdw.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/tYi9qF3zQp0PHUFHwKfZIu8IbFF.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/snMwU19EI4iBg6CtQ0XwWOZnAzD.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bkx2ei9GMTGvY9UTBxIe56SWRUF.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/28t4x2WDEtG1uAx7kYvJQgavH9r.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1Q34wlK6o1YMv0a286hjD8Lxkaw.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6r5TT8CmCf9OLRstrIKmKMl33g.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e10"
+            },
+            {
+                "season": 2,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/i2fkHlfu5LbqxT3UPXYhh7pOYOH.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e11"
+            },
+            {
+                "season": 2,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hjKSgHDGfy2YPfeLpBESuxz80Ln.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e12"
+            },
+            {
+                "season": 2,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/50Cab1RldZuPXCQWR4EFS4YSy0R.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e13"
+            },
+            {
+                "season": 2,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/sMFQCbxq22rOUtCuqhX47RUbqEq.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e14"
+            },
+            {
+                "season": 2,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/citWQdhDfBTqMYcaTn9hdRWYAU8.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e15"
+            },
+            {
+                "season": 2,
+                "episode": 16,
+                "name": "16. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2lvlPgFAZZjGTpkra30tgHZxqbT.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e16"
+            },
+            {
+                "season": 2,
+                "episode": 17,
+                "name": "17. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/87o3q5XhwOmTFTRoMpbvXfSZQx.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e17"
+            },
+            {
+                "season": 2,
+                "episode": 18,
+                "name": "18. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/sQORQb9QoBFruscuv1H6jckoVcf.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e18"
+            },
+            {
+                "season": 2,
+                "episode": 19,
+                "name": "19. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/yVYCfa3RIKW0kUiUfxoXy8Es6rf.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e19"
+            },
+            {
+                "season": 2,
+                "episode": 20,
+                "name": "20. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fXY3EYjloC9qCN75LbpcNXyg6sq.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt0149460/s2/e20"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eS3NW1cGT5UFu2c5SVL3uOciKsG.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/pbBmkmURo6HiFTzZTuQrIHPUztl.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/yu38WFGuP3gW2byOHQs8HrR7PfW.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/xfnxyzdRzSVCRjTIL7gwevm1bIS.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/sDmJieqa4SeuiFe2YWqO27fwSdE.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/suBEtxw08LijS5szYlFygRcUxtC.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/d2jlCAzegweOByXwssslxGnMO6B.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gTQQIilN1YCWGF8UMEmWVYjY5d7.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/sb16d5WY1JRKF573E35bGgg2PgC.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/q7nNMARWhfaSUdvLdoivzk11jmm.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e10"
+            },
+            {
+                "season": 3,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/yPzujVMvh8XNelPpsTOS3mynrt3.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e11"
+            },
+            {
+                "season": 3,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/z8TDfjc1JcrRXORIHDmIvdr2U64.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e12"
+            },
+            {
+                "season": 3,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uweh3WB6iKRw1X82IrXRy6tQ92g.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e13"
+            },
+            {
+                "season": 3,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fLeQeTNgLxVhE8jO2aEjI9lHmqo.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e14"
+            },
+            {
+                "season": 3,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ayvhtQnh7j7MnTCoysoSDcOYraz.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s3/e15"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/yUEOJQozaXt1dvdWmLZ36uYxQRG.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gzHWmv6oOvxtSfkDT2meTDIZDdT.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/nx2M8r63adyAv6wWZdpRbUemspl.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jSY6INlTUtLLAnnzvVk1WG4V3MK.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oNxC7eXG13uJPc1u3WZFYMotuJO.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/y0psJqkYDQDQxwFy8XPjHqOH11y.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e06"
+            },
+            {
+                "season": 4,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/pCZfALvW2o498KArwfi0GR1eVYH.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e07"
+            },
+            {
+                "season": 4,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jMkyLIOsaSX9UFvUHg1hk31Qzaz.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e08"
+            },
+            {
+                "season": 4,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1OZgpWcDDOM5uAYTLj1owrnkC6r.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e09"
+            },
+            {
+                "season": 4,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/w4UtFed1ej217dj8yyWrTa3SPTy.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e10"
+            },
+            {
+                "season": 4,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/qECcd4iENLqtHsmPw2ywpaxnc6R.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e11"
+            },
+            {
+                "season": 4,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5tmNMy5PStVbxuG6HiTZI6HFswG.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt0149460/s4/e12"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aFS3AdpUd7af3OWGh4kU673xIDM.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/2E3oMUrBFt6d3J1GKMBtrAF1Zh7.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3yNo0EyDhBOvZEcQNVG8cnimfRE.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dnLxcyKd7WZsBJeALwsjkEATPk.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bKq2eqHyv7UPUJrTyUKk34o9oga.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/frSY3b82YdVWGYtPvKuc6IKNlTr.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e06"
+            },
+            {
+                "season": 5,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/64Vv5F1hn1X1ESJeVUyOYjyfFno.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e07"
+            },
+            {
+                "season": 5,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/yjfmkF86ssDg7OiBaVGIiAV4fe8.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e08"
+            },
+            {
+                "season": 5,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oW8kvthOCj59TdxgMHR3JtORrGL.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e09"
+            },
+            {
+                "season": 5,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hPpU9C0ESgmLe1ZYbVZ75t0HSVK.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e10"
+            },
+            {
+                "season": 5,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/v8FERGzRijN53AyDhFs0j1hC7Qo.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e11"
+            },
+            {
+                "season": 5,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fL8bD6w5ybeuVQQKz2kVM39WXLC.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e12"
+            },
+            {
+                "season": 5,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mOKWoFNNiOlZ9Symn5Ep6PQBNIr.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e13"
+            },
+            {
+                "season": 5,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/e7kag2TLftnwZeTcM5nXjb8mV5A.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e14"
+            },
+            {
+                "season": 5,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aPRO6qy4wR6YF2njJ5YihvSdwxp.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e15"
+            },
+            {
+                "season": 5,
+                "episode": 16,
+                "name": "16. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/vpecUkQNTnXTkBT3RvuvLnDE1PA.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt0149460/s5/e16"
+            },
+            {
+                "season": 6,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1eQQk2IKp4MawfEgHL2WnO0aUfo.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e01"
+            },
+            {
+                "season": 6,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/x1oe99NYf7nMr7RGM51GvYeLmgZ.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e02"
+            },
+            {
+                "season": 6,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iStyfvkMZCNspK9cmbULBJs8xsD.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e03"
+            },
+            {
+                "season": 6,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/j5UF44vOMOwWpM9MCcyA1spp0s1.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e04"
+            },
+            {
+                "season": 6,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/pF13CQVyPpKUMBdR980U1zw7BAx.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e05"
+            },
+            {
+                "season": 6,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/qskcBmXTekxCLf34JUibTmAw354.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e06"
+            },
+            {
+                "season": 6,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/yKzbif56rGt8YJoEKOpkaRZlrGp.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e07"
+            },
+            {
+                "season": 6,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rqS7fbOCjUKznOmEWBiaDG7utTj.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e08"
+            },
+            {
+                "season": 6,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/soUcHRUpyGnvNWprRfzfl4vec0o.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e09"
+            },
+            {
+                "season": 6,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ab6dMyjHG1IB8v9BQVKQ292oxde.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e10"
+            },
+            {
+                "season": 6,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/dNurwgKsDrgQVDdilK2AiI4YOLi.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e11"
+            },
+            {
+                "season": 6,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/57V5tTbKy2M9fdk5sOV62tItk2C.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e12"
+            },
+            {
+                "season": 6,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ioOBxMx9PW7Gd1Lc8KOGPSvSLU4.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e13"
+            },
+            {
+                "season": 6,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/voXsXBBb0xu83goDnpMaSDTCqjs.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e14"
+            },
+            {
+                "season": 6,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/xDLALYAH3j01BbpV24J1kRJ0hv1.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e15"
+            },
+            {
+                "season": 6,
+                "episode": 16,
+                "name": "16. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gFMoRbLwtnXIRYyydFjrALkWHa5.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s6/e16"
+            },
+            {
+                "season": 7,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/q7GZDhQJlSasRFEb1VI4ZAxdY4i.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e01"
+            },
+            {
+                "season": 7,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/qgPkyaqbqUAqCROoFKWPVgkwKXw.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e02"
+            },
+            {
+                "season": 7,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jkGMn5lHmAs5DMQYZlSZ42WMQIn.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e03"
+            },
+            {
+                "season": 7,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ojSg3CG0Au7HaDacxUvPswqcQFB.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e04"
+            },
+            {
+                "season": 7,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/YJmkCI0tLtvotVUA73TzAamiyY.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e05"
+            },
+            {
+                "season": 7,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mTz8hA5KxlqUcdKiLry79HvAdod.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e06"
+            },
+            {
+                "season": 7,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6LDycnPEbABBuW5jOqwgqghUpT7.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e07"
+            },
+            {
+                "season": 7,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fmke7U1oazplEGw1wdeNua5QUx7.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e08"
+            },
+            {
+                "season": 7,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/o2DQe9QvSs2Smpjhc6TO6fwhPDX.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e09"
+            },
+            {
+                "season": 7,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/vwW9qD1mY8iQJsOqYyPcvUCGALl.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e10"
+            },
+            {
+                "season": 7,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mxDU3SII2sdx81jgxuYnHAaTw4H.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e11"
+            },
+            {
+                "season": 7,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iGGRo41txMttWLGdN479bmKXLKU.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e12"
+            },
+            {
+                "season": 7,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rkhxkgoLjNAikGMk5qlrd3RXzOg.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt0149460/s7/e13"
+            },
+            {
+                "season": 8,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/s3YVyUt8SInaEAnNa8fYV0rWJop.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e01"
+            },
+            {
+                "season": 8,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/pSjcaB0hcVKSFvOwkTbgaYDEgbW.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e02"
+            },
+            {
+                "season": 8,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5tr9m2MZQavA8nmzwPVyDK1DGEZ.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e03"
+            },
+            {
+                "season": 8,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/8ptBm3N0yHZGBo07EKzfkqivHtN.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e04"
+            },
+            {
+                "season": 8,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eA2rsWBqVNNbADLo0DxWmx311NO.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e05"
+            },
+            {
+                "season": 8,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/y7jQsMXPgouBsfTL6yQDouWhwNo.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e06"
+            },
+            {
+                "season": 8,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/uMEn0pihJrYdSGukejV7MS743GU.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e07"
+            },
+            {
+                "season": 8,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aVzZrjSpNTHkI0hDBzsarJn6wpV.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e08"
+            },
+            {
+                "season": 8,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/viAOi4RsqfpcmEcmOyiPPeTMUjw.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e09"
+            },
+            {
+                "season": 8,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ocxxkIYyGed5WyHe46onNk3Jntj.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt0149460/s8/e10"
+            },
+            {
+                "season": 9,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fCXX7n0MRqwXd1jTOekzhZsbCsy.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e01"
+            },
+            {
+                "season": 9,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gUyR5whYSSHJPMUhLccffVE91f8.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e02"
+            },
+            {
+                "season": 9,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6egDa0rWmYGL5HajYAYli5EwwBP.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e03"
+            },
+            {
+                "season": 9,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/pioIkZv11ybjFeEQefs2epY1MOq.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e04"
+            },
+            {
+                "season": 9,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/k62Zjm2GLdTZpGG9rWcq7w8fYRh.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e05"
+            },
+            {
+                "season": 9,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/sNOL224DqwaIiucgfpmwNjCRCEl.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e06"
+            },
+            {
+                "season": 9,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3aT5GpJ9Gg4Bb6qNupTR52oDweC.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e07"
+            },
+            {
+                "season": 9,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6cwghRGSMxYvkwyfLe8kO7h8Mpg.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e08"
+            },
+            {
+                "season": 9,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/a5lzpcAFYBoJCzyUFHfKSkVu1oP.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e09"
+            },
+            {
+                "season": 9,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iA7A9PBQmDkSBRoYWMBNIrYD6TL.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt0149460/s9/e10"
+            },
+            {
+                "season": 10,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kPlIscLP2uC2j15wvqGlWejHleH.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e01"
+            },
+            {
+                "season": 10,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/xbGH5pwMgIObQkFjvr9hEkSR457.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e02"
+            },
+            {
+                "season": 10,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/7CLXQETkxwMPTGiBkvDGTXoWGwA.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e03"
+            },
+            {
+                "season": 10,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/lftBVAllLGc5yZM1ADUgvOEY56p.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e04"
+            },
+            {
+                "season": 10,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ylBdSgjFtNbchpzLqKY5Xq6FKNJ.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e05"
+            },
+            {
+                "season": 10,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/c5tEiYIDnJ4ycxPk3Cvl0DROBXL.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e06"
+            },
+            {
+                "season": 10,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/p2AbNYyh91kWjvXBGnoM0eXFb7w.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e07"
+            },
+            {
+                "season": 10,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/A5nkxv053aZK4XXCPBYWAuEWxDK.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e08"
+            },
+            {
+                "season": 10,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/idk2bDiqFVcUXonTXSQhsTJmJPL.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e09"
+            },
+            {
+                "season": 10,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9nziPa2ybekovNBH2XHro2ucnoG.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt0149460/s10/e10"
+            }
+        ],
+        "update_date": "2026-02-14 11:19:56"
+    }
+]

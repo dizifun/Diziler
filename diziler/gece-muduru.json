@@ -15,7 +15,9 @@
     ],
     "categories": [
         "Tümü",
-        "Amazon"
+        "Amazon Prime",
+        "Kanopy",
+        "BBC One"
     ],
     "cast": [
         {
@@ -59,14 +61,14 @@
             "image": "https://image.tmdb.org/t/p/w200/t4jKbvmXSjMBnZZjNZEr3P46q6s.jpg"
         },
         {
-            "name": "Alberto Ammann",
-            "role": "Alejandro Gualteros",
-            "image": "https://image.tmdb.org/t/p/w200/aAKmbGgoE8YLds2sLvpezczeiMY.jpg"
-        },
-        {
             "name": "Diego Santos",
             "role": "Martín Álvarez",
             "image": ""
+        },
+        {
+            "name": "Slavko Sobin",
+            "role": "Viktor",
+            "image": "https://image.tmdb.org/t/p/w200/rynYUXrsjQ8fjVo7H82VP49qrGt.jpg"
         }
     ],
     "episodes": [
@@ -161,5 +163,5 @@
             "link": "https://vidmody.com/vs/tt1399664/s2/e04"
         }
     ],
-    "update_date": "2026-02-14 05:17:01"
+    "update_date": "2026-02-15 02:26:58"
 }

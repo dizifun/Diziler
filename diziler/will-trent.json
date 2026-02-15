@@ -2,25 +2,445 @@
     "id": 208569,
     "imdb_id": "tt17543592",
     "name": "Will Trent",
+    "original_name": "Will Trent",
+    "overview": "Georgia Soruşturma Bürosu'ndan (GBI) Özel Ajan Will Trent doğduğunda terk edilmiş ve Atlanta'nın bunalmış koruyucu aile sisteminde zorlu bir ergenlik dönemi geçirmiştir. Ancak şimdi, kimsenin kendisi gibi terk edilmediğinden emin olmak için benzersiz bakış açısını kullanmaya kararlı olan Will Trent, GBI'daki en yüksek tasfiye oranına sahiptir.",
     "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/imdWToan0MpzCUZfw2nTrjI25dE.jpg",
     "year": "2023",
+    "rating": 7.4,
     "genres": [
         "Suç",
         "Dram",
         "Komedi"
     ],
+    "categories": [
+        "Tümü",
+        "Hulu",
+        "fuboTV",
+        "ABC",
+        "Disney+",
+        "YouTube TV"
+    ],
     "cast": [
-        "Ramón Rodríguez",
-        "Erika Christensen",
-        "Iantha Richardson",
-        "Jake McLaughlin",
-        "Sonja Sohn"
+        {
+            "name": "Ramón Rodríguez",
+            "role": "Will Trent",
+            "image": "https://image.tmdb.org/t/p/w200/1gobmVevxCWVhV7s6J2B0oWPDZj.jpg"
+        },
+        {
+            "name": "Erika Christensen",
+            "role": "Angie Polaski",
+            "image": "https://image.tmdb.org/t/p/w200/2QQJgrGVe3Fr8x7y50dBpN2g9lS.jpg"
+        },
+        {
+            "name": "Iantha Richardson",
+            "role": "Faith Mitchell",
+            "image": "https://image.tmdb.org/t/p/w200/nI4x1PDMH1iJ3hR2POpI2WvVwgZ.jpg"
+        },
+        {
+            "name": "Jake McLaughlin",
+            "role": "Michael Ormewood",
+            "image": "https://image.tmdb.org/t/p/w200/14ZiT9mSr50N2sNXbzEthiiyVH9.jpg"
+        },
+        {
+            "name": "Sonja Sohn",
+            "role": "Amanda Wagner",
+            "image": "https://image.tmdb.org/t/p/w200/8zjUsesMnQSOJtXmFl9O37ZYdQ5.jpg"
+        },
+        {
+            "name": "Kevin Daniels",
+            "role": "Franklin Wilks",
+            "image": "https://image.tmdb.org/t/p/w200/poBtBxOZ4VxNox0I3Fd5nysviNg.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Pilot",
+            "overview": "Bir cinayet soruşturması, hikâyede göründüğünden daha fazlası olduğunu ortaya çıkardığında, Özel Ajan Will Trent gerçeği ortaya çıkarmak için keskin içgüdülerine ve eşsiz deneyimine güvenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v2fvaiSeVejCtciYjaCldwBZ4bq.jpg",
+            "vote_average": 7.0,
             "link": "https://vidmody.com/vs/tt17543592/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Oldukça Gözlemci Bir Adamım",
+            "overview": "GBI kayıp bir kızla ilgili soruşturmasını sürdürürken, Will şüpheli arama konusunda hayal kırıklığına uğrar; Angie, Ormewood ile yeni bir vakayı takip ederken mevcut ilişkilerini değerlendirmek zorunda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5iczZOCmBmwphl6rTzWKKBB5Exz.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Bir Daha Olmasına İzin Verme",
+            "overview": "Will ve Faith'in küçük bir kasabada işlenen bir cinayetle ilgili soruşturması, faili meçhul bir vakayla ilişkilendirildiğinde büyük sonuçlar doğurur; bir güvenlik görevlisinin ölümü Angie'nin kafasını karıştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bkRXlWIBhUk5IDBt9LjCqsuI5YY.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Aptal Dedektif Beynim",
+            "overview": "İki ölü kurban ve çok az cevap karşısında Will ve GBI, APD ile birlikte eyalet park polisinden gelen bir çağrıyı araştırır; Will, bazı kişisel sırlarını paylaştıktan sonra Faith ile ortaklığında ilerleme kaydeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4orG6eEy9HUs7p729XTClOUfWat.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Gözcü",
+            "overview": "Yerel bir futbol kahramanının eşi ters giden bir soygunda vurulunca, Will basit gibi görünen bu olayı hızla çözmeye kararlıdır; Angie ve Ormewood ise yerel bir emlakçının cinayetini araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6100vg8A7PmG3GF0liK3aIsMkHf.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Gidip Teneke Folyo Şapkamı Alayım mı?",
+            "overview": "Çifte cinayet, birimin bir yazılım firmasının kapalı kapılar ardındaki faaliyetlerini araştırmak için bir takibin içine sürükler; Angie, kilit bir tanığın davasında ifade vermesini sağlamak için elinden geleni yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jpJcJ3GpUhVpoFRK1BiSoOCgcZA.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Yer Tespiti Yapılamıyor",
+            "overview": "GBI, bir neo-Nazi örgütünün saldırı planladığını keşfettiğinde, masum insanları korumak için davaya öncelik verir; Angie potansiyel olarak hayatını değiştirecek bir senaryoyla yüzleşir ve Ormewood ile yanlış giden bir spor ayakkabı sürümünü araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r9fwQZ8CYdT49dGT8bSJFTodqqH.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "İki Yüz Dolar ve Bir Otobüs Kartı",
+            "overview": "Çok can alıcı bir olay Will'in önüne gelince, Will olayda görünenin ötesinde bir şeyler olduğunu keşfeder; Angie ve Ormewood öldürülen bir sihirbazı araştırırken, sihirbazın bazı ekstra numaralarını da ortaya çıkarırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5rvrMTvadtMCmyEPQXg8OL8owIy.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "İnsan Avı",
+            "overview": "Hüküm giymiş bir suçlu cinayetle suçlandığında, GBI ajanlarından birini rehin alır ve Will ile Ormewood'un masumiyetlerini kanıtlayabilecek bazı kanıtlar keşfetmelerine yol açar; Angie, eski tacizcisinin serbest kaldığını öğrendiğinde ayık kalmak için mücadele eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fqsShUnwLHHgdcWgXbfPpmUVq7l.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Pterodaktiller Uçabilir",
+            "overview": "Bir karavan parkı katliamı genç bir çocuğu ailesiz bırakınca, Will onun geçici vasisi olur; Faith annesi tarafından ziyaret edilir; Angie ise geçmişte yaşadığı olayların etkisinde kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7QCdOVlyfoP7nsUYeur0SianswI.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "Bill Black",
+            "overview": "Will, bir uyuşturucu örgütünü çökertmek ve kayıp bir DEA ajanını bulmak için sorunlu bir geçmişe sahip bir suçlu olan Bill Black olarak gizlenir; Angie ise Will ile olan ilişkisini geride bırakmayı amaçlamaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3oBs9ZkQ3i40yOX0sSjfYIuMP6y.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "Her Şey Dışında Hiçbir Şey Değişmedi",
+            "overview": "Angie izindeyken, Will ve Faith, Will ve Angie'nin çocukluğuyla bağlantılı bir dizi seri katil vakasını ve daha önce Amanda ve Evelyn tarafından araştırılan 80'lerden kalma bir dizi olayları araştırmak için Ormewood ile işbirliği yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iAJ8NqY4DTWG8wprHfZRamEVchF.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e12"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "name": "Kötü Bir Öfke ve Katı Bir Yürek",
+            "overview": "Bir APD ajanı kaybolduğunda, Will olay yerini inceler ve kendisini tekrar adalet yoluna sokan gizli bir mesaj bulur; kökeni sorgulanırken, Will aradığı cevapların en başından beri önünde olduğunu fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jtjBIp9ukpW4ep2O3YQ1wsSjylC.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt17543592/s1/e13"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Me Llamo Will Trent",
+            "overview": "Bir arabaya yerleştirilen bomba Will ve bomba uzmanı Cricket'ın soruşturmasını ateşler ve görünenden daha fazlasını ortaya çıkarır; Angie işe dönmek için mücadele eder; Ormewood'un ev hayatı karmaşıklaşır; Faith, Luke ile ilişkisini geliştirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mEMmQCS66iECTQznlfMHSa6JVCa.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Bu İş İçin Geldim",
+            "overview": "Will hapishanede James'le yüzleşip sırlarını çözerken Faith kendi keşiflerini yapar; Ormewood aile ilişkileri üzerinde çalışır; Angie geçmişinden anıları geri getiren bir anla yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qOSZ1UGOF5MNmcgS38baGl2tHSX.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Anlamanıza Gerek Yok",
+            "overview": "Birkaç sivilin ölmesi ve bir kadının kaybolması üzerine Will ve Faith, meclis üyesinin kurdele kesme töreni öncesinde şüpheli bir papazı sorgular; Angie ise bir sauna cinayetini araştırmak üzere Ormewood'a katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cVRoXI2Mt1itkP7A9wjlUYOJXIl.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Bir İnsanı Kelepçelemek Daha Kolay",
+            "overview": "Will ve Faith, \"Boo Hag\"in musallat olduğu küçük bir kasabayı araştırır; bir şüpheli hemen varsayılır ancak geçmişle bağlantılar beklenmedik sürprizleri ortaya çıkarır; Ormewood bir TV yıldızının cinayetini araştırır; Amanda yaklaşan tehlikeyi hisseder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bArbEANPQJXvgoTdaIpCCJ0LnNX.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Yüzbaşı Duke Wagner'in Kızı",
+            "overview": "Amanda'ya yönelik tehditler arttıkça Will soruşturmayı derinleştirir ve olası şüphelilerin listesini daraltır; Amanda geçmişindeki anılarla yüzleşmek zorunda kalır; Ormewood, Gina'nın yokluğunda zor günler geçirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/tTD3puwAC42BhTbuneZkbWFfS77.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Biz Bir Aileyiz",
+            "overview": "Will, uzun süredir kayıp olan bir akrabasıyla yeniden bir araya gelir, beklenmedik ve derinden benzerlikleri keşfeder; GBI ve APD bir yargıcın cinayetini araştırır; Faith'in Luke ile olan bağı derinleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lOPtQT3mNAgrAbH8BZN37kOBtOz.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Hiç Düğüne Gitmediniz mi?",
+            "overview": "Will, Faith'e ve Faith'in oğluna bir düğünde eşlik eder. Düğün, mekanın bodrumunda bir ceset ve bir grup silahlı adamın bulunmasıyla kutlamadan çok uzak bir hal alır. Angie ve Ormewood, Crystal'ın işteki davranışlarına karşı temkinli davranmaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rkFJI4N3nEArzHuYmskMkyp9cNF.jpg",
+            "vote_average": 7.1,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Jack'in Kolu Neden Kanıyor?",
+            "overview": "Kayıp bir kızın cesedini 13 yıl sonra bulan Will ve Faith davayı yeniden açar ve Will gerçeği ortaya çıkarırken sık sık geçmişe döner; Angie ve Ormewood bir gazinin ölümünü araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xhnTynOdw85BcvBFWDinH7WUvwa.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Residente O Visitante",
+            "overview": "Will, ölmüş annesiyle olan bağını derinleştirmek için Porto Riko'da Antonio'ya katılır; dönüşünde, amcasının eski arkadaşıyla ilgili bir davaya hızla dahil edilir; Faith ve Ormewood bir seks suçlusunun gizemli ölümünü araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v2od7QyXF3mVJ8beiTx9x1jCq3p.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "İmgeyi Görüyor Musun?",
+            "overview": "Will, Faith ve Angie kendilerini, benzer bir işaretin birkaç cinsel suçlunun cinayetlerini birbirine bağladığı bir dizi davanın içinde bulur; Angie, Amanda'dan gelen beklenmedik bir teklifle cebelleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i6F6kirnPqWjtYT2lX5AXJUtRPq.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt17543592/s2/e10"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/bF50QM1xhn8lZALprKucx42ym8i.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/hz42iYoZhdcEFOUs1dZHeqvw76J.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/73AKtfdt06bfKy6zyB3zuoXs67a.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/pbokrrMT3jyKtLtFUrVO2KzqLAY.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/95n55rNMf9wK8i41Hlmqj9hUwRV.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/iYnFOiQAE7rzy5SHChE3sqDFYug.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/uqurR9M941wVupRdV1B6SvBCnff.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/LKinyUNnlt9FRBUoDqJS7vv72J.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/fSLRtZNcXzzPkeuXQyhX0wyfCHJ.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/2jC71CAUgokHT43tCgeJGHR4c2e.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e10"
+        },
+        {
+            "season": 3,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/bQ52OtaId543KseMeoSVQZC9Oag.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e11"
+        },
+        {
+            "season": 3,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/6FYUqN0FKaJJuhuN0wmrNaBfVGU.jpg",
+            "vote_average": 6.9,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e12"
+        },
+        {
+            "season": 3,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/iE02FrsmVry9VPtq7TaqgtzFDIC.jpg",
+            "vote_average": 7.6,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e13"
+        },
+        {
+            "season": 3,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/t8Z9wZ8crXlVmPs7aIijAZSoAyo.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e14"
+        },
+        {
+            "season": 3,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/rj2c5zk2UV66IUlfkjWxHxDTXqi.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e15"
+        },
+        {
+            "season": 3,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/1SMw7yMIWyF4SbxHenTjhWRYGHc.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e16"
+        },
+        {
+            "season": 3,
+            "episode": 17,
+            "name": "17. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/pKhbvuz3ikBRq3qEOlmk0BqNek6.jpg",
+            "vote_average": 7.4,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e17"
+        },
+        {
+            "season": 3,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/zRnT8gXjTMWpBqLqQOFy4AoNRtk.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt17543592/s3/e18"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/ndXBdb6a7b1Cq7TpTeqocqSkAXp.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt17543592/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/4YXARvuFqoXb571hPowGJqQorp2.jpg",
+            "vote_average": 3.0,
+            "link": "https://vidmody.com/vs/tt17543592/s4/e02"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 05:16:42"
 }

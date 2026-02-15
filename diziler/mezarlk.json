@@ -2,25 +2,174 @@
     "id": 204255,
     "imdb_id": "tt16420408",
     "name": "Mezarlık",
+    "original_name": "Mezarlık",
+    "overview": "Kadın cinayetlerini araştırmak için emniyet bünyesinde yeni kurulan birimin başına Önem başkomiser getirilir ve ekip katillerle amansız bir mücadeleye başlar.",
     "poster": "https://image.tmdb.org/t/p/w500/p22xaH2ZpxhdJa1ZFF528Yk7AWc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/g9Qn9LBk9fKKgxHtPFqkKnglsm8.jpg",
     "year": "2022",
+    "rating": 6.9,
     "genres": [
         "Suç",
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Yerli",
+        "Netflix"
+    ],
     "cast": [
-        "Birce Akalay",
-        "Yerman Gur",
-        "Katie Anne Moy",
-        "Eylem Yıldız",
-        "Aybars Kuday"
+        {
+            "name": "Birce Akalay",
+            "role": "Başkomiser Önem Özülkü",
+            "image": "https://image.tmdb.org/t/p/w200/nCT33wbP9uRyS8m5nBLfmmz0CI4.jpg"
+        },
+        {
+            "name": "Yerman Gur",
+            "role": "Serdar Ata",
+            "image": "https://image.tmdb.org/t/p/w200/bqS48ALCMYIbM935ux5ocMX31cG.jpg"
+        },
+        {
+            "name": "Katie Anne Moy",
+            "role": "Actress",
+            "image": "https://image.tmdb.org/t/p/w200/qJO5L6HLZCRjniCaphm3F7Q7ot9.jpg"
+        },
+        {
+            "name": "Eylem Yıldız",
+            "role": "Didem",
+            "image": "https://image.tmdb.org/t/p/w200/tiVHoqLDW18cDr0e47fzU1k4a8l.jpg"
+        },
+        {
+            "name": "Aybars Kuday",
+            "role": "Yalcin Gurgen",
+            "image": "https://image.tmdb.org/t/p/w200/4fKDKTzqLudWqIGUfTRqxOtE9ii.jpg"
+        },
+        {
+            "name": "Adem Yilmaz",
+            "role": "Dogan Rauf",
+            "image": "https://image.tmdb.org/t/p/w200/d3zUFhkNpz3OZN314qGRvXFIq6A.jpg"
+        },
+        {
+            "name": "Halim Ercan",
+            "role": "Mehmet",
+            "image": "https://image.tmdb.org/t/p/w200/wCnx1UD562SguA11itXxTxL3Gcq.jpg"
+        },
+        {
+            "name": "Arbil Tabur",
+            "role": "Selin Korkmaz",
+            "image": ""
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Güneşten Daha Sıcak",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/hR4ewJSR2mrxVQqkwJmlZqsdeZ5.jpg",
+            "vote_average": 6.3,
             "link": "https://vidmody.com/vs/tt16420408/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Bir Nefes Kadar Yakın",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/iGZyAobVJVmSKLRDYl2s3SdF7H1.jpg",
+            "vote_average": 9.5,
+            "link": "https://vidmody.com/vs/tt16420408/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Göldeki Kadın",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/lebFDHnri801bmRoQIpApgbw7eR.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt16420408/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Düğüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/hoe65WbMEYq28SYx1J7o4NElR25.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt16420408/s1/e04"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Dilsiz Şeytan Bölüm 1",
+            "overview": "Hamile bir kadın evinde ölü bulununca lüks bir bahçe partisi yarıda kesilir. Bunun bir intihar olayı olduğu düşünülse de Önem, işin aslının öyle olmadığını bilmektedir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rz6KoE25FnyCqgeOAIfMDt9CJGr.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt16420408/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Dilsiz Şeytan Bölüm 2",
+            "overview": "Mezarlık ekibi, Yasemin’in bebeğinin babasını aramaya devam ederken onun dizüstü bilgisayarında buldukları kurgusal ama tanıdık gelen hikâyeden yararlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eOZSYZ666cTr5nNATJh8TEYdgZ8.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt16420408/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Belladonna Bölüm 1",
+            "overview": "Kronik bir hastalığı olan kızın ailesinin çıkardığı arbedede bir doktor bıçaklanır. Fakat cinayetin bir görgü tanığı vardır ve bu öyle kolayca açıklanabilecek bir vaka değildir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6MBpUXFFQxZ5M29mKMkYsBSUHQq.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt16420408/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Belladonna Bölüm 2",
+            "overview": "Ekip, Aycan’ın hastanesinden kaybolan test sonuçlarıyla, başında kibirli bir ruhani liderin olduğu yakınlardaki bir holistik terapi merkezi arasında bir bağlantı olduğunu keşfeder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/u5XSnYaczUMppkqYqD8JXfcq4Ut.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt16420408/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Hayırsız Ada Bölüm 1",
+            "overview": "İçinde ölen bir kadına ait bacağın bulunduğu gizemli buzluk Mezarlık ekibine ulaşınca Önem ve takımı, kadının cesedini ve katilini aramaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l6h0oyjGhVZSR9kaqA0XtZRfg8N.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt16420408/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Hayırsız Ada Bölüm 2",
+            "overview": "Aktrisin parçalanmış cesedi sonunda bulununca şüpheliler listesine, kaçık bir hayran ve kıskanç bir sevgili eklenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5Viq0mMMpWKeq7HtTusnhT1NDVH.jpg",
+            "vote_average": 4.0,
+            "link": "https://vidmody.com/vs/tt16420408/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Nostos Algos Bölüm 1",
+            "overview": "Polis memuru Hasan, oğluyla yeniden yakınlık kurmaya başlar ama adalet bilinci ile aile bağları arasındaki dengeyi korumakta zorlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yCvXTDDM6FjnpOjMCYZ1uBSQap4.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt16420408/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Nostos Algos Bölüm 2",
+            "overview": "Seher'in öldürüldüğü gece Bülent’in nerede olduğuna dair yeni bilgilerin ortaya çıkması tüm şüpheleri boşa çıkarır ama gerçek yine de gün yüzüne çıkacaktır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/B6XrQp4gKmgyXywJcr2j9HvnXH.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt16420408/s2/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 04:35:26"
 }

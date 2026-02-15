@@ -1,0 +1,191 @@
+[
+    {
+        "id": 110492,
+        "imdb_id": "tt13146488",
+        "name": "Peacemaker",
+        "original_name": "Peacemaker",
+        "overview": "Peacemaker, Bloodsport ile yaşadığı karşılaşmanın ardından evine döner ancak özgürlüğünün bir bedeli olduğunu keşfeder.",
+        "poster": "https://image.tmdb.org/t/p/w500/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",
+        "year": "2022",
+        "rating": 8.2,
+        "genres": [
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "TNT",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "John Cena",
+                "role": "Christopher 'Chris' Smith / Peacemaker",
+                "image": "https://image.tmdb.org/t/p/w200/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+            },
+            {
+                "name": "Danielle Brooks",
+                "role": "Leota Adebayo",
+                "image": "https://image.tmdb.org/t/p/w200/pPSG2Vmq24cwAL5XGK1NLs3KEoZ.jpg"
+            },
+            {
+                "name": "Freddie Stroma",
+                "role": "Adrian Chase / Vigilante",
+                "image": "https://image.tmdb.org/t/p/w200/wZ8nqxyGvybdInXLBfQIjg2es5Z.jpg"
+            },
+            {
+                "name": "Jennifer Holland",
+                "role": "Emilia Harcourt",
+                "image": "https://image.tmdb.org/t/p/w200/ynuKq1Pd6aVGwhb07uJ0PiYV4F6.jpg"
+            },
+            {
+                "name": "Steve Agee",
+                "role": "John Economos",
+                "image": "https://image.tmdb.org/t/p/w200/sbMpatWydjTl2cTcDXFMTgCkEBO.jpg"
+            },
+            {
+                "name": "Frank Grillo",
+                "role": "Rick Flag Sr.",
+                "image": "https://image.tmdb.org/t/p/w200/kuEco4vo1xrsM8DyrNSZUEi593P.jpg"
+            },
+            {
+                "name": "Robert Patrick",
+                "role": "August 'Auggie' Smith / Blue Dragon",
+                "image": "https://image.tmdb.org/t/p/w200/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Yepyeni Bir Kaçış",
+                "overview": "Mucizevi bir şekilde iyileşen Peacemaker, evine döndüğünde özgürlüğünün bir bedeli olduğunu öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/538eLa2f3FoSwNNzHpHi0J1ZXl6.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt13146488/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Asla Kanka Değiliz",
+                "overview": "Peacemaker'ın tehlikeli kaçışından sonra, ekip içinde gerginlik artar. Peacemaker yeni göreviyle boğuşurken, sürpriz bir ziyaretçisi gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dUAS7fZqjdPcfYnLnxCm40U0LUa.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt13146488/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Goff Ölse de Kurtulsak",
+                "overview": "İlk resmi görevlerinde şüpheli \"kelebekleri\" öldürmek için Economos ve Murn bağ kurar ve Peacemaker ile Harcourt bir anlaşmaya varır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wyZXot4qqZEOCOOB3Vrv5F4KXRR.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt13146488/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Az Seçilen Yol",
+                "overview": "Murn, Vigilante'yi ekibe dahil eder. Peacemaker, babasının hapse gönderilmesine tepki gösterip geçmişiyle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b0jdRtuGm7blKJZamhU30Z1XlP5.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt13146488/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Maymun Dory",
+                "overview": "Ekip, uzaylıların gıda kaynağı olduğu düşünülen merkezi keşfe çıkar, ancak tam ölçekli bir istilayla karşı karşıya kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hUAnjCnWPn7SulqtNTe7xJhv38A.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt13146488/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Aramızda Murn Var",
+                "overview": "Murn en büyük sırrını açıklar; Peacemaker’ın başarısız tutuklanma girişimi, uzaylı Goff’un beklenmedik bir bedene geçmesine yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4IIMkGmzSsC02fjfqiFRQp7ySAM.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt13146488/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Kalbimi Derbejder Etmeyi Kes",
+                "overview": "Harcourt, Murn ve Adebayo, bir uzaylı gücünün kuşatması altında kalır. Bu sırada Peacemaker, Vigilante ve Economos’un yardımıyla babasıyla yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bzdhWTRUb9CFF3tDT4SyBn0QGd.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt13146488/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Ya İnek Ya Da Hiç",
+                "overview": "Peacemaker ve Adebayo arasındaki anlaşmazlığa rağmen ekip, uzaylıların inek adı verilen yaratığı ışınlamadan önce onu durdurmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9oi9FPSEYlDmMvHSQaCmhsDO6PU.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt13146488/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Sarsan Bağlar",
+                "overview": "Peacemaker, Adalet Çetesi'ne katılmaya çalışırken, Harcourt iş bulmak için çabalar. Economos ise yeni ve zor bir görevi üstlenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hoL20ZxHYTyNqzYZw5AAgwhHZPP.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt13146488/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Bir Adam, Kuşu Kadar İyidir",
+                "overview": "Economos yeni temsilciyle kapışır, Peacemaker da alternatif boyutlardaki eylemlerinin sonuçlarıyla yüzleşmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sAqQYYUMaS9FqHNACCQL9LRwsYn.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt13146488/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Kolumda Bir Rick Daha Var",
+                "overview": "Ekibin baştan savma yapmasının faturası Economos'a kesilir. Peacemaker da Harcourt'la diğer boyuttaki ilişkisinin derinliğini keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a8TIhxg98a8BLVOMP8p24c3lFaC.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt13146488/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Kapı Dememe Gerek Var Mı?",
+                "overview": "A.R.G.U.S QUC'u arama çabalarını artırır, Harcourt'a Flag'den cazip bir teklif gelir ama Peacemaker için bedeli ağırdır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6bdIgolsJzPHyJE7RLGeca1YKLn.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt13146488/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Dikişe Geri Dönüş",
+                "overview": "Flag'le felaket bir hesaplaşmanın ardından Peacemaker şok edici bir karar alır. Arkadaşları da 11. Cadde Çocukları'nı bir arada tutmaya çabalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/c8LmcPtTvxqE708zBo1bD8RYqGw.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt13146488/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Bir Daha Asla Klona Dönemezsin",
+                "overview": "11. Cadde Çocukları, A.R.G.U.S ve Flag yaklaşırken alternatif dünyanın gerçeklerini öğrenmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zGwyJ5w7SKznoR336cK3UFldkx1.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt13146488/s2/e07"
+            }
+        ],
+        "update_date": "2026-02-15 01:29:46"
+    }
+]

@@ -1,0 +1,241 @@
+[
+    {
+        "id": 19885,
+        "imdb_id": "tt1475582",
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+        "year": "2010",
+        "rating": 8.5,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "WETA+",
+            "BBC One",
+            "Amazon Prime",
+            "Hoopla",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "AMC+",
+            "BritBox",
+            "Britbox Apple TV Channel",
+            "Philo"
+        ],
+        "cast": [
+            {
+                "name": "Benedict Cumberbatch",
+                "role": "Sherlock Holmes",
+                "image": "https://image.tmdb.org/t/p/w200/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+            },
+            {
+                "name": "Martin Freeman",
+                "role": "John Watson",
+                "image": "https://image.tmdb.org/t/p/w200/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pembe Üzerine Bir Çalışma",
+                "overview": "Pembe giysili kadının intiharı, görünürde birbiriyle alakasız bir dizi intiharın dördüncüsüdür, fakat Sherlock Holmes ölümlerin aslında cinayet olduğunu ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kör Bankacı",
+                "overview": "Watson'ın yeni yaşamı ev arkadaşı Sherlock Holmes sayesinde hiç bir zaman sıradan değildir; hatta Sherlock'un bankaya yapacağı sıra dışı ziyaret doktoru tetikte tutar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Büyük Oyun",
+                "overview": "Sherlock, Londra'daki suçluların kıvrak zekalarından ümitsiz olsa da, sıradan bir dava gibi görünen olayda, bir dahinin iş başında olduğunu keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e03"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Belgravia'da Bir Skandal",
+                "overview": "Bir kraliyet skandalı, Sherlock'u zor bir fikir düellosunun ortasında bırakır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Baskerville'in Köpekleri",
+                "overview": "Sherlock, cehennemden gelen bir av köpeğinin gizemini ortaya çıkarmak için Dartmoor'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vjUsJUsF5RcTRKn2prGHCW9Nxro.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Reichenbach Şelalesi",
+                "overview": "Sherlock, en büyük düşmanı Moriarty ile bir savaşa girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e03"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Boş Tabut",
+                "overview": "Sherlock'un \"ölümü\" üzerinden iki yıl geçmiş, Watson hayatına devam etmiştir. Fakat Londra'ya bir terör saldırısı tehdidi olunca, Sherlock geri dönmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zXsOogQ8BVyvWUR2zgs6NBxkReX.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Üçlerin İmzası",
+                "overview": "Ölümcül bir tehlike Watson'ın düğün törenine gizlice yaklaşırken, Sherlock hayatının en zor görevi ile yüzleşir: Sağdıç konuşması!",
+                "still_path": "https://image.tmdb.org/t/p/w400/ca3ayuzXGpxpALFlcsVsXTQau9G.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Onun Son Yemini",
+                "overview": "Çalınan mektuplarla ilgili bir dava Sherlock Holmes'u şantaj ustası olan Charles Augustus Magnussen ile karşı karşıya getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e03"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Altı Thatcher",
+                "overview": "Scotland Yard, kabineden bir bakanın oğlunun ve eski başbakan Margaret Thatcher'ın parçalanmış heykellerinin karıştığı ilginç bir vaka ile Sherlock'a gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Yalancı Dedektif",
+                "overview": "Watson şoke edici bir trajediyle boğuşur. Bu sırada Sherlock bugüne kadarki en kurnaz düşmanı olan, karanlık bir sırra sahip zengin bir hayırsever ile karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/krz3V8MLoVKjMwCuAG2xxnx49TO.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Son Problem",
+                "overview": "Karanlık bir aile sırrı, Sherlock'un varlığından haberdar olmadığı bastırılmış anılarını açığa çıkararak onu ölümcül bir son oyuna çeker. Dirilen düşmanı karşısındadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/52CguxQAPg6JLDuIOT76EsWf2a8.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e03"
+            }
+        ],
+        "update_date": "2026-02-15 03:11:58"
+    },
+    {
+        "id": 100771,
+        "imdb_id": "tt10394844",
+        "name": "Soulmates",
+        "original_name": "Soulmates",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/g2mvINQCGACb9sswdKXh1KwpwzB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/7bpQnv93kbYhbhzmJnEjbE8aMof.jpg",
+        "year": "2020",
+        "rating": 6.0,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Hoopla",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "Netflix Standard with Ads",
+            "AMC+",
+            "AMC",
+            "Netflix",
+            "Philo"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eORILaLSGKaAxWCQKUb8dxeTuCm.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kkEVadfsqUTwZZqglRZq9eEwEci.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iv3w2ak7WeUQTcYKrfZVW5rG22Y.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg",
+                "vote_average": 4.9,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-14 22:21:59"
+    }
+]

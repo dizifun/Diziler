@@ -2,24 +2,310 @@
     "id": 217211,
     "imdb_id": "tt16288838",
     "name": "The Irrational",
+    "original_name": "The Irrational",
+    "overview": "",
     "poster": "https://image.tmdb.org/t/p/w500/jJtOpfgV4iPu9RtxllHwZgn9dqI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/w8vJB83ekK6bC0GXqync3sh8IWm.jpg",
     "year": "2023",
+    "rating": 6.6,
     "genres": [
         "Suç",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "TOD TV",
+        "NBC"
+    ],
     "cast": [
-        "Jesse L. Martin",
-        "Maahra Hill",
-        "Travina Springer",
-        "Molly Kunz",
-        "Arash DeMaxi"
+        {
+            "name": "Jesse L. Martin",
+            "role": "Alec Mercer",
+            "image": "https://image.tmdb.org/t/p/w200/enyC1P8DQThh1huqFQlVfdRuji1.jpg"
+        },
+        {
+            "name": "Maahra Hill",
+            "role": "Marisa Clark",
+            "image": "https://image.tmdb.org/t/p/w200/6dwzBuEOuxGmH50KiU2smbE8EwY.jpg"
+        },
+        {
+            "name": "Travina Springer",
+            "role": "Kylie Mercer",
+            "image": "https://image.tmdb.org/t/p/w200/gGnBcVztQauw5a9UzAB21TTinlR.jpg"
+        },
+        {
+            "name": "Molly Kunz",
+            "role": "Phoebe Duncan",
+            "image": "https://image.tmdb.org/t/p/w200/rChSqdByPn0lvR1dFIZeQGyYNIM.jpg"
+        },
+        {
+            "name": "Arash DeMaxi",
+            "role": "Rizwan Asadi",
+            "image": "https://image.tmdb.org/t/p/w200/zpL0uwa96mPARbEBREUc9iQcDsA.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/bB8x9solwoMnsZayLM6iz4iiGG9.jpg",
+            "vote_average": 7.2,
             "link": "https://vidmody.com/vs/tt16288838/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/fxxae5GLbVvOglBPZDbK3UDavwi.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/oRhzLQIXCjX46MkfDKWUUPJV8nr.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/gPt431A5nRZtavsAx26cAaHQusZ.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/rnDgv1H54mMn7UcTWjUkAR1g4Ll.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/ie6ZyV7TYQylCAjI35vBZ9jkofd.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/4eAlh90UdRq5CRRexlxh9E6qQWl.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/vD7lXmHfHkRyLyj5uQSbTg9IW3H.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/cClm91EeeJihlF3gACdFfTSJOJU.jpg",
+            "vote_average": 6.8,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/NjrGZI32ZV4kdXuuCOUBJb9WmK.jpg",
+            "vote_average": 7.2,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/e3x5wrFWPkCNNB1iYQMUYz4Iv44.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt16288838/s1/e11"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/d6Hn0dzLN9RLqEKqnTZ5lJ9waAa.jpg",
+            "vote_average": 4.6,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/oAHR2xbQg0N6IJDPC9zU5Fv28hi.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/8ru1HoUIo9WMOJcoL0wRiaJ6Tka.jpg",
+            "vote_average": 4.5,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/dJOfDm3FRMUIdvlO9D7vmVyWRbd.jpg",
+            "vote_average": 4.5,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/qWSucqWmDS0z2VWBUdsZToGG6SD.jpg",
+            "vote_average": 2.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/c6wf2zAb6jFflLAdeEl5nK3yQ4.jpg",
+            "vote_average": 1.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/jGRtZ4D0oNCTInq88XmA8BHzvD7.jpg",
+            "vote_average": 1.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/ylAYaHsDszqP8bZ6hE9lVDIaXLC.jpg",
+            "vote_average": 3.3,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/xyLHFdDauotU5jlaHymHCdggKSQ.jpg",
+            "vote_average": 1.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/2D0n2V3KCD6GHDK3Bgmy8016DVh.jpg",
+            "vote_average": 3.3,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e10"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/awnmK46ASyT565Miq7JVXeT3OLI.jpg",
+            "vote_average": 3.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e11"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/cqf9LaIkXStDe0Q5AsfQ2KDs2eY.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e12"
+        },
+        {
+            "season": 2,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/yaBCKJiV0RKTlmIacaJJDg3kYR8.jpg",
+            "vote_average": 3.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e13"
+        },
+        {
+            "season": 2,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/buFLsTwezzpqWQLarvMWF6CaW7X.jpg",
+            "vote_average": 4.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e14"
+        },
+        {
+            "season": 2,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/hEFrWXT6vIBsioxcBiVqr78bMZP.jpg",
+            "vote_average": 3.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e15"
+        },
+        {
+            "season": 2,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/pX8fYBVKB9ejJsKwH97O5617bxJ.jpg",
+            "vote_average": 4.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e16"
+        },
+        {
+            "season": 2,
+            "episode": 17,
+            "name": "17. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/lpsEEfSEd13bg1nCjnIakwYWREA.jpg",
+            "vote_average": 3.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e17"
+        },
+        {
+            "season": 2,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/gr7ZnGyOf4V3cm58jdDDaKIzVeC.jpg",
+            "vote_average": 3.0,
+            "link": "https://vidmody.com/vs/tt16288838/s2/e18"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 04:29:10"
 }

@@ -1,0 +1,752 @@
+[
+    {
+        "id": 157741,
+        "imdb_id": "tt14186672",
+        "name": "Landman",
+        "original_name": "Landman",
+        "overview": "Batı Teksas'ın petrol kuleleri dünyasında servet arayışının modern bir hikayesi. Doğanın sınırlarını zorlayan bu dünyada, zenginlik ve güç peşinde verilen mücadele hem kişisel hem de ahlaki bir sınav haline geliyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+        "year": "2024",
+        "rating": 8.0,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "TV+",
+            "Paramount Plus Essential",
+            "Paramount+ Roku Premium Channel",
+            "Netflix",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Billy Bob Thornton",
+                "role": "Tommy Norris",
+                "image": "https://image.tmdb.org/t/p/w200/i5EKWHuXokznIDMy2prTXzRmklI.jpg"
+            },
+            {
+                "name": "Demi Moore",
+                "role": "Cami Miller",
+                "image": "https://image.tmdb.org/t/p/w200/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+            },
+            {
+                "name": "Andy Garcia",
+                "role": "Gallino",
+                "image": "https://image.tmdb.org/t/p/w200/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+            },
+            {
+                "name": "Ali Larter",
+                "role": "Angela Norris",
+                "image": "https://image.tmdb.org/t/p/w200/2HOlaSd30yBCrr366GfPG2PF6D8.jpg"
+            },
+            {
+                "name": "Jacob Lofland",
+                "role": "Cooper Norris",
+                "image": "https://image.tmdb.org/t/p/w200/jU1eW9oOTC4ILfLNFeNUC7Fa5ya.jpg"
+            },
+            {
+                "name": "Michelle Randolph",
+                "role": "Ainsley Norris",
+                "image": "https://image.tmdb.org/t/p/w200/5W3DB2THOjE4L4Hhc68CzcQiwuK.jpg"
+            },
+            {
+                "name": "Paulina Chávez",
+                "role": "Ariana Medina",
+                "image": "https://image.tmdb.org/t/p/w200/tKF77iTnLu3HwTFKJRAYmoiVcFL.jpg"
+            },
+            {
+                "name": "Kayla Wallace",
+                "role": "Rebecca Falcone",
+                "image": "https://image.tmdb.org/t/p/w200/ePl7sXtyWIQsWsylyQBTxYsouKF.jpg"
+            },
+            {
+                "name": "Mark Collie",
+                "role": "Sheriff Walt Joeberg",
+                "image": "https://image.tmdb.org/t/p/w200/52rYCRzJ2bhQMqfvLDvfV23UzdL.jpg"
+            },
+            {
+                "name": "James Jordan",
+                "role": "Dale Bradley",
+                "image": "https://image.tmdb.org/t/p/w200/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "LANDMAN, petrol dünyasında servet peşinde koşan bir modern zaman hikâyesidir. Teksas'ın kalbinde zor durumdaki bir yönetici olan Tommy Norris, yakıt patlaması sırasında şirketini zirveye taşımaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qc8w4HacpHfaEWlqXUEg3Yi9VRx.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Tommy, petrol sahasında yaşanan bir trajedinin sonuçlarıyla uğraşır. Ainsley'nin petrol evine taşınmasıyla dinamikler bozulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wpUBXa1BXxJBEhZb5PVivaZjdcB.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Cooper petrol sahasında bir etki yaratır. Eski karısı Angela'nın kasabaya gelmesiyle Tommy için işler karışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pQwZ7X5RO4KUJRkq6OTbXnk03SU.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Sarsıcı bir ilk izlenimin ardından Rebecca, Tommy'yi savunmaya geçer. Cooper beklenmedik bir telefon alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1pYRB0KByeTVGLtCEmYoXDIHmzg.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Tommy ve ekibi tarlada istenmeyen bir ziyaretle karşılaşır. Angela petrol evinde aile yemeğine ev sahipliği yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ffO8Wgjb34vQMUdLt5gSjOXUDW3.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Angela, Victor'u ziyarete gittiğinde hazırlıksız yakalanır. Norris ailesi, Cooper'ın zor zamanlarında onun yanında yer alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/erWJ12DOjPEOCMEWBN20ITcxOUz.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Tommy'nin kartel sorunu büyümeye devam ediyor. Angela ve Ainsley topluluklarını tanımaya başlıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pwiyqyrdeorso3pyygV8S85bKuz.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Tommy Ulusal Muhafızlara bağlanır. Rebecca, Cooper'dan giderek daha fazla şüphelenmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qPMvbqTdaXSGlWuDAku4FES0ZK6.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Bir sağlık sorunu yaşayan Monty, Tommy'yi zor bir duruma sokar. Cooper bir plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e49HHIF6l89zJKaA7ce3VOtrYG2.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Tommy ve Cami kumar mı oynayacaklarını yoksa güvenli mi oynayacaklarını tartışırlar. Kartel bir hamle yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/z8fQOBRAPGw930PwgpN6zdMFMnf.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt14186672/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Ölüm ve Gün Batımı",
+                "overview": "Tommy gergin bir ortamda ilerlerken Cami kontrolü ele geçiriyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iLKi6iXGMjb1LMUgHjzLSn5asx2.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt14186672/s2/e01"
+            }
+        ],
+        "update_date": "2026-02-15 02:38:33"
+    },
+    {
+        "id": 113962,
+        "imdb_id": "tt13111078",
+        "name": "Special Ops: Lioness",
+        "original_name": "Lioness",
+        "overview": "Gerçek hayatta da var olan bir CIA programına dayanan hikayede, bir terör örgütünü içeriden çökertmeye yardım etmek için CIA'nın Lioness Engagement Team adlı ekibe katılmak üzere işe alınan kaba ama tutkulu genç bir denizci olan Cruz Manuelos anlatılıyor. Zoe Saldana, kadın gizli ajanlarını sahadaki tehlikeli görevlere hazırlamak için eğitmek, yönetmek ve onlara liderlik etmekle görevli Lioness programının istasyon şefi Joe rolünde izleyici karşısına çıkıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+        "year": "2023",
+        "rating": 8.0,
+        "genres": [
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "categories": [
+            "Tümü",
+            "Paramount+",
+            "Amazon Prime",
+            "TV+",
+            "Paramount Plus Essential",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Zoe Saldaña",
+                "role": "Joe McNamara",
+                "image": "https://image.tmdb.org/t/p/w200/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+            },
+            {
+                "name": "Laysla De Oliveira",
+                "role": "Cruz Manuelos",
+                "image": "https://image.tmdb.org/t/p/w200/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
+            },
+            {
+                "name": "Dave Annable",
+                "role": "Neal McNamara",
+                "image": "https://image.tmdb.org/t/p/w200/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
+            },
+            {
+                "name": "Jill Wagner",
+                "role": "Bobby",
+                "image": "https://image.tmdb.org/t/p/w200/dqPlsNMTHPZV4eso7sFQrtqvImD.jpg"
+            },
+            {
+                "name": "LaMonica Garrett",
+                "role": "Tucker",
+                "image": "https://image.tmdb.org/t/p/w200/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+            },
+            {
+                "name": "James Jordan",
+                "role": "Two Cups",
+                "image": "https://image.tmdb.org/t/p/w200/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+            },
+            {
+                "name": "Genesis Rodriguez",
+                "role": "Captain Josephina 'Josie' Carrillo",
+                "image": "https://image.tmdb.org/t/p/w200/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+            },
+            {
+                "name": "Michael Kelly",
+                "role": "Byron Westfield",
+                "image": "https://image.tmdb.org/t/p/w200/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
+            },
+            {
+                "name": "Austin Hébert",
+                "role": "Randy",
+                "image": "https://image.tmdb.org/t/p/w200/vOuRMtOtPVd8vuNCCxxavQSdGIC.jpg"
+            },
+            {
+                "name": "Jonah Wharton",
+                "role": "Tex",
+                "image": "https://image.tmdb.org/t/p/w200/4wisMOLFgPPQxm7gQO9wSI72O08.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Sacrificial Soldiers",
+                "overview": "Sahadaki bir görev sırasında Joe ve ekibi için işler ters gider. Joe, eve döndüğünde aile hayatındaki zorluklar da baş etmek zorundadır. Cruz, tehlikeli bir durumdan kaçmaya çalışır. Joe ise ekibe yeni bir üye seçmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "The Beating",
+                "overview": "Cruz, Aaliyah ile ilişki kurmaya başlar. Kate, futbol maçı sırasında kavga eder. Neal, küçük bir hastasına kolay olmayan bir haber vermek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Bruise Like a Fist",
+                "overview": "Joe ve ekibinin işleri sarpa sarar. Cruz, tehlikeli bir durumdan kurtulmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aCl27BO3UUJwEoEQruZsZnidlkC.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "The Choice of Failure",
+                "overview": "Joe, Cruz'u eğitmeye devam eder. Cruz, Aaliyah'yla bir bağ kurmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Truth Is the Shrewdest Lie",
+                "overview": "Joe ve Neal, Kate'in bakımıyla ilgilenir. Westfield ve Kaitlyn, Joe'nun ekibini sahada görevlendirir. Cruz, gizli kimliğinin açığa çıkarılması tehlikesiyle karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sh4bjty4YACVogQUOVWbZCUVA15.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "The Lie Is the Truth",
+                "overview": "Joe'nun ekibi bir tehditle karşılaşır. Kaitlyn ve Joe, bilgilendirme toplantısı sırasında azarlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jIEF60suH4Cg7iZEC0ze7b7pKBk.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Wish the Fight Away",
+                "overview": "Cruz, Aaliyah'yla zaman geçirir. Joe, Kaitlyn'i bilgilendirmeye devam eder. Kyle, çaresizce Joe'dan yardım etmesini bekler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Gone Is the Illusion of Order",
+                "overview": "Görev her an tehlikeye girebilir. Eshan, Cruz'la yüzleşir. Joe ve ekibi, kendilerini en kötüsüne hazırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3ndiiSM8sWMclfS123YaVIBOtsw.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt13111078/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Beware the Old Soldier",
+                "overview": "Joe, Kyle ve QRF ekibi, üst düzey bir hükümet yetkilisinin bir kartel tarafından kaçırılmasının ardından operasyonu düzenler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "I Love My Country",
+                "overview": "Yeni bir dişi aslan belirlendikten sonra Joe ve ekibi onu almak için Irak'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Along Came a Spider",
+                "overview": "Kaitlyn planları için destek toplamaya çalışır. Bu arada, Kaptan Josie Carrillo için Dişi Aslan eğitimi başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xt50ehEdhGI21BJxcRc3VqXWM9K.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Five Hundred Children",
+                "overview": "Joe ve Kyle potansiyel yeni bir istihbarat kaynağıyla temas kurar. Yeni genişletilmiş bir ekip beklenmedik sonuçlar doğuran bir saldırı gerçekleştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nIKMf8djtsIYBtBCtKhHjTEo17G.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Shatter the Moon",
+                "overview": "Depo keşfi ekibi sarsar. Joe iki acil görev arasında kalmıştır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/w1vnsU60PRL69oXPckv0ndErq0C.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "2831",
+                "overview": "Carrillo malikanesinde olaylar beklenenden daha hızlı bir şekilde doruğa ulaşır. Josie harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/shHXnFf1tqxqzMgYUAmsZM3eJG1.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "The Devil Has Aces",
+                "overview": "Joe'nun zayıflamış durumuna rağmen ekip, bir noktayı vurgulamak için Irak'a geri dönmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o9DNUy0EaoM2YslSXBq9yLnH5jH.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "The Compass Points Home",
+                "overview": "Kaitlyn ve Westfield'ın Pablo'ya kendi taraflarına geçmesi için baskı yapmasıyla Sky Hawk Operasyonu devam ediyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9xEd84PanI9fulF0P23fTC8gBT4.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt13111078/s2/e08"
+            }
+        ],
+        "update_date": "2026-02-15 01:27:27"
+    },
+    {
+        "id": 103516,
+        "imdb_id": "tt12327578",
+        "name": "Star Trek: Strange New Worlds",
+        "original_name": "Star Trek: Strange New Worlds",
+        "overview": "Star Trek: The Original Series’in öncesince geçecek olan bir Star Trek prequel’i. Federasyon Gemisi Enterprise (Atılgan)’ın Kaptan Kirk’ten önceki kaptanı olan Kaptan Christopher Pike ve ekibinin hikayelerini konu ediniyor",
+        "poster": "https://image.tmdb.org/t/p/w500/511LZFZJIbxhGjclesSBGQ2ygnE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+        "year": "2022",
+        "rating": 8.0,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Paramount+",
+            "Amazon Prime",
+            "Paramount Plus Essential",
+            "Paramount+ Roku Premium Channel",
+            "Paramount Plus Apple TV Channel",
+            "Paramount Plus Premium"
+        ],
+        "cast": [
+            {
+                "name": "Anson Mount",
+                "role": "Captain Christopher Pike",
+                "image": "https://image.tmdb.org/t/p/w200/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+            },
+            {
+                "name": "Ethan Peck",
+                "role": "Spock",
+                "image": "https://image.tmdb.org/t/p/w200/9KaxSgpbx9Zj827xXLML3bWknNV.jpg"
+            },
+            {
+                "name": "Jess Bush",
+                "role": "Christine Chapel",
+                "image": "https://image.tmdb.org/t/p/w200/qAsdLipL5Gd54IHd813lN5HQFwn.jpg"
+            },
+            {
+                "name": "Christina Chong",
+                "role": "La'An Noonien-Singh",
+                "image": "https://image.tmdb.org/t/p/w200/quzkaUEarfiHHpG0IeYgyJgZ6EL.jpg"
+            },
+            {
+                "name": "Celia Rose Gooding",
+                "role": "Nyota Uhura",
+                "image": "https://image.tmdb.org/t/p/w200/vIk0g2FnDGmBGEAX7veFCOg0hM1.jpg"
+            },
+            {
+                "name": "Melissa Navia",
+                "role": "Erica Ortegas",
+                "image": "https://image.tmdb.org/t/p/w200/b8qF20FtJby02fGAeWSp9XJDHbw.jpg"
+            },
+            {
+                "name": "Babs Olusanmokun",
+                "role": "Dr. Joseph M'Benga",
+                "image": "https://image.tmdb.org/t/p/w200/bqycmpUrpISeLzQniiYwAZ5X1RN.jpg"
+            },
+            {
+                "name": "Martin Quinn",
+                "role": "Lieutenant Montgomery Scott",
+                "image": "https://image.tmdb.org/t/p/w200/pkLdyDbcPpWuFWaWB5lniFw9zx6.jpg"
+            },
+            {
+                "name": "Rebecca Romijn",
+                "role": "Una Chin-Riley",
+                "image": "https://image.tmdb.org/t/p/w200/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Garip Yeni Dünyalar",
+                "overview": "Pike'ın subaylarından biri, Yıldız Filosu için gizli bir görevdeyken kaybolduğunda, Pike kendi kendini empoze ettiği sürgünden çıkmak zorunda kalır. Kendisine verilen geleceğin vizyonuyla ne yapması gerektiği ile mücadele ederken, subayını nasıl kurtaracağını belirlemeli.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iU2g0Ms11BZKX6i1KxHJUfnmCXf.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kuyruklu Yıldızın Çocukları",
+                "overview": "Bir araştırma görevindeyken, U.S.S. Atılgan, bir kuyruklu yıldızın üzerinde yaşanılan bir gezegene çarpacağını keşfeder. Kuyruklu yıldızı yeniden yönlendirmeye çalışırlar, ancak kuyruklu yıldızın buzlu yüzeyine gömülü eski bir uzaylı kalıntısının bir şekilde onları engeller; Dış görev ekibi kalıntının sırlarını çözmeye çalışırken, Pike ve Bir Numara tehditle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/HIVV4a2UE6CRlWIYGWl6zpN5TJ.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "İlirya'nın Hayaletleri",
+                "overview": "U.S.S. Atılgan, gemiyi kasıp kavuran bir salgınla karşılaşır. Bir tedavi bulmaya çalışırken sakladığı bir sırla yüzleşmek zorunda olan Bir Numara Una Chin-Riley dışında tüm ekip birer birer aciz kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cuBwdj9rc1EhqGHSC13rqx8R4c3.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Memento Mori",
+                "overview": "Bir koloni gezegenine rutin bir tedarik görevindeyken, U.S.S. Atılgan bilinmeyen bir kötü niyetli gücün saldırısına uğrar. Pike, krizle yüzleşmek için tüm yüreğini ve deneyimini ortaya koyuyor, ancak güvenlik görevlisi, düşmanla geleneksel Yıldız Filosu yöntemleriyle başa çıkılamayacağı konusunda onu uyarıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mQGJK4sxx3hUzYz46m94u10Jsy9.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Spock Amok",
+                "overview": "Spock ve Kaptan Pike'ın alışılmadık bir uzaylı türüyle yaptığı önemli müzakerelerin ortasında, Spock'ın kişisel bir ziyareti olduğunda...",
+                "still_path": "https://image.tmdb.org/t/p/w400/imnMP7fetdx9QAc2yTBZxhNQsPX.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Bizi Acının Ulaşamadığı Yere Kaldırın",
+                "overview": "Pastoral bir gezegene yönelik bir tehdit, Kaptan Pike'ı hayatının kayıp aşkıyla yeniden bir araya getirir. Onu ve bilimsel kutsal çocuğu bir komplodan korumak için Pike yardım teklif eder ve geçmişinin çözülmemiş duygularıyla yüzleşmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tQjLSGjSmutnJH8PifNUbTC3ySz.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Sakin Fırtına",
+                "overview": "Tehlikeli bir insani görevdeyken, U.S.S. Atılgan, çeyreğin en ölümcül uzay korsanıyla iç karartıcı bir oyununa düşüyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/momEFknzpISRl6pBr3nuT7MAEy.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Elysian Krallığı",
+                "overview": "U.S.S. Atılgan, mürettebatı bir peri masalına hapseden yabancı bir bilince ev sahipliği yapan bir nebulada sıkışıp kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uVFtQkSMwjuGoWf4Luu1q4fxS8o.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Gezinen Herkes",
+                "overview": "U.S.S. Atılgan mürettebatı, iniş ekibi aç bir düşmanla çorak bir gezegende mahsur kaldığında iblisleriyle ve korkunç canavarlarla yüz yüze gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nqvyeP8J7wKdel1xtPstvQ92rb5.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Bir Merhamet Kalitesi",
+                "overview": "Kaptan Pike, kaderinden nasıl kaçacağını bulduğunu düşünürken, gelecekteki benliği tarafından ziyaret edilir ve ona eylemlerinin sonuçlarını gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dInKNSozbQFAa1i3Xxd1NcorPLc.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "The Broken Circle",
+                "overview": "Bir imdat çağrısı ile Spock, emirlere karşı gelmek ve U.S.S.'yi almak zorunda kalır. Atılgan ve mürettebatı gemi arkadaşlarına yardım etmek için risk alırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/laHGPCjO9wJx52pIPvqMBt2Is9g.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Ad Astra Per Aspera",
+                "overview": "Komutan Una Chin-Riley mahkemeye çıkarılır, hapis cezası alır ve Starlfleet'ten ihraç edilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xmDChudvEB7eq7DlKlljjrqUiFg.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Tomorrow and Tomorrow and Tomorrow",
+                "overview": "La'an, insanlığın gelecek tarihini değiştirecek bir saldırıyı önlemek için zamanda geri gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f4FRVjwKKwM37g55Y32ule1wvIh.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Among the Lotus Eaters",
+                "overview": "Trajik anıları canlandıran bir gezegene geri dönen Kaptan Pike ve ekip, geçmişten gelen bir hayaletle yüzleşirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jJi2VGuS0tyXKtuqgCjsNIOztUY.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Charedes",
+                "overview": "Bir uzay mekiği kazası Spock'ın Vulkan DNA'sının uzaylılar tarafından alınmasına yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/An9V1HboTzyLOCzEBygUHZiEmRG.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Lost in Translation",
+                "overview": "Uhura'nın duyduğu garip sesi başka kimse duymaz. Gürültü gittikçe halisünasyonları tetikleyince Uhura, beklenmedik bir asistandan yardım alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wvAbW0YLMeOHjUIdd7N8euPBc4f.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Those Old Scientists",
+                "overview": "Meydana gelen bir kaza Teğmen Beckett Mariner ve Bradward Boimler'i 24. yüzyıldan zaman yolculuğuna çıkarır ve Pike ile mürettebatı onları geri götürmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cUXmAvXYhi7zBIzoFgIzbxmf6QI.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Under the Cloak of War",
+                "overview": "Kaptan Pike ve mürettebatı U.S.S. Enterprise'da bir Klingon sığınmacısını karşılar ancak onun varlığı bazı şok edici sırların açığa çıkmasını tetikler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6UHcQZJjC5StPGkzq6sZAsBLGqx.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Subspace Rhapsody",
+                "overview": "Yaşanan bir kaza U.S.S. Enterprise'daki herkesin kontrolsüzce şarkı söylemesine neden olur. Asıl tehlike ise alanın genişlemesi ve diğer gemileri etkilemesidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a7Cu3KpMBkCh8Tgxgja87WgFE6u.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "[SEZON FİNALİ] Zorlu bir düşmanın dönüşü Kaptan Pike ve ekibini uğraştırır. Bir yandan Federasyon uzayının kenarındaki bir koloniye düzenlenen saldırıyı soruştururlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rwqAAZjadCcmzfpLFvScBmzl274.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e10"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Kaptan Pike mürettebattan gelen önerileri değerlendirmeye başlar ve bir izleme cihazı yerleştirmek için Gorn destroyerine çarpmaya karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/opluRsQk2CN6b3jopZoJCvrP7Cm.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Federasyon kutlamasında, davetsiz bir misafir ortamı altüst eder. Spock ve mürettebatın zihinlerinde karmaşa yaratır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9r9pBXDtdgVtp5x0VLlSgilhwgG.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Pike ve M'Benga, Batel'in tedavesini bulmak için Klingon uzayına giderler. O esnada M'Benga'nın geçmişi ölümcül yaratıklarla dolu bir gezegende tekrar belirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/IF8eXYDYglz6W52FCozVCiySn3.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "La'An, yalnızca kendisinin çözebileceği kurgusal bir vakayı test ederken sanal güverte kontrolden çıkar ve Enterprise'ın güvenliği tehlikeye girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uH8ElDr6YZPXIVXmcl8QyMv5fCO.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Chapel ve Korby'nin insan evriminin bir sonraki adımını ortaya çıkarma arayışı, Enterprise'ı karanlık bir sırrı saklayan antik kalıntılara götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8wU3xRdYMMWoV6yurDEr9XHw190.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Kirk'ün kaptan koltuğundaki ilk günü, bir Scavenger Gemisi'nin Enterprise'ı ele geçirmesiyle felaketle sonuçlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wfbnUqpIQWnDq4U1i0X2WKchimt.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Enterprise, savaşın tahrip ettiği bir gezegene yardım ederken Pike ve mürettebat, araştırmacı bir gazetecinin merceği altına girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3s5WG0w3zQpKJeJdAUepWaFNBIU.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Mürettebatın bir kısmı görev nedeniyle Vulkan formuna bürünür, ancak insan hallerine dönmeye çalıştıklarında yeni sorunlar ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jTI3PI3cEqJJX5jvik1kmu1qLxs.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Ortegas, hayatta kalma şansının neredeyse hiç olmadığı ölümcül zehirli bir gezegende mahsur kalır. Hayatta kalmak için en derin inançlarına karşı gelmek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AbgG3jb8kSEWxJvHYotQmGpSPQP.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Eski, kötü bir güç ortaya çıktığında Pike kötülüğün yayılmasını durdurmak için hayatını değiştirecek bir seçimle karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/orhTTIshYMwHRcsLmgmePXo0cHg.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e10"
+            }
+        ],
+        "update_date": "2026-02-15 00:33:56"
+    }
+]
