@@ -1,5 +1,115 @@
 [
     {
+        "id": 241485,
+        "imdb_id": "tt30428188",
+        "name": "Fight Night: The Million Dollar Heist",
+        "original_name": "Fight Night: The Million Dollar Heist",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/ucxvu9kRykTd23m1omktBJZG2Q1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/oskggc9don7i7TYSETRVHtjhwSi.jpg",
+        "year": "2024",
+        "rating": 6.8,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Peacock",
+            "Peacock Premium Plus",
+            "Peacock Premium"
+        ],
+        "cast": [
+            {
+                "name": "Kevin Hart",
+                "role": "Gordon 'Chicken Man' Williams",
+                "image": "https://image.tmdb.org/t/p/w200/byiNydUlM6oP8diA7WMvYbNM7a1.jpg"
+            },
+            {
+                "name": "Samuel L. Jackson",
+                "role": "Frank Moten",
+                "image": "https://image.tmdb.org/t/p/w200/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+            },
+            {
+                "name": "Taraji P. Henson",
+                "role": "Vivian Thoma",
+                "image": "https://image.tmdb.org/t/p/w200/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg"
+            },
+            {
+                "name": "Don Cheadle",
+                "role": "JD Hudson",
+                "image": "https://image.tmdb.org/t/p/w200/b1EVJWdFn7a75qVYJgwO87W2TJU.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kaHM1CTVHhv5jnfPvUgIMmil8LD.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/baLr5eRLIRILNdInw6V8JkYRTZ9.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/qo6gCkOEcB1tyGGQUMLKKpejjpB.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gKdXn4PY5qxwBE8g3UEQyFPzOd8.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/c4HUMfwZRACA2vdL2qvpAToMjYi.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/9J4XqvTFlodmhUFcndwgUxVa45g.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/3mhGpIgtH5fPVIedPhJedXuKlz1.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt30428188/s1/e07"
+            }
+        ],
+        "update_date": "2026-02-15 10:57:48"
+    },
+    {
         "id": 221079,
         "imdb_id": "tt26862142",
         "name": "The Last Frontier",

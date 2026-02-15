@@ -2,24 +2,142 @@
     "id": 238458,
     "imdb_id": "tt30413044",
     "name": "Cashero",
+    "original_name": "캐셔로",
+    "overview": "Kendisine süper güç miras kalan sıradan bir adam, gücünü çalmak isteyen daha büyük bir kötülük keşfeder. Tek sorun, süper gücünü her kullandığında cüzdanındaki paranın azalmasıdır.",
     "poster": "https://image.tmdb.org/t/p/w500/SB3HbQAqQGWJTV1J5U10aXNXdU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
     "year": "2025",
+    "rating": 7.3,
     "genres": [
         "Aksiyon & Macera",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix",
+        "Kore"
+    ],
     "cast": [
-        "이준호",
-        "김혜준",
-        "김병철",
-        "김향기",
-        "강한나"
+        {
+            "name": "이준호",
+            "role": "Kang Sang-ung",
+            "image": "https://image.tmdb.org/t/p/w200/DJYwG0eWdCoxvqWhLsnJNKQlMR.jpg"
+        },
+        {
+            "name": "김혜준",
+            "role": "Kim Min-suk",
+            "image": "https://image.tmdb.org/t/p/w200/hRYxlcLIFhCNwnuHJkkFzpcQ23Y.jpg"
+        },
+        {
+            "name": "김병철",
+            "role": "Byeon Ho-in",
+            "image": "https://image.tmdb.org/t/p/w200/ynyE7u1u6SdUBFL1OmmxGVHX6g7.jpg"
+        },
+        {
+            "name": "김향기",
+            "role": "Bang Eun-mi",
+            "image": "https://image.tmdb.org/t/p/w200/3EXqAMalmeEhnzuL24n3JoPg0i8.jpg"
+        },
+        {
+            "name": "강한나",
+            "role": "Jo Anna",
+            "image": "https://image.tmdb.org/t/p/w200/fXydO3AV3arjm3mMPhIxbf26l6a.jpg"
+        },
+        {
+            "name": "이채민",
+            "role": "Jo Nathan",
+            "image": "https://image.tmdb.org/t/p/w200/1StfxIzOn8Fgvoiap7ppXLp2ymF.jpg"
+        },
+        {
+            "name": "장현성",
+            "role": "Hwang Hyeon-seung",
+            "image": "https://image.tmdb.org/t/p/w200/rD1QMp1kmx03JSw4eBxeeLvTwAA.jpg"
+        },
+        {
+            "name": "차시원",
+            "role": "Jung Hyeon-gi",
+            "image": "https://image.tmdb.org/t/p/w200/67udIP3G0P97vRmSN59ccYZ4XjF.jpg"
+        },
+        {
+            "name": "신수현",
+            "role": "Lee Su-eun",
+            "image": "https://image.tmdb.org/t/p/w200/aevYUC4Wz2QMFKQj3SBAmmGmrhp.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Kız arkadaşı Kim Min-suk ile birlikte ev almaya parası yetmeyen Kang Sang-ung, babasını ziyaret eder. Babası ona hem ahlakını hem de banka hesabını sınayacak bir güç verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3FLMCD7vFaVjP9smiP176LHzh6U.jpg",
+            "vote_average": 7.8,
             "link": "https://vidmody.com/vs/tt30413044/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Bir kriz yaşayan Sang-ung, Park Jeong-ja'dan yardım ister; ancak tehlikenin ortasına düşer. Bu sırada Jo Anna, Sang-ung'u tuzağa düşürmek için Min-suk'u yem olarak kullanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kcgjOAybTAmfZnhV4vRhXbQxKGC.jpg",
+            "vote_average": 9.6,
+            "link": "https://vidmody.com/vs/tt30413044/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Hedef hâline geldiğini fark eden Sang-ung, Byeon Ho-in ve Bang Eun-mi ile birlikte çalışmaya başlar. Kısa süre sonra, Anna'nın ordusuyla yüzleşmek için Jeong-ja'dan yardım ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dmKabyXWaBg4K7uy1CVTlIAOPg2.jpg",
+            "vote_average": 9.5,
+            "link": "https://vidmody.com/vs/tt30413044/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Normal bir hayatın özlemini çeken Sang-ung, gücünü Sıradan Avcılar'a satmayı düşünür; ancak Ho-in onun bir hata yapmasını engellemeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/z5zzlIUW1Vu8P78FnBn36mpNJNZ.jpg",
+            "vote_average": 9.4,
+            "link": "https://vidmody.com/vs/tt30413044/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Tehlikeden kıl payı kurtulan Sang-ung, Ho-in ve Eun-mi, Jo Nathan'ın tehditlerine maruz kalır. Kısa süre sonra, bir gece kulübündeki uyuşturucu şebekesini araştırırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5GayvUyVpugeT0TsoGUodCEllqR.jpg",
+            "vote_average": 9.8,
+            "link": "https://vidmody.com/vs/tt30413044/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Başka bir tuzaktan kaçmayı başaran Sang-ung, normal hayatının olumsuz etkilendiğini fark eder. Ancak Anna beklenmedik bir teklifle ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9afqq8B37PAx363QYhbNZTIVyBa.jpg",
+            "vote_average": 9.0,
+            "link": "https://vidmody.com/vs/tt30413044/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "Banka planı hızla tehlikeli bir hâl alarak Sang-ung'u Anna ve Nathan'la karşı karşıya getirir. Ancak Nathan, Sang-ung'un en değer verdiği şeyi kaçırarak onu tuzağa düşürür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zcKVCloOxLWnOP3phTln7bat1Wm.jpg",
+            "vote_average": 9.4,
+            "link": "https://vidmody.com/vs/tt30413044/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Aşkı için savaşan Sang-ung, Sıradan Avcılar'la karşı karşıya gelir. Acaba o ve arkadaşları, nihayet olmaları gereken kahramanlara dönüşebilecekler mi?",
+            "still_path": "https://image.tmdb.org/t/p/w400/tzt9yoWgMXWoCfUvA7QNyCuyemy.jpg",
+            "vote_average": 10.0,
+            "link": "https://vidmody.com/vs/tt30413044/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:57:21"
 }

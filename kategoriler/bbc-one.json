@@ -1,5 +1,84 @@
 [
     {
+        "id": 259886,
+        "imdb_id": "tt30645193",
+        "name": "The War Between the Land and the Sea",
+        "original_name": "The War Between the Land and the Sea",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
+        "year": "2025",
+        "rating": 6.9,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "BBC One"
+        ],
+        "cast": [
+            {
+                "name": "Russell Tovey",
+                "role": "Barclay Pierre-Dupont",
+                "image": "https://image.tmdb.org/t/p/w200/p1hNveDVY6vT5FDT0zJXDnZsDw.jpg"
+            },
+            {
+                "name": "Gugu Mbatha-Raw",
+                "role": "Salt",
+                "image": "https://image.tmdb.org/t/p/w200/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Homo Aqua",
+                "overview": "Barclays'in sıradan hayatı, denizden kadim bir türün ortaya çıkmasıyla bir terör dünyasına dönüşüyor. UNIT kontrolü ele geçirmek için mücadele ederken, Thames üzerindeki zirve korkunç sırları ortaya çıkarıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ql1CuAoTpggQSsC18HTt9m5rCAu.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Plastik Kıyamet",
+                "overview": "Barclay, gizemli Tuz'un Tank'tan çıkmasıyla insanlığın elçisi olur. Ancak Tuz tüm insanlığa intikam almaya kalkışınca ailesinin hayatı altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ffPgKyJUgHL5J6LOBqzIQ6PLCwK.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Derinlik",
+                "overview": "Barclay, Homo Aqua dünyasına korkunç bir iniş yapar. Karada ise Kate, Downing Street'in orduyla birlikte savaşın seyrini değiştirmek için komplo kurduğu sırada yalnız başına kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wCBpt7Ljr6VRO1VGsUjCJG4ffbq.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Şelalenin Cadısı",
+                "overview": "Barclay ve Salt, UNIT'in felaketle sarsıldığı savaşın harap ettiği Londra'da kaçmaya başlar. Ancak Tide ülkeyi tehdit ettiğinde ve Gunsberg planlarını ilerlettiğinde, Severance'ın planları kan dökülmesini gerektirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2MRLTb5r6QnpHDlvAdLEzgxV3s6.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Savaşın Sonu",
+                "overview": "Barclay yalnız başına kalmış, Salt kaybolmuş, UNIT güçsüz kalmış ve savaş doruk noktasına ulaşırken okyanuslar yükseliyor. Hainler komplo kurarken, Barclay çok geç olmadan Salt'ı bulabilecek mi?",
+                "still_path": "https://image.tmdb.org/t/p/w400/eXBf3VETvZddlIRWhdkLRY3pBrl.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-15 11:01:59"
+    },
+    {
         "id": 240558,
         "imdb_id": "tt30221531",
         "name": "King & Conqueror",

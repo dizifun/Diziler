@@ -2,24 +2,136 @@
     "id": 241405,
     "imdb_id": "tt30252752",
     "name": "Dying for Sex",
+    "original_name": "Dying for Sex",
+    "overview": "Molly Kochan 4. evre meme kanseri teşhisini duyduktan sonra kocasını terk eder ve hayatında ilk defa cinsel arzularını tüm karmaşıklığını keşfe çıkar. Bu macerada en yakın arkadaşı Nikki Boyer sonuna kadar yanında olur.",
     "poster": "https://image.tmdb.org/t/p/w500/xaKb3cTh8mT6fgLSXuqo4JoS0dU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/bVgcsQddGZ71kTXGrFJOn1fDEZj.jpg",
     "year": "2025",
+    "rating": 6.5,
     "genres": [
         "Dram",
         "Komedi"
     ],
+    "categories": [
+        "Tümü",
+        "Hulu",
+        "Disney+"
+    ],
     "cast": [
-        "Michelle Williams",
-        "Jenny Slate",
-        "Jay Duplass",
-        "Kelvin Yu",
-        "David Rasche"
+        {
+            "name": "Michelle Williams",
+            "role": "Molly Kochan",
+            "image": "https://image.tmdb.org/t/p/w200/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+        },
+        {
+            "name": "Jenny Slate",
+            "role": "Nikki Boyer",
+            "image": "https://image.tmdb.org/t/p/w200/aqH8MCnT3O5Od3OfZR8LClSP7UB.jpg"
+        },
+        {
+            "name": "Jay Duplass",
+            "role": "Steve",
+            "image": "https://image.tmdb.org/t/p/w200/zDaNqdtchFBGmT6yR6prTm0rd4V.jpg"
+        },
+        {
+            "name": "Kelvin Yu",
+            "role": "Noah",
+            "image": "https://image.tmdb.org/t/p/w200/47m8mUsuNIEyLb3KeDpryyvK0LI.jpg"
+        },
+        {
+            "name": "David Rasche",
+            "role": "Dr. Pankowitz",
+            "image": "https://image.tmdb.org/t/p/w200/bWPhfa4m8pXVneP1gf37xvuMUCA.jpg"
+        },
+        {
+            "name": "Esco Jouléy",
+            "role": "Sonya",
+            "image": "https://image.tmdb.org/t/p/w200/fmOilIpT78npW7zajQjOh5amLA8.jpg"
+        },
+        {
+            "name": "Rob Delaney",
+            "role": "Neighbor Guy",
+            "image": "https://image.tmdb.org/t/p/w200/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+        },
+        {
+            "name": "Sissy Spacek",
+            "role": "Gail",
+            "image": "https://image.tmdb.org/t/p/w200/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Uyguna Diyet Soda",
+            "overview": "Molly, kendisine konulan acı verici teşhisin ardından, sırtını en yakın arkadaşı Nikki'ye dayar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/e09JE02J1teC1DbMUuPfiljjyxx.jpg",
+            "vote_average": 5.0,
             "link": "https://vidmody.com/vs/tt30252752/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Mastürbasyon Önemlidir",
+            "overview": "Molly tedavi planını boş verir ve kendi arzularının peşinden gider.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jcmAkjDyQTxHBjSI7137VrZvr7z.jpg",
+            "vote_average": 5.1,
+            "link": "https://vidmody.com/vs/tt30252752/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Duygular Yükselebilir",
+            "overview": "Molly, komşusunun verdiği rahatsızlığa rağmen, pozitif bir tavır takınmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aeDNQGqIfkCSQnsZMyknxD4fKvP.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt30252752/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Üstte Olmak Kutsal Bir Beceridir",
+            "overview": "Molly ve Nikki bir seks partisine katılır, Molly'nin arzuları onu beklenmedik yerlere sürükler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wxW2Ps3p1tKM1BixvocI4HXGo0e.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt30252752/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Evcil Hayvanım",
+            "overview": "Molly’nin annesi Gail ziyarete gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i2a341I6QRtREspdZUmU2MJh6MO.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt30252752/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "İyi Tatiller",
+            "overview": "Molly geçmişiyle yüzleşirken, Nikki hayatında denge kurmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1g9BEOq67K2cFVfMUaJe3eHHE6F.jpg",
+            "vote_average": 4.9,
+            "link": "https://vidmody.com/vs/tt30252752/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Beni Öldürüyorsun, Ernie",
+            "overview": "Birisi Molly'i hastanede ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3hPaTtvjjw9XSozn0TNNpPNCn3z.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt30252752/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "O Kadar da Ciddi Değil",
+            "overview": "Molly hayatı üzerine düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3Tmk1gQ30EsvjmUkmAjp7x0gQtd.jpg",
+            "vote_average": 5.6,
+            "link": "https://vidmody.com/vs/tt30252752/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:54:01"
 }

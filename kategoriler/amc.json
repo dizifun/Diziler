@@ -1977,6 +1977,159 @@
         "update_date": "2026-02-15 03:39:02"
     },
     {
+        "id": 19885,
+        "imdb_id": "tt1475582",
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+        "year": "2010",
+        "rating": 8.5,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "WETA+",
+            "BBC One",
+            "Amazon Prime",
+            "Hoopla",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "AMC+",
+            "BritBox",
+            "Britbox Apple TV Channel",
+            "Philo"
+        ],
+        "cast": [
+            {
+                "name": "Benedict Cumberbatch",
+                "role": "Sherlock Holmes",
+                "image": "https://image.tmdb.org/t/p/w200/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+            },
+            {
+                "name": "Martin Freeman",
+                "role": "John Watson",
+                "image": "https://image.tmdb.org/t/p/w200/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pembe Üzerine Bir Çalışma",
+                "overview": "Pembe giysili kadının intiharı, görünürde birbiriyle alakasız bir dizi intiharın dördüncüsüdür, fakat Sherlock Holmes ölümlerin aslında cinayet olduğunu ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kör Bankacı",
+                "overview": "Watson'ın yeni yaşamı ev arkadaşı Sherlock Holmes sayesinde hiç bir zaman sıradan değildir; hatta Sherlock'un bankaya yapacağı sıra dışı ziyaret doktoru tetikte tutar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Büyük Oyun",
+                "overview": "Sherlock, Londra'daki suçluların kıvrak zekalarından ümitsiz olsa da, sıradan bir dava gibi görünen olayda, bir dahinin iş başında olduğunu keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e03"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Belgravia'da Bir Skandal",
+                "overview": "Bir kraliyet skandalı, Sherlock'u zor bir fikir düellosunun ortasında bırakır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Baskerville'in Köpekleri",
+                "overview": "Sherlock, cehennemden gelen bir av köpeğinin gizemini ortaya çıkarmak için Dartmoor'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vjUsJUsF5RcTRKn2prGHCW9Nxro.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Reichenbach Şelalesi",
+                "overview": "Sherlock, en büyük düşmanı Moriarty ile bir savaşa girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e03"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Boş Tabut",
+                "overview": "Sherlock'un \"ölümü\" üzerinden iki yıl geçmiş, Watson hayatına devam etmiştir. Fakat Londra'ya bir terör saldırısı tehdidi olunca, Sherlock geri dönmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zXsOogQ8BVyvWUR2zgs6NBxkReX.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Üçlerin İmzası",
+                "overview": "Ölümcül bir tehlike Watson'ın düğün törenine gizlice yaklaşırken, Sherlock hayatının en zor görevi ile yüzleşir: Sağdıç konuşması!",
+                "still_path": "https://image.tmdb.org/t/p/w400/ca3ayuzXGpxpALFlcsVsXTQau9G.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Onun Son Yemini",
+                "overview": "Çalınan mektuplarla ilgili bir dava Sherlock Holmes'u şantaj ustası olan Charles Augustus Magnussen ile karşı karşıya getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e03"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Altı Thatcher",
+                "overview": "Scotland Yard, kabineden bir bakanın oğlunun ve eski başbakan Margaret Thatcher'ın parçalanmış heykellerinin karıştığı ilginç bir vaka ile Sherlock'a gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Yalancı Dedektif",
+                "overview": "Watson şoke edici bir trajediyle boğuşur. Bu sırada Sherlock bugüne kadarki en kurnaz düşmanı olan, karanlık bir sırra sahip zengin bir hayırsever ile karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/krz3V8MLoVKjMwCuAG2xxnx49TO.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Son Problem",
+                "overview": "Karanlık bir aile sırrı, Sherlock'un varlığından haberdar olmadığı bastırılmış anılarını açığa çıkararak onu ölümcül bir son oyuna çeker. Dirilen düşmanı karşısındadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/52CguxQAPg6JLDuIOT76EsWf2a8.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e03"
+            }
+        ],
+        "update_date": "2026-02-15 03:11:58"
+    },
+    {
         "id": 100771,
         "imdb_id": "tt10394844",
         "name": "Soulmates",
@@ -2061,629 +2214,5 @@
             }
         ],
         "update_date": "2026-02-14 22:21:59"
-    },
-    {
-        "id": 1396,
-        "imdb_id": "tt0903747",
-        "name": "Breaking Bad",
-        "original_name": "Breaking Bad",
-        "overview": "Kanserden öleceğini öğrenen bir kimya öğretmeni, ailesinin geleceğini garanti altına almak için metamfetamin üretip satmak üzere eski bir öğrencisiyle kafa kafaya verir.",
-        "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-        "year": "2008",
-        "rating": 8.9,
-        "genres": [
-            "Dram",
-            "Suç"
-        ],
-        "categories": [
-            "Tümü",
-            "Netflix Standard with Ads",
-            "AMC",
-            "Netflix"
-        ],
-        "cast": [
-            {
-                "name": "Bryan Cranston",
-                "role": "Walter White",
-                "image": "https://image.tmdb.org/t/p/w200/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
-            },
-            {
-                "name": "Aaron Paul",
-                "role": "Jesse Pinkman",
-                "image": "https://image.tmdb.org/t/p/w200/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
-            },
-            {
-                "name": "Anna Gunn",
-                "role": "Skyler White",
-                "image": "https://image.tmdb.org/t/p/w200/adppyeu1a4REN3khtgmXusrapFi.jpg"
-            },
-            {
-                "name": "RJ Mitte",
-                "role": "Walter White Jr.",
-                "image": "https://image.tmdb.org/t/p/w200/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
-            },
-            {
-                "name": "Dean Norris",
-                "role": "Hank Schrader",
-                "image": "https://image.tmdb.org/t/p/w200/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
-            },
-            {
-                "name": "Betsy Brandt",
-                "role": "Marie Schrader",
-                "image": "https://image.tmdb.org/t/p/w200/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
-            },
-            {
-                "name": "Bob Odenkirk",
-                "role": "Saul Goodman",
-                "image": "https://image.tmdb.org/t/p/w200/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
-            },
-            {
-                "name": "Jonathan Banks",
-                "role": "Mike Ehrmantraut",
-                "image": "https://image.tmdb.org/t/p/w200/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Pilot Bölüm",
-                "overview": "Ölümcül akciğer kanseri teşhisi konan bir lise kimya öğretmeni, ailesini geçindirmek için metamfetamin yapıp satmaya başlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/88Z0fMP8a88EpQWMCs1593G0ngu.jpg",
-                "vote_average": 8.5,
-                "link": "https://vidmody.com/vs/tt0903747/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Yazı Tura",
-                "overview": "Ters giden ilk uyuşturucu işi, Walt ve Jesse'yi iki cesedi ortadan kaldırmak zorunda bırakır. Skyler ise, kocasının bir haltlar karıştırdığından şüphelenmektedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/AbMoecO0ZZio0LcgeLxlzdyGs6X.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt0903747/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Eksik Parça",
-                "overview": "Walt, ilk uyuşturucu işinden geriye kalan pisliği temizlerken Skyler da, kocasının ikili yaşamı hakkındaki gerçekleri öğrenmeye oldukça yaklaşır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/2kBeBlxGqBOdWlKwzAxiwkfU5on.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt0903747/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Hasta Adam",
-                "overview": "Hastalığının ardındaki gerçeği açıklamak zorunda kalan Walt, bu pahalı tedavinin masraflarını nasıl ödeyeceğinin çıkmazıyla yüz yüze gelir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/2UbRgW6apE4XPzhHPA726wUFyaR.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt0903747/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Yastık",
-                "overview": "Eski araştırma arkadaşı, Walt'un kanser tedavisinin masraflarını ödemek üzere cömert bir teklif yapınca Skyler, bu teklifi kocasına kabul ettirebilmek için çabalar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/82G3wZgEvZLKcte6yoZJahUWBtx.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt0903747/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "Heisenberg",
-                "overview": "Tedavinin masrafları ve yan etkileri artarken Walt, Jesse'den uyuşturucuyu satabilecekleri bir toptancı bulmasını ister. Bu da, Jesse'nin başını belaya sokar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/rCCLuycNPL30W3BtuB8HafxEMYz.jpg",
-                "vote_average": 8.9,
-                "link": "https://vidmody.com/vs/tt0903747/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "Yasa Dışı",
-                "overview": "Jesse ölümden dönünce Walt, zalim Tuco için daha da fazla uyuşturucu imal etmeyi kabul eder. Skyler ise, kız kardeşinin mağazalardan hırsızlık yaptığından şüphelenir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg",
-                "vote_average": 8.3,
-                "link": "https://vidmody.com/vs/tt0903747/s1/e07"
-            },
-            {
-                "season": 2,
-                "episode": 1,
-                "name": "Yedi Yüz Otuz Yedi",
-                "overview": "Son büyük uyuşturucu vurgunlarını planlayan Walt ve Jesse, ellerindeki tek müşterinin de işine geldiği zaman gözünü kırpmadan onları öldürebileceğinden endişelidirler.",
-                "still_path": "https://image.tmdb.org/t/p/w400/6Uo1z56uKnX60JXvYYFWACHR31u.jpg",
-                "vote_average": 8.3,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e01"
-            },
-            {
-                "season": 2,
-                "episode": 2,
-                "name": "Zil",
-                "overview": "Narkotik, Tuco'yu yakalamak için bir insan avı başlatırken Skyler da, Walt'u bulması için Hank'den yardım ister.",
-                "still_path": "https://image.tmdb.org/t/p/w400/th3SNe0gNgRguv8VveLd4f2JcaH.jpg",
-                "vote_average": 8.8,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e02"
-            },
-            {
-                "season": 2,
-                "episode": 3,
-                "name": "Ölü Arının İğnesi",
-                "overview": "Hank'in, Walt'un uyuşturucu işiyle olan bağlantısını keşfetmesine ramak kalır. O da, izini kaybettirmek için bir plan yapar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/abgJTOWYPdZGxAWhsg6lmtM8qcU.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e03"
-            },
-            {
-                "season": 2,
-                "episode": 4,
-                "name": "Özür",
-                "overview": "Walt, Skyler ile arasındaki buzları eritmek için uğraşırken ailesinin yanından kovulan Jesse, evsiz kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/9xi18yhtCLrrJ2plZjXgfGqeTjU.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e04"
-            },
-            {
-                "season": 2,
-                "episode": 5,
-                "name": "Hamamböcekleri",
-                "overview": "Hank, Tuco'yla karşılaşmasının ardından toparlanmaya çalışırken Jesse, piyasaya daha çok ürün dağıtabilmek için bir ekip toplar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/bPQxF63jhfT5eNYjhzuGEO7oMQg.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e05"
-            },
-            {
-                "season": 2,
-                "episode": 6,
-                "name": "ATM",
-                "overview": "Jesse, Skinny Pete'in uyuşturucu stokunu çalan bağımlıların peşine düşerken Walt da, tedavi masraflarını ödemek için bulduğu paranın kaynağına ilişkin bir bahane uydurur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/tfCuh20gNHGGF6A1te3NmiqML6D.jpg",
-                "vote_average": 8.5,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e06"
-            },
-            {
-                "season": 2,
-                "episode": 7,
-                "name": "Siyah ve Mavi",
-                "overview": "Jesse'nin uyuşturucu baronu olarak anılmaya başlanması, Walt'u operasyonu büyütmeye iterken Narkotiğin El Paso birimine geçiş yapmak, Hank'i biraz sarsmıştır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/1IOnhCCeru1BZUPeppu7tMmtxvL.jpg",
-                "vote_average": 8.3,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e07"
-            },
-            {
-                "season": 2,
-                "episode": 8,
-                "name": "Saul Goodman",
-                "overview": "Badger'ın tutuklanması, Walt ve Jesse'yi şaibeli bir avukatla işbirliği yapmaya mecbur bırakır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/KmFdF23FtbPwwz3FJF2T885r2Z.jpg",
-                "vote_average": 8.8,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e08"
-            },
-            {
-                "season": 2,
-                "episode": 9,
-                "name": "Dört Uzun Gün",
-                "overview": "Çok ömrü kalmadığından korkan Walt, ailesinin geleceğini garantilemek adına Jesse'yle beraber dur durak dinlemeden metamfetamin üretmeye çalışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/etUWlVbdQ7PzbGeUOBNpmFRm1Z9.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e09"
-            },
-            {
-                "season": 2,
-                "episode": 10,
-                "name": "Kutlama",
-                "overview": "Kanser tedavisiyle ilgili güzel haberlerin sonrasında Walt, tüm dikkatini evdekilerle arasını düzeltmeye vermeden önce kayınbiraderine çıkışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/qJvm57aPMMEraJ62bDb79O0XXG9.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e10"
-            },
-            {
-                "season": 2,
-                "episode": 11,
-                "name": "Yaşam Döngüsü",
-                "overview": "Skyler, hamileliğin sonlarına doğru karışık duygular hissederken bir satıcının ölümü, Walt'u elindeki metamfetamini boşaltacak yeni bir yer aramaya iter.",
-                "still_path": "https://image.tmdb.org/t/p/w400/yeQAQsV4WPTmKWTyuDhF3DAna1x.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e11"
-            },
-            {
-                "season": 2,
-                "episode": 12,
-                "name": "Phoneix",
-                "overview": "Büyük bir uyuşturucu alışverişi yüzünden kızının doğumunu kaçıran Walt, Jesse'nin paradan alacağı pay hakkında Jesse'nin sevgilisiyle karşı karşıya gelir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/zxFfozd55eJ6Aa4J0pd3SRqJl5l.jpg",
-                "vote_average": 8.8,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e12"
-            },
-            {
-                "season": 2,
-                "episode": 13,
-                "name": "ABQ",
-                "overview": "Walt, ameliyata hazırlanırken bir yandan da kendi hayatını ve Jesse'ninkini tekrar düzene koymak ve paranın kaynağını Skyler ile Walt Jr.'dan saklamak için uğraşır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/xdSWJjptnLAvFnh5Is6iJPlH1ds.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt0903747/s2/e13"
-            },
-            {
-                "season": 3,
-                "episode": 1,
-                "name": "Terk",
-                "overview": "Uçak faciasının sonrasında Skyler, Walt'u evden ayrılmaya zorlarken terapi, Jesse'nin kazayla ilgili hissettiği sorumlulukla yüzleşmesine yardımcı olur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/gOevWiZjFEeZgJBCQnWySzd6no9.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e01"
-            },
-            {
-                "season": 3,
-                "episode": 2,
-                "name": "Çatıdaki Pizza",
-                "overview": "Skyler, boşanmayı kafasına koyarken hiçbir şeyden haberi olmayan Walt da, Meksikalı uyuşturucu karteline çalışan, intikam peşindeki iki tetikçinin hedefi haline gelir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/eQYTr6cH834QyF3cE1VQymwolE1.jpg",
-                "vote_average": 8.3,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e02"
-            },
-            {
-                "season": 3,
-                "episode": 3,
-                "name": "İhanet",
-                "overview": "Walt, Skyler'ın blöfünü görüp onun onayı olmadan eve geri taşınınca tansiyon yükselir. Jesse ise, uyuşturucu ticaretine geri dönmeyi düşünmektedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jH2nkMFxuX5tXc832jyDNU4AjKq.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e03"
-            },
-            {
-                "season": 3,
-                "episode": 4,
-                "name": "Yeşil Işık",
-                "overview": "Jesse, yeni üretim metamfetaminle işlere geri dönünce Walt da, müdahil olur. Skyler ise, patronuyla yaşadığı ilişkiden dolayı sıkıntılı bir dönemden geçmektedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/1Se5PpvIgUey9MgXmrKkgO8HVye.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e04"
-            },
-            {
-                "season": 3,
-                "episode": 5,
-                "name": "Devam",
-                "overview": "Skyler, Walt'un dönüşüne karşı tavrını gözden geçirirken Walt da, uyuşturucu ticaretine geri dönmeyi düşünür. Hank'in takıntısı, Jesse'ye pahalıya patlayacak gibidir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/m2cipfAKEdLR4MIZKA3EiOcTYiZ.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e05"
-            },
-            {
-                "season": 3,
-                "episode": 6,
-                "name": "Gün Batımı",
-                "overview": "Eski karavanlarının bulunması, Walt ve Jesse'yi hızlı hareket etmeye iterken Walt, Gus'ın en son teknolojiyle donatılmış laboratuvarında işe geri döner.",
-                "still_path": "https://image.tmdb.org/t/p/w400/sl5zRr0u0kYcIyCdQjOTsexq4bL.jpg",
-                "vote_average": 8.8,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e06"
-            },
-            {
-                "season": 3,
-                "episode": 7,
-                "name": "Bir Dakika",
-                "overview": "Hank, kariyerini riske atarak kendisine saldırınca Jesse, onu mahkemeye verip intikam almaya yemin eder. Skyler da, Jesse'yi vazgeçirmesi için Walt'tan yardım ister.",
-                "still_path": "https://image.tmdb.org/t/p/w400/4yyVAkAQhzc5URhJJiy21biH3FJ.jpg",
-                "vote_average": 9.0,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e07"
-            },
-            {
-                "season": 3,
-                "episode": 8,
-                "name": "Yoğun Bakım",
-                "overview": "Uyuşturucu kartelinin saldırısının ardından Hank hayatta kalma mücadelesi verirken Walt da, Jesse'yi ortak olarak alıp beladan uzak durmaya çalışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/edBDR59bzVWdMtCawimRzOMgrlW.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e08"
-            },
-            {
-                "season": 3,
-                "episode": 9,
-                "name": "Kafka",
-                "overview": "Hank'in tedavisiyle ilgili seçenekler Marie'nin sigorta şirketiyle anlaşmazlığa düşmesine neden olur. Diğer yandan Jesse payını artırmanın yollarını arar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ztG7AnGy4YKs1vxLbpK9euPwjaK.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e09"
-            },
-            {
-                "season": 3,
-                "episode": 10,
-                "name": "Sinek",
-                "overview": "Metamfetamin laboratuvarına giren ve bir türlü ölmek bilmeyen sinek yüzünden Walt ve Jesse'yi uzun ve gergin bir gece beklemektedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/3ns0vN3bEl7elFWoodHJ9nDBogC.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e10"
-            },
-            {
-                "season": 3,
-                "episode": 11,
-                "name": "Son Kapı",
-                "overview": "Hank yeteri kadar hızlı iyileşemediğini düşündüğü için mutsuzdur, Skyler Saul'un para aklama planını etraflıca sorgular. Jesse rehabilitasyondaki bir hastaya aşık olur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/llw7fwOmOMs6OSqwK96XrPPQZD3.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e11"
-            },
-            {
-                "season": 3,
-                "episode": 12,
-                "name": "Yetersiz Önlem",
-                "overview": "Jesse Combo'nun cinayetini planlayan satıcıların peşine düşer. Hank hastaneden çıkmayı kabul etmez. Skyler, kendi planını uygulaması için Walt'a baskı yapar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/mOvMekI0YKm20I42XK93mPCQ4ru.jpg",
-                "vote_average": 9.0,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e12"
-            },
-            {
-                "season": 3,
-                "episode": 13,
-                "name": "Yeterli Önlem",
-                "overview": "Patronunun sokak satıcılarından ikisini öldürdükten sonra Walt, Gus'ın kendisini ve Jesse'yi öldürüp işe eski yardımcısıyla devam etmeyi planladığını fark eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jdi3BLxvs61t3ZyXNKwQQqTI8YD.jpg",
-                "vote_average": 9.2,
-                "link": "https://vidmody.com/vs/tt0903747/s3/e13"
-            },
-            {
-                "season": 4,
-                "episode": 1,
-                "name": "Maket Bıçağı",
-                "overview": "Üçüncü sezonun sonunda Walt ve Jesse, gerilimin zirveye ulaştığı olayların tam ortasındaydı. Şimdi, ikisi de tedirginlik içinde Gus'ın bir sonraki hamlesini bekliyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/2g6dLvOrLE7tpJatonCchLDkDyF.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e01"
-            },
-            {
-                "season": 4,
-                "episode": 2,
-                "name": "Otuzsekizlik",
-                "overview": "Walt, Gus'a karşı savunmasını hazırlarken Jesse üzerindeki baskılarla başa çıkabilmek için Badger ve Skinny Pete'le barışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ra0R3q9jEOObo6gspjYcbqPmIM.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e02"
-            },
-            {
-                "season": 4,
-                "episode": 3,
-                "name": "Açık Ev",
-                "overview": "Walt, Gus'ın hamlesinden ve Jesse'nin gittikçe kırılganlaşan ruh halinden endişelenirken Skyler da, istediğini elde etmek için baskıyı daha da artırır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/Ac0wu93r4LaZk07wa7PiWpNOOru.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e03"
-            },
-            {
-                "season": 4,
-                "episode": 4,
-                "name": "Kurşun Delikleri",
-                "overview": "Skyler, White ailesinin mali durumunu açıklamak için ayrıntılı bir hikaye uydururken endişeli Walt, Hank'in yeni bir soruşturma başlattığını öğrenir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/gzHp77NjrkDOu9sgkLB5PYmwArK.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e04"
-            },
-            {
-                "season": 4,
-                "episode": 5,
-                "name": "Kahraman",
-                "overview": "Çölün derinliklerinde ilerleyen arabanın direksiyonunda Mike, yanında ise Jesse vardır. Walt ise, ortağının öldürülmesinden korkmaktadır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cIpk1YHRcySKOET8qUfs2JC3QAy.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e05"
-            },
-            {
-                "season": 4,
-                "episode": 6,
-                "name": "Köşeye Sıkışmak",
-                "overview": "Walt'un ona gerçekleri söylemediğinden şüphelenen Skyler mesafeli bir tutum takınır. Bu arada Jesse neler yapabileceğini Mike ve Gus'a gösterir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/3tuFJVKzlWRqstoAOxwWF6lPzJY.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e06"
-            },
-            {
-                "season": 4,
-                "episode": 7,
-                "name": "Sorun Çıkaran Köpek",
-                "overview": "Skyler Walt'tan oğluna aldığı arabayı iade etmesini ister. Walt yeni para aklama operasyonunda Skyler'ı zor duruma sokarak tepki gösterir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/gXYKZO4nTsDrAc2AjJOhjJkwu1V.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e07"
-            },
-            {
-                "season": 4,
-                "episode": 8,
-                "name": "Hermanos",
-                "overview": "Hank, Albuquerque'deki metamfetamin işinin patronunun Gus olduğuna dair kanıt bulunca, Walt patronu korumak için Jesse'yi ve kendisini öldüreceklerinden korkmaya başlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jwGeSa4lw93UqvxoII5kb4nko1b.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e08"
-            },
-            {
-                "season": 4,
-                "episode": 9,
-                "name": "Böcek",
-                "overview": "Walt, Hank'in Albuquerque'deki metamfetamin piyasasına yönelik araştırmasını önlemeye çalışırken, ölümcül bir uyarı Gus’ı Meksika karteliyle anlaşmayı düşünmeye iter.",
-                "still_path": "https://image.tmdb.org/t/p/w400/bIU8FJxe1yXvMm7yREwj138Z6x8.jpg",
-                "vote_average": 8.5,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e09"
-            },
-            {
-                "season": 4,
-                "episode": 10,
-                "name": "Şerefe",
-                "overview": "Walt'un kavgada aldığı yaralar hala iyileşmemiştir. Gus, kartelle anlaşma yapmak için Jesse'yi de beraberinde Meksika'ya sürükler.",
-                "still_path": "https://image.tmdb.org/t/p/w400/dBrs0Npmn76g81yel2mjK7mTaOj.jpg",
-                "vote_average": 9.1,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e10"
-            },
-            {
-                "season": 4,
-                "episode": 11,
-                "name": "Yaklaşan Tehlike",
-                "overview": "Skyler, Ted'e vergilerini ödemesi için önerdiği parayı kabul ettirmek için baskı yapar. Gus, Jesse'nin laboratuvarda yalnız başına tekrar işe başlamasında ısrar eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/xMR8o7N4ZBacim1druJ6PanTlPQ.jpg",
-                "vote_average": 9.3,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e11"
-            },
-            {
-                "season": 4,
-                "episode": 12,
-                "name": "Son Zamanlar",
-                "overview": "Narkotik'in Hank'e sağladığı korumadan ailesinin de yararlanmasını isteyen Walt, kaderinde yazılı olanla yüzleşmeyi bekler.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ffIjlpJndsel3FkPMpHCnpJ71lw.jpg",
-                "vote_average": 9.0,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e12"
-            },
-            {
-                "season": 4,
-                "episode": 13,
-                "name": "Yüzleşme",
-                "overview": "Gus'ı öldürme planları suya düşen Walt ve Jesse, izlerini silmek ve öldürülmemek için çabuk davranmalıdır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/Apl61kYZF2zQlUMh13t8zmUD7Vr.jpg",
-                "vote_average": 9.3,
-                "link": "https://vidmody.com/vs/tt0903747/s4/e13"
-            },
-            {
-                "season": 5,
-                "episode": 1,
-                "name": "Ya Özgürlük Ya Ölüm",
-                "overview": "Walt, halen koruma altında bulunan ailesini görmeye giderken bir taraftan da Casa Tranquila'daki patlamanın sonuçlarıyla boğuşmaktadır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/uShB5dWoA3xIivZ9jvwWnGCVvt4.jpg",
-                "vote_average": 8.6,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e01"
-            },
-            {
-                "season": 5,
-                "episode": 2,
-                "name": "Madrigal",
-                "overview": "Walt ve Jesse, son işte kendilerine yardım edecek yeni bir ortak bulmaya karar verirler. Narkotik de bir şeyler bulmak umuduyla çeşitli ipuçlarını elden geçirmektedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/9WIzJqqUthdASBRE1Ts8ymrDhIv.jpg",
-                "vote_average": 8.3,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e02"
-            },
-            {
-                "season": 5,
-                "episode": 3,
-                "name": "Ödeme",
-                "overview": "Skyler için korkutucu olsa da Walter tekrar eve döner. Walter, Mike ve Jesse, uyuşturucu üretecekleri yeni bir yer bulma konusunu konuşmak için Saul'la buluşurlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/l84H1dZVkQGgFVomKHc67RKaEC2.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e03"
-            },
-            {
-                "season": 5,
-                "episode": 4,
-                "name": "Elli Bir",
-                "overview": "Lydia, kendi çalışanını Narkotik'e ihbar ederken Mike, onun yerine Jesse'yi işe almasını önerir. Walt ve Skyler, ailenin güvende olup olmadığı konusunda tartışırlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/zxcf3ER2rzU9IxCxJEhCCw1MyT.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e04"
-            },
-            {
-                "season": 5,
-                "episode": 5,
-                "name": "Ölü Navlun",
-                "overview": "Mike ve Lydia, operasyon için metilamin sevkıyatını ayarlamaya çalışırlar. Walt ve Jesse, gerçek kimliklerini açığa çıkarmayacak bir plan yapmaya çalışırlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ay9uj9CMQJezaB407JCPMDYSptK.jpg",
-                "vote_average": 9.2,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e05"
-            },
-            {
-                "season": 5,
-                "episode": 6,
-                "name": "Satınalma",
-                "overview": "Walt, Mike ve Jesse metilamin soygununun sonuçlarıyla boğuşmaktadır. Mike ve Jesse bu işleri bırakmayı isterlerken Walt, kendi imparatorluğunu kurmaya kararlıdır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/6SHawaVRg4Iw3Ry2adH29TjHYhK.jpg",
-                "vote_average": 8.6,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e06"
-            },
-            {
-                "season": 5,
-                "episode": 7,
-                "name": "Adımı Söyle",
-                "overview": "Walter, Declan'la bir anlaşma yapmaya çalışır. Mike'tan elini çekmesi istenen Hank, tüm dikkatini Mike'ın adamlarına ödeme yapan avukata çevirir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/2NA7ti9jsWnG4xreMEFwbq4DH1f.jpg",
-                "vote_average": 9.0,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e07"
-            },
-            {
-                "season": 5,
-                "episode": 8,
-                "name": "Kitaptaki Gerçek",
-                "overview": "Walt, Mike'ın hapishanedeki adamlarının isimlerini öğrenmek için Lydia ile buluşur. Skyler, uyuşturucu üretmeyi bırakması için Walt'u bir kez daha ikna etmeye çalışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/uTAPBgAah14jQbV98Sw7iqJD4W7.jpg",
-                "vote_average": 9.1,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e08"
-            },
-            {
-                "season": 5,
-                "episode": 9,
-                "name": "Kanlı Para",
-                "overview": "Walt ve Jesse, işten uzak bir hayata uyum sağlamaya çalışırlarken Hank, önemli bir ipucu yakalar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/1Oe2rlJ4qbZdwRmaQjh57vH2gUb.jpg",
-                "vote_average": 9.0,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e09"
-            },
-            {
-                "season": 5,
-                "episode": 10,
-                "name": "Gömülü",
-                "overview": "Skyler'ın geçmişi onu rahat bırakmazken Walt, kendi izlerini siler. Jesse ise, suçluluk duygusuyla mücadele etmeye devam eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/b0aRvTXslQgJpCmmcmoYqS9MsIB.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e10"
-            },
-            {
-                "season": 5,
-                "episode": 11,
-                "name": "İtiraflar",
-                "overview": "Jesse bir değişiklik yapmaya karar verirken Walt ve Skyler beklenmedik bir taleple başa çıkmaya çalışırlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/w8Aw3SPdT3uyZpP2pCnKHEIMYj3.jpg",
-                "vote_average": 9.2,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e11"
-            },
-            {
-                "season": 5,
-                "episode": 12,
-                "name": "Kuduz Köpek",
-                "overview": "Her şeyi değiştirebilecek planlar eyleme geçirilirken alışılmadık bir strateji meyvelerini vermeye başlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/5VkI8lm7Xcmlxk92pWRyW341d70.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e12"
-            },
-            {
-                "season": 5,
-                "episode": 13,
-                "name": "Korkak",
-                "overview": "İşler, Walt için beklenmedik şekilde gelişiyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/lunoCRprYl0jEJEkGTS8v6eFq1n.jpg",
-                "vote_average": 9.4,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e13"
-            },
-            {
-                "season": 5,
-                "episode": 14,
-                "name": "Kaçınılmaz Son",
-                "overview": "Dizinin sonuna yaklaşıldıkça herkes, radikal değişimlere uyum sağlamaya çalışmaktadır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/k80r5JYO4LLrPJbWDXmlg7IxRMI.jpg",
-                "vote_average": 9.5,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e14"
-            },
-            {
-                "season": 5,
-                "episode": 15,
-                "name": "Yarım Kalan Bir İş",
-                "overview": "Dizinin sondan bir önceki bölümünde, çok önceden eyleme geçirilen olaylar sonuçlanmak üzeredir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/lCVFehyLhc4qlwTxBwbKpYvc3BS.jpg",
-                "vote_average": 9.2,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e15"
-            },
-            {
-                "season": 5,
-                "episode": 16,
-                "name": "Elveda",
-                "overview": "Ödüllü dizi, dramatik bir finalle sona eriyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg",
-                "vote_average": 9.3,
-                "link": "https://vidmody.com/vs/tt0903747/s5/e16"
-            }
-        ],
-        "update_date": "2026-02-14 21:27:45"
     }
 ]

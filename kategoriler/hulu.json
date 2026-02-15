@@ -1,5 +1,283 @@
 [
     {
+        "id": 258742,
+        "imdb_id": "tt30291387",
+        "name": "All's Fair",
+        "original_name": "All's Fair",
+        "overview": "Kadın boşanma avukatlarından oluşan bir ekip, kendi güçlü pratiklerini açmak için erkek egemen bir şirketten ayrılıyor. Cesur, zeki ve duygusal açıdan karmaşık olan bu avukatlar, hem mahkeme salonunda hem de kendi aralarında, yüksek riskli ayrılıklar, skandal sırlarla ve değişen ittifaklarla başa çıkıyorlar. Paranın konuştuğu ve aşkın bir savaş alanı olduğu bir dünyada, bu kadınlar sadece oyunu oynamıyor, değiştiriyorlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/akJ3gusmlRGvKoFzLgJxsIBL4W4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/xhqklQEaJ7xqsqnwCJZu7hTmTIK.jpg",
+        "year": "2025",
+        "rating": 5.0,
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Kim Kardashian",
+                "role": "Allura Grant",
+                "image": "https://image.tmdb.org/t/p/w200/3TLSq0aHXyxtqaXe9p7yB5Daqsa.jpg"
+            },
+            {
+                "name": "Naomi Watts",
+                "role": "Liberty Ronson",
+                "image": "https://image.tmdb.org/t/p/w200/5s6UE6VjYx5TBDvyFk4vfOdS9GR.jpg"
+            },
+            {
+                "name": "Niecy Nash-Betts",
+                "role": "Emerald Greene",
+                "image": "https://image.tmdb.org/t/p/w200/1QblRt1zawcjTHrdXyzAwtdXKYl.jpg"
+            },
+            {
+                "name": "Teyana Taylor",
+                "role": "Milan",
+                "image": "https://image.tmdb.org/t/p/w200/yC6w0SERmCxUTTu6KYXDxhtkj0j.jpg"
+            },
+            {
+                "name": "Matthew Noszka",
+                "role": "Chase Munroe",
+                "image": "https://image.tmdb.org/t/p/w200/1kALpbgg7wmeeVBZ2THHTQCnU4l.jpg"
+            },
+            {
+                "name": "Sarah Paulson",
+                "role": "Carrington Lane",
+                "image": "https://image.tmdb.org/t/p/w200/tJnhBV516yrekR3hTDUw15UMbxS.jpg"
+            },
+            {
+                "name": "Glenn Close",
+                "role": "Dina Standish",
+                "image": "https://image.tmdb.org/t/p/w200/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Şirket, onuncu yıl dönümünü iki ses getiren davayla karşılar. Allura'nın özel hayatı ise dramatik bir şekilde değişir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nBeFvjqdUBRByi11hm9tHgKEdf3.jpg",
+                "vote_average": 4.4,
+                "link": "https://vidmody.com/vs/tt30291387/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Eski Zamanlar",
+                "overview": "Efsanevi bir avukat emeklilikten döner. Liberty kritik bir kararın eşiğindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9LkGCXj5Hf0OFYGtaeK98Ap6kAH.jpg",
+                "vote_average": 2.4,
+                "link": "https://vidmody.com/vs/tt30291387/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "İntikam İstiyorum",
+                "overview": "İş yerinde, kötü bir evliliğin izlerine bakıp mesai bitince Allura kendi yaralarıyla ilgilenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/A5R9d4rusAc09r58pxfI5xyyLzj.jpg",
+                "vote_average": 2.4,
+                "link": "https://vidmody.com/vs/tt30291387/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Herkes Dansa",
+                "overview": "Emerald bağımsızlığını kucaklar, ta ki beklenmedik bir gelişme ekibi adalet peşinde birleşmeye zorlayana dek.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hNohSVK1B04sWhYCQcUSfyzf6Lk.jpg",
+                "vote_average": 2.8,
+                "link": "https://vidmody.com/vs/tt30291387/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Deniyorum",
+                "overview": "Carr'ın yardıma ihtiyacı var.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f3hEtli3iwJ65wwxmkQnesL68WX.jpg",
+                "vote_average": 3.0,
+                "link": "https://vidmody.com/vs/tt30291387/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Boşanmak Ölüm Gibidir",
+                "overview": "Şirket, şimdiye kadarki en zorlu ve en kişisel arabuluculuk davasını üstleniyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1vIrOtucWwpQ4xFP9bEmP0ejjeF.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt30291387/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Dina vedalaşmakta zorlanır. Carr ve Liberty’nin çekişmesi ise ofis dışına taşınır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4ZsHzg2hVz58HNJl7TRWoSMR2BV.jpg",
+                "vote_average": 3.8,
+                "link": "https://vidmody.com/vs/tt30291387/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Tanrım!",
+                "overview": "Şirket ekibi büyütmeyi değerlendiriyor. Carr da deneme sürecine katılıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eORsJbvcCmW7jE5AzTqrzEU9Dex.jpg",
+                "vote_average": 3.9,
+                "link": "https://vidmody.com/vs/tt30291387/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Büronun İç Yüzü",
+                "overview": "Carr yapılacaklar listesi hazırlıyor. Liberty evliliğin boşanmadan daha karmaşık olabileceğini öğreniyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gitx2CdFr7VX2dEtGJxZqUO3By7.jpg",
+                "vote_average": 4.0,
+                "link": "https://vidmody.com/vs/tt30291387/s1/e09"
+            }
+        ],
+        "update_date": "2026-02-15 10:54:43"
+    },
+    {
+        "id": 241405,
+        "imdb_id": "tt30252752",
+        "name": "Dying for Sex",
+        "original_name": "Dying for Sex",
+        "overview": "Molly Kochan 4. evre meme kanseri teşhisini duyduktan sonra kocasını terk eder ve hayatında ilk defa cinsel arzularını tüm karmaşıklığını keşfe çıkar. Bu macerada en yakın arkadaşı Nikki Boyer sonuna kadar yanında olur.",
+        "poster": "https://image.tmdb.org/t/p/w500/xaKb3cTh8mT6fgLSXuqo4JoS0dU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/bVgcsQddGZ71kTXGrFJOn1fDEZj.jpg",
+        "year": "2025",
+        "rating": 6.5,
+        "genres": [
+            "Dram",
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Michelle Williams",
+                "role": "Molly Kochan",
+                "image": "https://image.tmdb.org/t/p/w200/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+            },
+            {
+                "name": "Jenny Slate",
+                "role": "Nikki Boyer",
+                "image": "https://image.tmdb.org/t/p/w200/aqH8MCnT3O5Od3OfZR8LClSP7UB.jpg"
+            },
+            {
+                "name": "Jay Duplass",
+                "role": "Steve",
+                "image": "https://image.tmdb.org/t/p/w200/zDaNqdtchFBGmT6yR6prTm0rd4V.jpg"
+            },
+            {
+                "name": "Kelvin Yu",
+                "role": "Noah",
+                "image": "https://image.tmdb.org/t/p/w200/47m8mUsuNIEyLb3KeDpryyvK0LI.jpg"
+            },
+            {
+                "name": "David Rasche",
+                "role": "Dr. Pankowitz",
+                "image": "https://image.tmdb.org/t/p/w200/bWPhfa4m8pXVneP1gf37xvuMUCA.jpg"
+            },
+            {
+                "name": "Esco Jouléy",
+                "role": "Sonya",
+                "image": "https://image.tmdb.org/t/p/w200/fmOilIpT78npW7zajQjOh5amLA8.jpg"
+            },
+            {
+                "name": "Rob Delaney",
+                "role": "Neighbor Guy",
+                "image": "https://image.tmdb.org/t/p/w200/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+            },
+            {
+                "name": "Sissy Spacek",
+                "role": "Gail",
+                "image": "https://image.tmdb.org/t/p/w200/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Uyguna Diyet Soda",
+                "overview": "Molly, kendisine konulan acı verici teşhisin ardından, sırtını en yakın arkadaşı Nikki'ye dayar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e09JE02J1teC1DbMUuPfiljjyxx.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt30252752/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Mastürbasyon Önemlidir",
+                "overview": "Molly tedavi planını boş verir ve kendi arzularının peşinden gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jcmAkjDyQTxHBjSI7137VrZvr7z.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt30252752/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Duygular Yükselebilir",
+                "overview": "Molly, komşusunun verdiği rahatsızlığa rağmen, pozitif bir tavır takınmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aeDNQGqIfkCSQnsZMyknxD4fKvP.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt30252752/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Üstte Olmak Kutsal Bir Beceridir",
+                "overview": "Molly ve Nikki bir seks partisine katılır, Molly'nin arzuları onu beklenmedik yerlere sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wxW2Ps3p1tKM1BixvocI4HXGo0e.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt30252752/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Evcil Hayvanım",
+                "overview": "Molly’nin annesi Gail ziyarete gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i2a341I6QRtREspdZUmU2MJh6MO.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt30252752/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "İyi Tatiller",
+                "overview": "Molly geçmişiyle yüzleşirken, Nikki hayatında denge kurmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1g9BEOq67K2cFVfMUaJe3eHHE6F.jpg",
+                "vote_average": 4.9,
+                "link": "https://vidmody.com/vs/tt30252752/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Beni Öldürüyorsun, Ernie",
+                "overview": "Birisi Molly'i hastanede ziyaret eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3hPaTtvjjw9XSozn0TNNpPNCn3z.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt30252752/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "O Kadar da Ciddi Değil",
+                "overview": "Molly hayatı üzerine düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Tmk1gQ30EsvjmUkmAjp7x0gQtd.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt30252752/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 10:54:01"
+    },
+    {
         "id": 136342,
         "imdb_id": "tt28306749",
         "name": "Disney Twisted-Wonderland: The Animation",

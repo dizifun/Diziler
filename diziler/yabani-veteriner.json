@@ -2,23 +2,154 @@
     "id": 243200,
     "imdb_id": "tt30817086",
     "name": "Yabani Veteriner",
+    "original_name": "Animal",
+    "overview": "Çiftlik hayvanlarını tedavi ederken paraya sıkışan veteriner Antón, lüks bir evcil hayvan mağazasında işe girer ve şımartılmış köpekler için birinci sınıf mamalar satmaya başlar.",
     "poster": "https://image.tmdb.org/t/p/w500/vYczshDGYktciJdcdxWpWManGiD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/jeua3sqZS9JQkOIBToLm6rvNUn9.jpg",
     "year": "2025",
+    "rating": 6.8,
     "genres": [
         "Komedi"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Luis Zahera",
-        "Lucía Caraballo",
-        "Carmen Ruiz",
-        "Antonio 'Morris' Durán",
-        "Nuno Gallego"
+        {
+            "name": "Luis Zahera",
+            "role": "Antón",
+            "image": "https://image.tmdb.org/t/p/w200/4WEGXd6pOWHkAUcffJrg42BFPI3.jpg"
+        },
+        {
+            "name": "Lucía Caraballo",
+            "role": "Uxía",
+            "image": "https://image.tmdb.org/t/p/w200/hhQ2eeMqIYK267V4QeAe0wlAybu.jpg"
+        },
+        {
+            "name": "Carmen Ruiz",
+            "role": "Sabela",
+            "image": "https://image.tmdb.org/t/p/w200/htEzZBGjknkv9sK4SQBpLF9lYhr.jpg"
+        },
+        {
+            "name": "Antonio 'Morris' Durán",
+            "role": "Vicente",
+            "image": "https://image.tmdb.org/t/p/w200/3D3wl7paKTwDqzq1dbvf6Y7MKU.jpg"
+        },
+        {
+            "name": "Nuno Gallego",
+            "role": "Miguel",
+            "image": "https://image.tmdb.org/t/p/w200/iZuuVtXV3FyKKbGJLAbj1S3OCoq.jpg"
+        },
+        {
+            "name": "Darío Loureiro",
+            "role": "Nuno",
+            "image": "https://image.tmdb.org/t/p/w200/6ylOfRtSIz1GwJBQVk82FkIwktb.jpg"
+        },
+        {
+            "name": "Adrián Viador",
+            "role": "Bernardo",
+            "image": "https://image.tmdb.org/t/p/w200/19hzRHlblcbY2bthYh8lZ8iq1kv.jpg"
+        },
+        {
+            "name": "Sergio Abelaira",
+            "role": "Toñín",
+            "image": "https://image.tmdb.org/t/p/w200/1v1h7wNmimzfrQ5yJwpLYgfcAWe.jpg"
+        },
+        {
+            "name": "Fer Fraga",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/k88nGh91fLjdnS0etnU8BrkGwlh.jpg"
+        },
+        {
+            "name": "Raquel Nogueira",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/7FPtCRYvDyL0LTVjWW8NMuEdPMB.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Kawanda Ailesi",
+            "overview": "Borçları birikmesine rağmen çiftçi komşularından sadece yumurta ile ödeme alabilen Antón, gururunu bir kenara bırakıp yeğeninin lüks evcil hayvan mağazasında işe girmeyi düşünür.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7zUi2UsVIavmiP4mXfXMsZpT6AY.jpg",
+            "vote_average": 6.5,
             "link": "https://vidmody.com/vs/tt30817086/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Gülümsemek Bulaşıcıdır",
+            "overview": "Huysuz Antón ve neşeli Uxía'nın çatışan kişilikleri evde ve işte gerginliğe neden olur. Müşterilerden kötü yorumlar alan Antón, sunduğu hizmetleri gözden geçirmeye karar verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/g46O8v43BeMuxqBY0mLCuByxCpR.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30817086/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Kupa Cümleleri",
+            "overview": "Eski komşularının yeni bir veteriner bulmasına öfkelenen Antón, bu kişinin bir sahtekâr olduğunu kanıtlamak için Kawanda'yı terk eder. Hem de önemli bir yarışmanın hemen öncesinde.",
+            "still_path": "https://image.tmdb.org/t/p/w400/whb5ipPh9q2nBtUKIMlr6rvcgWu.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt30817086/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Kızgın Damdaki Kobay",
+            "overview": "Yozlaşmış çiftçiler, Uxía'nın yeni erkek arkadaşı, Sabela ile inişli çıkışlı ilişkisi ve hamile bir kobay, anksiyete ile boğuşan Antón'un hayatını daha da zorlaştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xPwhzqTT1aGUq8w1NXV2lLyru78.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt30817086/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Kawanda Vakfı",
+            "overview": "Kawanda'daki hayatından bunalan Antón, çiftlik hayatına geri dönebilmek için ahlaki tutumunu değiştirmeyi düşünür. Ancak önce Nuno'yu kendisinin yerine geçmeye ikna etmelidir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l9hw2rXqGhRKSo7KHLaeKeC2uJs.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt30817086/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Son Adım",
+            "overview": "Antón, Andrade ailesi için yaptığı işin olası sonuçlarından endişelenir. Uxía'nın eski sevgilisi onunla arayı düzeltmeye çalışırken Nuno şaşırtıcı bir duyuru yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2SRORLhDIQZ9ZBqaQx3vW4Eq1t3.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt30817086/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Ziyaret",
+            "overview": "Kawanda'yı denetlemek üzere şirketin genel merkezinden bir yönetici gelir. Andrade ailesinin çevirdiği işlerin yetkililerin radarına takılması, Antón'un anksiyetesini körükler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4m0OSVFzhq022GRjWG5RxHOylHF.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt30817086/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Niagara Şelaleleri",
+            "overview": "Andrade ailesi ciddi derecede hasta bir ineği kurtarması için Antón'un yeteneklerine ihtiyaç duyunca, Antón hem kendisiyle hem de Uxía ve Sabela ile barışma fırsatı yakalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x58I6IyFirWudFrqTE3ViHG5udq.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt30817086/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Boktan Bir Gün",
+            "overview": "Antón kendisini hâkimin karşısında bulur. Uxía, genel merkezin onu görevinden almayı planladığını öğrenir. Kawanda'da köpekler arasında ishal salgını baş gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/61GzDyKPSPT2OmcJAdKSBtBRdsZ.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt30817086/s1/e09"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:04:47"
 }

@@ -2,24 +2,123 @@
     "id": 241883,
     "imdb_id": "tt30494784",
     "name": "Bahçıvan",
+    "original_name": "El jardinero",
+    "overview": "Annesi, Elmer'in duygusuzluğunu kullanarak onu bir tetikçiye dönüştürdü. Ama Elmer yeni kurbanına âşık olunca sakin, yerel bahçıvan kimlikleri tehlikeye girer.",
     "poster": "https://image.tmdb.org/t/p/w500/cEAn5NQuBDygU1B57D0dbPwwDDR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mhRhipgo5ACKcoHMCOaD6a7h8gs.jpg",
     "year": "2025",
+    "rating": 6.8,
     "genres": [
         "Suç",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Álvaro Rico",
-        "Cecilia Suárez",
-        "Catalina Sopelana",
-        "María Vázquez",
-        "Emma Suárez"
+        {
+            "name": "Álvaro Rico",
+            "role": "Elmer",
+            "image": "https://image.tmdb.org/t/p/w200/q90LJq9woLdGHvy6RUlugqSW76r.jpg"
+        },
+        {
+            "name": "Cecilia Suárez",
+            "role": "La China Jurado",
+            "image": "https://image.tmdb.org/t/p/w200/m2lUTpivduEiRwyPIrdg8hcI8zq.jpg"
+        },
+        {
+            "name": "Catalina Sopelana",
+            "role": "Violeta",
+            "image": "https://image.tmdb.org/t/p/w200/mzbWt3yS1pgZKNH6R78WhqWkgSH.jpg"
+        },
+        {
+            "name": "María Vázquez",
+            "role": "Detective Carrera",
+            "image": "https://image.tmdb.org/t/p/w200/k0HXxRMWpKyxFUfjgNmo3NfujX4.jpg"
+        },
+        {
+            "name": "Emma Suárez",
+            "role": "Sabela Costeira",
+            "image": "https://image.tmdb.org/t/p/w200/46VjvDA7znpxJvYmbu4t9PjoGfJ.jpg"
+        },
+        {
+            "name": "Francis Lorenzo",
+            "role": "Detective Luis Torres",
+            "image": "https://image.tmdb.org/t/p/w200/75IXZlGL7AZcllw4k9KKl5ilNEV.jpg"
+        },
+        {
+            "name": "Ivan Massagué",
+            "role": "Tony",
+            "image": "https://image.tmdb.org/t/p/w200/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg"
+        },
+        {
+            "name": "Javier Morgade",
+            "role": "Xoán",
+            "image": "https://image.tmdb.org/t/p/w200/hcDV10bTZlm1rTi0NRhoGIpdicw.jpg"
+        },
+        {
+            "name": "Esteban Roel",
+            "role": "Orson",
+            "image": "https://image.tmdb.org/t/p/w200/AcN30ZzrFUXXuhNZMaqDHh1KBoX.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Atlantik Peyzajı",
+            "overview": "Sözde bahçıvanlık yapan ama aslında suikastçı olan Elmer, sorunlu genç kadın Violeta'yı öldürmekle görevlidir. Polis, şüpheli bir cinayet haberi alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jPn5vXQaub4JrKsn2Iugh7Dnk2O.jpg",
+            "vote_average": 7.7,
             "link": "https://vidmody.com/vs/tt30494784/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Tohum Çimlendirme",
+            "overview": "Violeta'yla gittikçe yakınlaşan Elmer yeni bir kurban bulur. Sağlığıyla ilgili haberler ve yeni keşfettiği duygular, annesinin emirlerine karşı gelmeyi düşünmesine yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mkaSUN2zqB1WWKVkapQpP5XNLXu.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt30494784/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Organik Alt Tabaka",
+            "overview": "China, Elmer'in işini onun için bitirmeyi düşünür. Kayıp biri için başlatılan arama, Violeta'nın geçmişi ve son partneri hakkında soru işaretlerine yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/p3IYWILwuAAVCOP55hEd7bj1We3.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt30494784/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Zararlılarla Mücadele",
+            "overview": "Torres ve Carrera, kendilerine yardımcı olabilecek bir profesörü ziyaret eder. Elmer, Violeta'yı birlikte zaman geçirmeye ikna etmeye çalıştıkça anne ile oğulun arası açılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r9LnlIfgj5iExLgwte41Sik7zpi.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt30494784/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Ayrışma Adası",
+            "overview": "Elmer, Violeta ile giriştiği bir tartışmadan sonra görevini yerine getirmeyi düşünür. Torres ve Carrera, baş şüphelinin olası yerine göz atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ze0ITEyhzMGvCJCPyX01BnglpqP.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt30494784/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Budama Takvimi",
+            "overview": "Violeta ve Elmer, içinde bulundukları durumun gerçekliğiyle yüzleşir. China, oğluna bir çıkış yolu sunar ama Elmer, annesinin kanıtları polisten gizleyeceğine güvenebilecek midir?",
+            "still_path": "https://image.tmdb.org/t/p/w400/6Ngrzzipc0RxJ86N3xXZlu8GJmO.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt30494784/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:59:37"
 }

@@ -2,24 +2,617 @@
     "id": 60059,
     "imdb_id": "tt3032476",
     "name": "Better Call Saul",
+    "original_name": "Better Call Saul",
+    "overview": "Breaking Bad'in yan hikayesi olan dizide, ufak çaplı avukat Jimmy McGill’in ahlak yoksunu \"hukuk adamı\" Saul Goodman’a dönüşmesini izliyoruz.",
     "poster": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
     "year": "2015",
+    "rating": 8.7,
     "genres": [
         "Suç",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "AMC",
+        "Netflix"
+    ],
     "cast": [
-        "Bob Odenkirk",
-        "Jonathan Banks",
-        "Rhea Seehorn",
-        "Tony Dalton",
-        "Giancarlo Esposito"
+        {
+            "name": "Bob Odenkirk",
+            "role": "Jimmy McGill",
+            "image": "https://image.tmdb.org/t/p/w200/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+        },
+        {
+            "name": "Jonathan Banks",
+            "role": "Mike Ehrmantraut",
+            "image": "https://image.tmdb.org/t/p/w200/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+        },
+        {
+            "name": "Rhea Seehorn",
+            "role": "Kim Wexler",
+            "image": "https://image.tmdb.org/t/p/w200/t78ffWaeKkdGfnEGNb8TwsoxeHi.jpg"
+        },
+        {
+            "name": "Tony Dalton",
+            "role": "Lalo Salamanca",
+            "image": "https://image.tmdb.org/t/p/w200/vWteTJu9Dyrax7gQq8ndTjx5s6V.jpg"
+        },
+        {
+            "name": "Giancarlo Esposito",
+            "role": "Gus Fring",
+            "image": "https://image.tmdb.org/t/p/w200/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Bir",
+            "overview": "Zorlu bir dönemden geçen avukat Jimmy McGill, karanlık geçmişini geride bırakmaya çalışır. Ama büyük bir fırsat belirdiği zaman eski alışkanlıkları bırakmak zordur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kXPlwZm3RefxpSU5E3Mu4Yyvn40.jpg",
+            "vote_average": 8.3,
             "link": "https://vidmody.com/vs/tt3032476/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Oğlum",
+            "overview": "Tehlikeli suçlulara karşı şiddet dolu ve gergin anlar yaşayan Jimmy, kendi ikna gücü sayesinde ya hayatta kalacak ya da ölecektir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wOkddHcnj8Fae8VbLbKMh641HHy.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt3032476/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Nacho",
+            "overview": "Çok tehlikeli yeni bir müvekkili polisin elinde olan Jimmy, polisin dikkatini başka yöne çekerek bir yandan da kendi paçasını kurtarmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/8hppJlzeXuiJVZW5JrL2G3EfrmA.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt3032476/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Kahraman",
+            "overview": "Çaresiz kalan Jimmy, yeni işler yakalayabilmek için yaratıcılığını kullanır. Üstüne üstlük küçük çaplı bir intikam almayı da başarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1effMQQBq8BhBQXeqLNFcr8RGVb.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt3032476/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Dağ Çobanı",
+            "overview": "Jimmy, hukukun yeni bir alanında nabız yoklarken bir yandan da ağabeyini tehlikeden uzak tutmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/854TkmG8cP00FmIR8QjTsa0ajVE.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt3032476/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Aynasız",
+            "overview": "Mike'ın bir ricası vardır ve Jimmy, yardımcı olabilmek için beklenmedik fedakarlıklar yapmaya hazırdır. Buna rağmen, bir şeyler Mike'ın içini kemirmeye devam eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7tSG2a6GSQyEcWH3P5e4zNqjVZO.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt3032476/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Tombala",
+            "overview": "Yeni müvekkilleri, Jimmy’yi hem kişisel hem de profesyonel anlamda zor durumda bırakırlar. O da, kendisine iyilik borcu olan birinin gizli yardımını ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f1MVCLlx6pOS3DJo4qRLVCNRuSX.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt3032476/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Dolandırıcılık",
+            "overview": "Kirli işler çeviren bir şirketi adaletin önüne çıkarma fırsatı ortaya çıkınca Jimmy kanıtların peşine düşer, Chuck da harekete geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5vpI6D2n4zma4xqQBRq2Bz3tHu5.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt3032476/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Peynirli Sandviç",
+            "overview": "Jimmy, büyük davası yüzünden gururunu bir kenara bırakıp beklenmedik bir kaynaktan yardım istemek zorunda kalır. Bu arada Mike da, iş aramaya geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/iCMwMQstYZz8SRsiULMtiiP2xes.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt3032476/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Marco",
+            "overview": "Memleketini ziyaret eden Jimmy, eski suç ortağıyla bir araya gelir. İkili, çok geçmeden eski günlerine geri döner.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eUl8LoEhEtIy0kdyvwgo2ZNSH9B.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt3032476/s1/e10"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "name": "Şalter",
+            "overview": "Yeni elde ettiği özgürlüğünün keyfini çıkaran Jimmy'nin Kim'le ilişkisi yeni bir boyut kazanır. Mike, pervasız müşterisiyle ilişkisini sonlandırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bLx6Ow42rtFGJ0missJEfwUN4yF.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e01"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "name": "Turta",
+            "overview": "Mike dengesiz bir durumu eline yüzüne bulaştırmadan kontrol altına almaya çalışır. Sıra dışı müvekkilini temize çıkarmaya çalışan Jimmy'nin eski içgüdüleri devreye girer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/9SXC0BMRAt5OHWZFqXESkOGLRhO.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e02"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "name": "Amarillo",
+            "overview": "Daha fazla Sandpiper müvekkili toplama çabası kuşku uyandırınca, Jimmy taktik değiştirerek baş döndürücü şovmenliği için yeni bir kullanım alanı bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/o3euy8qB8AErKQcVHRrGWV1Xtiq.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e03"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "name": "Boks Eldivenleri",
+            "overview": "Mike, kendisini karanlık sulara çekebilecek cazip bir teklifi değerlendirirken Jimmy, sıra dışı kampanyasının neden olduğu hasarı gidermeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rtVuaHImiLxvnffNASJbF4Q3F89.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e04"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "name": "Rebecca",
+            "overview": "Kim, şirketle arasını düzeltmek için elinden geleni yaparken, Jimmy firmadaki genç avukatın müdahalesinden rahatsızlık duyar. Chuck, eski bir yarayı deşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hU120urNKVue1UIX25EXPTVBOcB.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e05"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "name": "Bali Ha'i",
+            "overview": "Jimmy, tanıdık bir mekânda avuntu bulurken, Kim hayatını değiştirebilecek teklif üzerine düşünür. Endişe verici yeni bir tehdit, Mike'ın sınırlarını zorlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aUZtWB6MGftmrttpvfkc7GcGMtF.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e06"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "name": "Şişme Adam",
+            "overview": "Jimmy, Davis & Main'daki problemler için renkli bir çözüm bulur. Kim, cazip bir teklifin gerçekleşmesini beklerken huzursuzlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1RumrNbk6ZAGB5U1YqQR6h96u77.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e07"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "name": "Fifi",
+            "overview": "Mike her yönden baskı altındayken, kendi kaderini kontrol altına almayı dener. Jimmy, beklenmedik bir şekilde karşısına çıkan bir fırsatın peşine düşer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/43SruAr8U7y2qteRb9OaSTesQzy.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e08"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "name": "Başarmak",
+            "overview": "İş yerindeki utanç verici bir yenilgiden sonra Chuck, Jimmy'nin iç yüzünü Kim'e göstermeye yemin eder. Bu sırada Mike, Hector Salamanca'ya karşı cesur bir adım atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Q9JaQ63y3diwZ6HVebbMLfH9sc.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e09"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "name": "Kilometre",
+            "overview": "Chuck'ın hastalanmasının ardından, Jimmy arka arkaya zorlu seçimler yapmak zorunda kalır. Mike, çölde gizemli bir görev için hazırlık yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zit4sAsSYOnpk5MOcceRiQf0VTj.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt3032476/s2/e10"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "name": "Mabel",
+            "overview": "Chuck bir sonraki hamlesini planlar. Bir başka yalanı Jimmy'nin ayağına dolanır. Kafası karışan Mike, hareketlerini kimin nasıl izlediğini bulmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gABmDo0yc5A9Rqpx7ebzvxMTTRg.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e01"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "name": "Tanık",
+            "overview": "Hedefine yaklaşan Mike, Jimmy'den gizli bir operasyon için yardım ister. İşe yeni giren biri, Wexler and McGill ofisine canlılık verir. Kim, rahatsız edici haberler alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/buKhfwuOyXv5ZbZSlkWz0pR6Il5.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e02"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "name": "Batık Maliyet",
+            "overview": "Mike, yeni tanıştığı gizemli biriyle buluşurken Jimmy, Chuck'ın evinde yaşanan olayın onur kırıcı neticeleriyle yüzleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/gGm2dT0m297MGdFjcdBRRYVosF5.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e03"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "name": "Sabrosito",
+            "overview": "İçten içe kaynayan bir düşmanlık kontrolden çıkınca Los Pollos Hermanos'ta gergin anlar yaşanır. Kim, Jimmy'nin Chuck ile yapacağı buluşmaya hazırlanmasına yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pFjMOyhgP8HCwkRG34ZD8C0VTDz.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e04"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "name": "Dalavere",
+            "overview": "Jimmy'nin eyalet barosu komitesi ile yapacağı görüşme günü gelip çatar. Jimmy ve Kim, Chuck için hazırladıkları bir dizi sürprizi uygulamaya koyar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rsYlkD587vrj6fp1DToyQ9PpjJ6.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e05"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "name": "Marka Dışı",
+            "overview": "Chuck, duruşmada olup bitenlere bir anlam vermeye çalışırken Jimmy finansal sorunlarından kurtulmanın zekice bir yolunu bulur. Don Hector, Nacho'yu tedirgin eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lAEikpCAspgsGAaNpnbyxXHO6nj.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e06"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "name": "Masraflar",
+            "overview": "Jimmy geçim sıkıntısı çekerken Kim, suçluluk duygusuyla mücadele eder. Nacho, eski bir tedarikçiyi Hector'u devirme planına çeker.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jqVsNTUU6uhgjIpxzTgOa8U1teK.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e07"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "name": "Kayma",
+            "overview": "Müvekkiller bir anlaşmadan vazgeçmeye çalışınca Jimmy sert oynamak zorunda kalır. Nacho, önemli an için alıştırma yapar. Mike, gizli bir ortaklık kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pnOBvxBuWqNNGrU36PU5xg2Np8t.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e08"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "name": "Düşme",
+            "overview": "Jimmy, Sandpiper'a kurnaz bir planla geri döner. Bu sırada Chuck ve Howard, şirketin geleceği konusunda tartışır. Kim, yeni bir müvekkili memnun etmek için koşuşturur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/1I5fgW7h62PsDmMGpThHJ0tSdg3.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e09"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "name": "Fener",
+            "overview": "Kazanın ardından bir bunalım yaşayan Kim, önceliklerini tekrar değerlendirir. Jimmy, bir hatasını telafi etmeye çalışır. Chuck'ın durumu giderek kötüleşir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3WXy9QOXSbJCF5OfhfKed0TcFzk.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt3032476/s3/e10"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "name": "Duman",
+            "overview": "Jimmy ani bir trajediyi kabullenirken Mike, bir bilgi toplama görevi için Madrigal'a gider. Nacho, Juan Bolsa ile buluşur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mXY2l7DK5tfodFfqxThL0gg65Tg.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e01"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "name": "Nefes Al",
+            "overview": "Jimmy bir iş görüşmesinde tüm cazibesini kullanır. Hector Salamanca'nın durumu Gus'ı endişelendirir. Sabrı taşan Kim, Howard'a patlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lozKaJD6hNLqG7dPmxucU2d4bZ2.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e02"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "name": "Güzel Bir İş",
+            "overview": "Gus'ın adamları, Nacho'ya acı verici bir deneyim yaşatır. Jimmy'nin kolay para kazanma planı ciddi bir engelle karşılaşır. Kim bir kez daha Mesa Verde işine dalar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j2PhqbOQCfEIcZoKlBHe6oHO70I.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e03"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "name": "Konuşma",
+            "overview": "Jimmy hayatını yoluna koyduğunu Kim'e göstermek için yeni bir işe girer. Nacho kendini bir katliamın ortasında bulur. Mike destek grubu toplantısında olay çıkarır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/x3gDoGCY4JTWDkm2GQQTwiZBFrH.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e04"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "name": "Ne Maceraydı!",
+            "overview": "Jimmy cep telefonu satmak için sokaklarda öğrendiği becerileri kullanırken Kim, ücretsiz dava kabul etmeye başlar. Mike kazı uzmanlarıyla görüşme yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sA6ZZA1VELtpQAnRxZtFhagiPgL.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e05"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "name": "Piñata",
+            "overview": "Kim, Jimmy'nin Wexler-McGill için yaptığı planları zora sokacak bir iş değişikliği üzerine kafa yorar. Mike ve Gus, Alman işçilerin gelişine hazırlanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y8lB4NeGWqlRfVtULraOiarXPAl.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e06"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "name": "Aptalca Bir İş",
+            "overview": "Kim ile ilişkisinde yeni gerilimler yaşanırken Jimmy, ek işinin hacmini arttırır. Ancak bu kez başı polisle belaya girer. Hector bir dönüm noktasına gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/drxVhOlWzRp4V9rrcGZIEqrhwG6.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e07"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "name": "Coushatta",
+            "overview": "Jimmy ve Kim, Huell'in hapse girmesini önlemek için karmaşık bir plan yapar. Mike işçilerin bir geceliğine kente gitmesine izin verir. Ama bu can sıkıcı sonuçlar doğurur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/prdfPctjYisErdRPE9MY5lhFaYt.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e08"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "name": "Wiedersehen",
+            "overview": "Kim ile birlikte bir kez daha dolap çeviren Jimmy, avukatlık lisansını geri almaya çalışır. Werner'ın davranışı Mike'ı endişelendirir. Lalo Salamanca, Gus'ı ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dsZZClwZHFqAUK6VjVIuPOwtxfS.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e09"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "name": "Kazanan",
+            "overview": "Chuck'ın ölüm yıl dönümünde Jimmy, imajını düzeltmek için elinden gelen her şeyi yapar. Bu sırada Mike, Werner'ın izini bulmak için bölgeyi araştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6Gqb3QyBSYEn71pcTWortPcdbcu.jpg",
+            "vote_average": 9.3,
+            "link": "https://vidmody.com/vs/tt3032476/s4/e10"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "name": "Mucize Adam",
+            "overview": "Jimmy, Kim'in endişelerine rağmen Saul kimliğiyle yeni hayatına hızlı bir giriş yapar. Lalo, Gus'ın çamaşırhane planlarını sekteye uğratır. Omaha'da Gene paniğe kapılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/s3dkWr75dnprdINXDJwbLj5K2k4.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e01"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "name": "Yüzde 50 İndirim",
+            "overview": "Jimmy indirim kampanyasının ardından akın akın gelen müvekkillere yetişmekte zorlanır. Gus'ın baskısıyla Nacho, Lalo'nun güvenini kazanmak için büyük bir risk alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/y3hl0ho1RFX4cc7QA0ASstYxrRd.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e02"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "name": "Bu İş İçin Biçilmiş Kaftan",
+            "overview": "Lalo, Saul'a bir görev verir. Mesa Verde'yle ilişkili acil bir durum Kim'i sarsar. İki DEA ajanı hapishanede Domingo'yu ziyaret eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dUeK8mFafhyqC2Q8R4dV8SNjU7l.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e03"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "name": "Namaste",
+            "overview": "Jimmy, Howard'dan aldığı teklifi düşünür. Kim, Mesa Verde konusunda yaşadığı açmaza karşı yeni bir yaklaşım benimser. Hank ve Steve, Gus'ın zulasının olduğu yerde bekler.",
+            "still_path": "https://image.tmdb.org/t/p/w400/r2r0dRdlofscCZQkEVbjGXP27tk.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e04"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "name": "Max Anısına",
+            "overview": "Yaralı Mike gözünü evinden uzakta açar. Saul yeni müvekkilinin evinden çıkarılmasını önlemek için her şeyi yapar. Kim, Mesa Verde'ye karşı uzun vadeli bir plan hazırlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/dATaoHp0uLqxS3AoLW3MiJFQEDS.jpg",
+            "vote_average": 8.4,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e05"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "name": "Wexler Goodman'a Karşı",
+            "overview": "Jimmy, Mesa Verde'ye karşı bir karalama kampanyası hazırlamak için video ekibini toplar. Ancak Kim tereddüt eder. Mike, Lalo'ya tuzak kurar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wTiiiq4jyHjXmrRECsCzEHv2yzP.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e06"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "name": "JMM",
+            "overview": "Jimmy ve Kim, Mesa Verde toplantısından sonra yaşadıkları gerginliği aşmaya çalışır. Lalo gerçekleşmesi imkânsız bir talepte bulunur ve Gus'tan alacağı intikamı planlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/AjgRDPeKEWlvZf3oCiFKOvn0Jm4.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e07"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "name": "Tahsilatçı",
+            "overview": "Jimmy, Lalo için oldukça kârlı bir ayak işini üstlenir. Ancak kendini çölde ürpertici bir yolculuk yaparken bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xAq4k14KeWACbpALOCcF8q4ZPZL.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e08"
+        },
+        {
+            "season": 5,
+            "episode": 9,
+            "name": "Kötü Seçimler, Kötü Yollar",
+            "overview": "Sarsılan Jimmy uzun süreli yokluğunu açıklamak için bir hikâye uydurur. Ancak yalanı hızla açığa çıkar. Kim kendini bir dönüm noktasında bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7Z5gCUKmZrU6KRBOpPjOOAI2htH.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e09"
+        },
+        {
+            "season": 5,
+            "episode": 10,
+            "name": "Affedilmez Bir Şey",
+            "overview": "Lalo ile yüzleşen Jimmy, Mike'tan sorularını yanıtlamasını ister. Howard'ın uyarısı Kim'i düşünmeye sevk eder. Nacho, Meksika'ya gerilim dolu bir yolculuk yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lzS7W0cW6sm5ec8RmbbXyY0OjGZ.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt3032476/s5/e10"
+        },
+        {
+            "season": 6,
+            "episode": 1,
+            "name": "Şarap ve Güller",
+            "overview": "Lalo'nun çiftliğine yapılan baskının ardından Nacho, hayatta kalmak için kaçar. Jimmy ve Kim, Howard'ı sabote etmek için bir plan yapar. Mike, Gus'ın niyetini sorgulamaya başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/spRkg6Qa2X4C856KOMlRGQHg6cE.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e01"
+        },
+        {
+            "season": 6,
+            "episode": 2,
+            "name": "Ödül ve Ceza",
+            "overview": "Kim'in bulduğu yeni fikir, Jimmy'yi kendisine hâlâ kin besleyen eski müşterileriyle yüz yüze getirir. Mike, Salamanca'lardan bir adım önde olmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xTysKECyp0a24xmNvLkrjehhfRY.jpg",
+            "vote_average": 8.6,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e02"
+        },
+        {
+            "season": 6,
+            "episode": 3,
+            "name": "İki Arada Bir Derede",
+            "overview": "Seçenekleri tükenen Nacho bir anlaşma yapar. Savcılık, karteli ispiyonlaması için Jimmy'yi ikna etmeye çalışır. Huell, Howard'a karşı hazırlanan komploya yardım eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/boQ8tjHdabQB6TXEDgJux7gEzSW.jpg",
+            "vote_average": 9.1,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e03"
+        },
+        {
+            "season": 6,
+            "episode": 4,
+            "name": "Vurkaç",
+            "overview": "Tam zamanında yapılan bir numara, Howard'ın itibarına bir darbe daha indirir. Kim, takip edildiğinden endişelenir. Jimmy kaderinin değiştiğini fark eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/72l2rFphfzkBr92OgYtoMaNbpCU.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e04"
+        },
+        {
+            "season": 6,
+            "episode": 5,
+            "name": "Siyah ve Mavi",
+            "overview": "Gus, Lalo'nun bir hamle yapmasını beklerken huzursuzlanır. Kim, eski bir meslektaşından istihbarat alır. Howard saldırganlaşır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/v8eRAlbjDMwDx4JuCsyimHZ6kxE.jpg",
+            "vote_average": 7.9,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e05"
+        },
+        {
+            "season": 6,
+            "episode": 6,
+            "name": "Kişisel Çıkarlar",
+            "overview": "Jimmy, Sandpiper planının son rötuşlarını yaparken Kim, çok önemli bir toplantıya katılma şansı yakalar. Lalo, Gus ile bağlantısı olan birinin izini sürer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/48SkTDWOgXt1hjc5rE0pT9QlAGA.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e06"
+        },
+        {
+            "season": 6,
+            "episode": 7,
+            "name": "Plan ve Uygulama",
+            "overview": "Lalo bir sonraki hedefini belirler. Jimmy ve Kim son anda ortaya çıkan bir sorunla boğuşur. Sandpiper için yürütülen uzlaşma sırasında tansiyon yükselir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/flVUI98wSTtLmYDCx81gowleQTe.jpg",
+            "vote_average": 9.4,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e07"
+        },
+        {
+            "season": 6,
+            "episode": 8,
+            "name": "Silahı Doğrult ve Tetiği Çek",
+            "overview": "Jimmy ve Kim eylemlerinin sonuçlarıyla yüzleşmek zorunda kaldıkları çok uzun bir gece geçirir. Lalo son planını uygulamaya koyar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/j00SYyNwv9agYN4gxW1f5AYFrhG.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e08"
+        },
+        {
+            "season": 6,
+            "episode": 9,
+            "name": "Güllük Gülistanlık",
+            "overview": "Mike yarım kalmış işleri çözerken kartel, Gus'ı bir toplantıya çağırır. Bir anma etkinliğinde Jimmy ve Kim zor durumda kalır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/60qtAptwYKQnXriCB1wR2f6sTp4.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e09"
+        },
+        {
+            "season": 6,
+            "episode": 10,
+            "name": "Nippy",
+            "overview": "Gene, Omaha'da hayali bir köpek ve tarçınlı çörekleri içeren bir planla bir tehdidi etkisiz hâle getirmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/wZuBaYUf0hs9hxNUdTMO8aU9b6q.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e10"
+        },
+        {
+            "season": 6,
+            "episode": 11,
+            "name": "Breaking Bad",
+            "overview": "Gene, Albuquerque günlerinden tanıdığı biriyle yeniden bağlantı kurup hızlı para kazanmak için bir plan yaparken, geçmiş ve gelecek iç içe geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7gp9Zjm6cpmv1w58ZNmxITBZa8E.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e11"
+        },
+        {
+            "season": 6,
+            "episode": 12,
+            "name": "Gözyaşları",
+            "overview": "Palm Coast Fıskiye Sistemleri'ne gelen bir çağrı önemli olaylar zincirini tetikler. Gene'in yaptığı son sahtekârlığın ardından ortalık karışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/eeNijlYY7NQEqHLp8ZqlLfGDtXV.jpg",
+            "vote_average": 8.8,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e12"
+        },
+        {
+            "season": 6,
+            "episode": 13,
+            "name": "Saul Gider",
+            "overview": "İfşalar. Pişmanlıklar. RICO ihlalleri. Jimmy'nin farklı dünyaları ve kimlikleri son bir hesaplaşmada ortaya saçılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/aZFwz8FaM9MXFqwakFnhhNjYZSv.jpg",
+            "vote_average": 9.2,
+            "link": "https://vidmody.com/vs/tt3032476/s6/e13"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 10:55:52"
 }

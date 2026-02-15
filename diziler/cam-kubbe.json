@@ -2,25 +2,129 @@
     "id": 275388,
     "imdb_id": "tt30750108",
     "name": "Cam Kubbe",
+    "original_name": "Glaskupan",
+    "overview": "Arkadaşının kızı kaybolunca arama çalışmalarına katılan kriminolog Lejla, çocukken başına gelen ve hiç unutamadığı kaçırılma olayının yarattığı travmayla yüzleşmek zorunda kalır.",
     "poster": "https://image.tmdb.org/t/p/w500/8BASUGDpNoCUTNvX754JpuEKhpv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/w8NsengOrWLapYBVutr52gwWMio.jpg",
     "year": "2025",
+    "rating": 7.0,
     "genres": [
         "Dram",
         "Suç",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Leonie Vincent",
-        "Johan Hedenberg",
-        "Johan Rheborg",
-        "Ia Langhammer",
-        "Cecilia Nilsson"
+        {
+            "name": "Leonie Vincent",
+            "role": "Lejla",
+            "image": "https://image.tmdb.org/t/p/w200/JHc7myQnbLYe0gnPbZBVQeYJeL.jpg"
+        },
+        {
+            "name": "Johan Hedenberg",
+            "role": "Valter",
+            "image": "https://image.tmdb.org/t/p/w200/hpDHdPCnQCkGyd4In13VSFdlYk.jpg"
+        },
+        {
+            "name": "Johan Rheborg",
+            "role": "Tomas",
+            "image": "https://image.tmdb.org/t/p/w200/yfEAI5fzwC2IUycSdhU1wifMw6E.jpg"
+        },
+        {
+            "name": "Ia Langhammer",
+            "role": "Jorun",
+            "image": "https://image.tmdb.org/t/p/w200/vMMNYCTsAH3wEwVW91rT8CfAODg.jpg"
+        },
+        {
+            "name": "Cecilia Nilsson",
+            "role": "Kristina",
+            "image": "https://image.tmdb.org/t/p/w200/xljBvmQ97Abq6MlA10o8cO6oTLt.jpg"
+        },
+        {
+            "name": "Emil Almén",
+            "role": "Björn",
+            "image": "https://image.tmdb.org/t/p/w200/dId1GYpFHn8JZepoyDKKNvOmbAA.jpg"
+        },
+        {
+            "name": "Emma Broomé",
+            "role": "Aino",
+            "image": "https://image.tmdb.org/t/p/w200/nEeXfT7uvKrw5Xd2CVI5jWx8vNI.jpg"
+        },
+        {
+            "name": "Oscar Töringe",
+            "role": "Martin",
+            "image": "https://image.tmdb.org/t/p/w200/yHW4MIhVjslqxrCa2sz7y6B58Un.jpg"
+        },
+        {
+            "name": "Bianca Lynxén",
+            "role": "Isla",
+            "image": ""
+        },
+        {
+            "name": "Seraphine Krystek",
+            "role": "Young Lejla",
+            "image": ""
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Kriminolog Lejla, kendisini evlat edinen annesinin ölümünden sonra gözlerden uzak memleketine geri döner. Burada kaybolan küçük bir kız, eski yaralarını yeniden açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nHzF1lrxbQ5hwMrR1ksQuvAqxxS.jpg",
+            "vote_average": 6.2,
             "link": "https://vidmody.com/vs/tt30750108/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Lejla ve Valter, Alicia'nın kaybolmasını kendi başlarına araştırmak için bir araya gelir ve bu durum, yeni emniyet amiri Tomas'la hararetli bir tartışmaya yol açar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lUgTT2nqHpef8dBAA0sEEliSVyw.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt30750108/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Hafızasındaki boşluklardan bıkmış olan Lejla, geçmişini daha derinlemesine araştırır. Maden genişlemesinden kaynaklanan bir atık su sızıntısı, Said'i hedef hâline getirir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/w0PzoW9vHcrY4SYeZmCoWNNs4yM.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt30750108/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Alicia'yı kaçıran kişinin profili şekillenmeye başladıkça Lejla, rahatsız edici bir örüntü keşfeder. Martin ile samimi bir buluşma, göründüğünden çok farklı olabilir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/2s4mEpSntD6IPPs9iiA6NuiizSn.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt30750108/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Her fırsatta dışlanan ve kendini değersiz hisseden Tomas, teselliyi içkide arar. Lejla, olan biten her şeyle başa çıkarken içine kapanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/kjI2xLBHC2R3SKw45JXo0UsfUj9.jpg",
+            "vote_average": 5.9,
+            "link": "https://vidmody.com/vs/tt30750108/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Kendini aslan ininin derinliklerinde bulan Lejla, kendi kaçırılma olayının ardındaki korkunç gerçeği öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xUS7DOzql8YqdGkkwi3DofccfKO.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt30750108/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:03:18"
 }

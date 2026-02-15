@@ -1,5 +1,112 @@
 [
     {
+        "id": 243881,
+        "imdb_id": "tt30955673",
+        "name": "Davud Hanedanı",
+        "original_name": "House of David",
+        "overview": "İsrail'in en ünlü kralı haline gelen Hz. Davud'un yükseliş hikâyesini anlatır. Dizi, bir zamanlar güçlü Kral Saul’un kendi gururunun kurbanı oluşunu gözler önüne serer. Tanrı'nın talimatıyla Samuel Peygamber, yeni kral olarak beklenmedik ve dışlanmış bir genci mesheder.",
+        "poster": "https://image.tmdb.org/t/p/w500/ayrGmPCGAFz66eNwVMyaA4R44k1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/dWEbHN4DRxJsIZqJHFhOq0KFSxD.jpg",
+        "year": "2025",
+        "rating": 8.0,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Wonder Project",
+            "Amazon Prime",
+            "Prime Video"
+        ],
+        "cast": [
+            {
+                "name": "Michael Iskander",
+                "role": "David",
+                "image": "https://image.tmdb.org/t/p/w200/m8Dt9YECkl0G49TPRjC1IrycTpm.jpg"
+            },
+            {
+                "name": "Alexander Uloom",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/65PDKintL28er7lzh5KdvpNGoa3.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Bir Çoban ve Bir Kral",
+                "overview": "İsa'dan bin yıl önce İsrail'in ilk kralı Şaul, Tanrı'nın lütfunu ve bununla birlikte akıl sağlığını kaybeder. Bu sırada saraydan çok uzakta bir yerde efsanevi kâhin Şamuel, Davud adında yetenekli genç bir çobanın varlığını öğrenir. Tarihin en büyük hikâyelerinden biri de böylece başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wK6eZdcsZHkmvXrntkkmCXmkTrW.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt30955673/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Engin Engine Çağırır",
+                "overview": "Şaul'un ailesi, Kral'ın kötüleşen zihinsel durumunu büyük bir endişe ile izler ve saltanatını korumak için ellerinden gelen her şeyi yapmaya hazırdırlar. Davud, evinin dışında bir hayatı arzular ama Betlehem tepelerinin ötesinde bulduğu şey, onun hayal edebileceğinden çok daha büyük bir tehlikedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tmfTsIvDIKdQ1YQzFLcohPFvMbM.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt30955673/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Meshediliş",
+                "overview": "Saray, Şaul'un zihinsel durumunun sonuçlarıyla başa çıkmak zorundadır. Şamuel, sinsi bir ajandan kaçarken kötü niyetli bir güç, İsrail'i ele geçirme planı için efsanevi bir müttefiki safına katar. Betlehem'in tarlalarında Davud, tarihin seyrini sonsuza dek değiştirecek bir olayla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8GVoGJzPB77qt5jOxotXQYNEmyt.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt30955673/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Musa'nın Ezgisi",
+                "overview": "Saraydan biri ciddi ithamlar altında kalınca, kraliyet ailesi duruma müdahale etmek zorunda kalır. Şamuel, ciddi bir kayıpla yüzleşir ve kehanetinin sonuçlarıyla yüzleşir. Davud, sırlarla ve tehlikelerle dolu ama her şeyden öte aşkı bulduğu yeni bir dünyayı keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f0baVYJNmcdwLi7Tl0Fdo2xSgP7.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt30955673/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kurt ve Aslan",
+                "overview": "Kraliçe Ahinoam, evinde önemli misafirler için bir ziyafet düzenler. Saraydaki siyaset oyunları tamamen entrikalarla doludur ve herkesin kendi gizli planı vardır. Davud, yeni hayatına uyum sağlamayı öğrenir ve kaderine bir adım daha yaklaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/A5dxgA5odSiS1ad2JwIW29NqKPw.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt30955673/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Devlerin Uyanışı",
+                "overview": "Şaul'un krallığının dışında karanlık güçler büyürken, İsrail'in düşmanları uzun zamandır efsane olarak bilinen savaşçıları çağırır. Saraydaki bir ilişki, kahramanların hayatını iyice zorlaştırır ve Kraliçe Ahinoam, Kral'a yardım edebilmek için radikal kararlar almak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6AGjwlp08kPgr3lDLoahvZ9ZkSV.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt30955673/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Davud ve Câlût - 1. Bölüm",
+                "overview": "Krallar, kahramanlar ve kötüler, taç için son bir çatışmada mücadele ederler. Savaş artık kaçınılmazdır ve kadim meydanlarda, İsrail'in kaderini sonsuza dek belirleyecek çarpıcı bir mücadele için saflar hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3WDJCKby8eiXxYHIjINzrtOn5xK.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt30955673/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Davud ve Câlût - 2. Bölüm",
+                "overview": "Efsanelerin çatıştığı bu destansı mücadelede bir kehanet sınanmaktadır. İnsanlık tarihinin en unutulmaz savaşlarından biri yaklaşırken, kahramanlar en zorlu ve güçlü düşmanlarıyla karşı karşıyadır. Bu büyük hikâye nasıl şekillenecek? Krallık için verilen mücadelede zafer kimin olacak?",
+                "still_path": "https://image.tmdb.org/t/p/w400/udPfaAUmwWq9qsKvPzOfWEggNqT.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt30955673/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:06:51"
+    },
+    {
         "id": 240558,
         "imdb_id": "tt30221531",
         "name": "King & Conqueror",
