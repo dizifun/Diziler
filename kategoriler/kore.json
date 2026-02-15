@@ -1,5 +1,215 @@
 [
     {
+        "id": 224414,
+        "imdb_id": "tt31014107",
+        "name": "You and Everything Else",
+        "original_name": "은중과 상연",
+        "overview": "Gençlik yıllarından beri bir dargın bir barışık olan iki arkadaşın yolu yetişkinliklerinde ayrılır. Ancak amansız bir hastalık, iki eski dostu yeniden bir araya getirir.",
+        "poster": "https://image.tmdb.org/t/p/w500/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/5Ia4bJ0GuAn84H98CCtWMRVCTAF.jpg",
+        "year": "2025",
+        "rating": 8.4,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "김고은",
+                "role": "Ryu Eun-jung",
+                "image": "https://image.tmdb.org/t/p/w200/9IiR3lsMK0BkBJGeQFTeBoLxEQl.jpg"
+            },
+            {
+                "name": "박지현",
+                "role": "Cheon Sang-yeon",
+                "image": "https://image.tmdb.org/t/p/w200/A3sGA6JjvkQbIvTjxhdukpIi8jC.jpg"
+            },
+            {
+                "name": "김건우",
+                "role": "Kim Sang-hak",
+                "image": "https://image.tmdb.org/t/p/w200/sdFpIuQwzmbelx7EFLet2XzmGhH.jpg"
+            },
+            {
+                "name": "김재원",
+                "role": "Cheon Sang-hak / Moonee",
+                "image": "https://image.tmdb.org/t/p/w200/diEPTDk0ngXGje4RGmoMaCd0TWe.jpg"
+            },
+            {
+                "name": "문우진",
+                "role": "Cheon Sang-hak (teen)",
+                "image": "https://image.tmdb.org/t/p/w200/jAk8EhqNnflSWltcJuv5nE4MpTu.jpg"
+            },
+            {
+                "name": "장혜진",
+                "role": "Sun-young",
+                "image": "https://image.tmdb.org/t/p/w200/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg"
+            },
+            {
+                "name": "서정연",
+                "role": "Hyun-sook",
+                "image": "https://image.tmdb.org/t/p/w200/za1tTtSULKsZPN0u1oTs2Iival0.jpg"
+            },
+            {
+                "name": "주민경",
+                "role": "Choi Gyeong",
+                "image": "https://image.tmdb.org/t/p/w200/w9M3K295SPKvXWem4Ox8M9o4ONm.jpg"
+            },
+            {
+                "name": "공민정",
+                "role": "Oh Hee-jin",
+                "image": "https://image.tmdb.org/t/p/w200/wkUiwCHq2Z2h4A7JDlhjrVGQiCk.jpg"
+            },
+            {
+                "name": "차학연",
+                "role": "Song Yu-chan",
+                "image": "https://image.tmdb.org/t/p/w200/oSHuv46jcDlAfP3yxDUHEhzhYFL.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "1992'de Ryu Eun-jung, çok kıskandığı yeni öğrenci Cheon Sang-yeon ile çatışır. Yıllar sonra Sang-yeon, amansız bir hastalığa yakalandığı haberiyle ve son bir istekle geri döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zKOTSRe9PFbgBBcn9oWrR9JfIYo.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Sang-yeon'un isteğini geri çeviren Eun-jung, karmaşık arkadaşlıklarından Sang-yeon'un kardeşi Cheon Sang-hak'tan hoşlanmasına kadar, geçmişte yaşadıklarını yeniden düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e7P8wuOKmqmv1pXd3SuHTu3HJzS.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Eun-jung'un üniversitedeki fotoğrafçılık kulübünde tanıştığı Kim Sang-hak, geçmişinden biriyle aynı adı taşımaktadır. Çok geçmeden Eun-jung'un ürkekliği işleri tuhaflaştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sVvBUSYzObZPqgIHHyoOkatOVD2.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Eun-jung ve Sang-yeon, yıllarca hiç görüşmedikten sonra üniversitede tekrar karşılaşır. Ancak geçmişten kalan öz güvensizlikler ve eski acılar yeniden su yüzüne çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8Xfp3IsvDuMk2y0zzTyHW79Ww41.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Sang-hak'ın askere gitmesi Eun-jung ile aralarını açar. Görmezden gelinen çağrılar ve internetteki sırlar ortaya çıkmaya başlayınca Sang-yeon ile arkadaşlığı tehlikeye girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dF2SBfecUCHxvRtetf45wNQxT9Q.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Sang-yeon ve Sang-hak, Eun-jung'un kardeşi sayesinde birbirlerine daha da yakınlaşırken, Eun-jung'un şüpheleri de artar ve onlara bakış açısını değiştiren bir gerçeği keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vDpzdsUUQMCeud27SAiBWfq6Dhw.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Eun-jung, Sang-hak hakkında onunla yüzleştikten sonra Sang-yeon ortamı yumuşatmaya çalışır; ancak kısa süre sonra kardeşiyle ilgili sarsıcı bir sırrı keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4dlmmPiFCumG9Dns5YResAGIx6y.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Sang-hak ve Sang-yeon'un sırrını sonradan öğrenen Eun-jung, kendini yalnız ve yüzüstü bırakılmış hisseder. Ardından acı olaylar ve zorluklar, üçünü de farklı yönlere savurur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qYpXBqaT5I15RObs4gdwrMFgNUm.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Artık bir film yapımcısı olan Eun-jung ile Sang-hak'ın yolları bir kez daha kesişir; ancak projeleri korkunç bir haberle sarsıldığında Sang-yeon yeniden ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5d7JtNhtXHJZa3CAa8A8Qhan6n5.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Çekimler başlarken Eun-jung ve Sang-yeon senaryo, bütçe ve yaratıcı tarz konusunda anlaşmazlığa düşer. İkisi de Sang-hak'ı görüntü yönetmeni olarak ekiplerine katmayı umar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ibWAEeSvjxIB4xAYHibFoTnqqL4.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Uzak bir çekim mekânı keşfi sırasında Eun-jung ve Sang-yeon baş başa kalınca küçük aksilikler ve yaratıcı alandaki çatışmalar; çözüme kavuşturulamayan, gergin bir çıkmaza dönüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gl00SPs0ohxtm2QxuGyUJr6CPJw.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Sette yaşanan bir kaza çekimleri tehlikeye atar. Projede her şeyin yolunda gitmesi için Sang-hak'ın uzmanlığına muhtaç olan Eun-jung ve Sang-yeon, birlikte çalışmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kuAfL1l30JgzbXPAFKEuhzThkkp.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Sang-yeon'un Eun-jung'a olan kızgınlığı son raddeye ulaşırken sette yaşanan şiddetli bir kriz de prodüksiyonu ve ortaklıklarını kaosa sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vJZJaKkfWUxZ10mV8upUtaPjVDk.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e13"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "Arkadaşlıkları öfkeyle sona erdikten sonra Eun-jung, Sang-yeon'u tamamen hayatından çıkarır. Yıllar sonra Sang-yeon, Eun-jung'un son dileğini yerine getireceğini umarak geri döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zdHKZ4gme9j1GGDTelZ9gOCxEoX.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e14"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "Sang-yeon son yolculuğuna yaklaşırken Eun-jung, tutması çok zor olan bir sözle boğuşur. Veda etme günü geldiğinde, ömür boyu süren dostluklarından hatıraları paylaşırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bm4ZLc9mCTnYgFJKzlUeXm124wz.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e15"
+            }
+        ],
+        "update_date": "2026-02-15 11:08:32"
+    },
+    {
         "id": 238458,
         "imdb_id": "tt30413044",
         "name": "Cashero",

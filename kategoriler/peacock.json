@@ -1,5 +1,242 @@
 [
     {
+        "id": 257534,
+        "imdb_id": "tt31314754",
+        "name": "Devil in Disguise: John Wayne Gacy",
+        "original_name": "Devil in Disguise: John Wayne Gacy",
+        "overview": "Chicago bölgesinde yaşayan müteahhit John Wayne Gacy, seri katil olarak çifte hayat yaşarken dedektifler şok edici bir keşfe yol açacak ipuçlarını bir araya getirmeye çalışmaktadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/kG2mHHu136bviY53DDpnsyVNKuA.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Peacock",
+            "TV+",
+            "Peacock Premium Plus",
+            "Peacock Premium"
+        ],
+        "cast": [
+            {
+                "name": "Michael Chernus",
+                "role": "John Wayne Gacy",
+                "image": "https://image.tmdb.org/t/p/w200/Df2ZE3P9BiXawPtewinxLPNAu2.jpg"
+            },
+            {
+                "name": "Gabriel Luna",
+                "role": "Det. Rafael Tovar",
+                "image": "https://image.tmdb.org/t/p/w200/2NNNl3od5K7HXOLUqlK3tzdxKkD.jpg"
+            },
+            {
+                "name": "James Badge Dale",
+                "role": "Chief of Detectives Joe Kozenczak",
+                "image": "https://image.tmdb.org/t/p/w200/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
+            },
+            {
+                "name": "Michael Angarano",
+                "role": "Sam Amirante",
+                "image": "https://image.tmdb.org/t/p/w200/q4SOVndGsnCmSZKBllLaJCNM72c.jpg"
+            },
+            {
+                "name": "Chris Sullivan",
+                "role": "Lead Prosecutor Bill Kunkle",
+                "image": "https://image.tmdb.org/t/p/w200/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
+            },
+            {
+                "name": "Marin Ireland",
+                "role": "Elizabeth Piest",
+                "image": "https://image.tmdb.org/t/p/w200/jAIOQNraHjvIAdqk81QDV5Phupp.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Ten Days",
+                "overview": "Genç Robert Piest, annesinin doğum gününde ortadan kaybolunca, Des Plaines Polis Departmanı memurları, Piest'in en son birlikte görüldüğü müteahhit John Wayne Gacy'nin izini sürüyor, sorguluyor ve izini sürüyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y4DH1M9KyVBo030kSzTk4uNTX3S.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Johnny",
+                "overview": "Polis memurları, John Wayne Gacy'nin evinin altındaki sürünme boşluğunu kazıyor. Gacy, Amirante, Kunkle ve Kozenczak'a Rob'un cesedini nereye attığını gösteriyor. Johnny Szyc ve en yakın arkadaşı Lynn, Uptown'a doğru yola çıkıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tIRvKMP8WSV3WicGUltag5H5Pws.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4hBFUNZt1tyTjlSfntt8sBVCOS6.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hVkZzMAUm0hTrtmhbeIPg7RP9g8.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 11:16:57"
+    },
+    {
+        "id": 246412,
+        "imdb_id": "tt31314791",
+        "name": "The Copenhagen Test",
+        "original_name": "The Copenhagen Test",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mRVPTh5JpzvXNtgNXppKROOdrzd.jpg",
+        "year": "2025",
+        "rating": 6.4,
+        "genres": [
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Peacock",
+            "Peacock Premium",
+            "Peacock Premium Plus"
+        ],
+        "cast": [
+            {
+                "name": "Simu Liu",
+                "role": "Alexander Hale",
+                "image": "https://image.tmdb.org/t/p/w200/cCx2OghLj9KN73oyRZe92i2p3Ih.jpg"
+            },
+            {
+                "name": "Melissa Barrera",
+                "role": "Michelle",
+                "image": "https://image.tmdb.org/t/p/w200/5oeFHUwrFz2UylWdYEXXJxfUUqL.jpg"
+            },
+            {
+                "name": "Sinclair Daniel",
+                "role": "Samantha Parker",
+                "image": "https://image.tmdb.org/t/p/w200/xwozf5a01naJlGo8Arsp7oudhkl.jpg"
+            },
+            {
+                "name": "Brian d'Arcy James",
+                "role": "Peter Moira",
+                "image": "https://image.tmdb.org/t/p/w200/2Gz3b0A20Vrq7aadGfjZekdgGFK.jpg"
+            },
+            {
+                "name": "Mark O'Brien",
+                "role": "Edmund Cobb",
+                "image": "https://image.tmdb.org/t/p/w200/8ckgltvlife4BBJcBpHEQWXfQ9p.jpg"
+            },
+            {
+                "name": "Kathleen Chalfant",
+                "role": "St. George",
+                "image": "https://image.tmdb.org/t/p/w200/wjxN78pdzKpUiO9HG1vBqJdnf4x.jpg"
+            },
+            {
+                "name": "Saul Rubinek",
+                "role": "Victor Simonek",
+                "image": "https://image.tmdb.org/t/p/w200/oQQxpxDo7mULPsjhrPLFiZ6e2Ca.jpg"
+            },
+            {
+                "name": "Marnie McPhail",
+                "role": "Frances",
+                "image": "https://image.tmdb.org/t/p/w200/qHTkE44HUjobp8MwWvVb4xDtQe6.jpg"
+            },
+            {
+                "name": "Sara Amini",
+                "role": "Ellie",
+                "image": "https://image.tmdb.org/t/p/w200/bM2Okv0uudBsratKTn5tQL8ml3H.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Kopenhag",
+                "overview": "Ajansındaki köstebek olmadığını kanıtlamaya çalışan bir analist, hayatını altüst eden bir keşif yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nIFLnCWlWbiavYHTrwvr2DaWg9S.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Cam Ev",
+                "overview": "Alexander ve Yetimhane, Alexander'ı yem olarak kullanarak bir tuzak kurmak için birlikte çalışmak zorunda kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/quM4MKKMScuss2A3vw9VkPkfCvx.jpg",
+                "vote_average": 4.2,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Sahte Bayrak",
+                "overview": "Alexander, bilgisayar korsanlarını avlamak için gerçek bir görevi feda edip etmeyeceğine karar vermek zorunda.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j5Lc6hHadmHYgq5LxcAcQyrWGMe.jpg",
+                "vote_average": 4.0,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Obsidyen",
+                "overview": "Hiçbir şeyin göründüğü gibi olmadığı bir görevde, Alexander kendi hayatını riske atarak bir Kaynağın hayatını kurtarmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/myPTzFq3SUUp4wO9MRzYY3qrxGF.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Ayna",
+                "overview": "Düşman için kurulan tuzak patlayınca, Alexander kendi görev planını takip eder ve her şeyi riske atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dYN9DwUxKAEDwNQD9gQ0Jzs8ANF.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Bağlılık",
+                "overview": "Alexander imkansız bir seçimle karşı karşıya; Yetimhane, onun kendilerine ihanet edip etmediğine karar vermek zorunda.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oCnvMPMR47GWIud8qSHWSbQ5dqH.jpg",
+                "vote_average": 4.1,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Erkeklerin Dünyası Değil",
+                "overview": "Kendi örgütü tarafından takip edilen Alexander, en çok değer verdiği kişileri kurtarmak için hayatta kalmak zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ixENQu7FE6Vx9vnk3MjgqYuDsLd.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Yetimhane",
+                "overview": "Alexander zamana karşı yarışırken, Parker göz önünde saklı bir gizli mesaj keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/seAwqVrDrNgBUQwpzMkn75DKEAL.jpg",
+                "vote_average": 4.0,
+                "link": "https://vidmody.com/vs/tt31314791/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:16:56"
+    },
+    {
         "id": 241485,
         "imdb_id": "tt30428188",
         "name": "Fight Night: The Million Dollar Heist",

@@ -1,5 +1,133 @@
 [
     {
+        "id": 245827,
+        "imdb_id": "tt31186865",
+        "name": "Harlan Coben'den Lazarus",
+        "original_name": "Harlan Coben's Lazarus",
+        "overview": "Adli psikiyatrist Dr. Joel \"Laz\" Lazarus, babası Dr. L'nin şüpheli ölümünün ardından uzun süredir geçmişe gömülü olan iblislerle yüzleşmek zorunda kalır. Laz, önceleri babasının ölümünün intihar olduğuna inansa da kısa süre sonra, öldüğünü bildiği insanların ona tuhaf bir şekilde görünmesi sayesinde, bir cinayet komplosunun ve katili bulma mücadelesinin içine düşer.",
+        "poster": "https://image.tmdb.org/t/p/w500/lWCVOI1iPnj834wL9VmUxgpnja4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/uj4wyiZPmZNRJBjThtqNrZvHN9w.jpg",
+        "year": "2025",
+        "rating": 6.3,
+        "genres": [
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Prime Video"
+        ],
+        "cast": [
+            {
+                "name": "Sam Claflin",
+                "role": "Dr Joel 'Laz' Lazarus",
+                "image": "https://image.tmdb.org/t/p/w200/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+            },
+            {
+                "name": "Bill Nighy",
+                "role": "Doctor Lazarus 'Dr L'",
+                "image": "https://image.tmdb.org/t/p/w200/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+            },
+            {
+                "name": "Alexandra Roach",
+                "role": "Jenna Lazarus",
+                "image": "https://image.tmdb.org/t/p/w200/qyaUWoAi6RFYEQcnFgrEZ4aWxS7.jpg"
+            },
+            {
+                "name": "David Fynn",
+                "role": "Seth McGovern",
+                "image": "https://image.tmdb.org/t/p/w200/6knJVGZnTMM11fVQFKjWdel9xhG.jpg"
+            },
+            {
+                "name": "Karla Crome",
+                "role": "Bella",
+                "image": "https://image.tmdb.org/t/p/w200/vuiF5OfHLQBaIfXgVKERJKRyPN8.jpg"
+            },
+            {
+                "name": "Eloise Little",
+                "role": "Sutton Lazarus",
+                "image": "https://image.tmdb.org/t/p/w200/6laNohRbCWjKLdQ9z35XuP3UcL3.jpg"
+            },
+            {
+                "name": "Curtis Tennant",
+                "role": "Aidan",
+                "image": "https://image.tmdb.org/t/p/w200/2fhy8PYjJNPjWfSDv23sPqhimOX.jpg"
+            },
+            {
+                "name": "Kate Ashfield",
+                "role": "Detective Alison Brown",
+                "image": "https://image.tmdb.org/t/p/w200/rtuYpo9W4AsCvI1I6brIdHe7qi.jpg"
+            },
+            {
+                "name": "Ewan Horrocks",
+                "role": "Young Lazarus",
+                "image": "https://image.tmdb.org/t/p/w200/lICEEZLfIKtVaTCGfzLh1ZVlvES.jpg"
+            },
+            {
+                "name": "Edward Hogg",
+                "role": "Sam Olsen",
+                "image": "https://image.tmdb.org/t/p/w200/aOxjerJAT9ny9AHTUPu6kxWa1r.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "101",
+                "overview": "Psikiyatrist Dr. Joel Lazarus, babası Dr. L'nin intiharının ardından memleketine döner ama kısa süre sonra açıklayamadığı şeyler görmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jpgX28aim8hpE3zBSz8xaydLYk1.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "102",
+                "overview": "Babasının öldürüldüğünü öğrenen Laz, yaptığı soruşturma sonucunda 25 yıl öncesine ait bir cinayet mahallinde şoke edici bir gerçeği keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pVl0UVv5lA9uexZ4vNFPTmU98wv.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "103",
+                "overview": "Laz, gördüğü vizyonların daha fazla kurbana ışık tutması sonucu kız kardeşi Sutton'ın tarihî cinayetini, babasının şüpheli ölümünü ve başka birçok cinayeti tek bir şüpheliye bağlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xlmjCo2VIKMB1EEfbOXwc6zuBrz.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "104",
+                "overview": "Laz, kardeşi Jenna'dan gelen bomba bir haberle çileden çıkar. Başka bir vizyon sayesinde katilin tekrar saldırdığına inanır ama kurbanı bulmak için girdiği çılgınca arayış daha fazla şiddete yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b5FTk8HdMNuto7xI4NGlY8Y9Uqx.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "105",
+                "overview": "Laz, Jenna'yla yaptığı şoke edici keşif sayesinde Sutton cinayetinin farklı bir şüphelisine odaklanır. Laz'a yakın birinin hayatı tehlikeye girer ve bir insan avı başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e5DsiRZFncoz3l25H9v1i1M9fKB.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "106",
+                "overview": "Laz yaşlı bir hastayı ziyaret ettikten sonra tüm cinayetlerin ortak noktasını fark eder. Ölümcül bir kovalamaca sonucu Laz'ın geçmişinde kalmış isimler son bir hesaplaşma için ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aNWQbUQJm4rledxpGPbMJz5H0zV.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt31186865/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:14:28"
+    },
+    {
         "id": 243881,
         "imdb_id": "tt30955673",
         "name": "Davud Hanedanı",

@@ -1,5 +1,750 @@
 [
     {
+        "id": 246485,
+        "imdb_id": "tt31219594",
+        "name": "Ölü Kızlar",
+        "original_name": "Las muertas",
+        "overview": "Jorge Ibargüengoitia'nın romanından uyarlanan dizi, acımasız katillere dönüşen Baladro kardeşlerin 1960'ların Meksika'sında kurduğu genelev imparatorluğunun hikâyesini anlatıyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/dmOakRGmoD9VCkISe3R4umhYbie.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/rmIQiFYnTDttJMehqkw2GEaO18Y.jpg",
+        "year": "2025",
+        "rating": 7.1,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Arcelia Ramírez",
+                "role": "Arcangela Baladro",
+                "image": "https://image.tmdb.org/t/p/w200/5SA0Oj5t9qp4Ck18xj6pMKZXBsW.jpg"
+            },
+            {
+                "name": "Paulina Gaitán",
+                "role": "Serafina Baladro",
+                "image": "https://image.tmdb.org/t/p/w200/7A5ehPIhsbPGucp4Gr6zjnVSebt.jpg"
+            },
+            {
+                "name": "Joaquín Cosío",
+                "role": "Captain Bedoya",
+                "image": "https://image.tmdb.org/t/p/w200/ijMo3fMyY4VL1xyIj6ytiJrzaw9.jpg"
+            },
+            {
+                "name": "Mauricio Isaac",
+                "role": "La Calavera",
+                "image": "https://image.tmdb.org/t/p/w200/uFNrLnDv5eo20SwBeN8tFdsEKls.jpg"
+            },
+            {
+                "name": "Alfonso Herrera",
+                "role": "Simón Corona",
+                "image": "https://image.tmdb.org/t/p/w200/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg"
+            },
+            {
+                "name": "Leticia Huijara",
+                "role": "Eulalia Baladro",
+                "image": "https://image.tmdb.org/t/p/w200/fhPCauCB0lJEm9oOuPZInFbCx3k.jpg"
+            },
+            {
+                "name": "Carlos Aragón",
+                "role": "Teófilo Pinto",
+                "image": "https://image.tmdb.org/t/p/w200/nEUEKbUHGnVr6BDvc0sBLeFXjzx.jpg"
+            },
+            {
+                "name": "Sonia Couoh",
+                "role": "Aurora",
+                "image": "https://image.tmdb.org/t/p/w200/i6K5a1oI8y22Cgc25vuIEDeeWZ9.jpg"
+            },
+            {
+                "name": "Yessica Borroto Perryman",
+                "role": "Blanca",
+                "image": "https://image.tmdb.org/t/p/w200/alrgY3bx7Us6N9VHyqCGuy0NvZa.jpg"
+            },
+            {
+                "name": "Sofía Espinosa",
+                "role": "María del Carmen",
+                "image": "https://image.tmdb.org/t/p/w200/iOwPSogxUHNWh3B0aIR1DuEW921.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "İki İntikam",
+                "overview": "Fırıncı sevgilisi Simon ile arası bozulan Madam Serafina'nın dizginlenemez intikam arzusu, her ikisinin hayatını da cehenneme çevirmek üzeredir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/23CuF02lHlaeR8VUhFP66sYttel.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt31219594/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Evlerin Tarihi",
+                "overview": "Arcángela, Serafina'nın intikam planı konusunda Yüzbaşı Bedoya'dan yardım ister. Bir ahlak yasası ve kurnaz bir sekreter, Baladro genelev imparatorluğunu tehlikeye atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4RDRRVrY9R55Y0A7Ro7PzooCdfJ.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt31219594/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Berbat Gece",
+                "overview": "Polis, Beto'nun başına gelenler nedeniyle \"Mexico Lindo\"ya kilit vurur. Danzón Gazinosu'na sığınan kız kardeşler, kendilerini kurtarmak için paralarını bir çiftliğe yatırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rZ4OPVBZ2OqCRUZaqHm3tL21ZUx.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt31219594/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Blanca'nın Dişleri",
+                "overview": "Genelevde çalışan kadınlardan biri olan Blanca'nın başına gelenler, Baladro kardeşlerin arka bahçesinde son bulan bir dizi tekinsiz olaya neden olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uAuqaeSHwhKkJPABb55mud1EU0Q.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt31219594/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Sıkıyönetim",
+                "overview": "İçerideki kadınlar başkaldırınca Bedoya, genelevi demir yumrukla yönetir. Bu sırada Teófilo çiftlikte kendisine verilen parayı yetirmekte zorlanır ve yeni bir trajedi yaşanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fbg7dOE48tkspifaBI1i7Vz01kz.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt31219594/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Polisler Gelir",
+                "overview": "Serafina bir dedektifin hedefi hâline gelince herkes çiftliğe çekilir. Polis araştırmayı derinleştirince Baladro ailesinin korkunç sırları ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hy7mbt40qOXG9FvAiklBl7HyMVR.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt31219594/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 11:15:02"
+    },
+    {
+        "id": 245648,
+        "imdb_id": "tt31173096",
+        "name": "Milyarderlerin Sığınağı",
+        "original_name": "El refugio atómico",
+        "overview": "Benzeri görülmemiş bir küresel çatışmanın ortasında bir grup milyarder, lüks bir sığınağa girmek zorunda kalınca iki aile arasındaki düşmanlık yeniden alevlenir.",
+        "poster": "https://image.tmdb.org/t/p/w500/sKjbc98zFOLhp9NC0SZunGFra6X.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
+        "year": "2025",
+        "rating": 6.4,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Miren Ibarguren",
+                "role": "Minerva",
+                "image": "https://image.tmdb.org/t/p/w200/ndusbJn7YggtKhz37dIla81c72p.jpg"
+            },
+            {
+                "name": "Joaquín Furriel",
+                "role": "Guillermo",
+                "image": "https://image.tmdb.org/t/p/w200/nCEfia5gvBmuJHOMnXM7vhq01lg.jpg"
+            },
+            {
+                "name": "Natalia Verbeke",
+                "role": "Frida",
+                "image": "https://image.tmdb.org/t/p/w200/szL5HDE6s1mmGyuLBxcvTiMYZnA.jpg"
+            },
+            {
+                "name": "Carlos Santos",
+                "role": "Rafa",
+                "image": "https://image.tmdb.org/t/p/w200/3PHpSzUFRgbIxfzttPsDANMZIHt.jpg"
+            },
+            {
+                "name": "Montse Guallar",
+                "role": "Victoria",
+                "image": "https://image.tmdb.org/t/p/w200/ngsTinFxECBGTgzHY4Z86Ymnw5Y.jpg"
+            },
+            {
+                "name": "Pau Simon",
+                "role": "Max",
+                "image": "https://image.tmdb.org/t/p/w200/zAu29g7XCE3cFpqgPysvLKP7yV7.jpg"
+            },
+            {
+                "name": "Alícia Falcó",
+                "role": "Asia",
+                "image": "https://image.tmdb.org/t/p/w200/pzFG0vued1eAh7QcOlyNdn8th8m.jpg"
+            },
+            {
+                "name": "Agustina Bisio",
+                "role": "Mimi",
+                "image": "https://image.tmdb.org/t/p/w200/tMHDz04hxFSAlcjypIslynUOhFJ.jpg"
+            },
+            {
+                "name": "Álex Villazán",
+                "role": "Ciro",
+                "image": "https://image.tmdb.org/t/p/w200/x819gdlvjuK9Bp00VpXyKJ7WyFP.jpg"
+            },
+            {
+                "name": "Alicia Fernández",
+                "role": "Julia Baldini",
+                "image": "https://image.tmdb.org/t/p/w200/aFPJXBBksyBJrsU9d7eQtskA3kX.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Cehennemden Dönüş",
+                "overview": "Hapisten yeni çıkan Max, küresel bir krizin ortasında, lüks bir sığınakta kalan ailesine katılır. Orada, karanlık geçmişiyle beklenmedik bir yüzleşme yaşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/z7mJ8FMnnUq1YKPXkcjG2Tj9WHr.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt31173096/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "İnsanlığa Atılmış En Büyük Kazık",
+                "overview": "Ekip, başarısını kutlarken herkes olan bitenden pek de memnun değildir. Rafa, Frida'nın anlattıklarının etkisinden çıkmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lQZXfxJYXNSnbwfbInRncSi82Rq.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt31173096/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Zenginlerden Nefret Ediyorum",
+                "overview": "Şaşkına dönen Minerva, şüphe içinde cevap bekleyen ekibiyle karşı karşıya kalır. Max'in videoları yüzünden kafası karışan Asia, acele bir karar verir ama sonra pişman olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/djjyyvYQaaf1XSa8XHrsJik6kXn.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt31173096/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Milyonerin Paradoksu",
+                "overview": "Tıbbi bir kriz baş gösterdiğinde yardımcı olabilecek tek kişi Asia'dır. Victoria, imdat sinyallerini gönderirken kafa dağıtma şansı bulur. Acil bir telefon, ortalığı karıştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nKnGi5p8AaXzpluO4Qzdrbyk9xB.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt31173096/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Hakikat Abartılıyor",
+                "overview": "Baskı giderek artarken Minerva, birine riskli bir görev vererek büyük bir kumar oynar. Guillermo'yu bulamayan Mimi, Frida ve Victoria'dan yardım ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i018qfArnMnyDI4Swsh4purLu31.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt31173096/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Günleri Sayılı Kadınlar",
+                "overview": "Asia gerçek duygularını tartar. Max, sığınakta üçüncü aşamaya geçmeye hazırlanan Minerva'yla yüzleşir. Mimi, endişe verici semptomlar gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ocnIdqkPnXgA3haZoJy09evLAFf.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt31173096/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Bensiz Yaşamayı Öğren",
+                "overview": "Max yalan söyleyerek planını harekete geçirir. Rafa geçmişte yaptıklarının ardındaki sebebi açıklar. Guillermo ise aileyi ve arkadaşlığı ön plana koyar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qNhuaxGKPKWivKG1xMBtMcgxaOU.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt31173096/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Roxán Olmadan İki Dakika",
+                "overview": "Frida sözünü sakınmadan acı gerçekleri açıklar. Mükemmel planlanmış bir gecede, Max ve Asia harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vYRruCN4WHe0ixWJrEgPEXuhEcd.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt31173096/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:13:37"
+    },
+    {
+        "id": 244447,
+        "imdb_id": "tt31038430",
+        "name": "The Hunting Wives",
+        "original_name": "The Hunting Wives",
+        "overview": "Seks, yalanlar ve dolu silahlar.\n\nSophie, New England'ı bırakıp Doğu Teksas'a taşınır ve zengin bir sosyetik kadının çekim alanına girer; burada bir grup ev hanımı ölümcül sırlar saklamaktadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+        "year": "2025",
+        "rating": 6.9,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Brittany Snow",
+                "role": "Sophie O’Neill",
+                "image": "https://image.tmdb.org/t/p/w200/uSQW2E7caOaXHBbvL2jdzGbwDwH.jpg"
+            },
+            {
+                "name": "Malin Åkerman",
+                "role": "Margo Banks",
+                "image": "https://image.tmdb.org/t/p/w200/q7U0YtgmqNa5oMBMzZ8JBLOKx6A.jpg"
+            },
+            {
+                "name": "Jaime Ray Newman",
+                "role": "Callie Baskin",
+                "image": "https://image.tmdb.org/t/p/w200/2NZqIILL9BW8fSveWDGBDLoMYN8.jpg"
+            },
+            {
+                "name": "Katie Lowes",
+                "role": "Jill Thompson",
+                "image": "https://image.tmdb.org/t/p/w200/5IqYIFfcZu7V4wrbzZKVtpkmuSw.jpg"
+            },
+            {
+                "name": "Chrissy Metz",
+                "role": "Starr Jackson",
+                "image": "https://image.tmdb.org/t/p/w200/d1qBoF1JQdLI8OF99sVeNQqjXZG.jpg"
+            },
+            {
+                "name": "George Ferrier",
+                "role": "Brad Thompson",
+                "image": "https://image.tmdb.org/t/p/w200/mH9D0zQ9AYFpXglD4gJy3ZzKLOE.jpg"
+            },
+            {
+                "name": "Evan Jonigkeit",
+                "role": "Graham O’Neill",
+                "image": "https://image.tmdb.org/t/p/w200/20osGzWsVGewAQ2qNESY7oasmMY.jpg"
+            },
+            {
+                "name": "Dermot Mulroney",
+                "role": "Jed Banks",
+                "image": "https://image.tmdb.org/t/p/w200/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Tuhaf ve Yabancı Yerler",
+                "overview": "Eşinin yeni patronu için düzenlenen bir partide iyi bir izlenim bırakmaya çalışan Sophie, kendini cazibeli ve gizemli Margo'nun yörüngesine çekilirken bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n0FYWdV5JW8oFsAYGdEvscKbRJz.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt31038430/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Ateşli Kaçamaklar",
+                "overview": "Jed valilik seçimlerine katılmaya hazırlanırken Margo, geçmişteki sırlarının gizli kalması için çabalar. Abby, papazın oğlu Brad'e karşı duyduğu arzularla baş etmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fB2ban1cTPXbF8DcYCauMzOR3xd.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt31038430/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Gün Işığına Çıkmak",
+                "overview": "Margo, Sophie ile skandal yaratacak bir sır paylaşır. Kadınların çıktığı av gezisi eğlenceli başlasa da beklenmedik misafirlerin gelişiyle hızla raydan çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oLLqGempjXPx5825GwOR6l015Gw.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt31038430/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Kaçamak Günü",
+                "overview": "Ormanda bir ceset bulunmasının ardında Margo ve Brad aynı yalanı söylemek için telaş içinde ağız birliği eder. Sophie ise kayıp silahını arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xzHcef9wiU7U9RfVSXPWqTvCi46.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt31038430/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Bu Onun İlk Deneyimi Değil",
+                "overview": "Polis, Sophie'yi hem evinde hem de karakolda sorguya çeker. Jill, Brad'in mazeretini desteklemek için kontrolü ele alır ve Brad'in arkadaşına sessiz kalması yönünde baskı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/h4gV7HwTvVcUdUJapCizZuREkh4.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt31038430/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Teksas'ın Derinliklerinde",
+                "overview": "Bir komploya uğradığından emin olan Sophie, Margo'nun uzun zamandır görüşmediği ağabeyine sorular sorar. Jed'in kampanyasını yürüten Margo bir talk şova katılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yJQiZiJrmdCYFFTuTr7V3FZITrh.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt31038430/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Kayan Yıldız",
+                "overview": "Margo ve Sophie katili bulmak ve tanıdık bir şüphelinin izini sürmek için zoraki bir iş birliğine girer. Bu sırada şerifin ofisi yeni bir ipucu bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jZcyF8IyIQWsLBOMZokqUxyeUXN.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt31038430/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Sophie’nin Seçimi",
+                "overview": "Serbest bırakılan Sophie temize çıktığını düşünür. Ama Margo hakkında öğrendiği kritik bilgi her şeyi sorgulamasına neden olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zeC5tcdaqbaS30keoXSulk4wrSK.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt31038430/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:09:19"
+    },
+    {
+        "id": 244243,
+        "imdb_id": "tt31019484",
+        "name": "Özlüyorum Seni",
+        "original_name": "Missing You",
+        "overview": "Dedektif Kat Donovan, bir flört uygulamasında yıllar önce ortadan kaybolan nişanlısıyla eşleştiğinde, bazı sırların geçmişte bırakılmasının daha iyi olduğunu öğrenir.",
+        "poster": "https://image.tmdb.org/t/p/w500/9UMC9Ddemh6DeRxeFZTiZIo7gDP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/iC92jNOuhxSIGTFoMmAjtyaNOGV.jpg",
+        "year": "2025",
+        "rating": 6.1,
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [
+            {
+                "name": "Rosalind Eleazar",
+                "role": "Kat Donovan",
+                "image": "https://image.tmdb.org/t/p/w200/9Tb1rLSnyCfnZXYixfjWJuQJig9.jpg"
+            },
+            {
+                "name": "Jessica Kate Plummer",
+                "role": "Stacey Embalo",
+                "image": "https://image.tmdb.org/t/p/w200/trt0VnEWXHRVllh11DjElBz3drU.jpg"
+            },
+            {
+                "name": "Richard Armitage",
+                "role": "Ellis Stagger",
+                "image": "https://image.tmdb.org/t/p/w200/oNoKjTOUNUiJ01UNQSCQDkt5EHi.jpg"
+            },
+            {
+                "name": "Lenny Henry",
+                "role": "Clint Donovan",
+                "image": "https://image.tmdb.org/t/p/w200/aT5zYMfGI3x4sGtCs9QM4gT0G2h.jpg"
+            },
+            {
+                "name": "Steve Pemberton",
+                "role": "Titus",
+                "image": "https://image.tmdb.org/t/p/w200/j4AFPsF6DM9nfccol3VFQgPJ6Ia.jpg"
+            },
+            {
+                "name": "Lisa Faulkner",
+                "role": "Dana Fells",
+                "image": "https://image.tmdb.org/t/p/w200/35dVwXRgGZBAC23Z2BJJIpe9pnT.jpg"
+            },
+            {
+                "name": "Mary Malone",
+                "role": "Aqua Vanech",
+                "image": "https://image.tmdb.org/t/p/w200/5wKAu5WiGWlnbSooNjscMQSz3fo.jpg"
+            },
+            {
+                "name": "Brigid Zengeni",
+                "role": "Odette Donovan",
+                "image": "https://image.tmdb.org/t/p/w200/e5N1sHH8iQK0QDg9FrYGYkMXCg1.jpg"
+            },
+            {
+                "name": "Catherine Ayers",
+                "role": "Nia Emine",
+                "image": "https://image.tmdb.org/t/p/w200/rRakVdIy3I3aIHS3WLRpoytUkTI.jpg"
+            },
+            {
+                "name": "Charlie Hamblett",
+                "role": "Charlie Pitts",
+                "image": "https://image.tmdb.org/t/p/w200/mAXQhnFAzrjmZKulX7SXTAvWmiq.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Aldığın Her Nefeste",
+                "overview": "Dedektif Kat Donovan, bir zamanlar sevdiği adamla karşılaştığında geçmişiyle yüzleşir ve nefret ettiği adamla ilgili bazı haberler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rkQGFXFyxF28PoSTrCYMUw2B1fT.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt31019484/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Ne Senle Ne de Sensiz",
+                "overview": "Kat, LeBurne'dan bir itiraf almasına yardım etmesi için Stagger'a yalvarır. Stacey, Josh'u aramayı teklif eder. Kat'ın yardımına ihtiyacı olan biri karakola gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/whbB7dr6oXkDOv2VAf7i4ztCA56.jpg",
+                "vote_average": 4.0,
+                "link": "https://vidmody.com/vs/tt31019484/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Asla Fazla Gelmez",
+                "overview": "Stagger'ın doğrudan emirlerine karşı gelen Kat, Dana'nın vakasını incelemeye devam eder ve Josh'u sandığı kadar iyi tanımıyor olabileceğini öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6UbQXukUupt8rd5IK0m7jrXTR35.jpg",
+                "vote_average": 3.8,
+                "link": "https://vidmody.com/vs/tt31019484/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Beni Unutma",
+                "overview": "Kat, Brendan'a saldıran kişiyi sorguladıktan sonra tekrar Josh'un izini sürmeye çalışır ancak bunun yerine görmeyi beklediği son kişiyle yüz yüze gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bWxE3FKMghI5MRzruUUlHUKuQN2.jpg",
+                "vote_average": 4.2,
+                "link": "https://vidmody.com/vs/tt31019484/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Zincirleme Reaksiyon",
+                "overview": "Kat, son 11 yıldır aradığı cevapları nihayet bulur. Dana için zaman daralırken Titus, Brendan'ı aramaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ixmds63ik3qjMgL7avgc7IzboRZ.jpg",
+                "vote_average": 3.4,
+                "link": "https://vidmody.com/vs/tt31019484/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-15 11:08:40"
+    },
+    {
+        "id": 224414,
+        "imdb_id": "tt31014107",
+        "name": "You and Everything Else",
+        "original_name": "은중과 상연",
+        "overview": "Gençlik yıllarından beri bir dargın bir barışık olan iki arkadaşın yolu yetişkinliklerinde ayrılır. Ancak amansız bir hastalık, iki eski dostu yeniden bir araya getirir.",
+        "poster": "https://image.tmdb.org/t/p/w500/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/5Ia4bJ0GuAn84H98CCtWMRVCTAF.jpg",
+        "year": "2025",
+        "rating": 8.4,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "김고은",
+                "role": "Ryu Eun-jung",
+                "image": "https://image.tmdb.org/t/p/w200/9IiR3lsMK0BkBJGeQFTeBoLxEQl.jpg"
+            },
+            {
+                "name": "박지현",
+                "role": "Cheon Sang-yeon",
+                "image": "https://image.tmdb.org/t/p/w200/A3sGA6JjvkQbIvTjxhdukpIi8jC.jpg"
+            },
+            {
+                "name": "김건우",
+                "role": "Kim Sang-hak",
+                "image": "https://image.tmdb.org/t/p/w200/sdFpIuQwzmbelx7EFLet2XzmGhH.jpg"
+            },
+            {
+                "name": "김재원",
+                "role": "Cheon Sang-hak / Moonee",
+                "image": "https://image.tmdb.org/t/p/w200/diEPTDk0ngXGje4RGmoMaCd0TWe.jpg"
+            },
+            {
+                "name": "문우진",
+                "role": "Cheon Sang-hak (teen)",
+                "image": "https://image.tmdb.org/t/p/w200/jAk8EhqNnflSWltcJuv5nE4MpTu.jpg"
+            },
+            {
+                "name": "장혜진",
+                "role": "Sun-young",
+                "image": "https://image.tmdb.org/t/p/w200/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg"
+            },
+            {
+                "name": "서정연",
+                "role": "Hyun-sook",
+                "image": "https://image.tmdb.org/t/p/w200/za1tTtSULKsZPN0u1oTs2Iival0.jpg"
+            },
+            {
+                "name": "주민경",
+                "role": "Choi Gyeong",
+                "image": "https://image.tmdb.org/t/p/w200/w9M3K295SPKvXWem4Ox8M9o4ONm.jpg"
+            },
+            {
+                "name": "공민정",
+                "role": "Oh Hee-jin",
+                "image": "https://image.tmdb.org/t/p/w200/wkUiwCHq2Z2h4A7JDlhjrVGQiCk.jpg"
+            },
+            {
+                "name": "차학연",
+                "role": "Song Yu-chan",
+                "image": "https://image.tmdb.org/t/p/w200/oSHuv46jcDlAfP3yxDUHEhzhYFL.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "1992'de Ryu Eun-jung, çok kıskandığı yeni öğrenci Cheon Sang-yeon ile çatışır. Yıllar sonra Sang-yeon, amansız bir hastalığa yakalandığı haberiyle ve son bir istekle geri döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zKOTSRe9PFbgBBcn9oWrR9JfIYo.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Sang-yeon'un isteğini geri çeviren Eun-jung, karmaşık arkadaşlıklarından Sang-yeon'un kardeşi Cheon Sang-hak'tan hoşlanmasına kadar, geçmişte yaşadıklarını yeniden düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/e7P8wuOKmqmv1pXd3SuHTu3HJzS.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Eun-jung'un üniversitedeki fotoğrafçılık kulübünde tanıştığı Kim Sang-hak, geçmişinden biriyle aynı adı taşımaktadır. Çok geçmeden Eun-jung'un ürkekliği işleri tuhaflaştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sVvBUSYzObZPqgIHHyoOkatOVD2.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Eun-jung ve Sang-yeon, yıllarca hiç görüşmedikten sonra üniversitede tekrar karşılaşır. Ancak geçmişten kalan öz güvensizlikler ve eski acılar yeniden su yüzüne çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8Xfp3IsvDuMk2y0zzTyHW79Ww41.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Sang-hak'ın askere gitmesi Eun-jung ile aralarını açar. Görmezden gelinen çağrılar ve internetteki sırlar ortaya çıkmaya başlayınca Sang-yeon ile arkadaşlığı tehlikeye girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dF2SBfecUCHxvRtetf45wNQxT9Q.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Sang-yeon ve Sang-hak, Eun-jung'un kardeşi sayesinde birbirlerine daha da yakınlaşırken, Eun-jung'un şüpheleri de artar ve onlara bakış açısını değiştiren bir gerçeği keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vDpzdsUUQMCeud27SAiBWfq6Dhw.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Eun-jung, Sang-hak hakkında onunla yüzleştikten sonra Sang-yeon ortamı yumuşatmaya çalışır; ancak kısa süre sonra kardeşiyle ilgili sarsıcı bir sırrı keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4dlmmPiFCumG9Dns5YResAGIx6y.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Sang-hak ve Sang-yeon'un sırrını sonradan öğrenen Eun-jung, kendini yalnız ve yüzüstü bırakılmış hisseder. Ardından acı olaylar ve zorluklar, üçünü de farklı yönlere savurur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qYpXBqaT5I15RObs4gdwrMFgNUm.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Artık bir film yapımcısı olan Eun-jung ile Sang-hak'ın yolları bir kez daha kesişir; ancak projeleri korkunç bir haberle sarsıldığında Sang-yeon yeniden ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5d7JtNhtXHJZa3CAa8A8Qhan6n5.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Çekimler başlarken Eun-jung ve Sang-yeon senaryo, bütçe ve yaratıcı tarz konusunda anlaşmazlığa düşer. İkisi de Sang-hak'ı görüntü yönetmeni olarak ekiplerine katmayı umar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ibWAEeSvjxIB4xAYHibFoTnqqL4.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Uzak bir çekim mekânı keşfi sırasında Eun-jung ve Sang-yeon baş başa kalınca küçük aksilikler ve yaratıcı alandaki çatışmalar; çözüme kavuşturulamayan, gergin bir çıkmaza dönüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gl00SPs0ohxtm2QxuGyUJr6CPJw.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Sette yaşanan bir kaza çekimleri tehlikeye atar. Projede her şeyin yolunda gitmesi için Sang-hak'ın uzmanlığına muhtaç olan Eun-jung ve Sang-yeon, birlikte çalışmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kuAfL1l30JgzbXPAFKEuhzThkkp.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e12"
+            },
+            {
+                "season": 1,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Sang-yeon'un Eun-jung'a olan kızgınlığı son raddeye ulaşırken sette yaşanan şiddetli bir kriz de prodüksiyonu ve ortaklıklarını kaosa sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vJZJaKkfWUxZ10mV8upUtaPjVDk.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e13"
+            },
+            {
+                "season": 1,
+                "episode": 14,
+                "name": "14. Bölüm",
+                "overview": "Arkadaşlıkları öfkeyle sona erdikten sonra Eun-jung, Sang-yeon'u tamamen hayatından çıkarır. Yıllar sonra Sang-yeon, Eun-jung'un son dileğini yerine getireceğini umarak geri döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zdHKZ4gme9j1GGDTelZ9gOCxEoX.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e14"
+            },
+            {
+                "season": 1,
+                "episode": 15,
+                "name": "15. Bölüm",
+                "overview": "Sang-yeon son yolculuğuna yaklaşırken Eun-jung, tutması çok zor olan bir sözle boğuşur. Veda etme günü geldiğinde, ömür boyu süren dostluklarından hatıraları paylaşırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bm4ZLc9mCTnYgFJKzlUeXm124wz.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31014107/s1/e15"
+            }
+        ],
+        "update_date": "2026-02-15 11:08:32"
+    },
+    {
         "id": 243200,
         "imdb_id": "tt30817086",
         "name": "Yabani Veteriner",

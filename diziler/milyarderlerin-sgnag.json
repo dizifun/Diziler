@@ -2,25 +2,147 @@
     "id": 245648,
     "imdb_id": "tt31173096",
     "name": "Milyarderlerin Sığınağı",
+    "original_name": "El refugio atómico",
+    "overview": "Benzeri görülmemiş bir küresel çatışmanın ortasında bir grup milyarder, lüks bir sığınağa girmek zorunda kalınca iki aile arasındaki düşmanlık yeniden alevlenir.",
     "poster": "https://image.tmdb.org/t/p/w500/sKjbc98zFOLhp9NC0SZunGFra6X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
     "year": "2025",
+    "rating": 6.4,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Miren Ibarguren",
-        "Joaquín Furriel",
-        "Natalia Verbeke",
-        "Carlos Santos",
-        "Montse Guallar"
+        {
+            "name": "Miren Ibarguren",
+            "role": "Minerva",
+            "image": "https://image.tmdb.org/t/p/w200/ndusbJn7YggtKhz37dIla81c72p.jpg"
+        },
+        {
+            "name": "Joaquín Furriel",
+            "role": "Guillermo",
+            "image": "https://image.tmdb.org/t/p/w200/nCEfia5gvBmuJHOMnXM7vhq01lg.jpg"
+        },
+        {
+            "name": "Natalia Verbeke",
+            "role": "Frida",
+            "image": "https://image.tmdb.org/t/p/w200/szL5HDE6s1mmGyuLBxcvTiMYZnA.jpg"
+        },
+        {
+            "name": "Carlos Santos",
+            "role": "Rafa",
+            "image": "https://image.tmdb.org/t/p/w200/3PHpSzUFRgbIxfzttPsDANMZIHt.jpg"
+        },
+        {
+            "name": "Montse Guallar",
+            "role": "Victoria",
+            "image": "https://image.tmdb.org/t/p/w200/ngsTinFxECBGTgzHY4Z86Ymnw5Y.jpg"
+        },
+        {
+            "name": "Pau Simon",
+            "role": "Max",
+            "image": "https://image.tmdb.org/t/p/w200/zAu29g7XCE3cFpqgPysvLKP7yV7.jpg"
+        },
+        {
+            "name": "Alícia Falcó",
+            "role": "Asia",
+            "image": "https://image.tmdb.org/t/p/w200/pzFG0vued1eAh7QcOlyNdn8th8m.jpg"
+        },
+        {
+            "name": "Agustina Bisio",
+            "role": "Mimi",
+            "image": "https://image.tmdb.org/t/p/w200/tMHDz04hxFSAlcjypIslynUOhFJ.jpg"
+        },
+        {
+            "name": "Álex Villazán",
+            "role": "Ciro",
+            "image": "https://image.tmdb.org/t/p/w200/x819gdlvjuK9Bp00VpXyKJ7WyFP.jpg"
+        },
+        {
+            "name": "Alicia Fernández",
+            "role": "Julia Baldini",
+            "image": "https://image.tmdb.org/t/p/w200/aFPJXBBksyBJrsU9d7eQtskA3kX.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Cehennemden Dönüş",
+            "overview": "Hapisten yeni çıkan Max, küresel bir krizin ortasında, lüks bir sığınakta kalan ailesine katılır. Orada, karanlık geçmişiyle beklenmedik bir yüzleşme yaşar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/z7mJ8FMnnUq1YKPXkcjG2Tj9WHr.jpg",
+            "vote_average": 6.6,
             "link": "https://vidmody.com/vs/tt31173096/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "İnsanlığa Atılmış En Büyük Kazık",
+            "overview": "Ekip, başarısını kutlarken herkes olan bitenden pek de memnun değildir. Rafa, Frida'nın anlattıklarının etkisinden çıkmaya çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/lQZXfxJYXNSnbwfbInRncSi82Rq.jpg",
+            "vote_average": 6.6,
+            "link": "https://vidmody.com/vs/tt31173096/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Zenginlerden Nefret Ediyorum",
+            "overview": "Şaşkına dönen Minerva, şüphe içinde cevap bekleyen ekibiyle karşı karşıya kalır. Max'in videoları yüzünden kafası karışan Asia, acele bir karar verir ama sonra pişman olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/djjyyvYQaaf1XSa8XHrsJik6kXn.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt31173096/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Milyonerin Paradoksu",
+            "overview": "Tıbbi bir kriz baş gösterdiğinde yardımcı olabilecek tek kişi Asia'dır. Victoria, imdat sinyallerini gönderirken kafa dağıtma şansı bulur. Acil bir telefon, ortalığı karıştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nKnGi5p8AaXzpluO4Qzdrbyk9xB.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt31173096/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Hakikat Abartılıyor",
+            "overview": "Baskı giderek artarken Minerva, birine riskli bir görev vererek büyük bir kumar oynar. Guillermo'yu bulamayan Mimi, Frida ve Victoria'dan yardım ister.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i018qfArnMnyDI4Swsh4purLu31.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt31173096/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Günleri Sayılı Kadınlar",
+            "overview": "Asia gerçek duygularını tartar. Max, sığınakta üçüncü aşamaya geçmeye hazırlanan Minerva'yla yüzleşir. Mimi, endişe verici semptomlar gösterir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ocnIdqkPnXgA3haZoJy09evLAFf.jpg",
+            "vote_average": 5.2,
+            "link": "https://vidmody.com/vs/tt31173096/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Bensiz Yaşamayı Öğren",
+            "overview": "Max yalan söyleyerek planını harekete geçirir. Rafa geçmişte yaptıklarının ardındaki sebebi açıklar. Guillermo ise aileyi ve arkadaşlığı ön plana koyar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/qNhuaxGKPKWivKG1xMBtMcgxaOU.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt31173096/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Roxán Olmadan İki Dakika",
+            "overview": "Frida sözünü sakınmadan acı gerçekleri açıklar. Mükemmel planlanmış bir gecede, Max ve Asia harekete geçer.",
+            "still_path": "https://image.tmdb.org/t/p/w400/vYRruCN4WHe0ixWJrEgPEXuhEcd.jpg",
+            "vote_average": 6.3,
+            "link": "https://vidmody.com/vs/tt31173096/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:13:37"
 }

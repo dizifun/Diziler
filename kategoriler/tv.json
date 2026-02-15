@@ -1,5 +1,98 @@
 [
     {
+        "id": 257534,
+        "imdb_id": "tt31314754",
+        "name": "Devil in Disguise: John Wayne Gacy",
+        "original_name": "Devil in Disguise: John Wayne Gacy",
+        "overview": "Chicago bölgesinde yaşayan müteahhit John Wayne Gacy, seri katil olarak çifte hayat yaşarken dedektifler şok edici bir keşfe yol açacak ipuçlarını bir araya getirmeye çalışmaktadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/kG2mHHu136bviY53DDpnsyVNKuA.jpg",
+        "year": "2025",
+        "rating": 7.3,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Peacock",
+            "TV+",
+            "Peacock Premium Plus",
+            "Peacock Premium"
+        ],
+        "cast": [
+            {
+                "name": "Michael Chernus",
+                "role": "John Wayne Gacy",
+                "image": "https://image.tmdb.org/t/p/w200/Df2ZE3P9BiXawPtewinxLPNAu2.jpg"
+            },
+            {
+                "name": "Gabriel Luna",
+                "role": "Det. Rafael Tovar",
+                "image": "https://image.tmdb.org/t/p/w200/2NNNl3od5K7HXOLUqlK3tzdxKkD.jpg"
+            },
+            {
+                "name": "James Badge Dale",
+                "role": "Chief of Detectives Joe Kozenczak",
+                "image": "https://image.tmdb.org/t/p/w200/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
+            },
+            {
+                "name": "Michael Angarano",
+                "role": "Sam Amirante",
+                "image": "https://image.tmdb.org/t/p/w200/q4SOVndGsnCmSZKBllLaJCNM72c.jpg"
+            },
+            {
+                "name": "Chris Sullivan",
+                "role": "Lead Prosecutor Bill Kunkle",
+                "image": "https://image.tmdb.org/t/p/w200/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
+            },
+            {
+                "name": "Marin Ireland",
+                "role": "Elizabeth Piest",
+                "image": "https://image.tmdb.org/t/p/w200/jAIOQNraHjvIAdqk81QDV5Phupp.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Ten Days",
+                "overview": "Genç Robert Piest, annesinin doğum gününde ortadan kaybolunca, Des Plaines Polis Departmanı memurları, Piest'in en son birlikte görüldüğü müteahhit John Wayne Gacy'nin izini sürüyor, sorguluyor ve izini sürüyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y4DH1M9KyVBo030kSzTk4uNTX3S.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Johnny",
+                "overview": "Polis memurları, John Wayne Gacy'nin evinin altındaki sürünme boşluğunu kazıyor. Gacy, Amirante, Kunkle ve Kozenczak'a Rob'un cesedini nereye attığını gösteriyor. Johnny Szyc ve en yakın arkadaşı Lynn, Uptown'a doğru yola çıkıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tIRvKMP8WSV3WicGUltag5H5Pws.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4hBFUNZt1tyTjlSfntt8sBVCOS6.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hVkZzMAUm0hTrtmhbeIPg7RP9g8.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt31314754/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 11:16:57"
+    },
+    {
         "id": 52814,
         "imdb_id": "tt2934286",
         "name": "Halo",

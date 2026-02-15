@@ -2,24 +2,128 @@
     "id": 246485,
     "imdb_id": "tt31219594",
     "name": "Ölü Kızlar",
+    "original_name": "Las muertas",
+    "overview": "Jorge Ibargüengoitia'nın romanından uyarlanan dizi, acımasız katillere dönüşen Baladro kardeşlerin 1960'ların Meksika'sında kurduğu genelev imparatorluğunun hikâyesini anlatıyor.",
     "poster": "https://image.tmdb.org/t/p/w500/dmOakRGmoD9VCkISe3R4umhYbie.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/rmIQiFYnTDttJMehqkw2GEaO18Y.jpg",
     "year": "2025",
+    "rating": 7.1,
     "genres": [
         "Dram",
         "Suç"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Arcelia Ramírez",
-        "Paulina Gaitán",
-        "Joaquín Cosío",
-        "Mauricio Isaac",
-        "Alfonso Herrera"
+        {
+            "name": "Arcelia Ramírez",
+            "role": "Arcangela Baladro",
+            "image": "https://image.tmdb.org/t/p/w200/5SA0Oj5t9qp4Ck18xj6pMKZXBsW.jpg"
+        },
+        {
+            "name": "Paulina Gaitán",
+            "role": "Serafina Baladro",
+            "image": "https://image.tmdb.org/t/p/w200/7A5ehPIhsbPGucp4Gr6zjnVSebt.jpg"
+        },
+        {
+            "name": "Joaquín Cosío",
+            "role": "Captain Bedoya",
+            "image": "https://image.tmdb.org/t/p/w200/ijMo3fMyY4VL1xyIj6ytiJrzaw9.jpg"
+        },
+        {
+            "name": "Mauricio Isaac",
+            "role": "La Calavera",
+            "image": "https://image.tmdb.org/t/p/w200/uFNrLnDv5eo20SwBeN8tFdsEKls.jpg"
+        },
+        {
+            "name": "Alfonso Herrera",
+            "role": "Simón Corona",
+            "image": "https://image.tmdb.org/t/p/w200/54KLFvt8iMDFmam2tsb5wk3AIcv.jpg"
+        },
+        {
+            "name": "Leticia Huijara",
+            "role": "Eulalia Baladro",
+            "image": "https://image.tmdb.org/t/p/w200/fhPCauCB0lJEm9oOuPZInFbCx3k.jpg"
+        },
+        {
+            "name": "Carlos Aragón",
+            "role": "Teófilo Pinto",
+            "image": "https://image.tmdb.org/t/p/w200/nEUEKbUHGnVr6BDvc0sBLeFXjzx.jpg"
+        },
+        {
+            "name": "Sonia Couoh",
+            "role": "Aurora",
+            "image": "https://image.tmdb.org/t/p/w200/i6K5a1oI8y22Cgc25vuIEDeeWZ9.jpg"
+        },
+        {
+            "name": "Yessica Borroto Perryman",
+            "role": "Blanca",
+            "image": "https://image.tmdb.org/t/p/w200/alrgY3bx7Us6N9VHyqCGuy0NvZa.jpg"
+        },
+        {
+            "name": "Sofía Espinosa",
+            "role": "María del Carmen",
+            "image": "https://image.tmdb.org/t/p/w200/iOwPSogxUHNWh3B0aIR1DuEW921.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "İki İntikam",
+            "overview": "Fırıncı sevgilisi Simon ile arası bozulan Madam Serafina'nın dizginlenemez intikam arzusu, her ikisinin hayatını da cehenneme çevirmek üzeredir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/23CuF02lHlaeR8VUhFP66sYttel.jpg",
+            "vote_average": 7.8,
             "link": "https://vidmody.com/vs/tt31219594/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Evlerin Tarihi",
+            "overview": "Arcángela, Serafina'nın intikam planı konusunda Yüzbaşı Bedoya'dan yardım ister. Bir ahlak yasası ve kurnaz bir sekreter, Baladro genelev imparatorluğunu tehlikeye atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4RDRRVrY9R55Y0A7Ro7PzooCdfJ.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt31219594/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Berbat Gece",
+            "overview": "Polis, Beto'nun başına gelenler nedeniyle \"Mexico Lindo\"ya kilit vurur. Danzón Gazinosu'na sığınan kız kardeşler, kendilerini kurtarmak için paralarını bir çiftliğe yatırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rZ4OPVBZ2OqCRUZaqHm3tL21ZUx.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt31219594/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Blanca'nın Dişleri",
+            "overview": "Genelevde çalışan kadınlardan biri olan Blanca'nın başına gelenler, Baladro kardeşlerin arka bahçesinde son bulan bir dizi tekinsiz olaya neden olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/uAuqaeSHwhKkJPABb55mud1EU0Q.jpg",
+            "vote_average": 5.5,
+            "link": "https://vidmody.com/vs/tt31219594/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Sıkıyönetim",
+            "overview": "İçerideki kadınlar başkaldırınca Bedoya, genelevi demir yumrukla yönetir. Bu sırada Teófilo çiftlikte kendisine verilen parayı yetirmekte zorlanır ve yeni bir trajedi yaşanır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fbg7dOE48tkspifaBI1i7Vz01kz.jpg",
+            "vote_average": 7.3,
+            "link": "https://vidmody.com/vs/tt31219594/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Polisler Gelir",
+            "overview": "Serafina bir dedektifin hedefi hâline gelince herkes çiftliğe çekilir. Polis araştırmayı derinleştirince Baladro ailesinin korkunç sırları ortaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/hy7mbt40qOXG9FvAiklBl7HyMVR.jpg",
+            "vote_average": 8.7,
+            "link": "https://vidmody.com/vs/tt31219594/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:15:02"
 }

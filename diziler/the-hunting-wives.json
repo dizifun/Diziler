@@ -2,24 +2,136 @@
     "id": 244447,
     "imdb_id": "tt31038430",
     "name": "The Hunting Wives",
+    "original_name": "The Hunting Wives",
+    "overview": "Seks, yalanlar ve dolu silahlar.\n\nSophie, New England'ı bırakıp Doğu Teksas'a taşınır ve zengin bir sosyetik kadının çekim alanına girer; burada bir grup ev hanımı ölümcül sırlar saklamaktadır.",
     "poster": "https://image.tmdb.org/t/p/w500/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
     "year": "2025",
+    "rating": 6.9,
     "genres": [
         "Dram",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Brittany Snow",
-        "Malin Åkerman",
-        "Jaime Ray Newman",
-        "Katie Lowes",
-        "Chrissy Metz"
+        {
+            "name": "Brittany Snow",
+            "role": "Sophie O’Neill",
+            "image": "https://image.tmdb.org/t/p/w200/uSQW2E7caOaXHBbvL2jdzGbwDwH.jpg"
+        },
+        {
+            "name": "Malin Åkerman",
+            "role": "Margo Banks",
+            "image": "https://image.tmdb.org/t/p/w200/q7U0YtgmqNa5oMBMzZ8JBLOKx6A.jpg"
+        },
+        {
+            "name": "Jaime Ray Newman",
+            "role": "Callie Baskin",
+            "image": "https://image.tmdb.org/t/p/w200/2NZqIILL9BW8fSveWDGBDLoMYN8.jpg"
+        },
+        {
+            "name": "Katie Lowes",
+            "role": "Jill Thompson",
+            "image": "https://image.tmdb.org/t/p/w200/5IqYIFfcZu7V4wrbzZKVtpkmuSw.jpg"
+        },
+        {
+            "name": "Chrissy Metz",
+            "role": "Starr Jackson",
+            "image": "https://image.tmdb.org/t/p/w200/d1qBoF1JQdLI8OF99sVeNQqjXZG.jpg"
+        },
+        {
+            "name": "George Ferrier",
+            "role": "Brad Thompson",
+            "image": "https://image.tmdb.org/t/p/w200/mH9D0zQ9AYFpXglD4gJy3ZzKLOE.jpg"
+        },
+        {
+            "name": "Evan Jonigkeit",
+            "role": "Graham O’Neill",
+            "image": "https://image.tmdb.org/t/p/w200/20osGzWsVGewAQ2qNESY7oasmMY.jpg"
+        },
+        {
+            "name": "Dermot Mulroney",
+            "role": "Jed Banks",
+            "image": "https://image.tmdb.org/t/p/w200/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Tuhaf ve Yabancı Yerler",
+            "overview": "Eşinin yeni patronu için düzenlenen bir partide iyi bir izlenim bırakmaya çalışan Sophie, kendini cazibeli ve gizemli Margo'nun yörüngesine çekilirken bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/n0FYWdV5JW8oFsAYGdEvscKbRJz.jpg",
+            "vote_average": 5.6,
             "link": "https://vidmody.com/vs/tt31038430/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Ateşli Kaçamaklar",
+            "overview": "Jed valilik seçimlerine katılmaya hazırlanırken Margo, geçmişteki sırlarının gizli kalması için çabalar. Abby, papazın oğlu Brad'e karşı duyduğu arzularla baş etmeye çalışır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/fB2ban1cTPXbF8DcYCauMzOR3xd.jpg",
+            "vote_average": 5.3,
+            "link": "https://vidmody.com/vs/tt31038430/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Gün Işığına Çıkmak",
+            "overview": "Margo, Sophie ile skandal yaratacak bir sır paylaşır. Kadınların çıktığı av gezisi eğlenceli başlasa da beklenmedik misafirlerin gelişiyle hızla raydan çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/oLLqGempjXPx5825GwOR6l015Gw.jpg",
+            "vote_average": 5.7,
+            "link": "https://vidmody.com/vs/tt31038430/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Kaçamak Günü",
+            "overview": "Ormanda bir ceset bulunmasının ardında Margo ve Brad aynı yalanı söylemek için telaş içinde ağız birliği eder. Sophie ise kayıp silahını arar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/xzHcef9wiU7U9RfVSXPWqTvCi46.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt31038430/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Bu Onun İlk Deneyimi Değil",
+            "overview": "Polis, Sophie'yi hem evinde hem de karakolda sorguya çeker. Jill, Brad'in mazeretini desteklemek için kontrolü ele alır ve Brad'in arkadaşına sessiz kalması yönünde baskı yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/h4gV7HwTvVcUdUJapCizZuREkh4.jpg",
+            "vote_average": 5.8,
+            "link": "https://vidmody.com/vs/tt31038430/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Teksas'ın Derinliklerinde",
+            "overview": "Bir komploya uğradığından emin olan Sophie, Margo'nun uzun zamandır görüşmediği ağabeyine sorular sorar. Jed'in kampanyasını yürüten Margo bir talk şova katılır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/yJQiZiJrmdCYFFTuTr7V3FZITrh.jpg",
+            "vote_average": 4.8,
+            "link": "https://vidmody.com/vs/tt31038430/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Kayan Yıldız",
+            "overview": "Margo ve Sophie katili bulmak ve tanıdık bir şüphelinin izini sürmek için zoraki bir iş birliğine girer. Bu sırada şerifin ofisi yeni bir ipucu bulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/jZcyF8IyIQWsLBOMZokqUxyeUXN.jpg",
+            "vote_average": 6.4,
+            "link": "https://vidmody.com/vs/tt31038430/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Sophie’nin Seçimi",
+            "overview": "Serbest bırakılan Sophie temize çıktığını düşünür. Ama Margo hakkında öğrendiği kritik bilgi her şeyi sorgulamasına neden olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/zeC5tcdaqbaS30keoXSulk4wrSK.jpg",
+            "vote_average": 5.4,
+            "link": "https://vidmody.com/vs/tt31038430/s1/e08"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:09:19"
 }

@@ -1,5 +1,117 @@
 [
     {
+        "id": 273247,
+        "imdb_id": "tt31289994",
+        "name": "The Lowdown",
+        "original_name": "The Lowdown",
+        "overview": "Gerçeğe olan takıntısı yüzünden sürekli başını belaya sokan, kendini Tulsa'nın “gerçek tarihçisi” ilan eden vatandaş gazeteci Lee Raybon'un cesur maceralarını takip edin.",
+        "poster": "https://image.tmdb.org/t/p/w500/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
+        "year": "2025",
+        "rating": 6.7,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "FX",
+            "FXNow",
+            "Spectrum On Demand",
+            "fuboTV",
+            "Disney+",
+            "YouTube TV"
+        ],
+        "cast": [
+            {
+                "name": "Ethan Hawke",
+                "role": "Lee Raybon",
+                "image": "https://image.tmdb.org/t/p/w200/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+            },
+            {
+                "name": "Keith David",
+                "role": "Marty",
+                "image": "https://image.tmdb.org/t/p/w200/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/p8UN6B4M1zW8AhRz0OCOx0aoxCz.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gcCwhVkrnrLbygYvqadAxX1JNXg.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6J4JZhDPloBKQ7dwpnBPZ1CZDzn.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mMrM2WquY9lSy9by98iDZ0yLH55.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/wfxbzd869dVwtsEvBTcoTyoyOhX.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5dhutPJB330QUYRgdT8bOLWyUOq.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zVy9bM921joyVirb2ATkxLhEEEb.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gbCSi2ScoHC3ByjQvbmJbyfBar0.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 11:16:39"
+    },
+    {
         "id": 615,
         "imdb_id": "tt0149460",
         "name": "Futurama",

@@ -1,5 +1,229 @@
 [
     {
+        "id": 244557,
+        "imdb_id": "tt31027788",
+        "name": "Mahsun J",
+        "original_name": "Mahsun J",
+        "overview": "Mahsun, İstanbul'da bir motokuryedir. Borç içindeki hayatında bir çıkış yolu ararken tesadüfen keşfettiği \"en büyük\" yeteneğini kullanarak JİGOLO olmaya karar verir. \"Menajer\"i ise başarısız bir reklamcı olan arkadaşı Leyla olacaktır.",
+        "poster": "https://image.tmdb.org/t/p/w500/mkDJNcunpoWWPSNUdvMmbfE7qyg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/3awNXEAkCewKiueXU77K06g0vJq.jpg",
+        "year": "2024",
+        "rating": 7.8,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Tümü",
+            "Exxen",
+            "Yerli",
+            "GAİN"
+        ],
+        "cast": [
+            {
+                "name": "Mahsun Karaca",
+                "role": "Mahsun",
+                "image": "https://image.tmdb.org/t/p/w200/j3fR8P5QdwAP9NHm9HOy9OQocJP.jpg"
+            },
+            {
+                "name": "Eda Akalın",
+                "role": "Leyla",
+                "image": "https://image.tmdb.org/t/p/w200/l4qBO6ge5V9zRya4W7G2mQpzMS8.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Mahsun, borç içinde yaşayan bir motokuryedir. Arkadaşı yerine bir teslimata gider. Paketi teslim ettiği kadınla yaşadığı ‘’ek gelir’’ macerası Mahsun’un hayatını değiştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1AwVXsTfrCAMUcYdUQjRZma34o0.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt31027788/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Leyla ile Mahsun içine girdikleri yeni dünyanın kurallarını öğrenebilmek için deneyimli bir jigolo olan Ateş’e giderler. Ateş’in onlara açtığı kapı hiç ummadıkları bir yere çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3KcHRaXH0PBSzCOoMMRO2i0H40n.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt31027788/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Leyla ve Mahsun, online bir uygulama üzerinden Mahsun'un yeteneklerini pazarlamaya karar verirler. Ancak Ateş, buldukları her müşteriden komisyon ister ve işlerini karmaşıklaştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eIJktHSNbz3trs9BS0KzAnAalyc.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt31027788/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Ateş intikam için Mahsun’un peşindedir. Mahsun ise yıllar sonra başbaşa buluşma fırsatı yakaladığı Bahar’la karşılaşır. Bu duruma beklenmedik bir isim daha dahil olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/620rhkq0mjeOuVNe3awyTsDLKce.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt31027788/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Mahsun, Leyla'nın bulduğu yeni müşteri Zuhal ile buluşur ve çok \"dumanlı\" bir maceranın içine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ooKY27vKLGumsFF8pymHJ66uiEa.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt31027788/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Mahsun, Rambo’ya yakalanır ve yanında Leyla’yı da yakar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tfUKUgv4KeY7Vz8hKFraPJqIYp.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt31027788/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Mahsun kendine yeni bir menajer bulur. Peki bu kariyeri için doğru bir karar mı?",
+                "still_path": "https://image.tmdb.org/t/p/w400/8FD6nKV5BJYurh85Hj65VKbdUuC.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt31027788/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Leyla'nın bulduğu son müşteri, Mahsun'un hiç beklemediği bir tesadüfe dönüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vc5DLKItSmDRyqFGfNr16KHubG1.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt31027788/s1/e08"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Mahsun, jigololuk yaptığı Seyyal tarafından bir süredir zindanda tutulmaktadır. Tutsaklığı bittiği gibi mahalleye döner ama işe gittiği Buse’nin evinde kendini bir canlı yayının içinde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hjcBrHrLj2m4buv2ff7l1VQmzSl.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Mahsun, en iyi jigololar arasından sıyrılıp Arap prensesi Şehrazad’a İstanbul gezisinde eşlik etme şansına erişir. Birlikte geçirdikleri vaktin sonunda Mahsun, Şehrazad ile yakınlaşarak Arap şeyhi olma fırsatını yakalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6A3LwddRL3wMzdRMVlXNMsel172.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Mahsun ve Leyla ellerine geçen define haritasının peşine düşmüş kendilerini Asalet ailesinin entrikalarının ortasında bulur. Mahsun sayesinde aileye ait birçok gerçek su yüzüne çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yNyJsyPjPTMhzq5llfY4SsRvodG.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Mahsun erotik filmler yapan bir yapımcıdan başrol teklifi alır. Sette işler birbirine karışınca bu durumdan faydalanan Mahsun yönetmen koltuğuna oturur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oYJsgCB1GZZpWv7ob260Nrdkeqe.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Yeni müşteri Serpil'in gemi kaptanı kocası Kamil, yıllardır seferden dönmemiştir. Konu komşunun dedikodusundan bıkan Serpil, Mahsun'dan bir \"Kaptan Kamil\" yaratır. Mahsun'un gittikçe alıştığı bu \"kiralık kocalık\" macerası hiç beklenmedik şekilde son bulacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xKejGcAHnzVWwzFGFC3dZfrpLbI.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Mahsun, yeni müşterisi Aysel'in eski sevgilisine şantaj girişiminde bulunup para koparmaya çalışır. Ancak işler hiç tahmin etmediği yönde ilerleyince Leyla'yı da kendiyle birlikte belanın en dibine çeker ve kendilerini bir SAHİBE PARTİSİ içinde bulurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Zfu0w9wFVMmw7NU50wmVhUQxd9.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "\"Mahsun hiç beklemediği anda tesadüfen tanıştığı bir kadından evlilik teklifi alır. Şimdi kız isteme merasimi için Mahsun'a bir aile lazımdır. Ancak Mahsun ve sahte ailesini bambaşka bir sürpriz beklemektedir.\"",
+                "still_path": "https://image.tmdb.org/t/p/w400/uRgo5jBZp7TjjGLDW6TX9zctaCr.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Mahsun 'un yeni müşterisi Sündüz, garip \"fantezisi\" için Mahsun'a fetiş bir kostüm giydirir. Ancak beklenmeyen bir misafirin baskını ile olaylar ıssız bir ormanda Mahsun'un ölüm kalım mücadelesine dönüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oly1TF90Dpfu5jYSbsbmJjhUuRd.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Mahsun, birden artan jigolo müşterilerinin hepsine hizmet vermeye çalışırken kendince bulduğu çözümler, onun hayatı dışında herkesin hayatını bir kez daha alt üst eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i7eYGxZM3QAaoJKpwgSN8xJm901.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Mahsun temizlik hastası müşterisinden eksta para kazanma yolları ararken yalanlarıyla Leyla'yı da rezaletine ortak eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hywtB3AroWAdayD4hfZ9Am9GuLz.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e10"
+            },
+            {
+                "season": 2,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Rahmetli müşterisi AHSEN'in ANMA PARTİSİNE katılan Mahsun, bu ortamda hiç beklemediği biriyle, YILMAZ VURAL ile tanışır. Ve Mahsun'la tanışan herkes gibi Yılmaz Hocanın hayatı da kökünden değişecektir. Kendisini Mahsun'un beladan kurtulmak için yaptığı \"muhteşem\" planın ortasında bulan Leyla bir anda Mahsun'un suç ortağı olmuştur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jzfOyPcAXH0xd0LOKmq3IUP6D54.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e11"
+            },
+            {
+                "season": 2,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Mahsun ve Leyla şok bir sürprizle karşılaşır. Öldü zannettikleri eski müşterileri AHSEN kanlı canlı halde dikilir. Üstelik reddedemeyecekleri bir teklifi vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1aMeIDHkX7Rhxy6d3cyD0HipDeH.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e12"
+            },
+            {
+                "season": 2,
+                "episode": 13,
+                "name": "13. Bölüm",
+                "overview": "Ahsen'in teklifi ile kurumsal hayata adım atan Mahsun'un \"yakın çevresinden\" toplayarak kurduğu jigolo ekibi bordrolu ve sigortalı olarak mesailerine başlamıştır. Ancak olaylar hiç beklemedikleri bir finale doğru yol alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6Ug4ooUc2ZOAYkVNs52vUFcV17b.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt31027788/s2/e13"
+            }
+        ],
+        "update_date": "2026-02-15 11:08:53"
+    },
+    {
         "id": 251883,
         "imdb_id": "tt28267514",
         "name": "Kimler Geldi Kimler Geçti",

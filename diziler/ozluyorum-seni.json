@@ -2,25 +2,120 @@
     "id": 244243,
     "imdb_id": "tt31019484",
     "name": "Özlüyorum Seni",
+    "original_name": "Missing You",
+    "overview": "Dedektif Kat Donovan, bir flört uygulamasında yıllar önce ortadan kaybolan nişanlısıyla eşleştiğinde, bazı sırların geçmişte bırakılmasının daha iyi olduğunu öğrenir.",
     "poster": "https://image.tmdb.org/t/p/w500/9UMC9Ddemh6DeRxeFZTiZIo7gDP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iC92jNOuhxSIGTFoMmAjtyaNOGV.jpg",
     "year": "2025",
+    "rating": 6.1,
     "genres": [
         "Dram",
         "Suç",
         "Gizem"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
+    ],
     "cast": [
-        "Rosalind Eleazar",
-        "Jessica Kate Plummer",
-        "Richard Armitage",
-        "Lenny Henry",
-        "Steve Pemberton"
+        {
+            "name": "Rosalind Eleazar",
+            "role": "Kat Donovan",
+            "image": "https://image.tmdb.org/t/p/w200/9Tb1rLSnyCfnZXYixfjWJuQJig9.jpg"
+        },
+        {
+            "name": "Jessica Kate Plummer",
+            "role": "Stacey Embalo",
+            "image": "https://image.tmdb.org/t/p/w200/trt0VnEWXHRVllh11DjElBz3drU.jpg"
+        },
+        {
+            "name": "Richard Armitage",
+            "role": "Ellis Stagger",
+            "image": "https://image.tmdb.org/t/p/w200/oNoKjTOUNUiJ01UNQSCQDkt5EHi.jpg"
+        },
+        {
+            "name": "Lenny Henry",
+            "role": "Clint Donovan",
+            "image": "https://image.tmdb.org/t/p/w200/aT5zYMfGI3x4sGtCs9QM4gT0G2h.jpg"
+        },
+        {
+            "name": "Steve Pemberton",
+            "role": "Titus",
+            "image": "https://image.tmdb.org/t/p/w200/j4AFPsF6DM9nfccol3VFQgPJ6Ia.jpg"
+        },
+        {
+            "name": "Lisa Faulkner",
+            "role": "Dana Fells",
+            "image": "https://image.tmdb.org/t/p/w200/35dVwXRgGZBAC23Z2BJJIpe9pnT.jpg"
+        },
+        {
+            "name": "Mary Malone",
+            "role": "Aqua Vanech",
+            "image": "https://image.tmdb.org/t/p/w200/5wKAu5WiGWlnbSooNjscMQSz3fo.jpg"
+        },
+        {
+            "name": "Brigid Zengeni",
+            "role": "Odette Donovan",
+            "image": "https://image.tmdb.org/t/p/w200/e5N1sHH8iQK0QDg9FrYGYkMXCg1.jpg"
+        },
+        {
+            "name": "Catherine Ayers",
+            "role": "Nia Emine",
+            "image": "https://image.tmdb.org/t/p/w200/rRakVdIy3I3aIHS3WLRpoytUkTI.jpg"
+        },
+        {
+            "name": "Charlie Hamblett",
+            "role": "Charlie Pitts",
+            "image": "https://image.tmdb.org/t/p/w200/mAXQhnFAzrjmZKulX7SXTAvWmiq.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Aldığın Her Nefeste",
+            "overview": "Dedektif Kat Donovan, bir zamanlar sevdiği adamla karşılaştığında geçmişiyle yüzleşir ve nefret ettiği adamla ilgili bazı haberler alır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/rkQGFXFyxF28PoSTrCYMUw2B1fT.jpg",
+            "vote_average": 4.6,
             "link": "https://vidmody.com/vs/tt31019484/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Ne Senle Ne de Sensiz",
+            "overview": "Kat, LeBurne'dan bir itiraf almasına yardım etmesi için Stagger'a yalvarır. Stacey, Josh'u aramayı teklif eder. Kat'ın yardımına ihtiyacı olan biri karakola gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/whbB7dr6oXkDOv2VAf7i4ztCA56.jpg",
+            "vote_average": 4.0,
+            "link": "https://vidmody.com/vs/tt31019484/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Asla Fazla Gelmez",
+            "overview": "Stagger'ın doğrudan emirlerine karşı gelen Kat, Dana'nın vakasını incelemeye devam eder ve Josh'u sandığı kadar iyi tanımıyor olabileceğini öğrenir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/6UbQXukUupt8rd5IK0m7jrXTR35.jpg",
+            "vote_average": 3.8,
+            "link": "https://vidmody.com/vs/tt31019484/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Beni Unutma",
+            "overview": "Kat, Brendan'a saldıran kişiyi sorguladıktan sonra tekrar Josh'un izini sürmeye çalışır ancak bunun yerine görmeyi beklediği son kişiyle yüz yüze gelir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bWxE3FKMghI5MRzruUUlHUKuQN2.jpg",
+            "vote_average": 4.2,
+            "link": "https://vidmody.com/vs/tt31019484/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Zincirleme Reaksiyon",
+            "overview": "Kat, son 11 yıldır aradığı cevapları nihayet bulur. Dana için zaman daralırken Titus, Brendan'ı aramaya çıkar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ixmds63ik3qjMgL7avgc7IzboRZ.jpg",
+            "vote_average": 3.4,
+            "link": "https://vidmody.com/vs/tt31019484/s1/e05"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 11:08:40"
 }
