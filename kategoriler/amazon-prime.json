@@ -1,5 +1,529 @@
 [
     {
+        "id": 293298,
+        "imdb_id": "tt37202552",
+        "name": "Most Wanted: Julius Kivimäki",
+        "original_name": "Most Wanted: Julius Kivimäki",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/2VgVtAiauUeTByTEDRmaSZgCF3X.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/j31CJaNsjee1M8vIFZvjR1k1osc.jpg",
+        "year": "2025",
+        "rating": 6.7,
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Julius Kivimäki",
+                "role": "Self",
+                "image": ""
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4LVD9CMZwJjCS2GrgRQAgNSprMi.jpg",
+                "vote_average": 1.0,
+                "link": "https://vidmody.com/vs/tt37202552/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/NM9iA7mqQASnaDnUEEoBoiZTjv.jpg",
+                "vote_average": 1.0,
+                "link": "https://vidmody.com/vs/tt37202552/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zMwzjpAjrbdKgNcguM4XtAhCGms.jpg",
+                "vote_average": 1.0,
+                "link": "https://vidmody.com/vs/tt37202552/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hgFdssllVKB8awdq63hcCoBxVkp.jpg",
+                "vote_average": 1.0,
+                "link": "https://vidmody.com/vs/tt37202552/s1/e04"
+            }
+        ],
+        "update_date": "2026-02-15 13:20:25"
+    },
+    {
+        "id": 291084,
+        "imdb_id": "tt36885662",
+        "name": "Best Medicine",
+        "original_name": "Best Medicine",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/q7SCSZfDaNDRPL3Xt4TiGSZQQht.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+        "year": "2026",
+        "rating": 7.6,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Amazon Prime",
+            "Spectrum On Demand",
+            "fuboTV",
+            "FOX",
+            "YouTube TV"
+        ],
+        "cast": [
+            {
+                "name": "Josh Charles",
+                "role": "Dr. Martin Best",
+                "image": "https://image.tmdb.org/t/p/w200/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
+            },
+            {
+                "name": "Abigail Spencer",
+                "role": "Louisa Glasson",
+                "image": "https://image.tmdb.org/t/p/w200/uf96FDHVoFMwoiP5He4SPLCmwri.jpg"
+            },
+            {
+                "name": "Josh Segarra",
+                "role": "Sheriff Mark Mylow",
+                "image": "https://image.tmdb.org/t/p/w200/vXhukEBgpI8jmCUCSGcpJCNzXHV.jpg"
+            },
+            {
+                "name": "Cree Cicchino",
+                "role": "Elaine Denham",
+                "image": "https://image.tmdb.org/t/p/w200/49WAoaceTvvsgGKCQ8WOxNdfOdl.jpg"
+            },
+            {
+                "name": "Annie Potts",
+                "role": "Aunt Joan",
+                "image": "https://image.tmdb.org/t/p/w200/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt36885662/s1/e01"
+            }
+        ],
+        "update_date": "2026-02-15 13:15:05"
+    },
+    {
+        "id": 306355,
+        "imdb_id": "tt36584543",
+        "name": "Jasmine",
+        "original_name": "Jasmine",
+        "overview": "Sağlık sorunlarıyla boğuşan Jasmine ile saplantılı kardeşi Tufan, hayatta kalma mücadelesi içinde karanlık ve tehlike dolu bir yola sürüklenir.",
+        "poster": "https://image.tmdb.org/t/p/w500/ra2655lCb3OAgI28F4YVYdJ2p8n.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/kntwE5atwmYaqVH8sbVqp7VUXJQ.jpg",
+        "year": "2025",
+        "rating": 4.8,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Yerli",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Asena Keskinci",
+                "role": "Yasemin Jülide Aktaş",
+                "image": "https://image.tmdb.org/t/p/w200/vFYNUtDyJNqrkTUpQoeZOVeWiby.jpg"
+            },
+            {
+                "name": "Burak Can Aras",
+                "role": "Tufan Aktaş",
+                "image": "https://image.tmdb.org/t/p/w200/6M9nMgO4OHX9EJJa4kFNKYw0LW3.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Jasmine hastane ziyaretlerini sürdürürken, yeni tanıştığı bir çiftle birlikte kendini alışmadığı bir maceranın içinde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hHte3MeTn2AYHXbrslHup78XbvG.jpg",
+                "vote_average": 3.5,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Jasmine eski bir lise arkadaşıyla karşılaşır ve geçmiş hisleri intikam ateşini tetiklerken, Tufan’ın da geçmişine dair sırlar açığa çıkmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5ni2jPqztqHsNsxDzfrOxif4TCe.jpg",
+                "vote_average": 3.5,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Jasmine, müşterilerinin tehlikeli dünyalarında sınırlarını zorlarken, Tufan ise kendi karmaşık dünyasıyla boğuşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ig2vsvlr4ayFWvy2soaU3O36FSa.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Tufan’ın eski hataları onu yeniden belaya çekerken, Jasmine’in tehlikeli seçimleri ikisini de beklenmedik sonuçlara sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g4goawWgpTiE4qZw9c1M9thfaJV.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Tufan’ın takıntısı şiddete dönüşerek herkesin hayatını altüst ederken hem onu hem de Jasmine’i kaçınılmaz, kötü bir sona doğru sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7iHyhbYYmzFNTuJlq0Ico1f9Ra3.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Jasmine’nin dünyası değişirken, geçmişinden kaçmaya çalışsa da, aynı yolun sadece daha aydınlık bir versiyonunun onu beklediğini anlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9k3KsryX7VNzQugEalrXwIPodBb.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 13:08:38"
+    },
+    {
+        "id": 100088,
+        "imdb_id": "tt3581920",
+        "name": "The Last of Us",
+        "original_name": "The Last of Us",
+        "overview": "Dünyayı kasıp kavuran bir salgınından yirmi yıl sonra hayatta kalan Joel ve Ellie, her şeyi değiştirebilecek bir görev için yola koyulur.",
+        "poster": "https://image.tmdb.org/t/p/w500/cdbDsn2hqLL7x804GixzPP8AiBE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+        "year": "2023",
+        "rating": 8.5,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "Spectrum On Demand",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Bella Ramsey",
+                "role": "Ellie Williams",
+                "image": "https://image.tmdb.org/t/p/w200/wx78DnBixam4eXlwVVZs16fWP98.jpg"
+            },
+            {
+                "name": "Gabriel Luna",
+                "role": "Tommy Miller",
+                "image": "https://image.tmdb.org/t/p/w200/2NNNl3od5K7HXOLUqlK3tzdxKkD.jpg"
+            },
+            {
+                "name": "Isabela Merced",
+                "role": "Dina",
+                "image": "https://image.tmdb.org/t/p/w200/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
+            },
+            {
+                "name": "Young Mazino",
+                "role": "Jesse",
+                "image": "https://image.tmdb.org/t/p/w200/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Karanlıkta Kaybolduğun Zaman",
+                "overview": "Yirmi yıl önce bir mantar salgını gezegeni sarstıktan sonra, hayatta kalan Joel ve Tess, her şeyi değiştirebilecek bir görevle karşı karşıya kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Enfekte",
+                "overview": "QZ'den kaçan Joel ve Tess, uzun süredir terk edilmiş Boston'ın kalıntıları arasında gezinirken Ellie'nin kaderi konusunda karşı karşıya gelirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Çok Uzun Zaman",
+                "overview": "Joel ve Ellie, Frank ve Bill'den yardım istemek için Bill tarafından bir kale gibi korunan Lincoln'e seyahat ederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Elimi Tut Lütfen",
+                "overview": "Joel ve Ellie, Kansas City'de kamyonlarını terk ettikten sonra, intikam peşindeki bir isyancı liderin dikkatini çekmeden kaçmaya çalışırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/szQ95jxKNrYWnCAJx8VC51iws5d.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Dayan ve Hayatta Kal",
+                "overview": "İsyancılardan kaçmaya çalışırken, Joel ve Ellie Kansas City'nin en çok aranan adamıyla karşılaşır. Kathleen ise avına devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cX2z8FO9lKqZmBBTVF2G2favQRE.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Aile",
+                "overview": "Joel ve Ellie ateşböceklerini ve Tommy'yi bulmak için tehlikeli bölgelere derinlemesine inmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zW9AIy0PVhYfmukqBcUvlvi4mKc.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Geride Kalanlar",
+                "overview": "Joel hayatta kalmak için savaşırken, Ellie her şeyi değiştiren o geceyi hatırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oNyC68bnOoVAiJnKVsRNY9YDbl6.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "İhtiyacımız Olduğu Zaman",
+                "overview": "Ellie, intikam peşindeki bir grup hayatta kalanla karşılaşır ve bu grubun liderinin dikkatini çeker.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6DHQgB85iKMcabcKvC9HSDH3UDo.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Işığı Ara",
+                "overview": "Hamile Anna, çok yakın bir arkadaşına güvenir. Joel ve Ellie, yolculuklarının sonuna yaklaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qFouIBgN3Jgba7LnuRmkTAohh07.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e09"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Gelecek Günler",
+                "overview": "Beş yıl geçti. Joel arasının açıldığı Ellie ile ilişkisini düzeltmeye çalışırken 19 yaşındaki genç, yeni bir tehditle karşı karşıyadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i8lsfJzt7buKLotPwCTBQyuPavN.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Vadi Boyunca",
+                "overview": "Abby seçeneklerini değerlendirirken Jackson Hole da hastalıklıların yaklaştığı söylentilerine rağmen yaklaşan fırtınaya hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nJOU5Ok1VdJGSrzTYwttRxHOCkJ.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Patika",
+                "overview": "Dina'nın kritik istihbaratının ardından, Ellie kent konseyine dilekçe vermeye hazırlanır. Seattle yakınlarındaki dindar bir grup savaştan kaçar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nucQz7SPV1AruDuVMbnHbUOr7LD.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Birinci Gün",
+                "overview": "Seattle'da Ellie ve Dina kendilerini yobaz Seraphite'lar ile acımasız milislerin arasındaki savaşın ortasında bulurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hI5PALWKjn9DeyQkAiObJwzSeOz.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Onun Sevgisini Hisset",
+                "overview": "WLF'in tehlikeli keşfi karşısında Ellie zor bir kararla karşı karşıya kalır. Sonra da beklenmedik bir kaynak şok edici bir gerçeği paylaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o79Zkjoe2bNKslh8Dr7mcm8gyg.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Fiyat",
+                "overview": "Joel, Ellie'ye doğum günü sürprizi yapar. Yıllar sonra Ellie geçmişiyle ilgili Joel ile yüzleşmeye hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iyqiOrn1253erbEpX9UeSPYXhTh.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Yakınsama",
+                "overview": "Seattle'daki rakip grupların savaşının ortasındaki Ellie'nin aramaları, onu yıkıcı bir yüzleşmeye doğru çeker.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4IZqCZRmBq9LifHFQkYA1QqqE0x.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e07"
+            }
+        ],
+        "update_date": "2026-02-15 12:54:43"
+    },
+    {
+        "id": 301507,
+        "imdb_id": "tt35495073",
+        "name": "Heated Rivalry",
+        "original_name": "Heated Rivalry",
+        "overview": "Kariyerlerinin zirvesinde olan iki rakip hokey yıldızı, birbirlerine karşı hisler beslemeye başlayınca beklenmedik bir zorlukla karşı karşıya kalır ve bu durum kariyerlerini ve sporun beklentilerini karmaşık hale getirir.",
+        "poster": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/iS76c29IrS3lKI2X5CFySguiAWU.jpg",
+        "year": "2025",
+        "rating": 8.8,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Crave",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Hudson Williams",
+                "role": "Shane Hollander",
+                "image": "https://image.tmdb.org/t/p/w200/4Jyftr2jpggEZT5DcLX5jBzBOTK.jpg"
+            },
+            {
+                "name": "Connor Storrie",
+                "role": "Ilya Rozanov",
+                "image": "https://image.tmdb.org/t/p/w200/nNbshDKgEZeyV7XjWD4eAxwcZow.jpg"
+            },
+            {
+                "name": "François Arnaud",
+                "role": "Scott Hunter",
+                "image": "https://image.tmdb.org/t/p/w200/h55jsriG3EExZupF7S205yAjU6w.jpg"
+            },
+            {
+                "name": "Robbie G.K.",
+                "role": "Kip Grady",
+                "image": "https://image.tmdb.org/t/p/w200/hN1VW1pRB1A8Rb6VzI1pQ3SsgYz.jpg"
+            },
+            {
+                "name": "Christina Chang",
+                "role": "Yuna Hollander",
+                "image": "https://image.tmdb.org/t/p/w200/p1m4Da7ZOt6BOcXy4T58Mu3jAY3.jpg"
+            },
+            {
+                "name": "Dylan Walsh",
+                "role": "David Hollander",
+                "image": "https://image.tmdb.org/t/p/w200/A0XK6UEOuMKf66XpsZ1DBa9kXAR.jpg"
+            },
+            {
+                "name": "Ksenia Daniela Kharlamova",
+                "role": "Svetlana Vetrova",
+                "image": "https://image.tmdb.org/t/p/w200/g5u77d6EPTAedFKelAbqhDychtc.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/AuCYbaUVVwriRuBtDrB7lBSkNT.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt35495073/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/vGdS2Ruh5BwwbJUsEMBRs9EuVQM.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt35495073/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eQkWWi8KuPhOakG9z9lK9jv9Z0X.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt35495073/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/KxTzboqeKccNpiaKdHQA0rM7mc.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt35495073/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/aeDNeNxmKdBcNb5qI4ci5mHZlkh.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt35495073/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/soarX0wzDItdFhWuQ3MkOiFSYLq.jpg",
+                "vote_average": 9.1,
+                "link": "https://vidmody.com/vs/tt35495073/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 12:49:16"
+    },
+    {
         "id": 273801,
         "imdb_id": "tt33745056",
         "name": "Florida işte bu,  Adamım",

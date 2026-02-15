@@ -1,5 +1,168 @@
 [
     {
+        "id": 306355,
+        "imdb_id": "tt36584543",
+        "name": "Jasmine",
+        "original_name": "Jasmine",
+        "overview": "Sağlık sorunlarıyla boğuşan Jasmine ile saplantılı kardeşi Tufan, hayatta kalma mücadelesi içinde karanlık ve tehlike dolu bir yola sürüklenir.",
+        "poster": "https://image.tmdb.org/t/p/w500/ra2655lCb3OAgI28F4YVYdJ2p8n.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/kntwE5atwmYaqVH8sbVqp7VUXJQ.jpg",
+        "year": "2025",
+        "rating": 4.8,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Yerli",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Asena Keskinci",
+                "role": "Yasemin Jülide Aktaş",
+                "image": "https://image.tmdb.org/t/p/w200/vFYNUtDyJNqrkTUpQoeZOVeWiby.jpg"
+            },
+            {
+                "name": "Burak Can Aras",
+                "role": "Tufan Aktaş",
+                "image": "https://image.tmdb.org/t/p/w200/6M9nMgO4OHX9EJJa4kFNKYw0LW3.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Jasmine hastane ziyaretlerini sürdürürken, yeni tanıştığı bir çiftle birlikte kendini alışmadığı bir maceranın içinde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hHte3MeTn2AYHXbrslHup78XbvG.jpg",
+                "vote_average": 3.5,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Jasmine eski bir lise arkadaşıyla karşılaşır ve geçmiş hisleri intikam ateşini tetiklerken, Tufan’ın da geçmişine dair sırlar açığa çıkmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5ni2jPqztqHsNsxDzfrOxif4TCe.jpg",
+                "vote_average": 3.5,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Jasmine, müşterilerinin tehlikeli dünyalarında sınırlarını zorlarken, Tufan ise kendi karmaşık dünyasıyla boğuşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ig2vsvlr4ayFWvy2soaU3O36FSa.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Tufan’ın eski hataları onu yeniden belaya çekerken, Jasmine’in tehlikeli seçimleri ikisini de beklenmedik sonuçlara sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g4goawWgpTiE4qZw9c1M9thfaJV.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Tufan’ın takıntısı şiddete dönüşerek herkesin hayatını altüst ederken hem onu hem de Jasmine’i kaçınılmaz, kötü bir sona doğru sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7iHyhbYYmzFNTuJlq0Ico1f9Ra3.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Jasmine’nin dünyası değişirken, geçmişinden kaçmaya çalışsa da, aynı yolun sadece daha aydınlık bir versiyonunun onu beklediğini anlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9k3KsryX7VNzQugEalrXwIPodBb.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt36584543/s1/e06"
+            }
+        ],
+        "update_date": "2026-02-15 13:08:38"
+    },
+    {
+        "id": 303453,
+        "imdb_id": "tt36473743",
+        "name": "Son Kare",
+        "original_name": "Son Kare",
+        "overview": "İstanbul’un karanlık sokaklarında işlenen gizemli cinayetler emniyet güçlerini harekete geçirir. Göreve yeni dönen komiser Sare’nin elindeki tek ipucu, cinayetlerden önce moda fotoğrafçısı Atlas’ın evine bırakılan maktullere ait fotoğraf kareleridir.",
+        "poster": "https://image.tmdb.org/t/p/w500/jwVRYnc6IwReY9bURd2svzJezP6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/mL36yB4fKDzay0G3vEi2tocn2qb.jpg",
+        "year": "2026",
+        "rating": 0.0,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Yerli",
+            "GAİN"
+        ],
+        "cast": [
+            {
+                "name": "Burcu Özberk",
+                "role": "Sare",
+                "image": "https://image.tmdb.org/t/p/w200/qitJXgtaDfi1vYbjKxX39TVjptf.jpg"
+            },
+            {
+                "name": "Uraz Kaygılaroğlu",
+                "role": "Atlas Demirci",
+                "image": "https://image.tmdb.org/t/p/w200/7rdov56gMxgsBhOMeqdwv1cgOiW.jpg"
+            },
+            {
+                "name": "Yiğit Özşener",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/pgdIYi5UzZzU7HG0qcrRFPYHGbi.jpg"
+            },
+            {
+                "name": "Cahit Gök",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/yWbCEoeYZxOrg44GUS2w2uZXagz.jpg"
+            },
+            {
+                "name": "Nizam Namidar",
+                "role": "",
+                "image": "https://image.tmdb.org/t/p/w200/5jfOEkUKCAkPcBD10pm1bH1V8Xf.jpg"
+            },
+            {
+                "name": "Nasmina Tüten",
+                "role": "",
+                "image": ""
+            },
+            {
+                "name": "Muhammet Kulu",
+                "role": "",
+                "image": ""
+            },
+            {
+                "name": "Onur Erdi",
+                "role": "",
+                "image": ""
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Lunapark",
+                "overview": "İstanbul’da bir lunaparkta bulunan bir ceset, komiser Sare’nin yolunun ünlü moda fotoğrafçısı Atlas’la kesişmesine neden olur. Maktule ait fotoğraf karelerinin başucuna bırakılmasına anlam veremeyen Atlas, masum olduğunu kanıtlamaya çalışırken, olayı araştıran Sare’nin Atlas üzerindeki şüpheleri giderek artmaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f1R4mkNGVPMGpiD2TjlKtgnAQHn.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt36473743/s1/e01"
+            }
+        ],
+        "update_date": "2026-02-15 13:06:21"
+    },
+    {
         "id": 278011,
         "imdb_id": "tt34692112",
         "name": "Platonik",

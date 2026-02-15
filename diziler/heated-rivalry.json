@@ -2,23 +2,113 @@
     "id": 301507,
     "imdb_id": "tt35495073",
     "name": "Heated Rivalry",
+    "original_name": "Heated Rivalry",
+    "overview": "Kariyerlerinin zirvesinde olan iki rakip hokey yıldızı, birbirlerine karşı hisler beslemeye başlayınca beklenmedik bir zorlukla karşı karşıya kalır ve bu durum kariyerlerini ve sporun beklentilerini karmaşık hale getirir.",
     "poster": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/iS76c29IrS3lKI2X5CFySguiAWU.jpg",
     "year": "2025",
+    "rating": 8.8,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Amazon Prime",
+        "Crave",
+        "HBO Max"
+    ],
     "cast": [
-        "Connor Storrie",
-        "Hudson Williams",
-        "François Arnaud",
-        "Robbie Graham-Kuntz",
-        "Christina Chang"
+        {
+            "name": "Hudson Williams",
+            "role": "Shane Hollander",
+            "image": "https://image.tmdb.org/t/p/w200/4Jyftr2jpggEZT5DcLX5jBzBOTK.jpg"
+        },
+        {
+            "name": "Connor Storrie",
+            "role": "Ilya Rozanov",
+            "image": "https://image.tmdb.org/t/p/w200/nNbshDKgEZeyV7XjWD4eAxwcZow.jpg"
+        },
+        {
+            "name": "François Arnaud",
+            "role": "Scott Hunter",
+            "image": "https://image.tmdb.org/t/p/w200/h55jsriG3EExZupF7S205yAjU6w.jpg"
+        },
+        {
+            "name": "Robbie G.K.",
+            "role": "Kip Grady",
+            "image": "https://image.tmdb.org/t/p/w200/hN1VW1pRB1A8Rb6VzI1pQ3SsgYz.jpg"
+        },
+        {
+            "name": "Christina Chang",
+            "role": "Yuna Hollander",
+            "image": "https://image.tmdb.org/t/p/w200/p1m4Da7ZOt6BOcXy4T58Mu3jAY3.jpg"
+        },
+        {
+            "name": "Dylan Walsh",
+            "role": "David Hollander",
+            "image": "https://image.tmdb.org/t/p/w200/A0XK6UEOuMKf66XpsZ1DBa9kXAR.jpg"
+        },
+        {
+            "name": "Ksenia Daniela Kharlamova",
+            "role": "Svetlana Vetrova",
+            "image": "https://image.tmdb.org/t/p/w200/g5u77d6EPTAedFKelAbqhDychtc.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/AuCYbaUVVwriRuBtDrB7lBSkNT.jpg",
+            "vote_average": 8.2,
             "link": "https://vidmody.com/vs/tt35495073/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/vGdS2Ruh5BwwbJUsEMBRs9EuVQM.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt35495073/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/eQkWWi8KuPhOakG9z9lK9jv9Z0X.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt35495073/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/KxTzboqeKccNpiaKdHQA0rM7mc.jpg",
+            "vote_average": 8.2,
+            "link": "https://vidmody.com/vs/tt35495073/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/aeDNeNxmKdBcNb5qI4ci5mHZlkh.jpg",
+            "vote_average": 8.9,
+            "link": "https://vidmody.com/vs/tt35495073/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/soarX0wzDItdFhWuQ3MkOiFSYLq.jpg",
+            "vote_average": 9.1,
+            "link": "https://vidmody.com/vs/tt35495073/s1/e06"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 12:49:16"
 }

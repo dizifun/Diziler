@@ -2,24 +2,158 @@
     "id": 209110,
     "imdb_id": "tt37218592",
     "name": "İtirafın Bedeli",
+    "original_name": "자백의 대가",
+    "overview": "Kocasını öldürmekle suçlanan bir kadına, gizemli bir yabancı bir teklifte bulunur: Onun yerine itirafta bulunacaktır. Ancak karşılığında kadın, bir cinayet işlemek zorundadır.",
     "poster": "https://image.tmdb.org/t/p/w500/vWBwsFkQDZFeIo9tizyeMRbkRH1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/4Bvk0EVHCjswWQYFHdRNsVWLtk8.jpg",
     "year": "2025",
+    "rating": 8.2,
     "genres": [
         "Gizem",
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix",
+        "Kore"
+    ],
     "cast": [
-        "전도연",
-        "김고은",
-        "박해수",
-        "진선규",
-        "최영준"
+        {
+            "name": "전도연",
+            "role": "An Yun-su",
+            "image": "https://image.tmdb.org/t/p/w200/ev2tT7ZbReE06rZy7SX0Mv8evZ7.jpg"
+        },
+        {
+            "name": "김고은",
+            "role": "Mo Eun",
+            "image": "https://image.tmdb.org/t/p/w200/9IiR3lsMK0BkBJGeQFTeBoLxEQl.jpg"
+        },
+        {
+            "name": "박해수",
+            "role": "Baek Dong-hun",
+            "image": "https://image.tmdb.org/t/p/w200/hFt7Cj8sx1VYIwm18lYmq5kS7Pw.jpg"
+        },
+        {
+            "name": "진선규",
+            "role": "Jang Jeong-gu",
+            "image": "https://image.tmdb.org/t/p/w200/toFCyPac5rSpN58p0fsZ7lbogYc.jpg"
+        },
+        {
+            "name": "최영준",
+            "role": "Jin Young-in",
+            "image": "https://image.tmdb.org/t/p/w200/8qi16JP0iqxDektKbQSsopKAhos.jpg"
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "Sanatçı Lee Ki-dae stüdyosunda öldürülür. Eşi An Yun-su, medya çılgınlığının ve bitmek bilmeyen polis soruşturmasının ortasında sorgulama için tutulur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/i9HN0R1nWxwYMd6f6bUmuys8n70.jpg",
+            "vote_average": 8.1,
             "link": "https://vidmody.com/vs/tt37218592/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "Savcı Baek, suç mahalline geri götürülen Yun-su'ya baskı yapar. Yun-su şiddetle masumiyetini savunurken başka bir kadın suçunu itiraf eder.",
+            "still_path": "https://image.tmdb.org/t/p/w400/13OR77bacr0mto5GPNJzOkxdw73.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "Mo Eun ve Yun-su yüz yüze gelir. Soruşturma halk protestosuna yol açınca Baek, gözaltı merkezi için arama emri çıkartır ve yalan makinesi testi için talimat verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/5b6dT7cwAlPIeGJ6M1EKs8RyyNj.jpg",
+            "vote_average": 7.7,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "Yun-su'ya ayak bileği takip cihazı ve sokağa çıkma yasağı verilir. Gönüllü bir avukatın müvekkili olan Mo Eun, yeni müttefiğine tehditkâr bir mektup yollar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/elNGc4EioxNxwClQ7h0ImIZvbBF.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "Hapishanede Mo Eun'un kayıp olduğu ihbarı yapıldığı anda Yun-su kapüşonlu birini kovalar. Baek, iki kadının ondan bir adım ötede olduğundan şüphelenmeye başlar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pao28S56qmZNFWQQU3Mln3zk2nO.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "Yun-su, hedefinin karanlık geçmişindeki kirli çamaşırları çıkarır ve stüdyoda potansiyel bir ipucu fark eder. Mo Eun başıboş kaldığında şiddet içeren bir kavga patlak verir.",
+            "still_path": "https://image.tmdb.org/t/p/w400/sfTnwB5WwlR2aJTLSYdaixDWjUl.jpg",
+            "vote_average": 7.8,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "İki kadın da soruşturmanın gidişatını değiştirebilecek olan kanıtı yok etmeye çalışır. Bu esnada, dedesi Ko Se-hun hakkında kayıp ihbarında bulunur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/l3Pp7iU6MF4lEcnNyHlFyg5cKZc.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "Mo Eun, Yun-su'nun davasını çetrefilli hâle getiren bir delil paylaşır. Baek, Se-hun'un ölümcül suçunu ortaya çıkarırken hücreye yeni gelen biri eski sırlarla ortalığı karıştırır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7r7the6udUTdZrOLxoe8sPaUusX.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "Mo Eun, tıbbi bir acil durum sonrasında şaşkınlık yaratır. Avukat Jang Jeong-gu çok önemli bir telefon alırken bir kaçış denemesi bir mahkumu tehlikeye atar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/cDsaLU9pLIuW1x9IiUbdPU11G2o.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "Jeong-gu, Baek ve Mo Eun arasındaki sert bir yüzleşme, dava hakkında açıklanmamış çok önemli bilgileri açığa çıkarır. Şoke edici bir cinayet itirafı haber olur.",
+            "still_path": "https://image.tmdb.org/t/p/w400/pRT1Uq7lAwVpzpjpNOzaBdYpshy.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "Lee Ki-dae'nin cinayet davasında ortaya çıkan gizli bir sebep ve parmak izi beklenmedik birinden gelir. Mo Eun, kaçırılma haberinden sonra bir plan yapar.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4o54LEH3tZQFBesu5Kf4V7qsvqN.jpg",
+            "vote_average": 7.0,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "Her iki cinayet vakasında da parçalar yerine oturmaya başlarken, Baek ve Jeong-gu tüyler ürpertici bir videoyla karşılaşır. Mo Eun'un, Yun-su için son bir mesajı vardır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/55EJRkLmQILkoZ2AJILHLv7IIW4.jpg",
+            "vote_average": 0.0,
+            "link": "https://vidmody.com/vs/tt37218592/s1/e12"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 13:20:37"
 }

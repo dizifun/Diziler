@@ -2,23 +2,131 @@
     "id": 293613,
     "imdb_id": "tt35664835",
     "name": "En Güçlü: Asya",
+    "original_name": "피지컬: 아시아",
+    "overview": "FİNAL: Sekiz ülkeden gelen seçkin sporcular, uluslarını gururlandırmak için bir arada. Ancak bu zorlu güç ve dayanıklılık yarışının sonunda sadece bir bayrak zaferle dalgalanacak.",
     "poster": "https://image.tmdb.org/t/p/w500/7GbXnv3kvmATU0p6E5gC1AiNqtc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/823qOjKt0V0N9S6h2uoqu1IA15f.jpg",
     "year": "2025",
+    "rating": 7.4,
     "genres": [
         "Gerçeklik"
     ],
-    "cast": [
-        "Robert Whittaker",
-        "Dominic Di Tommaso",
-        "Eloni Vunakece",
-        "Katelin van Zyl",
-        "Eddie Williams"
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix",
+        "Kore"
     ],
+    "cast": [],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Güneşin Doğduğu Yer",
+            "overview": "Sekiz ülkeden kırk sekiz yarışmacı geliyor ve takımlar birbirlerini tartıyor. Nihayet ilk görev için perdeler açılıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/7h4deK7jKCt2jPACMmr9WrdLzIP.jpg",
+            "vote_average": 8.9,
             "link": "https://vidmody.com/vs/tt35664835/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "Sınırda",
+            "overview": "Sporcular batan bir kum tepesinin üzerinde kalmak için yarışıyor, itişiyor ve boğuşuyor. Zorlu ve çekişmeli maçların ardından iki ülke, hiçbir ödün vermeden karşı karşıya geliyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bTvtnCGCYTL7TjO4rMbH57QBjBf.jpg",
+            "vote_average": 8.1,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "Enkaz",
+            "overview": "Ülkelerden biri etkili bir ayrıcalık elde ediyor. Hız ve ekip çalışmasının sınandığı bir görevde oyuncular, zorlu bir engelli parkur boyunca dev bir gemi enkazında yarışıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/mzWRPHeZhYiS0HT0wysvWSSKljS.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "Çaresiz Dua",
+            "overview": "Gemi enkazındaki çılgın, zorlu bir yarış sonrası yeni görev, bir önceki oyunun sonuçlarının son derece önemli olduğu yeni bir arenada gerçekleşiyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/txe2JBCguOSgkDJIqh1ShXNwfmJ.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "Gizemli Köy",
+            "overview": "Oyuncular yarışta spor becerilerini kullanıyor. Üçüncü görev yaklaşırken her galibiyetin akıllı eşleşmelere bağlı olduğunu bilen takımlar güçlü temsilciler seçmeye hazırlanıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/nENngBVBcpgrKcvCRYqdqalvn0X.jpg",
+            "vote_average": 6.5,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e05"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "Aşılamaz Duvar",
+            "overview": "Zamana ve ağır yüklere karşı yarışan takımlar bir yarışmanın ötesinde gerçek bir dayanıklılık sınavıyla yüz yüze geliyor. Kaybeden takımlar kendi heykellerini hemen kırmak zorunda.",
+            "still_path": "https://image.tmdb.org/t/p/w400/3Wf8zOt78vFkf36l6ai2UpXjSP6.jpg",
+            "vote_average": 8.5,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e06"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "Vatan İçin",
+            "overview": "Sonu gelmeyecekmiş gibi görünen bir asılı kalma oyununda bir yarışmacı, olağanüstü bir rahatlık ve beceri sergiliyor. Diğer yarışmacı onu taklit ederek kazanabilecek mi?",
+            "still_path": "https://image.tmdb.org/t/p/w400/fMfkwincgZ2l5tbxAWzWNwC2xtM.jpg",
+            "vote_average": 8.0,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e07"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "Zorlu Düşman",
+            "overview": "Zaman giderek daralırken takımların hiç hata hakkı yok. Takımların yalnızca yarısının kaldığı yarışmada daha önce yapılan bir oylama, yarışmacıların kaderini tekrar belirliyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/ruTO4qxC291QRQlqCD8gCxnDGrv.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e08"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "Kaçışı Olmayan Cehennem",
+            "overview": "Bu amansız mücadele kol gücü, azim ve isabet gerektiriyor. Takımlardan biri, sürpriz bir hamleyle rakiplerini hazırlıksız yakalıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/bxfc5bFZTw7vUWTUKAhvIQeLH9z.jpg",
+            "vote_average": 8.3,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e09"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "Koştur",
+            "overview": "Prangalar, dev sütunlar, demir toplar... Takımlar zihinsel dayanıklılığın hiç olmadığı kadar ön plana çıktığı zorlu bir oyun için bir kez daha toplanıyor.",
+            "still_path": "https://image.tmdb.org/t/p/w400/O3c7hzomyIqf1WABooxWADweU4.jpg",
+            "vote_average": 6.2,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e10"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "Girilmez Kale",
+            "overview": "Takımlar dayanıklılık ve taktiklerin ön plana çıktığı zorlu bir sınavda ellerinden geleni yapıyor. Göz korkutan görevler sınırlarını zorlarken kimler dayanıp sonuna kadar gidecek?",
+            "still_path": "https://image.tmdb.org/t/p/w400/ryIfbFi5Wxy3nrrPoYLx39gGv75.jpg",
+            "vote_average": 7.5,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e11"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "Topyekûn Savaş",
+            "overview": "Yorgunluk ve kararlılık zirve yaparken finalistler topyekûn mücadeleye giriyor. Kazanan kişi zaferin ve yüklü bir nakit ödülün sahibi olacak.",
+            "still_path": "https://image.tmdb.org/t/p/w400/4TEAvTayJaSJhGTdPPYns1LHfoi.jpg",
+            "vote_average": 6.0,
+            "link": "https://vidmody.com/vs/tt35664835/s1/e12"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 12:52:32"
 }

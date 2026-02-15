@@ -1,5 +1,365 @@
 [
     {
+        "id": 209110,
+        "imdb_id": "tt37218592",
+        "name": "İtirafın Bedeli",
+        "original_name": "자백의 대가",
+        "overview": "Kocasını öldürmekle suçlanan bir kadına, gizemli bir yabancı bir teklifte bulunur: Onun yerine itirafta bulunacaktır. Ancak karşılığında kadın, bir cinayet işlemek zorundadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/vWBwsFkQDZFeIo9tizyeMRbkRH1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/4Bvk0EVHCjswWQYFHdRNsVWLtk8.jpg",
+        "year": "2025",
+        "rating": 8.2,
+        "genres": [
+            "Gizem",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "전도연",
+                "role": "An Yun-su",
+                "image": "https://image.tmdb.org/t/p/w200/ev2tT7ZbReE06rZy7SX0Mv8evZ7.jpg"
+            },
+            {
+                "name": "김고은",
+                "role": "Mo Eun",
+                "image": "https://image.tmdb.org/t/p/w200/9IiR3lsMK0BkBJGeQFTeBoLxEQl.jpg"
+            },
+            {
+                "name": "박해수",
+                "role": "Baek Dong-hun",
+                "image": "https://image.tmdb.org/t/p/w200/hFt7Cj8sx1VYIwm18lYmq5kS7Pw.jpg"
+            },
+            {
+                "name": "진선규",
+                "role": "Jang Jeong-gu",
+                "image": "https://image.tmdb.org/t/p/w200/toFCyPac5rSpN58p0fsZ7lbogYc.jpg"
+            },
+            {
+                "name": "최영준",
+                "role": "Jin Young-in",
+                "image": "https://image.tmdb.org/t/p/w200/8qi16JP0iqxDektKbQSsopKAhos.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Sanatçı Lee Ki-dae stüdyosunda öldürülür. Eşi An Yun-su, medya çılgınlığının ve bitmek bilmeyen polis soruşturmasının ortasında sorgulama için tutulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i9HN0R1nWxwYMd6f6bUmuys8n70.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Savcı Baek, suç mahalline geri götürülen Yun-su'ya baskı yapar. Yun-su şiddetle masumiyetini savunurken başka bir kadın suçunu itiraf eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/13OR77bacr0mto5GPNJzOkxdw73.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Mo Eun ve Yun-su yüz yüze gelir. Soruşturma halk protestosuna yol açınca Baek, gözaltı merkezi için arama emri çıkartır ve yalan makinesi testi için talimat verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5b6dT7cwAlPIeGJ6M1EKs8RyyNj.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Yun-su'ya ayak bileği takip cihazı ve sokağa çıkma yasağı verilir. Gönüllü bir avukatın müvekkili olan Mo Eun, yeni müttefiğine tehditkâr bir mektup yollar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/elNGc4EioxNxwClQ7h0ImIZvbBF.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Hapishanede Mo Eun'un kayıp olduğu ihbarı yapıldığı anda Yun-su kapüşonlu birini kovalar. Baek, iki kadının ondan bir adım ötede olduğundan şüphelenmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pao28S56qmZNFWQQU3Mln3zk2nO.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Yun-su, hedefinin karanlık geçmişindeki kirli çamaşırları çıkarır ve stüdyoda potansiyel bir ipucu fark eder. Mo Eun başıboş kaldığında şiddet içeren bir kavga patlak verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sfTnwB5WwlR2aJTLSYdaixDWjUl.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "İki kadın da soruşturmanın gidişatını değiştirebilecek olan kanıtı yok etmeye çalışır. Bu esnada, dedesi Ko Se-hun hakkında kayıp ihbarında bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l3Pp7iU6MF4lEcnNyHlFyg5cKZc.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Mo Eun, Yun-su'nun davasını çetrefilli hâle getiren bir delil paylaşır. Baek, Se-hun'un ölümcül suçunu ortaya çıkarırken hücreye yeni gelen biri eski sırlarla ortalığı karıştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7r7the6udUTdZrOLxoe8sPaUusX.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Mo Eun, tıbbi bir acil durum sonrasında şaşkınlık yaratır. Avukat Jang Jeong-gu çok önemli bir telefon alırken bir kaçış denemesi bir mahkumu tehlikeye atar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cDsaLU9pLIuW1x9IiUbdPU11G2o.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Jeong-gu, Baek ve Mo Eun arasındaki sert bir yüzleşme, dava hakkında açıklanmamış çok önemli bilgileri açığa çıkarır. Şoke edici bir cinayet itirafı haber olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pRT1Uq7lAwVpzpjpNOzaBdYpshy.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "Lee Ki-dae'nin cinayet davasında ortaya çıkan gizli bir sebep ve parmak izi beklenmedik birinden gelir. Mo Eun, kaçırılma haberinden sonra bir plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4o54LEH3tZQFBesu5Kf4V7qsvqN.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "Her iki cinayet vakasında da parçalar yerine oturmaya başlarken, Baek ve Jeong-gu tüyler ürpertici bir videoyla karşılaşır. Mo Eun'un, Yun-su için son bir mesajı vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/55EJRkLmQILkoZ2AJILHLv7IIW4.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt37218592/s1/e12"
+            }
+        ],
+        "update_date": "2026-02-15 13:20:37"
+    },
+    {
+        "id": 286788,
+        "imdb_id": "tt36242714",
+        "name": "Dönüm Noktası: Vietnam Savaşı",
+        "original_name": "Turning Point: The Vietnam War",
+        "overview": "Bu düşündürücü belgesel dizisi, Tonkin Körfezi olayından Saigon'un düşüşüne Vietnam Savaşı'nın yürek burkan sonuçlarını inceliyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/pwyhia2REWLVv3UmY9Cc5N7Gtfx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/yGCt11S62nIIY1GtBB0oNmuRaH1.jpg",
+        "year": "2025",
+        "rating": 7.1,
+        "genres": [
+            "Belgesel",
+            "Savaş & Politik"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bDWyP4hDYw3d0LMwVAenXWMeA8y.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt36242714/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5nsoZmonoxyijxDR4xxX1WIcC5y.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt36242714/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1oDEVhFjIFXLhi1n4iTmqmieDTx.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt36242714/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/do66Pp8su5J2ild5gKLYcMv1pSe.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt36242714/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/c5erFQZE9DOEo1GpUYPRHOATnn6.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt36242714/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-15 13:01:44"
+    },
+    {
+        "id": 293613,
+        "imdb_id": "tt35664835",
+        "name": "En Güçlü: Asya",
+        "original_name": "피지컬: 아시아",
+        "overview": "FİNAL: Sekiz ülkeden gelen seçkin sporcular, uluslarını gururlandırmak için bir arada. Ancak bu zorlu güç ve dayanıklılık yarışının sonunda sadece bir bayrak zaferle dalgalanacak.",
+        "poster": "https://image.tmdb.org/t/p/w500/7GbXnv3kvmATU0p6E5gC1AiNqtc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/823qOjKt0V0N9S6h2uoqu1IA15f.jpg",
+        "year": "2025",
+        "rating": 7.4,
+        "genres": [
+            "Gerçeklik"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Kore"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Güneşin Doğduğu Yer",
+                "overview": "Sekiz ülkeden kırk sekiz yarışmacı geliyor ve takımlar birbirlerini tartıyor. Nihayet ilk görev için perdeler açılıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7h4deK7jKCt2jPACMmr9WrdLzIP.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Sınırda",
+                "overview": "Sporcular batan bir kum tepesinin üzerinde kalmak için yarışıyor, itişiyor ve boğuşuyor. Zorlu ve çekişmeli maçların ardından iki ülke, hiçbir ödün vermeden karşı karşıya geliyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bTvtnCGCYTL7TjO4rMbH57QBjBf.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Enkaz",
+                "overview": "Ülkelerden biri etkili bir ayrıcalık elde ediyor. Hız ve ekip çalışmasının sınandığı bir görevde oyuncular, zorlu bir engelli parkur boyunca dev bir gemi enkazında yarışıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mzWRPHeZhYiS0HT0wysvWSSKljS.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Çaresiz Dua",
+                "overview": "Gemi enkazındaki çılgın, zorlu bir yarış sonrası yeni görev, bir önceki oyunun sonuçlarının son derece önemli olduğu yeni bir arenada gerçekleşiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/txe2JBCguOSgkDJIqh1ShXNwfmJ.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Gizemli Köy",
+                "overview": "Oyuncular yarışta spor becerilerini kullanıyor. Üçüncü görev yaklaşırken her galibiyetin akıllı eşleşmelere bağlı olduğunu bilen takımlar güçlü temsilciler seçmeye hazırlanıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nENngBVBcpgrKcvCRYqdqalvn0X.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Aşılamaz Duvar",
+                "overview": "Zamana ve ağır yüklere karşı yarışan takımlar bir yarışmanın ötesinde gerçek bir dayanıklılık sınavıyla yüz yüze geliyor. Kaybeden takımlar kendi heykellerini hemen kırmak zorunda.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Wf8zOt78vFkf36l6ai2UpXjSP6.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Vatan İçin",
+                "overview": "Sonu gelmeyecekmiş gibi görünen bir asılı kalma oyununda bir yarışmacı, olağanüstü bir rahatlık ve beceri sergiliyor. Diğer yarışmacı onu taklit ederek kazanabilecek mi?",
+                "still_path": "https://image.tmdb.org/t/p/w400/fMfkwincgZ2l5tbxAWzWNwC2xtM.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Zorlu Düşman",
+                "overview": "Zaman giderek daralırken takımların hiç hata hakkı yok. Takımların yalnızca yarısının kaldığı yarışmada daha önce yapılan bir oylama, yarışmacıların kaderini tekrar belirliyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ruTO4qxC291QRQlqCD8gCxnDGrv.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Kaçışı Olmayan Cehennem",
+                "overview": "Bu amansız mücadele kol gücü, azim ve isabet gerektiriyor. Takımlardan biri, sürpriz bir hamleyle rakiplerini hazırlıksız yakalıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bxfc5bFZTw7vUWTUKAhvIQeLH9z.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Koştur",
+                "overview": "Prangalar, dev sütunlar, demir toplar... Takımlar zihinsel dayanıklılığın hiç olmadığı kadar ön plana çıktığı zorlu bir oyun için bir kez daha toplanıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/O3c7hzomyIqf1WABooxWADweU4.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "Girilmez Kale",
+                "overview": "Takımlar dayanıklılık ve taktiklerin ön plana çıktığı zorlu bir sınavda ellerinden geleni yapıyor. Göz korkutan görevler sınırlarını zorlarken kimler dayanıp sonuna kadar gidecek?",
+                "still_path": "https://image.tmdb.org/t/p/w400/ryIfbFi5Wxy3nrrPoYLx39gGv75.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "Topyekûn Savaş",
+                "overview": "Yorgunluk ve kararlılık zirve yaparken finalistler topyekûn mücadeleye giriyor. Kazanan kişi zaferin ve yüklü bir nakit ödülün sahibi olacak.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4TEAvTayJaSJhGTdPPYns1LHfoi.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt35664835/s1/e12"
+            }
+        ],
+        "update_date": "2026-02-15 12:52:32"
+    },
+    {
         "id": 279601,
         "imdb_id": "tt35047134",
         "name": "Man vs Baby",

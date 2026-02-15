@@ -1,5 +1,196 @@
 [
     {
+        "id": 100088,
+        "imdb_id": "tt3581920",
+        "name": "The Last of Us",
+        "original_name": "The Last of Us",
+        "overview": "Dünyayı kasıp kavuran bir salgınından yirmi yıl sonra hayatta kalan Joel ve Ellie, her şeyi değiştirebilecek bir görev için yola koyulur.",
+        "poster": "https://image.tmdb.org/t/p/w500/cdbDsn2hqLL7x804GixzPP8AiBE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+        "year": "2023",
+        "rating": 8.5,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "TV+",
+            "Spectrum On Demand",
+            "HBO",
+            "HBO Max"
+        ],
+        "cast": [
+            {
+                "name": "Bella Ramsey",
+                "role": "Ellie Williams",
+                "image": "https://image.tmdb.org/t/p/w200/wx78DnBixam4eXlwVVZs16fWP98.jpg"
+            },
+            {
+                "name": "Gabriel Luna",
+                "role": "Tommy Miller",
+                "image": "https://image.tmdb.org/t/p/w200/2NNNl3od5K7HXOLUqlK3tzdxKkD.jpg"
+            },
+            {
+                "name": "Isabela Merced",
+                "role": "Dina",
+                "image": "https://image.tmdb.org/t/p/w200/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
+            },
+            {
+                "name": "Young Mazino",
+                "role": "Jesse",
+                "image": "https://image.tmdb.org/t/p/w200/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Karanlıkta Kaybolduğun Zaman",
+                "overview": "Yirmi yıl önce bir mantar salgını gezegeni sarstıktan sonra, hayatta kalan Joel ve Tess, her şeyi değiştirebilecek bir görevle karşı karşıya kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Enfekte",
+                "overview": "QZ'den kaçan Joel ve Tess, uzun süredir terk edilmiş Boston'ın kalıntıları arasında gezinirken Ellie'nin kaderi konusunda karşı karşıya gelirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Çok Uzun Zaman",
+                "overview": "Joel ve Ellie, Frank ve Bill'den yardım istemek için Bill tarafından bir kale gibi korunan Lincoln'e seyahat ederler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Elimi Tut Lütfen",
+                "overview": "Joel ve Ellie, Kansas City'de kamyonlarını terk ettikten sonra, intikam peşindeki bir isyancı liderin dikkatini çekmeden kaçmaya çalışırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/szQ95jxKNrYWnCAJx8VC51iws5d.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Dayan ve Hayatta Kal",
+                "overview": "İsyancılardan kaçmaya çalışırken, Joel ve Ellie Kansas City'nin en çok aranan adamıyla karşılaşır. Kathleen ise avına devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cX2z8FO9lKqZmBBTVF2G2favQRE.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Aile",
+                "overview": "Joel ve Ellie ateşböceklerini ve Tommy'yi bulmak için tehlikeli bölgelere derinlemesine inmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zW9AIy0PVhYfmukqBcUvlvi4mKc.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Geride Kalanlar",
+                "overview": "Joel hayatta kalmak için savaşırken, Ellie her şeyi değiştiren o geceyi hatırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oNyC68bnOoVAiJnKVsRNY9YDbl6.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "İhtiyacımız Olduğu Zaman",
+                "overview": "Ellie, intikam peşindeki bir grup hayatta kalanla karşılaşır ve bu grubun liderinin dikkatini çeker.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6DHQgB85iKMcabcKvC9HSDH3UDo.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Işığı Ara",
+                "overview": "Hamile Anna, çok yakın bir arkadaşına güvenir. Joel ve Ellie, yolculuklarının sonuna yaklaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qFouIBgN3Jgba7LnuRmkTAohh07.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt3581920/s1/e09"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Gelecek Günler",
+                "overview": "Beş yıl geçti. Joel arasının açıldığı Ellie ile ilişkisini düzeltmeye çalışırken 19 yaşındaki genç, yeni bir tehditle karşı karşıyadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i8lsfJzt7buKLotPwCTBQyuPavN.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Vadi Boyunca",
+                "overview": "Abby seçeneklerini değerlendirirken Jackson Hole da hastalıklıların yaklaştığı söylentilerine rağmen yaklaşan fırtınaya hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nJOU5Ok1VdJGSrzTYwttRxHOCkJ.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Patika",
+                "overview": "Dina'nın kritik istihbaratının ardından, Ellie kent konseyine dilekçe vermeye hazırlanır. Seattle yakınlarındaki dindar bir grup savaştan kaçar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nucQz7SPV1AruDuVMbnHbUOr7LD.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Birinci Gün",
+                "overview": "Seattle'da Ellie ve Dina kendilerini yobaz Seraphite'lar ile acımasız milislerin arasındaki savaşın ortasında bulurlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hI5PALWKjn9DeyQkAiObJwzSeOz.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Onun Sevgisini Hisset",
+                "overview": "WLF'in tehlikeli keşfi karşısında Ellie zor bir kararla karşı karşıya kalır. Sonra da beklenmedik bir kaynak şok edici bir gerçeği paylaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o79Zkjoe2bNKslh8Dr7mcm8gyg.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Fiyat",
+                "overview": "Joel, Ellie'ye doğum günü sürprizi yapar. Yıllar sonra Ellie geçmişiyle ilgili Joel ile yüzleşmeye hazırlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iyqiOrn1253erbEpX9UeSPYXhTh.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Yakınsama",
+                "overview": "Seattle'daki rakip grupların savaşının ortasındaki Ellie'nin aramaları, onu yıkıcı bir yüzleşmeye doğru çeker.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4IZqCZRmBq9LifHFQkYA1QqqE0x.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt3581920/s2/e07"
+            }
+        ],
+        "update_date": "2026-02-15 12:54:43"
+    },
+    {
         "id": 273801,
         "imdb_id": "tt33745056",
         "name": "Florida işte bu,  Adamım",

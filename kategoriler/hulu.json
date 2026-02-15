@@ -1,5 +1,232 @@
 [
     {
+        "id": 291084,
+        "imdb_id": "tt36885662",
+        "name": "Best Medicine",
+        "original_name": "Best Medicine",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/q7SCSZfDaNDRPL3Xt4TiGSZQQht.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+        "year": "2026",
+        "rating": 7.6,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Amazon Prime",
+            "Spectrum On Demand",
+            "fuboTV",
+            "FOX",
+            "YouTube TV"
+        ],
+        "cast": [
+            {
+                "name": "Josh Charles",
+                "role": "Dr. Martin Best",
+                "image": "https://image.tmdb.org/t/p/w200/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
+            },
+            {
+                "name": "Abigail Spencer",
+                "role": "Louisa Glasson",
+                "image": "https://image.tmdb.org/t/p/w200/uf96FDHVoFMwoiP5He4SPLCmwri.jpg"
+            },
+            {
+                "name": "Josh Segarra",
+                "role": "Sheriff Mark Mylow",
+                "image": "https://image.tmdb.org/t/p/w200/vXhukEBgpI8jmCUCSGcpJCNzXHV.jpg"
+            },
+            {
+                "name": "Cree Cicchino",
+                "role": "Elaine Denham",
+                "image": "https://image.tmdb.org/t/p/w200/49WAoaceTvvsgGKCQ8WOxNdfOdl.jpg"
+            },
+            {
+                "name": "Annie Potts",
+                "role": "Aunt Joan",
+                "image": "https://image.tmdb.org/t/p/w200/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt36885662/s1/e01"
+            }
+        ],
+        "update_date": "2026-02-15 13:15:05"
+    },
+    {
+        "id": 239385,
+        "imdb_id": "tt36188448",
+        "name": "The Manipulated",
+        "original_name": "조각도시",
+        "overview": "The Manipulated dizisi, bir zamanlar normal bir hayat yaşayan bir adamın cehennem gibi olayları deneyimledikten sonra yaşadıklarını konu alıyor. Hayatı tamamen değişen adam, kanlı bir intikam almak için geri döner.",
+        "poster": "https://image.tmdb.org/t/p/w500/pwin3qnVXs9tD3nU5hkl70wO1dx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/cqkmEHLE4LjPHSqKdLt4pJFJv0f.jpg",
+        "year": "2025",
+        "rating": 8.3,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "Disney+",
+            "Kore"
+        ],
+        "cast": [
+            {
+                "name": "Ji Chang-wook",
+                "role": "Park Tae-jung",
+                "image": "https://image.tmdb.org/t/p/w200/afgwHQJ3BP6ygM2ZUUZO60U84q0.jpg"
+            },
+            {
+                "name": "도경수",
+                "role": "Ahn Yo-han",
+                "image": "https://image.tmdb.org/t/p/w200/gWWvDiecz99b7FPJnWUdu2NZO0p.jpg"
+            },
+            {
+                "name": "이광수",
+                "role": "Baek Do-kyeong",
+                "image": "https://image.tmdb.org/t/p/w200/eqjZXCV4EutnoVxZwOveK6Nl5W9.jpg"
+            },
+            {
+                "name": "조윤수",
+                "role": "Noh Eun-bi",
+                "image": "https://image.tmdb.org/t/p/w200/7i3s0x8I3lzbhx7t1eK6rO8OScz.jpg"
+            },
+            {
+                "name": "김종수",
+                "role": "Noh Yong-sik",
+                "image": "https://image.tmdb.org/t/p/w200/bcZLy3t0EXvRY4EWsD5BoEt3xOM.jpg"
+            },
+            {
+                "name": "양동근",
+                "role": "Yeo Deok-su",
+                "image": "https://image.tmdb.org/t/p/w200/jlUJ6i91HYBs2QmcVKe1x3ByuaD.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/yyHQUnTpL0WnHFMowUxpnMuyn10.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/n1FllqefPO2ijiN3SukPGxRvv1h.jpg",
+                "vote_average": 9.2,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jWuVNBhK3FclVlls4YlY1ls4Pff.jpg",
+                "vote_average": 8.8,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/qLPuTROFK2FG7XeaKiXGk0YlXC7.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/whRkDarkNKKxJ6zVeRDLeHjyYZT.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gueNcOCYaepq5CBLvz4Ot3PIs1H.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1gHYz4gPgyPHe0Dl0BqnpmKTkeE.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rTMmlHBgA0Z45ptTAVgoHX6l1R.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/yg180CbACyyTNhx7tXcHSKbLDB5.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/chRpq6w50PpjkzB7mmxDIFtE3iR.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e10"
+            },
+            {
+                "season": 1,
+                "episode": 11,
+                "name": "11. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/bF63oFfvY7yAsDvjXBSrO8Jr7WN.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e11"
+            },
+            {
+                "season": 1,
+                "episode": 12,
+                "name": "12. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/16CBOweUbkeYmXhxAtRIm3eV4y9.jpg",
+                "vote_average": 8.5,
+                "link": "https://vidmody.com/vs/tt36188448/s1/e12"
+            }
+        ],
+        "update_date": "2026-02-15 13:00:40"
+    },
+    {
         "id": 278274,
         "imdb_id": "tt34779099",
         "name": "Entrepreneurs",

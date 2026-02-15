@@ -2,23 +2,72 @@
     "id": 303453,
     "imdb_id": "tt36473743",
     "name": "Son Kare",
+    "original_name": "Son Kare",
+    "overview": "İstanbul’un karanlık sokaklarında işlenen gizemli cinayetler emniyet güçlerini harekete geçirir. Göreve yeni dönen komiser Sare’nin elindeki tek ipucu, cinayetlerden önce moda fotoğrafçısı Atlas’ın evine bırakılan maktullere ait fotoğraf kareleridir.",
     "poster": "https://image.tmdb.org/t/p/w500/jwVRYnc6IwReY9bURd2svzJezP6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/mL36yB4fKDzay0G3vEi2tocn2qb.jpg",
     "year": "2026",
+    "rating": 0.0,
     "genres": [
         "Dram"
     ],
+    "categories": [
+        "Tümü",
+        "Yerli",
+        "GAİN"
+    ],
     "cast": [
-        "Burcu Özberk",
-        "Uraz Kaygılaroğlu",
-        "Yiğit Özşener",
-        "Cahit Gök",
-        "Nizam Namidar"
+        {
+            "name": "Burcu Özberk",
+            "role": "Sare",
+            "image": "https://image.tmdb.org/t/p/w200/qitJXgtaDfi1vYbjKxX39TVjptf.jpg"
+        },
+        {
+            "name": "Uraz Kaygılaroğlu",
+            "role": "Atlas Demirci",
+            "image": "https://image.tmdb.org/t/p/w200/7rdov56gMxgsBhOMeqdwv1cgOiW.jpg"
+        },
+        {
+            "name": "Yiğit Özşener",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/pgdIYi5UzZzU7HG0qcrRFPYHGbi.jpg"
+        },
+        {
+            "name": "Cahit Gök",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/yWbCEoeYZxOrg44GUS2w2uZXagz.jpg"
+        },
+        {
+            "name": "Nizam Namidar",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/5jfOEkUKCAkPcBD10pm1bH1V8Xf.jpg"
+        },
+        {
+            "name": "Nasmina Tüten",
+            "role": "",
+            "image": ""
+        },
+        {
+            "name": "Muhammet Kulu",
+            "role": "",
+            "image": ""
+        },
+        {
+            "name": "Onur Erdi",
+            "role": "",
+            "image": ""
+        }
     ],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "Lunapark",
+            "overview": "İstanbul’da bir lunaparkta bulunan bir ceset, komiser Sare’nin yolunun ünlü moda fotoğrafçısı Atlas’la kesişmesine neden olur. Maktule ait fotoğraf karelerinin başucuna bırakılmasına anlam veremeyen Atlas, masum olduğunu kanıtlamaya çalışırken, olayı araştıran Sare’nin Atlas üzerindeki şüpheleri giderek artmaktadır.",
+            "still_path": "https://image.tmdb.org/t/p/w400/f1R4mkNGVPMGpiD2TjlKtgnAQHn.jpg",
+            "vote_average": 0.0,
             "link": "https://vidmody.com/vs/tt36473743/s1/e01"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 13:06:21"
 }

@@ -2,18 +2,68 @@
     "id": 286788,
     "imdb_id": "tt36242714",
     "name": "Dönüm Noktası: Vietnam Savaşı",
+    "original_name": "Turning Point: The Vietnam War",
+    "overview": "Bu düşündürücü belgesel dizisi, Tonkin Körfezi olayından Saigon'un düşüşüne Vietnam Savaşı'nın yürek burkan sonuçlarını inceliyor.",
     "poster": "https://image.tmdb.org/t/p/w500/pwyhia2REWLVv3UmY9Cc5N7Gtfx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/yGCt11S62nIIY1GtBB0oNmuRaH1.jpg",
     "year": "2025",
+    "rating": 7.1,
     "genres": [
         "Belgesel",
         "Savaş & Politik"
+    ],
+    "categories": [
+        "Tümü",
+        "Netflix Standard with Ads",
+        "Netflix"
     ],
     "cast": [],
     "episodes": [
         {
             "season": 1,
             "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/bDWyP4hDYw3d0LMwVAenXWMeA8y.jpg",
+            "vote_average": 5.6,
             "link": "https://vidmody.com/vs/tt36242714/s1/e01"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/5nsoZmonoxyijxDR4xxX1WIcC5y.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt36242714/s1/e02"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/1oDEVhFjIFXLhi1n4iTmqmieDTx.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt36242714/s1/e03"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/do66Pp8su5J2ild5gKLYcMv1pSe.jpg",
+            "vote_average": 5.0,
+            "link": "https://vidmody.com/vs/tt36242714/s1/e04"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://image.tmdb.org/t/p/w400/c5erFQZE9DOEo1GpUYPRHOATnn6.jpg",
+            "vote_average": 6.7,
+            "link": "https://vidmody.com/vs/tt36242714/s1/e05"
         }
-    ]
+    ],
+    "update_date": "2026-02-15 13:01:44"
 }
