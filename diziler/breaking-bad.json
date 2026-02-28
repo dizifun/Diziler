@@ -13,16 +13,16 @@
         "Suç"
     ],
     "categories": [
-        "Tümü",
-        "Netflix Standard with Ads",
         "AMC",
-        "Netflix"
+        "Netflix Standard with Ads",
+        "Netflix",
+        "Tümü"
     ],
     "cast": [
         {
             "name": "Bryan Cranston",
             "role": "Walter White",
-            "image": "https://image.tmdb.org/t/p/w200/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
         },
         {
             "name": "Aaron Paul",
@@ -620,5 +620,5 @@
             "link": "https://vidmody.com/vs/tt0903747/s5/e16"
         }
     ],
-    "update_date": "2026-02-14 21:27:45"
+    "update_date": "2026-02-28 21:52:47"
 }
