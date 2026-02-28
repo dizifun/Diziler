@@ -8,29 +8,29 @@
         "poster": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w780/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
         "year": "2024",
-        "rating": 7.5,
+        "rating": 7.4,
         "genres": [
             "Komedi",
             "Dram"
         ],
         "categories": [
-            "Tümü",
-            "TOD TV",
-            "Amazon Prime",
+            "Sky Atlantic",
             "Sky Showcase",
-            "Spectrum On Demand",
+            "Tümü",
             "Starz Apple TV Channel",
-            "Starz Roku Premium Channel",
+            "Spectrum On Demand",
+            "Philo",
             "Sky One",
             "Starz",
-            "Sky Atlantic",
-            "Philo"
+            "Amazon Prime",
+            "Starz Roku Premium Channel",
+            "TOD TV"
         ],
         "cast": [
             {
                 "name": "Ella Purnell",
                 "role": "Rhiannon",
-                "image": "https://image.tmdb.org/t/p/w200/5PscK9HNXGFQMIxkpbR8ObB7vuR.jpg"
+                "image": "https://image.tmdb.org/t/p/w200/4OoVu4I226jddIualtrh0rKkEup.jpg"
             },
             {
                 "name": "Nicôle Lecky",
@@ -119,6 +119,6 @@
                 "link": "https://vidmody.com/vs/tt11218290/s1/e06"
             }
         ],
-        "update_date": "2026-02-14 23:18:10"
+        "update_date": "2026-02-28 23:44:44"
     }
 ]
