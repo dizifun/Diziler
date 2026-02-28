@@ -14,10 +14,10 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Tümü",
         "HBO",
         "HBO Max",
-        "Amazon Prime"
+        "Amazon Prime",
+        "Tümü"
     ],
     "cast": [
         {
@@ -33,7 +33,7 @@
         {
             "name": "Nikolaj Coster-Waldau",
             "role": "Sir Jaime 'Kingslayer' Lannister",
-            "image": "https://image.tmdb.org/t/p/w200/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
         },
         {
             "name": "Lena Headey",
@@ -730,5 +730,5 @@
             "link": "https://vidmody.com/vs/tt0944947/s8/e06"
         }
     ],
-    "update_date": "2026-02-14 21:36:34"
+    "update_date": "2026-02-28 22:01:35"
 }
