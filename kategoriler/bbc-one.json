@@ -1,1011 +1,5 @@
 [
     {
-        "id": 93166,
-        "imdb_id": "tt8201186",
-        "name": "The Capture",
-        "original_name": "The Capture",
-        "overview": "Dizi eski bir İngiliz askeri olan Shaun Emery’yi (Turner) merkezine alıyor. Shaun, Afganistanda bir cinayetten dolayı mahkum olur. Ancak kusurlu video kanıtları nedeniyle mahkumiyeti bozulur ve 6 yaşındaki kızıyla birlikte özgür bir adam olarak yaşamını planlamaya başlar. Fakat, bir gece vakti Londra’da meydana gelen bir olaydan sonra ortaya çıkan CCTV görüntüleri sonrası Shaun’un, kendisini bir kez daha özgürlüğü için savaşmak zorunda kalması çok uzun sürmez. Yalanlar, ihanet, yozlaşma, onun sandığından çok daha fazla yayılmış durumdadır.",
-        "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/btWghV6scZ1uTLYRFnJuk3bZ5bw.jpg",
-        "year": "2019",
-        "rating": 7.8,
-        "genres": [
-            "Suç",
-            "Dram",
-            "Gizem"
-        ],
-        "categories": [
-            "Tümü",
-            "TOD TV",
-            "BBC One",
-            "Amazon Prime",
-            "Peacock Premium Plus",
-            "Peacock Premium"
-        ],
-        "cast": [
-            {
-                "name": "Holliday Grainger",
-                "role": "DI Rachel Carey",
-                "image": "https://image.tmdb.org/t/p/w200/fHveeGXgEfTZ9slB5OvHDG4LAPw.jpg"
-            },
-            {
-                "name": "Ben Miles",
-                "role": "Commander Danny Hart",
-                "image": "https://image.tmdb.org/t/p/w200/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
-            },
-            {
-                "name": "Lia Williams",
-                "role": "DSU Gemma Garland",
-                "image": "https://image.tmdb.org/t/p/w200/d7BIswSeHeAdIobNjsWEFG2uj1H.jpg"
-            },
-            {
-                "name": "Paapa Essiedu",
-                "role": "Isaac Turner MP",
-                "image": "https://image.tmdb.org/t/p/w200/xMU7tSgdPMF53bdNMUhUMQOVIj3.jpg"
-            },
-            {
-                "name": "Indira Varma",
-                "role": "Khadija Khan",
-                "image": "https://image.tmdb.org/t/p/w200/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
-            },
-            {
-                "name": "Charlie Murphy",
-                "role": "Simone Turner",
-                "image": "https://image.tmdb.org/t/p/w200/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg"
-            },
-            {
-                "name": "Tessa Wong",
-                "role": "DC Chloe Tan",
-                "image": "https://image.tmdb.org/t/p/w200/8bgwte22fpOPlPtBtItxYBk5HjT.jpg"
-            },
-            {
-                "name": "Andy Nyman",
-                "role": "Rowan Gill",
-                "image": "https://image.tmdb.org/t/p/w200/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Asker Shaun Emery'nin bir cinayet yüzünden aldığı mahkumiyet, hatalı video kayıtları nedeniyle bozulunca küçük kızıyla özgür bir adam olarak hayata döner.",
-                "still_path": "https://image.tmdb.org/t/p/w400/oUeNsT1Vk7fkiIIS4g5eIdJALIM.jpg",
-                "vote_average": 7.5,
-                "link": "https://vidmody.com/vs/tt8201186/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Soruşturmasından önemli delillerin gizemli bir şekilde çıkarılmasının ardından Carey, kendi cevaplarını arayan Shaun'a ulaşmak için başka yollar bulmak zorunda kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/azLqbKC1Vwzdp1LEJBXvh8qeeGb.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt8201186/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Shaun, gizemli bir CIA ajanı tarafından sorguya çekilir. Rachel, onun içeri girdiği görüntüleri izler. Ancak sonra onu içeride bulamayınca soruşturma çıkmaza girer.",
-                "still_path": "https://image.tmdb.org/t/p/w400/1ml5z5iBFiCY5K4utdWpDpbxyoB.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt8201186/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Rachel ile Shaun sonunda yüz yüze gelir. Shaun, tutuklanmaktan bir kez daha kurtulmayı başarır ve onu gerçeğe götüreceğine söz veren iki gizemli yabancıyla karşılaşır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/yMjYGKjIb5j1wQkyHSKmubOGFKC.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt8201186/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Tüm karmaşıklığı ve belirsizliğiyle gerçek ortaya çıktığında Shaun ve Rachel, onları bekleyen şeye hazırlıklı değildir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/qK2HJlFoVCyL4ib4wnHI0J8KVE1.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt8201186/s1/e05"
-            }
-        ],
-        "update_date": "2026-02-15 19:35:05"
-    },
-    {
-        "id": 259886,
-        "imdb_id": "tt30645193",
-        "name": "The War Between the Land and the Sea",
-        "original_name": "The War Between the Land and the Sea",
-        "overview": "",
-        "poster": "https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
-        "year": "2025",
-        "rating": 6.9,
-        "genres": [
-            "Bilim Kurgu & Fantazi",
-            "Dram"
-        ],
-        "categories": [
-            "Tümü",
-            "BBC One"
-        ],
-        "cast": [
-            {
-                "name": "Russell Tovey",
-                "role": "Barclay Pierre-Dupont",
-                "image": "https://image.tmdb.org/t/p/w200/p1hNveDVY6vT5FDT0zJXDnZsDw.jpg"
-            },
-            {
-                "name": "Gugu Mbatha-Raw",
-                "role": "Salt",
-                "image": "https://image.tmdb.org/t/p/w200/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Homo Aqua",
-                "overview": "Barclays'in sıradan hayatı, denizden kadim bir türün ortaya çıkmasıyla bir terör dünyasına dönüşüyor. UNIT kontrolü ele geçirmek için mücadele ederken, Thames üzerindeki zirve korkunç sırları ortaya çıkarıyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ql1CuAoTpggQSsC18HTt9m5rCAu.jpg",
-                "vote_average": 6.2,
-                "link": "https://vidmody.com/vs/tt30645193/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Plastik Kıyamet",
-                "overview": "Barclay, gizemli Tuz'un Tank'tan çıkmasıyla insanlığın elçisi olur. Ancak Tuz tüm insanlığa intikam almaya kalkışınca ailesinin hayatı altüst olur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ffPgKyJUgHL5J6LOBqzIQ6PLCwK.jpg",
-                "vote_average": 6.1,
-                "link": "https://vidmody.com/vs/tt30645193/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Derinlik",
-                "overview": "Barclay, Homo Aqua dünyasına korkunç bir iniş yapar. Karada ise Kate, Downing Street'in orduyla birlikte savaşın seyrini değiştirmek için komplo kurduğu sırada yalnız başına kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/wCBpt7Ljr6VRO1VGsUjCJG4ffbq.jpg",
-                "vote_average": 5.5,
-                "link": "https://vidmody.com/vs/tt30645193/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Şelalenin Cadısı",
-                "overview": "Barclay ve Salt, UNIT'in felaketle sarsıldığı savaşın harap ettiği Londra'da kaçmaya başlar. Ancak Tide ülkeyi tehdit ettiğinde ve Gunsberg planlarını ilerlettiğinde, Severance'ın planları kan dökülmesini gerektirir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/2MRLTb5r6QnpHDlvAdLEzgxV3s6.jpg",
-                "vote_average": 5.3,
-                "link": "https://vidmody.com/vs/tt30645193/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Savaşın Sonu",
-                "overview": "Barclay yalnız başına kalmış, Salt kaybolmuş, UNIT güçsüz kalmış ve savaş doruk noktasına ulaşırken okyanuslar yükseliyor. Hainler komplo kurarken, Barclay çok geç olmadan Salt'ı bulabilecek mi?",
-                "still_path": "https://image.tmdb.org/t/p/w400/eXBf3VETvZddlIRWhdkLRY3pBrl.jpg",
-                "vote_average": 4.8,
-                "link": "https://vidmody.com/vs/tt30645193/s1/e05"
-            }
-        ],
-        "update_date": "2026-02-15 11:01:59"
-    },
-    {
-        "id": 240558,
-        "imdb_id": "tt30221531",
-        "name": "King & Conqueror",
-        "original_name": "King & Conqueror",
-        "overview": "",
-        "poster": "https://image.tmdb.org/t/p/w500/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
-        "year": "2025",
-        "rating": 7.0,
-        "genres": [
-            "Dram",
-            "Aksiyon & Macera"
-        ],
-        "categories": [
-            "Tümü",
-            "TOD TV",
-            "Amazon Prime",
-            "BBC One"
-        ],
-        "cast": [
-            {
-                "name": "James Norton",
-                "role": "Harold Godwinson",
-                "image": "https://image.tmdb.org/t/p/w200/jQElUV2w7pMNEPX44qFMmr4zDDC.jpg"
-            },
-            {
-                "name": "Nikolaj Coster-Waldau",
-                "role": "William of Normandy",
-                "image": "https://image.tmdb.org/t/p/w200/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
-            },
-            {
-                "name": "Emily Beecham",
-                "role": "Edith Swanneck",
-                "image": "https://image.tmdb.org/t/p/w200/12zgj8SvKEUML1kRC0CUlyxpJ6r.jpg"
-            },
-            {
-                "name": "Clémence Poésy",
-                "role": "Matilda of Normandy",
-                "image": "https://image.tmdb.org/t/p/w200/cv2DpbJ6GLFPHhOWVj5Xrn94fwp.jpg"
-            },
-            {
-                "name": "Jason Forbes",
-                "role": "Thane Thomas",
-                "image": "https://image.tmdb.org/t/p/w200/2AbhsgF4V72ZW8cZ1F3rhUoYf4k.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/rJdLe3rNmMLZWOuoZ8j5cVhdHD0.jpg",
-                "vote_average": 6.5,
-                "link": "https://vidmody.com/vs/tt30221531/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/u1MHiIvIvzMfK5CVH13cbqM0A2P.jpg",
-                "vote_average": 6.1,
-                "link": "https://vidmody.com/vs/tt30221531/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/98PfsMpvT8W1scp6Q3WYIGVWOaN.jpg",
-                "vote_average": 6.0,
-                "link": "https://vidmody.com/vs/tt30221531/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/jL1JI9UtIVsrbXWWxtTqCNIQd3d.jpg",
-                "vote_average": 5.8,
-                "link": "https://vidmody.com/vs/tt30221531/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/iOtM2iH5jkry4S4uh69IMz64Gzn.jpg",
-                "vote_average": 6.4,
-                "link": "https://vidmody.com/vs/tt30221531/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/oZ9ahpAcjRsCNZO9TdxAqNOvGeP.jpg",
-                "vote_average": 6.3,
-                "link": "https://vidmody.com/vs/tt30221531/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "7. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/oVbqqMjUZ30tVepxVP1Ccjba5iH.jpg",
-                "vote_average": 5.8,
-                "link": "https://vidmody.com/vs/tt30221531/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "8. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/8Gs8SIlu8fetpASmBnedOWAYnM6.jpg",
-                "vote_average": 6.6,
-                "link": "https://vidmody.com/vs/tt30221531/s1/e08"
-            }
-        ],
-        "update_date": "2026-02-15 10:53:37"
-    },
-    {
-        "id": 60574,
-        "imdb_id": "tt2442560",
-        "name": "Peaky Blinders",
-        "original_name": "Peaky Blinders",
-        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
-        "poster": "https://image.tmdb.org/t/p/w500/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/l8v3gJDlASN0lNn51gR8zQJsu5O.jpg",
-        "year": "2013",
-        "rating": 8.5,
-        "genres": [
-            "Dram",
-            "Suç"
-        ],
-        "categories": [
-            "Tümü",
-            "Netflix",
-            "BBC One",
-            "BBC Two"
-        ],
-        "cast": [
-            {
-                "name": "Cillian Murphy",
-                "role": "Thomas Shelby",
-                "image": "https://image.tmdb.org/t/p/w200/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
-            },
-            {
-                "name": "Paul Anderson",
-                "role": "Arthur Shelby",
-                "image": "https://image.tmdb.org/t/p/w200/xROnQbYvFH3OSEoC9EgRriVAQ1G.jpg"
-            },
-            {
-                "name": "Sophie Rundle",
-                "role": "Ada Shelby",
-                "image": "https://image.tmdb.org/t/p/w200/9HxJ6pG1Q0BBbIV1UXk5iU9zDM9.jpg"
-            },
-            {
-                "name": "Natasha O'Keeffe",
-                "role": "Lizzie Stark",
-                "image": "https://image.tmdb.org/t/p/w200/tOX10C02tSFnOSra8a8rGuA6QZ5.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Hırslı çete lideri Thomas Shelby, kayıp bir silah sandığı sayesinde yükselme fırsatı yakaladığını fark eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/wMK677CxhZbgWHonyDMnT84wTf5.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt2442560/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Thomas bir at yarışında hile yaparak bölgenin elebaşlarından birini kışkırtır ve bir çingene ailesiyle aralarında savaş çıkar. Dedektif Campbell ani bir baskın düzenler.",
-                "still_path": "https://image.tmdb.org/t/p/w400/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt2442560/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Thomas, Cheltenham yarışlarında Billy Kimber'a yaklaşmak için bir tezgah kurar ve IRA sempatizanlarının çalıntı silahlarını satın alma teklifini değerlendirir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt2442560/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Lee ailesiyle aralarındaki düşmanlık artarken, Thomas kardeşinin nişanlısından kuşkulanmaya başlar. Campbell silahları teslim etmeleri için çeteye baskı yapar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt2442560/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Thomas, öldürülen kuzeninin intikamını almaya kararlı IRA lideri ile bir anlaşma yapar. Bu sırada Grace Campbell'e mi yoksa Thomas'a mı sadık kalacağına karar vermelidir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/11HGUikej3bARNmp44vEnkBel5K.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt2442560/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "Thomas Billy Kimber'ın gücünü elinden almaya hazırlanmaktadır. Ancak gün yüzüne çıkan aile sırları ve takıntılı Campbell felaketi olabilir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt2442560/s1/e06"
-            },
-            {
-                "season": 2,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Birmingham suç dünyasının patronu Tommy Shelby'nin sevgili Garrison barı bombalanır ve İrlandalı bir muhalifi öldürmesi için şantaja maruz kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/2JxCri29xSPtPdrrZBWtbehhClL.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt2442560/s2/e01"
-            },
-            {
-                "season": 2,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "İrlandalı bir muhalifi öldürmesinin ardından, Tommy'nin Dedektif Campbell'ın tehlikeli siyasi oyunlarında piyon olmaktan başka seçeneği yoktur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt2442560/s2/e02"
-            },
-            {
-                "season": 2,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Bir iş için Londra yeraltı dünyasının patronu Alfie Solomons'a katılan Tommy, Alfie'nin yeni ortaya çıkan havai tavırlarının sorun olabileceğinden endişe etmektedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt2442560/s2/e03"
-            },
-            {
-                "season": 2,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Peaky Blinders Londra'nın ünlü barı Eden Club'ı devralır. Sabini eski düşmanı Alfie Solomons'u güçlerini birleştirmeye ve çeteyi ortadan kaldırmaya ikna eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/zYGvwuFcg5WdqqdR5px1xADc8bn.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt2442560/s2/e04"
-            },
-            {
-                "season": 2,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Peaky Blinders saldırıya uğrar. Tommy'nin Londra'daki üssü yok edilmiş, hem Arthur hem de Michael tutuklanıp hapse atılmıştır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/b6Yhg94P1OvTWeOuvZkZ2v5Ct4t.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt2442560/s2/e05"
-            },
-            {
-                "season": 2,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "Tommy Campbell'in verdiği görevi uygulamayı planlamaktadır: Ordu teşkilatının üst düzey bir üyesine suikast düzenleyecektir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt2442560/s2/e06"
-            },
-            {
-                "season": 3,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Yeni bir iş ortağı, Tommy'nin düğün gününde gizli bir görüşme ayarlar. Arthur dindar bir kadınla birliktedir, Polly ise çekici bir adamla tanışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/6RRRhM5ehUVb69KVMn9HQbN99iZ.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt2442560/s3/e01"
-            },
-            {
-                "season": 3,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Düşüncesizce savrulan bir tehdit savaşı tetikler. Tommy alışılmadık bir ödeme yöntemiyle karşılaşır, ancak patronları onu dizginlemek için güç kullanırlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cFGD6AaP4GXEROEQBAfFsKfSq9Q.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt2442560/s3/e02"
-            },
-            {
-                "season": 3,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Tommy af dilemek için Galler'e gider ve Ekonomi Birliği'nde bir haini ortaya çıkarır. Michael, silahlara ilgi duymaya başlarken; Arthur iyi haberler alır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/y41GIASNa9nBDkQdpScDKRki2R3.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt2442560/s3/e03"
-            },
-            {
-                "season": 3,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Polly'nin itirafı, kurulan bir tuzağı ortaya çıkaran olaylar zincirini başlatır. Tommy ise kirli işlerden elini eteğini çekmeyi düşünmektedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/tcOWVbd1V46RRhbgNIGyTwwijne.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt2442560/s3/e04"
-            },
-            {
-                "season": 3,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Rusların onu köşeye sıkıştırdığını anlayan Tommy, eski bir iş ortağından yardım ister. Polly'nin yeni arkadaşlığı, bambaşka bir şeye dönüşür.",
-                "still_path": "https://image.tmdb.org/t/p/w400/8oDs7pMOkNad9sFPhn0Gz6G0BKw.jpg",
-                "vote_average": 7.7,
-                "link": "https://vidmody.com/vs/tt2442560/s3/e05"
-            },
-            {
-                "season": 3,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "Kariyerinin en gözü pek suçunu işlemeye hazırlanan Tommy, zamana karşı yarışırken onu en büyük korkularıyla yüzleşmeye zorlayan bir darbe alır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/prDRv2l7hjooZWNFMui9Ll7Plf5.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt2442560/s3/e06"
-            },
-            {
-                "season": 4,
-                "episode": 1,
-                "name": "Halat",
-                "overview": "1925 Noel'inde, parçalanmış Shelby ailesinin fertleri, New York mafyasının bir yıl önce işledikleri cinayetlerin intikamını almak için peşlerine düştüğünü öğrenir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/lbxpucGwT4OIykqe0O9E9LnA9wV.jpg",
-                "vote_average": 8.6,
-                "link": "https://vidmody.com/vs/tt2442560/s4/e01"
-            },
-            {
-                "season": 4,
-                "episode": 2,
-                "name": "Kâfirler",
-                "overview": "Yaşadığı kayıpla sarsılan Shelby ailesi Small Heath'te toplanır. Tommy, mafyaya karşı saldırı başlatmak için aile arasında bir ateşkes çağrısı yapar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cXslOUj3dI481fLi96XraGFpul4.jpg",
-                "vote_average": 8.6,
-                "link": "https://vidmody.com/vs/tt2442560/s4/e02"
-            },
-            {
-                "season": 4,
-                "episode": 3,
-                "name": "Karatavuk",
-                "overview": "Linda, daha sonra bir pusuya düşen Arthur'un dikkatini dağıtmaya çalışır. Tommy, savaştan önce nasıl biri olduğunu hatırlar. Polly, geçmişinden gelen bir adamla buluşur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/7hICJbOPyaKGNwI6w10fbZc7zqq.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt2442560/s4/e03"
-            },
-            {
-                "season": 4,
-                "episode": 4,
-                "name": "Tehlikeli",
-                "overview": "Mafya, Shelby ailesinin bir üyesini tuzağa düşürmeye çalışır. Eski bir sevgilisi, Tommy'i ziyaret eder. Lizzie beklenmedik haberler alır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/9W5UtzSNPA4YSuRZdhC2tyiFkah.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt2442560/s4/e04"
-            },
-            {
-                "season": 4,
-                "episode": 5,
-                "name": "Düello",
-                "overview": "Sayıca az olmalarına rağmen, Tommy mafyayla çatışmaya girer. Luca Changretta, Alfie Solomons'a yaklaşır. İngiliz ordusu ise Ada'yı aramaktadır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/gvfJVdkEW0reVa1DoLqBSWadMxG.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt2442560/s4/e05"
-            },
-            {
-                "season": 4,
-                "episode": 6,
-                "name": "Şirket",
-                "overview": "Boks maçı sırasında, Arthur önsezilerinin peşinden gider. Tommy, Alfie Solomons'un bilgece sözlerinden etkilenir ve Jessie'den çok değerli bilgiler alır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/oznSCw2RggRbxHIQsFSOM9it5pV.jpg",
-                "vote_average": 8.6,
-                "link": "https://vidmody.com/vs/tt2442560/s4/e06"
-            },
-            {
-                "season": 5,
-                "episode": 1,
-                "name": "Kara Salı",
-                "overview": "Amerika'dan gelen kötü haberler nedeniyle Shelby ailesi acilen yönetim kurulunu toplar. Ada bir sır saklar. Geçmişinden biri Tommy'nin karşısına gazeteci olarak çıkar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/66FTuKBoDYzUhTWJjFnFxloutdu.jpg",
-                "vote_average": 7.6,
-                "link": "https://vidmody.com/vs/tt2442560/s5/e01"
-            },
-            {
-                "season": 5,
-                "episode": 2,
-                "name": "Kara Kediler",
-                "overview": "Anonim mesajlar korku verici bir hâl alır. Michael'ın sadakati sorgulanır. Tommy, Oswald Mosley'den bir teklif alır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/bmEFL2zyYInPGichfyyRHPtMHaY.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt2442560/s5/e02"
-            },
-            {
-                "season": 5,
-                "episode": 3,
-                "name": "Strateji",
-                "overview": "Aberama, intikam için Glasgow'a gider. Tommy kendisini tehdit eden Mosley'nin ayağını kaydırmaya karar verir. Hummalı şekilde Linda'yı arayan Arthur kontrolünü kaybeder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/lPhtB5KxpNAR1SOhj7eydgrAaXX.jpg",
-                "vote_average": 7.7,
-                "link": "https://vidmody.com/vs/tt2442560/s5/e03"
-            },
-            {
-                "season": 5,
-                "episode": 4,
-                "name": "Döngü",
-                "overview": "Tommy ateşkes ilan ederek Jimmy McCavern ile buluşur. Ortaya kârlı bir iş fırsatı çıkar. Aberama'dan intikamını erteleyip aşka öncelik vermesi istenir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/9o9Obi0uzcAksnocm14AViXhYZu.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt2442560/s5/e04"
-            },
-            {
-                "season": 5,
-                "episode": 5,
-                "name": "Şok",
-                "overview": "Tommy'nin faşistlerle ilgili verdiği bilgileri üstlerine ileten Ben Younger beklenmedik sonuçlarla karşılaşır. Tommy, akıl hastanesindeki birini ziyaret eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/2EvMNs9p7NEzV4VUQioUL2GTU2W.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt2442560/s5/e05"
-            },
-            {
-                "season": 5,
-                "episode": 6,
-                "name": "Bay Jones",
-                "overview": "Michael aile toplantısında cüretkâr bir teklifte bulunur. Köstebeğin kimliği tespit edilir. Tommy eski bir düşmanından Mosley'yi saf dışı etme planı için yardım ister.",
-                "still_path": "https://image.tmdb.org/t/p/w400/tK75oU0JfkCAZfC4QWuA1uPDMDg.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt2442560/s5/e06"
-            },
-            {
-                "season": 6,
-                "episode": 1,
-                "name": "Kara Gün",
-                "overview": "Önlenen Mosley suikasti, Shelby ailesinin bir ferdinin canına mal olur. Dört yıl sonra, alkol yasağının kalkmasına yakın, Tommy Kuzey Amerika'ya gider.",
-                "still_path": "https://image.tmdb.org/t/p/w400/qCmmKG9He0lIp7RITOxbqzOfURF.jpg",
-                "vote_average": 8.6,
-                "link": "https://vidmody.com/vs/tt2442560/s6/e01"
-            },
-            {
-                "season": 6,
-                "episode": 2,
-                "name": "Siyah Gömlek",
-                "overview": "Eve dönen Tommy, Jack Nelson'a sunduğu teklifi cazip hâle getirmek için hiç akla gelmeyecek biriyle ittifak kurar. Kızı Ruby'nin söyledikleri tedirginlik yaratır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/i6C8T76p9kbHs62sz6VRVCnTZTS.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt2442560/s6/e02"
-            },
-            {
-                "season": 6,
-                "episode": 3,
-                "name": "Altın",
-                "overview": "Tommy, Esme'yi bulmaya gider. Ada onun yerine, Jack Nelson'ı Mosley ve Diana ile tanıştırır. Arthur onun neler yaşadığını çok iyi anlayan eski bir bağımlı ile tanışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/6oPTroNgWE75kUf8hWoX7qJTdVp.jpg",
-                "vote_average": 7.5,
-                "link": "https://vidmody.com/vs/tt2442560/s6/e03"
-            },
-            {
-                "season": 6,
-                "episode": 4,
-                "name": "Safir",
-                "overview": "Bir kayıp daha yaşayan ve derinden sarsılan Tommy intikam peşine düşer. Faşizm, Ada'yı canevinden vurur. Sağlıkevinden üzerinde acil yazan bir zarf gelir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/53RBnbWROENe9wnT13tfOl2t3lg.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt2442560/s6/e04"
-            },
-            {
-                "season": 6,
-                "episode": 5,
-                "name": "Cehennem Yolu",
-                "overview": "Tommy, Linda ile bir anlaşma yapar. Shelby ailesinin içine sızan köstebeğe yeni bir görev verilir. Diana, Tommy'e bir iyilik yapmayı kabul eder ama tek bir şartı vardır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/pLYq28eSV8zierLtoywFGATOmJw.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt2442560/s6/e05"
-            },
-            {
-                "season": 6,
-                "episode": 6,
-                "name": "Kilit ve Anahtar",
-                "overview": "Köstebek, Arthur'un ne zaman ve nerede yalnız olacağını öğrenir. Hapisten yeni çıkan Michael, işe koyulur. Finn'in Shelby'lere olan sadakati teste tabi tutulur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/caBuctwmvKPJNuJD3FYdd8UxTtE.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt2442560/s6/e06"
-            }
-        ],
-        "update_date": "2026-02-15 08:44:11"
-    },
-    {
-        "id": 19885,
-        "imdb_id": "tt1475582",
-        "name": "Sherlock",
-        "original_name": "Sherlock",
-        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
-        "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
-        "year": "2010",
-        "rating": 8.5,
-        "genres": [
-            "Suç",
-            "Dram",
-            "Gizem"
-        ],
-        "categories": [
-            "Tümü",
-            "Hulu",
-            "WETA+",
-            "BBC One",
-            "Amazon Prime",
-            "Hoopla",
-            "AMC Plus Apple TV Channel",
-            "Spectrum On Demand",
-            "AMC+",
-            "BritBox",
-            "Britbox Apple TV Channel",
-            "Philo"
-        ],
-        "cast": [
-            {
-                "name": "Benedict Cumberbatch",
-                "role": "Sherlock Holmes",
-                "image": "https://image.tmdb.org/t/p/w200/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
-            },
-            {
-                "name": "Martin Freeman",
-                "role": "John Watson",
-                "image": "https://image.tmdb.org/t/p/w200/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Pembe Üzerine Bir Çalışma",
-                "overview": "Pembe giysili kadının intiharı, görünürde birbiriyle alakasız bir dizi intiharın dördüncüsüdür, fakat Sherlock Holmes ölümlerin aslında cinayet olduğunu ortaya çıkarır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt1475582/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Kör Bankacı",
-                "overview": "Watson'ın yeni yaşamı ev arkadaşı Sherlock Holmes sayesinde hiç bir zaman sıradan değildir; hatta Sherlock'un bankaya yapacağı sıra dışı ziyaret doktoru tetikte tutar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt1475582/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Büyük Oyun",
-                "overview": "Sherlock, Londra'daki suçluların kıvrak zekalarından ümitsiz olsa da, sıradan bir dava gibi görünen olayda, bir dahinin iş başında olduğunu keşfeder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt1475582/s1/e03"
-            },
-            {
-                "season": 2,
-                "episode": 1,
-                "name": "Belgravia'da Bir Skandal",
-                "overview": "Bir kraliyet skandalı, Sherlock'u zor bir fikir düellosunun ortasında bırakır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt1475582/s2/e01"
-            },
-            {
-                "season": 2,
-                "episode": 2,
-                "name": "Baskerville'in Köpekleri",
-                "overview": "Sherlock, cehennemden gelen bir av köpeğinin gizemini ortaya çıkarmak için Dartmoor'a gider.",
-                "still_path": "https://image.tmdb.org/t/p/w400/vjUsJUsF5RcTRKn2prGHCW9Nxro.jpg",
-                "vote_average": 7.7,
-                "link": "https://vidmody.com/vs/tt1475582/s2/e02"
-            },
-            {
-                "season": 2,
-                "episode": 3,
-                "name": "Reichenbach Şelalesi",
-                "overview": "Sherlock, en büyük düşmanı Moriarty ile bir savaşa girer.",
-                "still_path": "https://image.tmdb.org/t/p/w400/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt1475582/s2/e03"
-            },
-            {
-                "season": 3,
-                "episode": 1,
-                "name": "Boş Tabut",
-                "overview": "Sherlock'un \"ölümü\" üzerinden iki yıl geçmiş, Watson hayatına devam etmiştir. Fakat Londra'ya bir terör saldırısı tehdidi olunca, Sherlock geri dönmeye karar verir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/zXsOogQ8BVyvWUR2zgs6NBxkReX.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt1475582/s3/e01"
-            },
-            {
-                "season": 3,
-                "episode": 2,
-                "name": "Üçlerin İmzası",
-                "overview": "Ölümcül bir tehlike Watson'ın düğün törenine gizlice yaklaşırken, Sherlock hayatının en zor görevi ile yüzleşir: Sağdıç konuşması!",
-                "still_path": "https://image.tmdb.org/t/p/w400/ca3ayuzXGpxpALFlcsVsXTQau9G.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt1475582/s3/e02"
-            },
-            {
-                "season": 3,
-                "episode": 3,
-                "name": "Onun Son Yemini",
-                "overview": "Çalınan mektuplarla ilgili bir dava Sherlock Holmes'u şantaj ustası olan Charles Augustus Magnussen ile karşı karşıya getirir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt1475582/s3/e03"
-            },
-            {
-                "season": 4,
-                "episode": 1,
-                "name": "Altı Thatcher",
-                "overview": "Scotland Yard, kabineden bir bakanın oğlunun ve eski başbakan Margaret Thatcher'ın parçalanmış heykellerinin karıştığı ilginç bir vaka ile Sherlock'a gelir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg",
-                "vote_average": 7.0,
-                "link": "https://vidmody.com/vs/tt1475582/s4/e01"
-            },
-            {
-                "season": 4,
-                "episode": 2,
-                "name": "Yalancı Dedektif",
-                "overview": "Watson şoke edici bir trajediyle boğuşur. Bu sırada Sherlock bugüne kadarki en kurnaz düşmanı olan, karanlık bir sırra sahip zengin bir hayırsever ile karşılaşır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/krz3V8MLoVKjMwCuAG2xxnx49TO.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt1475582/s4/e02"
-            },
-            {
-                "season": 4,
-                "episode": 3,
-                "name": "Son Problem",
-                "overview": "Karanlık bir aile sırrı, Sherlock'un varlığından haberdar olmadığı bastırılmış anılarını açığa çıkararak onu ölümcül bir son oyuna çeker. Dirilen düşmanı karşısındadır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/52CguxQAPg6JLDuIOT76EsWf2a8.jpg",
-                "vote_average": 7.6,
-                "link": "https://vidmody.com/vs/tt1475582/s4/e03"
-            }
-        ],
-        "update_date": "2026-02-15 03:11:58"
-    },
-    {
-        "id": 61859,
-        "imdb_id": "tt1399664",
-        "name": "Gece Müdürü",
-        "original_name": "The Night Manager",
-        "overview": "Eski İngiliz askeri Jonathan Pine, istihbarat topluluğu ile gizli silah ticareti arasında kutsal olmayan bir ittifakın işlediği Whitehall ve Washington'un karanlık girintilerinde dolaşır. Ölümcül silah tüccarı Richard Onslow Roper'ın yakın çevresine sızmak için Pine'ın kendisi bir suçlu olmalıdır.",
-        "poster": "https://image.tmdb.org/t/p/w500/tOeeCGFoUDP3UrAzs2SvMRKzQtY.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
-        "year": "2016",
-        "rating": 7.7,
-        "genres": [
-            "Dram",
-            "Gizem",
-            "Suç"
-        ],
-        "categories": [
-            "Tümü",
-            "Amazon Prime",
-            "Kanopy",
-            "BBC One"
-        ],
-        "cast": [
-            {
-                "name": "Tom Hiddleston",
-                "role": "Jonathan Pine",
-                "image": "https://image.tmdb.org/t/p/w200/mclHxMm8aPlCPKptP67257F5GPo.jpg"
-            },
-            {
-                "name": "Hugh Laurie",
-                "role": "Richard Roper",
-                "image": "https://image.tmdb.org/t/p/w200/akArncggHnusP5jxzMBKmJDRrMo.jpg"
-            },
-            {
-                "name": "Diego Calva",
-                "role": "Teddy Dos Santos",
-                "image": "https://image.tmdb.org/t/p/w200/k5khi8PwsYs2d7uL0uuO5zenL9R.jpg"
-            },
-            {
-                "name": "Camila Morrone",
-                "role": "Roxana Bolaños",
-                "image": "https://image.tmdb.org/t/p/w200/2Req1uGHE7T48PMwXCWL6PT3VKQ.jpg"
-            },
-            {
-                "name": "Paul Chahidi",
-                "role": "Basil Karapetian",
-                "image": "https://image.tmdb.org/t/p/w200/gwQ5MfY68BvvyIbef3kr2XPilTx.jpg"
-            },
-            {
-                "name": "Hayley Squires",
-                "role": "Sally Price-Jones",
-                "image": "https://image.tmdb.org/t/p/w200/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
-            },
-            {
-                "name": "Indira Varma",
-                "role": "Mayra Cavendish",
-                "image": "https://image.tmdb.org/t/p/w200/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
-            },
-            {
-                "name": "Unax Ugalde",
-                "role": "Juan Carrascal",
-                "image": "https://image.tmdb.org/t/p/w200/t4jKbvmXSjMBnZZjNZEr3P46q6s.jpg"
-            },
-            {
-                "name": "Diego Santos",
-                "role": "Martín Álvarez",
-                "image": ""
-            },
-            {
-                "name": "Slavko Sobin",
-                "role": "Viktor",
-                "image": "https://image.tmdb.org/t/p/w200/rynYUXrsjQ8fjVo7H82VP49qrGt.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Arap Baharının doruk noktasında Kahire'de, otel gece müdürü Jonathan Pine, zarif, çevresi geni? bir misafirden yardım talebi alır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/4ng5mLHyrxMI8zRHoSJJqplNkmc.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt1399664/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Bir Akdeniz adası olan Mayorka'da, Roper'ın lüks ve sakin hayatı parçalanmaktadır. Alt ay öncesinde, Burr Pine'ı yetiştirmeye devam ediyor ve onu, Devon'a sahte özgeçmişini oluşturmak üzere gönderiyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/hRjoOwWuFzZijYRbmB8yXSvKJIz.jpg",
-                "vote_average": 7.5,
-                "link": "https://vidmody.com/vs/tt1399664/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Roper'ın villasını yenilemeye devam ederken, Pine ev halkının diğer üyelerinin sırlarını araştırmaya başlıyor. Bu sırada, Burr ve Steadman yeni bir değer kazanma fırsatını değerlendiriyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/v0UGr8jALT2YE2SZEtYHsxBhHmC.jpg",
-                "vote_average": 7.2,
-                "link": "https://vidmody.com/vs/tt1399664/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Roper, Corky'yi dışarıda bırakarak Pine'ı yakın çevresine kabul ediyor. Bu sırada, önemli bir bilginin River House'a sızdırılması sebebiyle Burr'ün kaynağına iliş?kin kaygıları oluşuyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/51H0MmEvnO0bXh6k4FWiasHTscz.jpg",
-                "vote_average": 7.7,
-                "link": "https://vidmody.com/vs/tt1399664/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Şüphelenen Roper'ın, tayfasını toplayarak haini ortaya çıkarmaya çalışması Pine'ı tehlikeli bir oyun oynamaya itiyor. Londra'da Burr ve Steadman hükümet tarafında güçlenen bir muhalefetle yüzleşiyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/r6z5AsiwK9Er0z0LbSxLJIAtmU4.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt1399664/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "Roper ve takımı anlaşma için Kahire'ye dönüyor, Pine eski bir düşmanla birleşiyor. Pine, planını hayata geçirmek için her şeyi riske atıyor. İtibarını yitiren Burr son hamlesini yapıyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/fYXi80kLHo96Yq28QrpuRx01C0I.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt1399664/s1/e06"
-            },
-            {
-                "season": 2,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "2026. Jonathan Pine, Mısır'da Richard Roper'ı kandırıp onu tutsak eden Suriyelilerin eline teslim edeli dokuz yıl olmuştur. Artık Roper ölü, Jonathan Pine ise Alex Goodwin adıyla MI6'te düşük rütbeli bir istihbarat ajanıdır. Pine, Londra'da eski bir Roper paralı askeriyle karşılaşınca yeni güvenli hayatı paramparça olmaya başlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cSlQHQ8oah5yrMrgzl93FuYhppi.jpg",
-                "vote_average": 7.3,
-                "link": "https://vidmody.com/vs/tt1399664/s2/e01"
-            },
-            {
-                "season": 2,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Pine kaçak durumda yeni bir kimliğe bürünür. Matthew Ellis adıyla Kolombiya'ya gidip Teddy Dos Santos'un operasyonuna sızar ve Cartagena'ya yapılacak sevkiyatın gizemini ortaya çıkarmaya çalışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/qLi8AHz6CD0uhd8FZ74aClHATqc.jpg",
-                "vote_average": 7.1,
-                "link": "https://vidmody.com/vs/tt1399664/s2/e02"
-            },
-            {
-                "season": 2,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Pine, Roxana'nın yardımıyla daha derinlere sızar, Teddy'nin güvenini kazanır ve Cartagena sevkiyatını gizli Britanya istihbarat çıkarlarıyla ilişkilendirmek için ihtiyaç duyduğu kanıtı elde eder. Ama işler ters gitmeye başlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/3RJzYuH7llNUDiwaAkksVhdiR0N.jpg",
-                "vote_average": 8.6,
-                "link": "https://vidmody.com/vs/tt1399664/s2/e03"
-            },
-            {
-                "season": 2,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Pine, Kolombiya hükümetini devirmeye yönelik Britanya destekli planı açığa çıkaracak kanıtı ele geçirmiştir. Ama Teddy artık Matthew Ellis'e güvenmez, Roxana tehdit altındadır ve ölümcül yerel silah tüccarı Gilberto Hanson Pine'ın peşindedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/4ne2Z5JZCv8CPQPIHtfDOZcFYER.jpg",
-                "vote_average": 8.3,
-                "link": "https://vidmody.com/vs/tt1399664/s2/e04"
-            }
-        ],
-        "update_date": "2026-02-15 02:26:58"
-    },
-    {
         "id": 57243,
         "imdb_id": "tt0436992",
         "name": "Doctor Who",
@@ -1021,8 +15,9 @@
             "Bilim Kurgu & Fantazi"
         ],
         "categories": [
-            "Tümü",
-            "BBC One"
+            "Hoopla",
+            "BBC One",
+            "Tümü"
         ],
         "cast": [
             {
@@ -2411,6 +1406,1012 @@
                 "link": "https://vidmody.com/vs/tt0436992/s13/e06"
             }
         ],
-        "update_date": "2026-02-14 18:59:01"
+        "update_date": "2026-02-28 19:25:52"
+    },
+    {
+        "id": 93166,
+        "imdb_id": "tt8201186",
+        "name": "The Capture",
+        "original_name": "The Capture",
+        "overview": "Dizi eski bir İngiliz askeri olan Shaun Emery’yi (Turner) merkezine alıyor. Shaun, Afganistanda bir cinayetten dolayı mahkum olur. Ancak kusurlu video kanıtları nedeniyle mahkumiyeti bozulur ve 6 yaşındaki kızıyla birlikte özgür bir adam olarak yaşamını planlamaya başlar. Fakat, bir gece vakti Londra’da meydana gelen bir olaydan sonra ortaya çıkan CCTV görüntüleri sonrası Shaun’un, kendisini bir kez daha özgürlüğü için savaşmak zorunda kalması çok uzun sürmez. Yalanlar, ihanet, yozlaşma, onun sandığından çok daha fazla yayılmış durumdadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/btWghV6scZ1uTLYRFnJuk3bZ5bw.jpg",
+        "year": "2019",
+        "rating": 7.8,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "BBC One",
+            "Amazon Prime",
+            "Peacock Premium Plus",
+            "Peacock Premium"
+        ],
+        "cast": [
+            {
+                "name": "Holliday Grainger",
+                "role": "DI Rachel Carey",
+                "image": "https://image.tmdb.org/t/p/w200/fHveeGXgEfTZ9slB5OvHDG4LAPw.jpg"
+            },
+            {
+                "name": "Ben Miles",
+                "role": "Commander Danny Hart",
+                "image": "https://image.tmdb.org/t/p/w200/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
+            },
+            {
+                "name": "Lia Williams",
+                "role": "DSU Gemma Garland",
+                "image": "https://image.tmdb.org/t/p/w200/d7BIswSeHeAdIobNjsWEFG2uj1H.jpg"
+            },
+            {
+                "name": "Paapa Essiedu",
+                "role": "Isaac Turner MP",
+                "image": "https://image.tmdb.org/t/p/w200/xMU7tSgdPMF53bdNMUhUMQOVIj3.jpg"
+            },
+            {
+                "name": "Indira Varma",
+                "role": "Khadija Khan",
+                "image": "https://image.tmdb.org/t/p/w200/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+                "name": "Charlie Murphy",
+                "role": "Simone Turner",
+                "image": "https://image.tmdb.org/t/p/w200/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg"
+            },
+            {
+                "name": "Tessa Wong",
+                "role": "DC Chloe Tan",
+                "image": "https://image.tmdb.org/t/p/w200/8bgwte22fpOPlPtBtItxYBk5HjT.jpg"
+            },
+            {
+                "name": "Andy Nyman",
+                "role": "Rowan Gill",
+                "image": "https://image.tmdb.org/t/p/w200/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Asker Shaun Emery'nin bir cinayet yüzünden aldığı mahkumiyet, hatalı video kayıtları nedeniyle bozulunca küçük kızıyla özgür bir adam olarak hayata döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oUeNsT1Vk7fkiIIS4g5eIdJALIM.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Soruşturmasından önemli delillerin gizemli bir şekilde çıkarılmasının ardından Carey, kendi cevaplarını arayan Shaun'a ulaşmak için başka yollar bulmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/azLqbKC1Vwzdp1LEJBXvh8qeeGb.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Shaun, gizemli bir CIA ajanı tarafından sorguya çekilir. Rachel, onun içeri girdiği görüntüleri izler. Ancak sonra onu içeride bulamayınca soruşturma çıkmaza girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1ml5z5iBFiCY5K4utdWpDpbxyoB.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Rachel ile Shaun sonunda yüz yüze gelir. Shaun, tutuklanmaktan bir kez daha kurtulmayı başarır ve onu gerçeğe götüreceğine söz veren iki gizemli yabancıyla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yMjYGKjIb5j1wQkyHSKmubOGFKC.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Tüm karmaşıklığı ve belirsizliğiyle gerçek ortaya çıktığında Shaun ve Rachel, onları bekleyen şeye hazırlıklı değildir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qK2HJlFoVCyL4ib4wnHI0J8KVE1.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt8201186/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-15 19:35:05"
+    },
+    {
+        "id": 259886,
+        "imdb_id": "tt30645193",
+        "name": "The War Between the Land and the Sea",
+        "original_name": "The War Between the Land and the Sea",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
+        "year": "2025",
+        "rating": 6.9,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "BBC One"
+        ],
+        "cast": [
+            {
+                "name": "Russell Tovey",
+                "role": "Barclay Pierre-Dupont",
+                "image": "https://image.tmdb.org/t/p/w200/p1hNveDVY6vT5FDT0zJXDnZsDw.jpg"
+            },
+            {
+                "name": "Gugu Mbatha-Raw",
+                "role": "Salt",
+                "image": "https://image.tmdb.org/t/p/w200/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Homo Aqua",
+                "overview": "Barclays'in sıradan hayatı, denizden kadim bir türün ortaya çıkmasıyla bir terör dünyasına dönüşüyor. UNIT kontrolü ele geçirmek için mücadele ederken, Thames üzerindeki zirve korkunç sırları ortaya çıkarıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ql1CuAoTpggQSsC18HTt9m5rCAu.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Plastik Kıyamet",
+                "overview": "Barclay, gizemli Tuz'un Tank'tan çıkmasıyla insanlığın elçisi olur. Ancak Tuz tüm insanlığa intikam almaya kalkışınca ailesinin hayatı altüst olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ffPgKyJUgHL5J6LOBqzIQ6PLCwK.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Derinlik",
+                "overview": "Barclay, Homo Aqua dünyasına korkunç bir iniş yapar. Karada ise Kate, Downing Street'in orduyla birlikte savaşın seyrini değiştirmek için komplo kurduğu sırada yalnız başına kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wCBpt7Ljr6VRO1VGsUjCJG4ffbq.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Şelalenin Cadısı",
+                "overview": "Barclay ve Salt, UNIT'in felaketle sarsıldığı savaşın harap ettiği Londra'da kaçmaya başlar. Ancak Tide ülkeyi tehdit ettiğinde ve Gunsberg planlarını ilerlettiğinde, Severance'ın planları kan dökülmesini gerektirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2MRLTb5r6QnpHDlvAdLEzgxV3s6.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Savaşın Sonu",
+                "overview": "Barclay yalnız başına kalmış, Salt kaybolmuş, UNIT güçsüz kalmış ve savaş doruk noktasına ulaşırken okyanuslar yükseliyor. Hainler komplo kurarken, Barclay çok geç olmadan Salt'ı bulabilecek mi?",
+                "still_path": "https://image.tmdb.org/t/p/w400/eXBf3VETvZddlIRWhdkLRY3pBrl.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt30645193/s1/e05"
+            }
+        ],
+        "update_date": "2026-02-15 11:01:59"
+    },
+    {
+        "id": 240558,
+        "imdb_id": "tt30221531",
+        "name": "King & Conqueror",
+        "original_name": "King & Conqueror",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
+        "year": "2025",
+        "rating": 7.0,
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera"
+        ],
+        "categories": [
+            "Tümü",
+            "TOD TV",
+            "Amazon Prime",
+            "BBC One"
+        ],
+        "cast": [
+            {
+                "name": "James Norton",
+                "role": "Harold Godwinson",
+                "image": "https://image.tmdb.org/t/p/w200/jQElUV2w7pMNEPX44qFMmr4zDDC.jpg"
+            },
+            {
+                "name": "Nikolaj Coster-Waldau",
+                "role": "William of Normandy",
+                "image": "https://image.tmdb.org/t/p/w200/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
+            },
+            {
+                "name": "Emily Beecham",
+                "role": "Edith Swanneck",
+                "image": "https://image.tmdb.org/t/p/w200/12zgj8SvKEUML1kRC0CUlyxpJ6r.jpg"
+            },
+            {
+                "name": "Clémence Poésy",
+                "role": "Matilda of Normandy",
+                "image": "https://image.tmdb.org/t/p/w200/cv2DpbJ6GLFPHhOWVj5Xrn94fwp.jpg"
+            },
+            {
+                "name": "Jason Forbes",
+                "role": "Thane Thomas",
+                "image": "https://image.tmdb.org/t/p/w200/2AbhsgF4V72ZW8cZ1F3rhUoYf4k.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/rJdLe3rNmMLZWOuoZ8j5cVhdHD0.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/u1MHiIvIvzMfK5CVH13cbqM0A2P.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/98PfsMpvT8W1scp6Q3WYIGVWOaN.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/jL1JI9UtIVsrbXWWxtTqCNIQd3d.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iOtM2iH5jkry4S4uh69IMz64Gzn.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oZ9ahpAcjRsCNZO9TdxAqNOvGeP.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/oVbqqMjUZ30tVepxVP1Ccjba5iH.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/8Gs8SIlu8fetpASmBnedOWAYnM6.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt30221531/s1/e08"
+            }
+        ],
+        "update_date": "2026-02-15 10:53:37"
+    },
+    {
+        "id": 60574,
+        "imdb_id": "tt2442560",
+        "name": "Peaky Blinders",
+        "original_name": "Peaky Blinders",
+        "overview": "Birinci Dünya Savaşı’ndan yeni çıkmış İngiltere’yi, yasadışı faaliyet gösteren çeşitli çeteler sarmıştır. Bunlardan biri de soygunculuk ve at yarışıyla para kazanan Peaky Blinders’dır. Polislere rüşvet yedirerek paçayı kurtaran çete, bir soygunda yanlışlık yapınca başlarına bela olacak yeni bir müfettişin şehre gelmesine vesile olurlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/l8v3gJDlASN0lNn51gR8zQJsu5O.jpg",
+        "year": "2013",
+        "rating": 8.5,
+        "genres": [
+            "Dram",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix",
+            "BBC One",
+            "BBC Two"
+        ],
+        "cast": [
+            {
+                "name": "Cillian Murphy",
+                "role": "Thomas Shelby",
+                "image": "https://image.tmdb.org/t/p/w200/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
+            },
+            {
+                "name": "Paul Anderson",
+                "role": "Arthur Shelby",
+                "image": "https://image.tmdb.org/t/p/w200/xROnQbYvFH3OSEoC9EgRriVAQ1G.jpg"
+            },
+            {
+                "name": "Sophie Rundle",
+                "role": "Ada Shelby",
+                "image": "https://image.tmdb.org/t/p/w200/9HxJ6pG1Q0BBbIV1UXk5iU9zDM9.jpg"
+            },
+            {
+                "name": "Natasha O'Keeffe",
+                "role": "Lizzie Stark",
+                "image": "https://image.tmdb.org/t/p/w200/tOX10C02tSFnOSra8a8rGuA6QZ5.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Hırslı çete lideri Thomas Shelby, kayıp bir silah sandığı sayesinde yükselme fırsatı yakaladığını fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wMK677CxhZbgWHonyDMnT84wTf5.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Thomas bir at yarışında hile yaparak bölgenin elebaşlarından birini kışkırtır ve bir çingene ailesiyle aralarında savaş çıkar. Dedektif Campbell ani bir baskın düzenler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Thomas, Cheltenham yarışlarında Billy Kimber'a yaklaşmak için bir tezgah kurar ve IRA sempatizanlarının çalıntı silahlarını satın alma teklifini değerlendirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Lee ailesiyle aralarındaki düşmanlık artarken, Thomas kardeşinin nişanlısından kuşkulanmaya başlar. Campbell silahları teslim etmeleri için çeteye baskı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Thomas, öldürülen kuzeninin intikamını almaya kararlı IRA lideri ile bir anlaşma yapar. Bu sırada Grace Campbell'e mi yoksa Thomas'a mı sadık kalacağına karar vermelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/11HGUikej3bARNmp44vEnkBel5K.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Thomas Billy Kimber'ın gücünü elinden almaya hazırlanmaktadır. Ancak gün yüzüne çıkan aile sırları ve takıntılı Campbell felaketi olabilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2442560/s1/e06"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Birmingham suç dünyasının patronu Tommy Shelby'nin sevgili Garrison barı bombalanır ve İrlandalı bir muhalifi öldürmesi için şantaja maruz kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2JxCri29xSPtPdrrZBWtbehhClL.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "İrlandalı bir muhalifi öldürmesinin ardından, Tommy'nin Dedektif Campbell'ın tehlikeli siyasi oyunlarında piyon olmaktan başka seçeneği yoktur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Bir iş için Londra yeraltı dünyasının patronu Alfie Solomons'a katılan Tommy, Alfie'nin yeni ortaya çıkan havai tavırlarının sorun olabileceğinden endişe etmektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Peaky Blinders Londra'nın ünlü barı Eden Club'ı devralır. Sabini eski düşmanı Alfie Solomons'u güçlerini birleştirmeye ve çeteyi ortadan kaldırmaya ikna eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zYGvwuFcg5WdqqdR5px1xADc8bn.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Peaky Blinders saldırıya uğrar. Tommy'nin Londra'daki üssü yok edilmiş, hem Arthur hem de Michael tutuklanıp hapse atılmıştır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/b6Yhg94P1OvTWeOuvZkZ2v5Ct4t.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Tommy Campbell'in verdiği görevi uygulamayı planlamaktadır: Ordu teşkilatının üst düzey bir üyesine suikast düzenleyecektir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2442560/s2/e06"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Yeni bir iş ortağı, Tommy'nin düğün gününde gizli bir görüşme ayarlar. Arthur dindar bir kadınla birliktedir, Polly ise çekici bir adamla tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6RRRhM5ehUVb69KVMn9HQbN99iZ.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Düşüncesizce savrulan bir tehdit savaşı tetikler. Tommy alışılmadık bir ödeme yöntemiyle karşılaşır, ancak patronları onu dizginlemek için güç kullanırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cFGD6AaP4GXEROEQBAfFsKfSq9Q.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Tommy af dilemek için Galler'e gider ve Ekonomi Birliği'nde bir haini ortaya çıkarır. Michael, silahlara ilgi duymaya başlarken; Arthur iyi haberler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y41GIASNa9nBDkQdpScDKRki2R3.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Polly'nin itirafı, kurulan bir tuzağı ortaya çıkaran olaylar zincirini başlatır. Tommy ise kirli işlerden elini eteğini çekmeyi düşünmektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tcOWVbd1V46RRhbgNIGyTwwijne.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Rusların onu köşeye sıkıştırdığını anlayan Tommy, eski bir iş ortağından yardım ister. Polly'nin yeni arkadaşlığı, bambaşka bir şeye dönüşür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8oDs7pMOkNad9sFPhn0Gz6G0BKw.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Kariyerinin en gözü pek suçunu işlemeye hazırlanan Tommy, zamana karşı yarışırken onu en büyük korkularıyla yüzleşmeye zorlayan bir darbe alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/prDRv2l7hjooZWNFMui9Ll7Plf5.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2442560/s3/e06"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Halat",
+                "overview": "1925 Noel'inde, parçalanmış Shelby ailesinin fertleri, New York mafyasının bir yıl önce işledikleri cinayetlerin intikamını almak için peşlerine düştüğünü öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lbxpucGwT4OIykqe0O9E9LnA9wV.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Kâfirler",
+                "overview": "Yaşadığı kayıpla sarsılan Shelby ailesi Small Heath'te toplanır. Tommy, mafyaya karşı saldırı başlatmak için aile arasında bir ateşkes çağrısı yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cXslOUj3dI481fLi96XraGFpul4.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Karatavuk",
+                "overview": "Linda, daha sonra bir pusuya düşen Arthur'un dikkatini dağıtmaya çalışır. Tommy, savaştan önce nasıl biri olduğunu hatırlar. Polly, geçmişinden gelen bir adamla buluşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7hICJbOPyaKGNwI6w10fbZc7zqq.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e03"
+            },
+            {
+                "season": 4,
+                "episode": 4,
+                "name": "Tehlikeli",
+                "overview": "Mafya, Shelby ailesinin bir üyesini tuzağa düşürmeye çalışır. Eski bir sevgilisi, Tommy'i ziyaret eder. Lizzie beklenmedik haberler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9W5UtzSNPA4YSuRZdhC2tyiFkah.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e04"
+            },
+            {
+                "season": 4,
+                "episode": 5,
+                "name": "Düello",
+                "overview": "Sayıca az olmalarına rağmen, Tommy mafyayla çatışmaya girer. Luca Changretta, Alfie Solomons'a yaklaşır. İngiliz ordusu ise Ada'yı aramaktadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gvfJVdkEW0reVa1DoLqBSWadMxG.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e05"
+            },
+            {
+                "season": 4,
+                "episode": 6,
+                "name": "Şirket",
+                "overview": "Boks maçı sırasında, Arthur önsezilerinin peşinden gider. Tommy, Alfie Solomons'un bilgece sözlerinden etkilenir ve Jessie'den çok değerli bilgiler alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oznSCw2RggRbxHIQsFSOM9it5pV.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2442560/s4/e06"
+            },
+            {
+                "season": 5,
+                "episode": 1,
+                "name": "Kara Salı",
+                "overview": "Amerika'dan gelen kötü haberler nedeniyle Shelby ailesi acilen yönetim kurulunu toplar. Ada bir sır saklar. Geçmişinden biri Tommy'nin karşısına gazeteci olarak çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/66FTuKBoDYzUhTWJjFnFxloutdu.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e01"
+            },
+            {
+                "season": 5,
+                "episode": 2,
+                "name": "Kara Kediler",
+                "overview": "Anonim mesajlar korku verici bir hâl alır. Michael'ın sadakati sorgulanır. Tommy, Oswald Mosley'den bir teklif alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bmEFL2zyYInPGichfyyRHPtMHaY.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e02"
+            },
+            {
+                "season": 5,
+                "episode": 3,
+                "name": "Strateji",
+                "overview": "Aberama, intikam için Glasgow'a gider. Tommy kendisini tehdit eden Mosley'nin ayağını kaydırmaya karar verir. Hummalı şekilde Linda'yı arayan Arthur kontrolünü kaybeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lPhtB5KxpNAR1SOhj7eydgrAaXX.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e03"
+            },
+            {
+                "season": 5,
+                "episode": 4,
+                "name": "Döngü",
+                "overview": "Tommy ateşkes ilan ederek Jimmy McCavern ile buluşur. Ortaya kârlı bir iş fırsatı çıkar. Aberama'dan intikamını erteleyip aşka öncelik vermesi istenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9o9Obi0uzcAksnocm14AViXhYZu.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e04"
+            },
+            {
+                "season": 5,
+                "episode": 5,
+                "name": "Şok",
+                "overview": "Tommy'nin faşistlerle ilgili verdiği bilgileri üstlerine ileten Ben Younger beklenmedik sonuçlarla karşılaşır. Tommy, akıl hastanesindeki birini ziyaret eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2EvMNs9p7NEzV4VUQioUL2GTU2W.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e05"
+            },
+            {
+                "season": 5,
+                "episode": 6,
+                "name": "Bay Jones",
+                "overview": "Michael aile toplantısında cüretkâr bir teklifte bulunur. Köstebeğin kimliği tespit edilir. Tommy eski bir düşmanından Mosley'yi saf dışı etme planı için yardım ister.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tK75oU0JfkCAZfC4QWuA1uPDMDg.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2442560/s5/e06"
+            },
+            {
+                "season": 6,
+                "episode": 1,
+                "name": "Kara Gün",
+                "overview": "Önlenen Mosley suikasti, Shelby ailesinin bir ferdinin canına mal olur. Dört yıl sonra, alkol yasağının kalkmasına yakın, Tommy Kuzey Amerika'ya gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qCmmKG9He0lIp7RITOxbqzOfURF.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e01"
+            },
+            {
+                "season": 6,
+                "episode": 2,
+                "name": "Siyah Gömlek",
+                "overview": "Eve dönen Tommy, Jack Nelson'a sunduğu teklifi cazip hâle getirmek için hiç akla gelmeyecek biriyle ittifak kurar. Kızı Ruby'nin söyledikleri tedirginlik yaratır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/i6C8T76p9kbHs62sz6VRVCnTZTS.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e02"
+            },
+            {
+                "season": 6,
+                "episode": 3,
+                "name": "Altın",
+                "overview": "Tommy, Esme'yi bulmaya gider. Ada onun yerine, Jack Nelson'ı Mosley ve Diana ile tanıştırır. Arthur onun neler yaşadığını çok iyi anlayan eski bir bağımlı ile tanışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6oPTroNgWE75kUf8hWoX7qJTdVp.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e03"
+            },
+            {
+                "season": 6,
+                "episode": 4,
+                "name": "Safir",
+                "overview": "Bir kayıp daha yaşayan ve derinden sarsılan Tommy intikam peşine düşer. Faşizm, Ada'yı canevinden vurur. Sağlıkevinden üzerinde acil yazan bir zarf gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/53RBnbWROENe9wnT13tfOl2t3lg.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e04"
+            },
+            {
+                "season": 6,
+                "episode": 5,
+                "name": "Cehennem Yolu",
+                "overview": "Tommy, Linda ile bir anlaşma yapar. Shelby ailesinin içine sızan köstebeğe yeni bir görev verilir. Diana, Tommy'e bir iyilik yapmayı kabul eder ama tek bir şartı vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pLYq28eSV8zierLtoywFGATOmJw.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e05"
+            },
+            {
+                "season": 6,
+                "episode": 6,
+                "name": "Kilit ve Anahtar",
+                "overview": "Köstebek, Arthur'un ne zaman ve nerede yalnız olacağını öğrenir. Hapisten yeni çıkan Michael, işe koyulur. Finn'in Shelby'lere olan sadakati teste tabi tutulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/caBuctwmvKPJNuJD3FYdd8UxTtE.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2442560/s6/e06"
+            }
+        ],
+        "update_date": "2026-02-15 08:44:11"
+    },
+    {
+        "id": 19885,
+        "imdb_id": "tt1475582",
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+        "year": "2010",
+        "rating": 8.5,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "WETA+",
+            "BBC One",
+            "Amazon Prime",
+            "Hoopla",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "AMC+",
+            "BritBox",
+            "Britbox Apple TV Channel",
+            "Philo"
+        ],
+        "cast": [
+            {
+                "name": "Benedict Cumberbatch",
+                "role": "Sherlock Holmes",
+                "image": "https://image.tmdb.org/t/p/w200/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+            },
+            {
+                "name": "Martin Freeman",
+                "role": "John Watson",
+                "image": "https://image.tmdb.org/t/p/w200/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pembe Üzerine Bir Çalışma",
+                "overview": "Pembe giysili kadının intiharı, görünürde birbiriyle alakasız bir dizi intiharın dördüncüsüdür, fakat Sherlock Holmes ölümlerin aslında cinayet olduğunu ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kör Bankacı",
+                "overview": "Watson'ın yeni yaşamı ev arkadaşı Sherlock Holmes sayesinde hiç bir zaman sıradan değildir; hatta Sherlock'un bankaya yapacağı sıra dışı ziyaret doktoru tetikte tutar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Büyük Oyun",
+                "overview": "Sherlock, Londra'daki suçluların kıvrak zekalarından ümitsiz olsa da, sıradan bir dava gibi görünen olayda, bir dahinin iş başında olduğunu keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e03"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Belgravia'da Bir Skandal",
+                "overview": "Bir kraliyet skandalı, Sherlock'u zor bir fikir düellosunun ortasında bırakır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Baskerville'in Köpekleri",
+                "overview": "Sherlock, cehennemden gelen bir av köpeğinin gizemini ortaya çıkarmak için Dartmoor'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vjUsJUsF5RcTRKn2prGHCW9Nxro.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Reichenbach Şelalesi",
+                "overview": "Sherlock, en büyük düşmanı Moriarty ile bir savaşa girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e03"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Boş Tabut",
+                "overview": "Sherlock'un \"ölümü\" üzerinden iki yıl geçmiş, Watson hayatına devam etmiştir. Fakat Londra'ya bir terör saldırısı tehdidi olunca, Sherlock geri dönmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zXsOogQ8BVyvWUR2zgs6NBxkReX.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Üçlerin İmzası",
+                "overview": "Ölümcül bir tehlike Watson'ın düğün törenine gizlice yaklaşırken, Sherlock hayatının en zor görevi ile yüzleşir: Sağdıç konuşması!",
+                "still_path": "https://image.tmdb.org/t/p/w400/ca3ayuzXGpxpALFlcsVsXTQau9G.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Onun Son Yemini",
+                "overview": "Çalınan mektuplarla ilgili bir dava Sherlock Holmes'u şantaj ustası olan Charles Augustus Magnussen ile karşı karşıya getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e03"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Altı Thatcher",
+                "overview": "Scotland Yard, kabineden bir bakanın oğlunun ve eski başbakan Margaret Thatcher'ın parçalanmış heykellerinin karıştığı ilginç bir vaka ile Sherlock'a gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Yalancı Dedektif",
+                "overview": "Watson şoke edici bir trajediyle boğuşur. Bu sırada Sherlock bugüne kadarki en kurnaz düşmanı olan, karanlık bir sırra sahip zengin bir hayırsever ile karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/krz3V8MLoVKjMwCuAG2xxnx49TO.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Son Problem",
+                "overview": "Karanlık bir aile sırrı, Sherlock'un varlığından haberdar olmadığı bastırılmış anılarını açığa çıkararak onu ölümcül bir son oyuna çeker. Dirilen düşmanı karşısındadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/52CguxQAPg6JLDuIOT76EsWf2a8.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e03"
+            }
+        ],
+        "update_date": "2026-02-15 03:11:58"
+    },
+    {
+        "id": 61859,
+        "imdb_id": "tt1399664",
+        "name": "Gece Müdürü",
+        "original_name": "The Night Manager",
+        "overview": "Eski İngiliz askeri Jonathan Pine, istihbarat topluluğu ile gizli silah ticareti arasında kutsal olmayan bir ittifakın işlediği Whitehall ve Washington'un karanlık girintilerinde dolaşır. Ölümcül silah tüccarı Richard Onslow Roper'ın yakın çevresine sızmak için Pine'ın kendisi bir suçlu olmalıdır.",
+        "poster": "https://image.tmdb.org/t/p/w500/tOeeCGFoUDP3UrAzs2SvMRKzQtY.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
+        "year": "2016",
+        "rating": 7.7,
+        "genres": [
+            "Dram",
+            "Gizem",
+            "Suç"
+        ],
+        "categories": [
+            "Tümü",
+            "Amazon Prime",
+            "Kanopy",
+            "BBC One"
+        ],
+        "cast": [
+            {
+                "name": "Tom Hiddleston",
+                "role": "Jonathan Pine",
+                "image": "https://image.tmdb.org/t/p/w200/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+            },
+            {
+                "name": "Hugh Laurie",
+                "role": "Richard Roper",
+                "image": "https://image.tmdb.org/t/p/w200/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+            },
+            {
+                "name": "Diego Calva",
+                "role": "Teddy Dos Santos",
+                "image": "https://image.tmdb.org/t/p/w200/k5khi8PwsYs2d7uL0uuO5zenL9R.jpg"
+            },
+            {
+                "name": "Camila Morrone",
+                "role": "Roxana Bolaños",
+                "image": "https://image.tmdb.org/t/p/w200/2Req1uGHE7T48PMwXCWL6PT3VKQ.jpg"
+            },
+            {
+                "name": "Paul Chahidi",
+                "role": "Basil Karapetian",
+                "image": "https://image.tmdb.org/t/p/w200/gwQ5MfY68BvvyIbef3kr2XPilTx.jpg"
+            },
+            {
+                "name": "Hayley Squires",
+                "role": "Sally Price-Jones",
+                "image": "https://image.tmdb.org/t/p/w200/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
+            },
+            {
+                "name": "Indira Varma",
+                "role": "Mayra Cavendish",
+                "image": "https://image.tmdb.org/t/p/w200/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+            },
+            {
+                "name": "Unax Ugalde",
+                "role": "Juan Carrascal",
+                "image": "https://image.tmdb.org/t/p/w200/t4jKbvmXSjMBnZZjNZEr3P46q6s.jpg"
+            },
+            {
+                "name": "Diego Santos",
+                "role": "Martín Álvarez",
+                "image": ""
+            },
+            {
+                "name": "Slavko Sobin",
+                "role": "Viktor",
+                "image": "https://image.tmdb.org/t/p/w200/rynYUXrsjQ8fjVo7H82VP49qrGt.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Arap Baharının doruk noktasında Kahire'de, otel gece müdürü Jonathan Pine, zarif, çevresi geni? bir misafirden yardım talebi alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4ng5mLHyrxMI8zRHoSJJqplNkmc.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Bir Akdeniz adası olan Mayorka'da, Roper'ın lüks ve sakin hayatı parçalanmaktadır. Alt ay öncesinde, Burr Pine'ı yetiştirmeye devam ediyor ve onu, Devon'a sahte özgeçmişini oluşturmak üzere gönderiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hRjoOwWuFzZijYRbmB8yXSvKJIz.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Roper'ın villasını yenilemeye devam ederken, Pine ev halkının diğer üyelerinin sırlarını araştırmaya başlıyor. Bu sırada, Burr ve Steadman yeni bir değer kazanma fırsatını değerlendiriyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/v0UGr8jALT2YE2SZEtYHsxBhHmC.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Roper, Corky'yi dışarıda bırakarak Pine'ı yakın çevresine kabul ediyor. Bu sırada, önemli bir bilginin River House'a sızdırılması sebebiyle Burr'ün kaynağına iliş?kin kaygıları oluşuyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/51H0MmEvnO0bXh6k4FWiasHTscz.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Şüphelenen Roper'ın, tayfasını toplayarak haini ortaya çıkarmaya çalışması Pine'ı tehlikeli bir oyun oynamaya itiyor. Londra'da Burr ve Steadman hükümet tarafında güçlenen bir muhalefetle yüzleşiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/r6z5AsiwK9Er0z0LbSxLJIAtmU4.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Roper ve takımı anlaşma için Kahire'ye dönüyor, Pine eski bir düşmanla birleşiyor. Pine, planını hayata geçirmek için her şeyi riske atıyor. İtibarını yitiren Burr son hamlesini yapıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fYXi80kLHo96Yq28QrpuRx01C0I.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1399664/s1/e06"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "2026. Jonathan Pine, Mısır'da Richard Roper'ı kandırıp onu tutsak eden Suriyelilerin eline teslim edeli dokuz yıl olmuştur. Artık Roper ölü, Jonathan Pine ise Alex Goodwin adıyla MI6'te düşük rütbeli bir istihbarat ajanıdır. Pine, Londra'da eski bir Roper paralı askeriyle karşılaşınca yeni güvenli hayatı paramparça olmaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cSlQHQ8oah5yrMrgzl93FuYhppi.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt1399664/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Pine kaçak durumda yeni bir kimliğe bürünür. Matthew Ellis adıyla Kolombiya'ya gidip Teddy Dos Santos'un operasyonuna sızar ve Cartagena'ya yapılacak sevkiyatın gizemini ortaya çıkarmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qLi8AHz6CD0uhd8FZ74aClHATqc.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt1399664/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Pine, Roxana'nın yardımıyla daha derinlere sızar, Teddy'nin güvenini kazanır ve Cartagena sevkiyatını gizli Britanya istihbarat çıkarlarıyla ilişkilendirmek için ihtiyaç duyduğu kanıtı elde eder. Ama işler ters gitmeye başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3RJzYuH7llNUDiwaAkksVhdiR0N.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt1399664/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Pine, Kolombiya hükümetini devirmeye yönelik Britanya destekli planı açığa çıkaracak kanıtı ele geçirmiştir. Ama Teddy artık Matthew Ellis'e güvenmez, Roxana tehdit altındadır ve ölümcül yerel silah tüccarı Gilberto Hanson Pine'ın peşindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4ne2Z5JZCv8CPQPIHtfDOZcFYER.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt1399664/s2/e04"
+            }
+        ],
+        "update_date": "2026-02-15 02:26:58"
     }
 ]
