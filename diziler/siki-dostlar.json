@@ -5,19 +5,19 @@
     "original_name": "Friends",
     "overview": "1990'ların Manhattan'ında iş hayatının, aşkın ve gündelik yaşamın zorluklarıyla uğraşan 20'li yaşlarda üçü kadın, üçü erkek altı kişilik yakın arkadaş grubunun komik maceraları.",
     "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/ykDYy50mHU52PqYEu4xiFFOw5mw.jpg",
     "year": "1994",
     "rating": 8.4,
     "genres": [
         "Komedi"
     ],
     "categories": [
+        "HBO Max",
         "Tümü",
         "NBC",
-        "Amazon Prime",
         "TBS",
-        "HBO Max",
-        "YouTube TV"
+        "YouTube TV",
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -28,7 +28,7 @@
         {
             "name": "Courteney Cox",
             "role": "Monica Geller",
-            "image": "https://image.tmdb.org/t/p/w200/yA8dicwtcVuxG3gh94QsaRb5gNb.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/cSOORhCRPJiwKghozXVXrOBi3Tp.jpg"
         },
         {
             "name": "Lisa Kudrow",
@@ -2105,5 +2105,5 @@
             "link": "https://vidmody.com/vs/tt0108778/s10/e17"
         }
     ],
-    "update_date": "2026-02-14 10:01:59"
+    "update_date": "2026-02-28 10:27:37"
 }
