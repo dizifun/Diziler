@@ -1,0 +1,2373 @@
+{
+    "id": "star_soframiz",
+    "imdb_id": "star_soframiz",
+    "name": "Soframız",
+    "original_name": "Soframız",
+    "overview": "Star TV PROGRAM İçeriği",
+    "poster": "https://media.startv.com.tr/star-tv/images/489f237c431180013eb5070c.jpg",
+    "backdrop": "https://media.startv.com.tr/star-tv/images/489f237c431180013eb5070c.jpg",
+    "year": "2026",
+    "rating": 10.0,
+    "genres": [
+        "Yerli",
+        "Program"
+    ],
+    "categories": [
+        "Star TV",
+        "Program",
+        "Yerli"
+    ],
+    "cast": [],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 266,
+            "name": "266. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/3d5ee671429cb8d21ca2fcba.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36066_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 267,
+            "name": "267. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/507caa754e05a8e1fb3f49e0.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36068_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 268,
+            "name": "268. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/59515f0a44ea9e56193333f5.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36069_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 269,
+            "name": "269. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d2206a3f4068989e32b36626.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36075_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 270,
+            "name": "270. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/2e56421d477b9c7493242a34.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36116_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 272,
+            "name": "272. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/280adc37416fbd3036459e53.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36183_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 273,
+            "name": "273. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/006527f14becb830ae9ef19f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36207_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 274,
+            "name": "274. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/6fad6af34114b4d657f49353.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36212_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 275,
+            "name": "275. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ec1c73144fa0889d185aa759.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36279_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 276,
+            "name": "276. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/10714ef44a45918296393a41.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36292_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 277,
+            "name": "277. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/6d6c5ee448c88a43902328b7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36309_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 278,
+            "name": "278. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/6f6b64bf497490647051172f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36353_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 279,
+            "name": "279. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/82e9684241cfb88f30af5593.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36416_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 280,
+            "name": "280. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/62515bd04833acc00d5bdfcb.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36461_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 281,
+            "name": "281. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/57d31cb5402ea531535ee9a5.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36506_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 282,
+            "name": "282. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ab4c4b6d4b378f421a23d3f7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36533_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 283,
+            "name": "283. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9eea3be446bf8573fc1244b4.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36562_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 284,
+            "name": "284. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/a2cf224a4a949c87a1652718.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36610_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 285,
+            "name": "285. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/dfefd3494a8aa5f76100c6b4.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37135_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 286,
+            "name": "286. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/df1245e2444993546236e177.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37146_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 287,
+            "name": "287. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/97871ccf4f6fbc9c82fe0a3c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37159&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 288,
+            "name": "288. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/1d85ef8448738f8d1c03e809.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37179_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 289,
+            "name": "289. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/29c2c069486097778fc7707a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37206_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 290,
+            "name": "290. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/1db0d0dd471a9adadc69f53a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37229_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 291,
+            "name": "291. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d5dc248d4c8cb01baab4ed7c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37254&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 292,
+            "name": "292. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/36b7a85e4c81b3085db0285f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37270_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 293,
+            "name": "293. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/c78ad3234374b3a8fd7520cc.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37277_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 294,
+            "name": "294. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/531cbf434fc3983f6e4cfa9a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37295_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 295,
+            "name": "295. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/00b1b5e14b8cb242fa54b74f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37340_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 296,
+            "name": "296. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/aba54794454486c5a10bdd11.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37374_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 297,
+            "name": "297. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/648dcc5d403e80f11fba5d0a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37394_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 298,
+            "name": "298. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/f74695a8401fa759936cddd7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37422_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 299,
+            "name": "299. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/aee426df42f6b93ef87b22cd.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37452_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 300,
+            "name": "300. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/67d4602b45e7ba66c775e3e2.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37480_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 301,
+            "name": "301. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/2e54b0e547abb84cbc5ec27b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37501_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 302,
+            "name": "302. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/970669aa4bd0ad1c1949d94c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37526_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 303,
+            "name": "303. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/0e5aab1e45e093ae66ef5b07.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37543_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 304,
+            "name": "304. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/eabdf2994bed865d91ca9166.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37576_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 305,
+            "name": "305. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/340d106f43b58e9cd123932b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37604_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 306,
+            "name": "306. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/4575bb6244859608e3fece86.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37630_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 307,
+            "name": "307. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d7cc83cf4d1b9b621157e546.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37647_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 308,
+            "name": "308. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/95b955e944108b0810f60768.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37667_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 309,
+            "name": "309. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/2a9a92ea44868d7b03d9e764.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37695_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 310,
+            "name": "310. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9ed517c84f57a50241824ad6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37710_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 311,
+            "name": "311. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/aa419c6941d99d78729d3122.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37727_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 312,
+            "name": "312. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/62c3eb6b4e2d8ebfe3759fed.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37747_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 313,
+            "name": "313. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d9efc0da4a199181be0b174e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37752_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 314,
+            "name": "314. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/1e0c6b7a43588a9466d22b6a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37776_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 315,
+            "name": "315. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/475419ef49919bb9f7805c60.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37801_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 316,
+            "name": "316. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/519a8eb04bf38396bfe0141b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37805_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 317,
+            "name": "317. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/b330b28f45389b20101001d6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37821_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 318,
+            "name": "318. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/dcf8aebd4860bae69da9a370.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37829_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 319,
+            "name": "319. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/3823c0344eb08b429eeca55c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37851_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 320,
+            "name": "320. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8ba4ac6344dfb8f469bd9dc4.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37860_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 321,
+            "name": "321. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/aa4e0769447989eb90e1a759.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37881_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 322,
+            "name": "322. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/499d6056469dbfaa233731e7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37908_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 323,
+            "name": "323. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/6dde990f47c1b3753867b42e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37930_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 324,
+            "name": "324. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9e6115504354b5d46f3137e3.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37968_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 325,
+            "name": "325. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/669a51b84a4aa46aaeff3636.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37985_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 326,
+            "name": "326. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/41e3e8b64d30a62ae76b0a06.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38001_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 327,
+            "name": "327. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/c7716e274bf082938e27505d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38055_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 328,
+            "name": "328. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/79b0990849ff8a4b6ec8b3fe.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38064_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 329,
+            "name": "329. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d3e8811449a8a5acf0a18546.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38110_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 330,
+            "name": "330. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ccd45c164378ad588afa287d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38130_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 331,
+            "name": "331. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/37d2142a48a1b854180335b8.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38143_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 332,
+            "name": "332. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/833ae6624da8b498d5005ef0.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38172_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 333,
+            "name": "333. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9be68b1f4804810ef29d559b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38201_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 334,
+            "name": "334. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/778de8a64037a6dedbda4caf.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38228_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 335,
+            "name": "335. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d7f2b4074d2ab7171bf546c0.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38256_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 336,
+            "name": "336. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/1ca807bb420b9eb52d427fc6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38280_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 337,
+            "name": "337. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/596c746e4675bd8058f62f23.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38310_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 338,
+            "name": "338. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/60328d9441b583aacbf2a83f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38351_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 339,
+            "name": "339. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7fa9d4da453bb4a132dd71b5.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38376_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 340,
+            "name": "340. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/65b7bc1a4c8ba3a4c48e4917.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38400_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 341,
+            "name": "341. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/bcf649c64300a6527551d0ce.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38423_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 342,
+            "name": "342. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/229a7b3740ba99d6a61aed6a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38448_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 343,
+            "name": "343. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/a38516834d39be8099bf00d4.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38468_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 344,
+            "name": "344. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/f467a4594e6abfaeea274ffd.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38507_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 345,
+            "name": "345. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/2820d67a44f78032e7265826.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38541_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 346,
+            "name": "346. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/90f387dc4036b0de2fe68c3e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38549_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 347,
+            "name": "347. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/134050b84731a6a7c50d0ed6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38581_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 348,
+            "name": "348. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/533b251c483499472eedee6e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38607_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 349,
+            "name": "349. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/597d5fcd4e6b9c1c46e35350.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38648_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 350,
+            "name": "350. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/33a427e54020ae40204a0179.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38694_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 351,
+            "name": "351. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/888ca5474bf796e1d95dfffb.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38712_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 352,
+            "name": "352. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/71efcf334be6a6e1305b5dc8.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38713_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 353,
+            "name": "353. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/e33ed463410ab01152093d1c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38737_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 354,
+            "name": "354. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cbdaf78445159daf010c5730.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38751_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 355,
+            "name": "355. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/c222d7d04cb9ae0717a3e511.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38770_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 356,
+            "name": "356. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/bfd884314859adc1fdf04bcf.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38798_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 357,
+            "name": "357. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/4e05456641c791f02dadfa9a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38822_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 358,
+            "name": "358. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ccbb7910483893589965e1bc.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38839_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 359,
+            "name": "359. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/e6ac1b6b497d9819e8c417a4.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38880_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 360,
+            "name": "360. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/740e69e448c793e18cd8f241.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38914&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 361,
+            "name": "361. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9bf631d949b0b47bd79eebcb.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38946_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 362,
+            "name": "362. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cb10cab34e65b74ded985ea8.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38965_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 363,
+            "name": "363. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/276b995742189d6c620ee81a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_38988_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 364,
+            "name": "364. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8d606e454167875a9aaa0f41.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39025_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 365,
+            "name": "365. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/74a4eb0e47dda969848d69c3.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39059_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 366,
+            "name": "366. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/f55114e247e2af6ff9b21e51.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39092_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 367,
+            "name": "367. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/e449e8ad42c28f8e36b0f051.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39115_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 368,
+            "name": "368. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/753b0b2041de89c38bb295ed.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39137_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 369,
+            "name": "369. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/16f3bef74471b6f18198258e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39185_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 370,
+            "name": "370. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8b876080485a923e63e79632.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39207_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 371,
+            "name": "371. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7eb1989d4bca971de06821d4.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39239_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 372,
+            "name": "372. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/c738480e49d081fb11f8845b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39251_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 373,
+            "name": "373. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/59355f544073a9cf06b97426.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39302_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 374,
+            "name": "374. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/fbaa085544059e9f6d06155f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39346_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 375,
+            "name": "375. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cbc65b504e2791723aa5a28d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39385_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 376,
+            "name": "376. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/c4c3f75d436abddc2951531f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39398_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 377,
+            "name": "377. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/085e432440faadf87a96b985.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39419_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 378,
+            "name": "378. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/4e47be1543738eb16e86ede6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39440_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 379,
+            "name": "379. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cf4a07134eb2aba6e9fabbfa.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39482_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 380,
+            "name": "380. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/751990024dedbdf7bba69125.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39513_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 381,
+            "name": "381. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cd6c25fd407988653e4786fa.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39539_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 382,
+            "name": "382. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/0bc487714917abba73021725.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39573_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 383,
+            "name": "383. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/29f9381c488aa9e9c583029a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39592_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 384,
+            "name": "384. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/a9d69c21427b8953559bd1f7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39645_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 385,
+            "name": "385. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7453cc714ef7b0203143a411.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39663_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 386,
+            "name": "386. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/05f288da446cbee61c514d1a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39690_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 387,
+            "name": "387. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/f567bb7742aca6b4923c2743.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39717_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 388,
+            "name": "388. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/676225484497bf724ae4cede.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39735_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 389,
+            "name": "389. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/6888f72a4592b088f0eeddaf.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39770_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 390,
+            "name": "390. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/77b495694e82ade38e6c2acb.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39796_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 391,
+            "name": "391. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/da8e8e454273b1eadf3f2e77.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39808_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 392,
+            "name": "392. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/996d6b07437e9f08d32f3728.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39816_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 393,
+            "name": "393. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/19058c22498e940ef6bd675b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39861_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 394,
+            "name": "394. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/5d509ece44ff95bbf39e1476.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39902_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 395,
+            "name": "395. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/efaff9be49aab03647524409.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39944_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 396,
+            "name": "396. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/5464d04b42f1a8b2f653b2a6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39959_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 397,
+            "name": "397. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/56216c654a2c8a455716d453.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39980_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 398,
+            "name": "398. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/5b4061b14b7183d422fe2a5a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_39995_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 399,
+            "name": "399. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8f3517b3419bb6c091a380af.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40096_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 400,
+            "name": "400. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/3868221f4355af272d5d0ed3.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40116_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 401,
+            "name": "401. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/4f80d2504dd381c630dcc084.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40133_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 402,
+            "name": "402. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d34e50fa4614946628356578.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40159_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 403,
+            "name": "403. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/80631fad4276888aa1ee60f1.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40185_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 404,
+            "name": "404. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ef21a05a40d8b7d8d694f68a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40229_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 405,
+            "name": "405. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/e363b5a04c0aa04b346ec7ce.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40254_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 406,
+            "name": "406. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/6bda3f9e4ae6be370e2de0fe.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40277_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 407,
+            "name": "407. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/384ef60944ba84e5d4604b60.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40316_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 409,
+            "name": "409. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/0b07a56f46f2aaf87d8f5c48.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40358_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 410,
+            "name": "410. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/3244689a49b5b4d6224a5b9c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40393_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 411,
+            "name": "411. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/700f740c4bb6b7283aa2d356.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40394_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 412,
+            "name": "412. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/059172594e9ebf9b4fa952e1.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40421_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 413,
+            "name": "413. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/23c87a60415da40c5f077508.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40464_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 414,
+            "name": "414. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7d41eb314280a8a806a015bf.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40494_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 415,
+            "name": "415. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9bbb23594958865df57ff57e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40495_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 416,
+            "name": "416. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/fa8415514fd2aedbd635324d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40539_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 417,
+            "name": "417. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/87648e5d409191d289edb6c7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40606_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 418,
+            "name": "418. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/f2c234ad419cb73156a7b267.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40623_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 419,
+            "name": "419. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9b948d064a7696908c6567d6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40647_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 420,
+            "name": "420. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/30abb4c145379ce5430effb1.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40676_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 421,
+            "name": "421. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/61fb553b475bb819ed1f5ba7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40690_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 422,
+            "name": "422. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/0fb5e22e41d9a4710e67b34a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40742_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 423,
+            "name": "423. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/2f4765a646fdb899fe95dc75.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40780_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 424,
+            "name": "424. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/91ca2a1f49d3807446096eab.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40815_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 425,
+            "name": "425. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/82726c1b4290b22ec4bff69e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40839_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 426,
+            "name": "426. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/2ca95de7408e984d844cc0b2.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40864_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 427,
+            "name": "427. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/b301f78747c78af031b220d2.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40884_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 428,
+            "name": "428. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8635b5e24e0095ab16bc0122.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40934_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 429,
+            "name": "429. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/0aa310944c7096bda51bb01c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40995_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 430,
+            "name": "430. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9f861f9c4d859f7a0cd2de72.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41022_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 431,
+            "name": "431. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/16245e7d43989e298c3c848b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41042_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 432,
+            "name": "432. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/f4f5ce624415b9bd92580d8d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41088_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 433,
+            "name": "433. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ac9654a442d0b15765ef8dea.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41144_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 434,
+            "name": "434. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/66d33b604a0db0393dbdd62b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41182_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 435,
+            "name": "435. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d90b60714787844d4e675743.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41208_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 436,
+            "name": "436. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/6e9796bc47dea53b5838d788.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41241_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 437,
+            "name": "437. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/b1cc102d46e291fc11117e44.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41270_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 438,
+            "name": "438. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/2e0e98af478798da370c5598.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41301_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 439,
+            "name": "439. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/a34b0c33417783d49bdfc04a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41344_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 440,
+            "name": "440. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ca4e210a44beac1e6e139c06.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41370_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 441,
+            "name": "441. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9a96b20b4f579c8027ab9cbe.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41388_p1&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 442,
+            "name": "442. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ab5ffedf490c85525922e34b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45195&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 443,
+            "name": "443. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7ad184c243f6b40b51e2059d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45234&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 444,
+            "name": "444. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/5070ea2e4653a1ae4445e853.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45259&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 445,
+            "name": "445. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/a69653a0421097006a145119.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45281&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 446,
+            "name": "446. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/e248cf954aa5a08bd0c53a94.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45326&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 447,
+            "name": "447. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7f85bd4a4721ad51141748f2.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45368&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 448,
+            "name": "448. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/2b1b8b3b410d8703fa774a82.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45409&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 449,
+            "name": "449. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/47805350423a9fe4d5e75e2f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45423&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 450,
+            "name": "450. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/41823dd04e13b4f828fe5135.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45425&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 451,
+            "name": "451. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7d7dc3f541378b666dc22e63.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45427&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 452,
+            "name": "452. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/c45681c04152b685f5a2bdce.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45623&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 453,
+            "name": "453. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/0a59aa8e4e358fe0f3386866.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45626&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 454,
+            "name": "454. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/aabb30dd4aafb0a9e21c3d6a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45655&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 455,
+            "name": "455. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cd0329844f589a7027db7317.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45665&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 456,
+            "name": "456. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/213d9f664da388c335ade8a7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45666&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 457,
+            "name": "457. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/2f39e063400eaec707e940f3.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45800&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 458,
+            "name": "458. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/e9c3f3ca4b318ca2edba2243.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45801&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 459,
+            "name": "459. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/f10c695442a0bab31675bac7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45836&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 460,
+            "name": "460. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8a54e709460a84e7de188932.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45863&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 461,
+            "name": "461. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/46039f87442d8c257ddb18b9.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45887&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 462,
+            "name": "462. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/3ff556214481bc01739b4e53.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45984&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 463,
+            "name": "463. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/1eb6ef91450cb903eb340826.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46009&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 464,
+            "name": "464. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/21393a434d5c93de4549742c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46025&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 465,
+            "name": "465. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9bf7557742b48f19dc2969c4.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46055&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 466,
+            "name": "466. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/24188185434aa870a1c55b35.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46078&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 467,
+            "name": "467. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/463d6c0542ef80552d76ccac.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46166&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 468,
+            "name": "468. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7acc127a4e5083c32cb480bc.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46193&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 469,
+            "name": "469. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/e1ff6d3d458b855697dc4750.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46217&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 470,
+            "name": "470. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/08cdb89a4da1be62d6d10f4d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46233&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 471,
+            "name": "471. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/dd864c9d4e8d8392961f5cd2.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46253&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 472,
+            "name": "472. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/042f87da4cd390b36965fba8.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46349&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 473,
+            "name": "473. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/3483b3e84c4095767a8a79d6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46384&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 474,
+            "name": "474. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/296c0bd741578ab0eedb8dc6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46404&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 475,
+            "name": "475. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/105208ff4a0aaf96c5374c58.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46416&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 476,
+            "name": "476. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/c7674808486d86b53797da4c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46417&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 477,
+            "name": "477. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/e860b1524500a47c782a9a92.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46529&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 478,
+            "name": "478. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/485164704b4abd331619601d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46562&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 479,
+            "name": "479. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/696fa60646deafcc18834711.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46586&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 480,
+            "name": "480. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/de88ae9f4a7c926f4a9204ed.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46611&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 481,
+            "name": "481. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/60e7006b4d8b8e29ba3bdb66.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46624&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 482,
+            "name": "482. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/e18e7926475fa32075360a8f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46734&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 483,
+            "name": "483. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/16f091774b54ac8a3369cfae.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46757&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 484,
+            "name": "484. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/08b5c03b42238576054eae5a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46776&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 485,
+            "name": "485. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/48c71bb84ef195b0411b9efd.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46798&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 486,
+            "name": "486. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9b98c98b43f9872ea61d313e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46816&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 487,
+            "name": "487. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/bd868a04460f9b6e0d17bb21.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46893&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 488,
+            "name": "488. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/c49a14924ad785a8679e3a37.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46929&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 489,
+            "name": "489. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/fd816bf246aa8aa16498c07d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46948&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 490,
+            "name": "490. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/abd3b4bf490fb4870f0616fb.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46982&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 491,
+            "name": "491. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/48ff5c2e46b3ad2430b65407.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47069&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 492,
+            "name": "492. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9ff840b84ad1bc03564da7e9.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47085&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 493,
+            "name": "493. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/32457928440ea0cea45dba8a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47109&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 494,
+            "name": "494. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8b388b924831b9f6fdd67a7a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47121&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 495,
+            "name": "495. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/195e3a524d56b1911e3ef238.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47146&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 496,
+            "name": "496. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/b09a51694e61858f6f91cf86.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47215&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 497,
+            "name": "497. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/34f7f8ea41e99124140d8207.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47233&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 498,
+            "name": "498. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/0923ac334b09a5ee41f5343e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47256&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 499,
+            "name": "499. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/96087ea74ca093c7a1bf1679.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47271&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 500,
+            "name": "500. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/531508054a30b9169322b9c5.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47304&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 501,
+            "name": "501. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/15caa76a410f81dc50dfea3c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47349&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 502,
+            "name": "502. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/907a14d54cf19e63bb7064f0.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47367&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 503,
+            "name": "503. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8b9625474db090098b0f4f2f.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47923&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 504,
+            "name": "504. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/385dc1e840778ce527070f03.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47936&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 505,
+            "name": "505. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/604b4ac843ef9610630451a1.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47950&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 506,
+            "name": "506. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/a0e5d60640d6a30b523313fb.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47958&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 507,
+            "name": "507. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cf719af14949a5b4816ffa7c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47966&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 508,
+            "name": "508. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/483115b940bc8bfd6e789e95.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48023&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 509,
+            "name": "509. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/0ac3fe184c22b260a860993b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48052&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 510,
+            "name": "510. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cfdd9fe44066baba69dc4125.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48067&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 511,
+            "name": "511. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/039b831b4c86ae62d8250523.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48075&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 512,
+            "name": "512. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/f64102b4422bb5401b9d468e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48101&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 513,
+            "name": "513. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/655f85de4fd3877b54a3acb5.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48157&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 514,
+            "name": "514. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7ffea25349a5a299a74627f0.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48180&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 515,
+            "name": "515. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8e84eb4042f4919d262e0186.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48199&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 516,
+            "name": "516. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/53d821ae4dc8916a3ac9742d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48216&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 517,
+            "name": "517. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/bc3ddb7947aa87c510501499.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48236&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 518,
+            "name": "518. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/b914830148e19c3d66e98ab1.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48294&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 519,
+            "name": "519. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/78d81e544376b515e7203a1d.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48321&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 520,
+            "name": "520. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/a3126b17489eb5fde1d406b4.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48335&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 521,
+            "name": "521. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/a90f22894e99b1d1af245363.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48374&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 522,
+            "name": "522. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d231bd824c94a7e1d1117f2c.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48384&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 523,
+            "name": "523. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/fc95456c48a0973a91b9553a.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48459&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 524,
+            "name": "524. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/a44960bb4a58baccd95d05d7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48481&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 525,
+            "name": "525. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/aa61207d4e27a1d1cae70029.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48507&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 526,
+            "name": "526. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/4c5d842541a7938bbbf0b6ed.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48521&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 527,
+            "name": "527. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/165cb43c43ce86881e4503a6.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48556&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 528,
+            "name": "528. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/c8d7ddef4d91885a0b0beee7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48557&SecretKey=NtvApiSecret2014*&.m3u8"
+        }
+    ],
+    "update_date": "2026-02-28 06:54:36"
+}

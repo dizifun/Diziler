@@ -1,0 +1,321 @@
+{
+    "id": "star_vahe-ile-tatildeki-mutluluk",
+    "imdb_id": "star_vahe-ile-tatildeki-mutluluk",
+    "name": "Vahe ile Tatildeki Mutluluk",
+    "original_name": "Vahe ile Tatildeki Mutluluk",
+    "overview": "Star TV PROGRAM İçeriği",
+    "poster": "https://media.startv.com.tr/star-tv/images/3f9516914b60b73d51cbf223.jpg",
+    "backdrop": "https://media.startv.com.tr/star-tv/images/3f9516914b60b73d51cbf223.jpg",
+    "year": "2026",
+    "rating": 10.0,
+    "genres": [
+        "Yerli",
+        "Program"
+    ],
+    "categories": [
+        "Star TV",
+        "Program",
+        "Yerli"
+    ],
+    "cast": [],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/56bb9ed5415bb65dd4e5c066.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93650&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "name": "3. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/74a2aae24920a8ac41d7e5e7.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93667&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/279e86b94cd79909b5c53dd4.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93703&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/4aa096d941b081f7ee95ab67.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93726&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/444ff79543ddaab66f7b0594.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93756&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ab275cff4dfd9ec34230d4de.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93782&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9d7cbfad43269432b2d9940b.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93798&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/d386a2824ff5bf11e772f56e.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93816&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "name": "10. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/22a566d64d81839e0a6727ac.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93843&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "name": "11. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/1cc61e454f9b8d58474aeadf.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93871&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "name": "12. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/vaheiletatildekimutlulukbolum12.mxf_snapshot_01.34.40.541.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66755eedd73db36d4e8e21b9&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "name": "13. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/kuisadasi.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_667eb5da706c304bcbfe957d&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 14,
+            "name": "14. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cahha.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6688010ab3435723dc759798&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 15,
+            "name": "15. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/vahe-1920.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66911babb3435723dc7598d9&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 16,
+            "name": "16. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/vahe-ile-tatildeki-mutluluk.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_669a26df197342ccbaadf5b2&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 17,
+            "name": "17. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/sas.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66a3656e197342ccbaadf715&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 18,
+            "name": "18. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/asd(4).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66ac925c197342ccbaadf8aa&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 19,
+            "name": "19. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/antalya(2).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66b6248f197342ccbaadfb44&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 20,
+            "name": "20. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/vahe(6).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66bef2957f1df9cf36a27ae2&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 21,
+            "name": "21. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/vahe-21.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66c6ca387f1df9cf36a27cbc&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 22,
+            "name": "22. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/bayrak.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66cde1e0c569704016a4b10d&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 23,
+            "name": "23. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/adana.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66d810c5f4586acd1d456570&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 24,
+            "name": "24. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/vetb12.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_685e3376f125b69f03b7c059&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 25,
+            "name": "25. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/tm.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6867b1f9f125b69f03b7c1ed&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 26,
+            "name": "26. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/vakr.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_68710ea6f125b69f03b7c4ae&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 27,
+            "name": "27. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/asdsa.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_687a510f6b7ac0743eaff31a&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 28,
+            "name": "28. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/aass(3).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_68834046fe789e463b3a58dd&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 29,
+            "name": "29. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/3333(3).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_688c7106fe789e463b3a5a4a&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 30,
+            "name": "30. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/30.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_68958bac60681b44f211c918&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 31,
+            "name": "31. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/80(2).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_689ef25560681b44f211d004&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 32,
+            "name": "32. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/tr.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_68a84acafc2fd3e9bb58ec58&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 33,
+            "name": "33. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/urfa.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_68b2a5fd3b6d5a8c22d49595&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 34,
+            "name": "34. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/vahe(11).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_68baa1a9f938f782d36506d3&SecretKey=NtvApiSecret2014*&.m3u8"
+        }
+    ],
+    "update_date": "2026-02-28 06:52:10"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "star_vahe-deprem-bolgesinde",
+    "imdb_id": "star_vahe-deprem-bolgesinde",
+    "name": "Vahe Deprem Bölgesinde",
+    "original_name": "Vahe Deprem Bölgesinde",
+    "overview": "Star TV PROGRAM İçeriği",
+    "poster": "https://media.startv.com.tr/star-tv/images/e53e7f3e4cc79fb7314f97c5.jpg",
+    "backdrop": "https://media.startv.com.tr/star-tv/images/e53e7f3e4cc79fb7314f97c5.jpg",
+    "year": "2026",
+    "rating": 10.0,
+    "genres": [
+        "Yerli",
+        "Program"
+    ],
+    "categories": [
+        "Star TV",
+        "Program",
+        "Yerli"
+    ],
+    "cast": [],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/f4195bcf41e7a09848bb9d31.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c2d4f7378a107c1f6246&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "name": "2. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/3f784bf040228e45333217af.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c2d6f7378a107c1f6248&SecretKey=NtvApiSecret2014*&.m3u8"
+        }
+    ],
+    "update_date": "2026-02-28 06:53:43"
+}

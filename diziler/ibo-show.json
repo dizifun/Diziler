@@ -1,0 +1,33 @@
+{
+    "id": "star_ibo-show",
+    "imdb_id": "star_ibo-show",
+    "name": "İbo Show",
+    "original_name": "İbo Show",
+    "overview": "Star TV PROGRAM İçeriği",
+    "poster": "https://media.startv.com.tr/star-tv/images/starweb1242_1730px(16).jpg",
+    "backdrop": "https://media.startv.com.tr/star-tv/images/starweb1242_1730px(16).jpg",
+    "year": "2026",
+    "rating": 10.0,
+    "genres": [
+        "Yerli",
+        "Program"
+    ],
+    "categories": [
+        "Star TV",
+        "Program",
+        "Yerli"
+    ],
+    "cast": [],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 2026,
+            "name": "2026. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/ibo-show(4).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_695512e2d77667c35593da36&SecretKey=NtvApiSecret2014*&.m3u8"
+        }
+    ],
+    "update_date": "2026-02-28 06:53:46"
+}
