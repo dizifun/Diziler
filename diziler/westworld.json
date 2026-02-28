@@ -13,8 +13,8 @@
         "Vahşi Batı"
     ],
     "categories": [
-        "Tümü",
-        "HBO"
+        "HBO",
+        "Tümü"
     ],
     "cast": [
         {
@@ -35,7 +35,7 @@
         {
             "name": "Tessa Thompson",
             "role": "Charlotte Hale",
-            "image": "https://image.tmdb.org/t/p/w200/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
         },
         {
             "name": "Aaron Paul",
@@ -389,5 +389,5 @@
             "link": "https://vidmody.com/vs/tt0475784/s4/e08"
         }
     ],
-    "update_date": "2026-02-14 19:48:04"
+    "update_date": "2026-02-28 20:14:18"
 }
