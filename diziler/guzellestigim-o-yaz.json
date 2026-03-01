@@ -12,8 +12,8 @@
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Amazon Prime",
+        "Tümü",
         "Prime Video"
     ],
     "cast": [
@@ -30,7 +30,7 @@
         {
             "name": "Gavin Casalegno",
             "role": "Jeremiah Fisher",
-            "image": "https://image.tmdb.org/t/p/w200/fA2CvlpvJFoX68nOX1hv9Ab8hg2.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/snYCYm31OniXr024HUcomunYpjV.jpg"
         },
         {
             "name": "Sean Kaufman",
@@ -294,5 +294,5 @@
             "link": "https://vidmody.com/vs/tt14016500/s3/e11"
         }
     ],
-    "update_date": "2026-02-15 02:27:38"
+    "update_date": "2026-03-01 23:06:55"
 }
