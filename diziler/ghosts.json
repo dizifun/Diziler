@@ -12,17 +12,17 @@
         "Komedi"
     ],
     "categories": [
-        "Paramount Plus Essential",
-        "Paramount Plus Premium",
-        "Spectrum On Demand",
-        "Tümü",
-        "Paramount+ Roku Premium Channel",
         "CBS",
-        "YouTube TV",
+        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Essential",
+        "Spectrum On Demand",
         "Amazon Prime",
+        "YouTube TV",
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV Channel",
+        "Tümü",
         "fuboTV",
-        "TOD TV",
-        "Paramount Plus Apple TV Channel"
+        "TOD TV"
     ],
     "cast": [
         {
@@ -798,5 +798,5 @@
             "link": "https://vidmody.com/vs/tt11379026/s5/e08"
         }
     ],
-    "update_date": "2026-02-28 23:58:43"
+    "update_date": "2026-03-01 20:01:39"
 }
