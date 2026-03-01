@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Spectrum On Demand
+#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/qJomU9FjJAX8QVZoeV9yTLSmStf.jpg", [7.4] Sweetpea S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt11218290/s1/e01
+#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/c8yEdRGtXDGjMNSqgwqGML8TlJw.jpg", [7.4] Sweetpea S01E02 - 2. Bölüm
+https://vidmody.com/vs/tt11218290/s1/e02
+#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/aq4l5gOWU6sFAHcgRQfe8UDUfQf.jpg", [7.4] Sweetpea S01E03 - 3. Bölüm
+https://vidmody.com/vs/tt11218290/s1/e03
+#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/am33xvjzvbjc3vFE0ULeFF5cpL5.jpg", [7.4] Sweetpea S01E04 - 4. Bölüm
+https://vidmody.com/vs/tt11218290/s1/e04
+#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/n7uomMnQLFns1JF8QEOkFKif3Lw.jpg", [7.4] Sweetpea S01E05 - 5. Bölüm
+https://vidmody.com/vs/tt11218290/s1/e05
+#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg", [7.4] Sweetpea S01E06 - 6. Bölüm
+https://vidmody.com/vs/tt11218290/s1/e06
 #EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg", [6.0] Soulmates S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt10394844/s1/e01
 #EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg", [6.0] Soulmates S01E02 - 2. Bölüm
@@ -246,18 +258,6 @@ https://vidmody.com/vs/tt11379026/s5/e06
 https://vidmody.com/vs/tt11379026/s5/e07
 #EXTINF:-1 group-title="Ghosts" tvg-logo="https://image.tmdb.org/t/p/w400/fHcW2Lw9g19LcjWaIDekib7daVU.jpg", [7.9] Ghosts S05E08 - 8. Bölüm
 https://vidmody.com/vs/tt11379026/s5/e08
-#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/qJomU9FjJAX8QVZoeV9yTLSmStf.jpg", [7.4] Sweetpea S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt11218290/s1/e01
-#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/c8yEdRGtXDGjMNSqgwqGML8TlJw.jpg", [7.4] Sweetpea S01E02 - 2. Bölüm
-https://vidmody.com/vs/tt11218290/s1/e02
-#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/aq4l5gOWU6sFAHcgRQfe8UDUfQf.jpg", [7.4] Sweetpea S01E03 - 3. Bölüm
-https://vidmody.com/vs/tt11218290/s1/e03
-#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/am33xvjzvbjc3vFE0ULeFF5cpL5.jpg", [7.4] Sweetpea S01E04 - 4. Bölüm
-https://vidmody.com/vs/tt11218290/s1/e04
-#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/n7uomMnQLFns1JF8QEOkFKif3Lw.jpg", [7.4] Sweetpea S01E05 - 5. Bölüm
-https://vidmody.com/vs/tt11218290/s1/e05
-#EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg", [7.4] Sweetpea S01E06 - 6. Bölüm
-https://vidmody.com/vs/tt11218290/s1/e06
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/6VKsznJrIq1q87Hot5EEPuvub1g.jpg", [8.2] FROM S01E01 - Long Day's Journey Into Night
 https://vidmody.com/vs/tt9813792/s1/e01
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/mMGMvT9ldQW6Zd85sRafpJL8IMM.jpg", [8.2] FROM S01E02 - The Way Things Are Now
