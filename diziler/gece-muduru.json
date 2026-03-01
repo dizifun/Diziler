@@ -14,9 +14,9 @@
         "Suç"
     ],
     "categories": [
-        "Tümü",
-        "Amazon Prime",
         "Kanopy",
+        "Amazon Prime",
+        "Tümü",
         "BBC One"
     ],
     "cast": [
@@ -33,12 +33,12 @@
         {
             "name": "Diego Calva",
             "role": "Teddy Dos Santos",
-            "image": "https://image.tmdb.org/t/p/w200/k5khi8PwsYs2d7uL0uuO5zenL9R.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/lZ1sECPft5XHeVn6GFVmGReOWiJ.jpg"
         },
         {
             "name": "Camila Morrone",
             "role": "Roxana Bolaños",
-            "image": "https://image.tmdb.org/t/p/w200/2Req1uGHE7T48PMwXCWL6PT3VKQ.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/3ugYphdHMAYVB1DmH09hQtcLhJ4.jpg"
         },
         {
             "name": "Paul Chahidi",
@@ -163,5 +163,5 @@
             "link": "https://vidmody.com/vs/tt1399664/s2/e04"
         }
     ],
-    "update_date": "2026-02-15 02:26:58"
+    "update_date": "2026-03-01 23:06:10"
 }
