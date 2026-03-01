@@ -5,22 +5,22 @@
     "original_name": "Landman",
     "overview": "Batı Teksas'ın petrol kuleleri dünyasında servet arayışının modern bir hikayesi. Doğanın sınırlarını zorlayan bu dünyada, zenginlik ve güç peşinde verilen mücadele hem kişisel hem de ahlaki bir sınav haline geliyor.",
     "poster": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/q71au2YjcwXBMZKNzNgjK7RZ3Hs.jpg",
     "year": "2024",
     "rating": 8.0,
     "genres": [
         "Dram"
     ],
     "categories": [
-        "Tümü",
-        "Paramount+",
-        "Amazon Prime",
-        "TV+",
-        "Paramount Plus Essential",
-        "Paramount+ Roku Premium Channel",
         "Netflix",
+        "TV+",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+",
+        "Paramount Plus Essential",
+        "Amazon Prime",
+        "Paramount Plus Premium",
         "Paramount Plus Apple TV Channel",
-        "Paramount Plus Premium"
+        "Tümü"
     ],
     "cast": [
         {
@@ -41,7 +41,7 @@
         {
             "name": "Ali Larter",
             "role": "Angela Norris",
-            "image": "https://image.tmdb.org/t/p/w200/2HOlaSd30yBCrr366GfPG2PF6D8.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/5qaQFxx8Az83ycd4LHyQ39HXaEJ.jpg"
         },
         {
             "name": "Jacob Lofland",
@@ -175,5 +175,5 @@
             "link": "https://vidmody.com/vs/tt14186672/s2/e01"
         }
     ],
-    "update_date": "2026-02-15 02:38:33"
+    "update_date": "2026-03-01 23:17:44"
 }
