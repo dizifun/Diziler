@@ -7,7 +7,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
     "year": "2025",
-    "rating": 6.1,
+    "rating": 6.2,
     "genres": [
         "Animasyon",
         "Aksiyon & Macera",
@@ -15,51 +15,10 @@
     ],
     "categories": [
         "Tümü",
-        "Animasyon",
-        "Disney+"
+        "Disney+",
+        "Animasyon"
     ],
-    "cast": [
-        {
-            "name": "Winnie Harlow",
-            "role": "Noni",
-            "image": "https://image.tmdb.org/t/p/w200/gW2RPaNOPcOl3PksCjE8twDsiDd.jpg"
-        },
-        {
-            "name": "Cress Williams",
-            "role": "Nkati / The Lion",
-            "image": "https://image.tmdb.org/t/p/w200/pIOyAg9U0eAUvs8N2Xca7uRKlOe.jpg"
-        },
-        {
-            "name": "Larry Herron",
-            "role": "B'Kai / Memnon",
-            "image": "https://image.tmdb.org/t/p/w200/mihVPLvkS7AQynQM81i4hPXiysJ.jpg"
-        },
-        {
-            "name": "Adam Gold",
-            "role": "Achilles",
-            "image": ""
-        },
-        {
-            "name": "Jacques Colimon",
-            "role": "Basha",
-            "image": "https://image.tmdb.org/t/p/w200/uZchGUV6IcM7HI0sYmTbJMqbLnx.jpg"
-        },
-        {
-            "name": "Jona Xiao",
-            "role": "Jorani / Iron Fist",
-            "image": "https://image.tmdb.org/t/p/w200/bEd5FvgkrZloJ0Vb9A3ijEwEV5f.jpg"
-        },
-        {
-            "name": "Zeke Alton",
-            "role": "Tafari",
-            "image": "https://image.tmdb.org/t/p/w200/2IfNJa7QPwGun8vj0lNyNTzL8MS.jpg"
-        },
-        {
-            "name": "Steve Toussaint",
-            "role": "Kuda",
-            "image": "https://image.tmdb.org/t/p/w200/sNjMpDYLVu6l79iP0olrYDaNlrD.jpg"
-        }
-    ],
+    "cast": [],
     "episodes": [
         {
             "season": 1,
@@ -98,5 +57,5 @@
             "link": "https://vidmody.com/vs/tt13968252/s1/e04"
         }
     ],
-    "update_date": "2026-02-15 02:25:24"
+    "update_date": "2026-03-01 23:04:25"
 }
