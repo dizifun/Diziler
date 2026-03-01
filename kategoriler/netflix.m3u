@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Netflix
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg", [6.0] Soulmates S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e01
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg", [6.0] Soulmates S01E02 - 2. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e02
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/eORILaLSGKaAxWCQKUb8dxeTuCm.jpg", [6.0] Soulmates S01E03 - 3. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e03
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/kkEVadfsqUTwZZqglRZq9eEwEci.jpg", [6.0] Soulmates S01E04 - 4. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e04
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/iv3w2ak7WeUQTcYKrfZVW5rG22Y.jpg", [6.0] Soulmates S01E05 - 5. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e05
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg", [6.0] Soulmates S01E06 - 6. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e06
 #EXTINF:-1 group-title="Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w400/88Z0fMP8a88EpQWMCs1593G0ngu.jpg", [8.9] Breaking Bad S01E01 - Pilot Bölüm
 https://vidmody.com/vs/tt0903747/s1/e01
 #EXTINF:-1 group-title="Breaking Bad" tvg-logo="https://image.tmdb.org/t/p/w400/AbMoecO0ZZio0LcgeLxlzdyGs6X.jpg", [8.9] Breaking Bad S01E02 - Yazı Tura
@@ -232,18 +244,6 @@ https://vidmody.com/vs/tt10795658/s3/e04
 https://vidmody.com/vs/tt10795658/s3/e05
 #EXTINF:-1 group-title="Alice in Borderland" tvg-logo="https://image.tmdb.org/t/p/w400/pqFBVKZq4ooy5bDjN2HnLsKbOJt.jpg", [8.1] Alice in Borderland S03E06 - 6. Bölüm
 https://vidmody.com/vs/tt10795658/s3/e06
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg", [6.0] Soulmates S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e01
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg", [6.0] Soulmates S01E02 - 2. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e02
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/eORILaLSGKaAxWCQKUb8dxeTuCm.jpg", [6.0] Soulmates S01E03 - 3. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e03
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/kkEVadfsqUTwZZqglRZq9eEwEci.jpg", [6.0] Soulmates S01E04 - 4. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e04
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/iv3w2ak7WeUQTcYKrfZVW5rG22Y.jpg", [6.0] Soulmates S01E05 - 5. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e05
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg", [6.0] Soulmates S01E06 - 6. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e06
 #EXTINF:-1 group-title="Run Away" tvg-logo="https://image.tmdb.org/t/p/w400/xh3RgXYMkffe5gn1AfF4Z5z7OQ4.jpg", [6.7] Run Away S01E01 - Görmek İnanmaktır
 https://vidmody.com/vs/tt9169516/s1/e01
 #EXTINF:-1 group-title="Run Away" tvg-logo="https://image.tmdb.org/t/p/w400/xpksVkdxhxw8mjQ1AQcspxqqHbM.jpg", [6.7] Run Away S01E02 - Beklerken Dövme Yapılır
