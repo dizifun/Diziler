@@ -13,17 +13,17 @@
         "Suç"
     ],
     "categories": [
-        "Tümü",
-        "Hulu",
-        "Amazon Prime",
-        "Paramount Plus Essential",
         "CBS",
-        "fuboTV",
         "Paramount+ Roku Premium Channel",
-        "Paramount Plus Apple TV Channel",
         "Disney+",
+        "Paramount Plus Essential",
+        "Amazon Prime",
         "YouTube TV",
-        "Paramount Plus Premium"
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV Channel",
+        "Tümü",
+        "fuboTV",
+        "Hulu"
     ],
     "cast": [
         {
@@ -417,5 +417,5 @@
             "link": "https://vidmody.com/vs/tt13875494/s3/e09"
         }
     ],
-    "update_date": "2026-02-15 02:19:49"
+    "update_date": "2026-03-01 22:58:11"
 }
