@@ -1,5 +1,276 @@
 [
     {
+        "id": 157239,
+        "imdb_id": "tt13623632",
+        "name": "Alien: Earth",
+        "original_name": "Alien: Earth",
+        "overview": "Gizemli derin uzay araştırma gemisi USCSS Maginot'nun Dünya'ya çakılmasıyla Wendy ve bir grup asker, gezegenin en büyük tehdidiyle karşı karşıya gelir.",
+        "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/biIBy2LPOOtGCgUYOls3dUEWU3v.jpg",
+        "year": "2025",
+        "rating": 7.4,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "FX",
+            "Disney+",
+            "Hulu",
+            "Tümü"
+        ],
+        "cast": [
+            {
+                "name": "Sydney Chandler",
+                "role": "Wendy",
+                "image": "https://image.tmdb.org/t/p/w200/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg"
+            },
+            {
+                "name": "Alex Lawther",
+                "role": "Joe DiMaggio Hermit",
+                "image": "https://image.tmdb.org/t/p/w200/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
+            },
+            {
+                "name": "Essie Davis",
+                "role": "Dame Sylvia",
+                "image": "https://image.tmdb.org/t/p/w200/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg"
+            },
+            {
+                "name": "Samuel Blenkin",
+                "role": "Boy Kavalier",
+                "image": "https://image.tmdb.org/t/p/w200/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg"
+            },
+            {
+                "name": "Babou Ceesay",
+                "role": "Kumi Morrow",
+                "image": "https://image.tmdb.org/t/p/w200/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg"
+            },
+            {
+                "name": "Adarsh Gourav",
+                "role": "Slightly",
+                "image": "https://image.tmdb.org/t/p/w200/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg"
+            },
+            {
+                "name": "Erana James",
+                "role": "Curly",
+                "image": "https://image.tmdb.org/t/p/w200/kEfjALq1CIHpfaOHtw6DSzGlIX6.jpg"
+            },
+            {
+                "name": "Lily Newmark",
+                "role": "Nibs",
+                "image": "https://image.tmdb.org/t/p/w200/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg"
+            },
+            {
+                "name": "Jonathan Ajayi",
+                "role": "Smee",
+                "image": "https://image.tmdb.org/t/p/w200/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg"
+            },
+            {
+                "name": "David Rysdahl",
+                "role": "Arthur Sylvia",
+                "image": "https://image.tmdb.org/t/p/w200/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Neverland",
+                "overview": "Bir uzay gemisi Dünya’ya düştüğünde bir kız kardeş, abisini aramaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/d4cydmliyqDZyBWkxkliiED4B0G.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Bay Ekim",
+                "overview": "Rakip şirketler arasında gerilim tırmanırken bir sır ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cdajiwi3frAqI0XIwsCH5q9P8Hu.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Metamorfoz",
+                "overview": "Ekip, davetsiz bir kargoyla eve döner ve rahatsız edici bir deney yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Gözlem",
+                "overview": "Gizli bir komplo herkesi tehlikeye atarken beklenmedik bir bağ kurulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hzE6VJ37veL4p54IicLcI5pDDSJ.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Uzayda Kimse...",
+                "overview": "Uzay boşluğunda tehlikede olan bir gemi, mürettebatı zorlu bir hesaplaşmaya sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hkLVUpJ8HWSAowCxazGDcUOpxLS.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Sinek",
+                "overview": "Güçlü düşmanlar çatışırken gerilim tırmanır ve merak ölümcül sonuçlara yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ppYjI7rPvsZznQr59XzysFUZTsY.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Belirme",
+                "overview": "Bir kaçış planı, tarafların bölünmesine, ihanetlere ve şoke edici bir yüzleşmeye yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Gerçek Canavarlar",
+                "overview": "Güç dengeleri değişiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tssL6QBaKUkdXtmPUidrsREIEX5.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e08"
+            }
+        ],
+        "update_date": "2026-03-01 02:28:45"
+    },
+    {
+        "id": 232125,
+        "imdb_id": "tt13623148",
+        "name": "I Am Groot",
+        "original_name": "I Am Groot",
+        "overview": "Galaksiyi bu yaramaz çocuktan koruyacak kimse yok! Çünkü Bebek Groot, kendi hikayeleriyle geliyor. Bebek Groot, yıldızların arasında büyürken hayatı keşfediyor.",
+        "poster": "https://image.tmdb.org/t/p/w500/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
+        "year": "2022",
+        "rating": 7.1,
+        "genres": [
+            "Animasyon",
+            "Komedi",
+            "Aile",
+            "Bilim Kurgu & Fantazi",
+            "Çocuklar"
+        ],
+        "categories": [
+            "Disney+",
+            "Animasyon",
+            "Tümü"
+        ],
+        "cast": [
+            {
+                "name": "Vin Diesel",
+                "role": "Baby Groot (voice)",
+                "image": "https://image.tmdb.org/t/p/w200/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Bebek Groot ilk adımlarını atar, ancak sonrasında koşmak için yürümeyi öğrenmesi gerektiğini anlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iecIwrRoq1uZfhJ9XRrZD29Zr4R.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Groot, minyatür bir uygarlık bulur ve onlar Groot'u uzun zamandır bekledikleri kahraman zanneder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6pFcTY18M9EpKQEEZZMzVnX4bMF.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Groot, Kuadrant'a dadanan ürkünç bir sesi araştırır, sonra bunun bir dans yarışması olduğunu anlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nv0q5V1vGwRVO4Rv3MOEmniUbWj.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Herkesin banyo yapması gerekir, ancak küçük bir Flora Colossi için işler çok farklı olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/stKeLppDBwscxoE9RXxNyrur27G.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Groot kendinin ve Koruyucular'ın portresini çizer, ama yaparken ne kadar zor olduğunu anlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cnhzecqkKHBIyM4QMbxRy5fbW3l.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt13623148/s1/e05"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Groot'um Musun?",
+                "overview": "Groot tuhaf bir yumurta bulur ve içinden çıkan ufak yaratığı kendi yavrusuymuş gibi benimser.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rJelmgL1yTFfH2PhC3LufMhYQko.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Groot Burnunu Sokar",
+                "overview": "Groot koku alma duyusu kazandığında her şeye burnunu sokmaması gerektiğini öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bf39ykfbUodisUirJXcUbI8bRFe.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Groot'un Karlı Günü",
+                "overview": "Groot hurda eşyalar giydirdiği kardan adamdan ortalığı altüst edecek durdurulamaz bir robot yaratır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6H9lUVRUJyWn7t0VAix83TszrfJ.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Groot'un Şekerlemesi",
+                "overview": "Groot galaksiler arası dondurma kamyonu yaklaşırken bozuk para için geminin altını üstüne getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4PSxBL0Muya07GIteMxJhA4A2iB.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Groot ve Büyük Kehanet",
+                "overview": "Groot kainatı kurtarmak için yerine getirmesi gereken bir kehanetle antik tapınağın göbeğine iner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/o7gblk3nygQh2lEIjCHEdLK3RHA.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt13623148/s2/e05"
+            }
+        ],
+        "update_date": "2026-03-01 02:28:44"
+    },
+    {
         "id": 103540,
         "imdb_id": "tt12324366",
         "name": "Percy Jackson and the Olympians",
@@ -10122,276 +10393,5 @@
             }
         ],
         "update_date": "2026-02-15 02:04:09"
-    },
-    {
-        "id": 157239,
-        "imdb_id": "tt13623632",
-        "name": "Alien: Earth",
-        "original_name": "Alien: Earth",
-        "overview": "Gizemli derin uzay araştırma gemisi USCSS Maginot'nun Dünya'ya çakılmasıyla Wendy ve bir grup asker, gezegenin en büyük tehdidiyle karşı karşıya gelir.",
-        "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/biIBy2LPOOtGCgUYOls3dUEWU3v.jpg",
-        "year": "2025",
-        "rating": 7.3,
-        "genres": [
-            "Bilim Kurgu & Fantazi",
-            "Dram"
-        ],
-        "categories": [
-            "Tümü",
-            "Hulu",
-            "FX",
-            "Disney+"
-        ],
-        "cast": [
-            {
-                "name": "Sydney Chandler",
-                "role": "Wendy",
-                "image": "https://image.tmdb.org/t/p/w200/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg"
-            },
-            {
-                "name": "Alex Lawther",
-                "role": "Joe DiMaggio Hermit",
-                "image": "https://image.tmdb.org/t/p/w200/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
-            },
-            {
-                "name": "Essie Davis",
-                "role": "Dame Sylvia",
-                "image": "https://image.tmdb.org/t/p/w200/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg"
-            },
-            {
-                "name": "Samuel Blenkin",
-                "role": "Boy Kavalier",
-                "image": "https://image.tmdb.org/t/p/w200/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg"
-            },
-            {
-                "name": "Babou Ceesay",
-                "role": "Kumi Morrow",
-                "image": "https://image.tmdb.org/t/p/w200/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg"
-            },
-            {
-                "name": "Adarsh Gourav",
-                "role": "Slightly",
-                "image": "https://image.tmdb.org/t/p/w200/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg"
-            },
-            {
-                "name": "Erana James",
-                "role": "Curly",
-                "image": "https://image.tmdb.org/t/p/w200/kEfjALq1CIHpfaOHtw6DSzGlIX6.jpg"
-            },
-            {
-                "name": "Lily Newmark",
-                "role": "Nibs",
-                "image": "https://image.tmdb.org/t/p/w200/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg"
-            },
-            {
-                "name": "Jonathan Ajayi",
-                "role": "Smee",
-                "image": "https://image.tmdb.org/t/p/w200/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg"
-            },
-            {
-                "name": "David Rysdahl",
-                "role": "Arthur Sylvia",
-                "image": "https://image.tmdb.org/t/p/w200/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Neverland",
-                "overview": "Bir uzay gemisi Dünya’ya düştüğünde bir kız kardeş, abisini aramaya başlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/d4cydmliyqDZyBWkxkliiED4B0G.jpg",
-                "vote_average": 7.3,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Bay Ekim",
-                "overview": "Rakip şirketler arasında gerilim tırmanırken bir sır ortaya çıkar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cdajiwi3frAqI0XIwsCH5q9P8Hu.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Metamorfoz",
-                "overview": "Ekip, davetsiz bir kargoyla eve döner ve rahatsız edici bir deney yapılır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg",
-                "vote_average": 7.0,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Gözlem",
-                "overview": "Gizli bir komplo herkesi tehlikeye atarken beklenmedik bir bağ kurulur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/hzE6VJ37veL4p54IicLcI5pDDSJ.jpg",
-                "vote_average": 7.1,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Uzayda Kimse...",
-                "overview": "Uzay boşluğunda tehlikede olan bir gemi, mürettebatı zorlu bir hesaplaşmaya sürükler.",
-                "still_path": "https://image.tmdb.org/t/p/w400/hkLVUpJ8HWSAowCxazGDcUOpxLS.jpg",
-                "vote_average": 7.3,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "Sinek",
-                "overview": "Güçlü düşmanlar çatışırken gerilim tırmanır ve merak ölümcül sonuçlara yol açar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ppYjI7rPvsZznQr59XzysFUZTsY.jpg",
-                "vote_average": 6.7,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "Belirme",
-                "overview": "Bir kaçış planı, tarafların bölünmesine, ihanetlere ve şoke edici bir yüzleşmeye yol açar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg",
-                "vote_average": 7.5,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "Gerçek Canavarlar",
-                "overview": "Güç dengeleri değişiyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/tssL6QBaKUkdXtmPUidrsREIEX5.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e08"
-            }
-        ],
-        "update_date": "2026-02-15 02:01:15"
-    },
-    {
-        "id": 232125,
-        "imdb_id": "tt13623148",
-        "name": "I Am Groot",
-        "original_name": "I Am Groot",
-        "overview": "Galaksiyi bu yaramaz çocuktan koruyacak kimse yok! Çünkü Bebek Groot, kendi hikayeleriyle geliyor. Bebek Groot, yıldızların arasında büyürken hayatı keşfediyor.",
-        "poster": "https://image.tmdb.org/t/p/w500/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
-        "year": "2022",
-        "rating": 7.1,
-        "genres": [
-            "Animasyon",
-            "Komedi",
-            "Aile",
-            "Bilim Kurgu & Fantazi",
-            "Çocuklar"
-        ],
-        "categories": [
-            "Tümü",
-            "Animasyon",
-            "Disney+"
-        ],
-        "cast": [
-            {
-                "name": "Vin Diesel",
-                "role": "Baby Groot (voice)",
-                "image": "https://image.tmdb.org/t/p/w200/nZdVry7lnUkE24PnXakok9okvL4.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Bebek Groot ilk adımlarını atar, ancak sonrasında koşmak için yürümeyi öğrenmesi gerektiğini anlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/iecIwrRoq1uZfhJ9XRrZD29Zr4R.jpg",
-                "vote_average": 6.9,
-                "link": "https://vidmody.com/vs/tt13623148/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Groot, minyatür bir uygarlık bulur ve onlar Groot'u uzun zamandır bekledikleri kahraman zanneder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/6pFcTY18M9EpKQEEZZMzVnX4bMF.jpg",
-                "vote_average": 7.2,
-                "link": "https://vidmody.com/vs/tt13623148/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Groot, Kuadrant'a dadanan ürkünç bir sesi araştırır, sonra bunun bir dans yarışması olduğunu anlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/nv0q5V1vGwRVO4Rv3MOEmniUbWj.jpg",
-                "vote_average": 6.7,
-                "link": "https://vidmody.com/vs/tt13623148/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Herkesin banyo yapması gerekir, ancak küçük bir Flora Colossi için işler çok farklı olur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/stKeLppDBwscxoE9RXxNyrur27G.jpg",
-                "vote_average": 6.5,
-                "link": "https://vidmody.com/vs/tt13623148/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Groot kendinin ve Koruyucular'ın portresini çizer, ama yaparken ne kadar zor olduğunu anlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cnhzecqkKHBIyM4QMbxRy5fbW3l.jpg",
-                "vote_average": 6.4,
-                "link": "https://vidmody.com/vs/tt13623148/s1/e05"
-            },
-            {
-                "season": 2,
-                "episode": 1,
-                "name": "Groot'um Musun?",
-                "overview": "Groot tuhaf bir yumurta bulur ve içinden çıkan ufak yaratığı kendi yavrusuymuş gibi benimser.",
-                "still_path": "https://image.tmdb.org/t/p/w400/rJelmgL1yTFfH2PhC3LufMhYQko.jpg",
-                "vote_average": 6.6,
-                "link": "https://vidmody.com/vs/tt13623148/s2/e01"
-            },
-            {
-                "season": 2,
-                "episode": 2,
-                "name": "Groot Burnunu Sokar",
-                "overview": "Groot koku alma duyusu kazandığında her şeye burnunu sokmaması gerektiğini öğrenir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/bf39ykfbUodisUirJXcUbI8bRFe.jpg",
-                "vote_average": 6.8,
-                "link": "https://vidmody.com/vs/tt13623148/s2/e02"
-            },
-            {
-                "season": 2,
-                "episode": 3,
-                "name": "Groot'un Karlı Günü",
-                "overview": "Groot hurda eşyalar giydirdiği kardan adamdan ortalığı altüst edecek durdurulamaz bir robot yaratır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/6H9lUVRUJyWn7t0VAix83TszrfJ.jpg",
-                "vote_average": 6.8,
-                "link": "https://vidmody.com/vs/tt13623148/s2/e03"
-            },
-            {
-                "season": 2,
-                "episode": 4,
-                "name": "Groot'un Şekerlemesi",
-                "overview": "Groot galaksiler arası dondurma kamyonu yaklaşırken bozuk para için geminin altını üstüne getirir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/4PSxBL0Muya07GIteMxJhA4A2iB.jpg",
-                "vote_average": 6.9,
-                "link": "https://vidmody.com/vs/tt13623148/s2/e04"
-            },
-            {
-                "season": 2,
-                "episode": 5,
-                "name": "Groot ve Büyük Kehanet",
-                "overview": "Groot kainatı kurtarmak için yerine getirmesi gereken bir kehanetle antik tapınağın göbeğine iner.",
-                "still_path": "https://image.tmdb.org/t/p/w400/o7gblk3nygQh2lEIjCHEdLK3RHA.jpg",
-                "vote_average": 6.9,
-                "link": "https://vidmody.com/vs/tt13623148/s2/e05"
-            }
-        ],
-        "update_date": "2026-02-15 02:01:14"
     }
 ]
