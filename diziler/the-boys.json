@@ -13,15 +13,15 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Tümü",
+        "Prime Video",
         "Amazon Prime",
-        "Prime Video"
+        "Tümü"
     ],
     "cast": [
         {
             "name": "Karl Urban",
             "role": "Billy Butcher",
-            "image": "https://image.tmdb.org/t/p/w200/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/6CkZLwEJxfqqcJHyeXegMAvOlPh.jpg"
         },
         {
             "name": "Jack Quaid",
@@ -51,7 +51,7 @@
         {
             "name": "Chace Crawford",
             "role": "Kevin Moskowitz / The Deep",
-            "image": "https://image.tmdb.org/t/p/w200/wEgaOcrKUqtqLht9IaI5ExR3uXB.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/yWZILsr2mBQBCG1LOcCYYshIbts.jpg"
         },
         {
             "name": "Tomer Capone",
@@ -359,5 +359,5 @@
             "link": "https://vidmody.com/vs/tt1190634/s4/e08"
         }
     ],
-    "update_date": "2026-02-15 00:07:23"
+    "update_date": "2026-03-01 00:34:53"
 }
