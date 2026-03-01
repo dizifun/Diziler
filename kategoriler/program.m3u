@@ -1,5 +1,41 @@
 #EXTM3U
 #PLAYLIST:Program
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/11546faf42129a7d045e1d65.jpg", Bana Bunlarla Gel - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a8008386fed5312c8f1a2&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/bf26c54f4a289eff62a4738a.jpg", Bana Bunlarla Gel - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a8016386fed5312c8f1b4&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/c56bf2c049708a9a28472c02.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Kulis eğlencesi
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32281&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/9ef133994d99a9c112568bd5.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Çok Bilmiş
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32282&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/0c4d2d4e463cb08c44e080ac.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Ağlamak İstiyorum
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32283&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/9c4a004c4910adc69706c746.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Ebru Ballı
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32284&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/c875cde346919b6533b06f80.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Hayırlı Bir İş
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32285&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/4dcc843642288d49a388565c.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Sigara sağlığa zararlıdır
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32286&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/f4565c634921916a4adcc071.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Son Arabeskçi
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32287&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/a1a002a0482eb7016858329d.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Merhumu Nasıl Bilirdiniz?
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32288&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/a8e233154563bbccd038dec0.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Botoksgül
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32313&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/6cff78b1426c89bb048cbd09.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Atın Beni İçeri
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32314&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/7aba377749ccb57dbc578abf.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Çocuk Aklı
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32315&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/8ddf3cdc42d2ba77997ac031.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Sünger Bobi
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32316&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/cba2f9d04279aa8786a3dbf8.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Doktor Civanım
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32317&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/19e6f5da41f38c2e6ff79ae4.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Hastalık İcat Konseyi
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32318&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/7721f6ae4aeea0f64db39477.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Son Arabeskçi Cumali
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32319&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/15b9fa1c4aa1aa9948fd7dd3.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Facebook'dan dürttün
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32321&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Soframız" tvg-logo="https://media.startv.com.tr/star-tv/images/3d5ee671429cb8d21ca2fcba.jpg", Soframız - 266. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_36066_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Soframız" tvg-logo="https://media.startv.com.tr/star-tv/images/507caa754e05a8e1fb3f49e0.jpg", Soframız - 267. Bölüm
@@ -522,42 +558,22 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48556&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Soframız" tvg-logo="https://media.startv.com.tr/star-tv/images/c8d7ddef4d91885a0b0beee7.jpg", Soframız - 528. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48557&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/11546faf42129a7d045e1d65.jpg", Bana Bunlarla Gel - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a8008386fed5312c8f1a2&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/bf26c54f4a289eff62a4738a.jpg", Bana Bunlarla Gel - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a8016386fed5312c8f1b4&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/c56bf2c049708a9a28472c02.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Kulis eğlencesi
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32281&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/9ef133994d99a9c112568bd5.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Çok Bilmiş
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32282&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/0c4d2d4e463cb08c44e080ac.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Ağlamak İstiyorum
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32283&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/9c4a004c4910adc69706c746.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Ebru Ballı
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32284&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/c875cde346919b6533b06f80.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Hayırlı Bir İş
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32285&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/4dcc843642288d49a388565c.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Sigara sağlığa zararlıdır
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32286&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/f4565c634921916a4adcc071.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Son Arabeskçi
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32287&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/a1a002a0482eb7016858329d.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Merhumu Nasıl Bilirdiniz?
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32288&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/a8e233154563bbccd038dec0.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Botoksgül
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32313&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/6cff78b1426c89bb048cbd09.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Atın Beni İçeri
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32314&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/7aba377749ccb57dbc578abf.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Çocuk Aklı
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32315&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/8ddf3cdc42d2ba77997ac031.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Sünger Bobi
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32316&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/cba2f9d04279aa8786a3dbf8.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Doktor Civanım
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32317&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/19e6f5da41f38c2e6ff79ae4.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Hastalık İcat Konseyi
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32318&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/7721f6ae4aeea0f64db39477.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Son Arabeskçi Cumali
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32319&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Bana Bunlarla Gel" tvg-logo="https://media.startv.com.tr/star-tv/images/15b9fa1c4aa1aa9948fd7dd3.jpg", Bana Bunlarla Gel - Bana Bunlarla Gel Facebook'dan dürttün
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32321&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/adac7d44498585e3f225d889.jpg", Pişşti - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e0f386fed5312c8ef21&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/9a22eb904a1ea9e0cd7894d8.jpg", Pişşti - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e10386fed5312c8ef23&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/ae1d10ad4e2bbc623947a6dd.jpg", Pişşti - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e11386fed5312c8ef25&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/5139e6584a858258a5683601.jpg", Pişşti - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e13386fed5312c8ef27&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/466f3b414be6a5b4186c6855.jpg", Pişşti - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e14386fed5312c8ef29&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/9e233d284953b44bf3f129e6.jpg", Pişşti - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e16386fed5312c8ef2b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/6cc0e9674cef9826fff41111.jpg", Pişşti - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e17386fed5312c8ef2d&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/30383d8843588e867b348a8b.jpg", Pişşti - Pişşti Pişşti” her Salı  Star TV ekranlarında.
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33156&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Türkiye'nin Kahramanları" tvg-logo="https://media.startv.com.tr/star-tv/images/2bd711a7451f851e14d4d7f0.jpg", Türkiye'nin Kahramanları - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33242_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Türkiye'nin Kahramanları" tvg-logo="https://media.startv.com.tr/star-tv/images/179cad5b44d18d23f35c96eb.jpg", Türkiye'nin Kahramanları - 2. Bölüm
@@ -588,22 +604,24 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33300_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Türkiye'nin Kahramanları" tvg-logo="https://media.startv.com.tr/star-tv/images/f0d63c564a07bb33b3415eea.jpg", Türkiye'nin Kahramanları - 15. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33308_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/adac7d44498585e3f225d889.jpg", Pişşti - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e0f386fed5312c8ef21&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/9a22eb904a1ea9e0cd7894d8.jpg", Pişşti - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e10386fed5312c8ef23&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/ae1d10ad4e2bbc623947a6dd.jpg", Pişşti - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e11386fed5312c8ef25&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/5139e6584a858258a5683601.jpg", Pişşti - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e13386fed5312c8ef27&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/466f3b414be6a5b4186c6855.jpg", Pişşti - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e14386fed5312c8ef29&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/9e233d284953b44bf3f129e6.jpg", Pişşti - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e16386fed5312c8ef2b&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/6cc0e9674cef9826fff41111.jpg", Pişşti - 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e17386fed5312c8ef2d&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Pişşti" tvg-logo="https://media.startv.com.tr/star-tv/images/30383d8843588e867b348a8b.jpg", Pişşti - Pişşti Pişşti” her Salı  Star TV ekranlarında.
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33156&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/49a281ea435bae7bb82e3a1b.jpg", Matrax - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e34386fed5312c8ef53&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/a7bbc1684dfabeb63e9b06a8.jpg", Matrax - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e35386fed5312c8ef55&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/801feb3f4d9fb41c0375dafa.jpg", Matrax - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e37386fed5312c8ef57&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/3d4b56f44a1487ef1ade32eb.jpg", Matrax - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e38386fed5312c8ef59&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/30277a7a4ae29afb7f34ac09.jpg", Matrax - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e3a386fed5312c8ef5b&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/d3c7e96c4eea922d389106b6.jpg", Matrax - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e3b386fed5312c8ef5d&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/a7b74b704ba19ae78539e652.jpg", Matrax - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e3d386fed5312c8ef5f&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/b3d48924494da3b248bf8eee.jpg", Matrax - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e3e386fed5312c8ef61&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/635a3fa945c68416efc4d946.jpg", Matrax - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e40386fed5312c8ef63&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Yerden Göğe" tvg-logo="https://media.startv.com.tr/star-tv/images/912fc9ec44bdb913562560ee.jpg", Yerden Göğe - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e20386fed5312c8ef37&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Yerden Göğe" tvg-logo="https://media.startv.com.tr/star-tv/images/620a7c514246a77f99f8d786.jpg", Yerden Göğe - 2. Bölüm
@@ -628,44 +646,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e2f386fed5312c8ef4b&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Yerden Göğe" tvg-logo="https://media.startv.com.tr/star-tv/images/b42c24ce4fb2ae6032567636.jpg", Yerden Göğe - 12. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e30386fed5312c8ef4d&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/49a281ea435bae7bb82e3a1b.jpg", Matrax - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e34386fed5312c8ef53&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/a7bbc1684dfabeb63e9b06a8.jpg", Matrax - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e35386fed5312c8ef55&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/801feb3f4d9fb41c0375dafa.jpg", Matrax - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e37386fed5312c8ef57&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/3d4b56f44a1487ef1ade32eb.jpg", Matrax - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e38386fed5312c8ef59&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/30277a7a4ae29afb7f34ac09.jpg", Matrax - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e3a386fed5312c8ef5b&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/d3c7e96c4eea922d389106b6.jpg", Matrax - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e3b386fed5312c8ef5d&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/a7b74b704ba19ae78539e652.jpg", Matrax - 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e3d386fed5312c8ef5f&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/b3d48924494da3b248bf8eee.jpg", Matrax - 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e3e386fed5312c8ef61&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Matrax" tvg-logo="https://media.startv.com.tr/star-tv/images/635a3fa945c68416efc4d946.jpg", Matrax - 9. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7e40386fed5312c8ef63&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/062b6d594063a86ad8c197f2.jpg", Gelin Duymasın - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33352_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/3d2537294bd1b72eeee2b995.jpg", Gelin Duymasın - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33354_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/f385884b4cad87e3c1e2ea20.jpg", Gelin Duymasın - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33371_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/ce234a3341a494fd8f3c479e.jpg", Gelin Duymasın - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33358_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/a3498829475895cdfb1864bd.jpg", Gelin Duymasın - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33386_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/847edb6443138beec935f625.jpg", Gelin Duymasın - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33361_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/57cc50b641829a90900b76ed.jpg", Gelin Duymasın - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33394_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/3d8d131a410d9b310c306b87.jpg", Gelin Duymasın - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33363_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/169693e84439994cc781200e.jpg", Gelin Duymasın - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33405_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/0e72e46545f19382e63d788b.jpg", Gelin Duymasın - 13. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33233&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Mukabele" tvg-logo="https://media.startv.com.tr/star-tv/images/a77bc0f64c66a5932039e149.jpg", Mukabele - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33246_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Mukabele" tvg-logo="https://media.startv.com.tr/star-tv/images/8b153fb94219be2f8633e67c.jpg", Mukabele - 2. Bölüm
@@ -728,6 +708,46 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a7dde386fed5312c8eee1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Mukabele" tvg-logo="https://media.startv.com.tr/star-tv/images/97ba6f2640098282a5a921f4.jpg", Mukabele - Mukabele Kadir Gecesi Özel
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33311&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/062b6d594063a86ad8c197f2.jpg", Gelin Duymasın - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33352_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/3d2537294bd1b72eeee2b995.jpg", Gelin Duymasın - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33354_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/f385884b4cad87e3c1e2ea20.jpg", Gelin Duymasın - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33371_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/ce234a3341a494fd8f3c479e.jpg", Gelin Duymasın - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33358_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/a3498829475895cdfb1864bd.jpg", Gelin Duymasın - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33386_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/847edb6443138beec935f625.jpg", Gelin Duymasın - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33361_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/57cc50b641829a90900b76ed.jpg", Gelin Duymasın - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33394_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/3d8d131a410d9b310c306b87.jpg", Gelin Duymasın - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33363_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/169693e84439994cc781200e.jpg", Gelin Duymasın - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33405_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Gelin Duymasın" tvg-logo="https://media.startv.com.tr/star-tv/images/0e72e46545f19382e63d788b.jpg", Gelin Duymasın - 13. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33233&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/30b76b3341c2b905554ea63d.jpg", Star'da Altın Günü - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33351_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/85ddd3d1435d9eda71f39b2c.jpg", Star'da Altın Günü - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33355_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/3b058eaa4aafae13034e6206.jpg", Star'da Altın Günü - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33372_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/839e987f4ca59b71bfff18dd.jpg", Star'da Altın Günü - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33357_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/cd11d8aa40acb300740777f3.jpg", Star'da Altın Günü - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33385_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/0aa5b227497c8e15f3ecd70a.jpg", Star'da Altın Günü - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33362_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/8edbfb3c45af9aaffaa468c0.jpg", Star'da Altın Günü - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33395_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/655b246a4ce7a7c4aed79667.jpg", Star'da Altın Günü - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33364_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/636e0feb42788f1c94421a7b.jpg", Star'da Altın Günü - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33404_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/464d52024d7bafdcc3e5b7e6.jpg", Star'da Altın Günü - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33412_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Melek" tvg-logo="https://media.startv.com.tr/star-tv/images/ad9090f54e4c8902e15187c5.jpg", Melek - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33458_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Melek" tvg-logo="https://media.startv.com.tr/star-tv/images/8431b1d24e2da96aa8564339.jpg", Melek - 2. Bölüm
@@ -1498,26 +1518,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_56
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_56183&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Melek" tvg-logo="https://media.startv.com.tr/star-tv/images/d8e41e9e4ba1b63edec6cb4a.jpg", Melek - 613. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_56265&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/30b76b3341c2b905554ea63d.jpg", Star'da Altın Günü - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33351_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/85ddd3d1435d9eda71f39b2c.jpg", Star'da Altın Günü - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33355_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/3b058eaa4aafae13034e6206.jpg", Star'da Altın Günü - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33372_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/839e987f4ca59b71bfff18dd.jpg", Star'da Altın Günü - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33357_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/cd11d8aa40acb300740777f3.jpg", Star'da Altın Günü - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33385_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/0aa5b227497c8e15f3ecd70a.jpg", Star'da Altın Günü - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33362_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/8edbfb3c45af9aaffaa468c0.jpg", Star'da Altın Günü - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33395_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/655b246a4ce7a7c4aed79667.jpg", Star'da Altın Günü - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33364_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/636e0feb42788f1c94421a7b.jpg", Star'da Altın Günü - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33404_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Star'da Altın Günü" tvg-logo="https://media.startv.com.tr/star-tv/images/464d52024d7bafdcc3e5b7e6.jpg", Star'da Altın Günü - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_33412_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Süper StarLife" tvg-logo="https://media.startv.com.tr/star-tv/images/a46b4aeb4a24b566337e91ba.jpg", Süper StarLife - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_32458&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Süper StarLife" tvg-logo="", Süper StarLife - 1. Bölüm
@@ -2544,146 +2544,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_37550_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Halil Necipoğlu ile Sahur" tvg-logo="https://media.startv.com.tr/star-tv/images/4355653e4470b77c252a5a86.jpg", Halil Necipoğlu ile Sahur - Halil Necipoğlu ile Sahur Halil Necipoğlu ile Kadir Gecesi
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44490_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5515281f477782860773e124.jpg", Sevgili Dünürüm - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40886_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/7a312fb04b269a72998cd5d5.jpg", Sevgili Dünürüm - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40935_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/4633b9594a8db571b49fca4e.jpg", Sevgili Dünürüm - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40996_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/1497404e4d17914c4b5d8f96.jpg", Sevgili Dünürüm - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41021_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/978055834d759fab20bea665.jpg", Sevgili Dünürüm - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41045_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/9945ffd741e3b6258f6e597b.jpg", Sevgili Dünürüm - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41099_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/99d28c3048f5809892972fc5.jpg", Sevgili Dünürüm - 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41146_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d8877dfd43689c396e7da928.jpg", Sevgili Dünürüm - 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41184_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/68f269874652a34d4601605d.jpg", Sevgili Dünürüm - 9. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41218_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/18c514e446dba89cd735ca8a.jpg", Sevgili Dünürüm - 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41242_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/50f1eade48cf860f12151541.jpg", Sevgili Dünürüm - 11. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41273_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/3840957a45cb879823ceb7de.jpg", Sevgili Dünürüm - 12. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41302_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c865a75d4e258a55ae750af7.jpg", Sevgili Dünürüm - 13. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41345_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5f71030e4d2aa8d2935a564e.jpg", Sevgili Dünürüm - 14. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41375_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/b82fcec64c84b574444f0da1.jpg", Sevgili Dünürüm - 15. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41395_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/871d859f44aa8e901f1362db.jpg", Sevgili Dünürüm - 16. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41424_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d251b1fa45f999c82b724cdf.jpg", Sevgili Dünürüm - 17. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41461_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/9453f01942359711bf6b7aef.jpg", Sevgili Dünürüm - 18. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41504_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/b692203e4045b5ae7d74b353.jpg", Sevgili Dünürüm - 19. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41523_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/9b353bfe4b2cb1f905173bc8.jpg", Sevgili Dünürüm - 20. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41544_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/331abba544cda62f0148de95.jpg", Sevgili Dünürüm - 21. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41588_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/4127e6f74cc2b4b7cf5bc884.jpg", Sevgili Dünürüm - 22. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41619_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/fa60743b43adb2a65d16a5eb.jpg", Sevgili Dünürüm - 23. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41647_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/cad60f2648928220540f3756.jpg", Sevgili Dünürüm - 24. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41666_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/e4109f4c47c4aa8d276905a0.jpg", Sevgili Dünürüm - 25. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41700_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/a35991ec4e83889d4529a4ae.jpg", Sevgili Dünürüm - 26. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41748_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/224f797142be928abaffddd5.jpg", Sevgili Dünürüm - 27. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41769_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d48e29f04eceaa6c422efeec.jpg", Sevgili Dünürüm - 28. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41811_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/df8400aa4157a4f75ca77120.jpg", Sevgili Dünürüm - 29. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41827_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/2a3845db44d084614706b1a4.jpg", Sevgili Dünürüm - 30. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41851_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/fb43d46a4b6f97f7a9131fba.jpg", Sevgili Dünürüm - 31. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41922_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/0fa7646e4324a16fbf1b0a58.jpg", Sevgili Dünürüm - 32. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41951_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/05e2d24541dbb30675c338b2.jpg", Sevgili Dünürüm - 33. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41970_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f875dc7f470e9071114d838b.jpg", Sevgili Dünürüm - 34. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42001_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c9d47fde4d4cacfb70aae4c1.jpg", Sevgili Dünürüm - 35. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42027_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/7b7ed8344ab0b6c5420d1466.jpg", Sevgili Dünürüm - 36. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42077_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5565d32841758ecb5a5d0f3f.jpg", Sevgili Dünürüm - 37. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42111_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/06c293b94e7b96c368f0d159.jpg", Sevgili Dünürüm - 38. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42150_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/9bdd879f40a89cc9a6b62e46.jpg", Sevgili Dünürüm - 39. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42176_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/19e4aad743a0adb67c979b00.jpg", Sevgili Dünürüm - 40. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42196_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/87f3217b41b880603ed7ced0.jpg", Sevgili Dünürüm - 41. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42253_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f1ca94fe46d9bd6df3711e29.jpg", Sevgili Dünürüm - 42. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42289_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/0c9d8245450c93022c8affd0.jpg", Sevgili Dünürüm - 43. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42327_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/dc5607be448fb7ee8a822a6f.jpg", Sevgili Dünürüm - 44. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42348_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c393fa4942d496cde9f648ce.jpg", Sevgili Dünürüm - 45. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42377_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c669640c4ebd812034c03335.jpg", Sevgili Dünürüm - 46. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42434_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/ef0d4a8d4afab778f9daf1d2.jpg", Sevgili Dünürüm - 47. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42465_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/552ef111423583282cd78c88.jpg", Sevgili Dünürüm - 48. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42501_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/73148d214d928d7a360bdcfc.jpg", Sevgili Dünürüm - 49. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42519_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/29f8a2054a19888774daf3b6.jpg", Sevgili Dünürüm - 50. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42548_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/0504884c4595a5379f2e8808.jpg", Sevgili Dünürüm - 51. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42601_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/42003b1940b2a81345448fb8.jpg", Sevgili Dünürüm - 52. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42610_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/b6a03fe34163b78fea475e45.jpg", Sevgili Dünürüm - 53. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42648_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/22d036b04e86bbd20d29dd2f.jpg", Sevgili Dünürüm - 54. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42668_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/b0d014344cbaaa1902fbbb8e.jpg", Sevgili Dünürüm - 55. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42712_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/7a38662045769415c8437cfa.jpg", Sevgili Dünürüm - 56. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42770_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/6f2e8dcd4d268dc207de5c7e.jpg", Sevgili Dünürüm - 57. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42796_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/e859e7454dbe997e091ccd3e.jpg", Sevgili Dünürüm - 58. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42802_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/fe9446f946d1b7237ea613f6.jpg", Sevgili Dünürüm - 59. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42844_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/3c2bcd7b46abba3471c758ff.jpg", Sevgili Dünürüm - 60. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42865_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/24db825244d0baadbf3a15c3.jpg", Sevgili Dünürüm - 61. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42907_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f1117dbd4aaeb486acc70b5d.jpg", Sevgili Dünürüm - 62. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42945_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/3b00848e4043a1cbf7df1286.jpg", Sevgili Dünürüm - 63. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42972_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5c844887421ea9238d6b19fd.jpg", Sevgili Dünürüm - 64. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43008_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/ff06a54c45638256e47796dd.jpg", Sevgili Dünürüm - 65. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43030_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/507de5774d88ae35e7f2f0a6.jpg", Sevgili Dünürüm - 66. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43094_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/36bdca04419399952d9b6edd.jpg", Sevgili Dünürüm - 67. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43131_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/8d8a23424186822f82a78d9e.jpg", Sevgili Dünürüm - 68. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43162_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d822b2394365aff9df11c016.jpg", Sevgili Dünürüm - 69. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43183_p1&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/e390842b44b38d448d62aba4.jpg", Sevgili Dünürüm - 70. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43208_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nedir Ne Değildir" tvg-logo="https://media.startv.com.tr/star-tv/images/6428c6ae416895dd6397a667.jpg", Nedir Ne Değildir - 65. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42911_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nedir Ne Değildir" tvg-logo="https://media.startv.com.tr/star-tv/images/75dce0e74120b453bb664399.jpg", Nedir Ne Değildir - 66. Bölüm
@@ -2826,6 +2686,146 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_50
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_50455&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nedir Ne Değildir" tvg-logo="https://media.startv.com.tr/star-tv/images/c67f38664a24b4e3b9a90cd9.jpg", Nedir Ne Değildir - 137. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_50533&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5515281f477782860773e124.jpg", Sevgili Dünürüm - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40886_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/7a312fb04b269a72998cd5d5.jpg", Sevgili Dünürüm - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40935_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/4633b9594a8db571b49fca4e.jpg", Sevgili Dünürüm - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_40996_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/1497404e4d17914c4b5d8f96.jpg", Sevgili Dünürüm - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41021_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/978055834d759fab20bea665.jpg", Sevgili Dünürüm - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41045_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/9945ffd741e3b6258f6e597b.jpg", Sevgili Dünürüm - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41099_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/99d28c3048f5809892972fc5.jpg", Sevgili Dünürüm - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41146_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d8877dfd43689c396e7da928.jpg", Sevgili Dünürüm - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41184_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/68f269874652a34d4601605d.jpg", Sevgili Dünürüm - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41218_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/18c514e446dba89cd735ca8a.jpg", Sevgili Dünürüm - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41242_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/50f1eade48cf860f12151541.jpg", Sevgili Dünürüm - 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41273_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/3840957a45cb879823ceb7de.jpg", Sevgili Dünürüm - 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41302_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c865a75d4e258a55ae750af7.jpg", Sevgili Dünürüm - 13. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41345_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5f71030e4d2aa8d2935a564e.jpg", Sevgili Dünürüm - 14. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41375_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/b82fcec64c84b574444f0da1.jpg", Sevgili Dünürüm - 15. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41395_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/871d859f44aa8e901f1362db.jpg", Sevgili Dünürüm - 16. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41424_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d251b1fa45f999c82b724cdf.jpg", Sevgili Dünürüm - 17. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41461_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/9453f01942359711bf6b7aef.jpg", Sevgili Dünürüm - 18. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41504_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/b692203e4045b5ae7d74b353.jpg", Sevgili Dünürüm - 19. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41523_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/9b353bfe4b2cb1f905173bc8.jpg", Sevgili Dünürüm - 20. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41544_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/331abba544cda62f0148de95.jpg", Sevgili Dünürüm - 21. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41588_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/4127e6f74cc2b4b7cf5bc884.jpg", Sevgili Dünürüm - 22. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41619_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/fa60743b43adb2a65d16a5eb.jpg", Sevgili Dünürüm - 23. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41647_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/cad60f2648928220540f3756.jpg", Sevgili Dünürüm - 24. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41666_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/e4109f4c47c4aa8d276905a0.jpg", Sevgili Dünürüm - 25. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41700_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/a35991ec4e83889d4529a4ae.jpg", Sevgili Dünürüm - 26. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41748_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/224f797142be928abaffddd5.jpg", Sevgili Dünürüm - 27. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41769_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d48e29f04eceaa6c422efeec.jpg", Sevgili Dünürüm - 28. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41811_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/df8400aa4157a4f75ca77120.jpg", Sevgili Dünürüm - 29. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41827_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/2a3845db44d084614706b1a4.jpg", Sevgili Dünürüm - 30. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41851_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/fb43d46a4b6f97f7a9131fba.jpg", Sevgili Dünürüm - 31. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41922_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/0fa7646e4324a16fbf1b0a58.jpg", Sevgili Dünürüm - 32. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41951_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/05e2d24541dbb30675c338b2.jpg", Sevgili Dünürüm - 33. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_41970_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f875dc7f470e9071114d838b.jpg", Sevgili Dünürüm - 34. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42001_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c9d47fde4d4cacfb70aae4c1.jpg", Sevgili Dünürüm - 35. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42027_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/7b7ed8344ab0b6c5420d1466.jpg", Sevgili Dünürüm - 36. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42077_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5565d32841758ecb5a5d0f3f.jpg", Sevgili Dünürüm - 37. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42111_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/06c293b94e7b96c368f0d159.jpg", Sevgili Dünürüm - 38. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42150_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/9bdd879f40a89cc9a6b62e46.jpg", Sevgili Dünürüm - 39. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42176_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/19e4aad743a0adb67c979b00.jpg", Sevgili Dünürüm - 40. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42196_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/87f3217b41b880603ed7ced0.jpg", Sevgili Dünürüm - 41. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42253_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f1ca94fe46d9bd6df3711e29.jpg", Sevgili Dünürüm - 42. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42289_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/0c9d8245450c93022c8affd0.jpg", Sevgili Dünürüm - 43. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42327_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/dc5607be448fb7ee8a822a6f.jpg", Sevgili Dünürüm - 44. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42348_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c393fa4942d496cde9f648ce.jpg", Sevgili Dünürüm - 45. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42377_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c669640c4ebd812034c03335.jpg", Sevgili Dünürüm - 46. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42434_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/ef0d4a8d4afab778f9daf1d2.jpg", Sevgili Dünürüm - 47. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42465_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/552ef111423583282cd78c88.jpg", Sevgili Dünürüm - 48. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42501_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/73148d214d928d7a360bdcfc.jpg", Sevgili Dünürüm - 49. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42519_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/29f8a2054a19888774daf3b6.jpg", Sevgili Dünürüm - 50. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42548_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/0504884c4595a5379f2e8808.jpg", Sevgili Dünürüm - 51. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42601_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/42003b1940b2a81345448fb8.jpg", Sevgili Dünürüm - 52. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42610_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/b6a03fe34163b78fea475e45.jpg", Sevgili Dünürüm - 53. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42648_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/22d036b04e86bbd20d29dd2f.jpg", Sevgili Dünürüm - 54. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42668_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/b0d014344cbaaa1902fbbb8e.jpg", Sevgili Dünürüm - 55. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42712_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/7a38662045769415c8437cfa.jpg", Sevgili Dünürüm - 56. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42770_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/6f2e8dcd4d268dc207de5c7e.jpg", Sevgili Dünürüm - 57. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42796_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/e859e7454dbe997e091ccd3e.jpg", Sevgili Dünürüm - 58. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42802_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/fe9446f946d1b7237ea613f6.jpg", Sevgili Dünürüm - 59. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42844_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/3c2bcd7b46abba3471c758ff.jpg", Sevgili Dünürüm - 60. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42865_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/24db825244d0baadbf3a15c3.jpg", Sevgili Dünürüm - 61. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42907_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f1117dbd4aaeb486acc70b5d.jpg", Sevgili Dünürüm - 62. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42945_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/3b00848e4043a1cbf7df1286.jpg", Sevgili Dünürüm - 63. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_42972_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5c844887421ea9238d6b19fd.jpg", Sevgili Dünürüm - 64. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43008_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/ff06a54c45638256e47796dd.jpg", Sevgili Dünürüm - 65. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43030_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/507de5774d88ae35e7f2f0a6.jpg", Sevgili Dünürüm - 66. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43094_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/36bdca04419399952d9b6edd.jpg", Sevgili Dünürüm - 67. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43131_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/8d8a23424186822f82a78d9e.jpg", Sevgili Dünürüm - 68. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43162_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d822b2394365aff9df11c016.jpg", Sevgili Dünürüm - 69. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43183_p1&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Sevgili Dünürüm" tvg-logo="https://media.startv.com.tr/star-tv/images/e390842b44b38d448d62aba4.jpg", Sevgili Dünürüm - 70. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_43208_p1&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Serap Paköz İle Gerçeğin Peşinde" tvg-logo="https://media.startv.com.tr/star-tv/images/70409ed04c36bf7f7d88fc25.jpg", Serap Paköz İle Gerçeğin Peşinde - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_80223&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Serap Paköz İle Gerçeğin Peşinde" tvg-logo="https://media.startv.com.tr/star-tv/images/63b6c66c43c2adba5ff60613.jpg", Serap Paköz İle Gerçeğin Peşinde - 2. Bölüm
@@ -4594,6 +4594,62 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45136&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Starlife" tvg-logo="https://media.startv.com.tr/star-tv/images/585c0a4847c19f560614c8c0.jpg", Starlife - 75. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45221&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/fd841a6b4c2fa8dedae0be5d.jpg", Ne Güzel Evim - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45556&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/e9a6109d4d22b5f25cd09c67.jpg", Ne Güzel Evim - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45667&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/a5e1566448ab8e8d5b6a1732.jpg", Ne Güzel Evim - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45870&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/b7ca390c422e904a7eac0a4b.jpg", Ne Güzel Evim - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46070&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/7aa028f44578b5a6aa54d50e.jpg", Ne Güzel Evim - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46276&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/21a9e77248849fdf622718bb.jpg", Ne Güzel Evim - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46446&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/21d3de4244e0804228e13ac9.jpg", Ne Güzel Evim - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46662&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/bcc9042e49b4b1fe301389db.jpg", Ne Güzel Evim - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46855&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/fb7d7df74c60be012eee2efb.jpg", Ne Güzel Evim - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47002&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/b347405148c89210f0b759f6.jpg", Ne Güzel Evim - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47169&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/34270f0c46d38c42f666f204.jpg", Ne Güzel Evim - 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47309&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/040766ed43a4a56697837be3.jpg", Ne Güzel Evim - 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47442&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/906e34de423399115cdc4cf7.jpg", Ne Güzel Evim - 13. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47562&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/efc97560428784c1fea8d54c.jpg", Ne Güzel Evim - 14. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47805&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/4d9d81944560a0d2f6dd6022.jpg", Ne Güzel Evim - 15. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47893&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/ba7c93d24da38419d54b8fa3.jpg", Ne Güzel Evim - 16. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48006&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/4f89489e4d18a33210dbaebc.jpg", Ne Güzel Evim - 17. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48138&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/e23d91454d91936dcfa70ba8.jpg", Ne Güzel Evim - 18. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48270&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/7ea0925640fc8e6e31b55306.jpg", Ne Güzel Evim - 19. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48436&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/8355ac1541c892b16af6d256.jpg", Ne Güzel Evim - 20. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48570&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/bb7dcb2e4c199e5847a472c9.jpg", Ne Güzel Evim - 21. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48745&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/316cbaae4e3a9761b83b7985.jpg", Ne Güzel Evim - 22. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48819&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/78548ed241a499199bf9531d.jpg", Ne Güzel Evim - 23. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48974&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/6b07f1d849d3a581729f9225.jpg", Ne Güzel Evim - 24. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49136&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/4b49c45d4da4b4fbac14261e.jpg", Ne Güzel Evim - 25. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49346&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/fe086ec2410cbd56c4743150.jpg", Ne Güzel Evim - 26. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49436&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/56d50abd4121aa77c9eecc77.jpg", Ne Güzel Evim - 27. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49620&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/44bb4a714502a21e68ca9784.jpg", Ne Güzel Evim - 28. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49820&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="İnan Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/8c96391f4fdabe990aa5d153.jpg", İnan Bana - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46117&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="İnan Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/2e2effc647e69ff0c3908789.jpg", İnan Bana - 2. Bölüm
@@ -4656,62 +4712,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_50
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_50461&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="İnan Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/fec9c6f84d2486de30d3fc7b.jpg", İnan Bana - 31. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_50564&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/fd841a6b4c2fa8dedae0be5d.jpg", Ne Güzel Evim - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45556&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/e9a6109d4d22b5f25cd09c67.jpg", Ne Güzel Evim - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45667&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/a5e1566448ab8e8d5b6a1732.jpg", Ne Güzel Evim - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45870&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/b7ca390c422e904a7eac0a4b.jpg", Ne Güzel Evim - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46070&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/7aa028f44578b5a6aa54d50e.jpg", Ne Güzel Evim - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46276&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/21a9e77248849fdf622718bb.jpg", Ne Güzel Evim - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46446&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/21d3de4244e0804228e13ac9.jpg", Ne Güzel Evim - 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46662&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/bcc9042e49b4b1fe301389db.jpg", Ne Güzel Evim - 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46855&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/fb7d7df74c60be012eee2efb.jpg", Ne Güzel Evim - 9. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47002&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/b347405148c89210f0b759f6.jpg", Ne Güzel Evim - 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47169&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/34270f0c46d38c42f666f204.jpg", Ne Güzel Evim - 11. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47309&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/040766ed43a4a56697837be3.jpg", Ne Güzel Evim - 12. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47442&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/906e34de423399115cdc4cf7.jpg", Ne Güzel Evim - 13. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47562&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/efc97560428784c1fea8d54c.jpg", Ne Güzel Evim - 14. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47805&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/4d9d81944560a0d2f6dd6022.jpg", Ne Güzel Evim - 15. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47893&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/ba7c93d24da38419d54b8fa3.jpg", Ne Güzel Evim - 16. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48006&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/4f89489e4d18a33210dbaebc.jpg", Ne Güzel Evim - 17. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48138&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/e23d91454d91936dcfa70ba8.jpg", Ne Güzel Evim - 18. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48270&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/7ea0925640fc8e6e31b55306.jpg", Ne Güzel Evim - 19. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48436&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/8355ac1541c892b16af6d256.jpg", Ne Güzel Evim - 20. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48570&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/bb7dcb2e4c199e5847a472c9.jpg", Ne Güzel Evim - 21. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48745&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/316cbaae4e3a9761b83b7985.jpg", Ne Güzel Evim - 22. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48819&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/78548ed241a499199bf9531d.jpg", Ne Güzel Evim - 23. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_48974&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/6b07f1d849d3a581729f9225.jpg", Ne Güzel Evim - 24. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49136&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/4b49c45d4da4b4fbac14261e.jpg", Ne Güzel Evim - 25. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49346&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/fe086ec2410cbd56c4743150.jpg", Ne Güzel Evim - 26. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49436&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/56d50abd4121aa77c9eecc77.jpg", Ne Güzel Evim - 27. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49620&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Ne Güzel Evim" tvg-logo="https://media.startv.com.tr/star-tv/images/44bb4a714502a21e68ca9784.jpg", Ne Güzel Evim - 28. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_49820&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Hayat Sevince Güzel" tvg-logo="https://media.startv.com.tr/star-tv/images/77f79d1c4d7996d779644a32.jpg", Hayat Sevince Güzel - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_52587&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Hayat Sevince Güzel" tvg-logo="https://media.startv.com.tr/star-tv/images/f0c07e79431db3cf99bbc741.jpg", Hayat Sevince Güzel - 2. Bölüm
@@ -5894,6 +5894,18 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61705&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Ezgi Sertel İle  Lezzetin Haritası" tvg-logo="https://media.startv.com.tr/star-tv/images/833c8e684dcab8e49e4fd627.jpg", Ezgi Sertel İle  Lezzetin Haritası - 120. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61738&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/6238d7164ad59a6824a4d6a3.jpg", Misafir Ol Gel Bana - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_57997&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/bf7c7d0349cba65d66eadce4.jpg", Misafir Ol Gel Bana - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58111&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/64e714834cf8859db68891fa.jpg", Misafir Ol Gel Bana - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58385&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/56afa25f4e4b8f89c020400e.jpg", Misafir Ol Gel Bana - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58386&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/5093bd244ed191b9c61c66f8.jpg", Misafir Ol Gel Bana - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58518&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/b7cab44544afb30dcb63f1f0.jpg", Misafir Ol Gel Bana - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58698&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Sahrap'la Bir Yemek Masalı" tvg-logo="https://media.startv.com.tr/star-tv/images/e8e7008c493cbf5ea294e150.jpg", Sahrap'la Bir Yemek Masalı - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_60324&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Sahrap'la Bir Yemek Masalı" tvg-logo="https://media.startv.com.tr/star-tv/images/d3f1d85242a6a6903fba6b1f.jpg", Sahrap'la Bir Yemek Masalı - 2. Bölüm
@@ -5920,18 +5932,42 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61732&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Sahrap'la Bir Yemek Masalı" tvg-logo="https://media.startv.com.tr/star-tv/images/17dff61c47dfa92c619c318e.jpg", Sahrap'la Bir Yemek Masalı - 13. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61867&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/6238d7164ad59a6824a4d6a3.jpg", Misafir Ol Gel Bana - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_57997&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/bf7c7d0349cba65d66eadce4.jpg", Misafir Ol Gel Bana - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58111&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/64e714834cf8859db68891fa.jpg", Misafir Ol Gel Bana - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58385&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/56afa25f4e4b8f89c020400e.jpg", Misafir Ol Gel Bana - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58386&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/5093bd244ed191b9c61c66f8.jpg", Misafir Ol Gel Bana - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58518&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Misafir Ol Gel Bana" tvg-logo="https://media.startv.com.tr/star-tv/images/b7cab44544afb30dcb63f1f0.jpg", Misafir Ol Gel Bana - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_58698&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/1c55e9ff4bf69157624aabd1.jpg", Aşk Kafe - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62857&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/c793869142919599fd7e042e.jpg", Aşk Kafe - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62913&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/06a13d704aa8b16c8bc34a7a.jpg", Aşk Kafe - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62864&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/f33bdbf142f5b19658b767f7.jpg", Aşk Kafe - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63033&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/183f2f7348ebad602f36e4da.jpg", Aşk Kafe - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62879&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/036a645d480d987e98d09432.jpg", Aşk Kafe - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63128&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/2a24e444463a918b7f795dc4.jpg", Aşk Kafe - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62885&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/ab0cb6a8429f8e2dd707b70d.jpg", Aşk Kafe - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62911&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/152f4ec54f9098236960cb2b.jpg", Aşk Kafe - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62944&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/c781c20447f5949bfcd9e13f.jpg", Aşk Kafe - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62973&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/87eed1234728a1d0823c8e6a.jpg", Aşk Kafe - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62991&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/95a90bc2405fbdb182aae3e3.jpg", Aşk Kafe - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62997&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/9f3413c24b1aab52b2593933.jpg", Aşk Kafe - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63017&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/d6fdfb374c4ab6df6248e5e3.jpg", Aşk Kafe - 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63058&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/abd5c43240e1b9804fe840ba.jpg", Aşk Kafe - 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63070&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/7eb281d942b6a313536854c2.jpg", Aşk Kafe - 13. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63086&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/437c274443e2b1fef7671abd.jpg", Aşk Kafe - 14. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63090&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/1a0a876748b4afd049a2bd5d.jpg", Aşk Kafe - 15. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63123&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Zuhal Topal'la" tvg-logo="https://media.startv.com.tr/star-tv/images/6417e7804ff1b1acbceeaadf.jpg", Zuhal Topal'la - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62706&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Zuhal Topal'la" tvg-logo="https://media.startv.com.tr/star-tv/images/9bd57b974be8991f9cfc83bf.jpg", Zuhal Topal'la - 2. Bölüm
@@ -6364,42 +6400,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_67
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_67931&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Zuhal Topal'la" tvg-logo="https://media.startv.com.tr/star-tv/images/a317f44b46c98044bef75c1e.jpg", Zuhal Topal'la - 218. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_67955&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/1c55e9ff4bf69157624aabd1.jpg", Aşk Kafe - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62857&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/c793869142919599fd7e042e.jpg", Aşk Kafe - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62913&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/06a13d704aa8b16c8bc34a7a.jpg", Aşk Kafe - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62864&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/f33bdbf142f5b19658b767f7.jpg", Aşk Kafe - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63033&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/183f2f7348ebad602f36e4da.jpg", Aşk Kafe - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62879&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/036a645d480d987e98d09432.jpg", Aşk Kafe - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63128&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/2a24e444463a918b7f795dc4.jpg", Aşk Kafe - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62885&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/ab0cb6a8429f8e2dd707b70d.jpg", Aşk Kafe - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62911&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/152f4ec54f9098236960cb2b.jpg", Aşk Kafe - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62944&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/c781c20447f5949bfcd9e13f.jpg", Aşk Kafe - 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62973&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/87eed1234728a1d0823c8e6a.jpg", Aşk Kafe - 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62991&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/95a90bc2405fbdb182aae3e3.jpg", Aşk Kafe - 9. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_62997&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/9f3413c24b1aab52b2593933.jpg", Aşk Kafe - 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63017&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/d6fdfb374c4ab6df6248e5e3.jpg", Aşk Kafe - 11. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63058&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/abd5c43240e1b9804fe840ba.jpg", Aşk Kafe - 12. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63070&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/7eb281d942b6a313536854c2.jpg", Aşk Kafe - 13. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63086&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/437c274443e2b1fef7671abd.jpg", Aşk Kafe - 14. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63090&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Aşk Kafe" tvg-logo="https://media.startv.com.tr/star-tv/images/1a0a876748b4afd049a2bd5d.jpg", Aşk Kafe - 15. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63123&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Duymayan Kalmasın" tvg-logo="https://media.startv.com.tr/star-tv/images/506acca441fd99cb945787ee.jpg", Duymayan Kalmasın - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63059&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Duymayan Kalmasın" tvg-logo="https://media.startv.com.tr/star-tv/images/7231e8b94a01ac031b764932.jpg", Duymayan Kalmasın - 2. Bölüm
@@ -7342,18 +7342,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78929&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Özlem Denizmen'le Kadınca" tvg-logo="https://media.startv.com.tr/star-tv/images/ce3653b0458fb253e20702a0.jpg", Özlem Denizmen'le Kadınca - 98. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6538a22af7378a107c202fa7&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/5198a2f14ebdb5bc50eda555.jpg", Geleceğin Starı - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74594&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/dbcd5db64fd089f7a511160a.jpg", Geleceğin Starı - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74657&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/27a407014c8eb466d3142247.jpg", Geleceğin Starı - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74763&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/87925f0b496ea6b64270516c.jpg", Geleceğin Starı - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74796&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/8fbb265943c18c2a131de11b.jpg", Geleceğin Starı - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74854&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/18e2dd8545c29bf2dcd1dfc5.jpg", Geleceğin Starı - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74931&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Mesut Yar Sunar" tvg-logo="https://media.startv.com.tr/star-tv/images/c3b56c0048e6810ae7cd7212.jpg", Mesut Yar Sunar - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65089&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Mesut Yar Sunar" tvg-logo="https://media.startv.com.tr/star-tv/images/7e34568248f2aeb3dd61060f.jpg", Mesut Yar Sunar - 2. Bölüm
@@ -7508,84 +7496,18 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_73
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74108&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Mesut Yar Sunar" tvg-logo="https://media.startv.com.tr/star-tv/images/d090cee542978f72c5629d95.jpg", Mesut Yar Sunar - 77. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74263&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/70cbf5054ada8591522b11bf.jpg", Kocam Yaparsa - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77357&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/445c0dae41c3ac4d2bfd3774.jpg", Kocam Yaparsa - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77361&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/f751d1b24f098605e1c344d7.jpg", Kocam Yaparsa - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77370&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/36d1cf824bb8bee3e3551075.jpg", Kocam Yaparsa - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77384&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/4dd5f4d34a65a78f7a49b25f.jpg", Kocam Yaparsa - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77402&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/71b4d0b54de69e446ee5c67f.jpg", Kocam Yaparsa - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77470&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/dfc60c6e413b8a4b3969e198.jpg", Kocam Yaparsa - 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77477&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/8c13cb624e6d9177182718be.jpg", Kocam Yaparsa - 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77486&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/72eedf254d05979b83edac4a.jpg", Kocam Yaparsa - 9. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77504&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/60c223214ebf89efdf06fe6a.jpg", Kocam Yaparsa - 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77512&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/ffa079f945e0a96e622d27b4.jpg", Kocam Yaparsa - 11. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77586&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e9bfa1904d8fb944f44db80a.jpg", Kocam Yaparsa - 12. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77590&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/ce4743904bd0bb6221fbce43.jpg", Kocam Yaparsa - 13. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c840f7378a107c1f6970&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/5df7a5904e8288e57bb166bd.jpg", Kocam Yaparsa - 14. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77622&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/a13ab3dd4d30b55bff3a1d4a.jpg", Kocam Yaparsa - 15. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c842f7378a107c1f6974&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/2bdf20d743d5815ad3feb729.jpg", Kocam Yaparsa - 16. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77700&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/82450c3b477a9c810c147935.jpg", Kocam Yaparsa - 17. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77738&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e8ed55a3474eb474639398f1.jpg", Kocam Yaparsa - 18. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77750&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/37f18c8743e58eae380ae13b.jpg", Kocam Yaparsa - 19. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c847f7378a107c1f697c&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/eeee47b24a3f8a23452e0df8.jpg", Kocam Yaparsa - 20. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77788&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/0efc7b1c4a89b77316d125e4.jpg", Kocam Yaparsa - 21. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77846&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/d64261ab43a9837dda2dbec0.jpg", Kocam Yaparsa - 22. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77880&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/9d7ae5ec48e483a29afe1bb9.jpg", Kocam Yaparsa - 23. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77893&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e5b0ce8d4917bc3bdff59fa2.jpg", Kocam Yaparsa - 24. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77900&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/39b9ee87475493882fef4ed4.jpg", Kocam Yaparsa - 25. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77929&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e8eba5c040b099d376c2354d.jpg", Kocam Yaparsa - 26. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77996&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/b9511248482aa31d9e88b278.jpg", Kocam Yaparsa - 27. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78012&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/4bc8dd3b48c1bf2128a2a820.jpg", Kocam Yaparsa - 28. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78025&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/8ac6792243328843c1405fda.jpg", Kocam Yaparsa - 29. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78054&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/334ce39b48b8b74babbad63c.jpg", Kocam Yaparsa - 30. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78065&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/6564b2434c19adb0e0e05623.jpg", Kocam Yaparsa - 31. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78124&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/3e550e4f4267b7d21e6bca3c.jpg", Kocam Yaparsa - 32. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78159&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/52f605cc4067a35f0150e07a.jpg", Kocam Yaparsa - 33. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78166&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/550e79da4440b402b16f687d.jpg", Kocam Yaparsa - 34. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78176&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/a907dd5549d980084def9366.jpg", Kocam Yaparsa - 36. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78254&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/12c297e14e32838f52f7b006.jpg", Kocam Yaparsa - 37. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78286&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/689e165e4f3399992a49a2ee.jpg", Kocam Yaparsa - 38. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78294&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e532f64549889efe6f39ffb9.jpg", Kocam Yaparsa - 39. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78295&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/0791ced2451a8ffca8445275.jpg", Kocam Yaparsa - 40. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78338&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/5198a2f14ebdb5bc50eda555.jpg", Geleceğin Starı - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74594&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/dbcd5db64fd089f7a511160a.jpg", Geleceğin Starı - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74657&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/27a407014c8eb466d3142247.jpg", Geleceğin Starı - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74763&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/87925f0b496ea6b64270516c.jpg", Geleceğin Starı - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74796&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/8fbb265943c18c2a131de11b.jpg", Geleceğin Starı - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74854&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Geleceğin Starı" tvg-logo="https://media.startv.com.tr/star-tv/images/18e2dd8545c29bf2dcd1dfc5.jpg", Geleceğin Starı - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_74931&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nergis Zamanı" tvg-logo="https://media.startv.com.tr/star-tv/images/45e002944eefa6e5837dd3f6.jpg", Nergis Zamanı - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_76116&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nergis Zamanı" tvg-logo="https://media.startv.com.tr/star-tv/images/9cd43b294571a2b513b378cc.jpg", Nergis Zamanı - 2. Bölüm
@@ -7706,6 +7628,84 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77510&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nergis Zamanı" tvg-logo="https://media.startv.com.tr/star-tv/images/8fff9cbe470da1f82103d8bc.jpg", Nergis Zamanı - 60. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77534&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/70cbf5054ada8591522b11bf.jpg", Kocam Yaparsa - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77357&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/445c0dae41c3ac4d2bfd3774.jpg", Kocam Yaparsa - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77361&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/f751d1b24f098605e1c344d7.jpg", Kocam Yaparsa - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77370&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/36d1cf824bb8bee3e3551075.jpg", Kocam Yaparsa - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77384&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/4dd5f4d34a65a78f7a49b25f.jpg", Kocam Yaparsa - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77402&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/71b4d0b54de69e446ee5c67f.jpg", Kocam Yaparsa - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77470&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/dfc60c6e413b8a4b3969e198.jpg", Kocam Yaparsa - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77477&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/8c13cb624e6d9177182718be.jpg", Kocam Yaparsa - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77486&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/72eedf254d05979b83edac4a.jpg", Kocam Yaparsa - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77504&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/60c223214ebf89efdf06fe6a.jpg", Kocam Yaparsa - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77512&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/ffa079f945e0a96e622d27b4.jpg", Kocam Yaparsa - 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77586&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e9bfa1904d8fb944f44db80a.jpg", Kocam Yaparsa - 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77590&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/ce4743904bd0bb6221fbce43.jpg", Kocam Yaparsa - 13. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c840f7378a107c1f6970&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/5df7a5904e8288e57bb166bd.jpg", Kocam Yaparsa - 14. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77622&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/a13ab3dd4d30b55bff3a1d4a.jpg", Kocam Yaparsa - 15. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c842f7378a107c1f6974&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/2bdf20d743d5815ad3feb729.jpg", Kocam Yaparsa - 16. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77700&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/82450c3b477a9c810c147935.jpg", Kocam Yaparsa - 17. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77738&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e8ed55a3474eb474639398f1.jpg", Kocam Yaparsa - 18. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77750&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/37f18c8743e58eae380ae13b.jpg", Kocam Yaparsa - 19. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c847f7378a107c1f697c&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/eeee47b24a3f8a23452e0df8.jpg", Kocam Yaparsa - 20. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77788&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/0efc7b1c4a89b77316d125e4.jpg", Kocam Yaparsa - 21. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77846&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/d64261ab43a9837dda2dbec0.jpg", Kocam Yaparsa - 22. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77880&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/9d7ae5ec48e483a29afe1bb9.jpg", Kocam Yaparsa - 23. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77893&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e5b0ce8d4917bc3bdff59fa2.jpg", Kocam Yaparsa - 24. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77900&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/39b9ee87475493882fef4ed4.jpg", Kocam Yaparsa - 25. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77929&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e8eba5c040b099d376c2354d.jpg", Kocam Yaparsa - 26. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_77996&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/b9511248482aa31d9e88b278.jpg", Kocam Yaparsa - 27. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78012&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/4bc8dd3b48c1bf2128a2a820.jpg", Kocam Yaparsa - 28. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78025&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/8ac6792243328843c1405fda.jpg", Kocam Yaparsa - 29. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78054&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/334ce39b48b8b74babbad63c.jpg", Kocam Yaparsa - 30. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78065&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/6564b2434c19adb0e0e05623.jpg", Kocam Yaparsa - 31. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78124&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/3e550e4f4267b7d21e6bca3c.jpg", Kocam Yaparsa - 32. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78159&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/52f605cc4067a35f0150e07a.jpg", Kocam Yaparsa - 33. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78166&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/550e79da4440b402b16f687d.jpg", Kocam Yaparsa - 34. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78176&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/a907dd5549d980084def9366.jpg", Kocam Yaparsa - 36. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78254&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/12c297e14e32838f52f7b006.jpg", Kocam Yaparsa - 37. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78286&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/689e165e4f3399992a49a2ee.jpg", Kocam Yaparsa - 38. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78294&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/e532f64549889efe6f39ffb9.jpg", Kocam Yaparsa - 39. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78295&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Kocam Yaparsa" tvg-logo="https://media.startv.com.tr/star-tv/images/0791ced2451a8ffca8445275.jpg", Kocam Yaparsa - 40. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78338&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nursel'in Konukları" tvg-logo="https://media.startv.com.tr/star-tv/images/9d5a014b4ee58394193cf7b1.jpg", Nursel'in Konukları - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_78010&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nursel'in Konukları" tvg-logo="https://media.startv.com.tr/star-tv/images/b0c39cfe44149f916317a861.jpg", Nursel'in Konukları - 2. Bölüm
@@ -8808,6 +8808,8 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_90
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_90300&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Nefise Karatay ile Hayat Güzeldir" tvg-logo="https://media.startv.com.tr/star-tv/images/1403aa5c4c7bb16604bd2cb4.jpg", Nefise Karatay ile Hayat Güzeldir - 26. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_90301&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İbo Show" tvg-logo="https://media.startv.com.tr/star-tv/images/ibo-show(4).jpg", İbo Show - 2026. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_695512e2d77667c35593da36&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Halit Yerebakan'la Doktor Geldi" tvg-logo="https://media.startv.com.tr/star-tv/images/167a162f4e749c098525e5f8.jpg", Halit Yerebakan'la Doktor Geldi - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_90261&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Halit Yerebakan'la Doktor Geldi" tvg-logo="https://media.startv.com.tr/star-tv/images/b067eb134881abcf425fbc41.jpg", Halit Yerebakan'la Doktor Geldi - 2. Bölüm
@@ -9008,28 +9010,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91740&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Halit Yerebakan'la Doktor Geldi" tvg-logo="https://media.startv.com.tr/star-tv/images/fc57e9894cadafcacf229d77.jpg", Halit Yerebakan'la Doktor Geldi - 100. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91741&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İbo Show" tvg-logo="https://media.startv.com.tr/star-tv/images/ibo-show(4).jpg", İbo Show - 2026. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_695512e2d77667c35593da36&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/bc08fc974e0d8bf21d2a57b6.jpg", İdil Yazar ile Keyifli Tarifler - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91483&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/b6f5c69443e49fbb86312a3f.jpg", İdil Yazar ile Keyifli Tarifler - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91578&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/6c729c4f48acbee17bcb5c7d.jpg", İdil Yazar ile Keyifli Tarifler - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91633&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/a5e0e0af4e6aa1461189c071.jpg", İdil Yazar ile Keyifli Tarifler - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91776&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/973df47641459d9e08dc6133.jpg", İdil Yazar ile Keyifli Tarifler - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91861&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/ffdc88184da59cda825e6cb4.jpg", İdil Yazar ile Keyifli Tarifler - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91946&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/fce4cea44b409ec277d94b2f.jpg", İdil Yazar ile Keyifli Tarifler - 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92049&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/d75bd4fa47b6972e0b710879.jpg", İdil Yazar ile Keyifli Tarifler - 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92112&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/76c57bdd4a44a959d7596e7c.jpg", İdil Yazar ile Keyifli Tarifler - 9. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92358&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/f7d6464b4997b1c1adef6262.jpg", İdil Yazar ile Keyifli Tarifler - 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92447&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Meltem Demir ile Hanımeli" tvg-logo="https://media.startv.com.tr/star-tv/images/621900724c5eb4052ec9b0a1.jpg", Meltem Demir ile Hanımeli - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91626&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Meltem Demir ile Hanımeli" tvg-logo="https://media.startv.com.tr/star-tv/images/5f40b7884f4ca2e283153fee.jpg", Meltem Demir ile Hanımeli - 2. Bölüm
@@ -9082,30 +9062,30 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92726&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Meltem Demir ile Hanımeli" tvg-logo="https://media.startv.com.tr/star-tv/images/fd33a09d46f6b00b8e266744.jpg", Meltem Demir ile Hanımeli - 26. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92727&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/bc08fc974e0d8bf21d2a57b6.jpg", İdil Yazar ile Keyifli Tarifler - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91483&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/b6f5c69443e49fbb86312a3f.jpg", İdil Yazar ile Keyifli Tarifler - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91578&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/6c729c4f48acbee17bcb5c7d.jpg", İdil Yazar ile Keyifli Tarifler - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91633&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/a5e0e0af4e6aa1461189c071.jpg", İdil Yazar ile Keyifli Tarifler - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91776&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/973df47641459d9e08dc6133.jpg", İdil Yazar ile Keyifli Tarifler - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91861&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/ffdc88184da59cda825e6cb4.jpg", İdil Yazar ile Keyifli Tarifler - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91946&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/fce4cea44b409ec277d94b2f.jpg", İdil Yazar ile Keyifli Tarifler - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92049&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/d75bd4fa47b6972e0b710879.jpg", İdil Yazar ile Keyifli Tarifler - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92112&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/76c57bdd4a44a959d7596e7c.jpg", İdil Yazar ile Keyifli Tarifler - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92358&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="İdil Yazar ile Keyifli Tarifler" tvg-logo="https://media.startv.com.tr/star-tv/images/f7d6464b4997b1c1adef6262.jpg", İdil Yazar ile Keyifli Tarifler - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_92447&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe Deprem Bölgesinde" tvg-logo="https://media.startv.com.tr/star-tv/images/f4195bcf41e7a09848bb9d31.jpg", Vahe Deprem Bölgesinde - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c2d4f7378a107c1f6246&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Vahe Deprem Bölgesinde" tvg-logo="https://media.startv.com.tr/star-tv/images/3f784bf040228e45333217af.jpg", Vahe Deprem Bölgesinde - 2. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c2d6f7378a107c1f6248&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/58c1ee96474bbeb73043aa00.jpg", Lezzet Rotası - 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93666&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/cdd599b34a4292b05aec2b1d.jpg", Lezzet Rotası - 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93702&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/aeba982743bb8a6508a1d93a.jpg", Lezzet Rotası - 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93729&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/514590e043efb67aebb7b4f6.jpg", Lezzet Rotası - 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93755&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/038df7604f98b0219a265bb9.jpg", Lezzet Rotası - 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93783&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/3df8237540c0a0ef9c5d8000.jpg", Lezzet Rotası - 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93794&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/d0f5ed6d4f3eb22ee7c83639.jpg", Lezzet Rotası - 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93817&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/f2675c2445a88fda3bd1010d.jpg", Lezzet Rotası - 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93838&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/32d1b9e94723bd79c864bfb9.jpg", Lezzet Rotası - 9. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93870&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/29e5c78c46278f471a8a0493.jpg", Lezzet Rotası - 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93929&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Murat Aksoy ile Hafta Sonu" tvg-logo="https://media.startv.com.tr/star-tv/images/88bb27d34560bbbd64281882.jpg", Murat Aksoy ile Hafta Sonu - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537bab9f7378a107c1f598d&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Murat Aksoy ile Hafta Sonu" tvg-logo="https://media.startv.com.tr/star-tv/images/5a4dacc4465aa7d947f7c199.jpg", Murat Aksoy ile Hafta Sonu - 2. Bölüm
@@ -9126,6 +9106,40 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a5a37386fed5312c8ca0f&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Murat Aksoy ile Hafta Sonu" tvg-logo="https://media.startv.com.tr/star-tv/images/d1645225451ebccf7b421b28.jpg", Murat Aksoy ile Hafta Sonu - 10. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_655a5a39386fed5312c8ca11&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/58c1ee96474bbeb73043aa00.jpg", Lezzet Rotası - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93666&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/cdd599b34a4292b05aec2b1d.jpg", Lezzet Rotası - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93702&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/aeba982743bb8a6508a1d93a.jpg", Lezzet Rotası - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93729&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/514590e043efb67aebb7b4f6.jpg", Lezzet Rotası - 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93755&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/038df7604f98b0219a265bb9.jpg", Lezzet Rotası - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93783&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/3df8237540c0a0ef9c5d8000.jpg", Lezzet Rotası - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93794&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/d0f5ed6d4f3eb22ee7c83639.jpg", Lezzet Rotası - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93817&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/f2675c2445a88fda3bd1010d.jpg", Lezzet Rotası - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93838&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/32d1b9e94723bd79c864bfb9.jpg", Lezzet Rotası - 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93870&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Lezzet Rotası" tvg-logo="https://media.startv.com.tr/star-tv/images/29e5c78c46278f471a8a0493.jpg", Lezzet Rotası - 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_93929&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Patlat Kazan" tvg-logo="https://media.startv.com.tr/star-tv/images/422114564a078da8226a9db3.jpg", Patlat Kazan - 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c209f7378a107c1f6166&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Patlat Kazan" tvg-logo="https://media.startv.com.tr/star-tv/images/89f729d74377aa607b855a25.jpg", Patlat Kazan - 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c20af7378a107c1f6168&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Patlat Kazan" tvg-logo="https://media.startv.com.tr/star-tv/images/357a15294396a3dbf62cace1.jpg", Patlat Kazan - 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c20cf7378a107c1f616a&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Patlat Kazan" tvg-logo="https://media.startv.com.tr/star-tv/images/24512a7940198de68e229788.jpg", Patlat Kazan - 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c20ff7378a107c1f616e&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Patlat Kazan" tvg-logo="https://media.startv.com.tr/star-tv/images/9f0be1344654b5f6ec281035.jpg", Patlat Kazan - 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c210f7378a107c1f6170&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Patlat Kazan" tvg-logo="https://media.startv.com.tr/star-tv/images/23ec624f465c98c9f6126571.jpg", Patlat Kazan - 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c212f7378a107c1f6172&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 group-title="Patlat Kazan" tvg-logo="https://media.startv.com.tr/star-tv/images/a805eb05402c8130f4b89702.jpg", Patlat Kazan - 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6537c214f7378a107c1f6174&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Müge ile TV Dergisi" tvg-logo="https://media.startv.com.tr/star-tv/images/1.-b246l252m.jpg", Müge ile TV Dergisi - 1. Bölüm
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65e9b9e0a835fd1480cf9a72&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 group-title="Müge ile TV Dergisi" tvg-logo="https://media.startv.com.tr/star-tv/images/asd(3).jpg", Müge ile TV Dergisi - 2. Bölüm
