@@ -5,7 +5,7 @@
     "original_name": "Dark",
     "overview": "Bir çocuğun kaybolması, dört aileyi hummalı bir cevap arayışına iter. Bu arayışları, üç nesli kapsayan akıl almaz bir gizemi ortaya çıkarmalarına neden olur.",
     "poster": "https://image.tmdb.org/t/p/w500/7yQyDCqSazrYTnmxdQLAZ8YDH87.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/2VpSajCTI26zddsp5cSjqfCBKEa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/75HgaphatW0PDI3XIHQWZUpbhn6.jpg",
     "year": "2017",
     "rating": 8.4,
     "genres": [
@@ -15,15 +15,15 @@
         "Gizem"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Netflix",
+        "Tümü"
     ],
     "cast": [
         {
             "name": "Louis Hofmann",
             "role": "Jonas Kahnwald",
-            "image": "https://image.tmdb.org/t/p/w200/v6SJbgkWOP2xEV2nhHD8m6BPtFT.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/m3Mo38afbKmy9EOsfmUagvTFM9q.jpg"
         }
     ],
     "episodes": [
@@ -262,5 +262,5 @@
             "link": "https://vidmody.com/vs/tt5753856/s3/e08"
         }
     ],
-    "update_date": "2026-02-15 16:33:55"
+    "update_date": "2026-03-02 13:44:49"
 }
