@@ -13,10 +13,10 @@
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "tvN",
-        "Amazon Prime",
-        "Kore"
+        "Kore",
+        "Tümü",
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -27,12 +27,12 @@
         {
             "name": "임지연",
             "role": "Wi Jeong-sin",
-            "image": "https://image.tmdb.org/t/p/w200/nUdLruXK0lcjLBNcpK8eNxXwyF6.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/kXacAfyn5CCuCBd16XXhEVLyxCM.jpg"
         },
         {
             "name": "김지훈",
             "role": "Lee Jae-hyeong",
-            "image": "https://image.tmdb.org/t/p/w200/8aDGLz92eaTcz6y31IeKmKNSAV8.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/ts2P3zONNZxD4AWIVu0FrvtUQNJ.jpg"
         },
         {
             "name": "서지혜",
@@ -45,7 +45,7 @@
             "image": "https://image.tmdb.org/t/p/w200/aYiS6jQNNmOSfzcobDs12pLOOjj.jpg"
         },
         {
-            "name": "Kim Hyun-jin",
+            "name": "김현진",
             "role": "Lim Seon-u",
             "image": "https://image.tmdb.org/t/p/w200/2bKZb6DK01ERmBciiTlMEMnisKl.jpg"
         },
@@ -216,5 +216,5 @@
             "link": "https://vidmody.com/vs/tt37506062/s1/e16"
         }
     ],
-    "update_date": "2026-02-15 13:25:25"
+    "update_date": "2026-03-02 10:31:53"
 }
