@@ -13,9 +13,9 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Tümü",
         "TOD TV",
         "Amazon Prime",
+        "Tümü",
         "BBC One"
     ],
     "cast": [
@@ -27,12 +27,12 @@
         {
             "name": "Nikolaj Coster-Waldau",
             "role": "William of Normandy",
-            "image": "https://image.tmdb.org/t/p/w200/6w2SgB20qzs2R5MQIAckINLhfoP.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
         },
         {
             "name": "Emily Beecham",
             "role": "Edith Swanneck",
-            "image": "https://image.tmdb.org/t/p/w200/12zgj8SvKEUML1kRC0CUlyxpJ6r.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/x6cFQCNK09RjCfSp0shXzG2zmnG.jpg"
         },
         {
             "name": "Clémence Poésy",
@@ -119,5 +119,5 @@
             "link": "https://vidmody.com/vs/tt30221531/s1/e08"
         }
     ],
-    "update_date": "2026-02-15 10:53:37"
+    "update_date": "2026-03-02 07:47:31"
 }
