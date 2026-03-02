@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Netflix Standard with Ads
+#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/yXje7npgrNtAdx9FPwuwHuO9O8Z.jpg", [7.5] Sonsuzluk Yolcusu S01E01 - Oyun Gecesi
+https://vidmody.com/vs/tt27740241/s1/e01
+#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/xGl6Ctm1trLI6wyFpZdcWv67vn6.jpg", [7.5] Sonsuzluk Yolcusu S01E02 - Güneşe Çıkın
+https://vidmody.com/vs/tt27740241/s1/e02
+#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/4UEANa319Zgt2r2KHJzzQ0CZKub.jpg", [7.5] Sonsuzluk Yolcusu S01E03 - Manyetizma
+https://vidmody.com/vs/tt27740241/s1/e03
+#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/w5cQnWlp0M0xiSigi0p2NaYpqvN.jpg", [7.5] Sonsuzluk Yolcusu S01E04 - İnanç
+https://vidmody.com/vs/tt27740241/s1/e04
+#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/ysuMRVHBHxRSX6FFjPHmz3HNHG5.jpg", [7.5] Sonsuzluk Yolcusu S01E05 - Ufuk
+https://vidmody.com/vs/tt27740241/s1/e05
+#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/iXCVfc0Na5AvHmkrF4SAB7GEIBX.jpg", [7.5] Sonsuzluk Yolcusu S01E06 - Soğuk Domates Suyu
+https://vidmody.com/vs/tt27740241/s1/e06
 #EXTINF:-1 group-title="Dear Hongrang" tvg-logo="https://image.tmdb.org/t/p/w400/6vA5KrIQE11Yu2VkImBcMMrSiro.jpg", [7.3] Dear Hongrang S01E01 - Gökkuşağı Hong, Parlayan Rang - Kardeşim Hongrang
 https://vidmody.com/vs/tt27554348/s1/e01
 #EXTINF:-1 group-title="Dear Hongrang" tvg-logo="https://image.tmdb.org/t/p/w400/qxeLZ3HsogW6wF0tPVcYpk5dpcU.jpg", [7.3] Dear Hongrang S01E02 - Dünyamızı Çalan Kişi
@@ -2586,15 +2598,3 @@ https://vidmody.com/vs/tt27987047/s1/e06
 https://vidmody.com/vs/tt27987047/s1/e07
 #EXTINF:-1 group-title="Boots" tvg-logo="https://image.tmdb.org/t/p/w400/aNwGawy15NKLh7AB2vw1gOOC4d4.jpg", [7.9] Boots S01E08 - Cendere
 https://vidmody.com/vs/tt27987047/s1/e08
-#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/yXje7npgrNtAdx9FPwuwHuO9O8Z.jpg", [7.5] Sonsuzluk Yolcusu S01E01 - Oyun Gecesi
-https://vidmody.com/vs/tt27740241/s1/e01
-#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/xGl6Ctm1trLI6wyFpZdcWv67vn6.jpg", [7.5] Sonsuzluk Yolcusu S01E02 - Güneşe Çıkın
-https://vidmody.com/vs/tt27740241/s1/e02
-#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/4UEANa319Zgt2r2KHJzzQ0CZKub.jpg", [7.5] Sonsuzluk Yolcusu S01E03 - Manyetizma
-https://vidmody.com/vs/tt27740241/s1/e03
-#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/w5cQnWlp0M0xiSigi0p2NaYpqvN.jpg", [7.5] Sonsuzluk Yolcusu S01E04 - İnanç
-https://vidmody.com/vs/tt27740241/s1/e04
-#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/ysuMRVHBHxRSX6FFjPHmz3HNHG5.jpg", [7.5] Sonsuzluk Yolcusu S01E05 - Ufuk
-https://vidmody.com/vs/tt27740241/s1/e05
-#EXTINF:-1 group-title="Sonsuzluk Yolcusu" tvg-logo="https://image.tmdb.org/t/p/w400/iXCVfc0Na5AvHmkrF4SAB7GEIBX.jpg", [7.5] Sonsuzluk Yolcusu S01E06 - Soğuk Domates Suyu
-https://vidmody.com/vs/tt27740241/s1/e06
