@@ -7,16 +7,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/sNGKN7Nvdi85gj75pnSvqzMF3MC.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
     "year": "2025",
-    "rating": 8.2,
+    "rating": 8.1,
     "genres": [
         "Komedi",
         "Dram"
     ],
     "categories": [
-        "Tümü",
-        "tvN",
-        "Netflix Standard with Ads",
         "Netflix",
+        "Netflix Standard with Ads",
+        "tvN",
+        "Tümü",
         "Kore"
     ],
     "cast": [
@@ -162,5 +162,5 @@
             "link": "https://vidmody.com/vs/tt39012462/s1/e11"
         }
     ],
-    "update_date": "2026-02-15 13:50:14"
+    "update_date": "2026-03-02 10:58:03"
 }
