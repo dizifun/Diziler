@@ -14,17 +14,17 @@
         "Bilim Kurgu & Fantazi"
     ],
     "categories": [
-        "Tümü",
-        "TOD TV",
         "MGM Plus",
-        "Amazon Prime",
         "TV+",
         "Spectrum On Demand",
-        "fuboTV",
+        "Amazon Prime",
         "Epix",
-        "MGM+",
+        "MGM Plus Roku Premium Channel",
         "Philo",
-        "MGM Plus Roku Premium Channel"
+        "MGM+",
+        "Tümü",
+        "fuboTV",
+        "TOD TV"
     ],
     "cast": [
         {
@@ -43,39 +43,24 @@
             "image": "https://image.tmdb.org/t/p/w200/3DW13W47cKk4LQZwS4EvRaNBoVu.jpg"
         },
         {
-            "name": "David Alpay",
-            "role": "Jade",
-            "image": "https://image.tmdb.org/t/p/w200/ezGCb3pOtEDZy3QNZxX6bQtKWiY.jpg"
-        },
-        {
-            "name": "Elizabeth Saunders",
-            "role": "Donna",
-            "image": "https://image.tmdb.org/t/p/w200/h6Wv6kDvXIvQibFpSzAONKNinmT.jpg"
-        },
-        {
-            "name": "Scott McCord",
-            "role": "Victor",
-            "image": "https://image.tmdb.org/t/p/w200/dvuRt2P2tWemEZpSWKvl60TGa2l.jpg"
-        },
-        {
-            "name": "Ricky He",
-            "role": "Kenny Liu",
-            "image": "https://image.tmdb.org/t/p/w200/bgv6sEvZjnrzTm72IL993GrgCT8.jpg"
-        },
-        {
-            "name": "Chloe Van Landschoot",
-            "role": "Kristi",
-            "image": "https://image.tmdb.org/t/p/w200/9sQDQxKcp0UAl5nKfeoHwcn3eGs.jpg"
-        },
-        {
             "name": "Pegah Ghafoori",
             "role": "Fatima",
             "image": "https://image.tmdb.org/t/p/w200/88btGY5LWHRcHgS2GPq5SxJesQe.jpg"
         },
         {
-            "name": "Corteon Moore",
-            "role": "Ellis Stevens",
-            "image": "https://image.tmdb.org/t/p/w200/6jHlhaUdAOKEMmODVyQOQB4YMwY.jpg"
+            "name": "Hannah Cheramy",
+            "role": "Julie Matthews",
+            "image": "https://image.tmdb.org/t/p/w200/7IzmZPgIpWazmvAWJKfISL2Wtnu.jpg"
+        },
+        {
+            "name": "Simon Webster",
+            "role": "Ethan Matthews",
+            "image": "https://image.tmdb.org/t/p/w200/8K8D5ZQIb4fDSGxTKL2FVjFloWW.jpg"
+        },
+        {
+            "name": "Elizabeth Moy",
+            "role": "Tian-Chen Liu",
+            "image": "https://image.tmdb.org/t/p/w200/qanDyzwpag6V0NJWgIA3TcOaSJO.jpg"
         }
     ],
     "episodes": [
@@ -350,5 +335,5 @@
             "link": "https://vidmody.com/vs/tt9813792/s3/e10"
         }
     ],
-    "update_date": "2026-02-15 21:05:09"
+    "update_date": "2026-03-02 19:30:28"
 }
