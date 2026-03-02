@@ -7,17 +7,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/z7qBomUexU29AJnK0xxMnczF0Ad.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nRxbtO6OchyepUL2Zr4dpMZsdsX.jpg",
     "year": "2026",
-    "rating": 8.0,
+    "rating": 7.8,
     "genres": [
         "Komedi",
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Amazon Prime",
-        "Prime Video",
         "tvN",
-        "Kore"
+        "Tümü",
+        "Kore",
+        "Prime Video"
     ],
     "cast": [
         {
@@ -109,5 +109,5 @@
             "link": "https://vidmody.com/vs/tt39137681/s1/e04"
         }
     ],
-    "update_date": "2026-02-15 13:53:16"
+    "update_date": "2026-03-02 11:01:37"
 }
