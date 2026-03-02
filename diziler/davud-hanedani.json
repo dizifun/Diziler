@@ -12,9 +12,9 @@
         "Dram"
     ],
     "categories": [
+        "Amazon Prime",
         "Tümü",
         "Wonder Project",
-        "Amazon Prime",
         "Prime Video"
     ],
     "cast": [
@@ -25,7 +25,7 @@
         },
         {
             "name": "Alexander Uloom",
-            "role": "",
+            "role": "King Achish",
             "image": "https://image.tmdb.org/t/p/w200/65PDKintL28er7lzh5KdvpNGoa3.jpg"
         }
     ],
@@ -103,5 +103,5 @@
             "link": "https://vidmody.com/vs/tt30955673/s1/e08"
         }
     ],
-    "update_date": "2026-02-15 11:06:51"
+    "update_date": "2026-03-02 08:00:45"
 }
