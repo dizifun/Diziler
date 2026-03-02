@@ -7,17 +7,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7K7wbQIpkzif4fMhDHsCweXFS42.jpg",
     "year": "2025",
-    "rating": 8.0,
+    "rating": 7.9,
     "genres": [
         "Animasyon",
         "Bilim Kurgu & Fantazi",
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Tümü",
+        "Prime Video",
         "Amazon Prime",
-        "Animasyon",
-        "Prime Video"
+        "Tümü",
+        "Animasyon"
     ],
     "cast": [
         {
@@ -26,14 +26,9 @@
             "image": "https://image.tmdb.org/t/p/w200/y2szEyFy7VFAzdQjMwN3fLwEDn.jpg"
         },
         {
-            "name": "Marisha Ray",
-            "role": "Beau (voice)",
-            "image": "https://image.tmdb.org/t/p/w200/pLP67Y4iV6vQVaV1O2K7FNmvXJX.jpg"
-        },
-        {
-            "name": "Liam O'Brien",
-            "role": "Caleb (voice)",
-            "image": "https://image.tmdb.org/t/p/w200/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+            "name": "Taliesin Jaffe",
+            "role": "Mollymauk (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/6J7WD9B9ijvP8rw5hREV47MQbUt.jpg"
         },
         {
             "name": "Ashley Johnson",
@@ -41,9 +36,19 @@
             "image": "https://image.tmdb.org/t/p/w200/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
         },
         {
-            "name": "Taliesin Jaffe",
-            "role": "Mollymauk (voice)",
-            "image": "https://image.tmdb.org/t/p/w200/6J7WD9B9ijvP8rw5hREV47MQbUt.jpg"
+            "name": "Matthew Mercer",
+            "role": "Essek (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/fe1S317253vfMuNuIDjhp9vtNSs.jpg"
+        },
+        {
+            "name": "Liam O'Brien",
+            "role": "Caleb (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+        },
+        {
+            "name": "Marisha Ray",
+            "role": "Beau (voice)",
+            "image": "https://image.tmdb.org/t/p/w200/pLP67Y4iV6vQVaV1O2K7FNmvXJX.jpg"
         },
         {
             "name": "Sam Riegel",
@@ -54,11 +59,6 @@
             "name": "Travis Willingham",
             "role": "Fjord (voice)",
             "image": "https://image.tmdb.org/t/p/w200/clvP30k6cUMf4hukRQqZD3k9z4S.jpg"
-        },
-        {
-            "name": "Matthew Mercer",
-            "role": "Essek (voice)",
-            "image": "https://image.tmdb.org/t/p/w200/fe1S317253vfMuNuIDjhp9vtNSs.jpg"
         }
     ],
     "episodes": [
@@ -135,5 +135,5 @@
             "link": "https://vidmody.com/vs/tt26453092/s1/e08"
         }
     ],
-    "update_date": "2026-02-15 09:16:08"
+    "update_date": "2026-03-02 06:06:18"
 }
