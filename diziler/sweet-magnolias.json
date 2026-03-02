@@ -7,14 +7,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/wt60Q4doM2vrubiCsutwaeWncLL.jpg",
     "year": "2020",
-    "rating": 7.8,
+    "rating": 7.7,
     "genres": [
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Netflix",
+        "Tümü"
     ],
     "cast": [
         {
@@ -420,5 +420,5 @@
             "link": "https://vidmody.com/vs/tt9077540/s4/e10"
         }
     ],
-    "update_date": "2026-02-15 20:30:23"
+    "update_date": "2026-03-02 18:36:52"
 }
