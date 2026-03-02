@@ -13,17 +13,17 @@
         "Suç"
     ],
     "categories": [
-        "Tümü",
-        "TOD TV",
-        "Amazon Prime",
-        "Paramount Plus Essential",
         "CBS",
-        "Spectrum On Demand",
-        "fuboTV",
         "Paramount+ Roku Premium Channel",
-        "Paramount Plus Apple TV Channel",
+        "Paramount Plus Essential",
+        "Spectrum On Demand",
+        "Amazon Prime",
         "YouTube TV",
-        "Paramount Plus Premium"
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV Channel",
+        "Tümü",
+        "fuboTV",
+        "TOD TV"
     ],
     "cast": [
         {
@@ -99,5 +99,5 @@
             "link": "https://vidmody.com/vs/tt32268630/s1/e08"
         }
     ],
-    "update_date": "2026-02-15 11:42:42"
+    "update_date": "2026-03-02 08:38:27"
 }
