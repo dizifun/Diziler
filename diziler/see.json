@@ -14,8 +14,8 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Tümü",
         "Amazon Prime",
+        "Tümü",
         "Apple TV"
     ],
     "cast": [
@@ -42,7 +42,7 @@
         {
             "name": "Archie Madekwe",
             "role": "Kofun",
-            "image": "https://image.tmdb.org/t/p/w200/tdTv1E3309yWTU9IdtdhZj1a1Zj.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/m1pIkNA7iqDx8418h05D7aH6DTN.jpg"
         },
         {
             "name": "Nesta Cooper",
@@ -288,5 +288,5 @@
             "link": "https://vidmody.com/vs/tt7949218/s3/e08"
         }
     ],
-    "update_date": "2026-02-15 19:19:08"
+    "update_date": "2026-03-02 17:05:00"
 }
