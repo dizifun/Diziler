@@ -5,7 +5,7 @@
         "name": "Attack on Titan",
         "original_name": "進撃の巨人",
         "overview": "Birkaç yüzyıl önce insanlar, devler tarafından neredeyse tamamen yok edilmiştir. Bu devler uzun boyludur, zeki değildirler ve insanları yiyerek beslenirler. Küçük bir grup insan, çareyi en büyük devlerden bile uzun olan yüksek duvarlarla çevrili bir şehre kendilerini kapatarak bulmuşlardır. Günümüze gelindiğinde şehirde 100 yıldır hiç dev görülmemiştir. Genç çocuk Eren ve üvey kız kardeşi Mikasa, büyük bir dev tarafından şehrin duvarlarının yıkılışına tanık olurlar. Devler şehre akın etmeye başlar ve iki çocuk da annelerinin canlı canlı yenişine korku içinde tanıklık ederler. Eren her bir devi öldürüp tüm insanlığın intikamını alacağına yemin eder.",
-        "poster": "https://image.tmdb.org/t/p/w500/y4yOyiURGUfRZO0WRHuA8BFsb9M.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/qlbcGr0EYKRICD0MTrIwnIztQna.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w780/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
         "year": "2013",
         "rating": 8.7,
@@ -15,14 +15,14 @@
             "Aksiyon & Macera"
         ],
         "categories": [
-            "Tümü",
-            "Hulu",
-            "Amazon Prime",
-            "Anime",
             "MBS",
+            "Crunchyroll",
+            "Amazon Prime",
             "NHK G",
             "Tokyo MX",
-            "Crunchyroll"
+            "Tümü",
+            "Anime",
+            "Hulu"
         ],
         "cast": [
             {
@@ -856,6 +856,6 @@
                 "link": "https://vidmody.com/vs/tt2560140/s4/e28"
             }
         ],
-        "update_date": "2026-02-15 08:59:00"
+        "update_date": "2026-03-02 05:46:29"
     }
 ]
