@@ -7,14 +7,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
     "year": "2021",
-    "rating": 7.2,
+    "rating": 7.1,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Amazon Prime",
+        "Tümü",
         "Apple TV"
     ],
     "cast": [
@@ -326,5 +326,5 @@
             "link": "https://vidmody.com/vs/tt9737326/s3/e10"
         }
     ],
-    "update_date": "2026-02-15 21:02:22"
+    "update_date": "2026-03-02 19:26:24"
 }
