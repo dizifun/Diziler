@@ -7,15 +7,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/zvozYQ1idmnkF0ugfTud82lpNIJ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5L9YS9mpYs0WfuSKYpLd9GUBFc9.jpg",
     "year": "2025",
-    "rating": 7.0,
+    "rating": 7.1,
     "genres": [
         "Belgesel",
         "Suç"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Netflix",
+        "Tümü"
     ],
     "cast": [
         {
@@ -62,5 +62,5 @@
             "link": "https://vidmody.com/vs/tt33473000/s1/e04"
         }
     ],
-    "update_date": "2026-02-15 12:16:17"
+    "update_date": "2026-03-02 09:15:19"
 }
