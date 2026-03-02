@@ -13,9 +13,9 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Netflix",
+        "Tümü"
     ],
     "cast": [
         {
@@ -31,7 +31,7 @@
         {
             "name": "Olivier Gourmet",
             "role": "Horace",
-            "image": "https://image.tmdb.org/t/p/w200/6FQNMThslrNxHimAN2BBCtTYeUM.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/9Y2YYaxlBa8DajJflgZn1stYZJF.jpg"
         },
         {
             "name": "Louis-Do de Lencquesaing",
@@ -133,5 +133,5 @@
             "link": "https://vidmody.com/vs/tt32400599/s1/e08"
         }
     ],
-    "update_date": "2026-02-15 11:47:37"
+    "update_date": "2026-03-02 08:43:48"
 }
