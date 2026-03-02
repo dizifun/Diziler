@@ -12,15 +12,15 @@
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Yerli",
-        "GAİN"
+        "GAİN",
+        "Tümü"
     ],
     "cast": [
         {
             "name": "Burcu Özberk",
             "role": "Sare",
-            "image": "https://image.tmdb.org/t/p/w200/qitJXgtaDfi1vYbjKxX39TVjptf.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/wDhKUUR7pRzgVolACed0YnSozbL.jpg"
         },
         {
             "name": "Uraz Kaygılaroğlu",
@@ -29,18 +29,18 @@
         },
         {
             "name": "Yiğit Özşener",
-            "role": "",
-            "image": "https://image.tmdb.org/t/p/w200/pgdIYi5UzZzU7HG0qcrRFPYHGbi.jpg"
-        },
-        {
-            "name": "Cahit Gök",
-            "role": "",
-            "image": "https://image.tmdb.org/t/p/w200/yWbCEoeYZxOrg44GUS2w2uZXagz.jpg"
+            "role": "Enis",
+            "image": "https://image.tmdb.org/t/p/w200/59Iy4e927evH7O1gb6cFRwQdtng.jpg"
         },
         {
             "name": "Nizam Namidar",
             "role": "",
             "image": "https://image.tmdb.org/t/p/w200/5jfOEkUKCAkPcBD10pm1bH1V8Xf.jpg"
+        },
+        {
+            "name": "Cahit Gök",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/k0CD1F7x2QrncSOKyafz91h71oX.jpg"
         },
         {
             "name": "Nasmina Tüten",
@@ -69,5 +69,5 @@
             "link": "https://vidmody.com/vs/tt36473743/s1/e01"
         }
     ],
-    "update_date": "2026-02-15 13:06:21"
+    "update_date": "2026-03-02 10:12:36"
 }
