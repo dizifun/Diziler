@@ -8,19 +8,19 @@
         "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w780/imdWToan0MpzCUZfw2nTrjI25dE.jpg",
         "year": "2023",
-        "rating": 7.4,
+        "rating": 7.3,
         "genres": [
             "Suç",
             "Dram",
             "Komedi"
         ],
         "categories": [
-            "Tümü",
-            "Hulu",
-            "fuboTV",
             "ABC",
             "Disney+",
-            "YouTube TV"
+            "YouTube TV",
+            "Tümü",
+            "fuboTV",
+            "Hulu"
         ],
         "cast": [
             {
@@ -443,6 +443,6 @@
                 "link": "https://vidmody.com/vs/tt17543592/s4/e02"
             }
         ],
-        "update_date": "2026-02-15 05:16:42"
+        "update_date": "2026-03-02 02:01:00"
     }
 ]
