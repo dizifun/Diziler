@@ -1,5 +1,11 @@
 #EXTM3U
 #PLAYLIST:HBO Max
+#EXTINF:-1 group-title="Heaven" tvg-logo="https://image.tmdb.org/t/p/w400/uEYfs4cSZzbS5X1T5apze8lMjDw.jpg", [4.3] Heaven S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt39266137/s1/e01
+#EXTINF:-1 group-title="Heaven" tvg-logo="https://image.tmdb.org/t/p/w400/vQJqskazkrVRRyaQY60WZwg9XfW.jpg", [4.3] Heaven S01E02 - 2. Bölüm
+https://vidmody.com/vs/tt39266137/s1/e02
+#EXTINF:-1 group-title="Heaven" tvg-logo="https://image.tmdb.org/t/p/w400/2ZImcXXpcEU5j9hYSZbESXRxAoz.jpg", [4.3] Heaven S01E03 - 3. Bölüm
+https://vidmody.com/vs/tt39266137/s1/e03
 #EXTINF:-1 group-title="The Heritage" tvg-logo="https://image.tmdb.org/t/p/w400/rQ7ZvS2cf0v6JDDPhr0X7QT7iuS.jpg", [8.1] The Heritage S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt37986748/s1/e01
 #EXTINF:-1 group-title="The Heritage" tvg-logo="https://image.tmdb.org/t/p/w400/g2XMCZmKOAtqHwCP8PatWHGEp4I.jpg", [8.1] The Heritage S01E02 - 2. Bölüm
@@ -996,9 +1002,3 @@ https://vidmody.com/vs/tt7366338/s1/e03
 https://vidmody.com/vs/tt7366338/s1/e04
 #EXTINF:-1 group-title="Chernobyl" tvg-logo="https://image.tmdb.org/t/p/w400/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg", [8.7] Chernobyl S01E05 - Vichnaya Pamyat (Ebedi Anı)
 https://vidmody.com/vs/tt7366338/s1/e05
-#EXTINF:-1 group-title="Heaven" tvg-logo="https://image.tmdb.org/t/p/w400/uEYfs4cSZzbS5X1T5apze8lMjDw.jpg", [4.2] Heaven S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt39266137/s1/e01
-#EXTINF:-1 group-title="Heaven" tvg-logo="https://image.tmdb.org/t/p/w400/vQJqskazkrVRRyaQY60WZwg9XfW.jpg", [4.2] Heaven S01E02 - 2. Bölüm
-https://vidmody.com/vs/tt39266137/s1/e02
-#EXTINF:-1 group-title="Heaven" tvg-logo="https://image.tmdb.org/t/p/w400/2ZImcXXpcEU5j9hYSZbESXRxAoz.jpg", [4.2] Heaven S01E03 - 3. Bölüm
-https://vidmody.com/vs/tt39266137/s1/e03
