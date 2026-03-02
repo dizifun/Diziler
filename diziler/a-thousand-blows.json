@@ -12,8 +12,8 @@
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Hulu",
+        "Tümü",
         "Disney+"
     ],
     "cast": [
@@ -30,7 +30,7 @@
         {
             "name": "Stephen Graham",
             "role": "Henry 'Sugar' Goodson",
-            "image": "https://image.tmdb.org/t/p/w200/wjDQ7MzciEsRwWDFbemcM1hS0aq.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
         },
         {
             "name": "Caoilfhionn Dunne",
@@ -178,5 +178,5 @@
             "link": "https://vidmody.com/vs/tt21874900/s2/e06"
         }
     ],
-    "update_date": "2026-02-15 07:26:30"
+    "update_date": "2026-03-02 04:09:44"
 }
