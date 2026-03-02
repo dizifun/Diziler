@@ -5,7 +5,7 @@
     "original_name": "악연",
     "overview": "Vahim bir kaza sonucu yolları kesişen altı kişi, ilahi adalet ve suçun iç içe geçtiği heyecan verici bir öyküde kendi karanlık gerçekleri ve bağlantılarıyla yüzleşmelidir.",
     "poster": "https://image.tmdb.org/t/p/w500/lU4vljHDqDjkUtn9Mk83Tlnjtki.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/l5mHXDvmvfNM4T8S5akFFcLRLKv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/66X23qG4RPk7XPDQCFFHHCage3M.jpg",
     "year": "2025",
     "rating": 7.4,
     "genres": [
@@ -13,10 +13,10 @@
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
         "Netflix",
-        "Kore"
+        "Kore",
+        "Tümü"
     ],
     "cast": [
         {
@@ -36,7 +36,7 @@
         },
         {
             "name": "김성균",
-            "role": "Jang Gil-Ryong",
+            "role": "Jang Gil-ryong",
             "image": "https://image.tmdb.org/t/p/w200/pii4fmXdkSEppsHSIhJ9jV5izX1.jpg"
         },
         {
@@ -51,7 +51,7 @@
         },
         {
             "name": "최홍일",
-            "role": "Park Dong-Sik",
+            "role": "Park Dong-sik",
             "image": "https://image.tmdb.org/t/p/w200/legbWLwSQ4IJFoljR1g3Ci2AAdv.jpg"
         },
         {
@@ -61,7 +61,7 @@
         },
         {
             "name": "이서준",
-            "role": "Baek Ji-Hun",
+            "role": "Baek Ji-hun",
             "image": "https://image.tmdb.org/t/p/w200/3k0n93Ryz0LnKWHDts7zqyldu9h.jpg"
         }
     ],
@@ -121,5 +121,5 @@
             "link": "https://vidmody.com/vs/tt29921070/s1/e06"
         }
     ],
-    "update_date": "2026-02-15 10:46:42"
+    "update_date": "2026-03-02 07:40:33"
 }
