@@ -13,9 +13,9 @@
         "Vahşi Batı"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Netflix",
+        "Tümü"
     ],
     "cast": [
         {
@@ -26,12 +26,12 @@
         {
             "name": "Gillian Anderson",
             "role": "Constance Van Ness",
-            "image": "https://image.tmdb.org/t/p/w200/5emeOf49lM2WSs4rc186Wc9Zgs3.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/gLlwFti7pq4OLigtCV0B3e7W2f2.jpg"
         },
         {
             "name": "Nick Robinson",
             "role": "Elias Teller",
-            "image": "https://image.tmdb.org/t/p/w200/k78TNS5p1jajGAQgKXO7swadMjO.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/mzYszYVPvTdirjkUueziWUHvye7.jpg"
         },
         {
             "name": "Diana Silvers",
@@ -134,5 +134,5 @@
             "link": "https://vidmody.com/vs/tt16280546/s1/e07"
         }
     ],
-    "update_date": "2026-02-15 04:28:43"
+    "update_date": "2026-03-02 01:12:18"
 }
