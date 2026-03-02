@@ -13,18 +13,18 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Tümü",
-        "Paramount+",
-        "Amazon Prime",
+        "Netflix",
         "TV+",
-        "Paramount Plus Essential",
-        "Spectrum On Demand",
-        "fuboTV",
         "Paramount+ Roku Premium Channel",
         "Netflix Standard with Ads",
-        "Netflix",
+        "Paramount+",
+        "Paramount Plus Essential",
+        "Spectrum On Demand",
+        "Amazon Prime",
+        "Paramount Plus Premium",
         "Paramount Plus Apple TV Channel",
-        "Paramount Plus Premium"
+        "Tümü",
+        "fuboTV"
     ],
     "cast": [
         {
@@ -65,7 +65,7 @@
         {
             "name": "Yerin Ha",
             "role": "Kwan Ha",
-            "image": "https://image.tmdb.org/t/p/w200/amG2VsVHn3dBH8ey3H9RVDoxgyz.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/ynNtvCmBFqbti9jXZ1YKSLIjAni.jpg"
         },
         {
             "name": "Bentley Kalu",
@@ -233,5 +233,5 @@
             "link": "https://vidmody.com/vs/tt2934286/s2/e08"
         }
     ],
-    "update_date": "2026-02-15 10:33:54"
+    "update_date": "2026-03-02 07:27:11"
 }
