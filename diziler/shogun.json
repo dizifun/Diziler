@@ -13,9 +13,9 @@
         "Savaş & Politik"
     ],
     "categories": [
-        "Tümü",
-        "Hulu",
         "FX",
+        "Hulu",
+        "Tümü",
         "Disney+"
     ],
     "cast": [
@@ -42,7 +42,7 @@
         {
             "name": "平岳大",
             "role": "Ishido Kazunari",
-            "image": "https://image.tmdb.org/t/p/w200/2N1viBfPY4cRlz6W6YfM2F6UbSH.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/f8UK7xqwkfpIZiECcDgc0AErkj6.jpg"
         },
         {
             "name": "Tommy Bastow",
@@ -147,5 +147,5 @@
             "link": "https://vidmody.com/vs/tt2788316/s1/e10"
         }
     ],
-    "update_date": "2026-02-15 09:56:28"
+    "update_date": "2026-03-02 06:51:01"
 }
