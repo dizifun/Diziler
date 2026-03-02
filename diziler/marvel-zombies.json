@@ -7,7 +7,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
     "year": "2025",
-    "rating": 7.3,
+    "rating": 7.2,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Animasyon",
@@ -15,8 +15,8 @@
     ],
     "categories": [
         "Tümü",
-        "Animasyon",
-        "Disney+"
+        "Disney+",
+        "Animasyon"
     ],
     "cast": [
         {
@@ -88,5 +88,5 @@
             "link": "https://vidmody.com/vs/tt16027014/s1/e04"
         }
     ],
-    "update_date": "2026-02-15 04:21:24"
+    "update_date": "2026-03-02 01:04:32"
 }
