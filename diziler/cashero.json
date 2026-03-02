@@ -7,16 +7,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/SB3HbQAqQGWJTV1J5U10aXNXdU.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
     "year": "2025",
-    "rating": 7.3,
+    "rating": 7.4,
     "genres": [
         "Aksiyon & Macera",
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
         "Netflix",
-        "Kore"
+        "Kore",
+        "Tümü"
     ],
     "cast": [
         {
@@ -63,6 +63,11 @@
             "name": "신수현",
             "role": "Lee Su-eun",
             "image": "https://image.tmdb.org/t/p/w200/aevYUC4Wz2QMFKQj3SBAmmGmrhp.jpg"
+        },
+        {
+            "name": "강상준",
+            "role": "Director Ki",
+            "image": "https://image.tmdb.org/t/p/w200/ntVm8JzE6eXvfDsvDOY9hQQbEmP.jpg"
         }
     ],
     "episodes": [
@@ -139,5 +144,5 @@
             "link": "https://vidmody.com/vs/tt30413044/s1/e08"
         }
     ],
-    "update_date": "2026-02-15 10:57:21"
+    "update_date": "2026-03-02 07:51:16"
 }
