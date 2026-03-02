@@ -6,19 +6,19 @@
         "original_name": "The Pitt",
         "overview": "Pittsburgh Pennsylvania'daki bir hastanede çalışan sağlık profesyonellerinin, kritik hastaları tedavi etmenin duygusal yüküyle boğuşurken günlük ve hastanedeki yaşamları.",
         "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
         "year": "2025",
         "rating": 8.7,
         "genres": [
             "Dram"
         ],
         "categories": [
-            "Tümü",
-            "Amazon Prime",
             "TV+",
-            "HBO Max",
+            "Amazon Prime",
             "YouTube TV",
-            "Max"
+            "Max",
+            "Tümü",
+            "HBO Max"
         ],
         "cast": [
             {
@@ -34,7 +34,7 @@
             {
                 "name": "Katherine LaNasa",
                 "role": "Charge Nurse Dana Evans",
-                "image": "https://image.tmdb.org/t/p/w200/7X3f4MG24XLG2fNPJt5H38d8YCV.jpg"
+                "image": "https://image.tmdb.org/t/p/w200/a1T5Smn7sCEtV8NHvTa5WaxgOML.jpg"
             },
             {
                 "name": "Supriya Ganesh",
@@ -64,7 +64,7 @@
             {
                 "name": "Shabana Azeez",
                 "role": "Student Doctor Victoria Javadi",
-                "image": "https://image.tmdb.org/t/p/w200/vu51rFTgSdB8cdCsjLx1iAtTQZG.jpg"
+                "image": "https://image.tmdb.org/t/p/w200/gim8HJRyFq1C340d8TQJbrbGT4q.jpg"
             },
             {
                 "name": "Sepideh Moafi",
@@ -218,6 +218,6 @@
                 "link": "https://vidmody.com/vs/tt31938062/s2/e01"
             }
         ],
-        "update_date": "2026-02-15 11:30:22"
+        "update_date": "2026-03-02 08:24:49"
     }
 ]
