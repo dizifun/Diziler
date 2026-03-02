@@ -12,10 +12,10 @@
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
         "Netflix",
-        "Kore"
+        "Kore",
+        "Tümü"
     ],
     "cast": [
         {
@@ -40,7 +40,7 @@
         },
         {
             "name": "문우진",
-            "role": "Cheon Sang-hak (teen)",
+            "role": "Young Cheon Sang-hak",
             "image": "https://image.tmdb.org/t/p/w200/jAk8EhqNnflSWltcJuv5nE4MpTu.jpg"
         },
         {
@@ -206,5 +206,5 @@
             "link": "https://vidmody.com/vs/tt31014107/s1/e15"
         }
     ],
-    "update_date": "2026-02-15 11:08:32"
+    "update_date": "2026-03-02 08:02:21"
 }
