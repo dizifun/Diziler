@@ -14,15 +14,15 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Netflix",
+        "Tümü"
     ],
     "cast": [
         {
             "name": "Winona Ryder",
             "role": "Joyce Byers",
-            "image": "https://image.tmdb.org/t/p/w200/b2WcWMCJFb2eNFOJrExwevIBTSp.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
         },
         {
             "name": "David Harbour",
@@ -32,7 +32,7 @@
         {
             "name": "Millie Bobby Brown",
             "role": "Eleven / Jane Hopper",
-            "image": "https://image.tmdb.org/t/p/w200/k9KGzGDVhXKfOGpoN62MNuXL28q.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg"
         },
         {
             "name": "Finn Wolfhard",
@@ -57,12 +57,12 @@
         {
             "name": "Sadie Sink",
             "role": "Max Mayfield",
-            "image": "https://image.tmdb.org/t/p/w200/o6DZF6dgQjLC96qEqCw23AoY2HN.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
         },
         {
             "name": "Natalia Dyer",
             "role": "Nancy Wheeler",
-            "image": "https://image.tmdb.org/t/p/w200/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/RFjVz6bPspwxF2PgbtqoNSyOsz.jpg"
         },
         {
             "name": "Charlie Heaton",
@@ -450,5 +450,5 @@
             "link": "https://vidmody.com/vs/tt4574334/s5/e08"
         }
     ],
-    "update_date": "2026-02-15 14:50:19"
+    "update_date": "2026-03-02 11:57:47"
 }
