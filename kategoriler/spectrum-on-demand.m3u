@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Spectrum On Demand
+#EXTINF:-1 group-title="DMV" tvg-logo="https://image.tmdb.org/t/p/w400/dZItTGsbMAt41UvWwRX846ZANt.jpg", [6.3] DMV S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt33078075/s1/e01
 #EXTINF:-1 group-title="Talamasca Gizli Düzen" tvg-logo="https://image.tmdb.org/t/p/w400/6Qvr8sm1AmTKPHqzZT3Cka0IUBp.jpg", [6.8] Talamasca Gizli Düzen S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt32596156/s1/e01
 #EXTINF:-1 group-title="Talamasca Gizli Düzen" tvg-logo="https://image.tmdb.org/t/p/w400/ubHHb40CWCdRdK759vMJH0J6DRI.jpg", [6.8] Talamasca Gizli Düzen S01E02 - 2. Bölüm
@@ -584,5 +586,3 @@ https://vidmody.com/vs/tt33484460/s1/e08
 https://vidmody.com/vs/tt33484460/s1/e09
 #EXTINF:-1 group-title="Robin Hood" tvg-logo="https://image.tmdb.org/t/p/w400/5CxVoMf9Za7nEqbTMzVc62wfHF2.jpg", [7.5] Robin Hood S01E10 - Bir düşman düşerken, diğeri yükselir.
 https://vidmody.com/vs/tt33484460/s1/e10
-#EXTINF:-1 group-title="DMV" tvg-logo="https://image.tmdb.org/t/p/w400/dZItTGsbMAt41UvWwRX846ZANt.jpg", [6.4] DMV S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt33078075/s1/e01
