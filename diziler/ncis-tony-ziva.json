@@ -7,21 +7,21 @@
     "poster": "https://image.tmdb.org/t/p/w500/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/ub0xUWZUBoAwy1eBG1uwi9ikaVg.jpg",
     "year": "2025",
-    "rating": 7.6,
+    "rating": 7.5,
     "genres": [
         "Aksiyon & Macera",
         "Dram",
         "Suç"
     ],
     "categories": [
-        "Tümü",
-        "TOD TV",
-        "Paramount+",
-        "Amazon Prime",
-        "Paramount Plus Essential",
         "Paramount+ Roku Premium Channel",
+        "Paramount+",
+        "Paramount Plus Essential",
+        "Amazon Prime",
+        "Paramount Plus Premium",
         "Paramount Plus Apple TV Channel",
-        "Paramount Plus Premium"
+        "Tümü",
+        "TOD TV"
     ],
     "cast": [
         {
@@ -157,5 +157,5 @@
             "link": "https://vidmody.com/vs/tt31512256/s1/e10"
         }
     ],
-    "update_date": "2026-02-15 11:21:29"
+    "update_date": "2026-03-02 08:14:59"
 }
