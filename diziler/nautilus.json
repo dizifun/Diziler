@@ -7,22 +7,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/8pWGfg6siFjgWJahhkrzGDz1UDs.jpg",
     "year": "2024",
-    "rating": 6.7,
+    "rating": 6.8,
     "genres": [
         "Dram",
         "Aksiyon & Macera",
         "Bilim Kurgu & Fantazi"
     ],
     "categories": [
-        "Tümü",
+        "AMC",
+        "Spectrum On Demand",
         "Amazon Prime",
+        "Philo",
+        "Tümü",
         "AMC+ Roku Premium Channel",
         "AMC Plus Apple TV Channel",
-        "Spectrum On Demand",
-        "Prime Video",
         "AMC+",
-        "AMC",
-        "Philo"
+        "Prime Video"
     ],
     "cast": [
         {
@@ -168,5 +168,5 @@
             "link": "https://vidmody.com/vs/tt15286302/s1/e10"
         }
     ],
-    "update_date": "2026-02-15 03:43:42"
+    "update_date": "2026-03-02 00:25:05"
 }
