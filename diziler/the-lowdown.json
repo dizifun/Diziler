@@ -13,14 +13,14 @@
         "Dram"
     ],
     "categories": [
-        "Tümü",
-        "Hulu",
         "FX",
-        "FXNow",
-        "Spectrum On Demand",
-        "fuboTV",
         "Disney+",
-        "YouTube TV"
+        "Spectrum On Demand",
+        "YouTube TV",
+        "Tümü",
+        "fuboTV",
+        "Hulu",
+        "FXNow"
     ],
     "cast": [
         {
@@ -108,5 +108,5 @@
             "link": "https://vidmody.com/vs/tt31289994/s1/e08"
         }
     ],
-    "update_date": "2026-02-15 11:16:39"
+    "update_date": "2026-03-02 08:10:25"
 }
