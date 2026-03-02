@@ -13,12 +13,12 @@
             "Belgesel"
         ],
         "categories": [
-            "Tümü",
-            "Spectrum On Demand",
-            "fuboTV",
-            "National Geographic",
             "Disney+",
-            "YouTube TV"
+            "Spectrum On Demand",
+            "YouTube TV",
+            "National Geographic",
+            "Tümü",
+            "fuboTV"
         ],
         "cast": [],
         "episodes": [
@@ -50,6 +50,6 @@
                 "link": "https://vidmody.com/vs/tt32158122/s1/e03"
             }
         ],
-        "update_date": "2026-02-15 11:38:10"
+        "update_date": "2026-03-02 08:33:33"
     }
 ]
