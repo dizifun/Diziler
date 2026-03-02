@@ -7,15 +7,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/pwyhia2REWLVv3UmY9Cc5N7Gtfx.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/yGCt11S62nIIY1GtBB0oNmuRaH1.jpg",
     "year": "2025",
-    "rating": 7.1,
+    "rating": 7.2,
     "genres": [
         "Belgesel",
         "Savaş & Politik"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Netflix",
+        "Tümü"
     ],
     "cast": [],
     "episodes": [
@@ -65,5 +65,5 @@
             "link": "https://vidmody.com/vs/tt36242714/s1/e05"
         }
     ],
-    "update_date": "2026-02-15 13:01:44"
+    "update_date": "2026-03-02 10:06:51"
 }
