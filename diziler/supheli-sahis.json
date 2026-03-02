@@ -15,9 +15,9 @@
         "Bilim Kurgu & Fantazi"
     ],
     "categories": [
-        "Tümü",
+        "CBS",
         "Amazon Prime",
-        "CBS"
+        "Tümü"
     ],
     "cast": [
         {
@@ -43,7 +43,7 @@
         {
             "name": "Sarah Shahi",
             "role": "Sameen Shaw",
-            "image": "https://image.tmdb.org/t/p/w200/crKD1ax5wRRZ4QM7nQyH8K2deaA.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/shiLCJNyvi9xlUZw4bTuRkhrKpm.jpg"
         }
     ],
     "episodes": [
@@ -975,5 +975,5 @@
             "link": "https://vidmody.com/vs/tt1839578/s5/e13"
         }
     ],
-    "update_date": "2026-02-15 05:44:37"
+    "update_date": "2026-03-02 02:28:33"
 }
