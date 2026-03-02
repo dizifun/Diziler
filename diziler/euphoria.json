@@ -12,10 +12,10 @@
         "Dram"
     ],
     "categories": [
-        "Tümü",
-        "Amazon Prime",
         "TV+",
+        "Amazon Prime",
         "HBO",
+        "Tümü",
         "HBO Max"
     ],
     "cast": [
@@ -32,7 +32,7 @@
         {
             "name": "Sydney Sweeney",
             "role": "Cassie Howard",
-            "image": "https://image.tmdb.org/t/p/w200/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/tVuiJ5Joryw5EXKGbY6pMKCUdSt.jpg"
         },
         {
             "name": "Jacob Elordi",
@@ -42,7 +42,7 @@
         {
             "name": "Alexa Demie",
             "role": "Maddy Perez",
-            "image": "https://image.tmdb.org/t/p/w200/zba2qXMNRnD7uXOYzXfcnstv17V.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/A8jypevyoNHSF2NBRTfdwyjpjX9.jpg"
         },
         {
             "name": "Maude Apatow",
@@ -52,7 +52,7 @@
         {
             "name": "Eric Dane",
             "role": "Cal Jacobs",
-            "image": "https://image.tmdb.org/t/p/w200/lSs2O89BDyEwi8p0VhqX2jU90Hk.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/5TIrP8s6GrhO7I2rfG0GPEIkRrY.jpg"
         },
         {
             "name": "Martha Kelly",
@@ -216,5 +216,5 @@
             "link": "https://vidmody.com/vs/tt8772296/s2/e08"
         }
     ],
-    "update_date": "2026-02-15 20:08:21"
+    "update_date": "2026-03-02 18:02:21"
 }
