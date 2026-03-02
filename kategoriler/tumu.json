@@ -1,5 +1,388 @@
 [
     {
+        "id": 85723,
+        "imdb_id": "tt9170108",
+        "name": "Raised by Wolves",
+        "original_name": "Raised by Wolves",
+        "overview": "Raised By Wolves, gizemli bir gezegende yaşayan ve insanların çocuklarını yetiştirmekle görevlendirilen iki androidin maceralarını konu ediyor. Gittikçe genişleyen insan kolonisi, dini farklılıklardan doğan büyük bir tehditle karşılaşır. Bu süreçte androidleri oldukça zorlu bir görev beklemektedir.",
+        "poster": "https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/na2xUduK8HviOFT97TiFG2MkJmY.jpg",
+        "year": "2020",
+        "rating": 7.5,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "HBO Max",
+            "Tümü"
+        ],
+        "cast": [
+            {
+                "name": "Amanda Collin",
+                "role": "Mother / Lamia",
+                "image": "https://image.tmdb.org/t/p/w200/bFm5zt8vxD09Ez6irsJItmPigjq.jpg"
+            },
+            {
+                "name": "Abubakar Salim",
+                "role": "Father",
+                "image": "https://image.tmdb.org/t/p/w200/cUddJiPnCTDDOBuk7jTmLsiODMb.jpg"
+            },
+            {
+                "name": "Winta McGrath",
+                "role": "Campion",
+                "image": "https://image.tmdb.org/t/p/w200/1odtDemopNedhQWZ9Zup3UrEaRk.jpg"
+            },
+            {
+                "name": "Niamh Algar",
+                "role": "Mary / Sue",
+                "image": "https://image.tmdb.org/t/p/w200/4FscmD9lWqiJVnOvuWTaVc3ynTb.jpg"
+            },
+            {
+                "name": "Travis Fimmel",
+                "role": "Caleb / Marcus Drusus",
+                "image": "https://image.tmdb.org/t/p/w200/kuTSw3I2hqb5N1QqYrXPX8zd8EA.jpg"
+            },
+            {
+                "name": "Jordan Loughran",
+                "role": "Tempest",
+                "image": "https://image.tmdb.org/t/p/w200/a3UM3gFUjZjaODZI0gUyaUWaeto.jpg"
+            },
+            {
+                "name": "Matias Varela",
+                "role": "Lucius",
+                "image": "https://image.tmdb.org/t/p/w200/byw4O8SiN14FDuPocQa4WDNzt3N.jpg"
+            },
+            {
+                "name": "Felix Jamieson",
+                "role": "Paul",
+                "image": "https://image.tmdb.org/t/p/w200/tesBnjps2Qb7pmn3pm5rUzGQVqG.jpg"
+            },
+            {
+                "name": "Ethan Hazzard",
+                "role": "Hunter",
+                "image": "https://image.tmdb.org/t/p/w200/5dvmyzOxaxF3McbnVaLlQ00Jw35.jpg"
+            },
+            {
+                "name": "Aasiya Shah",
+                "role": "Holly",
+                "image": "https://image.tmdb.org/t/p/w200/qi6fGjxtR0TkvNsysxJP77CJjcl.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Kurtların Çocukları",
+                "overview": "Dünya yaşanmaz hale geldikten sonra, Androidler Kepler-22b gezegeninde bir yerleşim yeri ve insan embriyolarıyla yeni bir aile kurar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pEM2dl0FvKLt3ClQwCYwViYQZzO.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Pentagram",
+                "overview": "Anne, uğursuz planları olan beklenmedik konukları kabul eder. İnsanlar ve androidler, Kepler-22b'nin tek sakinleri mi?",
+                "still_path": "https://image.tmdb.org/t/p/w400/j9wGe5HIXgXw8Z81WlH9pSOryTf.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Sanal İnanç",
+                "overview": "Mitraik çocuklar hastalandıktan sonra Campion, Annenin onları zehirlediğine inanır ve bir kaçış planlar. Anne ve Baba aksini kanıtlamaya çalışırken, Marcus ve Sue hayatta kalan diğer Mithraic'i, oğulları Paul'ü geri almak için çaresizce çocukları kurtarmaya ikna etmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9sV450BnUEZMsMPMY1yCQBv9QT5.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Doğanın Akışı",
+                "overview": "Baba, çocuklara Kepler-22b'nin gizemli yaratıklarından bazılarını yemek için nasıl avlayacaklarını öğretmeye çalışır. Bu arada, Mithraic, potansiyel olarak bir Mitraik kehaneti gerçekleştiren çarpıcı bir keşifte bulunur ve nasıl devam edileceğine dair bir tartışma, Marcus ile Mithraic lideri Ambrose arasındaki bir çatışmayı ateşler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yf6lZPqTw28ivyqBAbqWzTlWUqA.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Hastalıklı Anı",
+                "overview": "Marcus, Mithraic çocukları kurtarma planıyla ilerliyor, ancak önce onları bulması gerekiyor. Yerleşime geri döndüğünde, Campion ve Paul, Peder'le bir av gezisine çıkarken bağ kurar ve Anne, onun kökenleri hakkında daha fazla bilgi edinmeye çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eVNKJhZQ1dFHLG9Ka4j23uda2tI.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Kayıp Cennet",
+                "overview": "Annesi, yaratıcısıyla olan bağını yeniden canlandırdıktan sonra, Marcus, Sue ve Mithraic'in yerleşime yaklaştığının farkında olmadığı halde, sahip olamayacağını bilmediği yoğun duygularla dikkati dağılmış halde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3tWBVB35f41cvTNBOovPgSWIWcl.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Yüzler",
+                "overview": "Marcus'un kararları, Mitraik'in lideri olarak nüfuzunu korumaya çalışırken ailesiyle olan ilişkisini vurgular. Anne, Marcus'u gerçekte olduğu kişi olarak görebilir, bu da onun gücünü tehdit eder ve Anne'yi iyileşemeyeceği tehlikeli bir duruma sokar. Bu sırada Campion, korkunç sonuçlara yol açabilecek bir seçimle karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5tygscjsHMzizn1niJpLl52ONx6.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Kütle",
+                "overview": "Marcus, Mithraic bağlılığını benimsemeye devam ederken Sue, artık ona ve Paul'ün çıkarlarına kalpten sahip olamayacağından endişelenir. Anne, arıza olduğuna inandığı şeyleri tecrübe eder ve Hunter, Baba ile gizli bir proje üzerinde çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/j2Q0vBQDpu3lQFzBjOypHaZFr0M.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Göbek Bağı",
+                "overview": "Sue çocukları güvende tutmaya kararlıdır ve bunu yaparken Anneye güvenip güvenemeyeceği konusunda mücadele eder. Bu arada, yeni bir tehdit ortaya çıkar ve giderek düzensizleşen Marcus, Mithraic'in liderlerini sorgulamasına neden olur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3Yd2VeoZGJB9vbXI8x37kX0Pjn3.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Başlangıç",
+                "overview": "Paul, vahiylere yol açan rahatsız edici davranışlar sergiliyor; Sue, Anna'ya açılırken, baba insan duygularıyla savaşır; Campion, yeni ailesindeki yerini sorgularken, anne ve baba yerli yaratıklar hakkında bir sır ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jP6poDtDban7GKgIonbTWqQLcxf.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt9170108/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "The Collective",
+                "overview": "Anne ve Babanın intihar görevinin üzerinden zaman geçmiş ve dünya değişmiştir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wF1Xse33G1afYh7pPX7rJnoCHzZ.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Seven",
+                "overview": "Ateist kolonisi beklenmedik bir gelişmeyle çalkalanır. Sol, kullarına ışığın yolunda rehberlik etmektedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tJUImoyetJaAFgK9HxNtlUR7tmj.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/i7PbEp6sLRq8TKi9kCeDH4EAjSV.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Control",
+                "overview": "Anne çocuklarını korumak için büyük bir adım atar. Marcus elindeki kozları kaybetmek üzeredir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/St8yKClS3OrQDYgTJwSApnV39U.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "King",
+                "overview": "Paul'ün hastalığı Mary ve Anneyi hiç yapmayacakları şeyleri yapmaya iter. Baba ise yeni arkadaşı ve çocuklarının güvenliği arasında seçim yapmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mJNDY31uGIR8K4my36Lp205kL9r.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "The Tree",
+                "overview": "Paul ve Sue, Marcus'la karşılaşmalarının ardından yeni kararlar alır. Anne ise Tempest'in bebeği için önlem almakla meşguldür. Baba, yeni oyuncağının o kadar masum olmadığını fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/48X7ql11NbnZpD17mitDF6GeGEH.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Feeding",
+                "overview": "Herkes Tempest'in bebeğini ararken Paul koloniyi gerçek inanca döndürmek için harekete geçer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3iqi66KEKOEPbf6PRqbnuSAOzVb.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Happiness",
+                "overview": "Anne peçeyi takar ve sonunda Büyükannenin yüzünü görürüz. Ancak peçe, bir yüzden fazlasını saklamaktadır",
+                "still_path": "https://image.tmdb.org/t/p/w400/k7Cx1ha0MgSBp0eX7kRulufBm6b.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt9170108/s2/e08"
+            }
+        ],
+        "update_date": "2026-03-02 18:46:18"
+    },
+    {
+        "id": 244244,
+        "imdb_id": "tt9169516",
+        "name": "Run Away",
+        "original_name": "Run Away",
+        "overview": "Evden kaçan kızını arayan çaresiz bir baba, kendini bir cinayet vakasının içinde bulur ve ailesini temelden yıkabilecek sırlarla karşılaşır.",
+        "poster": "https://image.tmdb.org/t/p/w500/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+        "year": "2026",
+        "rating": 6.6,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Tümü"
+        ],
+        "cast": [
+            {
+                "name": "James Nesbitt",
+                "role": "Simon Greene",
+                "image": "https://image.tmdb.org/t/p/w200/lQiGZcwUXbCqpF055Ia5jxdZ2Ma.jpg"
+            },
+            {
+                "name": "Alfred Enoch",
+                "role": "Isaac Fagbenle",
+                "image": "https://image.tmdb.org/t/p/w200/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
+            },
+            {
+                "name": "Minnie Driver",
+                "role": "Ingrid Greene",
+                "image": "https://image.tmdb.org/t/p/w200/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
+            },
+            {
+                "name": "Ruth Jones",
+                "role": "Elena Ravenscroft",
+                "image": "https://image.tmdb.org/t/p/w200/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+            },
+            {
+                "name": "Ellie de Lange",
+                "role": "Paige Greene",
+                "image": "https://image.tmdb.org/t/p/w200/uBXl2MEH3tmfg8KCcdiRRAZtHg4.jpg"
+            },
+            {
+                "name": "Lucian Msamati",
+                "role": "Cornelius Faber",
+                "image": "https://image.tmdb.org/t/p/w200/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
+            },
+            {
+                "name": "Amy Gledhill",
+                "role": "Ruby Todd",
+                "image": "https://image.tmdb.org/t/p/w200/xq08DIRhu4V6KRm5hQV4CxdxPuT.jpg"
+            },
+            {
+                "name": "Annette Badland",
+                "role": "Lou",
+                "image": "https://image.tmdb.org/t/p/w200/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
+            },
+            {
+                "name": "Jon Pointing",
+                "role": "Ash",
+                "image": "https://image.tmdb.org/t/p/w200/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+            },
+            {
+                "name": "Maeve Courtier-Lilley",
+                "role": "Dee Dee",
+                "image": "https://image.tmdb.org/t/p/w200/b8gS6PXvdxrLqwZLLHvS0s8ZkJk.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Görmek İnanmaktır",
+                "overview": "Simon Greene evden kaçan kızını geri getirmek için şiddete başvurunca viral olur. Çaresizlik içindeki bir diğer baba, oğlunu bulması için özel dedektif Elena Ravenscroft'u tutar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xh3RgXYMkffe5gn1AfF4Z5z7OQ4.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Beklerken Dövme Yapılır",
+                "overview": "Greene ailesi acilen hastaneye götürülür. Simon burada polislerle karşı karşıya gelir. Elena, Henry ve kaybolan başka biri arasında bir bağlantı olduğunu keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xpksVkdxhxw8mjQ1AQcspxqqHbM.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Kopma Noktası",
+                "overview": "Elena gece geç saatlerde Maria'yı çat kapı ziyaret eder. Gönülsüzce bir anma törenine katılan Simon, Paige ile ilgili tatsız bir haber alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/oqmndWzd79VVkIDvGhpYzZdFW4o.jpg",
+                "vote_average": 2.9,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Farklı Bir Devir",
+                "overview": "Simon, kızının üniversitedeki hayatını ve eşinin sırrını öğrenir. Dee Dee ve Ash, travmatik geçmişlerindeki bir döneme şiddetli bir şekilde son verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/19WoNtZscYsijWmuM1YTXco4Aj0.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Işıldayan Gerçek Daim Olsun",
+                "overview": "Simon örnekler toplarken Elena kayınvalidesiyle yüzleşir ve bir evlat edindirme kurumunu ziyaret eder. Isaac, Luther'ın vurulmasıyla ilgili eski bir arkadaşını sorgular.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iMJdF8BhVN6vDVt7N0IBQjQB58G.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Tanıdığım Adam",
+                "overview": "Elena cinayetler ve kayıplar arasındaki bağı çözer. Simon'ın çocukları, Paige'in hocasını bulur. Profesör, Paige'in üniversitedeki günlerine dair şaşırtıcı bir bilgi paylaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cQQ8hOfyffwVzf9nEE8zaJ4JLyh.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Rastlantının Böylesi",
+                "overview": "Ash'e bir itirafta bulunan Dee Dee, yeni bir hedefe yoğunlaşır. Polis, Işıldayan Gerçek ile bağlantılı bir ipucu bulur. Simon, Rocco'nun bodrumuna geri döner.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eLin9ULN0n27u8zYJVH7j5dBxTw.jpg",
+                "vote_average": 4.2,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Aramızda Kalacak",
+                "overview": "Polis, Işıldayan Cennet'e yaklaşırken eksik parçalar yerli yerini bulur ve gerçekler gün yüzüne çıkar. Ancak bazı gerçekler, sonsuza dek gömülü kalacak gibidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aJoRhYeczeScQS262lHN9CWZQ3N.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt9169516/s1/e08"
+            }
+        ],
+        "update_date": "2026-03-02 18:45:51"
+    },
+    {
         "id": 102904,
         "imdb_id": "tt9077540",
         "name": "Sweet Magnolias",
@@ -49971,388 +50354,5 @@
             }
         ],
         "update_date": "2026-02-15 20:40:05"
-    },
-    {
-        "id": 85723,
-        "imdb_id": "tt9170108",
-        "name": "Raised by Wolves",
-        "original_name": "Raised by Wolves",
-        "overview": "Raised By Wolves, gizemli bir gezegende yaşayan ve insanların çocuklarını yetiştirmekle görevlendirilen iki androidin maceralarını konu ediyor. Gittikçe genişleyen insan kolonisi, dini farklılıklardan doğan büyük bir tehditle karşılaşır. Bu süreçte androidleri oldukça zorlu bir görev beklemektedir.",
-        "poster": "https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/na2xUduK8HviOFT97TiFG2MkJmY.jpg",
-        "year": "2020",
-        "rating": 7.5,
-        "genres": [
-            "Bilim Kurgu & Fantazi",
-            "Dram"
-        ],
-        "categories": [
-            "Tümü",
-            "HBO Max"
-        ],
-        "cast": [
-            {
-                "name": "Amanda Collin",
-                "role": "Mother / Lamia",
-                "image": "https://image.tmdb.org/t/p/w200/bFm5zt8vxD09Ez6irsJItmPigjq.jpg"
-            },
-            {
-                "name": "Abubakar Salim",
-                "role": "Father",
-                "image": "https://image.tmdb.org/t/p/w200/cUddJiPnCTDDOBuk7jTmLsiODMb.jpg"
-            },
-            {
-                "name": "Winta McGrath",
-                "role": "Campion",
-                "image": "https://image.tmdb.org/t/p/w200/1odtDemopNedhQWZ9Zup3UrEaRk.jpg"
-            },
-            {
-                "name": "Niamh Algar",
-                "role": "Mary / Sue",
-                "image": "https://image.tmdb.org/t/p/w200/4FscmD9lWqiJVnOvuWTaVc3ynTb.jpg"
-            },
-            {
-                "name": "Travis Fimmel",
-                "role": "Caleb / Marcus Drusus",
-                "image": "https://image.tmdb.org/t/p/w200/kuTSw3I2hqb5N1QqYrXPX8zd8EA.jpg"
-            },
-            {
-                "name": "Jordan Loughran",
-                "role": "Tempest",
-                "image": "https://image.tmdb.org/t/p/w200/a3UM3gFUjZjaODZI0gUyaUWaeto.jpg"
-            },
-            {
-                "name": "Matias Varela",
-                "role": "Lucius",
-                "image": "https://image.tmdb.org/t/p/w200/byw4O8SiN14FDuPocQa4WDNzt3N.jpg"
-            },
-            {
-                "name": "Felix Jamieson",
-                "role": "Paul",
-                "image": "https://image.tmdb.org/t/p/w200/tesBnjps2Qb7pmn3pm5rUzGQVqG.jpg"
-            },
-            {
-                "name": "Ethan Hazzard",
-                "role": "Hunter",
-                "image": "https://image.tmdb.org/t/p/w200/5dvmyzOxaxF3McbnVaLlQ00Jw35.jpg"
-            },
-            {
-                "name": "Aasiya Shah",
-                "role": "Holly",
-                "image": "https://image.tmdb.org/t/p/w200/qi6fGjxtR0TkvNsysxJP77CJjcl.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Kurtların Çocukları",
-                "overview": "Dünya yaşanmaz hale geldikten sonra, Androidler Kepler-22b gezegeninde bir yerleşim yeri ve insan embriyolarıyla yeni bir aile kurar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/pEM2dl0FvKLt3ClQwCYwViYQZzO.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Pentagram",
-                "overview": "Anne, uğursuz planları olan beklenmedik konukları kabul eder. İnsanlar ve androidler, Kepler-22b'nin tek sakinleri mi?",
-                "still_path": "https://image.tmdb.org/t/p/w400/j9wGe5HIXgXw8Z81WlH9pSOryTf.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Sanal İnanç",
-                "overview": "Mitraik çocuklar hastalandıktan sonra Campion, Annenin onları zehirlediğine inanır ve bir kaçış planlar. Anne ve Baba aksini kanıtlamaya çalışırken, Marcus ve Sue hayatta kalan diğer Mithraic'i, oğulları Paul'ü geri almak için çaresizce çocukları kurtarmaya ikna etmeye çalışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/9sV450BnUEZMsMPMY1yCQBv9QT5.jpg",
-                "vote_average": 8.3,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Doğanın Akışı",
-                "overview": "Baba, çocuklara Kepler-22b'nin gizemli yaratıklarından bazılarını yemek için nasıl avlayacaklarını öğretmeye çalışır. Bu arada, Mithraic, potansiyel olarak bir Mitraik kehaneti gerçekleştiren çarpıcı bir keşifte bulunur ve nasıl devam edileceğine dair bir tartışma, Marcus ile Mithraic lideri Ambrose arasındaki bir çatışmayı ateşler.",
-                "still_path": "https://image.tmdb.org/t/p/w400/yf6lZPqTw28ivyqBAbqWzTlWUqA.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Hastalıklı Anı",
-                "overview": "Marcus, Mithraic çocukları kurtarma planıyla ilerliyor, ancak önce onları bulması gerekiyor. Yerleşime geri döndüğünde, Campion ve Paul, Peder'le bir av gezisine çıkarken bağ kurar ve Anne, onun kökenleri hakkında daha fazla bilgi edinmeye çalışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/eVNKJhZQ1dFHLG9Ka4j23uda2tI.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "Kayıp Cennet",
-                "overview": "Annesi, yaratıcısıyla olan bağını yeniden canlandırdıktan sonra, Marcus, Sue ve Mithraic'in yerleşime yaklaştığının farkında olmadığı halde, sahip olamayacağını bilmediği yoğun duygularla dikkati dağılmış halde bulur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/3tWBVB35f41cvTNBOovPgSWIWcl.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "Yüzler",
-                "overview": "Marcus'un kararları, Mitraik'in lideri olarak nüfuzunu korumaya çalışırken ailesiyle olan ilişkisini vurgular. Anne, Marcus'u gerçekte olduğu kişi olarak görebilir, bu da onun gücünü tehdit eder ve Anne'yi iyileşemeyeceği tehlikeli bir duruma sokar. Bu sırada Campion, korkunç sonuçlara yol açabilecek bir seçimle karşı karşıya kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/5tygscjsHMzizn1niJpLl52ONx6.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "Kütle",
-                "overview": "Marcus, Mithraic bağlılığını benimsemeye devam ederken Sue, artık ona ve Paul'ün çıkarlarına kalpten sahip olamayacağından endişelenir. Anne, arıza olduğuna inandığı şeyleri tecrübe eder ve Hunter, Baba ile gizli bir proje üzerinde çalışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/j2Q0vBQDpu3lQFzBjOypHaZFr0M.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e08"
-            },
-            {
-                "season": 1,
-                "episode": 9,
-                "name": "Göbek Bağı",
-                "overview": "Sue çocukları güvende tutmaya kararlıdır ve bunu yaparken Anneye güvenip güvenemeyeceği konusunda mücadele eder. Bu arada, yeni bir tehdit ortaya çıkar ve giderek düzensizleşen Marcus, Mithraic'in liderlerini sorgulamasına neden olur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/3Yd2VeoZGJB9vbXI8x37kX0Pjn3.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e09"
-            },
-            {
-                "season": 1,
-                "episode": 10,
-                "name": "Başlangıç",
-                "overview": "Paul, vahiylere yol açan rahatsız edici davranışlar sergiliyor; Sue, Anna'ya açılırken, baba insan duygularıyla savaşır; Campion, yeni ailesindeki yerini sorgularken, anne ve baba yerli yaratıklar hakkında bir sır ortaya çıkarır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jP6poDtDban7GKgIonbTWqQLcxf.jpg",
-                "vote_average": 7.6,
-                "link": "https://vidmody.com/vs/tt9170108/s1/e10"
-            },
-            {
-                "season": 2,
-                "episode": 1,
-                "name": "The Collective",
-                "overview": "Anne ve Babanın intihar görevinin üzerinden zaman geçmiş ve dünya değişmiştir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/wF1Xse33G1afYh7pPX7rJnoCHzZ.jpg",
-                "vote_average": 7.2,
-                "link": "https://vidmody.com/vs/tt9170108/s2/e01"
-            },
-            {
-                "season": 2,
-                "episode": 2,
-                "name": "Seven",
-                "overview": "Ateist kolonisi beklenmedik bir gelişmeyle çalkalanır. Sol, kullarına ışığın yolunda rehberlik etmektedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/tJUImoyetJaAFgK9HxNtlUR7tmj.jpg",
-                "vote_average": 7.2,
-                "link": "https://vidmody.com/vs/tt9170108/s2/e02"
-            },
-            {
-                "season": 2,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/i7PbEp6sLRq8TKi9kCeDH4EAjSV.jpg",
-                "vote_average": 7.1,
-                "link": "https://vidmody.com/vs/tt9170108/s2/e03"
-            },
-            {
-                "season": 2,
-                "episode": 4,
-                "name": "Control",
-                "overview": "Anne çocuklarını korumak için büyük bir adım atar. Marcus elindeki kozları kaybetmek üzeredir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/St8yKClS3OrQDYgTJwSApnV39U.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt9170108/s2/e04"
-            },
-            {
-                "season": 2,
-                "episode": 5,
-                "name": "King",
-                "overview": "Paul'ün hastalığı Mary ve Anneyi hiç yapmayacakları şeyleri yapmaya iter. Baba ise yeni arkadaşı ve çocuklarının güvenliği arasında seçim yapmak zorunda kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/mJNDY31uGIR8K4my36Lp205kL9r.jpg",
-                "vote_average": 7.7,
-                "link": "https://vidmody.com/vs/tt9170108/s2/e05"
-            },
-            {
-                "season": 2,
-                "episode": 6,
-                "name": "The Tree",
-                "overview": "Paul ve Sue, Marcus'la karşılaşmalarının ardından yeni kararlar alır. Anne ise Tempest'in bebeği için önlem almakla meşguldür. Baba, yeni oyuncağının o kadar masum olmadığını fark eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/48X7ql11NbnZpD17mitDF6GeGEH.jpg",
-                "vote_average": 7.2,
-                "link": "https://vidmody.com/vs/tt9170108/s2/e06"
-            },
-            {
-                "season": 2,
-                "episode": 7,
-                "name": "Feeding",
-                "overview": "Herkes Tempest'in bebeğini ararken Paul koloniyi gerçek inanca döndürmek için harekete geçer.",
-                "still_path": "https://image.tmdb.org/t/p/w400/3iqi66KEKOEPbf6PRqbnuSAOzVb.jpg",
-                "vote_average": 7.0,
-                "link": "https://vidmody.com/vs/tt9170108/s2/e07"
-            },
-            {
-                "season": 2,
-                "episode": 8,
-                "name": "Happiness",
-                "overview": "Anne peçeyi takar ve sonunda Büyükannenin yüzünü görürüz. Ancak peçe, bir yüzden fazlasını saklamaktadır",
-                "still_path": "https://image.tmdb.org/t/p/w400/k7Cx1ha0MgSBp0eX7kRulufBm6b.jpg",
-                "vote_average": 7.2,
-                "link": "https://vidmody.com/vs/tt9170108/s2/e08"
-            }
-        ],
-        "update_date": "2026-02-15 20:36:08"
-    },
-    {
-        "id": 244244,
-        "imdb_id": "tt9169516",
-        "name": "Run Away",
-        "original_name": "Run Away",
-        "overview": "Evden kaçan kızını arayan çaresiz bir baba, kendini bir cinayet vakasının içinde bulur ve ailesini temelden yıkabilecek sırlarla karşılaşır.",
-        "poster": "https://image.tmdb.org/t/p/w500/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
-        "year": "2026",
-        "rating": 6.7,
-        "genres": [
-            "Dram",
-            "Gizem"
-        ],
-        "categories": [
-            "Tümü",
-            "Netflix Standard with Ads",
-            "Netflix"
-        ],
-        "cast": [
-            {
-                "name": "James Nesbitt",
-                "role": "Simon Greene",
-                "image": "https://image.tmdb.org/t/p/w200/lQiGZcwUXbCqpF055Ia5jxdZ2Ma.jpg"
-            },
-            {
-                "name": "Alfred Enoch",
-                "role": "Isaac Fagbenle",
-                "image": "https://image.tmdb.org/t/p/w200/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
-            },
-            {
-                "name": "Minnie Driver",
-                "role": "Ingrid Greene",
-                "image": "https://image.tmdb.org/t/p/w200/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
-            },
-            {
-                "name": "Ruth Jones",
-                "role": "Elena Ravenscroft",
-                "image": "https://image.tmdb.org/t/p/w200/agBI9yM61lF8e70gkc27eu47b5R.jpg"
-            },
-            {
-                "name": "Ellie de Lange",
-                "role": "Paige Greene",
-                "image": "https://image.tmdb.org/t/p/w200/uBXl2MEH3tmfg8KCcdiRRAZtHg4.jpg"
-            },
-            {
-                "name": "Lucian Msamati",
-                "role": "Cornelius Faber",
-                "image": "https://image.tmdb.org/t/p/w200/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
-            },
-            {
-                "name": "Amy Gledhill",
-                "role": "Ruby Todd",
-                "image": "https://image.tmdb.org/t/p/w200/xq08DIRhu4V6KRm5hQV4CxdxPuT.jpg"
-            },
-            {
-                "name": "Annette Badland",
-                "role": "Lou",
-                "image": "https://image.tmdb.org/t/p/w200/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-            },
-            {
-                "name": "Jon Pointing",
-                "role": "Ash",
-                "image": "https://image.tmdb.org/t/p/w200/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
-            },
-            {
-                "name": "Maeve Courtier-Lilley",
-                "role": "Dee Dee",
-                "image": "https://image.tmdb.org/t/p/w200/b8gS6PXvdxrLqwZLLHvS0s8ZkJk.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Görmek İnanmaktır",
-                "overview": "Simon Greene evden kaçan kızını geri getirmek için şiddete başvurunca viral olur. Çaresizlik içindeki bir diğer baba, oğlunu bulması için özel dedektif Elena Ravenscroft'u tutar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/xh3RgXYMkffe5gn1AfF4Z5z7OQ4.jpg",
-                "vote_average": 5.0,
-                "link": "https://vidmody.com/vs/tt9169516/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Beklerken Dövme Yapılır",
-                "overview": "Greene ailesi acilen hastaneye götürülür. Simon burada polislerle karşı karşıya gelir. Elena, Henry ve kaybolan başka biri arasında bir bağlantı olduğunu keşfeder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/xpksVkdxhxw8mjQ1AQcspxqqHbM.jpg",
-                "vote_average": 5.5,
-                "link": "https://vidmody.com/vs/tt9169516/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Kopma Noktası",
-                "overview": "Elena gece geç saatlerde Maria'yı çat kapı ziyaret eder. Gönülsüzce bir anma törenine katılan Simon, Paige ile ilgili tatsız bir haber alır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/oqmndWzd79VVkIDvGhpYzZdFW4o.jpg",
-                "vote_average": 2.9,
-                "link": "https://vidmody.com/vs/tt9169516/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Farklı Bir Devir",
-                "overview": "Simon, kızının üniversitedeki hayatını ve eşinin sırrını öğrenir. Dee Dee ve Ash, travmatik geçmişlerindeki bir döneme şiddetli bir şekilde son verir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/19WoNtZscYsijWmuM1YTXco4Aj0.jpg",
-                "vote_average": 5.4,
-                "link": "https://vidmody.com/vs/tt9169516/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Işıldayan Gerçek Daim Olsun",
-                "overview": "Simon örnekler toplarken Elena kayınvalidesiyle yüzleşir ve bir evlat edindirme kurumunu ziyaret eder. Isaac, Luther'ın vurulmasıyla ilgili eski bir arkadaşını sorgular.",
-                "still_path": "https://image.tmdb.org/t/p/w400/iMJdF8BhVN6vDVt7N0IBQjQB58G.jpg",
-                "vote_average": 4.8,
-                "link": "https://vidmody.com/vs/tt9169516/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "Tanıdığım Adam",
-                "overview": "Elena cinayetler ve kayıplar arasındaki bağı çözer. Simon'ın çocukları, Paige'in hocasını bulur. Profesör, Paige'in üniversitedeki günlerine dair şaşırtıcı bir bilgi paylaşır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cQQ8hOfyffwVzf9nEE8zaJ4JLyh.jpg",
-                "vote_average": 5.0,
-                "link": "https://vidmody.com/vs/tt9169516/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "Rastlantının Böylesi",
-                "overview": "Ash'e bir itirafta bulunan Dee Dee, yeni bir hedefe yoğunlaşır. Polis, Işıldayan Gerçek ile bağlantılı bir ipucu bulur. Simon, Rocco'nun bodrumuna geri döner.",
-                "still_path": "https://image.tmdb.org/t/p/w400/eLin9ULN0n27u8zYJVH7j5dBxTw.jpg",
-                "vote_average": 4.2,
-                "link": "https://vidmody.com/vs/tt9169516/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "Aramızda Kalacak",
-                "overview": "Polis, Işıldayan Cennet'e yaklaşırken eksik parçalar yerli yerini bulur ve gerçekler gün yüzüne çıkar. Ancak bazı gerçekler, sonsuza dek gömülü kalacak gibidir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/aJoRhYeczeScQS262lHN9CWZQ3N.jpg",
-                "vote_average": 4.6,
-                "link": "https://vidmody.com/vs/tt9169516/s1/e08"
-            }
-        ],
-        "update_date": "2026-02-15 20:35:48"
     }
 ]
