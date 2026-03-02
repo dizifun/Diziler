@@ -13,8 +13,8 @@
         "Komedi"
     ],
     "categories": [
-        "Tümü",
         "Hulu",
+        "Tümü",
         "Disney+"
     ],
     "cast": [
@@ -36,7 +36,7 @@
         {
             "name": "Teyana Taylor",
             "role": "Milan",
-            "image": "https://image.tmdb.org/t/p/w200/yC6w0SERmCxUTTu6KYXDxhtkj0j.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
         },
         {
             "name": "Matthew Noszka",
@@ -137,5 +137,5 @@
             "link": "https://vidmody.com/vs/tt30291387/s1/e09"
         }
     ],
-    "update_date": "2026-02-15 10:54:43"
+    "update_date": "2026-03-02 07:48:37"
 }
