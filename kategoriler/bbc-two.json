@@ -14,10 +14,10 @@
             "Suç"
         ],
         "categories": [
-            "Tümü",
             "Netflix",
-            "BBC One",
-            "BBC Two"
+            "BBC Two",
+            "Tümü",
+            "BBC One"
         ],
         "cast": [
             {
@@ -367,6 +367,6 @@
                 "link": "https://vidmody.com/vs/tt2442560/s6/e06"
             }
         ],
-        "update_date": "2026-02-15 08:44:11"
+        "update_date": "2026-03-02 05:29:39"
     }
 ]
