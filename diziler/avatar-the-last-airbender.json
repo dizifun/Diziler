@@ -15,9 +15,9 @@
         "Bilim Kurgu & Fantazi"
     ],
     "categories": [
-        "Tümü",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Netflix",
+        "Tümü"
     ],
     "cast": [
         {
@@ -41,14 +41,14 @@
             "image": "https://image.tmdb.org/t/p/w200/aismdzGeONTJHiPfofNaKGZSKZu.jpg"
         },
         {
-            "name": "Ken Leung",
-            "role": "Commander Zhao",
-            "image": "https://image.tmdb.org/t/p/w200/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
-        },
-        {
             "name": "Paul Sun-Hyung Lee",
             "role": "Uncle Iroh",
             "image": "https://image.tmdb.org/t/p/w200/qyJG3qC1TImpJYN0zCgnFSQzzOF.jpg"
+        },
+        {
+            "name": "Ken Leung",
+            "role": "Commander Zhao",
+            "image": "https://image.tmdb.org/t/p/w200/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
         },
         {
             "name": "Daniel Dae Kim",
@@ -130,5 +130,5 @@
             "link": "https://vidmody.com/vs/tt9018736/s1/e08"
         }
     ],
-    "update_date": "2026-02-15 20:22:16"
+    "update_date": "2026-03-02 18:25:13"
 }
