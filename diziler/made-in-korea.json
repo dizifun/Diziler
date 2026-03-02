@@ -7,16 +7,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/w0phy4NdYpwAVIP3zsY0u4t66Pw.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/42RCEkRkfvafglUsXD6kN1S9nwP.jpg",
     "year": "2025",
-    "rating": 8.0,
+    "rating": 7.6,
     "genres": [
         "Suç",
         "Dram"
     ],
     "categories": [
-        "Tümü",
         "Hulu",
-        "Disney+",
-        "Kore"
+        "Kore",
+        "Tümü",
+        "Disney+"
     ],
     "cast": [
         {
@@ -32,7 +32,7 @@
         {
             "name": "우도환",
             "role": "Baek Ki-hyeon",
-            "image": "https://image.tmdb.org/t/p/w200/lxnRVi1WxA0Ylx5V2kciv7SZ4Yw.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/z3VNppg2yQMusheWweVeKEUN4lO.jpg"
         },
         {
             "name": "조여정",
@@ -52,7 +52,7 @@
         {
             "name": "정성일",
             "role": "Cheon Seok-joong",
-            "image": "https://image.tmdb.org/t/p/w200/cP0vEFV5aL8D9mntwlFWP5pcTQo.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/3VyIhJniatsImjmBJlkclPZJsEE.jpg"
         },
         {
             "name": "강길우",
@@ -108,5 +108,5 @@
             "link": "https://vidmody.com/vs/tt33298903/s1/e04"
         }
     ],
-    "update_date": "2026-02-15 12:10:51"
+    "update_date": "2026-03-02 09:08:48"
 }
