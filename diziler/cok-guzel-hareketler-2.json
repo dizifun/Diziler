@@ -1,0 +1,33 @@
+{
+    "id": "star_cok-guzel-hareketler-2",
+    "imdb_id": "star_cok-guzel-hareketler-2",
+    "name": "Çok Güzel Hareketler 2",
+    "original_name": "Çok Güzel Hareketler 2",
+    "overview": "Star TV PROGRAM İçeriği",
+    "poster": "https://media.startv.com.tr/star-tv/images/site-i231i-uyarlama1242_1730px.jpg",
+    "backdrop": "https://media.startv.com.tr/star-tv/images/site-i231i-uyarlama1242_1730px.jpg",
+    "year": "2026",
+    "rating": 10.0,
+    "genres": [
+        "Yerli",
+        "Program"
+    ],
+    "categories": [
+        "Star TV",
+        "Program",
+        "Yerli"
+    ],
+    "cast": [],
+    "episodes": [
+        {
+            "season": 1,
+            "episode": 215,
+            "name": "215. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/cgh(3).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a18e19604a1fbc5d83e912&SecretKey=NtvApiSecret2014*&.m3u8"
+        }
+    ],
+    "update_date": "2026-03-03 14:36:58"
+}

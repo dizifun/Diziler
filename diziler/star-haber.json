@@ -831,6 +831,15 @@
         },
         {
             "season": 1,
+            "episode": 1,
+            "name": "1. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/1martrev.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a52744604a1fbc5d83e9cd&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
             "episode": 2,
             "name": "2. Bölüm",
             "overview": "",
@@ -21711,6 +21720,15 @@
         },
         {
             "season": 1,
+            "episode": 27,
+            "name": "27. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/27(8).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a2f0f1604a1fbc5d83e96d&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
             "episode": 28,
             "name": "28. Bölüm",
             "overview": "",
@@ -22482,6 +22500,15 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/28(3).jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_697a5b1c3754260b3ea63742&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 28,
+            "name": "28. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/28(4).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a32626604a1fbc5d83e982&SecretKey=NtvApiSecret2014*&.m3u8"
         },
         {
             "season": 1,
@@ -24420,7 +24447,7 @@
         },
         {
             "season": 1,
-            "episode": 2712,
+            "episode": 2715,
             "name": "Star Haber Yüzen Ordu Anadolu",
             "overview": "",
             "still_path": "https://media.startv.com.tr/star-tv/images/8e52e2154695bb01494f8910.jpg",
@@ -24428,5 +24455,5 @@
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91743&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-01 02:44:42"
+    "update_date": "2026-03-03 14:37:38"
 }

@@ -3888,7 +3888,16 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/431(2).jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6998cb653460ad999fb9114d&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 432,
+            "name": "432. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/1111(3).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a15cad604a1fbc5d83e805&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-01 02:44:11"
+    "update_date": "2026-03-03 14:37:06"
 }
