@@ -12,12 +12,12 @@
         "Komedi"
     ],
     "categories": [
-        "NBC",
-        "Amazon Prime",
-        "YouTube TV",
-        "Tümü",
         "TBS",
-        "HBO Max"
+        "Tümü",
+        "YouTube TV",
+        "HBO Max",
+        "Amazon Prime",
+        "NBC"
     ],
     "cast": [
         {
@@ -33,7 +33,7 @@
         {
             "name": "Lisa Kudrow",
             "role": "Phoebe Buffay",
-            "image": "https://image.tmdb.org/t/p/w200/ylpVSNPPFDXbLSQJgiNz6Rjicgo.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
         },
         {
             "name": "Matt LeBlanc",
@@ -2105,5 +2105,5 @@
             "link": "https://vidmody.com/vs/tt0108778/s10/e17"
         }
     ],
-    "update_date": "2026-03-01 06:20:36"
+    "update_date": "2026-03-03 18:50:59"
 }
