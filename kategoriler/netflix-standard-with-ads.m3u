@@ -1,5 +1,21 @@
 #EXTM3U
 #PLAYLIST:Netflix Standard with Ads
+#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/qyCPTPSvBkC9X2f74qaftnjheQZ.jpg", [6.3] Wayward S01E01 - Tall Pines
+https://vidmody.com/vs/tt27427326/s1/e01
+#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/v3a6TldDmqMMZM0qBCiQWHJS9Zp.jpg", [6.3] Wayward S01E02 - Yuva
+https://vidmody.com/vs/tt27427326/s1/e02
+#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/y1N8VZPXLbeXgsiJJxqDrAsLnte.jpg", [6.3] Wayward S01E03 - Kırma
+https://vidmody.com/vs/tt27427326/s1/e03
+#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/AcBSdcEcLmsCwSO3F60yOtx9aDX.jpg", [6.3] Wayward S01E04 - Çamur
+https://vidmody.com/vs/tt27427326/s1/e04
+#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/x1e4aZypDtJXVGdWCsaZABzQQyG.jpg", [6.3] Wayward S01E05 - İnşa
+https://vidmody.com/vs/tt27427326/s1/e05
+#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/jUdF7qn4KqUHELIN1JlsYjvHkzo.jpg", [6.3] Wayward S01E06 - Ayna
+https://vidmody.com/vs/tt27427326/s1/e06
+#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/cPIzW46FhbpzxdMsYilbcx8J7qE.jpg", [6.3] Wayward S01E07 - Yükseliş
+https://vidmody.com/vs/tt27427326/s1/e07
+#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/8xGLrnAKQxHPIcvM4n0vQOZebLW.jpg", [6.3] Wayward S01E08 - Sıçrayış
+https://vidmody.com/vs/tt27427326/s1/e08
 #EXTINF:-1 group-title="The Blacklist" tvg-logo="https://image.tmdb.org/t/p/w400/fSXe9RohuyfQogDIIOkxf3pq5Gr.jpg", [7.6] The Blacklist S01E01 - Pilot Bölüm
 https://vidmody.com/vs/tt2741602/s1/e01
 #EXTINF:-1 group-title="The Blacklist" tvg-logo="https://image.tmdb.org/t/p/w400/jP4pxaODGIRFnxtnj1YQcV97eI7.jpg", [7.6] The Blacklist S01E02 - Serbest Çalışan (No.145)
@@ -2582,19 +2598,3 @@ https://vidmody.com/vs/tt27554348/s1/e09
 https://vidmody.com/vs/tt27554348/s1/e10
 #EXTINF:-1 group-title="Dear Hongrang" tvg-logo="https://image.tmdb.org/t/p/w400/dXOhusS4AYmiDdP7jcTicJcbz4s.jpg", [7.3] Dear Hongrang S01E11 - Sonsuza Dek
 https://vidmody.com/vs/tt27554348/s1/e11
-#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/qyCPTPSvBkC9X2f74qaftnjheQZ.jpg", [6.3] Wayward S01E01 - Tall Pines
-https://vidmody.com/vs/tt27427326/s1/e01
-#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/v3a6TldDmqMMZM0qBCiQWHJS9Zp.jpg", [6.3] Wayward S01E02 - Yuva
-https://vidmody.com/vs/tt27427326/s1/e02
-#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/y1N8VZPXLbeXgsiJJxqDrAsLnte.jpg", [6.3] Wayward S01E03 - Kırma
-https://vidmody.com/vs/tt27427326/s1/e03
-#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/AcBSdcEcLmsCwSO3F60yOtx9aDX.jpg", [6.3] Wayward S01E04 - Çamur
-https://vidmody.com/vs/tt27427326/s1/e04
-#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/x1e4aZypDtJXVGdWCsaZABzQQyG.jpg", [6.3] Wayward S01E05 - İnşa
-https://vidmody.com/vs/tt27427326/s1/e05
-#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/jUdF7qn4KqUHELIN1JlsYjvHkzo.jpg", [6.3] Wayward S01E06 - Ayna
-https://vidmody.com/vs/tt27427326/s1/e06
-#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/cPIzW46FhbpzxdMsYilbcx8J7qE.jpg", [6.3] Wayward S01E07 - Yükseliş
-https://vidmody.com/vs/tt27427326/s1/e07
-#EXTINF:-1 group-title="Wayward" tvg-logo="https://image.tmdb.org/t/p/w400/8xGLrnAKQxHPIcvM4n0vQOZebLW.jpg", [6.3] Wayward S01E08 - Sıçrayış
-https://vidmody.com/vs/tt27427326/s1/e08
