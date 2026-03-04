@@ -15,18 +15,18 @@
             "Gizem"
         ],
         "categories": [
-            "Britbox Apple TV Channel",
-            "Spectrum On Demand",
-            "Amazon Prime",
-            "Hoopla",
-            "WETA+",
-            "BBC One",
-            "BritBox",
             "Philo",
+            "Hoopla",
+            "AMC Plus Apple TV Channel",
             "Tümü",
             "Hulu",
-            "AMC Plus Apple TV Channel",
-            "AMC+"
+            "BBC One",
+            "WETA+",
+            "AMC+",
+            "BritBox",
+            "Spectrum On Demand",
+            "Britbox Apple TV Channel",
+            "Amazon Prime"
         ],
         "cast": [
             {
@@ -150,6 +150,6 @@
                 "link": "https://vidmody.com/vs/tt1475582/s4/e03"
             }
         ],
-        "update_date": "2026-03-01 23:52:17"
+        "update_date": "2026-03-04 14:42:14"
     }
 ]
