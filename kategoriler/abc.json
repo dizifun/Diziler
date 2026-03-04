@@ -15,12 +15,12 @@
             "Komedi"
         ],
         "categories": [
-            "ABC",
-            "Disney+",
-            "YouTube TV",
             "Tümü",
+            "Hulu",
+            "YouTube TV",
             "fuboTV",
-            "Hulu"
+            "Disney+",
+            "ABC"
         ],
         "cast": [
             {
@@ -443,6 +443,6 @@
                 "link": "https://vidmody.com/vs/tt17543592/s4/e02"
             }
         ],
-        "update_date": "2026-03-02 02:01:00"
+        "update_date": "2026-03-04 17:10:16"
     }
 ]
