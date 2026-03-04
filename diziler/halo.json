@@ -13,18 +13,18 @@
         "Aksiyon & Macera"
     ],
     "categories": [
+        "Paramount Plus Essential",
+        "Tümü",
+        "Paramount Plus Apple TV Channel",
+        "Netflix Standard with Ads",
+        "Paramount Plus Premium",
+        "Paramount+",
+        "Spectrum On Demand",
         "Netflix",
         "TV+",
-        "Paramount+ Roku Premium Channel",
-        "Netflix Standard with Ads",
-        "Paramount+",
-        "Paramount Plus Essential",
-        "Spectrum On Demand",
+        "fuboTV",
         "Amazon Prime",
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV Channel",
-        "Tümü",
-        "fuboTV"
+        "Paramount+ Roku Premium Channel"
     ],
     "cast": [
         {
@@ -35,7 +35,7 @@
         {
             "name": "Natascha McElhone",
             "role": "Dr. Catherine Halsey",
-            "image": "https://image.tmdb.org/t/p/w200/9pxaoasotR1pdCXYSfN1pkm0geO.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/sc1kLBI1jK7MicTYammnFs5JYrS.jpg"
         },
         {
             "name": "Joseph Morgan",
@@ -65,7 +65,7 @@
         {
             "name": "Yerin Ha",
             "role": "Kwan Ha",
-            "image": "https://image.tmdb.org/t/p/w200/ynNtvCmBFqbti9jXZ1YKSLIjAni.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/8U1zgiMjp7Ilglmu9NggwvDc6xe.jpg"
         },
         {
             "name": "Bentley Kalu",
@@ -233,5 +233,5 @@
             "link": "https://vidmody.com/vs/tt2934286/s2/e08"
         }
     ],
-    "update_date": "2026-03-02 07:27:11"
+    "update_date": "2026-03-04 23:03:03"
 }
