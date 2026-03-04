@@ -13,20 +13,20 @@
         "Dram"
     ],
     "categories": [
-        "FX",
-        "Disney+",
-        "Spectrum On Demand",
-        "YouTube TV",
+        "FXNow",
         "Tümü",
-        "fuboTV",
         "Hulu",
-        "FXNow"
+        "FX",
+        "YouTube TV",
+        "Spectrum On Demand",
+        "fuboTV",
+        "Disney+"
     ],
     "cast": [
         {
             "name": "Ethan Hawke",
             "role": "Lee Raybon",
-            "image": "https://image.tmdb.org/t/p/w200/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/oojD9jSshvUT4t6AUySsBxoekHk.jpg"
         },
         {
             "name": "Keith David",
@@ -108,5 +108,5 @@
             "link": "https://vidmody.com/vs/tt31289994/s1/e08"
         }
     ],
-    "update_date": "2026-03-02 08:10:25"
+    "update_date": "2026-03-04 23:49:57"
 }
