@@ -13,9 +13,9 @@
         "Komedi"
     ],
     "categories": [
-        "Hulu",
+        "Disney+",
         "Tümü",
-        "Disney+"
+        "Hulu"
     ],
     "cast": [
         {
@@ -26,7 +26,7 @@
         {
             "name": "Jenny Slate",
             "role": "Nikki Boyer",
-            "image": "https://image.tmdb.org/t/p/w200/aqH8MCnT3O5Od3OfZR8LClSP7UB.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/iNpXig5Djkh5moYG4TCekIATs5B.jpg"
         },
         {
             "name": "Jay Duplass",
@@ -133,5 +133,5 @@
             "link": "https://vidmody.com/vs/tt30252752/s1/e08"
         }
     ],
-    "update_date": "2026-03-02 07:47:54"
+    "update_date": "2026-03-04 23:26:29"
 }
