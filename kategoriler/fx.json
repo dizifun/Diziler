@@ -1,416 +1,5 @@
 [
     {
-        "id": 157239,
-        "imdb_id": "tt13623632",
-        "name": "Alien: Earth",
-        "original_name": "Alien: Earth",
-        "overview": "Gizemli derin uzay araştırma gemisi USCSS Maginot'nun Dünya'ya çakılmasıyla Wendy ve bir grup asker, gezegenin en büyük tehdidiyle karşı karşıya gelir.",
-        "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/biIBy2LPOOtGCgUYOls3dUEWU3v.jpg",
-        "year": "2025",
-        "rating": 7.4,
-        "genres": [
-            "Bilim Kurgu & Fantazi",
-            "Dram"
-        ],
-        "categories": [
-            "FX",
-            "Disney+",
-            "Tümü",
-            "Hulu"
-        ],
-        "cast": [
-            {
-                "name": "Sydney Chandler",
-                "role": "Wendy",
-                "image": "https://image.tmdb.org/t/p/w200/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg"
-            },
-            {
-                "name": "Alex Lawther",
-                "role": "Joe DiMaggio Hermit",
-                "image": "https://image.tmdb.org/t/p/w200/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
-            },
-            {
-                "name": "Essie Davis",
-                "role": "Dame Sylvia",
-                "image": "https://image.tmdb.org/t/p/w200/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg"
-            },
-            {
-                "name": "Samuel Blenkin",
-                "role": "Boy Kavalier",
-                "image": "https://image.tmdb.org/t/p/w200/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg"
-            },
-            {
-                "name": "Babou Ceesay",
-                "role": "Kumi Morrow",
-                "image": "https://image.tmdb.org/t/p/w200/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg"
-            },
-            {
-                "name": "Adarsh Gourav",
-                "role": "Slightly",
-                "image": "https://image.tmdb.org/t/p/w200/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg"
-            },
-            {
-                "name": "Erana James",
-                "role": "Curly",
-                "image": "https://image.tmdb.org/t/p/w200/kEfjALq1CIHpfaOHtw6DSzGlIX6.jpg"
-            },
-            {
-                "name": "Lily Newmark",
-                "role": "Nibs",
-                "image": "https://image.tmdb.org/t/p/w200/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg"
-            },
-            {
-                "name": "Jonathan Ajayi",
-                "role": "Smee",
-                "image": "https://image.tmdb.org/t/p/w200/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg"
-            },
-            {
-                "name": "David Rysdahl",
-                "role": "Arthur Sylvia",
-                "image": "https://image.tmdb.org/t/p/w200/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Neverland",
-                "overview": "Bir uzay gemisi Dünya’ya düştüğünde bir kız kardeş, abisini aramaya başlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/d4cydmliyqDZyBWkxkliiED4B0G.jpg",
-                "vote_average": 7.3,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Bay Ekim",
-                "overview": "Rakip şirketler arasında gerilim tırmanırken bir sır ortaya çıkar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cdajiwi3frAqI0XIwsCH5q9P8Hu.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Metamorfoz",
-                "overview": "Ekip, davetsiz bir kargoyla eve döner ve rahatsız edici bir deney yapılır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg",
-                "vote_average": 7.0,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Gözlem",
-                "overview": "Gizli bir komplo herkesi tehlikeye atarken beklenmedik bir bağ kurulur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/hzE6VJ37veL4p54IicLcI5pDDSJ.jpg",
-                "vote_average": 7.1,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Uzayda Kimse...",
-                "overview": "Uzay boşluğunda tehlikede olan bir gemi, mürettebatı zorlu bir hesaplaşmaya sürükler.",
-                "still_path": "https://image.tmdb.org/t/p/w400/hkLVUpJ8HWSAowCxazGDcUOpxLS.jpg",
-                "vote_average": 7.3,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "Sinek",
-                "overview": "Güçlü düşmanlar çatışırken gerilim tırmanır ve merak ölümcül sonuçlara yol açar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ppYjI7rPvsZznQr59XzysFUZTsY.jpg",
-                "vote_average": 6.7,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "Belirme",
-                "overview": "Bir kaçış planı, tarafların bölünmesine, ihanetlere ve şoke edici bir yüzleşmeye yol açar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg",
-                "vote_average": 7.5,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "Gerçek Canavarlar",
-                "overview": "Güç dengeleri değişiyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/tssL6QBaKUkdXtmPUidrsREIEX5.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt13623632/s1/e08"
-            }
-        ],
-        "update_date": "2026-03-04 13:22:02"
-    },
-    {
-        "id": 273247,
-        "imdb_id": "tt31289994",
-        "name": "The Lowdown",
-        "original_name": "The Lowdown",
-        "overview": "Gerçeğe olan takıntısı yüzünden sürekli başını belaya sokan, kendini Tulsa'nın “gerçek tarihçisi” ilan eden vatandaş gazeteci Lee Raybon'un cesur maceralarını takip edin.",
-        "poster": "https://image.tmdb.org/t/p/w500/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
-        "year": "2025",
-        "rating": 6.7,
-        "genres": [
-            "Suç",
-            "Dram"
-        ],
-        "categories": [
-            "FX",
-            "Disney+",
-            "Spectrum On Demand",
-            "YouTube TV",
-            "Tümü",
-            "fuboTV",
-            "Hulu",
-            "FXNow"
-        ],
-        "cast": [
-            {
-                "name": "Ethan Hawke",
-                "role": "Lee Raybon",
-                "image": "https://image.tmdb.org/t/p/w200/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
-            },
-            {
-                "name": "Keith David",
-                "role": "Marty",
-                "image": "https://image.tmdb.org/t/p/w200/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/p8UN6B4M1zW8AhRz0OCOx0aoxCz.jpg",
-                "vote_average": 6.3,
-                "link": "https://vidmody.com/vs/tt31289994/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/gcCwhVkrnrLbygYvqadAxX1JNXg.jpg",
-                "vote_average": 5.3,
-                "link": "https://vidmody.com/vs/tt31289994/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/6J4JZhDPloBKQ7dwpnBPZ1CZDzn.jpg",
-                "vote_average": 5.9,
-                "link": "https://vidmody.com/vs/tt31289994/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/mMrM2WquY9lSy9by98iDZ0yLH55.jpg",
-                "vote_average": 5.6,
-                "link": "https://vidmody.com/vs/tt31289994/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/wfxbzd869dVwtsEvBTcoTyoyOhX.jpg",
-                "vote_average": 6.1,
-                "link": "https://vidmody.com/vs/tt31289994/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/5dhutPJB330QUYRgdT8bOLWyUOq.jpg",
-                "vote_average": 6.4,
-                "link": "https://vidmody.com/vs/tt31289994/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "7. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/zVy9bM921joyVirb2ATkxLhEEEb.jpg",
-                "vote_average": 5.6,
-                "link": "https://vidmody.com/vs/tt31289994/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "8. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/gbCSi2ScoHC3ByjQvbmJbyfBar0.jpg",
-                "vote_average": 5.7,
-                "link": "https://vidmody.com/vs/tt31289994/s1/e08"
-            }
-        ],
-        "update_date": "2026-03-02 08:10:25"
-    },
-    {
-        "id": 126308,
-        "imdb_id": "tt2788316",
-        "name": "Shōgun",
-        "original_name": "Shōgun",
-        "overview": "Japonya'da 1600 yılında geçen hikayede Lord Yoshii Toranaga, yakınlardaki bir balıkçı köyünde gizemli bir Avrupa gemisi karaya oturduğunda, Naipler Konseyi'ndeki düşmanları ona karşı birleştiği için hayatı uğruna savaşmaktadır.",
-        "poster": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
-        "year": "2024",
-        "rating": 8.4,
-        "genres": [
-            "Dram",
-            "Savaş & Politik"
-        ],
-        "categories": [
-            "FX",
-            "Hulu",
-            "Tümü",
-            "Disney+"
-        ],
-        "cast": [
-            {
-                "name": "Hiroyuki Sanada",
-                "role": "Yoshii Toranaga",
-                "image": "https://image.tmdb.org/t/p/w200/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
-            },
-            {
-                "name": "Cosmo Jarvis",
-                "role": "John Blackthorne",
-                "image": "https://image.tmdb.org/t/p/w200/1kgghZ558CxZCJip5ufO6BAqUGp.jpg"
-            },
-            {
-                "name": "Anna Sawai",
-                "role": "Toda Mariko",
-                "image": "https://image.tmdb.org/t/p/w200/6uFaCOupDTPRnTiedveTUvjOikC.jpg"
-            },
-            {
-                "name": "浅野忠信",
-                "role": "Kashigi Yabushige",
-                "image": "https://image.tmdb.org/t/p/w200/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
-            },
-            {
-                "name": "平岳大",
-                "role": "Ishido Kazunari",
-                "image": "https://image.tmdb.org/t/p/w200/f8UK7xqwkfpIZiECcDgc0AErkj6.jpg"
-            },
-            {
-                "name": "Tommy Bastow",
-                "role": "Father Martin Alvito",
-                "image": "https://image.tmdb.org/t/p/w200/dIQcrDm9dZqc98Ca6Em67x5ivba.jpg"
-            },
-            {
-                "name": "二階堂ふみ",
-                "role": "Ochiba No Kata / Ruri",
-                "image": "https://image.tmdb.org/t/p/w200/tqxgrZdOpx2FuTJYlhago4fttI3.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Anjin",
-                "overview": "Barbar bir geminin fakir bir balıkçı köyünde kıyıya vurmasının ardından Japonya'da kaderler birleşiyor. Bu arada Osaka'da Lord Toranaga, kendisini düşmanları tarafından mağlup edilmiş halde bulur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/8uib4EWHrAnhUg08pFLAnoo50rf.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "İki Efendinin Hizmetkarları",
-                "overview": "Blackthorne'un Osaka'ya gelişi bir rekabet ortamını harekete geçirir. Mariko, Lord Toranaga'nın gözetimindeki barbar adına tercüme yapmak zorunda kaldığında davası ve inancı arasında sıkışıp kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/gUglbYu9EjhpVoxzBWHsXVQYpQX.jpg",
-                "vote_average": 8.6,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Yarın Yarındır",
-                "overview": "Blackthorne küstah bir suikast girişiminden sağ kurtulduktan sonra Toranaga, müttefiklerini Osaka'dan çıkarması gerektiğini, aksi takdirde kesin bir yenilgiyi göze alması gerektiğini fark eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/uXMdeoIltO85372VLX85abAC109.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Sekiz Katlı Çit",
-                "overview": "Blackthorne ve Mariko, Toranaga'nın silah alayına savaş için eğitim verirken yeni ittifaklarını test ediyor. Eski bir arkadaşı köye geldiğinde Yabushige, Ishido'ya verdiği geçmiş sözlerden vazgeçmek zorunda kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/kF8DfadGNPJi3fMZEZgiFRaoRH9.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Yumruk olarak evcilleşmek",
-                "overview": "Blackthorne ve Mariko, ikisinin de ölmesine yol açabilecek sırrı saklamakta zorlanır. Yabushige, niyetini Lord Toranaga'ya açıklayan casusu arar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/5N5isVZvgdYeGsASiUgQJzHW6Ll.jpg",
-                "vote_average": 8.3,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "Söğüt Dünyasının Leydileri",
-                "overview": "Leydi Ochiba, Vekillerin Toranaga'ya karşı kampanyasını hızlandırmak için Osaka'ya döner. Ajiro'da Toranaga, Mariko'nun davasına olan bağlılığını sınar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/15qoHmtC3zKQtZulccXs2GAMnKq.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "Bir Tütsülük Vakit",
-                "overview": "Osaka'daki yeni ittifaklar karşısında geride kalan Toranaga, uzun zamandır kayıp olan bir aile üyesiyle yeni bir anlaşma yapmak zorunda kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/s5yGuWq058n3urFKDIwjyNOzgCD.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "Yaşamın Sonsuz Derinliği",
-                "overview": "Toranaga'nın mağlup klanı Edo'ya taşınır ve kaderlerini bekler. Blackthorne kimin için savaşacağına karar vermelidir; ona sırtını dönen lord için mi yoksa onu Japonya'ya getiren hırs için mi?",
-                "still_path": "https://image.tmdb.org/t/p/w400/jX99BvnOAF2bNjQvNHtMmCxmUOa.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e08"
-            },
-            {
-                "season": 1,
-                "episode": 9,
-                "name": "Kızıl Gökyüzü",
-                "overview": "Mariko hayatının mücadelesi için Osaka'ya gelir. Blackthorne ve Yabushige, seçenekleri azaldıkça kendi kafalarını kurtarmak için çabalıyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/tAoNG2uBLRYJZKJOq9k9Xvb0voT.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e09"
-            },
-            {
-                "season": 1,
-                "episode": 10,
-                "name": "Bir Rüyanın Rüyası",
-                "overview": "Trajik bir ölümün ardından Blackthorne sonunda Toranaga'nın planının gerçek mahiyetini düşünür.",
-                "still_path": "https://image.tmdb.org/t/p/w400/dIXtG4MafmmjzNhU7ANJZByGmvr.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt2788316/s1/e10"
-            }
-        ],
-        "update_date": "2026-03-02 06:51:01"
-    },
-    {
         "id": 1413,
         "imdb_id": "tt1844624",
         "name": "American Horror Story",
@@ -426,11 +15,11 @@
             "Bilim Kurgu & Fantazi"
         ],
         "categories": [
-            "FX",
-            "Disney+",
-            "Amazon Prime",
             "Tümü",
-            "Hulu"
+            "Hulu",
+            "FX",
+            "Amazon Prime",
+            "Disney+"
         ],
         "cast": [
             {
@@ -1669,6 +1258,417 @@
                 "link": "https://vidmody.com/vs/tt1844624/s12/e09"
             }
         ],
-        "update_date": "2026-03-02 02:30:10"
+        "update_date": "2026-03-04 17:41:59"
+    },
+    {
+        "id": 157239,
+        "imdb_id": "tt13623632",
+        "name": "Alien: Earth",
+        "original_name": "Alien: Earth",
+        "overview": "Gizemli derin uzay araştırma gemisi USCSS Maginot'nun Dünya'ya çakılmasıyla Wendy ve bir grup asker, gezegenin en büyük tehdidiyle karşı karşıya gelir.",
+        "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/biIBy2LPOOtGCgUYOls3dUEWU3v.jpg",
+        "year": "2025",
+        "rating": 7.4,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "FX",
+            "Disney+",
+            "Tümü",
+            "Hulu"
+        ],
+        "cast": [
+            {
+                "name": "Sydney Chandler",
+                "role": "Wendy",
+                "image": "https://image.tmdb.org/t/p/w200/pFNFXu2PaSUvHqFJCBPz5BEjgTj.jpg"
+            },
+            {
+                "name": "Alex Lawther",
+                "role": "Joe DiMaggio Hermit",
+                "image": "https://image.tmdb.org/t/p/w200/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
+            },
+            {
+                "name": "Essie Davis",
+                "role": "Dame Sylvia",
+                "image": "https://image.tmdb.org/t/p/w200/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg"
+            },
+            {
+                "name": "Samuel Blenkin",
+                "role": "Boy Kavalier",
+                "image": "https://image.tmdb.org/t/p/w200/xQuFRXQTtbyQMXdAVvVib4pOxFm.jpg"
+            },
+            {
+                "name": "Babou Ceesay",
+                "role": "Kumi Morrow",
+                "image": "https://image.tmdb.org/t/p/w200/nhHcSiJc9U9JBzGJZ3QVS9jEc2b.jpg"
+            },
+            {
+                "name": "Adarsh Gourav",
+                "role": "Slightly",
+                "image": "https://image.tmdb.org/t/p/w200/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg"
+            },
+            {
+                "name": "Erana James",
+                "role": "Curly",
+                "image": "https://image.tmdb.org/t/p/w200/kEfjALq1CIHpfaOHtw6DSzGlIX6.jpg"
+            },
+            {
+                "name": "Lily Newmark",
+                "role": "Nibs",
+                "image": "https://image.tmdb.org/t/p/w200/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg"
+            },
+            {
+                "name": "Jonathan Ajayi",
+                "role": "Smee",
+                "image": "https://image.tmdb.org/t/p/w200/fXyN5tv9prFx0hzbvtCVlW3QJhx.jpg"
+            },
+            {
+                "name": "David Rysdahl",
+                "role": "Arthur Sylvia",
+                "image": "https://image.tmdb.org/t/p/w200/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Neverland",
+                "overview": "Bir uzay gemisi Dünya’ya düştüğünde bir kız kardeş, abisini aramaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/d4cydmliyqDZyBWkxkliiED4B0G.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Bay Ekim",
+                "overview": "Rakip şirketler arasında gerilim tırmanırken bir sır ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cdajiwi3frAqI0XIwsCH5q9P8Hu.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Metamorfoz",
+                "overview": "Ekip, davetsiz bir kargoyla eve döner ve rahatsız edici bir deney yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/4pLJcZUh73j8wSQfB5vAX3jtORj.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Gözlem",
+                "overview": "Gizli bir komplo herkesi tehlikeye atarken beklenmedik bir bağ kurulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hzE6VJ37veL4p54IicLcI5pDDSJ.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Uzayda Kimse...",
+                "overview": "Uzay boşluğunda tehlikede olan bir gemi, mürettebatı zorlu bir hesaplaşmaya sürükler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/hkLVUpJ8HWSAowCxazGDcUOpxLS.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Sinek",
+                "overview": "Güçlü düşmanlar çatışırken gerilim tırmanır ve merak ölümcül sonuçlara yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ppYjI7rPvsZznQr59XzysFUZTsY.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Belirme",
+                "overview": "Bir kaçış planı, tarafların bölünmesine, ihanetlere ve şoke edici bir yüzleşmeye yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7DLRyfODm9aii0aLgYiuA6r2zwI.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Gerçek Canavarlar",
+                "overview": "Güç dengeleri değişiyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tssL6QBaKUkdXtmPUidrsREIEX5.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt13623632/s1/e08"
+            }
+        ],
+        "update_date": "2026-03-04 13:22:02"
+    },
+    {
+        "id": 273247,
+        "imdb_id": "tt31289994",
+        "name": "The Lowdown",
+        "original_name": "The Lowdown",
+        "overview": "Gerçeğe olan takıntısı yüzünden sürekli başını belaya sokan, kendini Tulsa'nın “gerçek tarihçisi” ilan eden vatandaş gazeteci Lee Raybon'un cesur maceralarını takip edin.",
+        "poster": "https://image.tmdb.org/t/p/w500/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
+        "year": "2025",
+        "rating": 6.7,
+        "genres": [
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "FX",
+            "Disney+",
+            "Spectrum On Demand",
+            "YouTube TV",
+            "Tümü",
+            "fuboTV",
+            "Hulu",
+            "FXNow"
+        ],
+        "cast": [
+            {
+                "name": "Ethan Hawke",
+                "role": "Lee Raybon",
+                "image": "https://image.tmdb.org/t/p/w200/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+            },
+            {
+                "name": "Keith David",
+                "role": "Marty",
+                "image": "https://image.tmdb.org/t/p/w200/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/p8UN6B4M1zW8AhRz0OCOx0aoxCz.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gcCwhVkrnrLbygYvqadAxX1JNXg.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6J4JZhDPloBKQ7dwpnBPZ1CZDzn.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/mMrM2WquY9lSy9by98iDZ0yLH55.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/wfxbzd869dVwtsEvBTcoTyoyOhX.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/5dhutPJB330QUYRgdT8bOLWyUOq.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zVy9bM921joyVirb2ATkxLhEEEb.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gbCSi2ScoHC3ByjQvbmJbyfBar0.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt31289994/s1/e08"
+            }
+        ],
+        "update_date": "2026-03-02 08:10:25"
+    },
+    {
+        "id": 126308,
+        "imdb_id": "tt2788316",
+        "name": "Shōgun",
+        "original_name": "Shōgun",
+        "overview": "Japonya'da 1600 yılında geçen hikayede Lord Yoshii Toranaga, yakınlardaki bir balıkçı köyünde gizemli bir Avrupa gemisi karaya oturduğunda, Naipler Konseyi'ndeki düşmanları ona karşı birleştiği için hayatı uğruna savaşmaktadır.",
+        "poster": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+        "year": "2024",
+        "rating": 8.4,
+        "genres": [
+            "Dram",
+            "Savaş & Politik"
+        ],
+        "categories": [
+            "FX",
+            "Hulu",
+            "Tümü",
+            "Disney+"
+        ],
+        "cast": [
+            {
+                "name": "Hiroyuki Sanada",
+                "role": "Yoshii Toranaga",
+                "image": "https://image.tmdb.org/t/p/w200/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+            },
+            {
+                "name": "Cosmo Jarvis",
+                "role": "John Blackthorne",
+                "image": "https://image.tmdb.org/t/p/w200/1kgghZ558CxZCJip5ufO6BAqUGp.jpg"
+            },
+            {
+                "name": "Anna Sawai",
+                "role": "Toda Mariko",
+                "image": "https://image.tmdb.org/t/p/w200/6uFaCOupDTPRnTiedveTUvjOikC.jpg"
+            },
+            {
+                "name": "浅野忠信",
+                "role": "Kashigi Yabushige",
+                "image": "https://image.tmdb.org/t/p/w200/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
+            },
+            {
+                "name": "平岳大",
+                "role": "Ishido Kazunari",
+                "image": "https://image.tmdb.org/t/p/w200/f8UK7xqwkfpIZiECcDgc0AErkj6.jpg"
+            },
+            {
+                "name": "Tommy Bastow",
+                "role": "Father Martin Alvito",
+                "image": "https://image.tmdb.org/t/p/w200/dIQcrDm9dZqc98Ca6Em67x5ivba.jpg"
+            },
+            {
+                "name": "二階堂ふみ",
+                "role": "Ochiba No Kata / Ruri",
+                "image": "https://image.tmdb.org/t/p/w200/tqxgrZdOpx2FuTJYlhago4fttI3.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Anjin",
+                "overview": "Barbar bir geminin fakir bir balıkçı köyünde kıyıya vurmasının ardından Japonya'da kaderler birleşiyor. Bu arada Osaka'da Lord Toranaga, kendisini düşmanları tarafından mağlup edilmiş halde bulur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8uib4EWHrAnhUg08pFLAnoo50rf.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "İki Efendinin Hizmetkarları",
+                "overview": "Blackthorne'un Osaka'ya gelişi bir rekabet ortamını harekete geçirir. Mariko, Lord Toranaga'nın gözetimindeki barbar adına tercüme yapmak zorunda kaldığında davası ve inancı arasında sıkışıp kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/gUglbYu9EjhpVoxzBWHsXVQYpQX.jpg",
+                "vote_average": 8.6,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Yarın Yarındır",
+                "overview": "Blackthorne küstah bir suikast girişiminden sağ kurtulduktan sonra Toranaga, müttefiklerini Osaka'dan çıkarması gerektiğini, aksi takdirde kesin bir yenilgiyi göze alması gerektiğini fark eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uXMdeoIltO85372VLX85abAC109.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Sekiz Katlı Çit",
+                "overview": "Blackthorne ve Mariko, Toranaga'nın silah alayına savaş için eğitim verirken yeni ittifaklarını test ediyor. Eski bir arkadaşı köye geldiğinde Yabushige, Ishido'ya verdiği geçmiş sözlerden vazgeçmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/kF8DfadGNPJi3fMZEZgiFRaoRH9.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Yumruk olarak evcilleşmek",
+                "overview": "Blackthorne ve Mariko, ikisinin de ölmesine yol açabilecek sırrı saklamakta zorlanır. Yabushige, niyetini Lord Toranaga'ya açıklayan casusu arar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5N5isVZvgdYeGsASiUgQJzHW6Ll.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Söğüt Dünyasının Leydileri",
+                "overview": "Leydi Ochiba, Vekillerin Toranaga'ya karşı kampanyasını hızlandırmak için Osaka'ya döner. Ajiro'da Toranaga, Mariko'nun davasına olan bağlılığını sınar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/15qoHmtC3zKQtZulccXs2GAMnKq.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Bir Tütsülük Vakit",
+                "overview": "Osaka'daki yeni ittifaklar karşısında geride kalan Toranaga, uzun zamandır kayıp olan bir aile üyesiyle yeni bir anlaşma yapmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/s5yGuWq058n3urFKDIwjyNOzgCD.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Yaşamın Sonsuz Derinliği",
+                "overview": "Toranaga'nın mağlup klanı Edo'ya taşınır ve kaderlerini bekler. Blackthorne kimin için savaşacağına karar vermelidir; ona sırtını dönen lord için mi yoksa onu Japonya'ya getiren hırs için mi?",
+                "still_path": "https://image.tmdb.org/t/p/w400/jX99BvnOAF2bNjQvNHtMmCxmUOa.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Kızıl Gökyüzü",
+                "overview": "Mariko hayatının mücadelesi için Osaka'ya gelir. Blackthorne ve Yabushige, seçenekleri azaldıkça kendi kafalarını kurtarmak için çabalıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tAoNG2uBLRYJZKJOq9k9Xvb0voT.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Bir Rüyanın Rüyası",
+                "overview": "Trajik bir ölümün ardından Blackthorne sonunda Toranaga'nın planının gerçek mahiyetini düşünür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dIXtG4MafmmjzNhU7ANJZByGmvr.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt2788316/s1/e10"
+            }
+        ],
+        "update_date": "2026-03-02 06:51:01"
     }
 ]
