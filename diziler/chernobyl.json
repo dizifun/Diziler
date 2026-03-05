@@ -12,9 +12,9 @@
         "Dram"
     ],
     "categories": [
-        "HBO",
         "Amazon Prime",
         "HBO Max",
+        "HBO",
         "Tümü"
     ],
     "cast": [
@@ -41,7 +41,7 @@
         {
             "name": "Jessie Buckley",
             "role": "Lyudmilla Ignatenko",
-            "image": "https://image.tmdb.org/t/p/w200/i8IlkFbZqKUgkypZKpdhrw00uqw.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
         },
         {
             "name": "Adam Nagaitis",
@@ -116,5 +116,5 @@
             "link": "https://vidmody.com/vs/tt7366338/s1/e05"
         }
     ],
-    "update_date": "2026-03-02 16:17:10"
+    "update_date": "2026-03-05 08:32:03"
 }
