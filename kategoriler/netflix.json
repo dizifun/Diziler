@@ -1,5 +1,256 @@
 [
     {
+        "id": 259731,
+        "imdb_id": "tt33035373",
+        "name": "Ne Yaptığını Biliyorum",
+        "original_name": "HIS & HERS",
+        "overview": "Ayrı yaşayan ve biri muhabir, diğeriyse dedektif olan bir karı koca, birbirlerini baş şüpheli olarak gördükleri bir cinayet davasını çözmek için yarışırlar.",
+        "poster": "https://image.tmdb.org/t/p/w500/m2zNxqbhQvijp2F23WypUgm7kGv.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
+        "year": "2026",
+        "rating": 7.3,
+        "genres": [
+            "Dram",
+            "Suç",
+            "Gizem"
+        ],
+        "categories": [
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Tümü"
+        ],
+        "cast": [
+            {
+                "name": "Tessa Thompson",
+                "role": "Anna Andrews",
+                "image": "https://image.tmdb.org/t/p/w200/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
+            },
+            {
+                "name": "Jon Bernthal",
+                "role": "Detective Jack Harper",
+                "image": "https://image.tmdb.org/t/p/w200/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+            },
+            {
+                "name": "Pablo Schreiber",
+                "role": "Richard",
+                "image": "https://image.tmdb.org/t/p/w200/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+            },
+            {
+                "name": "Crystal R. Fox",
+                "role": "Alice",
+                "image": "https://image.tmdb.org/t/p/w200/u5mv4EiIl5oS2s0yUaqtjbpWEz2.jpg"
+            },
+            {
+                "name": "Sunita Mani",
+                "role": "Priya",
+                "image": "https://image.tmdb.org/t/p/w200/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
+            },
+            {
+                "name": "Poppy Liu",
+                "role": "Helen",
+                "image": "https://image.tmdb.org/t/p/w200/i36QkUChZN7K8BQa1ReaZHes6L4.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Televizyon muhabiri Anna, bir cinayet vakasını haber yapmak için Georgia'daki memleketine döner ve ayrı yaşadığı kocası Jack'in vakayı inceleyen baş müfetttiş olduğunu görür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/fJjdHdLMdx9hM20hQU5XAHMtpvY.jpg",
+                "vote_average": 5.7,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Jack ve Priya, önemli bir şüphelinin mazeretinde kusurlar bulmaya çalışırlar. Anna, eski bir sınıf arkadaşıyla gergin bir röportaj yapmak üzere eski okuluna gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dTYoHapJoPmAYYfA6vXEHuTcTEE.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Anna başspikerliğe dönme fırsatını hemen değerlendirir. Zoe, sakladığı şey konusunda Jack'le yüzleşir. Alice'in kötüye gidişi yüzünden bir takım tatsız konuşmalar yapılır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/sfxcPyZzPEpZLAI9tiN2P6te2qd.jpg",
+                "vote_average": 4.5,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Jack, hararetli geçen bir kasaba toplantısında halkı yatıştırmakta zorlanır. Priya’nın şüpheleri doruğa ulaşır. Anna, acı dolu anılarla boğuşur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2fJzyBF7QFJFMVI9XT7fw2Tv9Vt.jpg",
+                "vote_average": 4.4,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Köşeye sıkışan Jack, giderek daha dengesiz davranmaya başlar. Anna bu kez kendini soruları cevaplayan tarafta bulur. Richard'ın geçmişi gün yüzüne çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a5Yw9mxR4ex2yjHLelS1jEQnYYt.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Soruşturmada sona yaklaşılınca Jack ve Anna, geçmişin günahlarıyla ve bugünün acımasız sonuçlarıyla yüzleşmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iw6hFVQ8ItYOGS4excmauXnyEI5.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt33035373/s1/e06"
+            }
+        ],
+        "update_date": "2026-03-05 00:39:16"
+    },
+    {
+        "id": 298699,
+        "imdb_id": "tt33034757",
+        "name": "Bir Zamanlar Alfaydık",
+        "original_name": "Alphamännchen",
+        "overview": "Kırklı yaşlarındaki dört yakın arkadaş, günümüz erkekliğinin yeni dünyasıyla yüzleşmek için elinden geleni yapar. Ama bu içten çabaları, her şeyi daha da berbat eder.",
+        "poster": "https://image.tmdb.org/t/p/w500/lf0woktttsDOwSSmemQICH0yvLN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/l1fYY1YpDHL0GsC5pz0IP9E6ivC.jpg",
+        "year": "2025",
+        "rating": 6.1,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Netflix Standard with Ads",
+            "Netflix",
+            "Tümü"
+        ],
+        "cast": [
+            {
+                "name": "Tom Beck",
+                "role": "Ulf",
+                "image": "https://image.tmdb.org/t/p/w200/pndqeDdwxLCHOscrIPzbMOQcFw6.jpg"
+            },
+            {
+                "name": "Moritz Führmann",
+                "role": "Andi",
+                "image": "https://image.tmdb.org/t/p/w200/9gbkUpDWNzhKWT9VRWAYpFYJ23v.jpg"
+            },
+            {
+                "name": "Serkan Kaya",
+                "role": "Cem",
+                "image": "https://image.tmdb.org/t/p/w200/eh1jNuwjcZYFeUtNrSePr9ae0S2.jpg"
+            },
+            {
+                "name": "David Rott",
+                "role": "Erik",
+                "image": "https://image.tmdb.org/t/p/w200/qMTp2S7kxrd6UUW9sULdBFt70m4.jpg"
+            },
+            {
+                "name": "Mona Pirzad",
+                "role": "Elif",
+                "image": "https://image.tmdb.org/t/p/w200/2CCQEi414iefggE9141F6m6bTK6.jpg"
+            },
+            {
+                "name": "Franziska Machens",
+                "role": "Silke",
+                "image": ""
+            },
+            {
+                "name": "Valentina Leone",
+                "role": "Alina",
+                "image": "https://image.tmdb.org/t/p/w200/9PswxyXN2srfC2g8JIH2KvlSvO.jpg"
+            },
+            {
+                "name": "Marleen Lohse",
+                "role": "Kim",
+                "image": "https://image.tmdb.org/t/p/w200/qBlETsMdgZTSyWhy61AJ3ia4NTz.jpg"
+            },
+            {
+                "name": "Jaela Probst",
+                "role": "Vanessa",
+                "image": "https://image.tmdb.org/t/p/w200/jGwADIjAcRVXcejw5t70wlEBS57.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Başarısızlığımız Benden Olmayacak",
+                "overview": "Ulf terfi edemez. Andi evliliğine renk katmaya çalışır. Cem'in kızı, yanına taşınır. Erik nihayet yalnızca bir kadına sadık kalmaya kendini hazır hisseder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/k5K2B2CtqwBTX1rlAU2FGvMciZz.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Libidosu Bitki Kadar",
+                "overview": "Cem çıktığı randevuda bariz bir yalan söyler. Ulf işini geri almaya çalışır. Bir seks kulübünde yaşanan tuhaf bir karşılaşma, Erik'i hazırlıksız yakalar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/bbUF6zaXXf2a1vEyEzyYqG8rgTr.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Bir Tür İyi Hâl Kâğıdı Falan mı Yani?",
+                "overview": "Andi ve Silke, sorunlarını çözmek için ilaçlara başvurur. Cem'in yanına taşınan Erik, Kim'in gözüne yeniden girmek için bir plan yapar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/2gVUZJE9cnyaQtaIGtao2yspCrN.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Teşhis ve Arrivederci",
+                "overview": "Ekip kayak yapmak için Münih'e gider. Burada Ulf, eski bir arkadaşının yaşadıklarından etkilenerek paranoyaklaşır. Bu arada Silke şeytana uyar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xZKXyArk6tMZP3ffvUykWBXPYQv.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "N'aber Kanka, Keyifler Gıcır mı?",
+                "overview": "Kafadarlar modern erkeklik hakkında bir seminere katılır. Elif, Ulf'ün gururunu incitmemek için elinden geleni yapar. Silke cinsel içerikli mesajlar atarken başını belaya sokar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cg65KnxIdhHxX5XkL2vlUTfPOGV.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Hemingway",
+                "overview": "Cem flört ettiği kişileri Ulf'den gizler. Andi üzücü bir şey öğrenir. Ulf bir etkinlikte Elif'i utandırır. Kim ve Erik bir yatak odası deneyimi yaşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yTAsm3YrHMHYGt9p0grmbVpuVkx.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Hayatta Her Şeye Sahip Olamazsın",
+                "overview": "Elif, viral videoları yüzünden Ulf'le tartışır. Cem'in eski bir aşkı yeniden alevlenir. Kim, Erik'e yeni iş teklifinden bahseder. Andi'nin öfkesi sonunda taşar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jAf4Ahm8pOirEVfRchGpwW9kEIR.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Pokémon Bile Anlayabiliyor",
+                "overview": "Son zamanlarda yaptıkları tercihlerin sonuçlarıyla yüzleşen kafadarlardan bazıları yeni başlangıçlara yelken açarken diğerleri acı gerçeklerle karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ApcITPGzcB5eR113KiHmGRj4Btq.jpg",
+                "vote_average": 0.0,
+                "link": "https://vidmody.com/vs/tt33034757/s1/e08"
+            }
+        ],
+        "update_date": "2026-03-05 00:39:12"
+    },
+    {
         "id": 228689,
         "imdb_id": "tt32409807",
         "name": "Cin, Bir Dilek Tut",
@@ -17719,256 +17970,5 @@
             }
         ],
         "update_date": "2026-03-02 09:15:19"
-    },
-    {
-        "id": 259731,
-        "imdb_id": "tt33035373",
-        "name": "Ne Yaptığını Biliyorum",
-        "original_name": "HIS & HERS",
-        "overview": "Ayrı yaşayan ve biri muhabir, diğeriyse dedektif olan bir karı koca, birbirlerini baş şüpheli olarak gördükleri bir cinayet davasını çözmek için yarışırlar.",
-        "poster": "https://image.tmdb.org/t/p/w500/m2zNxqbhQvijp2F23WypUgm7kGv.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
-        "year": "2026",
-        "rating": 7.3,
-        "genres": [
-            "Dram",
-            "Suç",
-            "Gizem"
-        ],
-        "categories": [
-            "Netflix Standard with Ads",
-            "Netflix",
-            "Tümü"
-        ],
-        "cast": [
-            {
-                "name": "Tessa Thompson",
-                "role": "Anna Andrews",
-                "image": "https://image.tmdb.org/t/p/w200/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
-            },
-            {
-                "name": "Jon Bernthal",
-                "role": "Detective Jack Harper",
-                "image": "https://image.tmdb.org/t/p/w200/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
-            },
-            {
-                "name": "Pablo Schreiber",
-                "role": "Richard",
-                "image": "https://image.tmdb.org/t/p/w200/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
-            },
-            {
-                "name": "Crystal R. Fox",
-                "role": "Alice",
-                "image": "https://image.tmdb.org/t/p/w200/u5mv4EiIl5oS2s0yUaqtjbpWEz2.jpg"
-            },
-            {
-                "name": "Sunita Mani",
-                "role": "Priya",
-                "image": "https://image.tmdb.org/t/p/w200/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
-            },
-            {
-                "name": "Poppy Liu",
-                "role": "Helen",
-                "image": "https://image.tmdb.org/t/p/w200/i36QkUChZN7K8BQa1ReaZHes6L4.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Televizyon muhabiri Anna, bir cinayet vakasını haber yapmak için Georgia'daki memleketine döner ve ayrı yaşadığı kocası Jack'in vakayı inceleyen baş müfetttiş olduğunu görür.",
-                "still_path": "https://image.tmdb.org/t/p/w400/fJjdHdLMdx9hM20hQU5XAHMtpvY.jpg",
-                "vote_average": 5.7,
-                "link": "https://vidmody.com/vs/tt33035373/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Jack ve Priya, önemli bir şüphelinin mazeretinde kusurlar bulmaya çalışırlar. Anna, eski bir sınıf arkadaşıyla gergin bir röportaj yapmak üzere eski okuluna gider.",
-                "still_path": "https://image.tmdb.org/t/p/w400/dTYoHapJoPmAYYfA6vXEHuTcTEE.jpg",
-                "vote_average": 4.5,
-                "link": "https://vidmody.com/vs/tt33035373/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Anna başspikerliğe dönme fırsatını hemen değerlendirir. Zoe, sakladığı şey konusunda Jack'le yüzleşir. Alice'in kötüye gidişi yüzünden bir takım tatsız konuşmalar yapılır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/sfxcPyZzPEpZLAI9tiN2P6te2qd.jpg",
-                "vote_average": 4.5,
-                "link": "https://vidmody.com/vs/tt33035373/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Jack, hararetli geçen bir kasaba toplantısında halkı yatıştırmakta zorlanır. Priya’nın şüpheleri doruğa ulaşır. Anna, acı dolu anılarla boğuşur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/2fJzyBF7QFJFMVI9XT7fw2Tv9Vt.jpg",
-                "vote_average": 4.4,
-                "link": "https://vidmody.com/vs/tt33035373/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Köşeye sıkışan Jack, giderek daha dengesiz davranmaya başlar. Anna bu kez kendini soruları cevaplayan tarafta bulur. Richard'ın geçmişi gün yüzüne çıkar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/a5Yw9mxR4ex2yjHLelS1jEQnYYt.jpg",
-                "vote_average": 4.8,
-                "link": "https://vidmody.com/vs/tt33035373/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "Soruşturmada sona yaklaşılınca Jack ve Anna, geçmişin günahlarıyla ve bugünün acımasız sonuçlarıyla yüzleşmek zorunda kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/iw6hFVQ8ItYOGS4excmauXnyEI5.jpg",
-                "vote_average": 5.0,
-                "link": "https://vidmody.com/vs/tt33035373/s1/e06"
-            }
-        ],
-        "update_date": "2026-03-02 09:00:29"
-    },
-    {
-        "id": 298699,
-        "imdb_id": "tt33034757",
-        "name": "Bir Zamanlar Alfaydık",
-        "original_name": "Alphamännchen",
-        "overview": "Kırklı yaşlarındaki dört yakın arkadaş, günümüz erkekliğinin yeni dünyasıyla yüzleşmek için elinden geleni yapar. Ama bu içten çabaları, her şeyi daha da berbat eder.",
-        "poster": "https://image.tmdb.org/t/p/w500/lf0woktttsDOwSSmemQICH0yvLN.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/l1fYY1YpDHL0GsC5pz0IP9E6ivC.jpg",
-        "year": "2025",
-        "rating": 6.1,
-        "genres": [
-            "Komedi"
-        ],
-        "categories": [
-            "Netflix Standard with Ads",
-            "Netflix",
-            "Tümü"
-        ],
-        "cast": [
-            {
-                "name": "Tom Beck",
-                "role": "Ulf",
-                "image": "https://image.tmdb.org/t/p/w200/pndqeDdwxLCHOscrIPzbMOQcFw6.jpg"
-            },
-            {
-                "name": "Moritz Führmann",
-                "role": "Andi",
-                "image": "https://image.tmdb.org/t/p/w200/9gbkUpDWNzhKWT9VRWAYpFYJ23v.jpg"
-            },
-            {
-                "name": "Serkan Kaya",
-                "role": "Cem",
-                "image": "https://image.tmdb.org/t/p/w200/eh1jNuwjcZYFeUtNrSePr9ae0S2.jpg"
-            },
-            {
-                "name": "David Rott",
-                "role": "Erik",
-                "image": "https://image.tmdb.org/t/p/w200/qMTp2S7kxrd6UUW9sULdBFt70m4.jpg"
-            },
-            {
-                "name": "Mona Pirzad",
-                "role": "Elif",
-                "image": "https://image.tmdb.org/t/p/w200/2CCQEi414iefggE9141F6m6bTK6.jpg"
-            },
-            {
-                "name": "Franziska Machens",
-                "role": "Silke",
-                "image": ""
-            },
-            {
-                "name": "Valentina Leone",
-                "role": "Alina",
-                "image": "https://image.tmdb.org/t/p/w200/9PswxyXN2srfC2g8JIH2KvlSvO.jpg"
-            },
-            {
-                "name": "Marleen Lohse",
-                "role": "Kim",
-                "image": "https://image.tmdb.org/t/p/w200/qBlETsMdgZTSyWhy61AJ3ia4NTz.jpg"
-            },
-            {
-                "name": "Jaela Probst",
-                "role": "Vanessa",
-                "image": "https://image.tmdb.org/t/p/w200/jGwADIjAcRVXcejw5t70wlEBS57.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Başarısızlığımız Benden Olmayacak",
-                "overview": "Ulf terfi edemez. Andi evliliğine renk katmaya çalışır. Cem'in kızı, yanına taşınır. Erik nihayet yalnızca bir kadına sadık kalmaya kendini hazır hisseder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/k5K2B2CtqwBTX1rlAU2FGvMciZz.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt33034757/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Libidosu Bitki Kadar",
-                "overview": "Cem çıktığı randevuda bariz bir yalan söyler. Ulf işini geri almaya çalışır. Bir seks kulübünde yaşanan tuhaf bir karşılaşma, Erik'i hazırlıksız yakalar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/bbUF6zaXXf2a1vEyEzyYqG8rgTr.jpg",
-                "vote_average": 0.0,
-                "link": "https://vidmody.com/vs/tt33034757/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Bir Tür İyi Hâl Kâğıdı Falan mı Yani?",
-                "overview": "Andi ve Silke, sorunlarını çözmek için ilaçlara başvurur. Cem'in yanına taşınan Erik, Kim'in gözüne yeniden girmek için bir plan yapar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/2gVUZJE9cnyaQtaIGtao2yspCrN.jpg",
-                "vote_average": 0.0,
-                "link": "https://vidmody.com/vs/tt33034757/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Teşhis ve Arrivederci",
-                "overview": "Ekip kayak yapmak için Münih'e gider. Burada Ulf, eski bir arkadaşının yaşadıklarından etkilenerek paranoyaklaşır. Bu arada Silke şeytana uyar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/xZKXyArk6tMZP3ffvUykWBXPYQv.jpg",
-                "vote_average": 0.0,
-                "link": "https://vidmody.com/vs/tt33034757/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "N'aber Kanka, Keyifler Gıcır mı?",
-                "overview": "Kafadarlar modern erkeklik hakkında bir seminere katılır. Elif, Ulf'ün gururunu incitmemek için elinden geleni yapar. Silke cinsel içerikli mesajlar atarken başını belaya sokar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cg65KnxIdhHxX5XkL2vlUTfPOGV.jpg",
-                "vote_average": 0.0,
-                "link": "https://vidmody.com/vs/tt33034757/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "Hemingway",
-                "overview": "Cem flört ettiği kişileri Ulf'den gizler. Andi üzücü bir şey öğrenir. Ulf bir etkinlikte Elif'i utandırır. Kim ve Erik bir yatak odası deneyimi yaşar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/yTAsm3YrHMHYGt9p0grmbVpuVkx.jpg",
-                "vote_average": 0.0,
-                "link": "https://vidmody.com/vs/tt33034757/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "Hayatta Her Şeye Sahip Olamazsın",
-                "overview": "Elif, viral videoları yüzünden Ulf'le tartışır. Cem'in eski bir aşkı yeniden alevlenir. Kim, Erik'e yeni iş teklifinden bahseder. Andi'nin öfkesi sonunda taşar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jAf4Ahm8pOirEVfRchGpwW9kEIR.jpg",
-                "vote_average": 0.0,
-                "link": "https://vidmody.com/vs/tt33034757/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "Pokémon Bile Anlayabiliyor",
-                "overview": "Son zamanlarda yaptıkları tercihlerin sonuçlarıyla yüzleşen kafadarlardan bazıları yeni başlangıçlara yelken açarken diğerleri acı gerçeklerle karşı karşıya kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ApcITPGzcB5eR113KiHmGRj4Btq.jpg",
-                "vote_average": 0.0,
-                "link": "https://vidmody.com/vs/tt33034757/s1/e08"
-            }
-        ],
-        "update_date": "2026-03-02 09:00:25"
     }
 ]
