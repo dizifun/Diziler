@@ -3069,7 +3069,34 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/360.jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a18b89604a1fbc5d83e90a&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 361,
+            "name": "361. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/361sanadeger.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a56863604a1fbc5d83e9da&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 362,
+            "name": "362. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/362.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a6d544604a1fbc5d83ea67&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 363,
+            "name": "363. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/363.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a80fa9604a1fbc5d83eaaf&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-03 14:36:58"
+    "update_date": "2026-03-05 09:33:15"
 }

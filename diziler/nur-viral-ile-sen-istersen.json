@@ -909,7 +909,25 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/140(2).jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a1b1e8604a1fbc5d83e944&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 142,
+            "name": "142. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/sen-iss(3).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a724ea604a1fbc5d83ea89&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 143,
+            "name": "143. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/nis.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a83e76604a1fbc5d83eabb&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-03 14:36:55"
+    "update_date": "2026-03-05 09:33:12"
 }
