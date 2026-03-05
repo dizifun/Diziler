@@ -1,5 +1,71 @@
 [
     {
+        "id": 293298,
+        "imdb_id": "tt37202552",
+        "name": "Most Wanted: Julius Kivimäki",
+        "original_name": "Most Wanted: Julius Kivimäki",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/2VgVtAiauUeTByTEDRmaSZgCF3X.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/j31CJaNsjee1M8vIFZvjR1k1osc.jpg",
+        "year": "2025",
+        "rating": 6.7,
+        "genres": [
+            "Belgesel",
+            "Suç"
+        ],
+        "categories": [
+            "Amazon Prime",
+            "HBO Max",
+            "Tümü"
+        ],
+        "cast": [
+            {
+                "name": "Julius Kivimäki",
+                "role": "Self",
+                "image": ""
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/4LVD9CMZwJjCS2GrgRQAgNSprMi.jpg",
+                "vote_average": 1.0,
+                "link": "https://vidmody.com/vs/tt37202552/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/NM9iA7mqQASnaDnUEEoBoiZTjv.jpg",
+                "vote_average": 1.0,
+                "link": "https://vidmody.com/vs/tt37202552/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/zMwzjpAjrbdKgNcguM4XtAhCGms.jpg",
+                "vote_average": 1.0,
+                "link": "https://vidmody.com/vs/tt37202552/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/hgFdssllVKB8awdq63hcCoBxVkp.jpg",
+                "vote_average": 1.0,
+                "link": "https://vidmody.com/vs/tt37202552/s1/e04"
+            }
+        ],
+        "update_date": "2026-03-05 02:05:53"
+    },
+    {
         "id": 291084,
         "imdb_id": "tt36885662",
         "name": "Best Medicine",
@@ -50270,71 +50336,5 @@
             }
         ],
         "update_date": "2026-03-02 10:27:09"
-    },
-    {
-        "id": 293298,
-        "imdb_id": "tt37202552",
-        "name": "Most Wanted: Julius Kivimäki",
-        "original_name": "Most Wanted: Julius Kivimäki",
-        "overview": "",
-        "poster": "https://image.tmdb.org/t/p/w500/2VgVtAiauUeTByTEDRmaSZgCF3X.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/j31CJaNsjee1M8vIFZvjR1k1osc.jpg",
-        "year": "2025",
-        "rating": 6.7,
-        "genres": [
-            "Belgesel",
-            "Suç"
-        ],
-        "categories": [
-            "Amazon Prime",
-            "HBO Max",
-            "Tümü"
-        ],
-        "cast": [
-            {
-                "name": "Julius Kivimäki",
-                "role": "Self",
-                "image": ""
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/4LVD9CMZwJjCS2GrgRQAgNSprMi.jpg",
-                "vote_average": 1.0,
-                "link": "https://vidmody.com/vs/tt37202552/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/NM9iA7mqQASnaDnUEEoBoiZTjv.jpg",
-                "vote_average": 1.0,
-                "link": "https://vidmody.com/vs/tt37202552/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/zMwzjpAjrbdKgNcguM4XtAhCGms.jpg",
-                "vote_average": 1.0,
-                "link": "https://vidmody.com/vs/tt37202552/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/hgFdssllVKB8awdq63hcCoBxVkp.jpg",
-                "vote_average": 1.0,
-                "link": "https://vidmody.com/vs/tt37202552/s1/e04"
-            }
-        ],
-        "update_date": "2026-03-02 10:26:56"
     }
 ]
