@@ -7,23 +7,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
     "year": "2025",
-    "rating": 7.3,
+    "rating": 7.2,
     "genres": [
         "Dram",
         "Suç"
     ],
     "categories": [
-        "CBS",
-        "Paramount+ Roku Premium Channel",
         "Paramount Plus Essential",
-        "Spectrum On Demand",
-        "Amazon Prime",
-        "YouTube TV",
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV Channel",
         "Tümü",
+        "Paramount Plus Apple TV Channel",
+        "Paramount Plus Premium",
+        "YouTube TV",
+        "TOD TV",
+        "Spectrum On Demand",
         "fuboTV",
-        "TOD TV"
+        "Amazon Prime",
+        "CBS",
+        "Paramount+ Roku Premium Channel"
     ],
     "cast": [
         {
@@ -99,5 +99,5 @@
             "link": "https://vidmody.com/vs/tt32268630/s1/e08"
         }
     ],
-    "update_date": "2026-03-02 08:38:27"
+    "update_date": "2026-03-05 00:17:44"
 }
