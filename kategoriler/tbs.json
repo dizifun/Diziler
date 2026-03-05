@@ -13,12 +13,12 @@
             "Komedi"
         ],
         "categories": [
-            "TBS",
-            "Tümü",
-            "YouTube TV",
-            "HBO Max",
             "Amazon Prime",
-            "NBC"
+            "HBO Max",
+            "Tümü",
+            "NBC",
+            "TBS",
+            "YouTube TV"
         ],
         "cast": [
             {
@@ -2106,6 +2106,6 @@
                 "link": "https://vidmody.com/vs/tt0108778/s10/e17"
             }
         ],
-        "update_date": "2026-03-03 18:50:59"
+        "update_date": "2026-03-05 13:53:01"
     }
 ]
