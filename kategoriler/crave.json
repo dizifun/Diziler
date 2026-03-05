@@ -15,8 +15,8 @@
         "categories": [
             "Amazon Prime",
             "HBO Max",
-            "Tümü",
-            "Crave"
+            "Crave",
+            "Tümü"
         ],
         "cast": [
             {
@@ -27,7 +27,7 @@
             {
                 "name": "Connor Storrie",
                 "role": "Ilya Rozanov",
-                "image": "https://image.tmdb.org/t/p/w200/nNbshDKgEZeyV7XjWD4eAxwcZow.jpg"
+                "image": "https://image.tmdb.org/t/p/w200/ApBEzGlTz7sM839eT4vMQV3xmdg.jpg"
             },
             {
                 "name": "François Arnaud",
@@ -111,6 +111,6 @@
                 "link": "https://vidmody.com/vs/tt35495073/s1/e06"
             }
         ],
-        "update_date": "2026-03-02 09:51:19"
+        "update_date": "2026-03-05 01:31:42"
     }
 ]
