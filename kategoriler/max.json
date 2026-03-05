@@ -13,12 +13,12 @@
             "Dram"
         ],
         "categories": [
-            "TV+",
-            "Amazon Prime",
-            "YouTube TV",
             "Max",
             "Tümü",
-            "HBO Max"
+            "HBO Max",
+            "YouTube TV",
+            "TV+",
+            "Amazon Prime"
         ],
         "cast": [
             {
@@ -218,6 +218,6 @@
                 "link": "https://vidmody.com/vs/tt31938062/s2/e01"
             }
         ],
-        "update_date": "2026-03-02 08:24:49"
+        "update_date": "2026-03-05 00:04:19"
     }
 ]
