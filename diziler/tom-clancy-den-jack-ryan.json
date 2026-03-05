@@ -14,8 +14,8 @@
     ],
     "categories": [
         "Amazon Prime",
-        "Tümü",
-        "Prime Video"
+        "Prime Video",
+        "Tümü"
     ],
     "cast": [
         {
@@ -56,7 +56,7 @@
         {
             "name": "Michael Peña",
             "role": "Domingo Chavez",
-            "image": "https://image.tmdb.org/t/p/w200/ft9e3EX4JG9MwK9pXwgbJ8ZvFoV.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/afs4PCiwn8LR93a10drULLVeVLo.jpg"
         },
         {
             "name": "Betty Gabriel",
@@ -341,5 +341,5 @@
             "link": "https://vidmody.com/vs/tt5057054/s4/e06"
         }
     ],
-    "update_date": "2026-03-02 12:40:23"
+    "update_date": "2026-03-05 04:32:18"
 }
