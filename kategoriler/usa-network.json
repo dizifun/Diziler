@@ -8,16 +8,16 @@
         "poster": "https://image.tmdb.org/t/p/w500/q8l0lj20amBFi0SBs8NI9yJpaHq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w780/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
         "year": "2025",
-        "rating": 7.3,
+        "rating": 7.2,
         "genres": [
             "Dram",
             "Gizem"
         ],
         "categories": [
-            "Spectrum On Demand",
             "YouTube TV",
-            "Tümü",
-            "USA Network"
+            "USA Network",
+            "Spectrum On Demand",
+            "Tümü"
         ],
         "cast": [
             {
@@ -153,6 +153,6 @@
                 "link": "https://vidmody.com/vs/tt6151526/s1/e10"
             }
         ],
-        "update_date": "2026-03-02 14:23:41"
+        "update_date": "2026-03-05 06:43:30"
     }
 ]
