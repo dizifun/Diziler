@@ -13,12 +13,13 @@
             "Dram"
         ],
         "categories": [
-            "Max",
-            "Tümü",
+            "Amazon Prime",
             "HBO Max",
-            "YouTube TV",
+            "Max",
+            "Spectrum On Demand",
+            "Tümü",
             "TV+",
-            "Amazon Prime"
+            "YouTube TV"
         ],
         "cast": [
             {
@@ -54,7 +55,7 @@
             {
                 "name": "Isa Briones",
                 "role": "Dr. Trinity Santos",
-                "image": "https://image.tmdb.org/t/p/w200/hxjYdiIJltYUSQwudCJwikIovYq.jpg"
+                "image": "https://image.tmdb.org/t/p/w200/hmopjqj1pmmoc6LNluC27fTeRpV.jpg"
             },
             {
                 "name": "Gerran Howell",
@@ -218,6 +219,6 @@
                 "link": "https://vidmody.com/vs/tt31938062/s2/e01"
             }
         ],
-        "update_date": "2026-03-05 00:04:19"
+        "update_date": "2026-03-06 23:31:00"
     }
 ]
