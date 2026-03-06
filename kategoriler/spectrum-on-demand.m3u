@@ -1,5 +1,11 @@
 #EXTM3U
 #PLAYLIST:Spectrum On Demand
+#EXTINF:-1 group-title="Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak" tvg-logo="https://image.tmdb.org/t/p/w400/nBVJMKWRujgsDL7wwNJolgIXvny.jpg", [7.0] Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt32158122/s1/e01
+#EXTINF:-1 group-title="Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak" tvg-logo="https://image.tmdb.org/t/p/w400/l5WupyYyfNatHnPAvawbh3Y8mK1.jpg", [7.0] Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak S01E02 - 2. Bölüm
+https://vidmody.com/vs/tt32158122/s1/e02
+#EXTINF:-1 group-title="Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak" tvg-logo="https://image.tmdb.org/t/p/w400/3sY81Vd6JSGZNinmZhV8ZhteUAD.jpg", [7.0] Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak S01E03 - 3. Bölüm
+https://vidmody.com/vs/tt32158122/s1/e03
 #EXTINF:-1 group-title="The Chair Company" tvg-logo="https://image.tmdb.org/t/p/w400/xWBpfowamVApO5JAljuYXraQPjE.jpg", [7.1] The Chair Company S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt31987295/s1/e01
 #EXTINF:-1 group-title="The Chair Company" tvg-logo="https://image.tmdb.org/t/p/w400/hA5D1q9V0087Y7WJRgUC8HlUCcu.jpg", [7.1] The Chair Company S01E02 - 2. Bölüm
@@ -582,12 +588,6 @@ https://vidmody.com/vs/tt32268630/s1/e06
 https://vidmody.com/vs/tt32268630/s1/e07
 #EXTINF:-1 group-title="Sheriff Country" tvg-logo="https://image.tmdb.org/t/p/w400/nsLeoyFCRZE64nkQIuIOMNsHarr.jpg", [7.2] Sheriff Country S01E08 - 8. Bölüm
 https://vidmody.com/vs/tt32268630/s1/e08
-#EXTINF:-1 group-title="Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak" tvg-logo="https://image.tmdb.org/t/p/w400/nBVJMKWRujgsDL7wwNJolgIXvny.jpg", [7.0] Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt32158122/s1/e01
-#EXTINF:-1 group-title="Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak" tvg-logo="https://image.tmdb.org/t/p/w400/l5WupyYyfNatHnPAvawbh3Y8mK1.jpg", [7.0] Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak S01E02 - 2. Bölüm
-https://vidmody.com/vs/tt32158122/s1/e02
-#EXTINF:-1 group-title="Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak" tvg-logo="https://image.tmdb.org/t/p/w400/3sY81Vd6JSGZNinmZhV8ZhteUAD.jpg", [7.0] Stanford Hapishane Deneyi: Gerçeği Açığa Çıkarmak S01E03 - 3. Bölüm
-https://vidmody.com/vs/tt32158122/s1/e03
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/6VKsznJrIq1q87Hot5EEPuvub1g.jpg", [8.2] FROM S01E01 - Long Day's Journey Into Night
 https://vidmody.com/vs/tt9813792/s1/e01
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/mMGMvT9ldQW6Zd85sRafpJL8IMM.jpg", [8.2] FROM S01E02 - The Way Things Are Now
