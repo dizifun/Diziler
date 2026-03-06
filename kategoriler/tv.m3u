@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:TV+
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg", [6.5] Parish S01E01 - Pilot
+https://vidmody.com/vs/tt18552362/s1/e01
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg", [6.5] Parish S01E02 - Blood in the Water
+https://vidmody.com/vs/tt18552362/s1/e02
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/vvYTq3znYpA2aYilrHjPg9M1hF2.jpg", [6.5] Parish S01E03 - Sanctuary
+https://vidmody.com/vs/tt18552362/s1/e03
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/3KKJ7QGb4D8O1Sj2tnihzQZwwB1.jpg", [6.5] Parish S01E04 - Impimpi
+https://vidmody.com/vs/tt18552362/s1/e04
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/iHnPXCsCLpMUSYX5EcBttyE5QQK.jpg", [6.5] Parish S01E05 - Kumba
+https://vidmody.com/vs/tt18552362/s1/e05
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/jWet7hAoBP5Ypjqs1U1EPqeQrb2.jpg", [6.5] Parish S01E06 - A Good Man
+https://vidmody.com/vs/tt18552362/s1/e06
 #EXTINF:-1 group-title="Knuckles" tvg-logo="https://image.tmdb.org/t/p/w400/vwlsLPevEifCNHcxHdzouDiuv9k.jpg", [7.3] Knuckles S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt18291136/s1/e01
 #EXTINF:-1 group-title="Knuckles" tvg-logo="https://image.tmdb.org/t/p/w400/jV11mJfDdJOwMokzVyGHyjBFeiA.jpg", [7.3] Knuckles S01E02 - 2. Bölüm
@@ -736,18 +748,6 @@ https://vidmody.com/vs/tt19244304/s1/e06
 https://vidmody.com/vs/tt19244304/s1/e07
 #EXTINF:-1 group-title="IT: Welcome to Derry" tvg-logo="https://image.tmdb.org/t/p/w400/8gqmWZUs4GAH1QfqR2u3aXxX5Q2.jpg", [8.2] IT: Welcome to Derry S01E08 - Kış Ateşi
 https://vidmody.com/vs/tt19244304/s1/e08
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg", [6.5] Parish S01E01 - Pilot
-https://vidmody.com/vs/tt18552362/s1/e01
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg", [6.5] Parish S01E02 - Blood in the Water
-https://vidmody.com/vs/tt18552362/s1/e02
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/vvYTq3znYpA2aYilrHjPg9M1hF2.jpg", [6.5] Parish S01E03 - Sanctuary
-https://vidmody.com/vs/tt18552362/s1/e03
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/3KKJ7QGb4D8O1Sj2tnihzQZwwB1.jpg", [6.5] Parish S01E04 - Impimpi
-https://vidmody.com/vs/tt18552362/s1/e04
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/iHnPXCsCLpMUSYX5EcBttyE5QQK.jpg", [6.5] Parish S01E05 - Kumba
-https://vidmody.com/vs/tt18552362/s1/e05
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/jWet7hAoBP5Ypjqs1U1EPqeQrb2.jpg", [6.5] Parish S01E06 - A Good Man
-https://vidmody.com/vs/tt18552362/s1/e06
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/6VKsznJrIq1q87Hot5EEPuvub1g.jpg", [8.2] FROM S01E01 - Long Day's Journey Into Night
 https://vidmody.com/vs/tt9813792/s1/e01
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/mMGMvT9ldQW6Zd85sRafpJL8IMM.jpg", [8.2] FROM S01E02 - The Way Things Are Now
