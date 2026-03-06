@@ -5,7 +5,7 @@
     "original_name": "Better Call Saul",
     "overview": "Breaking Bad'in yan hikayesi olan dizide, ufak çaplı avukat Jimmy McGill’in ahlak yoksunu \"hukuk adamı\" Saul Goodman’a dönüşmesini izliyoruz.",
     "poster": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg",
     "year": "2015",
     "rating": 8.7,
     "genres": [
@@ -13,10 +13,10 @@
         "Dram"
     ],
     "categories": [
-        "Netflix Standard with Ads",
-        "AMC",
         "Netflix",
-        "Tümü"
+        "AMC",
+        "Tümü",
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -614,5 +614,5 @@
             "link": "https://vidmody.com/vs/tt3032476/s6/e13"
         }
     ],
-    "update_date": "2026-03-04 23:28:25"
+    "update_date": "2026-03-06 22:23:58"
 }
