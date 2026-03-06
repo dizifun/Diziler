@@ -7,14 +7,14 @@
     "poster": "https://image.tmdb.org/t/p/w500/sdGDtKzTJff5iTnzWUB4uRtaEwI.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/jWUcTfpLo1nVBqBrbzZYP1hTMqf.jpg",
     "year": "2025",
-    "rating": 5.9,
+    "rating": 5.7,
     "genres": [
         "Dram"
     ],
     "categories": [
-        "Netflix Standard with Ads",
         "Netflix",
-        "Tümü"
+        "Tümü",
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -124,5 +124,5 @@
             "link": "https://vidmody.com/vs/tt31828197/s1/e06"
         }
     ],
-    "update_date": "2026-03-05 00:00:35"
+    "update_date": "2026-03-06 23:24:42"
 }
