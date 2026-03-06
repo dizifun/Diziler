@@ -7,16 +7,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7a78G7fisRp9N9upjyX5b3GNRNI.jpg",
     "year": "2025",
-    "rating": 7.9,
+    "rating": 7.8,
     "genres": [
         "Komedi",
         "Dram",
         "Savaş & Politik"
     ],
     "categories": [
-        "Netflix Standard with Ads",
         "Netflix",
-        "Tümü"
+        "Tümü",
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -144,5 +144,5 @@
             "link": "https://vidmody.com/vs/tt27987047/s1/e08"
         }
     ],
-    "update_date": "2026-03-04 22:23:59"
+    "update_date": "2026-03-06 20:36:31"
 }
