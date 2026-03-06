@@ -13,10 +13,10 @@
         "Suç"
     ],
     "categories": [
-        "Peacock",
         "Tümü",
         "TOD TV",
         "Peacock Premium",
+        "Peacock",
         "Peacock Premium Plus"
     ],
     "cast": [
@@ -38,7 +38,7 @@
         {
             "name": "Don Cheadle",
             "role": "JD Hudson",
-            "image": "https://image.tmdb.org/t/p/w200/2SjWNlcBMHBGC5Io0F2vzElCaiO.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
         }
     ],
     "episodes": [
@@ -106,5 +106,5 @@
             "link": "https://vidmody.com/vs/tt30428188/s1/e07"
         }
     ],
-    "update_date": "2026-03-04 23:30:37"
+    "update_date": "2026-03-06 22:28:13"
 }
