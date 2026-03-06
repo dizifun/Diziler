@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Tümü
+#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/jPn5vXQaub4JrKsn2Iugh7Dnk2O.jpg", [6.7] Bahçıvan S01E01 - Atlantik Peyzajı
+https://vidmody.com/vs/tt30494784/s1/e01
+#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/mkaSUN2zqB1WWKVkapQpP5XNLXu.jpg", [6.7] Bahçıvan S01E02 - Tohum Çimlendirme
+https://vidmody.com/vs/tt30494784/s1/e02
+#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/p3IYWILwuAAVCOP55hEd7bj1We3.jpg", [6.7] Bahçıvan S01E03 - Organik Alt Tabaka
+https://vidmody.com/vs/tt30494784/s1/e03
+#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/r9LnlIfgj5iExLgwte41Sik7zpi.jpg", [6.7] Bahçıvan S01E04 - Zararlılarla Mücadele
+https://vidmody.com/vs/tt30494784/s1/e04
+#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/ze0ITEyhzMGvCJCPyX01BnglpqP.jpg", [6.7] Bahçıvan S01E05 - Ayrışma Adası
+https://vidmody.com/vs/tt30494784/s1/e05
+#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/6Ngrzzipc0RxJ86N3xXZlu8GJmO.jpg", [6.7] Bahçıvan S01E06 - Budama Takvimi
+https://vidmody.com/vs/tt30494784/s1/e06
 #EXTINF:-1 group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w400/kaHM1CTVHhv5jnfPvUgIMmil8LD.jpg", [6.8] Fight Night: The Million Dollar Heist S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt30428188/s1/e01
 #EXTINF:-1 group-title="Fight Night: The Million Dollar Heist" tvg-logo="https://image.tmdb.org/t/p/w400/baLr5eRLIRILNdInw6V8JkYRTZ9.jpg", [6.8] Fight Night: The Million Dollar Heist S01E02 - 2. Bölüm
@@ -7770,18 +7782,6 @@ https://vidmody.com/vs/tt30645193/s1/e03
 https://vidmody.com/vs/tt30645193/s1/e04
 #EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/eXBf3VETvZddlIRWhdkLRY3pBrl.jpg", [6.8] The War Between the Land and the Sea S01E05 - Savaşın Sonu
 https://vidmody.com/vs/tt30645193/s1/e05
-#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/jPn5vXQaub4JrKsn2Iugh7Dnk2O.jpg", [6.7] Bahçıvan S01E01 - Atlantik Peyzajı
-https://vidmody.com/vs/tt30494784/s1/e01
-#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/mkaSUN2zqB1WWKVkapQpP5XNLXu.jpg", [6.7] Bahçıvan S01E02 - Tohum Çimlendirme
-https://vidmody.com/vs/tt30494784/s1/e02
-#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/p3IYWILwuAAVCOP55hEd7bj1We3.jpg", [6.7] Bahçıvan S01E03 - Organik Alt Tabaka
-https://vidmody.com/vs/tt30494784/s1/e03
-#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/r9LnlIfgj5iExLgwte41Sik7zpi.jpg", [6.7] Bahçıvan S01E04 - Zararlılarla Mücadele
-https://vidmody.com/vs/tt30494784/s1/e04
-#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/ze0ITEyhzMGvCJCPyX01BnglpqP.jpg", [6.7] Bahçıvan S01E05 - Ayrışma Adası
-https://vidmody.com/vs/tt30494784/s1/e05
-#EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/6Ngrzzipc0RxJ86N3xXZlu8GJmO.jpg", [6.7] Bahçıvan S01E06 - Budama Takvimi
-https://vidmody.com/vs/tt30494784/s1/e06
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/6VKsznJrIq1q87Hot5EEPuvub1g.jpg", [8.2] FROM S01E01 - Long Day's Journey Into Night
 https://vidmody.com/vs/tt9813792/s1/e01
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/mMGMvT9ldQW6Zd85sRafpJL8IMM.jpg", [8.2] FROM S01E02 - The Way Things Are Now
