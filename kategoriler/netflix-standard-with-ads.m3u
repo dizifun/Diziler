@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Netflix Standard with Ads
+#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/trMkj1AOdFHU3wyR2Ph24vbRe8O.jpg", [7.4] Karma S01E01 - Tefeciye Borcu Olan Adam
+https://vidmody.com/vs/tt29921070/s1/e01
+#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/pLCyKjftlHT2uf9uYzvHH6XehcJ.jpg", [7.4] Karma S01E02 - Cesetten Kurtulan Adam
+https://vidmody.com/vs/tt29921070/s1/e02
+#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/U3xQC9V2WHzEHOJdukzw3belNF.jpg", [7.4] Karma S01E03 - Erdemsizler
+https://vidmody.com/vs/tt29921070/s1/e03
+#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/tVhxqydglaOvPFzP7UmWlKcGEXF.jpg", [7.4] Karma S01E04 - Geçmişe Takılı Kalan Kadın
+https://vidmody.com/vs/tt29921070/s1/e04
+#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/7yhiSf2cB35cwZ30RheurEzTszC.jpg", [7.4] Karma S01E05 - Başa Sar
+https://vidmody.com/vs/tt29921070/s1/e05
+#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/gMABNyYyk30Epc0VdMcFYFXRkXX.jpg", [7.4] Karma S01E06 - Karma
+https://vidmody.com/vs/tt29921070/s1/e06
 #EXTINF:-1 group-title="Kapan" tvg-logo="https://image.tmdb.org/t/p/w400/erHcp1CVtTI7YKQwvtu9TenoSQL.jpg", [7.1] Kapan S01E01 - Karanlıkta Yaşıyoruz
 https://vidmody.com/vs/tt29494109/s1/e01
 #EXTINF:-1 group-title="Kapan" tvg-logo="https://image.tmdb.org/t/p/w400/ousIVTp3VL8BsjXMywup6lpFC0b.jpg", [7.1] Kapan S01E02 - Ölülere Zarar Veremezsin
@@ -2374,18 +2386,6 @@ https://vidmody.com/vs/tt30068042/s2/e04
 https://vidmody.com/vs/tt30068042/s2/e05
 #EXTINF:-1 group-title="Kaza" tvg-logo="https://image.tmdb.org/t/p/w400/jQQichemn2wGY5JE57QWdFbb6tq.jpg", [7.3] Kaza S02E06 - Nefretin Enkazından
 https://vidmody.com/vs/tt30068042/s2/e06
-#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/trMkj1AOdFHU3wyR2Ph24vbRe8O.jpg", [7.4] Karma S01E01 - Tefeciye Borcu Olan Adam
-https://vidmody.com/vs/tt29921070/s1/e01
-#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/pLCyKjftlHT2uf9uYzvHH6XehcJ.jpg", [7.4] Karma S01E02 - Cesetten Kurtulan Adam
-https://vidmody.com/vs/tt29921070/s1/e02
-#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/U3xQC9V2WHzEHOJdukzw3belNF.jpg", [7.4] Karma S01E03 - Erdemsizler
-https://vidmody.com/vs/tt29921070/s1/e03
-#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/tVhxqydglaOvPFzP7UmWlKcGEXF.jpg", [7.4] Karma S01E04 - Geçmişe Takılı Kalan Kadın
-https://vidmody.com/vs/tt29921070/s1/e04
-#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/7yhiSf2cB35cwZ30RheurEzTszC.jpg", [7.4] Karma S01E05 - Başa Sar
-https://vidmody.com/vs/tt29921070/s1/e05
-#EXTINF:-1 group-title="Karma" tvg-logo="https://image.tmdb.org/t/p/w400/gMABNyYyk30Epc0VdMcFYFXRkXX.jpg", [7.4] Karma S01E06 - Karma
-https://vidmody.com/vs/tt29921070/s1/e06
 #EXTINF:-1 group-title="Run Away" tvg-logo="https://image.tmdb.org/t/p/w400/xh3RgXYMkffe5gn1AfF4Z5z7OQ4.jpg", [6.6] Run Away S01E01 - Görmek İnanmaktır
 https://vidmody.com/vs/tt9169516/s1/e01
 #EXTINF:-1 group-title="Run Away" tvg-logo="https://image.tmdb.org/t/p/w400/xpksVkdxhxw8mjQ1AQcspxqqHbM.jpg", [6.6] Run Away S01E02 - Beklerken Dövme Yapılır
