@@ -1,5 +1,63 @@
 [
     {
+        "id": 253750,
+        "imdb_id": "tt32305967",
+        "name": "Crutch",
+        "original_name": "Crutch",
+        "overview": "Harlem'de bekâr hayatına dönmeyi hevesle bekleyen bir babanın, milenyum kuşağı oğlu ve özgür ruhlu kızının geri taşınmasıyla planları altüst olur. Bu durum onu, yeni aile dinamikleriyle başa çıkmaya ve önceliklerini yeniden belirlemeye zorlayacaktır.",
+        "poster": "https://image.tmdb.org/t/p/w500/9tDDG9mLfhJmqOyvolWneeF6Y1g.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/5lFJVwFA2jtO1ygLoDLGPiT7UhI.jpg",
+        "year": "2025",
+        "rating": 4.5,
+        "genres": [
+            "Komedi"
+        ],
+        "categories": [
+            "Paramount Plus Premium",
+            "Paramount Plus Apple TV Channel",
+            "Amazon Prime",
+            "Paramount+ Roku Premium Channel",
+            "Tümü",
+            "Paramount Plus Essential",
+            "TOD TV",
+            "Paramount+"
+        ],
+        "cast": [
+            {
+                "name": "Tracy Morgan",
+                "role": "Francois 'Crutch' Crutchfield",
+                "image": "https://image.tmdb.org/t/p/w200/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg"
+            },
+            {
+                "name": "Jermaine Fowler",
+                "role": "Jake",
+                "image": "https://image.tmdb.org/t/p/w200/tUovrCcFKncccMY7yarqeLBeVPk.jpg"
+            },
+            {
+                "name": "Adrianna Mitchell",
+                "role": "Jamilah",
+                "image": "https://image.tmdb.org/t/p/w200/9UXm6wg6WakfspGwwtGnh7xnicZ.jpg"
+            },
+            {
+                "name": "Kecia Lewis",
+                "role": "Antoinette",
+                "image": "https://image.tmdb.org/t/p/w200/gjJtR9RtctPjMoTvjZfSneJNql6.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/921VCaUfPboJYewKApEsDBQeotU.jpg",
+                "vote_average": 2.7,
+                "link": "https://vidmody.com/vs/tt32305967/s1/e01"
+            }
+        ],
+        "update_date": "2026-03-06 23:56:33"
+    },
+    {
         "id": 247732,
         "imdb_id": "tt31512256",
         "name": "NCIS: Tony & Ziva",
@@ -1413,64 +1471,6 @@
             }
         ],
         "update_date": "2026-03-06 05:59:05"
-    },
-    {
-        "id": 253750,
-        "imdb_id": "tt32305967",
-        "name": "Crutch",
-        "original_name": "Crutch",
-        "overview": "Harlem'de bekâr hayatına dönmeyi hevesle bekleyen bir babanın, milenyum kuşağı oğlu ve özgür ruhlu kızının geri taşınmasıyla planları altüst olur. Bu durum onu, yeni aile dinamikleriyle başa çıkmaya ve önceliklerini yeniden belirlemeye zorlayacaktır.",
-        "poster": "https://image.tmdb.org/t/p/w500/9tDDG9mLfhJmqOyvolWneeF6Y1g.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/5lFJVwFA2jtO1ygLoDLGPiT7UhI.jpg",
-        "year": "2025",
-        "rating": 4.5,
-        "genres": [
-            "Komedi"
-        ],
-        "categories": [
-            "Paramount Plus Essential",
-            "Tümü",
-            "Paramount Plus Apple TV Channel",
-            "Paramount Plus Premium",
-            "TOD TV",
-            "Paramount+",
-            "Amazon Prime",
-            "Paramount+ Roku Premium Channel"
-        ],
-        "cast": [
-            {
-                "name": "Tracy Morgan",
-                "role": "Francois 'Crutch' Crutchfield",
-                "image": "https://image.tmdb.org/t/p/w200/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg"
-            },
-            {
-                "name": "Jermaine Fowler",
-                "role": "Jake",
-                "image": "https://image.tmdb.org/t/p/w200/tUovrCcFKncccMY7yarqeLBeVPk.jpg"
-            },
-            {
-                "name": "Adrianna Mitchell",
-                "role": "Jamilah",
-                "image": "https://image.tmdb.org/t/p/w200/9UXm6wg6WakfspGwwtGnh7xnicZ.jpg"
-            },
-            {
-                "name": "Kecia Lewis",
-                "role": "Antoinette",
-                "image": "https://image.tmdb.org/t/p/w200/gjJtR9RtctPjMoTvjZfSneJNql6.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/921VCaUfPboJYewKApEsDBQeotU.jpg",
-                "vote_average": 2.7,
-                "link": "https://vidmody.com/vs/tt32305967/s1/e01"
-            }
-        ],
-        "update_date": "2026-03-05 00:19:01"
     },
     {
         "id": 86848,
