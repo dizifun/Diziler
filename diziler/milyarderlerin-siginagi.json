@@ -7,16 +7,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/sKjbc98zFOLhp9NC0SZunGFra6X.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/cyqKNRLFKCN9Y28ln38hLMESGEj.jpg",
     "year": "2025",
-    "rating": 6.4,
+    "rating": 6.3,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Dram",
         "Gizem"
     ],
     "categories": [
-        "Netflix Standard with Ads",
         "Netflix",
-        "Tümü"
+        "Tümü",
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -144,5 +144,5 @@
             "link": "https://vidmody.com/vs/tt31173096/s1/e08"
         }
     ],
-    "update_date": "2026-03-04 23:46:55"
+    "update_date": "2026-03-06 22:59:31"
 }
