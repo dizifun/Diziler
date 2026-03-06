@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Tümü
+#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/23CuF02lHlaeR8VUhFP66sYttel.jpg", [7.0] Ölü Kızlar S01E01 - İki İntikam
+https://vidmody.com/vs/tt31219594/s1/e01
+#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/4RDRRVrY9R55Y0A7Ro7PzooCdfJ.jpg", [7.0] Ölü Kızlar S01E02 - Evlerin Tarihi
+https://vidmody.com/vs/tt31219594/s1/e02
+#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/rZ4OPVBZ2OqCRUZaqHm3tL21ZUx.jpg", [7.0] Ölü Kızlar S01E03 - Berbat Gece
+https://vidmody.com/vs/tt31219594/s1/e03
+#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/uAuqaeSHwhKkJPABb55mud1EU0Q.jpg", [7.0] Ölü Kızlar S01E04 - Blanca'nın Dişleri
+https://vidmody.com/vs/tt31219594/s1/e04
+#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/fbg7dOE48tkspifaBI1i7Vz01kz.jpg", [7.0] Ölü Kızlar S01E05 - Sıkıyönetim
+https://vidmody.com/vs/tt31219594/s1/e05
+#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/hy7mbt40qOXG9FvAiklBl7HyMVR.jpg", [7.0] Ölü Kızlar S01E06 - Polisler Gelir
+https://vidmody.com/vs/tt31219594/s1/e06
 #EXTINF:-1 group-title="Harlan Coben'den Lazarus" tvg-logo="https://image.tmdb.org/t/p/w400/jpgX28aim8hpE3zBSz8xaydLYk1.jpg", [6.2] Harlan Coben'den Lazarus S01E01 - 101
 https://vidmody.com/vs/tt31186865/s1/e01
 #EXTINF:-1 group-title="Harlan Coben'den Lazarus" tvg-logo="https://image.tmdb.org/t/p/w400/pVl0UVv5lA9uexZ4vNFPTmU98wv.jpg", [6.2] Harlan Coben'den Lazarus S01E02 - 102
@@ -7770,18 +7782,6 @@ https://vidmody.com/vs/tt31289994/s1/e06
 https://vidmody.com/vs/tt31289994/s1/e07
 #EXTINF:-1 group-title="The Lowdown" tvg-logo="https://image.tmdb.org/t/p/w400/gbCSi2ScoHC3ByjQvbmJbyfBar0.jpg", [6.7] The Lowdown S01E08 - 8. Bölüm
 https://vidmody.com/vs/tt31289994/s1/e08
-#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/23CuF02lHlaeR8VUhFP66sYttel.jpg", [7.1] Ölü Kızlar S01E01 - İki İntikam
-https://vidmody.com/vs/tt31219594/s1/e01
-#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/4RDRRVrY9R55Y0A7Ro7PzooCdfJ.jpg", [7.1] Ölü Kızlar S01E02 - Evlerin Tarihi
-https://vidmody.com/vs/tt31219594/s1/e02
-#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/rZ4OPVBZ2OqCRUZaqHm3tL21ZUx.jpg", [7.1] Ölü Kızlar S01E03 - Berbat Gece
-https://vidmody.com/vs/tt31219594/s1/e03
-#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/uAuqaeSHwhKkJPABb55mud1EU0Q.jpg", [7.1] Ölü Kızlar S01E04 - Blanca'nın Dişleri
-https://vidmody.com/vs/tt31219594/s1/e04
-#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/fbg7dOE48tkspifaBI1i7Vz01kz.jpg", [7.1] Ölü Kızlar S01E05 - Sıkıyönetim
-https://vidmody.com/vs/tt31219594/s1/e05
-#EXTINF:-1 group-title="Ölü Kızlar" tvg-logo="https://image.tmdb.org/t/p/w400/hy7mbt40qOXG9FvAiklBl7HyMVR.jpg", [7.1] Ölü Kızlar S01E06 - Polisler Gelir
-https://vidmody.com/vs/tt31219594/s1/e06
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/6VKsznJrIq1q87Hot5EEPuvub1g.jpg", [8.2] FROM S01E01 - Long Day's Journey Into Night
 https://vidmody.com/vs/tt9813792/s1/e01
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/mMGMvT9ldQW6Zd85sRafpJL8IMM.jpg", [8.2] FROM S01E02 - The Way Things Are Now
