@@ -1,5 +1,13 @@
 #EXTM3U
 #PLAYLIST:Netflix
+#EXTINF:-1 group-title="Floransa Canavarı" tvg-logo="https://image.tmdb.org/t/p/w400/zlRp2b2KAU3X76orAFIbbfTYNe2.jpg", [6.1] Floransa Canavarı S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt29457135/s1/e01
+#EXTINF:-1 group-title="Floransa Canavarı" tvg-logo="https://image.tmdb.org/t/p/w400/fZAXRaamlSPLk3pYnZcGO3rit3i.jpg", [6.1] Floransa Canavarı S01E02 - 2. Bölüm
+https://vidmody.com/vs/tt29457135/s1/e02
+#EXTINF:-1 group-title="Floransa Canavarı" tvg-logo="https://image.tmdb.org/t/p/w400/uKRL82n8DKXKvti8luuqt9wOV2w.jpg", [6.1] Floransa Canavarı S01E03 - 3. Bölüm
+https://vidmody.com/vs/tt29457135/s1/e03
+#EXTINF:-1 group-title="Floransa Canavarı" tvg-logo="https://image.tmdb.org/t/p/w400/1JL6F8qGIT6qoPFk4MrQfzmDLnx.jpg", [6.1] Floransa Canavarı S01E04 - 4. Bölüm
+https://vidmody.com/vs/tt29457135/s1/e04
 #EXTINF:-1 group-title="Halo" tvg-logo="https://image.tmdb.org/t/p/w400/zfBMkRvJ1M859881quboW3mnwEr.jpg", [8.2] Halo S01E01 - İletişim
 https://vidmody.com/vs/tt2934286/s1/e01
 #EXTINF:-1 group-title="Halo" tvg-logo="https://image.tmdb.org/t/p/w400/wsBa3hDCmUg3h7c6h27KqhbhCff.jpg", [8.2] Halo S01E02 - Bağımsız
@@ -2734,14 +2742,6 @@ https://vidmody.com/vs/tt29494109/s1/e04
 https://vidmody.com/vs/tt29494109/s1/e05
 #EXTINF:-1 group-title="Kapan" tvg-logo="https://image.tmdb.org/t/p/w400/pncbFy9TL3cJX9IvvIZFU0UuZGs.jpg", [7.2] Kapan S01E06 - Yarın Hakkında Hiçbir Şey Bilmiyoruz
 https://vidmody.com/vs/tt29494109/s1/e06
-#EXTINF:-1 group-title="Floransa Canavarı" tvg-logo="https://image.tmdb.org/t/p/w400/zlRp2b2KAU3X76orAFIbbfTYNe2.jpg", [6.2] Floransa Canavarı S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt29457135/s1/e01
-#EXTINF:-1 group-title="Floransa Canavarı" tvg-logo="https://image.tmdb.org/t/p/w400/fZAXRaamlSPLk3pYnZcGO3rit3i.jpg", [6.2] Floransa Canavarı S01E02 - 2. Bölüm
-https://vidmody.com/vs/tt29457135/s1/e02
-#EXTINF:-1 group-title="Floransa Canavarı" tvg-logo="https://image.tmdb.org/t/p/w400/uKRL82n8DKXKvti8luuqt9wOV2w.jpg", [6.2] Floransa Canavarı S01E03 - 3. Bölüm
-https://vidmody.com/vs/tt29457135/s1/e03
-#EXTINF:-1 group-title="Floransa Canavarı" tvg-logo="https://image.tmdb.org/t/p/w400/1JL6F8qGIT6qoPFk4MrQfzmDLnx.jpg", [6.2] Floransa Canavarı S01E04 - 4. Bölüm
-https://vidmody.com/vs/tt29457135/s1/e04
 #EXTINF:-1 group-title="Run Away" tvg-logo="https://image.tmdb.org/t/p/w400/xh3RgXYMkffe5gn1AfF4Z5z7OQ4.jpg", [6.6] Run Away S01E01 - Görmek İnanmaktır
 https://vidmody.com/vs/tt9169516/s1/e01
 #EXTINF:-1 group-title="Run Away" tvg-logo="https://image.tmdb.org/t/p/w400/xpksVkdxhxw8mjQ1AQcspxqqHbM.jpg", [6.6] Run Away S01E02 - Beklerken Dövme Yapılır

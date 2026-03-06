@@ -7,16 +7,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/AewhTESggHM7pffrE9exvVIJDZ3.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/nYYJBixUNZAk4lmWdE5NBUfIMuw.jpg",
     "year": "2025",
-    "rating": 6.2,
+    "rating": 6.1,
     "genres": [
         "Suç",
         "Gizem",
         "Dram"
     ],
     "categories": [
-        "Netflix Standard with Ads",
         "Netflix",
-        "Tümü"
+        "Tümü",
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -93,5 +93,5 @@
             "link": "https://vidmody.com/vs/tt29457135/s1/e04"
         }
     ],
-    "update_date": "2026-03-04 23:06:55"
+    "update_date": "2026-03-06 21:46:37"
 }
