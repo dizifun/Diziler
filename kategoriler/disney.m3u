@@ -1,5 +1,13 @@
 #EXTM3U
 #PLAYLIST:Disney+
+#EXTINF:-1 group-title="Marvel Zombies" tvg-logo="https://image.tmdb.org/t/p/w400/25QjykMVOADHoKBre3bLovFrz0j.jpg", [7.2] Marvel Zombies S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt16027014/s1/e01
+#EXTINF:-1 group-title="Marvel Zombies" tvg-logo="https://image.tmdb.org/t/p/w400/vvbPNdHl8gjuRnrU0YhbHrNXLlS.jpg", [7.2] Marvel Zombies S01E02 - 2. Bölüm
+https://vidmody.com/vs/tt16027014/s1/e02
+#EXTINF:-1 group-title="Marvel Zombies" tvg-logo="https://image.tmdb.org/t/p/w400/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg", [7.2] Marvel Zombies S01E03 - 3. Bölüm
+https://vidmody.com/vs/tt16027014/s1/e03
+#EXTINF:-1 group-title="Marvel Zombies" tvg-logo="https://image.tmdb.org/t/p/w400/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg", [7.2] Marvel Zombies S01E04 - 4. Bölüm
+https://vidmody.com/vs/tt16027014/s1/e04
 #EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://image.tmdb.org/t/p/w400/az8sR27PgpYsZwBOkOYI6xt5mLJ.jpg", [8.1] The Walking Dead S01E01 - Günler Sonra
 https://vidmody.com/vs/tt1520211/s1/e01
 #EXTINF:-1 group-title="The Walking Dead" tvg-logo="https://image.tmdb.org/t/p/w400/pzwHqmHp6uh6RilxifM2y29PD2u.jpg", [8.1] The Walking Dead S01E02 - Bağırsaklar
@@ -1754,14 +1762,6 @@ https://vidmody.com/vs/tt17543592/s3/e18
 https://vidmody.com/vs/tt17543592/s4/e01
 #EXTINF:-1 group-title="Will Trent" tvg-logo="https://image.tmdb.org/t/p/w400/4YXARvuFqoXb571hPowGJqQorp2.jpg", [7.3] Will Trent S04E02 - 2. Bölüm
 https://vidmody.com/vs/tt17543592/s4/e02
-#EXTINF:-1 group-title="Marvel Zombies" tvg-logo="https://image.tmdb.org/t/p/w400/25QjykMVOADHoKBre3bLovFrz0j.jpg", [7.2] Marvel Zombies S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt16027014/s1/e01
-#EXTINF:-1 group-title="Marvel Zombies" tvg-logo="https://image.tmdb.org/t/p/w400/vvbPNdHl8gjuRnrU0YhbHrNXLlS.jpg", [7.2] Marvel Zombies S01E02 - 2. Bölüm
-https://vidmody.com/vs/tt16027014/s1/e02
-#EXTINF:-1 group-title="Marvel Zombies" tvg-logo="https://image.tmdb.org/t/p/w400/8frDsFuOxAVVFzACTMQsk8vDXcP.jpg", [7.2] Marvel Zombies S01E03 - 3. Bölüm
-https://vidmody.com/vs/tt16027014/s1/e03
-#EXTINF:-1 group-title="Marvel Zombies" tvg-logo="https://image.tmdb.org/t/p/w400/qNQjFDAeqMDA3ISOUBYikkaVEI0.jpg", [7.2] Marvel Zombies S01E04 - 4. Bölüm
-https://vidmody.com/vs/tt16027014/s1/e04
 #EXTINF:-1 group-title="Andor" tvg-logo="https://image.tmdb.org/t/p/w400/mOL38zvzT4Xu1gcFNwzhtQfQVsc.jpg", [8.3] Andor S01E01 - Kassa
 https://vidmody.com/vs/tt9253284/s1/e01
 #EXTINF:-1 group-title="Andor" tvg-logo="https://image.tmdb.org/t/p/w400/whihcfB2dZ0PEZC1bzux56B09pK.jpg", [8.3] Andor S01E02 - Buyurun Benim
