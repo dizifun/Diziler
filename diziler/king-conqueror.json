@@ -7,16 +7,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
     "year": "2025",
-    "rating": 7.0,
+    "rating": 6.9,
     "genres": [
         "Dram",
         "Aksiyon & Macera"
     ],
     "categories": [
-        "BBC One",
+        "TOD TV",
         "Amazon Prime",
-        "Tümü",
-        "TOD TV"
+        "BBC One",
+        "Tümü"
     ],
     "cast": [
         {
@@ -119,5 +119,5 @@
             "link": "https://vidmody.com/vs/tt30221531/s1/e08"
         }
     ],
-    "update_date": "2026-03-04 23:25:59"
+    "update_date": "2026-03-06 22:19:38"
 }
