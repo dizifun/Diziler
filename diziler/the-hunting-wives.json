@@ -7,15 +7,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
     "year": "2025",
-    "rating": 6.8,
+    "rating": 6.7,
     "genres": [
         "Dram",
         "Gizem"
     ],
     "categories": [
-        "Netflix Standard with Ads",
         "Netflix",
-        "Tümü"
+        "Tümü",
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -133,5 +133,5 @@
             "link": "https://vidmody.com/vs/tt31038430/s1/e08"
         }
     ],
-    "update_date": "2026-03-04 23:42:28"
+    "update_date": "2026-03-06 22:51:23"
 }
