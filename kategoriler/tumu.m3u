@@ -1,5 +1,15 @@
 #EXTM3U
 #PLAYLIST:Tümü
+#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/ql1CuAoTpggQSsC18HTt9m5rCAu.jpg", [6.8] The War Between the Land and the Sea S01E01 - Homo Aqua
+https://vidmody.com/vs/tt30645193/s1/e01
+#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/ffPgKyJUgHL5J6LOBqzIQ6PLCwK.jpg", [6.8] The War Between the Land and the Sea S01E02 - Plastik Kıyamet
+https://vidmody.com/vs/tt30645193/s1/e02
+#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/wCBpt7Ljr6VRO1VGsUjCJG4ffbq.jpg", [6.8] The War Between the Land and the Sea S01E03 - Derinlik
+https://vidmody.com/vs/tt30645193/s1/e03
+#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/2MRLTb5r6QnpHDlvAdLEzgxV3s6.jpg", [6.8] The War Between the Land and the Sea S01E04 - Şelalenin Cadısı
+https://vidmody.com/vs/tt30645193/s1/e04
+#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/eXBf3VETvZddlIRWhdkLRY3pBrl.jpg", [6.8] The War Between the Land and the Sea S01E05 - Savaşın Sonu
+https://vidmody.com/vs/tt30645193/s1/e05
 #EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/jPn5vXQaub4JrKsn2Iugh7Dnk2O.jpg", [6.7] Bahçıvan S01E01 - Atlantik Peyzajı
 https://vidmody.com/vs/tt30494784/s1/e01
 #EXTINF:-1 group-title="Bahçıvan" tvg-logo="https://image.tmdb.org/t/p/w400/mkaSUN2zqB1WWKVkapQpP5XNLXu.jpg", [6.7] Bahçıvan S01E02 - Tohum Çimlendirme
@@ -7772,16 +7782,6 @@ https://vidmody.com/vs/tt30750108/s1/e04
 https://vidmody.com/vs/tt30750108/s1/e05
 #EXTINF:-1 group-title="Cam Kubbe" tvg-logo="https://image.tmdb.org/t/p/w400/xUS7DOzql8YqdGkkwi3DofccfKO.jpg", [7.0] Cam Kubbe S01E06 - 6. Bölüm
 https://vidmody.com/vs/tt30750108/s1/e06
-#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/ql1CuAoTpggQSsC18HTt9m5rCAu.jpg", [6.8] The War Between the Land and the Sea S01E01 - Homo Aqua
-https://vidmody.com/vs/tt30645193/s1/e01
-#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/ffPgKyJUgHL5J6LOBqzIQ6PLCwK.jpg", [6.8] The War Between the Land and the Sea S01E02 - Plastik Kıyamet
-https://vidmody.com/vs/tt30645193/s1/e02
-#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/wCBpt7Ljr6VRO1VGsUjCJG4ffbq.jpg", [6.8] The War Between the Land and the Sea S01E03 - Derinlik
-https://vidmody.com/vs/tt30645193/s1/e03
-#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/2MRLTb5r6QnpHDlvAdLEzgxV3s6.jpg", [6.8] The War Between the Land and the Sea S01E04 - Şelalenin Cadısı
-https://vidmody.com/vs/tt30645193/s1/e04
-#EXTINF:-1 group-title="The War Between the Land and the Sea" tvg-logo="https://image.tmdb.org/t/p/w400/eXBf3VETvZddlIRWhdkLRY3pBrl.jpg", [6.8] The War Between the Land and the Sea S01E05 - Savaşın Sonu
-https://vidmody.com/vs/tt30645193/s1/e05
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/6VKsznJrIq1q87Hot5EEPuvub1g.jpg", [8.2] FROM S01E01 - Long Day's Journey Into Night
 https://vidmody.com/vs/tt9813792/s1/e01
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/mMGMvT9ldQW6Zd85sRafpJL8IMM.jpg", [8.2] FROM S01E02 - The Way Things Are Now
