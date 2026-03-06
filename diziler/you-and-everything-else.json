@@ -7,15 +7,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/ajuo9fH8hI6xbZKpUwVIqCbouQE.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5Ia4bJ0GuAn84H98CCtWMRVCTAF.jpg",
     "year": "2025",
-    "rating": 8.4,
+    "rating": 8.2,
     "genres": [
         "Dram"
     ],
     "categories": [
-        "Netflix Standard with Ads",
-        "Kore",
         "Netflix",
-        "Tümü"
+        "Kore",
+        "Tümü",
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -206,5 +206,5 @@
             "link": "https://vidmody.com/vs/tt31014107/s1/e15"
         }
     ],
-    "update_date": "2026-03-04 23:41:39"
+    "update_date": "2026-03-06 22:50:00"
 }
