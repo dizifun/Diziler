@@ -3279,6 +3279,15 @@
         },
         {
             "season": 1,
+            "episode": 4,
+            "name": "4. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/4mart.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a91ad6604a1fbc5d83ead3&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
             "episode": 5,
             "name": "5. Bölüm",
             "overview": "",
@@ -4077,6 +4086,15 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/5subat.jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_6985872c3754260b3ea63b85&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "name": "5. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/5mart.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69aa6a66604a1fbc5d83eb9a&SecretKey=NtvApiSecret2014*&.m3u8"
         },
         {
             "season": 1,
@@ -24465,7 +24483,7 @@
         },
         {
             "season": 1,
-            "episode": 2717,
+            "episode": 2719,
             "name": "Star Haber Yüzen Ordu Anadolu",
             "overview": "",
             "still_path": "https://media.startv.com.tr/star-tv/images/8e52e2154695bb01494f8910.jpg",
@@ -24473,5 +24491,5 @@
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91743&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-05 09:33:51"
+    "update_date": "2026-03-07 18:41:22"
 }

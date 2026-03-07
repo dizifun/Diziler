@@ -3096,7 +3096,25 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/363.jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a80fa9604a1fbc5d83eaaf&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 364,
+            "name": "364. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/364.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a98a58604a1fbc5d83eb23&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 365,
+            "name": "365. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/365.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69aad5fc604a1fbc5d83ecc2&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-05 09:33:15"
+    "update_date": "2026-03-07 18:39:58"
 }

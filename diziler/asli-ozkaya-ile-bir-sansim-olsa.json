@@ -828,7 +828,16 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/331b.jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a194b7604a1fbc5d83e932&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 332,
+            "name": "332. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/332(2).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69aac85b604a1fbc5d83ecaf&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-05 09:33:16"
+    "update_date": "2026-03-07 18:40:00"
 }
