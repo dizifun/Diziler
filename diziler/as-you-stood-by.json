@@ -7,17 +7,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/cAx7vFmy7gBCqGKU1v8lvrvpDBF.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7uVNWsjnmkvqpeqWHq5qpLBv3wd.jpg",
     "year": "2025",
-    "rating": 8.0,
+    "rating": 7.9,
     "genres": [
         "Suç",
         "Dram",
         "Gizem"
     ],
     "categories": [
-        "Netflix Standard with Ads",
-        "Kore",
         "Netflix",
-        "Tümü"
+        "Kore",
+        "Tümü",
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -115,5 +115,5 @@
             "link": "https://vidmody.com/vs/tt33550045/s1/e08"
         }
     ],
-    "update_date": "2026-03-05 00:56:39"
+    "update_date": "2026-03-07 01:04:10"
 }
