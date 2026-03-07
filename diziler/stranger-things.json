@@ -14,9 +14,9 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Netflix Standard with Ads",
         "Netflix",
-        "Tümü"
+        "Tümü",
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -32,7 +32,7 @@
         {
             "name": "Millie Bobby Brown",
             "role": "Eleven / Jane Hopper",
-            "image": "https://image.tmdb.org/t/p/w200/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/k9KGzGDVhXKfOGpoN62MNuXL28q.jpg"
         },
         {
             "name": "Finn Wolfhard",
@@ -57,7 +57,7 @@
         {
             "name": "Sadie Sink",
             "role": "Max Mayfield",
-            "image": "https://image.tmdb.org/t/p/w200/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/jEjYUVUZjnDDQyy6iNs1l9PJokp.jpg"
         },
         {
             "name": "Natalia Dyer",
@@ -450,5 +450,5 @@
             "link": "https://vidmody.com/vs/tt4574334/s5/e08"
         }
     ],
-    "update_date": "2026-03-05 03:43:39"
+    "update_date": "2026-03-07 05:53:06"
 }
