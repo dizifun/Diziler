@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Hulu
+#EXTINF:-1 group-title="Best Medicine" tvg-logo="https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg", [7.4] Best Medicine S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt36885662/s1/e01
 #EXTINF:-1 group-title="The Manipulated" tvg-logo="https://image.tmdb.org/t/p/w400/yyHQUnTpL0WnHFMowUxpnMuyn10.jpg", [8.3] The Manipulated S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt36188448/s1/e01
 #EXTINF:-1 group-title="The Manipulated" tvg-logo="https://image.tmdb.org/t/p/w400/n1FllqefPO2ijiN3SukPGxRvv1h.jpg", [8.3] The Manipulated S01E02 - 2. Bölüm
@@ -1584,5 +1586,3 @@ https://vidmody.com/vs/tt38781098/s1/e06
 https://vidmody.com/vs/tt38781098/s1/e07
 #EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/p9XY3bIor9rA7HheHzD2FA0mD9h.jpg", [8.0] Sekizinci Aile S01E08 - İzleme Kaydı
 https://vidmody.com/vs/tt38781098/s1/e08
-#EXTINF:-1 group-title="Best Medicine" tvg-logo="https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg", [7.4] Best Medicine S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt36885662/s1/e01

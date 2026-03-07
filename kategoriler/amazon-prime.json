@@ -1,5 +1,68 @@
 [
     {
+        "id": 291084,
+        "imdb_id": "tt36885662",
+        "name": "Best Medicine",
+        "original_name": "Best Medicine",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/q7SCSZfDaNDRPL3Xt4TiGSZQQht.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+        "year": "2026",
+        "rating": 7.4,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Amazon Prime",
+            "fuboTV",
+            "Hulu",
+            "Spectrum On Demand",
+            "Tümü",
+            "YouTube TV",
+            "FOX"
+        ],
+        "cast": [
+            {
+                "name": "Josh Charles",
+                "role": "Dr. Martin Best",
+                "image": "https://image.tmdb.org/t/p/w200/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
+            },
+            {
+                "name": "Abigail Spencer",
+                "role": "Louisa Glasson",
+                "image": "https://image.tmdb.org/t/p/w200/uf96FDHVoFMwoiP5He4SPLCmwri.jpg"
+            },
+            {
+                "name": "Josh Segarra",
+                "role": "Sheriff Mark Mylow",
+                "image": "https://image.tmdb.org/t/p/w200/vXhukEBgpI8jmCUCSGcpJCNzXHV.jpg"
+            },
+            {
+                "name": "Cree Cicchino",
+                "role": "Elaine Denham",
+                "image": "https://image.tmdb.org/t/p/w200/49WAoaceTvvsgGKCQ8WOxNdfOdl.jpg"
+            },
+            {
+                "name": "Annie Potts",
+                "role": "Aunt Joan",
+                "image": "https://image.tmdb.org/t/p/w200/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt36885662/s1/e01"
+            }
+        ],
+        "update_date": "2026-03-07 02:54:15"
+    },
+    {
         "id": 306355,
         "imdb_id": "tt36584543",
         "name": "Jasmine",
@@ -19442,69 +19505,6 @@
             }
         ],
         "update_date": "2026-03-05 02:05:53"
-    },
-    {
-        "id": 291084,
-        "imdb_id": "tt36885662",
-        "name": "Best Medicine",
-        "original_name": "Best Medicine",
-        "overview": "",
-        "poster": "https://image.tmdb.org/t/p/w500/q7SCSZfDaNDRPL3Xt4TiGSZQQht.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
-        "year": "2026",
-        "rating": 7.4,
-        "genres": [
-            "Komedi",
-            "Dram"
-        ],
-        "categories": [
-            "Tümü",
-            "Hulu",
-            "YouTube TV",
-            "Spectrum On Demand",
-            "FOX",
-            "fuboTV",
-            "Amazon Prime"
-        ],
-        "cast": [
-            {
-                "name": "Josh Charles",
-                "role": "Dr. Martin Best",
-                "image": "https://image.tmdb.org/t/p/w200/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
-            },
-            {
-                "name": "Abigail Spencer",
-                "role": "Louisa Glasson",
-                "image": "https://image.tmdb.org/t/p/w200/uf96FDHVoFMwoiP5He4SPLCmwri.jpg"
-            },
-            {
-                "name": "Josh Segarra",
-                "role": "Sheriff Mark Mylow",
-                "image": "https://image.tmdb.org/t/p/w200/vXhukEBgpI8jmCUCSGcpJCNzXHV.jpg"
-            },
-            {
-                "name": "Cree Cicchino",
-                "role": "Elaine Denham",
-                "image": "https://image.tmdb.org/t/p/w200/49WAoaceTvvsgGKCQ8WOxNdfOdl.jpg"
-            },
-            {
-                "name": "Annie Potts",
-                "role": "Aunt Joan",
-                "image": "https://image.tmdb.org/t/p/w200/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg",
-                "vote_average": 8.9,
-                "link": "https://vidmody.com/vs/tt36885662/s1/e01"
-            }
-        ],
-        "update_date": "2026-03-05 02:00:12"
     },
     {
         "id": 124364,
