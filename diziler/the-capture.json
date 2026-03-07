@@ -14,11 +14,11 @@
         "Gizem"
     ],
     "categories": [
-        "Peacock Premium",
         "Amazon Prime",
         "BBC One",
         "Tümü",
         "TOD TV",
+        "Peacock Premium",
         "Peacock Premium Plus"
     ],
     "cast": [
@@ -26,6 +26,11 @@
             "name": "Holliday Grainger",
             "role": "DI Rachel Carey",
             "image": "https://image.tmdb.org/t/p/w200/fHveeGXgEfTZ9slB5OvHDG4LAPw.jpg"
+        },
+        {
+            "name": "Ron Perlman",
+            "role": "Frank Napier",
+            "image": "https://image.tmdb.org/t/p/w200/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg"
         },
         {
             "name": "Ben Miles",
@@ -36,6 +41,36 @@
             "name": "Lia Williams",
             "role": "DSU Gemma Garland",
             "image": "https://image.tmdb.org/t/p/w200/d7BIswSeHeAdIobNjsWEFG2uj1H.jpg"
+        },
+        {
+            "name": "Ginny Holder",
+            "role": "DC / DI Nadia Latif",
+            "image": "https://image.tmdb.org/t/p/w200/gk6BypIs5txRIDe55e1I6xdyf04.jpg"
+        },
+        {
+            "name": "Paapa Essiedu",
+            "role": "Isaac Turner MP",
+            "image": "https://image.tmdb.org/t/p/w200/xMU7tSgdPMF53bdNMUhUMQOVIj3.jpg"
+        },
+        {
+            "name": "Indira Varma",
+            "role": "Khadija Khan",
+            "image": "https://image.tmdb.org/t/p/w200/yaFCI907dcK2XkzO0HQgtK25kp2.jpg"
+        },
+        {
+            "name": "Tessa Wong",
+            "role": "DC Chloe Tan",
+            "image": "https://image.tmdb.org/t/p/w200/8bgwte22fpOPlPtBtItxYBk5HjT.jpg"
+        },
+        {
+            "name": "Ben Miles",
+            "role": "Danny Hart",
+            "image": "https://image.tmdb.org/t/p/w200/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
+        },
+        {
+            "name": "Nigel Lindsay",
+            "role": "DSI / DSU Tom Kendricks",
+            "image": "https://image.tmdb.org/t/p/w200/bvkX9ju5Irpw0m1qnW1UuW0F24q.jpg"
         }
     ],
     "episodes": [
@@ -85,5 +120,5 @@
             "link": "https://vidmody.com/vs/tt8201186/s1/e05"
         }
     ],
-    "update_date": "2026-03-02 17:23:12"
+    "update_date": "2026-03-07 14:19:10"
 }
