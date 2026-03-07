@@ -1,5 +1,21 @@
 #EXTM3U
 #PLAYLIST:Disney+
+#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/hNLzBV7ZTSaTw6xRPDTmwzJvMXT.jpg", [8.3] Sekizinci Aile S01E01 - Sıfırbir Otuzbir
+https://vidmody.com/vs/tt38781098/s1/e01
+#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/mwQy7WhEY3wVqiXrm8c9ybbAWWA.jpg", [8.3] Sekizinci Aile S01E02 - Fakirin Dostu
+https://vidmody.com/vs/tt38781098/s1/e02
+#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/1H2tzJ3bSfcAsMA70vVmKgo62qp.jpg", [8.3] Sekizinci Aile S01E03 - Jetlag
+https://vidmody.com/vs/tt38781098/s1/e03
+#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/topbMachsXRSvfnajQzwvDs9Xou.jpg", [8.3] Sekizinci Aile S01E04 - Canlı Yayın
+https://vidmody.com/vs/tt38781098/s1/e04
+#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/hBdnRbQOFdn4QQHlL2a5lwtoqYZ.jpg", [8.3] Sekizinci Aile S01E05 - Doğum Günün Kutlu Olsun
+https://vidmody.com/vs/tt38781098/s1/e05
+#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/9HMbsJ77JXvcf3ETfGLKhxkUWyY.jpg", [8.3] Sekizinci Aile S01E06 - Kurşun Geçirmez Yelek
+https://vidmody.com/vs/tt38781098/s1/e06
+#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/5bXjJFE8wlfe8owNr4KVr6awyBK.jpg", [8.3] Sekizinci Aile S01E07 - Adım Adım
+https://vidmody.com/vs/tt38781098/s1/e07
+#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/p9XY3bIor9rA7HheHzD2FA0mD9h.jpg", [8.3] Sekizinci Aile S01E08 - İzleme Kaydı
+https://vidmody.com/vs/tt38781098/s1/e08
 #EXTINF:-1 group-title="The Manipulated" tvg-logo="https://image.tmdb.org/t/p/w400/yyHQUnTpL0WnHFMowUxpnMuyn10.jpg", [8.3] The Manipulated S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt36188448/s1/e01
 #EXTINF:-1 group-title="The Manipulated" tvg-logo="https://image.tmdb.org/t/p/w400/n1FllqefPO2ijiN3SukPGxRvv1h.jpg", [8.3] The Manipulated S01E02 - 2. Bölüm
@@ -1746,22 +1762,6 @@ https://vidmody.com/vs/tt0149460/s10/e08
 https://vidmody.com/vs/tt0149460/s10/e09
 #EXTINF:-1 group-title="Futurama" tvg-logo="https://image.tmdb.org/t/p/w400/9nziPa2ybekovNBH2XHro2ucnoG.jpg", [8.4] Futurama S10E10 - 10. Bölüm
 https://vidmody.com/vs/tt0149460/s10/e10
-#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/hNLzBV7ZTSaTw6xRPDTmwzJvMXT.jpg", [8.0] Sekizinci Aile S01E01 - Sıfırbir Otuzbir
-https://vidmody.com/vs/tt38781098/s1/e01
-#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/mwQy7WhEY3wVqiXrm8c9ybbAWWA.jpg", [8.0] Sekizinci Aile S01E02 - Fakirin Dostu
-https://vidmody.com/vs/tt38781098/s1/e02
-#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/1H2tzJ3bSfcAsMA70vVmKgo62qp.jpg", [8.0] Sekizinci Aile S01E03 - Jetlag
-https://vidmody.com/vs/tt38781098/s1/e03
-#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/topbMachsXRSvfnajQzwvDs9Xou.jpg", [8.0] Sekizinci Aile S01E04 - Canlı Yayın
-https://vidmody.com/vs/tt38781098/s1/e04
-#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/hBdnRbQOFdn4QQHlL2a5lwtoqYZ.jpg", [8.0] Sekizinci Aile S01E05 - Doğum Günün Kutlu Olsun
-https://vidmody.com/vs/tt38781098/s1/e05
-#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/9HMbsJ77JXvcf3ETfGLKhxkUWyY.jpg", [8.0] Sekizinci Aile S01E06 - Kurşun Geçirmez Yelek
-https://vidmody.com/vs/tt38781098/s1/e06
-#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/5bXjJFE8wlfe8owNr4KVr6awyBK.jpg", [8.0] Sekizinci Aile S01E07 - Adım Adım
-https://vidmody.com/vs/tt38781098/s1/e07
-#EXTINF:-1 group-title="Sekizinci Aile" tvg-logo="https://image.tmdb.org/t/p/w400/p9XY3bIor9rA7HheHzD2FA0mD9h.jpg", [8.0] Sekizinci Aile S01E08 - İzleme Kaydı
-https://vidmody.com/vs/tt38781098/s1/e08
 #EXTINF:-1 group-title="Andor" tvg-logo="https://image.tmdb.org/t/p/w400/mOL38zvzT4Xu1gcFNwzhtQfQVsc.jpg", [8.3] Andor S01E01 - Kassa
 https://vidmody.com/vs/tt9253284/s1/e01
 #EXTINF:-1 group-title="Andor" tvg-logo="https://image.tmdb.org/t/p/w400/whihcfB2dZ0PEZC1bzux56B09pK.jpg", [8.3] Andor S01E02 - Buyurun Benim
