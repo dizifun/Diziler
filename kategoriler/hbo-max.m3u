@@ -1,5 +1,13 @@
 #EXTM3U
 #PLAYLIST:HBO Max
+#EXTINF:-1 group-title="Most Wanted: Julius Kivimäki" tvg-logo="https://image.tmdb.org/t/p/w400/4LVD9CMZwJjCS2GrgRQAgNSprMi.jpg", [6.7] Most Wanted: Julius Kivimäki S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt37202552/s1/e01
+#EXTINF:-1 group-title="Most Wanted: Julius Kivimäki" tvg-logo="https://image.tmdb.org/t/p/w400/NM9iA7mqQASnaDnUEEoBoiZTjv.jpg", [6.7] Most Wanted: Julius Kivimäki S01E02 - 2. Bölüm
+https://vidmody.com/vs/tt37202552/s1/e02
+#EXTINF:-1 group-title="Most Wanted: Julius Kivimäki" tvg-logo="https://image.tmdb.org/t/p/w400/zMwzjpAjrbdKgNcguM4XtAhCGms.jpg", [6.7] Most Wanted: Julius Kivimäki S01E03 - 3. Bölüm
+https://vidmody.com/vs/tt37202552/s1/e03
+#EXTINF:-1 group-title="Most Wanted: Julius Kivimäki" tvg-logo="https://image.tmdb.org/t/p/w400/hgFdssllVKB8awdq63hcCoBxVkp.jpg", [6.7] Most Wanted: Julius Kivimäki S01E04 - 4. Bölüm
+https://vidmody.com/vs/tt37202552/s1/e04
 #EXTINF:-1 group-title="Jasmine" tvg-logo="https://image.tmdb.org/t/p/w400/hHte3MeTn2AYHXbrslHup78XbvG.jpg", [4.8] Jasmine S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt36584543/s1/e01
 #EXTINF:-1 group-title="Jasmine" tvg-logo="https://image.tmdb.org/t/p/w400/5ni2jPqztqHsNsxDzfrOxif4TCe.jpg", [4.8] Jasmine S01E02 - 2. Bölüm
@@ -926,14 +934,6 @@ https://vidmody.com/vs/tt37986748/s1/e05
 https://vidmody.com/vs/tt37986748/s1/e06
 #EXTINF:-1 group-title="The Heritage" tvg-logo="https://image.tmdb.org/t/p/w400/olbEYjjesa6ktsfvKtGhVvpcNL6.jpg", [8.1] The Heritage S01E07 - 7. Bölüm
 https://vidmody.com/vs/tt37986748/s1/e07
-#EXTINF:-1 group-title="Most Wanted: Julius Kivimäki" tvg-logo="https://image.tmdb.org/t/p/w400/4LVD9CMZwJjCS2GrgRQAgNSprMi.jpg", [6.7] Most Wanted: Julius Kivimäki S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt37202552/s1/e01
-#EXTINF:-1 group-title="Most Wanted: Julius Kivimäki" tvg-logo="https://image.tmdb.org/t/p/w400/NM9iA7mqQASnaDnUEEoBoiZTjv.jpg", [6.7] Most Wanted: Julius Kivimäki S01E02 - 2. Bölüm
-https://vidmody.com/vs/tt37202552/s1/e02
-#EXTINF:-1 group-title="Most Wanted: Julius Kivimäki" tvg-logo="https://image.tmdb.org/t/p/w400/zMwzjpAjrbdKgNcguM4XtAhCGms.jpg", [6.7] Most Wanted: Julius Kivimäki S01E03 - 3. Bölüm
-https://vidmody.com/vs/tt37202552/s1/e03
-#EXTINF:-1 group-title="Most Wanted: Julius Kivimäki" tvg-logo="https://image.tmdb.org/t/p/w400/hgFdssllVKB8awdq63hcCoBxVkp.jpg", [6.7] Most Wanted: Julius Kivimäki S01E04 - 4. Bölüm
-https://vidmody.com/vs/tt37202552/s1/e04
 #EXTINF:-1 group-title="Raised by Wolves" tvg-logo="https://image.tmdb.org/t/p/w400/pEM2dl0FvKLt3ClQwCYwViYQZzO.jpg", [7.5] Raised by Wolves S01E01 - Kurtların Çocukları
 https://vidmody.com/vs/tt9170108/s1/e01
 #EXTINF:-1 group-title="Raised by Wolves" tvg-logo="https://image.tmdb.org/t/p/w400/j9wGe5HIXgXw8Z81WlH9pSOryTf.jpg", [7.5] Raised by Wolves S01E02 - Pentagram
