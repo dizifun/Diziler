@@ -13,8 +13,8 @@
         "Vahşi Batı"
     ],
     "categories": [
-        "HBO",
-        "Tümü"
+        "Tümü",
+        "HBO"
     ],
     "cast": [
         {
@@ -45,7 +45,7 @@
         {
             "name": "James Marsden",
             "role": "Theodore 'Teddy' Flood",
-            "image": "https://image.tmdb.org/t/p/w200/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/q5IesBSEarW1COJ298pyYa9EPxx.jpg"
         },
         {
             "name": "Angela Sarafyan",
@@ -389,5 +389,5 @@
             "link": "https://vidmody.com/vs/tt0475784/s4/e08"
         }
     ],
-    "update_date": "2026-03-06 00:48:48"
+    "update_date": "2026-03-08 23:06:06"
 }
