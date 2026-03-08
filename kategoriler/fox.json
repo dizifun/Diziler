@@ -1,68 +1,5 @@
 [
     {
-        "id": 291084,
-        "imdb_id": "tt36885662",
-        "name": "Best Medicine",
-        "original_name": "Best Medicine",
-        "overview": "",
-        "poster": "https://image.tmdb.org/t/p/w500/q7SCSZfDaNDRPL3Xt4TiGSZQQht.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
-        "year": "2026",
-        "rating": 7.4,
-        "genres": [
-            "Komedi",
-            "Dram"
-        ],
-        "categories": [
-            "Amazon Prime",
-            "fuboTV",
-            "Hulu",
-            "Spectrum On Demand",
-            "Tümü",
-            "YouTube TV",
-            "FOX"
-        ],
-        "cast": [
-            {
-                "name": "Josh Charles",
-                "role": "Dr. Martin Best",
-                "image": "https://image.tmdb.org/t/p/w200/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
-            },
-            {
-                "name": "Abigail Spencer",
-                "role": "Louisa Glasson",
-                "image": "https://image.tmdb.org/t/p/w200/uf96FDHVoFMwoiP5He4SPLCmwri.jpg"
-            },
-            {
-                "name": "Josh Segarra",
-                "role": "Sheriff Mark Mylow",
-                "image": "https://image.tmdb.org/t/p/w200/vXhukEBgpI8jmCUCSGcpJCNzXHV.jpg"
-            },
-            {
-                "name": "Cree Cicchino",
-                "role": "Elaine Denham",
-                "image": "https://image.tmdb.org/t/p/w200/49WAoaceTvvsgGKCQ8WOxNdfOdl.jpg"
-            },
-            {
-                "name": "Annie Potts",
-                "role": "Aunt Joan",
-                "image": "https://image.tmdb.org/t/p/w200/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg",
-                "vote_average": 8.9,
-                "link": "https://vidmody.com/vs/tt36885662/s1/e01"
-            }
-        ],
-        "update_date": "2026-03-07 02:54:15"
-    },
-    {
         "id": 615,
         "imdb_id": "tt0149460",
         "name": "Futurama",
@@ -78,15 +15,15 @@
             "Bilim Kurgu & Fantazi"
         ],
         "categories": [
-            "Disney+",
-            "Hulu",
-            "fuboTV",
             "Tümü",
-            "FXNow",
+            "Hulu",
             "Comedy Central",
+            "Disney+",
+            "fuboTV",
             "Animasyon",
-            "YouTube TV",
-            "FOX"
+            "FOX",
+            "FXNow",
+            "YouTube TV"
         ],
         "cast": [
             {
@@ -1311,6 +1248,69 @@
                 "link": "https://vidmody.com/vs/tt0149460/s10/e10"
             }
         ],
-        "update_date": "2026-03-05 15:22:30"
+        "update_date": "2026-03-08 05:57:22"
+    },
+    {
+        "id": 291084,
+        "imdb_id": "tt36885662",
+        "name": "Best Medicine",
+        "original_name": "Best Medicine",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/q7SCSZfDaNDRPL3Xt4TiGSZQQht.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+        "year": "2026",
+        "rating": 7.4,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "Amazon Prime",
+            "fuboTV",
+            "Hulu",
+            "Spectrum On Demand",
+            "Tümü",
+            "YouTube TV",
+            "FOX"
+        ],
+        "cast": [
+            {
+                "name": "Josh Charles",
+                "role": "Dr. Martin Best",
+                "image": "https://image.tmdb.org/t/p/w200/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
+            },
+            {
+                "name": "Abigail Spencer",
+                "role": "Louisa Glasson",
+                "image": "https://image.tmdb.org/t/p/w200/uf96FDHVoFMwoiP5He4SPLCmwri.jpg"
+            },
+            {
+                "name": "Josh Segarra",
+                "role": "Sheriff Mark Mylow",
+                "image": "https://image.tmdb.org/t/p/w200/vXhukEBgpI8jmCUCSGcpJCNzXHV.jpg"
+            },
+            {
+                "name": "Cree Cicchino",
+                "role": "Elaine Denham",
+                "image": "https://image.tmdb.org/t/p/w200/49WAoaceTvvsgGKCQ8WOxNdfOdl.jpg"
+            },
+            {
+                "name": "Annie Potts",
+                "role": "Aunt Joan",
+                "image": "https://image.tmdb.org/t/p/w200/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg",
+                "vote_average": 8.9,
+                "link": "https://vidmody.com/vs/tt36885662/s1/e01"
+            }
+        ],
+        "update_date": "2026-03-07 02:54:15"
     }
 ]
