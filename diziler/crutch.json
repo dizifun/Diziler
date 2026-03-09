@@ -7,19 +7,19 @@
     "poster": "https://image.tmdb.org/t/p/w500/9tDDG9mLfhJmqOyvolWneeF6Y1g.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/5lFJVwFA2jtO1ygLoDLGPiT7UhI.jpg",
     "year": "2025",
-    "rating": 4.5,
+    "rating": 5.0,
     "genres": [
         "Komedi"
     ],
     "categories": [
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV Channel",
-        "Amazon Prime",
         "Paramount+ Roku Premium Channel",
         "Tümü",
-        "Paramount Plus Essential",
+        "Paramount+",
+        "Paramount Plus Apple TV Channel",
         "TOD TV",
-        "Paramount+"
+        "Paramount Plus Essential",
+        "Paramount Plus Premium",
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -54,5 +54,5 @@
             "link": "https://vidmody.com/vs/tt32305967/s1/e01"
         }
     ],
-    "update_date": "2026-03-06 23:56:33"
+    "update_date": "2026-03-09 19:20:00"
 }
