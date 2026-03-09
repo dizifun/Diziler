@@ -12,10 +12,10 @@
         "Dram"
     ],
     "categories": [
-        "HBO Max",
-        "Amazon Prime",
         "Crave",
-        "Tümü"
+        "Tümü",
+        "HBO Max",
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -31,7 +31,7 @@
         {
             "name": "François Arnaud",
             "role": "Scott Hunter",
-            "image": "https://image.tmdb.org/t/p/w200/h55jsriG3EExZupF7S205yAjU6w.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/usHxQ3bCKL4UipKR3mht31yUFYX.jpg"
         },
         {
             "name": "Robbie G.K.",
@@ -52,6 +52,11 @@
             "name": "Ksenia Daniela Kharlamova",
             "role": "Svetlana Vetrova",
             "image": "https://image.tmdb.org/t/p/w200/g5u77d6EPTAedFKelAbqhDychtc.jpg"
+        },
+        {
+            "name": "Connor McKenna",
+            "role": "",
+            "image": "https://image.tmdb.org/t/p/w200/k6PWy01geO1XMGXbNdm22taJ3mW.jpg"
         }
     ],
     "episodes": [
@@ -110,5 +115,5 @@
             "link": "https://vidmody.com/vs/tt35495073/s1/e06"
         }
     ],
-    "update_date": "2026-03-07 02:03:50"
+    "update_date": "2026-03-09 20:53:06"
 }
