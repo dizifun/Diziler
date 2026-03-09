@@ -12,9 +12,9 @@
         "Gizem"
     ],
     "categories": [
-        "Amazon Prime",
+        "Tümü",
         "Prime Video",
-        "Tümü"
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -50,7 +50,7 @@
         {
             "name": "Curtis Tennant",
             "role": "Aidan",
-            "image": "https://image.tmdb.org/t/p/w200/2fhy8PYjJNPjWfSDv23sPqhimOX.jpg"
+            "image": ""
         },
         {
             "name": "Kate Ashfield",
@@ -124,5 +124,5 @@
             "link": "https://vidmody.com/vs/tt31186865/s1/e06"
         }
     ],
-    "update_date": "2026-03-06 23:01:00"
+    "update_date": "2026-03-09 18:44:06"
 }
