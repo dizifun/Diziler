@@ -14,9 +14,9 @@
         "Bilim Kurgu & Fantazi"
     ],
     "categories": [
-        "Amazon Prime",
         "Tümü",
-        "Apple TV"
+        "Apple TV",
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -57,7 +57,7 @@
         {
             "name": "John Turturro",
             "role": "Irving Bailiff",
-            "image": "https://image.tmdb.org/t/p/w200/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/wmcWO1WS0DCQrisECrcjYLIR8V4.jpg"
         },
         {
             "name": "Christopher Walken",
@@ -243,5 +243,5 @@
             "link": "https://vidmody.com/vs/tt11280740/s2/e10"
         }
     ],
-    "update_date": "2026-03-06 04:44:53"
+    "update_date": "2026-03-09 06:18:07"
 }
