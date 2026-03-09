@@ -13,15 +13,15 @@
         "Suç"
     ],
     "categories": [
-        "Peacock Premium",
         "Tümü",
-        "Apple TV"
+        "Apple TV",
+        "Peacock Premium"
     ],
     "cast": [
         {
             "name": "Jason Clarke",
             "role": "Frank Remnick",
-            "image": "https://image.tmdb.org/t/p/w200/ma1BPr7pjzgxmYkHFlkMJLQDPC5.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
         },
         {
             "name": "Haley Bennett",
@@ -146,5 +146,5 @@
             "link": "https://vidmody.com/vs/tt26862142/s1/e10"
         }
     ],
-    "update_date": "2026-03-06 19:31:58"
+    "update_date": "2026-03-09 16:46:58"
 }
