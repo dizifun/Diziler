@@ -14,10 +14,10 @@
         "Dram"
     ],
     "categories": [
-        "Netflix",
-        "Kore",
         "Tümü",
-        "Netflix Standard with Ads"
+        "Netflix Standard with Ads",
+        "Netflix",
+        "Kore"
     ],
     "cast": [
         {
@@ -175,5 +175,5 @@
             "link": "https://vidmody.com/vs/tt32409807/s1/e13"
         }
     ],
-    "update_date": "2026-03-07 00:04:08"
+    "update_date": "2026-03-09 19:24:52"
 }
