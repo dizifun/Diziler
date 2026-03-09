@@ -14,10 +14,10 @@
         "Suç"
     ],
     "categories": [
-        "Kanopy",
-        "Amazon Prime",
         "BBC One",
-        "Tümü"
+        "Tümü",
+        "Kanopy",
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -163,5 +163,5 @@
             "link": "https://vidmody.com/vs/tt1399664/s2/e04"
         }
     ],
-    "update_date": "2026-03-06 07:54:33"
+    "update_date": "2026-03-09 09:44:45"
 }
