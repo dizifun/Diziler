@@ -13,10 +13,10 @@
         "Gizem"
     ],
     "categories": [
-        "Netflix",
-        "Kore",
         "Tümü",
-        "Netflix Standard with Ads"
+        "Netflix Standard with Ads",
+        "Netflix",
+        "Kore"
     ],
     "cast": [
         {
@@ -55,7 +55,7 @@
             "image": "https://image.tmdb.org/t/p/w200/5SucrxkigHss7UuJKrkfAZX5MXz.jpg"
         },
         {
-            "name": "조재윤",
+            "name": "Jo Jae-yun",
             "role": "Cho Bang Suk",
             "image": "https://image.tmdb.org/t/p/w200/eFAeusBo0tXQ1Ul596YKl5dV4Rv.jpg"
         }
@@ -161,5 +161,5 @@
             "link": "https://vidmody.com/vs/tt27554348/s1/e11"
         }
     ],
-    "update_date": "2026-03-06 20:05:54"
+    "update_date": "2026-03-09 17:05:44"
 }
