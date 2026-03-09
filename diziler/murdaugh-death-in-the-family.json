@@ -13,9 +13,9 @@
         "Suç"
     ],
     "categories": [
-        "Disney+",
         "Tümü",
-        "Hulu"
+        "Hulu",
+        "Disney+"
     ],
     "cast": [
         {
@@ -26,7 +26,7 @@
         {
             "name": "Jason Clarke",
             "role": "Alex Murdaugh",
-            "image": "https://image.tmdb.org/t/p/w200/ma1BPr7pjzgxmYkHFlkMJLQDPC5.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
         },
         {
             "name": "J. Smith-Cameron",
@@ -143,5 +143,5 @@
             "link": "https://vidmody.com/vs/tt19853270/s1/e08"
         }
     ],
-    "update_date": "2026-03-06 13:48:10"
+    "update_date": "2026-03-09 13:42:41"
 }
