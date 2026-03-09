@@ -13,11 +13,11 @@
         "Dram"
     ],
     "categories": [
-        "Amazon Prime",
         "Tümü",
         "Prime Video",
+        "tvN",
         "Kore",
-        "tvN"
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -51,7 +51,7 @@
             "image": "https://image.tmdb.org/t/p/w200/sVuIgKFg7i6MlNapbhmKsCspAC.jpg"
         },
         {
-            "name": "조승연",
+            "name": "Cho Seung-yeon",
             "role": "Yoon Jeong-ki",
             "image": "https://image.tmdb.org/t/p/w200/lBWyQfK4PPzJO3IDRjpv0ilN6nw.jpg"
         },
@@ -109,5 +109,5 @@
             "link": "https://vidmody.com/vs/tt39137681/s1/e04"
         }
     ],
-    "update_date": "2026-03-07 04:11:01"
+    "update_date": "2026-03-09 22:14:39"
 }
