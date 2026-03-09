@@ -1,653 +1,5 @@
 [
     {
-        "id": 19885,
-        "imdb_id": "tt1475582",
-        "name": "Sherlock",
-        "original_name": "Sherlock",
-        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
-        "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
-        "year": "2010",
-        "rating": 8.5,
-        "genres": [
-            "Suç",
-            "Dram",
-            "Gizem"
-        ],
-        "categories": [
-            "Tümü",
-            "Hulu",
-            "AMC+",
-            "AMC Plus Apple TV Channel",
-            "Spectrum On Demand",
-            "Hoopla",
-            "BBC One",
-            "BritBox",
-            "Britbox Apple TV Channel",
-            "WETA+",
-            "Philo",
-            "Amazon Prime"
-        ],
-        "cast": [
-            {
-                "name": "Benedict Cumberbatch",
-                "role": "Sherlock Holmes",
-                "image": "https://image.tmdb.org/t/p/w200/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
-            },
-            {
-                "name": "Martin Freeman",
-                "role": "John Watson",
-                "image": "https://image.tmdb.org/t/p/w200/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Pembe Üzerine Bir Çalışma",
-                "overview": "Pembe giysili kadının intiharı, görünürde birbiriyle alakasız bir dizi intiharın dördüncüsüdür, fakat Sherlock Holmes ölümlerin aslında cinayet olduğunu ortaya çıkarır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt1475582/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Kör Bankacı",
-                "overview": "Watson'ın yeni yaşamı ev arkadaşı Sherlock Holmes sayesinde hiç bir zaman sıradan değildir; hatta Sherlock'un bankaya yapacağı sıra dışı ziyaret doktoru tetikte tutar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt1475582/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Büyük Oyun",
-                "overview": "Sherlock, Londra'daki suçluların kıvrak zekalarından ümitsiz olsa da, sıradan bir dava gibi görünen olayda, bir dahinin iş başında olduğunu keşfeder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt1475582/s1/e03"
-            },
-            {
-                "season": 2,
-                "episode": 1,
-                "name": "Belgravia'da Bir Skandal",
-                "overview": "Bir kraliyet skandalı, Sherlock'u zor bir fikir düellosunun ortasında bırakır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt1475582/s2/e01"
-            },
-            {
-                "season": 2,
-                "episode": 2,
-                "name": "Baskerville'in Köpekleri",
-                "overview": "Sherlock, cehennemden gelen bir av köpeğinin gizemini ortaya çıkarmak için Dartmoor'a gider.",
-                "still_path": "https://image.tmdb.org/t/p/w400/vjUsJUsF5RcTRKn2prGHCW9Nxro.jpg",
-                "vote_average": 7.7,
-                "link": "https://vidmody.com/vs/tt1475582/s2/e02"
-            },
-            {
-                "season": 2,
-                "episode": 3,
-                "name": "Reichenbach Şelalesi",
-                "overview": "Sherlock, en büyük düşmanı Moriarty ile bir savaşa girer.",
-                "still_path": "https://image.tmdb.org/t/p/w400/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg",
-                "vote_average": 8.7,
-                "link": "https://vidmody.com/vs/tt1475582/s2/e03"
-            },
-            {
-                "season": 3,
-                "episode": 1,
-                "name": "Boş Tabut",
-                "overview": "Sherlock'un \"ölümü\" üzerinden iki yıl geçmiş, Watson hayatına devam etmiştir. Fakat Londra'ya bir terör saldırısı tehdidi olunca, Sherlock geri dönmeye karar verir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/zXsOogQ8BVyvWUR2zgs6NBxkReX.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt1475582/s3/e01"
-            },
-            {
-                "season": 3,
-                "episode": 2,
-                "name": "Üçlerin İmzası",
-                "overview": "Ölümcül bir tehlike Watson'ın düğün törenine gizlice yaklaşırken, Sherlock hayatının en zor görevi ile yüzleşir: Sağdıç konuşması!",
-                "still_path": "https://image.tmdb.org/t/p/w400/ca3ayuzXGpxpALFlcsVsXTQau9G.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt1475582/s3/e02"
-            },
-            {
-                "season": 3,
-                "episode": 3,
-                "name": "Onun Son Yemini",
-                "overview": "Çalınan mektuplarla ilgili bir dava Sherlock Holmes'u şantaj ustası olan Charles Augustus Magnussen ile karşı karşıya getirir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt1475582/s3/e03"
-            },
-            {
-                "season": 4,
-                "episode": 1,
-                "name": "Altı Thatcher",
-                "overview": "Scotland Yard, kabineden bir bakanın oğlunun ve eski başbakan Margaret Thatcher'ın parçalanmış heykellerinin karıştığı ilginç bir vaka ile Sherlock'a gelir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg",
-                "vote_average": 7.0,
-                "link": "https://vidmody.com/vs/tt1475582/s4/e01"
-            },
-            {
-                "season": 4,
-                "episode": 2,
-                "name": "Yalancı Dedektif",
-                "overview": "Watson şoke edici bir trajediyle boğuşur. Bu sırada Sherlock bugüne kadarki en kurnaz düşmanı olan, karanlık bir sırra sahip zengin bir hayırsever ile karşılaşır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/krz3V8MLoVKjMwCuAG2xxnx49TO.jpg",
-                "vote_average": 8.4,
-                "link": "https://vidmody.com/vs/tt1475582/s4/e02"
-            },
-            {
-                "season": 4,
-                "episode": 3,
-                "name": "Son Problem",
-                "overview": "Karanlık bir aile sırrı, Sherlock'un varlığından haberdar olmadığı bastırılmış anılarını açığa çıkararak onu ölümcül bir son oyuna çeker. Dirilen düşmanı karşısındadır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/52CguxQAPg6JLDuIOT76EsWf2a8.jpg",
-                "vote_average": 7.6,
-                "link": "https://vidmody.com/vs/tt1475582/s4/e03"
-            }
-        ],
-        "update_date": "2026-03-09 10:30:27"
-    },
-    {
-        "id": 100771,
-        "imdb_id": "tt10394844",
-        "name": "Soulmates",
-        "original_name": "Soulmates",
-        "overview": "",
-        "poster": "https://image.tmdb.org/t/p/w500/g2mvINQCGACb9sswdKXh1KwpwzB.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/7bpQnv93kbYhbhzmJnEjbE8aMof.jpg",
-        "year": "2020",
-        "rating": 6.0,
-        "genres": [
-            "Bilim Kurgu & Fantazi",
-            "Suç",
-            "Dram"
-        ],
-        "categories": [
-            "Tümü",
-            "Netflix Standard with Ads",
-            "AMC+",
-            "AMC Plus Apple TV Channel",
-            "AMC",
-            "Spectrum On Demand",
-            "Netflix",
-            "Hoopla",
-            "Philo",
-            "Amazon Prime"
-        ],
-        "cast": [],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg",
-                "vote_average": 6.6,
-                "link": "https://vidmody.com/vs/tt10394844/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg",
-                "vote_average": 5.4,
-                "link": "https://vidmody.com/vs/tt10394844/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/eORILaLSGKaAxWCQKUb8dxeTuCm.jpg",
-                "vote_average": 4.8,
-                "link": "https://vidmody.com/vs/tt10394844/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/kkEVadfsqUTwZZqglRZq9eEwEci.jpg",
-                "vote_average": 5.4,
-                "link": "https://vidmody.com/vs/tt10394844/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/iv3w2ak7WeUQTcYKrfZVW5rG22Y.jpg",
-                "vote_average": 5.2,
-                "link": "https://vidmody.com/vs/tt10394844/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg",
-                "vote_average": 4.9,
-                "link": "https://vidmody.com/vs/tt10394844/s1/e06"
-            }
-        ],
-        "update_date": "2026-03-09 04:02:18"
-    },
-    {
-        "id": 256624,
-        "imdb_id": "tt32596156",
-        "name": "Talamasca Gizli Düzen",
-        "original_name": "Talamasca: The Secret Order",
-        "overview": "Fani dünyayla aralarındaki dengeyi uzun süredir koruyan ölümsüzlerle dolu gizli bir evrene düşen Guy Anatole, merakının bedelini farklı şekillerde ödeyecektir.",
-        "poster": "https://image.tmdb.org/t/p/w500/qmmHl3EiFKuDLTVYHGwlV9UhtNw.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/8M0rS9KsWACnua82zmlVOjUGKXD.jpg",
-        "year": "2025",
-        "rating": 6.8,
-        "genres": [
-            "Bilim Kurgu & Fantazi"
-        ],
-        "categories": [
-            "Amazon Prime",
-            "AMC+",
-            "Philo",
-            "AMC Plus Apple TV Channel",
-            "Spectrum On Demand",
-            "AMC",
-            "Tümü",
-            "AMC+ Roku Premium Channel",
-            "TV+"
-        ],
-        "cast": [
-            {
-                "name": "Nicholas Denton",
-                "role": "Guy Anatole",
-                "image": "https://image.tmdb.org/t/p/w200/gvJXRcJbXVkrzQxdJ75cOTNppJ0.jpg"
-            },
-            {
-                "name": "Celine Buckens",
-                "role": "Doris",
-                "image": "https://image.tmdb.org/t/p/w200/6pGlBFPZ0tErnpr9vi4C8Pe7JJ0.jpg"
-            },
-            {
-                "name": "Maisie Richardson-Sellers",
-                "role": "Olive Marie Farington",
-                "image": "https://image.tmdb.org/t/p/w200/kYqqlIllubeg36H93RCNEzUSO5j.jpg"
-            },
-            {
-                "name": "William Fichtner",
-                "role": "Jasper",
-                "image": "https://image.tmdb.org/t/p/w200/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
-            },
-            {
-                "name": "Elizabeth McGovern",
-                "role": "Helen",
-                "image": "https://image.tmdb.org/t/p/w200/nA5jJkV5YyYvhpaMD285qQnOWGv.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/6Qvr8sm1AmTKPHqzZT3Cka0IUBp.jpg",
-                "vote_average": 5.8,
-                "link": "https://vidmody.com/vs/tt32596156/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "",
-                "still_path": "https://image.tmdb.org/t/p/w400/ubHHb40CWCdRdK759vMJH0J6DRI.jpg",
-                "vote_average": 5.3,
-                "link": "https://vidmody.com/vs/tt32596156/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Eldeki Görev",
-                "overview": "Guy, tehlikeli bir görevin ardından Helen ve Talamasca'ya olan güvenini sorgular. Helen, Guy'a Seven Five Two'nun hikayesini ve doğaüstü dünya tarihindeki yerini anlatır. Yeni bilgiler ortaya çıkar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/eMTpwGsNj2IbIwkNyVgf1z3Sc0I.jpg",
-                "vote_average": 5.6,
-                "link": "https://vidmody.com/vs/tt32596156/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Islak İş",
-                "overview": "Guy, gizli kimliğinden kurtulur ve Jasper'la yüz yüze gelir. Jasper, Guy'a yerel bir vampir topluluğunun otelinde Seven Five Two'yu bulma görevini verir. Helen geçmişini araştırmaya devam eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/eX8X4Utigr7i2Ar0PIG3gPYwOZd.jpg",
-                "vote_average": 7.2,
-                "link": "https://vidmody.com/vs/tt32596156/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Bulmaca Sarayı",
-                "overview": "Jasper, Londra Ana Evi'nde Guy ile yüzleşir. Helen'in niyetleri hakkında sorular ortaya çıkar. Guy ve Doris yakınlaşır. Loren ve Ridge önemli bir keşfin eşiğindedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/52oAYPq60itELrlBW5yGX4vda7R.jpg",
-                "vote_average": 5.9,
-                "link": "https://vidmody.com/vs/tt32596156/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "Jasper'ın Maida Vale'ye karşı eylemlerinin ardından polis şüphelileri gözaltına alır. Bu arada Helen, kendi geçmişiyle ilgili önemli bir keşifte bulunur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/mXt1ch3Z78lr25v8aa2QpLJOSZJ.jpg",
-                "vote_average": 7.0,
-                "link": "https://vidmody.com/vs/tt32596156/s1/e06"
-            }
-        ],
-        "update_date": "2026-03-07 00:14:13"
-    },
-    {
-        "id": 194741,
-        "imdb_id": "tt18552362",
-        "name": "Parish",
-        "original_name": "Parish",
-        "overview": "Çoğunlukla ABD'nin güney limanlarında belgesiz göçmenleri sömürdüğü bilinen Zimbabveli bir gangsteri almayı kabul eden bir taksi şoförünün hayatı altüst olur.",
-        "poster": "https://image.tmdb.org/t/p/w500/iV1YDLXuJHwhxF85zwaTxXyrzN6.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/xu7A4P8c8K2Q7bw2HMUqPTuCQbK.jpg",
-        "year": "2024",
-        "rating": 6.5,
-        "genres": [
-            "Dram"
-        ],
-        "categories": [
-            "Amazon Prime",
-            "AMC+",
-            "Philo",
-            "Netflix",
-            "AMC Plus Apple TV Channel",
-            "Spectrum On Demand",
-            "AMC",
-            "Tümü",
-            "AMC+ Roku Premium Channel",
-            "Hoopla",
-            "TV+",
-            "Plex Channel",
-            "Netflix Standard with Ads"
-        ],
-        "cast": [
-            {
-                "name": "Giancarlo Esposito",
-                "role": "Gracián 'Gray' Parish",
-                "image": "https://image.tmdb.org/t/p/w200/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
-            },
-            {
-                "name": "Zackary Momoh",
-                "role": "Shepherd 'The Horse' Tongai",
-                "image": "https://image.tmdb.org/t/p/w200/8dKgzZvLUs29RTaEX9xuReQeJeP.jpg"
-            },
-            {
-                "name": "Paula Malcomson",
-                "role": "Rose Parish",
-                "image": "https://image.tmdb.org/t/p/w200/9lJy6ze86ZfVcBcyBK9UZq8FJiC.jpg"
-            },
-            {
-                "name": "Skeet Ulrich",
-                "role": "Colin Broussard",
-                "image": "https://image.tmdb.org/t/p/w200/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
-            },
-            {
-                "name": "Ivan Mbakop",
-                "role": "Zenzo Tongai",
-                "image": "https://image.tmdb.org/t/p/w200/457TZ4Ays9qL0I807cJngbL8M1d.jpg"
-            },
-            {
-                "name": "Bonnie Mbuli",
-                "role": "Shamiso Tongai",
-                "image": "https://image.tmdb.org/t/p/w200/vMpZA7z1PmFy18ggceVEOZKEVLO.jpg"
-            },
-            {
-                "name": "Arica Himmel",
-                "role": "Makayla Parish",
-                "image": "https://image.tmdb.org/t/p/w200/icO52TMiqeHMFPOyQ4GAeWy1YHn.jpg"
-            },
-            {
-                "name": "Dax Rey",
-                "role": "Luke Tongai",
-                "image": "https://image.tmdb.org/t/p/w200/n66YIjCBL4f5iq20E2em50rS06z.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Pilot",
-                "overview": "Gray Parish, bir aile babası olarak ömür boyu suç hayatından vazgeçmiş, sorunlu bir geçmişi olan iyi bir adamdır. Ancak oğlu vahşice öldürüldüğünde, eski alışkanlıkları geri döner ve ilgili herkes için tehlikeli sonuçlar doğuran amansız bir arayışa başlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg",
-                "vote_average": 7.2,
-                "link": "https://vidmody.com/vs/tt18552362/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Blood in the Water",
-                "overview": "Gray ve Colin büyük bir temizlik konusunda tartışır. Gray, ailesinin artan şüphesinden kaçar. Tongalılar ise yeni bir işin peşine düşer.",
-                "still_path": "https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt18552362/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Sanctuary",
-                "overview": "Gray'in At'a olan bağlılığı nihai bir teste tabi tutulur. Tongalılar düşmanları hakkında bilgi toplamaya başlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/vvYTq3znYpA2aYilrHjPg9M1hF2.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt18552362/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Impimpi",
-                "overview": "Eski bir meslektaşı olan Anton, Gray'in Tongais'lerle çalıştığını öğrendiğinde, Gray'i bir seçim yapmaya zorlayacaktır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/3KKJ7QGb4D8O1Sj2tnihzQZwwB1.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt18552362/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Kumba",
-                "overview": "Gray ve ailesi geçmiş travmalarıyla yüzleşir. Horse, Gray'e reddedemeyeceği bir teklif sunar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/iHnPXCsCLpMUSYX5EcBttyE5QQK.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt18552362/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "A Good Man",
-                "overview": "Gray intikam için her şeyi riske atarken beklenmedik müttefikler keşfeder. Tongais'ler beklenmedik bir aksaklıkla karşılaşır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jWet7hAoBP5Ypjqs1U1EPqeQrb2.jpg",
-                "vote_average": 6.5,
-                "link": "https://vidmody.com/vs/tt18552362/s1/e06"
-            }
-        ],
-        "update_date": "2026-03-06 12:43:41"
-    },
-    {
-        "id": 131835,
-        "imdb_id": "tt15286302",
-        "name": "Nautilus",
-        "original_name": "Nautilus",
-        "overview": "Nemo, müthiş bir denizaltı prototipi çalar ve acımasız Doğu Hindistan Ticaret Şirketi'nden intikam almaya kararlı bir ekiple birlikte Hint Okyanusu'na kaçar.",
-        "poster": "https://image.tmdb.org/t/p/w500/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/8pWGfg6siFjgWJahhkrzGDz1UDs.jpg",
-        "year": "2024",
-        "rating": 6.8,
-        "genres": [
-            "Dram",
-            "Aksiyon & Macera",
-            "Bilim Kurgu & Fantazi"
-        ],
-        "categories": [
-            "Amazon Prime",
-            "AMC+",
-            "Philo",
-            "AMC Plus Apple TV Channel",
-            "Spectrum On Demand",
-            "AMC+ Roku Premium Channel",
-            "Tümü",
-            "AMC",
-            "Prime Video"
-        ],
-        "cast": [
-            {
-                "name": "Shazad Latif",
-                "role": "Nemo",
-                "image": "https://image.tmdb.org/t/p/w200/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
-            },
-            {
-                "name": "Georgia Flood",
-                "role": "Humility Lucas",
-                "image": "https://image.tmdb.org/t/p/w200/6JBj1jy4csuF9sdWRSJuch7595w.jpg"
-            },
-            {
-                "name": "Céline Menville",
-                "role": "Loti",
-                "image": "https://image.tmdb.org/t/p/w200/aZYWdBE0V6U3FwyKXcYtfxDiPEu.jpg"
-            },
-            {
-                "name": "Thierry Frémont",
-                "role": "Benoit",
-                "image": "https://image.tmdb.org/t/p/w200/yUwC2WiydDrCy5TL7xOjdP1PXjM.jpg"
-            },
-            {
-                "name": "Luke Arnold",
-                "role": "Captain Billy Millais",
-                "image": "https://image.tmdb.org/t/p/w200/rs7I8TX4ox3F1tylgmuEuGTm4mC.jpg"
-            },
-            {
-                "name": "Jacob Collins-Levy",
-                "role": "Captain Youngblood",
-                "image": "https://image.tmdb.org/t/p/w200/7m0wDgv3qRes527fBDspudz7AAA.jpg"
-            },
-            {
-                "name": "Damien Garvey",
-                "role": "Director Crawley",
-                "image": "https://image.tmdb.org/t/p/w200/ihEzrFdYfagC41OA8jB3D3toVEG.jpg"
-            },
-            {
-                "name": "Cameron Cuffe",
-                "role": "Algernon Pitt",
-                "image": "https://image.tmdb.org/t/p/w200/1AsKnxWo3vUAvXYDU6TLB7KAkLM.jpg"
-            },
-            {
-                "name": "Kayden Price",
-                "role": "Blaster",
-                "image": "https://image.tmdb.org/t/p/w200/qL0DXqRaD4WUeZ3v0EH0simBxyV.jpg"
-            },
-            {
-                "name": "Benedict Hardie",
-                "role": "Edward Cuff",
-                "image": "https://image.tmdb.org/t/p/w200/bf02Dz4LMV23scJC6c8P4R6xji6.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Anahata",
-                "overview": "Nemo ve Kalpani Ceza Kolonisi'ndeki diğer mahkûmlar, zırhlı bir denizaltı olan Nautilus'u inşa eden köle işçilerdir. İşi bitirdikten sonra, Nemo ve güvendiği bir mürettebat, Nautilus ile kaçmayı planlar. Ama Müdür Crawley, Nautilus'un silahlandırılmak üzere Bombay'a taşınmasını talep etmek için gelince Nemo mürettebat olarak toplayabildiği herkesle birlikte hemen ayrılmak zorunda kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/aqq5s8fgziqGBFc6TxgTVZNx9qG.jpg",
-                "vote_average": 4.6,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Tik, Tik, Bum",
-                "overview": "Nautilus, Şirket askerleri tarafından görüldüğünde, Nemo mürettebatı açık denizlere ulaşmaları için birlikte çalışmaya teşvik etmelidir. Balina avcılarıyla karşılaşmaları onları yavaşlatır. Açık denize ve özgürlüğe ulaşmak üzereyken, müthiş Dreadnought tarafından önleri kesilir. Böylece derinliklerde bir kedi-fare oyunu başlar. Derinlerde sessiz bir oyun.",
-                "still_path": "https://image.tmdb.org/t/p/w400/uWkeTfbHFxn65TcQ4yyaU8eOstl.jpg",
-                "vote_average": 3.5,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Altta Yatan",
-                "overview": "Karajan'da mürettebat eksantrik Beyaz Raca'yla tanışır acaba onun misafirperverliği güvenilir midir? Nemo şaşırtıcı bir gerçeği keşfeder ve Humility ile mürettebat Nemo'nun gerçekte kim olduğunu öğrenir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/yVk3Gu5AWdBfkEioKXexSpyrNJ7.jpg",
-                "vote_average": 3.2,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Islakken Kaygan",
-                "overview": "Mürettebat gizemli bir tropik ada keşfeder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/uUbrM7OWZ6deoYwGSrImh8vQfXL.jpg",
-                "vote_average": 3.8,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Yılan Balığı",
-                "overview": "Nautilus volkanik Ateş Çemberi'ne doğru çekilir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/nN2WXhdMEtkbhW0A2cvGzAQIB4d.jpg",
-                "vote_average": 3.5,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "Büyük Mavi",
-                "overview": "Ateş Çemberi, Benoit'nın hayat boyu takıntısı olan efsanevi su altı şehri Atlantis'e dair bir ipucu ortaya çıkarır. Küçük bir grup, efsanevi kayıp medeniyetin kadim bir yerleşkesi gibi görünen yeri keşfetmek için yola çıkar ama aynı zamanda oranın binlerce korkunç deniz zambaklarının da evi olduğunu fark ederler ve mürettebat canlarını kurtarmak için kaçmaya çalışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/zb1KTjUuyJcEGKU2owwFWW5zeIq.jpg",
-                "vote_average": 4.3,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "Soğuk Savaş",
-                "overview": "Dreadnought ve Nautilus arasındaki güç oyunu ikisini de Kuzey Kutbu buzunda mahsur bırakır, bu da huzursuz bir ateşkese yol açar. Nemo geçmişinden bir arkadaşıyla yeniden bir araya gelir ve babasıyla ilgili daha fazla ifşayla sarsılır. Humility geleceğini düşünür ve mürettebat, Şirket'e karşı buzlu bir kriket maçında bir araya gelir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/atL7FKXvYqJIM77dWTIe0oNOpV7.jpg",
-                "vote_average": 4.6,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "Dönüm Noktası",
-                "overview": "Nemo'nun mürettebatın hayatlarıyla oynadığı ortaya çıkınca, Nemo kamarasına hapsedilir ve Boniface onun yerine kaptan olur. Manyetik kuzeye ulaştıklarında bir cihaz arızası yaşarlar ve ardından metal yiyen böcekler tarafından saldırıya uğrarlar. Doğa onlara komplo kurarken, Nemo bölünmüş mürettebatını, kim olduklarını bildiğini gösterip onlara gerçekte kim olduğunu söyleyerek birleştirmelidir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/l9t0CTKAbDwgLjoSSGxZy3CTdss.jpg",
-                "vote_average": 4.3,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e08"
-            },
-            {
-                "season": 1,
-                "episode": 9,
-                "name": "Valkyrie'nin Yolculuğu",
-                "overview": "Halvar Sütunları'na vardıklarında hazinenin vahşi savaşçılar tarafından korunduğunu keşfederler. Hazine kazanılıp sonra denize gömüldüğünde Nemo, Nautilus mürettebatını dünyanın bir ucuna boşuna getirdiğini hisseder. Ranbir onları bir araya getirir. Şirket hepsine ve milyonlarcasına acı çektirmiştir. Yerle bir edilmelidir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/8ieo7uQZ2inWvzkB2jrqVNqtMBm.jpg",
-                "vote_average": 5.0,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e09"
-            },
-            {
-                "season": 1,
-                "episode": 10,
-                "name": "Yenilmek İçin Çok Büyük",
-                "overview": "Nautilus mürettebatı, Doğu Hindistan Ticaret Şirketi'nin iflas ettiğine dair söylentiler yayar. Hisse senedi fiyatı düştüğünde, gece bir hissedar toplantısı çağrısı yapılır. Nemo ve mürettebatın Şirket'i sonsuza dek feshedebilmek adına toplantıya girmek için üç saati vardır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/iCf8I365VsuxUaYu8RXRqRrN5bq.jpg",
-                "vote_average": 5.2,
-                "link": "https://vidmody.com/vs/tt15286302/s1/e10"
-            }
-        ],
-        "update_date": "2026-03-06 09:13:42"
-    },
-    {
         "id": 1402,
         "imdb_id": "tt1520211",
         "name": "The Walking Dead",
@@ -663,17 +15,17 @@
             "Bilim Kurgu & Fantazi"
         ],
         "categories": [
-            "Disney+",
-            "AMC+",
-            "Philo",
-            "Netflix",
-            "AMC Plus Apple TV Channel",
-            "AMC",
             "Tümü",
+            "Netflix Standard with Ads",
+            "Disney+",
             "AMC+ Roku Premium Channel",
+            "AMC Plus Apple TV Channel",
+            "AMC+",
+            "AMC",
+            "Netflix",
             "TV+",
-            "YouTube TV",
-            "Netflix Standard with Ads"
+            "Philo",
+            "YouTube TV"
         ],
         "cast": [
             {
@@ -2322,6 +1674,654 @@
                 "link": "https://vidmody.com/vs/tt1520211/s11/e24"
             }
         ],
-        "update_date": "2026-03-06 09:08:33"
+        "update_date": "2026-03-09 10:57:30"
+    },
+    {
+        "id": 19885,
+        "imdb_id": "tt1475582",
+        "name": "Sherlock",
+        "original_name": "Sherlock",
+        "overview": "Arthur Conan Doyle'un ünlü eserinden uyarlanan yapımda, kahramanlarımız Sherlock Holmes ve Dr. John Watson günümüz Londra'sında sıradışı cinayetleri çözmeye çalışıyorlar. Huysuz Sherlock ile insancıl John, maceradan maceraya atılırken, izleyici kendisini aksiyondan komediye uzanan bir koşuşturmacanın içinde buluyor. ",
+        "poster": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+        "year": "2010",
+        "rating": 8.5,
+        "genres": [
+            "Suç",
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Tümü",
+            "Hulu",
+            "AMC+",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "Hoopla",
+            "BBC One",
+            "BritBox",
+            "Britbox Apple TV Channel",
+            "WETA+",
+            "Philo",
+            "Amazon Prime"
+        ],
+        "cast": [
+            {
+                "name": "Benedict Cumberbatch",
+                "role": "Sherlock Holmes",
+                "image": "https://image.tmdb.org/t/p/w200/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+            },
+            {
+                "name": "Martin Freeman",
+                "role": "John Watson",
+                "image": "https://image.tmdb.org/t/p/w200/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pembe Üzerine Bir Çalışma",
+                "overview": "Pembe giysili kadının intiharı, görünürde birbiriyle alakasız bir dizi intiharın dördüncüsüdür, fakat Sherlock Holmes ölümlerin aslında cinayet olduğunu ortaya çıkarır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kör Bankacı",
+                "overview": "Watson'ın yeni yaşamı ev arkadaşı Sherlock Holmes sayesinde hiç bir zaman sıradan değildir; hatta Sherlock'un bankaya yapacağı sıra dışı ziyaret doktoru tetikte tutar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Büyük Oyun",
+                "overview": "Sherlock, Londra'daki suçluların kıvrak zekalarından ümitsiz olsa da, sıradan bir dava gibi görünen olayda, bir dahinin iş başında olduğunu keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s1/e03"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "Belgravia'da Bir Skandal",
+                "overview": "Bir kraliyet skandalı, Sherlock'u zor bir fikir düellosunun ortasında bırakır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Baskerville'in Köpekleri",
+                "overview": "Sherlock, cehennemden gelen bir av köpeğinin gizemini ortaya çıkarmak için Dartmoor'a gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vjUsJUsF5RcTRKn2prGHCW9Nxro.jpg",
+                "vote_average": 7.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Reichenbach Şelalesi",
+                "overview": "Sherlock, en büyük düşmanı Moriarty ile bir savaşa girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg",
+                "vote_average": 8.7,
+                "link": "https://vidmody.com/vs/tt1475582/s2/e03"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "Boş Tabut",
+                "overview": "Sherlock'un \"ölümü\" üzerinden iki yıl geçmiş, Watson hayatına devam etmiştir. Fakat Londra'ya bir terör saldırısı tehdidi olunca, Sherlock geri dönmeye karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zXsOogQ8BVyvWUR2zgs6NBxkReX.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "Üçlerin İmzası",
+                "overview": "Ölümcül bir tehlike Watson'ın düğün törenine gizlice yaklaşırken, Sherlock hayatının en zor görevi ile yüzleşir: Sağdıç konuşması!",
+                "still_path": "https://image.tmdb.org/t/p/w400/ca3ayuzXGpxpALFlcsVsXTQau9G.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "Onun Son Yemini",
+                "overview": "Çalınan mektuplarla ilgili bir dava Sherlock Holmes'u şantaj ustası olan Charles Augustus Magnussen ile karşı karşıya getirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt1475582/s3/e03"
+            },
+            {
+                "season": 4,
+                "episode": 1,
+                "name": "Altı Thatcher",
+                "overview": "Scotland Yard, kabineden bir bakanın oğlunun ve eski başbakan Margaret Thatcher'ın parçalanmış heykellerinin karıştığı ilginç bir vaka ile Sherlock'a gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e01"
+            },
+            {
+                "season": 4,
+                "episode": 2,
+                "name": "Yalancı Dedektif",
+                "overview": "Watson şoke edici bir trajediyle boğuşur. Bu sırada Sherlock bugüne kadarki en kurnaz düşmanı olan, karanlık bir sırra sahip zengin bir hayırsever ile karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/krz3V8MLoVKjMwCuAG2xxnx49TO.jpg",
+                "vote_average": 8.4,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e02"
+            },
+            {
+                "season": 4,
+                "episode": 3,
+                "name": "Son Problem",
+                "overview": "Karanlık bir aile sırrı, Sherlock'un varlığından haberdar olmadığı bastırılmış anılarını açığa çıkararak onu ölümcül bir son oyuna çeker. Dirilen düşmanı karşısındadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/52CguxQAPg6JLDuIOT76EsWf2a8.jpg",
+                "vote_average": 7.6,
+                "link": "https://vidmody.com/vs/tt1475582/s4/e03"
+            }
+        ],
+        "update_date": "2026-03-09 10:30:27"
+    },
+    {
+        "id": 100771,
+        "imdb_id": "tt10394844",
+        "name": "Soulmates",
+        "original_name": "Soulmates",
+        "overview": "",
+        "poster": "https://image.tmdb.org/t/p/w500/g2mvINQCGACb9sswdKXh1KwpwzB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/7bpQnv93kbYhbhzmJnEjbE8aMof.jpg",
+        "year": "2020",
+        "rating": 6.0,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Suç",
+            "Dram"
+        ],
+        "categories": [
+            "Tümü",
+            "Netflix Standard with Ads",
+            "AMC+",
+            "AMC Plus Apple TV Channel",
+            "AMC",
+            "Spectrum On Demand",
+            "Netflix",
+            "Hoopla",
+            "Philo",
+            "Amazon Prime"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/eORILaLSGKaAxWCQKUb8dxeTuCm.jpg",
+                "vote_average": 4.8,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/kkEVadfsqUTwZZqglRZq9eEwEci.jpg",
+                "vote_average": 5.4,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/iv3w2ak7WeUQTcYKrfZVW5rG22Y.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg",
+                "vote_average": 4.9,
+                "link": "https://vidmody.com/vs/tt10394844/s1/e06"
+            }
+        ],
+        "update_date": "2026-03-09 04:02:18"
+    },
+    {
+        "id": 256624,
+        "imdb_id": "tt32596156",
+        "name": "Talamasca Gizli Düzen",
+        "original_name": "Talamasca: The Secret Order",
+        "overview": "Fani dünyayla aralarındaki dengeyi uzun süredir koruyan ölümsüzlerle dolu gizli bir evrene düşen Guy Anatole, merakının bedelini farklı şekillerde ödeyecektir.",
+        "poster": "https://image.tmdb.org/t/p/w500/qmmHl3EiFKuDLTVYHGwlV9UhtNw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8M0rS9KsWACnua82zmlVOjUGKXD.jpg",
+        "year": "2025",
+        "rating": 6.8,
+        "genres": [
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Amazon Prime",
+            "AMC+",
+            "Philo",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "AMC",
+            "Tümü",
+            "AMC+ Roku Premium Channel",
+            "TV+"
+        ],
+        "cast": [
+            {
+                "name": "Nicholas Denton",
+                "role": "Guy Anatole",
+                "image": "https://image.tmdb.org/t/p/w200/gvJXRcJbXVkrzQxdJ75cOTNppJ0.jpg"
+            },
+            {
+                "name": "Celine Buckens",
+                "role": "Doris",
+                "image": "https://image.tmdb.org/t/p/w200/6pGlBFPZ0tErnpr9vi4C8Pe7JJ0.jpg"
+            },
+            {
+                "name": "Maisie Richardson-Sellers",
+                "role": "Olive Marie Farington",
+                "image": "https://image.tmdb.org/t/p/w200/kYqqlIllubeg36H93RCNEzUSO5j.jpg"
+            },
+            {
+                "name": "William Fichtner",
+                "role": "Jasper",
+                "image": "https://image.tmdb.org/t/p/w200/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+            },
+            {
+                "name": "Elizabeth McGovern",
+                "role": "Helen",
+                "image": "https://image.tmdb.org/t/p/w200/nA5jJkV5YyYvhpaMD285qQnOWGv.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/6Qvr8sm1AmTKPHqzZT3Cka0IUBp.jpg",
+                "vote_average": 5.8,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "",
+                "still_path": "https://image.tmdb.org/t/p/w400/ubHHb40CWCdRdK759vMJH0J6DRI.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Eldeki Görev",
+                "overview": "Guy, tehlikeli bir görevin ardından Helen ve Talamasca'ya olan güvenini sorgular. Helen, Guy'a Seven Five Two'nun hikayesini ve doğaüstü dünya tarihindeki yerini anlatır. Yeni bilgiler ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eMTpwGsNj2IbIwkNyVgf1z3Sc0I.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Islak İş",
+                "overview": "Guy, gizli kimliğinden kurtulur ve Jasper'la yüz yüze gelir. Jasper, Guy'a yerel bir vampir topluluğunun otelinde Seven Five Two'yu bulma görevini verir. Helen geçmişini araştırmaya devam eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/eX8X4Utigr7i2Ar0PIG3gPYwOZd.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Bulmaca Sarayı",
+                "overview": "Jasper, Londra Ana Evi'nde Guy ile yüzleşir. Helen'in niyetleri hakkında sorular ortaya çıkar. Guy ve Doris yakınlaşır. Loren ve Ridge önemli bir keşfin eşiğindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/52oAYPq60itELrlBW5yGX4vda7R.jpg",
+                "vote_average": 5.9,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Jasper'ın Maida Vale'ye karşı eylemlerinin ardından polis şüphelileri gözaltına alır. Bu arada Helen, kendi geçmişiyle ilgili önemli bir keşifte bulunur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mXt1ch3Z78lr25v8aa2QpLJOSZJ.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt32596156/s1/e06"
+            }
+        ],
+        "update_date": "2026-03-07 00:14:13"
+    },
+    {
+        "id": 194741,
+        "imdb_id": "tt18552362",
+        "name": "Parish",
+        "original_name": "Parish",
+        "overview": "Çoğunlukla ABD'nin güney limanlarında belgesiz göçmenleri sömürdüğü bilinen Zimbabveli bir gangsteri almayı kabul eden bir taksi şoförünün hayatı altüst olur.",
+        "poster": "https://image.tmdb.org/t/p/w500/iV1YDLXuJHwhxF85zwaTxXyrzN6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/xu7A4P8c8K2Q7bw2HMUqPTuCQbK.jpg",
+        "year": "2024",
+        "rating": 6.5,
+        "genres": [
+            "Dram"
+        ],
+        "categories": [
+            "Amazon Prime",
+            "AMC+",
+            "Philo",
+            "Netflix",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "AMC",
+            "Tümü",
+            "AMC+ Roku Premium Channel",
+            "Hoopla",
+            "TV+",
+            "Plex Channel",
+            "Netflix Standard with Ads"
+        ],
+        "cast": [
+            {
+                "name": "Giancarlo Esposito",
+                "role": "Gracián 'Gray' Parish",
+                "image": "https://image.tmdb.org/t/p/w200/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+            },
+            {
+                "name": "Zackary Momoh",
+                "role": "Shepherd 'The Horse' Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/8dKgzZvLUs29RTaEX9xuReQeJeP.jpg"
+            },
+            {
+                "name": "Paula Malcomson",
+                "role": "Rose Parish",
+                "image": "https://image.tmdb.org/t/p/w200/9lJy6ze86ZfVcBcyBK9UZq8FJiC.jpg"
+            },
+            {
+                "name": "Skeet Ulrich",
+                "role": "Colin Broussard",
+                "image": "https://image.tmdb.org/t/p/w200/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+            },
+            {
+                "name": "Ivan Mbakop",
+                "role": "Zenzo Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/457TZ4Ays9qL0I807cJngbL8M1d.jpg"
+            },
+            {
+                "name": "Bonnie Mbuli",
+                "role": "Shamiso Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/vMpZA7z1PmFy18ggceVEOZKEVLO.jpg"
+            },
+            {
+                "name": "Arica Himmel",
+                "role": "Makayla Parish",
+                "image": "https://image.tmdb.org/t/p/w200/icO52TMiqeHMFPOyQ4GAeWy1YHn.jpg"
+            },
+            {
+                "name": "Dax Rey",
+                "role": "Luke Tongai",
+                "image": "https://image.tmdb.org/t/p/w200/n66YIjCBL4f5iq20E2em50rS06z.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Pilot",
+                "overview": "Gray Parish, bir aile babası olarak ömür boyu suç hayatından vazgeçmiş, sorunlu bir geçmişi olan iyi bir adamdır. Ancak oğlu vahşice öldürüldüğünde, eski alışkanlıkları geri döner ve ilgili herkes için tehlikeli sonuçlar doğuran amansız bir arayışa başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Blood in the Water",
+                "overview": "Gray ve Colin büyük bir temizlik konusunda tartışır. Gray, ailesinin artan şüphesinden kaçar. Tongalılar ise yeni bir işin peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Sanctuary",
+                "overview": "Gray'in At'a olan bağlılığı nihai bir teste tabi tutulur. Tongalılar düşmanları hakkında bilgi toplamaya başlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/vvYTq3znYpA2aYilrHjPg9M1hF2.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Impimpi",
+                "overview": "Eski bir meslektaşı olan Anton, Gray'in Tongais'lerle çalıştığını öğrendiğinde, Gray'i bir seçim yapmaya zorlayacaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3KKJ7QGb4D8O1Sj2tnihzQZwwB1.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Kumba",
+                "overview": "Gray ve ailesi geçmiş travmalarıyla yüzleşir. Horse, Gray'e reddedemeyeceği bir teklif sunar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iHnPXCsCLpMUSYX5EcBttyE5QQK.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "A Good Man",
+                "overview": "Gray intikam için her şeyi riske atarken beklenmedik müttefikler keşfeder. Tongais'ler beklenmedik bir aksaklıkla karşılaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jWet7hAoBP5Ypjqs1U1EPqeQrb2.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt18552362/s1/e06"
+            }
+        ],
+        "update_date": "2026-03-06 12:43:41"
+    },
+    {
+        "id": 131835,
+        "imdb_id": "tt15286302",
+        "name": "Nautilus",
+        "original_name": "Nautilus",
+        "overview": "Nemo, müthiş bir denizaltı prototipi çalar ve acımasız Doğu Hindistan Ticaret Şirketi'nden intikam almaya kararlı bir ekiple birlikte Hint Okyanusu'na kaçar.",
+        "poster": "https://image.tmdb.org/t/p/w500/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/8pWGfg6siFjgWJahhkrzGDz1UDs.jpg",
+        "year": "2024",
+        "rating": 6.8,
+        "genres": [
+            "Dram",
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Amazon Prime",
+            "AMC+",
+            "Philo",
+            "AMC Plus Apple TV Channel",
+            "Spectrum On Demand",
+            "AMC+ Roku Premium Channel",
+            "Tümü",
+            "AMC",
+            "Prime Video"
+        ],
+        "cast": [
+            {
+                "name": "Shazad Latif",
+                "role": "Nemo",
+                "image": "https://image.tmdb.org/t/p/w200/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+            },
+            {
+                "name": "Georgia Flood",
+                "role": "Humility Lucas",
+                "image": "https://image.tmdb.org/t/p/w200/6JBj1jy4csuF9sdWRSJuch7595w.jpg"
+            },
+            {
+                "name": "Céline Menville",
+                "role": "Loti",
+                "image": "https://image.tmdb.org/t/p/w200/aZYWdBE0V6U3FwyKXcYtfxDiPEu.jpg"
+            },
+            {
+                "name": "Thierry Frémont",
+                "role": "Benoit",
+                "image": "https://image.tmdb.org/t/p/w200/yUwC2WiydDrCy5TL7xOjdP1PXjM.jpg"
+            },
+            {
+                "name": "Luke Arnold",
+                "role": "Captain Billy Millais",
+                "image": "https://image.tmdb.org/t/p/w200/rs7I8TX4ox3F1tylgmuEuGTm4mC.jpg"
+            },
+            {
+                "name": "Jacob Collins-Levy",
+                "role": "Captain Youngblood",
+                "image": "https://image.tmdb.org/t/p/w200/7m0wDgv3qRes527fBDspudz7AAA.jpg"
+            },
+            {
+                "name": "Damien Garvey",
+                "role": "Director Crawley",
+                "image": "https://image.tmdb.org/t/p/w200/ihEzrFdYfagC41OA8jB3D3toVEG.jpg"
+            },
+            {
+                "name": "Cameron Cuffe",
+                "role": "Algernon Pitt",
+                "image": "https://image.tmdb.org/t/p/w200/1AsKnxWo3vUAvXYDU6TLB7KAkLM.jpg"
+            },
+            {
+                "name": "Kayden Price",
+                "role": "Blaster",
+                "image": "https://image.tmdb.org/t/p/w200/qL0DXqRaD4WUeZ3v0EH0simBxyV.jpg"
+            },
+            {
+                "name": "Benedict Hardie",
+                "role": "Edward Cuff",
+                "image": "https://image.tmdb.org/t/p/w200/bf02Dz4LMV23scJC6c8P4R6xji6.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Anahata",
+                "overview": "Nemo ve Kalpani Ceza Kolonisi'ndeki diğer mahkûmlar, zırhlı bir denizaltı olan Nautilus'u inşa eden köle işçilerdir. İşi bitirdikten sonra, Nemo ve güvendiği bir mürettebat, Nautilus ile kaçmayı planlar. Ama Müdür Crawley, Nautilus'un silahlandırılmak üzere Bombay'a taşınmasını talep etmek için gelince Nemo mürettebat olarak toplayabildiği herkesle birlikte hemen ayrılmak zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aqq5s8fgziqGBFc6TxgTVZNx9qG.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Tik, Tik, Bum",
+                "overview": "Nautilus, Şirket askerleri tarafından görüldüğünde, Nemo mürettebatı açık denizlere ulaşmaları için birlikte çalışmaya teşvik etmelidir. Balina avcılarıyla karşılaşmaları onları yavaşlatır. Açık denize ve özgürlüğe ulaşmak üzereyken, müthiş Dreadnought tarafından önleri kesilir. Böylece derinliklerde bir kedi-fare oyunu başlar. Derinlerde sessiz bir oyun.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uWkeTfbHFxn65TcQ4yyaU8eOstl.jpg",
+                "vote_average": 3.5,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Altta Yatan",
+                "overview": "Karajan'da mürettebat eksantrik Beyaz Raca'yla tanışır acaba onun misafirperverliği güvenilir midir? Nemo şaşırtıcı bir gerçeği keşfeder ve Humility ile mürettebat Nemo'nun gerçekte kim olduğunu öğrenir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/yVk3Gu5AWdBfkEioKXexSpyrNJ7.jpg",
+                "vote_average": 3.2,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Islakken Kaygan",
+                "overview": "Mürettebat gizemli bir tropik ada keşfeder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uUbrM7OWZ6deoYwGSrImh8vQfXL.jpg",
+                "vote_average": 3.8,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Yılan Balığı",
+                "overview": "Nautilus volkanik Ateş Çemberi'ne doğru çekilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nN2WXhdMEtkbhW0A2cvGzAQIB4d.jpg",
+                "vote_average": 3.5,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Büyük Mavi",
+                "overview": "Ateş Çemberi, Benoit'nın hayat boyu takıntısı olan efsanevi su altı şehri Atlantis'e dair bir ipucu ortaya çıkarır. Küçük bir grup, efsanevi kayıp medeniyetin kadim bir yerleşkesi gibi görünen yeri keşfetmek için yola çıkar ama aynı zamanda oranın binlerce korkunç deniz zambaklarının da evi olduğunu fark ederler ve mürettebat canlarını kurtarmak için kaçmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/zb1KTjUuyJcEGKU2owwFWW5zeIq.jpg",
+                "vote_average": 4.3,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Soğuk Savaş",
+                "overview": "Dreadnought ve Nautilus arasındaki güç oyunu ikisini de Kuzey Kutbu buzunda mahsur bırakır, bu da huzursuz bir ateşkese yol açar. Nemo geçmişinden bir arkadaşıyla yeniden bir araya gelir ve babasıyla ilgili daha fazla ifşayla sarsılır. Humility geleceğini düşünür ve mürettebat, Şirket'e karşı buzlu bir kriket maçında bir araya gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/atL7FKXvYqJIM77dWTIe0oNOpV7.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Dönüm Noktası",
+                "overview": "Nemo'nun mürettebatın hayatlarıyla oynadığı ortaya çıkınca, Nemo kamarasına hapsedilir ve Boniface onun yerine kaptan olur. Manyetik kuzeye ulaştıklarında bir cihaz arızası yaşarlar ve ardından metal yiyen böcekler tarafından saldırıya uğrarlar. Doğa onlara komplo kurarken, Nemo bölünmüş mürettebatını, kim olduklarını bildiğini gösterip onlara gerçekte kim olduğunu söyleyerek birleştirmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/l9t0CTKAbDwgLjoSSGxZy3CTdss.jpg",
+                "vote_average": 4.3,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Valkyrie'nin Yolculuğu",
+                "overview": "Halvar Sütunları'na vardıklarında hazinenin vahşi savaşçılar tarafından korunduğunu keşfederler. Hazine kazanılıp sonra denize gömüldüğünde Nemo, Nautilus mürettebatını dünyanın bir ucuna boşuna getirdiğini hisseder. Ranbir onları bir araya getirir. Şirket hepsine ve milyonlarcasına acı çektirmiştir. Yerle bir edilmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8ieo7uQZ2inWvzkB2jrqVNqtMBm.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Yenilmek İçin Çok Büyük",
+                "overview": "Nautilus mürettebatı, Doğu Hindistan Ticaret Şirketi'nin iflas ettiğine dair söylentiler yayar. Hisse senedi fiyatı düştüğünde, gece bir hissedar toplantısı çağrısı yapılır. Nemo ve mürettebatın Şirket'i sonsuza dek feshedebilmek adına toplantıya girmek için üç saati vardır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iCf8I365VsuxUaYu8RXRqRrN5bq.jpg",
+                "vote_average": 5.2,
+                "link": "https://vidmody.com/vs/tt15286302/s1/e10"
+            }
+        ],
+        "update_date": "2026-03-06 09:13:42"
     }
 ]
