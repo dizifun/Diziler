@@ -12,21 +12,21 @@
         "Dram"
     ],
     "categories": [
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV Channel",
-        "Amazon Prime",
         "Paramount+ Roku Premium Channel",
-        "Netflix",
         "Tümü",
-        "Paramount Plus Essential",
+        "Netflix",
         "Paramount+",
-        "TV+"
+        "Paramount Plus Apple TV Channel",
+        "TV+",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium",
+        "Amazon Prime"
     ],
     "cast": [
         {
             "name": "Billy Bob Thornton",
             "role": "Tommy Norris",
-            "image": "https://image.tmdb.org/t/p/w200/i5EKWHuXokznIDMy2prTXzRmklI.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/mLYyf6xqQk5U2zTvZkFuT99uUah.jpg"
         },
         {
             "name": "Demi Moore",
@@ -175,5 +175,5 @@
             "link": "https://vidmody.com/vs/tt14186672/s2/e01"
         }
     ],
-    "update_date": "2026-03-06 08:06:05"
+    "update_date": "2026-03-09 09:56:25"
 }
