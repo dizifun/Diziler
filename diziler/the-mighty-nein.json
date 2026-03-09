@@ -14,31 +14,21 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Animasyon",
-        "Amazon Prime",
+        "Tümü",
         "Prime Video",
-        "Tümü"
+        "Animasyon",
+        "Amazon Prime"
     ],
     "cast": [
         {
             "name": "Laura Bailey",
             "role": "Jester (voice)",
-            "image": "https://image.tmdb.org/t/p/w200/y2szEyFy7VFAzdQjMwN3fLwEDn.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/44wqOhHZiW3hyBhiky56DcnqOxW.jpg"
         },
         {
             "name": "Taliesin Jaffe",
             "role": "Mollymauk (voice)",
             "image": "https://image.tmdb.org/t/p/w200/6J7WD9B9ijvP8rw5hREV47MQbUt.jpg"
-        },
-        {
-            "name": "Ashley Johnson",
-            "role": "Yasha (voice)",
-            "image": "https://image.tmdb.org/t/p/w200/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
-        },
-        {
-            "name": "Matthew Mercer",
-            "role": "Essek (voice)",
-            "image": "https://image.tmdb.org/t/p/w200/fe1S317253vfMuNuIDjhp9vtNSs.jpg"
         },
         {
             "name": "Liam O'Brien",
@@ -135,5 +125,5 @@
             "link": "https://vidmody.com/vs/tt26453092/s1/e08"
         }
     ],
-    "update_date": "2026-03-06 19:12:35"
+    "update_date": "2026-03-09 16:36:37"
 }
