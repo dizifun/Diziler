@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Spectrum On Demand
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg", [6.5] Parish S01E01 - Pilot
+https://vidmody.com/vs/tt18552362/s1/e01
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg", [6.5] Parish S01E02 - Blood in the Water
+https://vidmody.com/vs/tt18552362/s1/e02
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/vvYTq3znYpA2aYilrHjPg9M1hF2.jpg", [6.5] Parish S01E03 - Sanctuary
+https://vidmody.com/vs/tt18552362/s1/e03
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/3KKJ7QGb4D8O1Sj2tnihzQZwwB1.jpg", [6.5] Parish S01E04 - Impimpi
+https://vidmody.com/vs/tt18552362/s1/e04
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/iHnPXCsCLpMUSYX5EcBttyE5QQK.jpg", [6.5] Parish S01E05 - Kumba
+https://vidmody.com/vs/tt18552362/s1/e05
+#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/jWet7hAoBP5Ypjqs1U1EPqeQrb2.jpg", [6.5] Parish S01E06 - A Good Man
+https://vidmody.com/vs/tt18552362/s1/e06
 #EXTINF:-1 group-title="Will Trent" tvg-logo="https://image.tmdb.org/t/p/w400/v2fvaiSeVejCtciYjaCldwBZ4bq.jpg", [7.3] Will Trent S01E01 - Pilot
 https://vidmody.com/vs/tt17543592/s1/e01
 #EXTINF:-1 group-title="Will Trent" tvg-logo="https://image.tmdb.org/t/p/w400/5iczZOCmBmwphl6rTzWKKBB5Exz.jpg", [7.3] Will Trent S01E02 - Oldukça Gözlemci Bir Adamım
@@ -1282,15 +1294,3 @@ https://vidmody.com/vs/tt28013708/s1/e05
 https://vidmody.com/vs/tt28013708/s1/e06
 #EXTINF:-1 group-title="Task" tvg-logo="https://image.tmdb.org/t/p/w400/cLNSgC8tWdMvzA1r4jzGLokOdAD.jpg", [6.8] Task S01E07 - Sakin, Fısıltılı Bir Ses
 https://vidmody.com/vs/tt28013708/s1/e07
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg", [6.5] Parish S01E01 - Pilot
-https://vidmody.com/vs/tt18552362/s1/e01
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg", [6.5] Parish S01E02 - Blood in the Water
-https://vidmody.com/vs/tt18552362/s1/e02
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/vvYTq3znYpA2aYilrHjPg9M1hF2.jpg", [6.5] Parish S01E03 - Sanctuary
-https://vidmody.com/vs/tt18552362/s1/e03
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/3KKJ7QGb4D8O1Sj2tnihzQZwwB1.jpg", [6.5] Parish S01E04 - Impimpi
-https://vidmody.com/vs/tt18552362/s1/e04
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/iHnPXCsCLpMUSYX5EcBttyE5QQK.jpg", [6.5] Parish S01E05 - Kumba
-https://vidmody.com/vs/tt18552362/s1/e05
-#EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/jWet7hAoBP5Ypjqs1U1EPqeQrb2.jpg", [6.5] Parish S01E06 - A Good Man
-https://vidmody.com/vs/tt18552362/s1/e06

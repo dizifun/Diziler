@@ -13,19 +13,19 @@
             "Dram"
         ],
         "categories": [
-            "Amazon Prime",
-            "AMC+",
-            "Philo",
-            "Netflix",
-            "AMC Plus Apple TV Channel",
-            "Spectrum On Demand",
-            "AMC",
             "Tümü",
+            "Netflix Standard with Ads",
             "AMC+ Roku Premium Channel",
+            "AMC Plus Apple TV Channel",
+            "AMC+",
+            "AMC",
+            "Spectrum On Demand",
+            "Netflix",
             "Hoopla",
-            "TV+",
             "Plex Channel",
-            "Netflix Standard with Ads"
+            "TV+",
+            "Philo",
+            "Amazon Prime"
         ],
         "cast": [
             {
@@ -125,6 +125,6 @@
                 "link": "https://vidmody.com/vs/tt18552362/s1/e06"
             }
         ],
-        "update_date": "2026-03-06 12:43:41"
+        "update_date": "2026-03-09 13:09:58"
     }
 ]
