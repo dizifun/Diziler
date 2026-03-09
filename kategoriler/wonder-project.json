@@ -13,10 +13,10 @@
             "Dram"
         ],
         "categories": [
-            "Wonder Project",
-            "Amazon Prime",
+            "Tümü",
             "Prime Video",
-            "Tümü"
+            "Wonder Project",
+            "Amazon Prime"
         ],
         "cast": [
             {
@@ -28,6 +28,11 @@
                 "name": "Alexander Uloom",
                 "role": "King Achish",
                 "image": "https://image.tmdb.org/t/p/w200/65PDKintL28er7lzh5KdvpNGoa3.jpg"
+            },
+            {
+                "name": "Indy Lewis",
+                "role": "Mychal",
+                "image": "https://image.tmdb.org/t/p/w200/1Cf9u0b8V4iAq3cnCBnm93Jwz2N.jpg"
             }
         ],
         "episodes": [
@@ -104,6 +109,6 @@
                 "link": "https://vidmody.com/vs/tt30955673/s1/e08"
             }
         ],
-        "update_date": "2026-03-06 22:47:00"
+        "update_date": "2026-03-09 18:35:24"
     }
 ]
