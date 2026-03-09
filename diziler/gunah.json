@@ -7,16 +7,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/hXEVR6oJ4QRkLraDi4ckdZVNVlc.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rlTfXiGnDhj8CMm7FK6KW8XFAKA.jpg",
     "year": "2026",
-    "rating": 5.4,
+    "rating": 5.5,
     "genres": [
         "Dram",
         "Suç",
         "Gizem"
     ],
     "categories": [
-        "Netflix",
         "Tümü",
-        "Netflix Standard with Ads"
+        "Netflix Standard with Ads",
+        "Netflix"
     ],
     "cast": [
         {
@@ -97,5 +97,5 @@
             "link": "https://vidmody.com/vs/tt33501959/s1/e05"
         }
     ],
-    "update_date": "2026-03-07 01:02:17"
+    "update_date": "2026-03-09 20:14:24"
 }
