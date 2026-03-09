@@ -13,16 +13,16 @@
         "Dram"
     ],
     "categories": [
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV Channel",
-        "Amazon Prime",
-        "fuboTV",
         "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand",
         "Tümü",
-        "Paramount Plus Essential",
+        "fuboTV",
+        "Spectrum On Demand",
+        "Paramount+",
+        "Paramount Plus Apple TV Channel",
         "TOD TV",
-        "Paramount+"
+        "Paramount Plus Essential",
+        "Paramount Plus Premium",
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -168,5 +168,5 @@
             "link": "https://vidmody.com/vs/tt31510819/s1/e10"
         }
     ],
-    "update_date": "2026-03-06 23:13:49"
+    "update_date": "2026-03-09 18:52:23"
 }
