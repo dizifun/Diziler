@@ -13,9 +13,9 @@
         "Dram"
     ],
     "categories": [
-        "Amazon Prime",
         "Tümü",
-        "Apple TV"
+        "Apple TV",
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -26,7 +26,7 @@
         {
             "name": "Lee Pace",
             "role": "Brother Day",
-            "image": "https://image.tmdb.org/t/p/w200/hePfTi5HwU9X0eX2sOmHj9I1Ryp.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
         },
         {
             "name": "Lou Llobell",
@@ -321,5 +321,5 @@
             "link": "https://vidmody.com/vs/tt0804484/s3/e10"
         }
     ],
-    "update_date": "2026-03-06 01:51:02"
+    "update_date": "2026-03-09 00:41:56"
 }
