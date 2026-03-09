@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Spectrum On Demand
+#EXTINF:-1 group-title="Best Medicine" tvg-logo="https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg", [7.4] Best Medicine S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt36885662/s1/e01
 #EXTINF:-1 group-title="The Last of Us" tvg-logo="https://image.tmdb.org/t/p/w400/aRquEWm8wWF1dfa9uZ1TXLvVrKD.jpg", [8.4] The Last of Us S01E01 - Karanlıkta Kaybolduğun Zaman
 https://vidmody.com/vs/tt3581920/s1/e01
 #EXTINF:-1 group-title="The Last of Us" tvg-logo="https://image.tmdb.org/t/p/w400/vGf7chl6XL7o3yYc8A5m3kjz8px.jpg", [8.4] The Last of Us S01E02 - Enfekte
@@ -1328,5 +1330,3 @@ https://vidmody.com/vs/tt6151526/s1/e08
 https://vidmody.com/vs/tt6151526/s1/e09
 #EXTINF:-1 group-title="The Rainmaker" tvg-logo="https://image.tmdb.org/t/p/w400/ywpoPFZ3IkUUD5AHVTMod1sgBXi.jpg", [7.2] The Rainmaker S01E10 - 10. Bölüm
 https://vidmody.com/vs/tt6151526/s1/e10
-#EXTINF:-1 group-title="Best Medicine" tvg-logo="https://image.tmdb.org/t/p/w400/fIOYpw4d25MSFexh4asI2sqRBKX.jpg", [7.4] Best Medicine S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt36885662/s1/e01
