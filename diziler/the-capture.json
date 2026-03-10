@@ -7,19 +7,19 @@
     "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
     "year": "2019",
-    "rating": 7.8,
+    "rating": 7.7,
     "genres": [
         "Suç",
         "Dram",
         "Gizem"
     ],
     "categories": [
-        "Amazon Prime",
-        "BBC One",
         "Tümü",
-        "TOD TV",
+        "Peacock Premium Plus",
         "Peacock Premium",
-        "Peacock Premium Plus"
+        "BBC One",
+        "TOD TV",
+        "Amazon Prime"
     ],
     "cast": [
         {
@@ -120,5 +120,5 @@
             "link": "https://vidmody.com/vs/tt8201186/s1/e05"
         }
     ],
-    "update_date": "2026-03-07 14:19:10"
+    "update_date": "2026-03-10 04:07:21"
 }
