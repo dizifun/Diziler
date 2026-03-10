@@ -927,7 +927,16 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/nis.jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a83e76604a1fbc5d83eabb&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 146,
+            "name": "146. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/si146.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69aedc64033a4bd9042cba76&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-07 18:39:54"
+    "update_date": "2026-03-10 09:11:09"
 }

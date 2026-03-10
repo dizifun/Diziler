@@ -4908,6 +4908,15 @@
         },
         {
             "season": 1,
+            "episode": 6,
+            "name": "6. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/6mart.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69ac0ec8033a4bd9042cba18&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
             "episode": 7,
             "name": "7. Bölüm",
             "overview": "",
@@ -5706,6 +5715,15 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/7subat.jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69877b093754260b3ea63c20&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "name": "7. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/7mart.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69ac8c0b033a4bd9042cba26&SecretKey=NtvApiSecret2014*&.m3u8"
         },
         {
             "season": 1,
@@ -6519,6 +6537,15 @@
         },
         {
             "season": 1,
+            "episode": 8,
+            "name": "8. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/8-mart(2).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69ae674f033a4bd9042cba49&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
             "episode": 9,
             "name": "9. Bölüm",
             "overview": "",
@@ -7317,6 +7344,15 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/9-suba.jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_698ad0e63754260b3ea63c95&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "name": "9. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/9-mart.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69afb29e033a4bd9042cba9c&SecretKey=NtvApiSecret2014*&.m3u8"
         },
         {
             "season": 1,
@@ -24483,7 +24519,7 @@
         },
         {
             "season": 1,
-            "episode": 2719,
+            "episode": 2723,
             "name": "Star Haber Yüzen Ordu Anadolu",
             "overview": "",
             "still_path": "https://media.startv.com.tr/star-tv/images/8e52e2154695bb01494f8910.jpg",
@@ -24491,5 +24527,5 @@
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_91743&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-07 18:41:22"
+    "update_date": "2026-03-10 09:11:50"
 }

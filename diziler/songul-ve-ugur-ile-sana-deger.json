@@ -3114,7 +3114,16 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/365.jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69aad5fc604a1fbc5d83ecc2&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 366,
+            "name": "366. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/366.jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69ae9fa5033a4bd9042cba61&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-07 18:39:58"
+    "update_date": "2026-03-10 09:11:12"
 }

@@ -837,7 +837,16 @@
             "still_path": "https://media.startv.com.tr/star-tv/images/332(2).jpg",
             "vote_average": 0.0,
             "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69aac85b604a1fbc5d83ecaf&SecretKey=NtvApiSecret2014*&.m3u8"
+        },
+        {
+            "season": 1,
+            "episode": 333,
+            "name": "333. Bölüm",
+            "overview": "",
+            "still_path": "https://media.startv.com.tr/star-tv/images/333(4).jpg",
+            "vote_average": 0.0,
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69aac894604a1fbc5d83ecb8&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-07 18:40:00"
+    "update_date": "2026-03-10 09:11:15"
 }
