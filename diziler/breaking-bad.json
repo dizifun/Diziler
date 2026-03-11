@@ -13,10 +13,10 @@
         "Suç"
     ],
     "categories": [
-        "Tümü",
-        "Netflix Standard with Ads",
         "Netflix",
-        "AMC"
+        "Netflix Standard with Ads",
+        "AMC",
+        "Tümü"
     ],
     "cast": [
         {
@@ -620,5 +620,5 @@
             "link": "https://vidmody.com/vs/tt0903747/s5/e16"
         }
     ],
-    "update_date": "2026-03-09 02:03:52"
+    "update_date": "2026-03-11 00:46:07"
 }
