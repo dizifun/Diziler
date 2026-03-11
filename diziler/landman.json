@@ -12,15 +12,15 @@
         "Dram"
     ],
     "categories": [
-        "Paramount+ Roku Premium Channel",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Amazon Prime",
         "Tümü",
         "Netflix",
-        "Paramount+",
         "Paramount Plus Apple TV Channel",
-        "TV+",
-        "Paramount Plus Essential",
-        "Paramount Plus Premium",
-        "Amazon Prime"
+        "Paramount+",
+        "Paramount+ Roku Premium Channel",
+        "TV+"
     ],
     "cast": [
         {
@@ -175,5 +175,5 @@
             "link": "https://vidmody.com/vs/tt14186672/s2/e01"
         }
     ],
-    "update_date": "2026-03-09 09:56:25"
+    "update_date": "2026-03-11 05:54:07"
 }
