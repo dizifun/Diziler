@@ -4,7 +4,7 @@
     "name": "ONE PIECE",
     "original_name": "ONE PIECE",
     "overview": "Popüler manganın bu canlı çekim uyarlamasında genç korsan Monkey D. Luffy, hasır şapkası ve çılgın mürettebatıyla birlikte hazineyi bulmak için destansı bir yolculuğa çıkıyor.",
-    "poster": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
     "year": "2023",
     "rating": 8.1,
@@ -13,9 +13,9 @@
         "Bilim Kurgu & Fantazi"
     ],
     "categories": [
-        "Tümü",
+        "Netflix",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Tümü"
     ],
     "cast": [
         {
@@ -39,14 +39,14 @@
             "image": "https://image.tmdb.org/t/p/w200/c6uP24uFslQ3hnEgqPkojAbYuZn.jpg"
         },
         {
-            "name": "Jeff Ward",
-            "role": "Buggy the Clown",
-            "image": "https://image.tmdb.org/t/p/w200/55Vj8VuALnptdxjJYCH6EdPyR0j.jpg"
-        },
-        {
             "name": "Taz Skylar",
             "role": "Sanji",
             "image": "https://image.tmdb.org/t/p/w200/3EXMkfzB8EXn3ZJPJvK6OfPWLfz.jpg"
+        },
+        {
+            "name": "Charithra Chandran",
+            "role": "Miss Wednesday / Nefertari Vivi",
+            "image": "https://image.tmdb.org/t/p/w200/xLFgJmfXjd2Nnbjx3ZtavReGwjK.jpg"
         }
     ],
     "episodes": [
@@ -123,5 +123,5 @@
             "link": "https://vidmody.com/vs/tt11737520/s1/e08"
         }
     ],
-    "update_date": "2026-03-09 06:57:22"
+    "update_date": "2026-03-11 03:16:21"
 }
