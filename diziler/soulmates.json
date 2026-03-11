@@ -7,23 +7,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/g2mvINQCGACb9sswdKXh1KwpwzB.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/7bpQnv93kbYhbhzmJnEjbE8aMof.jpg",
     "year": "2020",
-    "rating": 6.0,
+    "rating": 6.1,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Suç",
         "Dram"
     ],
     "categories": [
+        "Amazon Prime",
         "Tümü",
-        "Netflix Standard with Ads",
+        "Netflix",
+        "Philo",
         "AMC+",
         "AMC Plus Apple TV Channel",
-        "AMC",
-        "Spectrum On Demand",
-        "Netflix",
+        "Netflix Standard with Ads",
         "Hoopla",
-        "Philo",
-        "Amazon Prime"
+        "AMC",
+        "Spectrum On Demand"
     ],
     "cast": [],
     "episodes": [
@@ -82,5 +82,5 @@
             "link": "https://vidmody.com/vs/tt10394844/s1/e06"
         }
     ],
-    "update_date": "2026-03-09 04:02:18"
+    "update_date": "2026-03-11 01:40:53"
 }
