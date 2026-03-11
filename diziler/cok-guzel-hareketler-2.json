@@ -21,13 +21,13 @@
     "episodes": [
         {
             "season": 1,
-            "episode": 215,
-            "name": "215. Bölüm",
+            "episode": 216,
+            "name": "216. Bölüm",
             "overview": "",
-            "still_path": "https://media.startv.com.tr/star-tv/images/cgh(3).jpg",
+            "still_path": "https://media.startv.com.tr/star-tv/images/231gh22(2).jpg",
             "vote_average": 0.0,
-            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69a18e19604a1fbc5d83e912&SecretKey=NtvApiSecret2014*&.m3u8"
+            "link": "https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_69ae89f9033a4bd9042cba58&SecretKey=NtvApiSecret2014*&.m3u8"
         }
     ],
-    "update_date": "2026-03-03 14:36:58"
+    "update_date": "2026-03-11 06:40:33"
 }
