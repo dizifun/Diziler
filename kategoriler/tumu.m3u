@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Tümü
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/h88DZpKIDo66Tvt556HCvq2BdR0.jpg", [7.7] Moon Knight S01E01 - Japon Balığı Sorunu
+https://vidmody.com/vs/tt10234724/s1/e01
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg", [7.7] Moon Knight S01E02 - Kostümü Çağır
+https://vidmody.com/vs/tt10234724/s1/e02
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg", [7.7] Moon Knight S01E03 - Cana Yakın
+https://vidmody.com/vs/tt10234724/s1/e03
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg", [7.7] Moon Knight S01E04 - Mezar
+https://vidmody.com/vs/tt10234724/s1/e04
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg", [7.7] Moon Knight S01E05 - Akıl Hastanesi
+https://vidmody.com/vs/tt10234724/s1/e05
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg", [7.7] Moon Knight S01E06 - Tanrılar ve Canavarlar
+https://vidmody.com/vs/tt10234724/s1/e06
 #EXTINF:-1 group-title="Muhafızlar: Gizli Proje" tvg-logo="https://image.tmdb.org/t/p/w400/wyFjA6GrugdHJZEF2WxD8TPKmir.jpg", [6.9] Muhafızlar: Gizli Proje S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt10094546/s1/e01
 #EXTINF:-1 group-title="Muhafızlar: Gizli Proje" tvg-logo="https://image.tmdb.org/t/p/w400/kTRUNNOsw6OAsHwoEt1Lt0LK8fG.jpg", [6.9] Muhafızlar: Gizli Proje S01E02 - 2. Bölüm
@@ -3078,18 +3090,6 @@ https://vidmody.com/vs/tt10394844/s1/e04
 https://vidmody.com/vs/tt10394844/s1/e05
 #EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg", [6.1] Soulmates S01E06 - 6. Bölüm
 https://vidmody.com/vs/tt10394844/s1/e06
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/h88DZpKIDo66Tvt556HCvq2BdR0.jpg", [7.7] Moon Knight S01E01 - Japon Balığı Sorunu
-https://vidmody.com/vs/tt10234724/s1/e01
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg", [7.7] Moon Knight S01E02 - Kostümü Çağır
-https://vidmody.com/vs/tt10234724/s1/e02
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg", [7.7] Moon Knight S01E03 - Cana Yakın
-https://vidmody.com/vs/tt10234724/s1/e03
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg", [7.7] Moon Knight S01E04 - Mezar
-https://vidmody.com/vs/tt10234724/s1/e04
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg", [7.7] Moon Knight S01E05 - Akıl Hastanesi
-https://vidmody.com/vs/tt10234724/s1/e05
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg", [7.7] Moon Knight S01E06 - Tanrılar ve Canavarlar
-https://vidmody.com/vs/tt10234724/s1/e06
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/6VKsznJrIq1q87Hot5EEPuvub1g.jpg", [8.2] FROM S01E01 - Long Day's Journey Into Night
 https://vidmody.com/vs/tt9813792/s1/e01
 #EXTINF:-1 group-title="FROM" tvg-logo="https://image.tmdb.org/t/p/w400/mMGMvT9ldQW6Zd85sRafpJL8IMM.jpg", [8.2] FROM S01E02 - The Way Things Are Now
