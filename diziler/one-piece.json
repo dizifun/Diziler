@@ -13,9 +13,9 @@
         "Bilim Kurgu & Fantazi"
     ],
     "categories": [
+        "Tümü",
         "Netflix",
-        "Netflix Standard with Ads",
-        "Tümü"
+        "Netflix Standard with Ads"
     ],
     "cast": [
         {
@@ -31,7 +31,7 @@
         {
             "name": "新田真剣佑",
             "role": "Roronoa Zoro",
-            "image": "https://image.tmdb.org/t/p/w200/bacZSFemex2oUexBccrbIksGxGz.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/xfMmGq9ochn6lw8RHTVUewM0Kzf.jpg"
         },
         {
             "name": "Jacob Gibson",
@@ -123,5 +123,5 @@
             "link": "https://vidmody.com/vs/tt11737520/s1/e08"
         }
     ],
-    "update_date": "2026-03-11 03:16:21"
+    "update_date": "2026-03-12 04:51:53"
 }
