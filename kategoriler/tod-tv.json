@@ -1,607 +1,5 @@
 [
     {
-        "id": 218347,
-        "imdb_id": "tt11218290",
-        "name": "Sweetpea",
-        "original_name": "Sweetpea",
-        "overview": "Rhiannon Lewis hayatından sıkılan bir kadındır. İnsanlar sokakta ona ikinci bir bakış atmadan yanından geçiyorlar. İş yerinde terfi için sürekli göz ardı ediliyor, hoşlandığı adam tam olarak bağlanmıyor ve babası gerçekten hasta. Sonra hayatındaki her şey altüst olur. Sınırlara kadar zorlanan Rhiannon kontrolü kaybeder. Artık her şeyi yapabilen o, baş döndürücü yeni bir güce erişim kazanır.",
-        "poster": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
-        "year": "2024",
-        "rating": 7.4,
-        "genres": [
-            "Komedi",
-            "Dram"
-        ],
-        "categories": [
-            "TOD TV",
-            "Philo",
-            "Sky One",
-            "Starz Roku Premium Channel",
-            "Spectrum On Demand",
-            "Sky Showcase",
-            "Starz Apple TV Channel",
-            "Amazon Prime",
-            "Tümü",
-            "Starz",
-            "Sky Atlantic"
-        ],
-        "cast": [
-            {
-                "name": "Ella Purnell",
-                "role": "Rhiannon",
-                "image": "https://image.tmdb.org/t/p/w200/5PscK9HNXGFQMIxkpbR8ObB7vuR.jpg"
-            },
-            {
-                "name": "Nicôle Lecky",
-                "role": "Julia",
-                "image": "https://image.tmdb.org/t/p/w200/1BgqAILgJMGPUYr2bugzejs97S3.jpg"
-            },
-            {
-                "name": "Jon Pointing",
-                "role": "Craig",
-                "image": "https://image.tmdb.org/t/p/w200/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
-            },
-            {
-                "name": "Calam Lynch",
-                "role": "AJ",
-                "image": "https://image.tmdb.org/t/p/w200/6Zkz6DF6tW96LYx0DDqxEPIc31P.jpg"
-            },
-            {
-                "name": "Jeremy Swift",
-                "role": "Norman",
-                "image": "https://image.tmdb.org/t/p/w200/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
-            },
-            {
-                "name": "Dustin Demri-Burns",
-                "role": "Jeff",
-                "image": "https://image.tmdb.org/t/p/w200/m0yBhBOqO9HSvsBxj9JzdPfMf3d.jpg"
-            },
-            {
-                "name": "Leah Harvey",
-                "role": "Marina",
-                "image": "https://image.tmdb.org/t/p/w200/j5bEw0gtE9RGTq2y4WoQ6HUa9di.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Babası öldüğünde ve geçmişte ona zorbalık yapan kişi kasabaya döndüğünde, sessiz ve utangaç bir kız sonunda patlama noktasına ulaşır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/qJomU9FjJAX8QVZoeV9yTLSmStf.jpg",
-                "vote_average": 6.9,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Rhiannon'ın kurbanı bulunur. Kurbanın kimliği ve bu muameleyi hak edip hak etmediğini öğrenmek için bir göreve çıkar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/c8yEdRGtXDGjMNSqgwqGML8TlJw.jpg",
-                "vote_average": 7.1,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Güç ve adalet duygusu yüksek Rhiannon, bir sonraki hedefi Julia Blenkingsopp'un peşine düşer.",
-                "still_path": "https://image.tmdb.org/t/p/w400/aq4l5gOWU6sFAHcgRQfe8UDUfQf.jpg",
-                "vote_average": 6.4,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Rhiannon, bir zamanlar olduğu gibi kaybeden olmadığını kanıtlamaya çalışır. Ancak bir gerçek her şeyi değiştirir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/am33xvjzvbjc3vFE0ULeFF5cpL5.jpg",
-                "vote_average": 6.6,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Rhiannon etrafında şüpheler dolaşırken beklenmedik bir iş birliği yapmak zorunda kalır ve işler planlandığı gibi gider.",
-                "still_path": "https://image.tmdb.org/t/p/w400/n7uomMnQLFns1JF8QEOkFKif3Lw.jpg",
-                "vote_average": 7.8,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "Rhiannon yalanları arasında sıkışmaya başlarken attığı tehlikeli adımlar geri dönülmez sonuçlar doğurur.",
-                "still_path": "https://image.tmdb.org/t/p/w400/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg",
-                "vote_average": 6.8,
-                "link": "https://vidmody.com/vs/tt11218290/s1/e06"
-            }
-        ],
-        "update_date": "2026-03-12 04:07:04"
-    },
-    {
-        "id": 222031,
-        "imdb_id": "tt14371926",
-        "name": "Apples Never Fall",
-        "original_name": "Apples Never Fall",
-        "overview": "Bir ailenin gizemli geçmişi aydınlatılıyor; Joy Delaney'nin aniden kaybolmasıyla birlikte, dışarıdan mükemmel görünen bir ailenin tüm sırları ve sorunları gün yüzüne çıkar.",
-        "poster": "https://image.tmdb.org/t/p/w500/goa4saZkf8r4zmBNgS6IiiPxEEN.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/kIZSGDWks6lr4ufnqBEsxLutHbX.jpg",
-        "year": "2024",
-        "rating": 6.1,
-        "genres": [
-            "Dram",
-            "Gizem"
-        ],
-        "categories": [
-            "Peacock",
-            "Tümü",
-            "Peacock Premium Plus",
-            "TOD TV",
-            "Peacock Premium"
-        ],
-        "cast": [
-            {
-                "name": "Annette Bening",
-                "role": "Joy Delaney",
-                "image": "https://image.tmdb.org/t/p/w200/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg"
-            },
-            {
-                "name": "Sam Neill",
-                "role": "Stan Delaney",
-                "image": "https://image.tmdb.org/t/p/w200/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
-            },
-            {
-                "name": "Jake Lacy",
-                "role": "Troy Delaney",
-                "image": "https://image.tmdb.org/t/p/w200/qU6n9EaesBGqhNLlj5BecUrb5LW.jpg"
-            },
-            {
-                "name": "Alison Brie",
-                "role": "Amy Delaney",
-                "image": "https://image.tmdb.org/t/p/w200/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
-            },
-            {
-                "name": "Conor Merrigan-Turner",
-                "role": "Logan Delaney",
-                "image": "https://image.tmdb.org/t/p/w200/pfh9m2YZOuJotJ1dXvGt0BzmXCg.jpg"
-            },
-            {
-                "name": "Essie Randles",
-                "role": "Brooke Delaney",
-                "image": "https://image.tmdb.org/t/p/w200/g4zurnd46hTH8ziCk9p6kGy1On6.jpg"
-            },
-            {
-                "name": "Georgia Flood",
-                "role": "Savannah",
-                "image": "https://image.tmdb.org/t/p/w200/6JBj1jy4csuF9sdWRSJuch7595w.jpg"
-            },
-            {
-                "name": "Jeanine Serralles",
-                "role": "Elena Camacho",
-                "image": "https://image.tmdb.org/t/p/w200/2Z1maLxjI1z8uJVcp92ZIcLacob.jpg"
-            },
-            {
-                "name": "Dylan Thuraisingham",
-                "role": "Ethan Remy",
-                "image": "https://image.tmdb.org/t/p/w200/yc4yNyzZu7P4mDynxAyClxn2c24.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Delaney ailesinin reisi aniden ortadan kaybolur. Dört kardeş anne ve babaları hakkında bildiklerini sandıkları her şeyi bir araya getirmek zorunda kalırlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/y0ItvtlpBA2ni5E4uuUnljB4jxf.jpg",
-                "vote_average": 7.0,
-                "link": "https://vidmody.com/vs/tt14371926/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Joy'u arama çalışmaları yoğunlaştıkça oğlu Logan, polisleri kendi ailesinden uzaklaştırır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/29c8d8oL1RqyXZ8zBpwWFbLQY6w.jpg",
-                "vote_average": 5.5,
-                "link": "https://vidmody.com/vs/tt14371926/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Amy, annesini eve getirebilmek için bir umuda tutunur. Topluluğu bir araya toplar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/1Qcfj915LuyUMJOYjgdPLDmon8C.jpg",
-                "vote_average": 5.5,
-                "link": "https://vidmody.com/vs/tt14371926/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "Bir kasırga sırasında Brooke, şeytanlarıyla yüzleşir. Bu esnada dedektifler yeni ipucunun peşindedir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/ldaqA6OMYZ9HMwjKwdTHTNVTHvk.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt14371926/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Troy, önemli bir bilgi sakladığını bilen polislerden kaçarken riskli bir karar alır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/g6oOY1FdWS0wQBCjBoodtgJl3FH.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt14371926/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "Stan'in dengesiz davranışları şüpheleri artırır. Ortaya yeni ve yıkıcı bir kanıt çıkar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jQNtcd6WT9k4RmN5g0yDenKgfQm.jpg",
-                "vote_average": 7.0,
-                "link": "https://vidmody.com/vs/tt14371926/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "7. Bölüm",
-                "overview": "Bir tutuklama, Joy'un başına gelenleri ortaya çıkarır ve toplumu şok eder. Delenay ailesini ise paramparça eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jTtQBqGCXFN73RKVq0mLN7ulj3Q.jpg",
-                "vote_average": 5.5,
-                "link": "https://vidmody.com/vs/tt14371926/s1/e07"
-            }
-        ],
-        "update_date": "2026-03-11 06:03:10"
-    },
-    {
-        "id": 103516,
-        "imdb_id": "tt12327578",
-        "name": "Star Trek: Strange New Worlds",
-        "original_name": "Star Trek: Strange New Worlds",
-        "overview": "Star Trek: The Original Series’in öncesince geçecek olan bir Star Trek prequel’i. Federasyon Gemisi Enterprise (Atılgan)’ın Kaptan Kirk’ten önceki kaptanı olan Kaptan Christopher Pike ve ekibinin hikayelerini konu ediniyor",
-        "poster": "https://image.tmdb.org/t/p/w500/511LZFZJIbxhGjclesSBGQ2ygnE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-        "year": "2022",
-        "rating": 8.0,
-        "genres": [
-            "Bilim Kurgu & Fantazi",
-            "Dram"
-        ],
-        "categories": [
-            "Paramount Plus Premium",
-            "Paramount Plus Essential",
-            "Amazon Prime",
-            "Tümü",
-            "Paramount Plus Apple TV Channel",
-            "Paramount+",
-            "Paramount+ Roku Premium Channel",
-            "TOD TV"
-        ],
-        "cast": [
-            {
-                "name": "Anson Mount",
-                "role": "Captain Christopher Pike",
-                "image": "https://image.tmdb.org/t/p/w200/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
-            },
-            {
-                "name": "Ethan Peck",
-                "role": "Spock",
-                "image": "https://image.tmdb.org/t/p/w200/9KaxSgpbx9Zj827xXLML3bWknNV.jpg"
-            },
-            {
-                "name": "Jess Bush",
-                "role": "Christine Chapel",
-                "image": "https://image.tmdb.org/t/p/w200/qAsdLipL5Gd54IHd813lN5HQFwn.jpg"
-            },
-            {
-                "name": "Christina Chong",
-                "role": "La'An Noonien-Singh",
-                "image": "https://image.tmdb.org/t/p/w200/quzkaUEarfiHHpG0IeYgyJgZ6EL.jpg"
-            },
-            {
-                "name": "Celia Rose Gooding",
-                "role": "Nyota Uhura",
-                "image": "https://image.tmdb.org/t/p/w200/vIk0g2FnDGmBGEAX7veFCOg0hM1.jpg"
-            },
-            {
-                "name": "Melissa Navia",
-                "role": "Erica Ortegas",
-                "image": "https://image.tmdb.org/t/p/w200/b8qF20FtJby02fGAeWSp9XJDHbw.jpg"
-            },
-            {
-                "name": "Babs Olusanmokun",
-                "role": "Dr. Joseph M'Benga",
-                "image": "https://image.tmdb.org/t/p/w200/bqycmpUrpISeLzQniiYwAZ5X1RN.jpg"
-            },
-            {
-                "name": "Martin Quinn",
-                "role": "Lieutenant Montgomery Scott",
-                "image": "https://image.tmdb.org/t/p/w200/pkLdyDbcPpWuFWaWB5lniFw9zx6.jpg"
-            },
-            {
-                "name": "Rebecca Romijn",
-                "role": "Una Chin-Riley",
-                "image": "https://image.tmdb.org/t/p/w200/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
-            }
-        ],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Garip Yeni Dünyalar",
-                "overview": "Pike'ın subaylarından biri, Yıldız Filosu için gizli bir görevdeyken kaybolduğunda, Pike kendi kendini empoze ettiği sürgünden çıkmak zorunda kalır. Kendisine verilen geleceğin vizyonuyla ne yapması gerektiği ile mücadele ederken, subayını nasıl kurtaracağını belirlemeli.",
-                "still_path": "https://image.tmdb.org/t/p/w400/iU2g0Ms11BZKX6i1KxHJUfnmCXf.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Kuyruklu Yıldızın Çocukları",
-                "overview": "Bir araştırma görevindeyken, U.S.S. Atılgan, bir kuyruklu yıldızın üzerinde yaşanılan bir gezegene çarpacağını keşfeder. Kuyruklu yıldızı yeniden yönlendirmeye çalışırlar, ancak kuyruklu yıldızın buzlu yüzeyine gömülü eski bir uzaylı kalıntısının bir şekilde onları engeller; Dış görev ekibi kalıntının sırlarını çözmeye çalışırken, Pike ve Bir Numara tehditle yüzleşir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/HIVV4a2UE6CRlWIYGWl6zpN5TJ.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "İlirya'nın Hayaletleri",
-                "overview": "U.S.S. Atılgan, gemiyi kasıp kavuran bir salgınla karşılaşır. Bir tedavi bulmaya çalışırken sakladığı bir sırla yüzleşmek zorunda olan Bir Numara Una Chin-Riley dışında tüm ekip birer birer aciz kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cuBwdj9rc1EhqGHSC13rqx8R4c3.jpg",
-                "vote_average": 7.3,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Memento Mori",
-                "overview": "Bir koloni gezegenine rutin bir tedarik görevindeyken, U.S.S. Atılgan bilinmeyen bir kötü niyetli gücün saldırısına uğrar. Pike, krizle yüzleşmek için tüm yüreğini ve deneyimini ortaya koyuyor, ancak güvenlik görevlisi, düşmanla geleneksel Yıldız Filosu yöntemleriyle başa çıkılamayacağı konusunda onu uyarıyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/mQGJK4sxx3hUzYz46m94u10Jsy9.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e04"
-            },
-            {
-                "season": 1,
-                "episode": 5,
-                "name": "Spock Amok",
-                "overview": "Spock ve Kaptan Pike'ın alışılmadık bir uzaylı türüyle yaptığı önemli müzakerelerin ortasında, Spock'ın kişisel bir ziyareti olduğunda...",
-                "still_path": "https://image.tmdb.org/t/p/w400/imnMP7fetdx9QAc2yTBZxhNQsPX.jpg",
-                "vote_average": 7.5,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e05"
-            },
-            {
-                "season": 1,
-                "episode": 6,
-                "name": "Bizi Acının Ulaşamadığı Yere Kaldırın",
-                "overview": "Pastoral bir gezegene yönelik bir tehdit, Kaptan Pike'ı hayatının kayıp aşkıyla yeniden bir araya getirir. Onu ve bilimsel kutsal çocuğu bir komplodan korumak için Pike yardım teklif eder ve geçmişinin çözülmemiş duygularıyla yüzleşmek zorunda kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/tQjLSGjSmutnJH8PifNUbTC3ySz.jpg",
-                "vote_average": 7.5,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e06"
-            },
-            {
-                "season": 1,
-                "episode": 7,
-                "name": "Sakin Fırtına",
-                "overview": "Tehlikeli bir insani görevdeyken, U.S.S. Atılgan, çeyreğin en ölümcül uzay korsanıyla iç karartıcı bir oyununa düşüyor.",
-                "still_path": "https://image.tmdb.org/t/p/w400/momEFknzpISRl6pBr3nuT7MAEy.jpg",
-                "vote_average": 6.7,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e07"
-            },
-            {
-                "season": 1,
-                "episode": 8,
-                "name": "Elysian Krallığı",
-                "overview": "U.S.S. Atılgan, mürettebatı bir peri masalına hapseden yabancı bir bilince ev sahipliği yapan bir nebulada sıkışıp kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/uVFtQkSMwjuGoWf4Luu1q4fxS8o.jpg",
-                "vote_average": 6.0,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e08"
-            },
-            {
-                "season": 1,
-                "episode": 9,
-                "name": "Gezinen Herkes",
-                "overview": "U.S.S. Atılgan mürettebatı, iniş ekibi aç bir düşmanla çorak bir gezegende mahsur kaldığında iblisleriyle ve korkunç canavarlarla yüz yüze gelir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/nqvyeP8J7wKdel1xtPstvQ92rb5.jpg",
-                "vote_average": 7.9,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e09"
-            },
-            {
-                "season": 1,
-                "episode": 10,
-                "name": "Bir Merhamet Kalitesi",
-                "overview": "Kaptan Pike, kaderinden nasıl kaçacağını bulduğunu düşünürken, gelecekteki benliği tarafından ziyaret edilir ve ona eylemlerinin sonuçlarını gösterir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/dInKNSozbQFAa1i3Xxd1NcorPLc.jpg",
-                "vote_average": 8.2,
-                "link": "https://vidmody.com/vs/tt12327578/s1/e10"
-            },
-            {
-                "season": 2,
-                "episode": 1,
-                "name": "The Broken Circle",
-                "overview": "Bir imdat çağrısı ile Spock, emirlere karşı gelmek ve U.S.S.'yi almak zorunda kalır. Atılgan ve mürettebatı gemi arkadaşlarına yardım etmek için risk alırlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/laHGPCjO9wJx52pIPvqMBt2Is9g.jpg",
-                "vote_average": 7.2,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e01"
-            },
-            {
-                "season": 2,
-                "episode": 2,
-                "name": "Ad Astra Per Aspera",
-                "overview": "Komutan Una Chin-Riley mahkemeye çıkarılır, hapis cezası alır ve Starlfleet'ten ihraç edilir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/xmDChudvEB7eq7DlKlljjrqUiFg.jpg",
-                "vote_average": 8.1,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e02"
-            },
-            {
-                "season": 2,
-                "episode": 3,
-                "name": "Tomorrow and Tomorrow and Tomorrow",
-                "overview": "La'an, insanlığın gelecek tarihini değiştirecek bir saldırıyı önlemek için zamanda geri gider.",
-                "still_path": "https://image.tmdb.org/t/p/w400/f4FRVjwKKwM37g55Y32ule1wvIh.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e03"
-            },
-            {
-                "season": 2,
-                "episode": 4,
-                "name": "Among the Lotus Eaters",
-                "overview": "Trajik anıları canlandıran bir gezegene geri dönen Kaptan Pike ve ekip, geçmişten gelen bir hayaletle yüzleşirler.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jJi2VGuS0tyXKtuqgCjsNIOztUY.jpg",
-                "vote_average": 7.1,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e04"
-            },
-            {
-                "season": 2,
-                "episode": 5,
-                "name": "Charedes",
-                "overview": "Bir uzay mekiği kazası Spock'ın Vulkan DNA'sının uzaylılar tarafından alınmasına yol açar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/An9V1HboTzyLOCzEBygUHZiEmRG.jpg",
-                "vote_average": 7.5,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e05"
-            },
-            {
-                "season": 2,
-                "episode": 6,
-                "name": "Lost in Translation",
-                "overview": "Uhura'nın duyduğu garip sesi başka kimse duymaz. Gürültü gittikçe halisünasyonları tetikleyince Uhura, beklenmedik bir asistandan yardım alır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/wvAbW0YLMeOHjUIdd7N8euPBc4f.jpg",
-                "vote_average": 6.9,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e06"
-            },
-            {
-                "season": 2,
-                "episode": 7,
-                "name": "Those Old Scientists",
-                "overview": "Meydana gelen bir kaza Teğmen Beckett Mariner ve Bradward Boimler'i 24. yüzyıldan zaman yolculuğuna çıkarır ve Pike ile mürettebatı onları geri götürmelidir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/cUXmAvXYhi7zBIzoFgIzbxmf6QI.jpg",
-                "vote_average": 8.3,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e07"
-            },
-            {
-                "season": 2,
-                "episode": 8,
-                "name": "Under the Cloak of War",
-                "overview": "Kaptan Pike ve mürettebatı U.S.S. Enterprise'da bir Klingon sığınmacısını karşılar ancak onun varlığı bazı şok edici sırların açığa çıkmasını tetikler.",
-                "still_path": "https://image.tmdb.org/t/p/w400/6UHcQZJjC5StPGkzq6sZAsBLGqx.jpg",
-                "vote_average": 7.4,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e08"
-            },
-            {
-                "season": 2,
-                "episode": 9,
-                "name": "Subspace Rhapsody",
-                "overview": "Yaşanan bir kaza U.S.S. Enterprise'daki herkesin kontrolsüzce şarkı söylemesine neden olur. Asıl tehlike ise alanın genişlemesi ve diğer gemileri etkilemesidir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/a7Cu3KpMBkCh8Tgxgja87WgFE6u.jpg",
-                "vote_average": 6.7,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e09"
-            },
-            {
-                "season": 2,
-                "episode": 10,
-                "name": "10. Bölüm",
-                "overview": "[SEZON FİNALİ] Zorlu bir düşmanın dönüşü Kaptan Pike ve ekibini uğraştırır. Bir yandan Federasyon uzayının kenarındaki bir koloniye düzenlenen saldırıyı soruştururlar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/rwqAAZjadCcmzfpLFvScBmzl274.jpg",
-                "vote_average": 8.0,
-                "link": "https://vidmody.com/vs/tt12327578/s2/e10"
-            },
-            {
-                "season": 3,
-                "episode": 1,
-                "name": "1. Bölüm",
-                "overview": "Kaptan Pike mürettebattan gelen önerileri değerlendirmeye başlar ve bir izleme cihazı yerleştirmek için Gorn destroyerine çarpmaya karar verir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/opluRsQk2CN6b3jopZoJCvrP7Cm.jpg",
-                "vote_average": 6.9,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e01"
-            },
-            {
-                "season": 3,
-                "episode": 2,
-                "name": "2. Bölüm",
-                "overview": "Federasyon kutlamasında, davetsiz bir misafir ortamı altüst eder. Spock ve mürettebatın zihinlerinde karmaşa yaratır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/9r9pBXDtdgVtp5x0VLlSgilhwgG.jpg",
-                "vote_average": 5.6,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e02"
-            },
-            {
-                "season": 3,
-                "episode": 3,
-                "name": "3. Bölüm",
-                "overview": "Pike ve M'Benga, Batel'in tedavesini bulmak için Klingon uzayına giderler. O esnada M'Benga'nın geçmişi ölümcül yaratıklarla dolu bir gezegende tekrar belirir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/IF8eXYDYglz6W52FCozVCiySn3.jpg",
-                "vote_average": 6.5,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e03"
-            },
-            {
-                "season": 3,
-                "episode": 4,
-                "name": "4. Bölüm",
-                "overview": "La'An, yalnızca kendisinin çözebileceği kurgusal bir vakayı test ederken sanal güverte kontrolden çıkar ve Enterprise'ın güvenliği tehlikeye girer.",
-                "still_path": "https://image.tmdb.org/t/p/w400/uH8ElDr6YZPXIVXmcl8QyMv5fCO.jpg",
-                "vote_average": 6.1,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e04"
-            },
-            {
-                "season": 3,
-                "episode": 5,
-                "name": "5. Bölüm",
-                "overview": "Chapel ve Korby'nin insan evriminin bir sonraki adımını ortaya çıkarma arayışı, Enterprise'ı karanlık bir sırrı saklayan antik kalıntılara götürür.",
-                "still_path": "https://image.tmdb.org/t/p/w400/8wU3xRdYMMWoV6yurDEr9XHw190.jpg",
-                "vote_average": 6.5,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e05"
-            },
-            {
-                "season": 3,
-                "episode": 6,
-                "name": "6. Bölüm",
-                "overview": "Kirk'ün kaptan koltuğundaki ilk günü, bir Scavenger Gemisi'nin Enterprise'ı ele geçirmesiyle felaketle sonuçlanır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/wfbnUqpIQWnDq4U1i0X2WKchimt.jpg",
-                "vote_average": 6.9,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e06"
-            },
-            {
-                "season": 3,
-                "episode": 7,
-                "name": "7. Bölüm",
-                "overview": "Enterprise, savaşın tahrip ettiği bir gezegene yardım ederken Pike ve mürettebat, araştırmacı bir gazetecinin merceği altına girer.",
-                "still_path": "https://image.tmdb.org/t/p/w400/3s5WG0w3zQpKJeJdAUepWaFNBIU.jpg",
-                "vote_average": 6.1,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e07"
-            },
-            {
-                "season": 3,
-                "episode": 8,
-                "name": "8. Bölüm",
-                "overview": "Mürettebatın bir kısmı görev nedeniyle Vulkan formuna bürünür, ancak insan hallerine dönmeye çalıştıklarında yeni sorunlar ortaya çıkar.",
-                "still_path": "https://image.tmdb.org/t/p/w400/jTI3PI3cEqJJX5jvik1kmu1qLxs.jpg",
-                "vote_average": 6.2,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e08"
-            },
-            {
-                "season": 3,
-                "episode": 9,
-                "name": "9. Bölüm",
-                "overview": "Ortegas, hayatta kalma şansının neredeyse hiç olmadığı ölümcül zehirli bir gezegende mahsur kalır. Hayatta kalmak için en derin inançlarına karşı gelmek zorundadır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/AbgG3jb8kSEWxJvHYotQmGpSPQP.jpg",
-                "vote_average": 6.5,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e09"
-            },
-            {
-                "season": 3,
-                "episode": 10,
-                "name": "10. Bölüm",
-                "overview": "Eski, kötü bir güç ortaya çıktığında Pike kötülüğün yayılmasını durdurmak için hayatını değiştirecek bir seçimle karşı karşıya kalır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/orhTTIshYMwHRcsLmgmePXo0cHg.jpg",
-                "vote_average": 6.3,
-                "link": "https://vidmody.com/vs/tt12327578/s3/e10"
-            }
-        ],
-        "update_date": "2026-03-11 03:52:40"
-    },
-    {
         "id": 126027,
         "imdb_id": "tt11379026",
         "name": "Ghosts",
@@ -616,17 +14,17 @@
             "Bilim Kurgu & Fantazi"
         ],
         "categories": [
+            "TOD TV",
             "Paramount Plus Premium",
-            "YouTube TV",
-            "Paramount Plus Essential",
-            "Amazon Prime",
-            "Tümü",
             "CBS",
             "Paramount Plus Apple TV Channel",
-            "fuboTV",
+            "YouTube TV",
             "Paramount+ Roku Premium Channel",
-            "TOD TV",
-            "Spectrum On Demand"
+            "fuboTV",
+            "Amazon Prime",
+            "Tümü",
+            "Spectrum On Demand",
+            "Paramount Plus Essential"
         ],
         "cast": [
             {
@@ -1402,7 +800,609 @@
                 "link": "https://vidmody.com/vs/tt11379026/s5/e08"
             }
         ],
-        "update_date": "2026-03-11 02:51:35"
+        "update_date": "2026-03-12 04:22:51"
+    },
+    {
+        "id": 218347,
+        "imdb_id": "tt11218290",
+        "name": "Sweetpea",
+        "original_name": "Sweetpea",
+        "overview": "Rhiannon Lewis hayatından sıkılan bir kadındır. İnsanlar sokakta ona ikinci bir bakış atmadan yanından geçiyorlar. İş yerinde terfi için sürekli göz ardı ediliyor, hoşlandığı adam tam olarak bağlanmıyor ve babası gerçekten hasta. Sonra hayatındaki her şey altüst olur. Sınırlara kadar zorlanan Rhiannon kontrolü kaybeder. Artık her şeyi yapabilen o, baş döndürücü yeni bir güce erişim kazanır.",
+        "poster": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+        "year": "2024",
+        "rating": 7.4,
+        "genres": [
+            "Komedi",
+            "Dram"
+        ],
+        "categories": [
+            "TOD TV",
+            "Philo",
+            "Sky One",
+            "Starz Roku Premium Channel",
+            "Spectrum On Demand",
+            "Sky Showcase",
+            "Starz Apple TV Channel",
+            "Amazon Prime",
+            "Tümü",
+            "Starz",
+            "Sky Atlantic"
+        ],
+        "cast": [
+            {
+                "name": "Ella Purnell",
+                "role": "Rhiannon",
+                "image": "https://image.tmdb.org/t/p/w200/5PscK9HNXGFQMIxkpbR8ObB7vuR.jpg"
+            },
+            {
+                "name": "Nicôle Lecky",
+                "role": "Julia",
+                "image": "https://image.tmdb.org/t/p/w200/1BgqAILgJMGPUYr2bugzejs97S3.jpg"
+            },
+            {
+                "name": "Jon Pointing",
+                "role": "Craig",
+                "image": "https://image.tmdb.org/t/p/w200/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+            },
+            {
+                "name": "Calam Lynch",
+                "role": "AJ",
+                "image": "https://image.tmdb.org/t/p/w200/6Zkz6DF6tW96LYx0DDqxEPIc31P.jpg"
+            },
+            {
+                "name": "Jeremy Swift",
+                "role": "Norman",
+                "image": "https://image.tmdb.org/t/p/w200/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+            },
+            {
+                "name": "Dustin Demri-Burns",
+                "role": "Jeff",
+                "image": "https://image.tmdb.org/t/p/w200/m0yBhBOqO9HSvsBxj9JzdPfMf3d.jpg"
+            },
+            {
+                "name": "Leah Harvey",
+                "role": "Marina",
+                "image": "https://image.tmdb.org/t/p/w200/j5bEw0gtE9RGTq2y4WoQ6HUa9di.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Babası öldüğünde ve geçmişte ona zorbalık yapan kişi kasabaya döndüğünde, sessiz ve utangaç bir kız sonunda patlama noktasına ulaşır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/qJomU9FjJAX8QVZoeV9yTLSmStf.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Rhiannon'ın kurbanı bulunur. Kurbanın kimliği ve bu muameleyi hak edip hak etmediğini öğrenmek için bir göreve çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/c8yEdRGtXDGjMNSqgwqGML8TlJw.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Güç ve adalet duygusu yüksek Rhiannon, bir sonraki hedefi Julia Blenkingsopp'un peşine düşer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/aq4l5gOWU6sFAHcgRQfe8UDUfQf.jpg",
+                "vote_average": 6.4,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Rhiannon, bir zamanlar olduğu gibi kaybeden olmadığını kanıtlamaya çalışır. Ancak bir gerçek her şeyi değiştirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/am33xvjzvbjc3vFE0ULeFF5cpL5.jpg",
+                "vote_average": 6.6,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Rhiannon etrafında şüpheler dolaşırken beklenmedik bir iş birliği yapmak zorunda kalır ve işler planlandığı gibi gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/n7uomMnQLFns1JF8QEOkFKif3Lw.jpg",
+                "vote_average": 7.8,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Rhiannon yalanları arasında sıkışmaya başlarken attığı tehlikeli adımlar geri dönülmez sonuçlar doğurur.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg",
+                "vote_average": 6.8,
+                "link": "https://vidmody.com/vs/tt11218290/s1/e06"
+            }
+        ],
+        "update_date": "2026-03-12 04:07:04"
+    },
+    {
+        "id": 222031,
+        "imdb_id": "tt14371926",
+        "name": "Apples Never Fall",
+        "original_name": "Apples Never Fall",
+        "overview": "Bir ailenin gizemli geçmişi aydınlatılıyor; Joy Delaney'nin aniden kaybolmasıyla birlikte, dışarıdan mükemmel görünen bir ailenin tüm sırları ve sorunları gün yüzüne çıkar.",
+        "poster": "https://image.tmdb.org/t/p/w500/goa4saZkf8r4zmBNgS6IiiPxEEN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/kIZSGDWks6lr4ufnqBEsxLutHbX.jpg",
+        "year": "2024",
+        "rating": 6.1,
+        "genres": [
+            "Dram",
+            "Gizem"
+        ],
+        "categories": [
+            "Peacock",
+            "Tümü",
+            "Peacock Premium Plus",
+            "TOD TV",
+            "Peacock Premium"
+        ],
+        "cast": [
+            {
+                "name": "Annette Bening",
+                "role": "Joy Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg"
+            },
+            {
+                "name": "Sam Neill",
+                "role": "Stan Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+            },
+            {
+                "name": "Jake Lacy",
+                "role": "Troy Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/qU6n9EaesBGqhNLlj5BecUrb5LW.jpg"
+            },
+            {
+                "name": "Alison Brie",
+                "role": "Amy Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+            },
+            {
+                "name": "Conor Merrigan-Turner",
+                "role": "Logan Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/pfh9m2YZOuJotJ1dXvGt0BzmXCg.jpg"
+            },
+            {
+                "name": "Essie Randles",
+                "role": "Brooke Delaney",
+                "image": "https://image.tmdb.org/t/p/w200/g4zurnd46hTH8ziCk9p6kGy1On6.jpg"
+            },
+            {
+                "name": "Georgia Flood",
+                "role": "Savannah",
+                "image": "https://image.tmdb.org/t/p/w200/6JBj1jy4csuF9sdWRSJuch7595w.jpg"
+            },
+            {
+                "name": "Jeanine Serralles",
+                "role": "Elena Camacho",
+                "image": "https://image.tmdb.org/t/p/w200/2Z1maLxjI1z8uJVcp92ZIcLacob.jpg"
+            },
+            {
+                "name": "Dylan Thuraisingham",
+                "role": "Ethan Remy",
+                "image": "https://image.tmdb.org/t/p/w200/yc4yNyzZu7P4mDynxAyClxn2c24.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Delaney ailesinin reisi aniden ortadan kaybolur. Dört kardeş anne ve babaları hakkında bildiklerini sandıkları her şeyi bir araya getirmek zorunda kalırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/y0ItvtlpBA2ni5E4uuUnljB4jxf.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Joy'u arama çalışmaları yoğunlaştıkça oğlu Logan, polisleri kendi ailesinden uzaklaştırır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/29c8d8oL1RqyXZ8zBpwWFbLQY6w.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Amy, annesini eve getirebilmek için bir umuda tutunur. Topluluğu bir araya toplar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/1Qcfj915LuyUMJOYjgdPLDmon8C.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "Bir kasırga sırasında Brooke, şeytanlarıyla yüzleşir. Bu esnada dedektifler yeni ipucunun peşindedir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/ldaqA6OMYZ9HMwjKwdTHTNVTHvk.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Troy, önemli bir bilgi sakladığını bilen polislerden kaçarken riskli bir karar alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/g6oOY1FdWS0wQBCjBoodtgJl3FH.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Stan'in dengesiz davranışları şüpheleri artırır. Ortaya yeni ve yıkıcı bir kanıt çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jQNtcd6WT9k4RmN5g0yDenKgfQm.jpg",
+                "vote_average": 7.0,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Bir tutuklama, Joy'un başına gelenleri ortaya çıkarır ve toplumu şok eder. Delenay ailesini ise paramparça eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jTtQBqGCXFN73RKVq0mLN7ulj3Q.jpg",
+                "vote_average": 5.5,
+                "link": "https://vidmody.com/vs/tt14371926/s1/e07"
+            }
+        ],
+        "update_date": "2026-03-11 06:03:10"
+    },
+    {
+        "id": 103516,
+        "imdb_id": "tt12327578",
+        "name": "Star Trek: Strange New Worlds",
+        "original_name": "Star Trek: Strange New Worlds",
+        "overview": "Star Trek: The Original Series’in öncesince geçecek olan bir Star Trek prequel’i. Federasyon Gemisi Enterprise (Atılgan)’ın Kaptan Kirk’ten önceki kaptanı olan Kaptan Christopher Pike ve ekibinin hikayelerini konu ediniyor",
+        "poster": "https://image.tmdb.org/t/p/w500/511LZFZJIbxhGjclesSBGQ2ygnE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+        "year": "2022",
+        "rating": 8.0,
+        "genres": [
+            "Bilim Kurgu & Fantazi",
+            "Dram"
+        ],
+        "categories": [
+            "Paramount Plus Premium",
+            "Paramount Plus Essential",
+            "Amazon Prime",
+            "Tümü",
+            "Paramount Plus Apple TV Channel",
+            "Paramount+",
+            "Paramount+ Roku Premium Channel",
+            "TOD TV"
+        ],
+        "cast": [
+            {
+                "name": "Anson Mount",
+                "role": "Captain Christopher Pike",
+                "image": "https://image.tmdb.org/t/p/w200/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+            },
+            {
+                "name": "Ethan Peck",
+                "role": "Spock",
+                "image": "https://image.tmdb.org/t/p/w200/9KaxSgpbx9Zj827xXLML3bWknNV.jpg"
+            },
+            {
+                "name": "Jess Bush",
+                "role": "Christine Chapel",
+                "image": "https://image.tmdb.org/t/p/w200/qAsdLipL5Gd54IHd813lN5HQFwn.jpg"
+            },
+            {
+                "name": "Christina Chong",
+                "role": "La'An Noonien-Singh",
+                "image": "https://image.tmdb.org/t/p/w200/quzkaUEarfiHHpG0IeYgyJgZ6EL.jpg"
+            },
+            {
+                "name": "Celia Rose Gooding",
+                "role": "Nyota Uhura",
+                "image": "https://image.tmdb.org/t/p/w200/vIk0g2FnDGmBGEAX7veFCOg0hM1.jpg"
+            },
+            {
+                "name": "Melissa Navia",
+                "role": "Erica Ortegas",
+                "image": "https://image.tmdb.org/t/p/w200/b8qF20FtJby02fGAeWSp9XJDHbw.jpg"
+            },
+            {
+                "name": "Babs Olusanmokun",
+                "role": "Dr. Joseph M'Benga",
+                "image": "https://image.tmdb.org/t/p/w200/bqycmpUrpISeLzQniiYwAZ5X1RN.jpg"
+            },
+            {
+                "name": "Martin Quinn",
+                "role": "Lieutenant Montgomery Scott",
+                "image": "https://image.tmdb.org/t/p/w200/pkLdyDbcPpWuFWaWB5lniFw9zx6.jpg"
+            },
+            {
+                "name": "Rebecca Romijn",
+                "role": "Una Chin-Riley",
+                "image": "https://image.tmdb.org/t/p/w200/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
+            }
+        ],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Garip Yeni Dünyalar",
+                "overview": "Pike'ın subaylarından biri, Yıldız Filosu için gizli bir görevdeyken kaybolduğunda, Pike kendi kendini empoze ettiği sürgünden çıkmak zorunda kalır. Kendisine verilen geleceğin vizyonuyla ne yapması gerektiği ile mücadele ederken, subayını nasıl kurtaracağını belirlemeli.",
+                "still_path": "https://image.tmdb.org/t/p/w400/iU2g0Ms11BZKX6i1KxHJUfnmCXf.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Kuyruklu Yıldızın Çocukları",
+                "overview": "Bir araştırma görevindeyken, U.S.S. Atılgan, bir kuyruklu yıldızın üzerinde yaşanılan bir gezegene çarpacağını keşfeder. Kuyruklu yıldızı yeniden yönlendirmeye çalışırlar, ancak kuyruklu yıldızın buzlu yüzeyine gömülü eski bir uzaylı kalıntısının bir şekilde onları engeller; Dış görev ekibi kalıntının sırlarını çözmeye çalışırken, Pike ve Bir Numara tehditle yüzleşir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/HIVV4a2UE6CRlWIYGWl6zpN5TJ.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "İlirya'nın Hayaletleri",
+                "overview": "U.S.S. Atılgan, gemiyi kasıp kavuran bir salgınla karşılaşır. Bir tedavi bulmaya çalışırken sakladığı bir sırla yüzleşmek zorunda olan Bir Numara Una Chin-Riley dışında tüm ekip birer birer aciz kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cuBwdj9rc1EhqGHSC13rqx8R4c3.jpg",
+                "vote_average": 7.3,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Memento Mori",
+                "overview": "Bir koloni gezegenine rutin bir tedarik görevindeyken, U.S.S. Atılgan bilinmeyen bir kötü niyetli gücün saldırısına uğrar. Pike, krizle yüzleşmek için tüm yüreğini ve deneyimini ortaya koyuyor, ancak güvenlik görevlisi, düşmanla geleneksel Yıldız Filosu yöntemleriyle başa çıkılamayacağı konusunda onu uyarıyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/mQGJK4sxx3hUzYz46m94u10Jsy9.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e04"
+            },
+            {
+                "season": 1,
+                "episode": 5,
+                "name": "Spock Amok",
+                "overview": "Spock ve Kaptan Pike'ın alışılmadık bir uzaylı türüyle yaptığı önemli müzakerelerin ortasında, Spock'ın kişisel bir ziyareti olduğunda...",
+                "still_path": "https://image.tmdb.org/t/p/w400/imnMP7fetdx9QAc2yTBZxhNQsPX.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e05"
+            },
+            {
+                "season": 1,
+                "episode": 6,
+                "name": "Bizi Acının Ulaşamadığı Yere Kaldırın",
+                "overview": "Pastoral bir gezegene yönelik bir tehdit, Kaptan Pike'ı hayatının kayıp aşkıyla yeniden bir araya getirir. Onu ve bilimsel kutsal çocuğu bir komplodan korumak için Pike yardım teklif eder ve geçmişinin çözülmemiş duygularıyla yüzleşmek zorunda kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/tQjLSGjSmutnJH8PifNUbTC3ySz.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e06"
+            },
+            {
+                "season": 1,
+                "episode": 7,
+                "name": "Sakin Fırtına",
+                "overview": "Tehlikeli bir insani görevdeyken, U.S.S. Atılgan, çeyreğin en ölümcül uzay korsanıyla iç karartıcı bir oyununa düşüyor.",
+                "still_path": "https://image.tmdb.org/t/p/w400/momEFknzpISRl6pBr3nuT7MAEy.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e07"
+            },
+            {
+                "season": 1,
+                "episode": 8,
+                "name": "Elysian Krallığı",
+                "overview": "U.S.S. Atılgan, mürettebatı bir peri masalına hapseden yabancı bir bilince ev sahipliği yapan bir nebulada sıkışıp kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uVFtQkSMwjuGoWf4Luu1q4fxS8o.jpg",
+                "vote_average": 6.0,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e08"
+            },
+            {
+                "season": 1,
+                "episode": 9,
+                "name": "Gezinen Herkes",
+                "overview": "U.S.S. Atılgan mürettebatı, iniş ekibi aç bir düşmanla çorak bir gezegende mahsur kaldığında iblisleriyle ve korkunç canavarlarla yüz yüze gelir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/nqvyeP8J7wKdel1xtPstvQ92rb5.jpg",
+                "vote_average": 7.9,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e09"
+            },
+            {
+                "season": 1,
+                "episode": 10,
+                "name": "Bir Merhamet Kalitesi",
+                "overview": "Kaptan Pike, kaderinden nasıl kaçacağını bulduğunu düşünürken, gelecekteki benliği tarafından ziyaret edilir ve ona eylemlerinin sonuçlarını gösterir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/dInKNSozbQFAa1i3Xxd1NcorPLc.jpg",
+                "vote_average": 8.2,
+                "link": "https://vidmody.com/vs/tt12327578/s1/e10"
+            },
+            {
+                "season": 2,
+                "episode": 1,
+                "name": "The Broken Circle",
+                "overview": "Bir imdat çağrısı ile Spock, emirlere karşı gelmek ve U.S.S.'yi almak zorunda kalır. Atılgan ve mürettebatı gemi arkadaşlarına yardım etmek için risk alırlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/laHGPCjO9wJx52pIPvqMBt2Is9g.jpg",
+                "vote_average": 7.2,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e01"
+            },
+            {
+                "season": 2,
+                "episode": 2,
+                "name": "Ad Astra Per Aspera",
+                "overview": "Komutan Una Chin-Riley mahkemeye çıkarılır, hapis cezası alır ve Starlfleet'ten ihraç edilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/xmDChudvEB7eq7DlKlljjrqUiFg.jpg",
+                "vote_average": 8.1,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e02"
+            },
+            {
+                "season": 2,
+                "episode": 3,
+                "name": "Tomorrow and Tomorrow and Tomorrow",
+                "overview": "La'an, insanlığın gelecek tarihini değiştirecek bir saldırıyı önlemek için zamanda geri gider.",
+                "still_path": "https://image.tmdb.org/t/p/w400/f4FRVjwKKwM37g55Y32ule1wvIh.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e03"
+            },
+            {
+                "season": 2,
+                "episode": 4,
+                "name": "Among the Lotus Eaters",
+                "overview": "Trajik anıları canlandıran bir gezegene geri dönen Kaptan Pike ve ekip, geçmişten gelen bir hayaletle yüzleşirler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jJi2VGuS0tyXKtuqgCjsNIOztUY.jpg",
+                "vote_average": 7.1,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e04"
+            },
+            {
+                "season": 2,
+                "episode": 5,
+                "name": "Charedes",
+                "overview": "Bir uzay mekiği kazası Spock'ın Vulkan DNA'sının uzaylılar tarafından alınmasına yol açar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/An9V1HboTzyLOCzEBygUHZiEmRG.jpg",
+                "vote_average": 7.5,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e05"
+            },
+            {
+                "season": 2,
+                "episode": 6,
+                "name": "Lost in Translation",
+                "overview": "Uhura'nın duyduğu garip sesi başka kimse duymaz. Gürültü gittikçe halisünasyonları tetikleyince Uhura, beklenmedik bir asistandan yardım alır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wvAbW0YLMeOHjUIdd7N8euPBc4f.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e06"
+            },
+            {
+                "season": 2,
+                "episode": 7,
+                "name": "Those Old Scientists",
+                "overview": "Meydana gelen bir kaza Teğmen Beckett Mariner ve Bradward Boimler'i 24. yüzyıldan zaman yolculuğuna çıkarır ve Pike ile mürettebatı onları geri götürmelidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/cUXmAvXYhi7zBIzoFgIzbxmf6QI.jpg",
+                "vote_average": 8.3,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e07"
+            },
+            {
+                "season": 2,
+                "episode": 8,
+                "name": "Under the Cloak of War",
+                "overview": "Kaptan Pike ve mürettebatı U.S.S. Enterprise'da bir Klingon sığınmacısını karşılar ancak onun varlığı bazı şok edici sırların açığa çıkmasını tetikler.",
+                "still_path": "https://image.tmdb.org/t/p/w400/6UHcQZJjC5StPGkzq6sZAsBLGqx.jpg",
+                "vote_average": 7.4,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e08"
+            },
+            {
+                "season": 2,
+                "episode": 9,
+                "name": "Subspace Rhapsody",
+                "overview": "Yaşanan bir kaza U.S.S. Enterprise'daki herkesin kontrolsüzce şarkı söylemesine neden olur. Asıl tehlike ise alanın genişlemesi ve diğer gemileri etkilemesidir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/a7Cu3KpMBkCh8Tgxgja87WgFE6u.jpg",
+                "vote_average": 6.7,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e09"
+            },
+            {
+                "season": 2,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "[SEZON FİNALİ] Zorlu bir düşmanın dönüşü Kaptan Pike ve ekibini uğraştırır. Bir yandan Federasyon uzayının kenarındaki bir koloniye düzenlenen saldırıyı soruştururlar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/rwqAAZjadCcmzfpLFvScBmzl274.jpg",
+                "vote_average": 8.0,
+                "link": "https://vidmody.com/vs/tt12327578/s2/e10"
+            },
+            {
+                "season": 3,
+                "episode": 1,
+                "name": "1. Bölüm",
+                "overview": "Kaptan Pike mürettebattan gelen önerileri değerlendirmeye başlar ve bir izleme cihazı yerleştirmek için Gorn destroyerine çarpmaya karar verir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/opluRsQk2CN6b3jopZoJCvrP7Cm.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e01"
+            },
+            {
+                "season": 3,
+                "episode": 2,
+                "name": "2. Bölüm",
+                "overview": "Federasyon kutlamasında, davetsiz bir misafir ortamı altüst eder. Spock ve mürettebatın zihinlerinde karmaşa yaratır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/9r9pBXDtdgVtp5x0VLlSgilhwgG.jpg",
+                "vote_average": 5.6,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e02"
+            },
+            {
+                "season": 3,
+                "episode": 3,
+                "name": "3. Bölüm",
+                "overview": "Pike ve M'Benga, Batel'in tedavesini bulmak için Klingon uzayına giderler. O esnada M'Benga'nın geçmişi ölümcül yaratıklarla dolu bir gezegende tekrar belirir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/IF8eXYDYglz6W52FCozVCiySn3.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e03"
+            },
+            {
+                "season": 3,
+                "episode": 4,
+                "name": "4. Bölüm",
+                "overview": "La'An, yalnızca kendisinin çözebileceği kurgusal bir vakayı test ederken sanal güverte kontrolden çıkar ve Enterprise'ın güvenliği tehlikeye girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/uH8ElDr6YZPXIVXmcl8QyMv5fCO.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e04"
+            },
+            {
+                "season": 3,
+                "episode": 5,
+                "name": "5. Bölüm",
+                "overview": "Chapel ve Korby'nin insan evriminin bir sonraki adımını ortaya çıkarma arayışı, Enterprise'ı karanlık bir sırrı saklayan antik kalıntılara götürür.",
+                "still_path": "https://image.tmdb.org/t/p/w400/8wU3xRdYMMWoV6yurDEr9XHw190.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e05"
+            },
+            {
+                "season": 3,
+                "episode": 6,
+                "name": "6. Bölüm",
+                "overview": "Kirk'ün kaptan koltuğundaki ilk günü, bir Scavenger Gemisi'nin Enterprise'ı ele geçirmesiyle felaketle sonuçlanır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wfbnUqpIQWnDq4U1i0X2WKchimt.jpg",
+                "vote_average": 6.9,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e06"
+            },
+            {
+                "season": 3,
+                "episode": 7,
+                "name": "7. Bölüm",
+                "overview": "Enterprise, savaşın tahrip ettiği bir gezegene yardım ederken Pike ve mürettebat, araştırmacı bir gazetecinin merceği altına girer.",
+                "still_path": "https://image.tmdb.org/t/p/w400/3s5WG0w3zQpKJeJdAUepWaFNBIU.jpg",
+                "vote_average": 6.1,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e07"
+            },
+            {
+                "season": 3,
+                "episode": 8,
+                "name": "8. Bölüm",
+                "overview": "Mürettebatın bir kısmı görev nedeniyle Vulkan formuna bürünür, ancak insan hallerine dönmeye çalıştıklarında yeni sorunlar ortaya çıkar.",
+                "still_path": "https://image.tmdb.org/t/p/w400/jTI3PI3cEqJJX5jvik1kmu1qLxs.jpg",
+                "vote_average": 6.2,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e08"
+            },
+            {
+                "season": 3,
+                "episode": 9,
+                "name": "9. Bölüm",
+                "overview": "Ortegas, hayatta kalma şansının neredeyse hiç olmadığı ölümcül zehirli bir gezegende mahsur kalır. Hayatta kalmak için en derin inançlarına karşı gelmek zorundadır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/AbgG3jb8kSEWxJvHYotQmGpSPQP.jpg",
+                "vote_average": 6.5,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e09"
+            },
+            {
+                "season": 3,
+                "episode": 10,
+                "name": "10. Bölüm",
+                "overview": "Eski, kötü bir güç ortaya çıktığında Pike kötülüğün yayılmasını durdurmak için hayatını değiştirecek bir seçimle karşı karşıya kalır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/orhTTIshYMwHRcsLmgmePXo0cHg.jpg",
+                "vote_average": 6.3,
+                "link": "https://vidmody.com/vs/tt12327578/s3/e10"
+            }
+        ],
+        "update_date": "2026-03-11 03:52:40"
     },
     {
         "id": 124364,
