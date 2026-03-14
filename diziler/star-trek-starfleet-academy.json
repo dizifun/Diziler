@@ -7,19 +7,19 @@
     "poster": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
     "year": "2026",
-    "rating": 4.8,
+    "rating": 5.0,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Aksiyon & Macera"
     ],
     "categories": [
         "Paramount+ Roku Premium Channel",
-        "Tümü",
+        "Amazon Prime",
         "Paramount+",
-        "Paramount Plus Apple TV Channel",
         "Paramount Plus Essential",
-        "Paramount Plus Premium",
-        "Amazon Prime"
+        "Tümü",
+        "Paramount Plus Apple TV Channel",
+        "Paramount Plus Premium"
     ],
     "cast": [
         {
@@ -102,5 +102,5 @@
             "link": "https://vidmody.com/vs/tt8622160/s1/e03"
         }
     ],
-    "update_date": "2026-03-10 04:32:39"
+    "update_date": "2026-03-14 21:09:55"
 }
