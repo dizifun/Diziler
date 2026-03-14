@@ -8,20 +8,20 @@
         "poster": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w780/c78kbj781ddvmSn5mgLWFQbC7di.jpg",
         "year": "2025",
-        "rating": 6.8,
+        "rating": 6.9,
         "genres": [
             "Dram",
             "Aksiyon & Macera"
         ],
         "categories": [
-            "Tümü",
-            "STARZ",
-            "Starz",
-            "Starz Apple TV Channel",
+            "Amazon Prime",
             "Spectrum On Demand",
+            "Tümü",
+            "Starz",
+            "STARZ",
             "Starz Roku Premium Channel",
-            "Philo",
-            "Amazon Prime"
+            "Starz Apple TV Channel",
+            "Philo"
         ],
         "cast": [
             {
@@ -135,6 +135,6 @@
                 "link": "https://vidmody.com/vs/tt29921437/s1/e07"
             }
         ],
-        "update_date": "2026-03-09 18:12:10"
+        "update_date": "2026-03-14 12:28:11"
     }
 ]
