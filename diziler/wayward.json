@@ -13,9 +13,9 @@
         "Gizem"
     ],
     "categories": [
-        "Tümü",
+        "Netflix",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Tümü"
     ],
     "cast": [
         {
@@ -26,7 +26,7 @@
         {
             "name": "Sarah Gadon",
             "role": "Laura Redman",
-            "image": "https://image.tmdb.org/t/p/w200/9ip4v5DR8wSy9qnbClUkgwgeIgP.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/sWBMkqjRiszNrvaLE2SSedG9szT.jpg"
         },
         {
             "name": "Alyvia Alyn Lind",
@@ -123,5 +123,5 @@
             "link": "https://vidmody.com/vs/tt27427326/s1/e08"
         }
     ],
-    "update_date": "2026-03-09 17:01:07"
+    "update_date": "2026-03-14 11:26:33"
 }
