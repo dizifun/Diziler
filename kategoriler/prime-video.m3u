@@ -1,5 +1,13 @@
 #EXTM3U
 #PLAYLIST:Prime Video
+#EXTINF:-1 group-title="Bahar Esintisi" tvg-logo="https://image.tmdb.org/t/p/w400/uOTbf7hvWzapH00Omwaxq6wIa4c.jpg", [7.7] Bahar Esintisi S01E01 - Senin Amcan... O Adam Mı?
+https://vidmody.com/vs/tt39137681/s1/e01
+#EXTINF:-1 group-title="Bahar Esintisi" tvg-logo="https://image.tmdb.org/t/p/w400/ly00dZMYpi2kfiEHP2FGml1DlkC.jpg", [7.7] Bahar Esintisi S01E02 - Senin Amcanın... İşi Mi Var?
+https://vidmody.com/vs/tt39137681/s1/e02
+#EXTINF:-1 group-title="Bahar Esintisi" tvg-logo="https://image.tmdb.org/t/p/w400/11QSmQjpkw628Q2JdbbSciUF0Gu.jpg", [7.7] Bahar Esintisi S01E03 - Senin Amcan... Baba Mı?
+https://vidmody.com/vs/tt39137681/s1/e03
+#EXTINF:-1 group-title="Bahar Esintisi" tvg-logo="https://image.tmdb.org/t/p/w400/zai8S0kFoXs38o6ZoCFhIOC4dmG.jpg", [7.7] Bahar Esintisi S01E04 - Senin Amcan... Vâris Mi?
+https://vidmody.com/vs/tt39137681/s1/e04
 #EXTINF:-1 group-title="Kız Arkadaş" tvg-logo="https://image.tmdb.org/t/p/w400/h1cLBoTSlIamxHC8QGYT66DpLbb.jpg", [7.2] Kız Arkadaş S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt32267726/s1/e01
 #EXTINF:-1 group-title="Kız Arkadaş" tvg-logo="https://image.tmdb.org/t/p/w400/ojNKV9yarLh4Xcltyt3nsZYCF46.jpg", [7.2] Kız Arkadaş S01E02 - 2. Bölüm
@@ -644,11 +652,3 @@ https://vidmody.com/vs/tt5057054/s4/e04
 https://vidmody.com/vs/tt5057054/s4/e05
 #EXTINF:-1 group-title="Tom Clancy'den Jack Ryan" tvg-logo="https://image.tmdb.org/t/p/w400/ccuT8l42kGTjSGY4CChWHReYBzk.jpg", [7.7] Tom Clancy'den Jack Ryan S04E06 - Kavramın İspatı
 https://vidmody.com/vs/tt5057054/s4/e06
-#EXTINF:-1 group-title="Bahar Esintisi" tvg-logo="https://image.tmdb.org/t/p/w400/uOTbf7hvWzapH00Omwaxq6wIa4c.jpg", [7.8] Bahar Esintisi S01E01 - Senin Amcan... O Adam Mı?
-https://vidmody.com/vs/tt39137681/s1/e01
-#EXTINF:-1 group-title="Bahar Esintisi" tvg-logo="https://image.tmdb.org/t/p/w400/ly00dZMYpi2kfiEHP2FGml1DlkC.jpg", [7.8] Bahar Esintisi S01E02 - Senin Amcanın... İşi Mi Var?
-https://vidmody.com/vs/tt39137681/s1/e02
-#EXTINF:-1 group-title="Bahar Esintisi" tvg-logo="https://image.tmdb.org/t/p/w400/11QSmQjpkw628Q2JdbbSciUF0Gu.jpg", [7.8] Bahar Esintisi S01E03 - Senin Amcan... Baba Mı?
-https://vidmody.com/vs/tt39137681/s1/e03
-#EXTINF:-1 group-title="Bahar Esintisi" tvg-logo="https://image.tmdb.org/t/p/w400/zai8S0kFoXs38o6ZoCFhIOC4dmG.jpg", [7.8] Bahar Esintisi S01E04 - Senin Amcan... Vâris Mi?
-https://vidmody.com/vs/tt39137681/s1/e04
