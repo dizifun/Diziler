@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:Tümü
+#EXTINF:-1 group-title="Son Kare" tvg-logo="https://image.tmdb.org/t/p/w400/f1R4mkNGVPMGpiD2TjlKtgnAQHn.jpg", [7.0] Son Kare S01E01 - Lunapark
+https://vidmody.com/vs/tt36473743/s1/e01
 #EXTINF:-1 group-title="Dönüm Noktası: Vietnam Savaşı" tvg-logo="https://image.tmdb.org/t/p/w400/bDWyP4hDYw3d0LMwVAenXWMeA8y.jpg", [7.3] Dönüm Noktası: Vietnam Savaşı S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt36242714/s1/e01
 #EXTINF:-1 group-title="Dönüm Noktası: Vietnam Savaşı" tvg-logo="https://image.tmdb.org/t/p/w400/5nsoZmonoxyijxDR4xxX1WIcC5y.jpg", [7.3] Dönüm Noktası: Vietnam Savaşı S01E02 - 2. Bölüm
@@ -8442,5 +8444,3 @@ https://vidmody.com/vs/tt36584543/s1/e04
 https://vidmody.com/vs/tt36584543/s1/e05
 #EXTINF:-1 group-title="Jasmine" tvg-logo="https://image.tmdb.org/t/p/w400/9k3KsryX7VNzQugEalrXwIPodBb.jpg", [4.8] Jasmine S01E06 - 6. Bölüm
 https://vidmody.com/vs/tt36584543/s1/e06
-#EXTINF:-1 group-title="Son Kare" tvg-logo="https://image.tmdb.org/t/p/w400/f1R4mkNGVPMGpiD2TjlKtgnAQHn.jpg", [5.0] Son Kare S01E01 - Lunapark
-https://vidmody.com/vs/tt36473743/s1/e01
