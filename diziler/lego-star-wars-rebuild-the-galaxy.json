@@ -7,7 +7,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/2X2gEEAOFfGlRSmv5QvFU8h5xrV.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/d9rVKhKKBDNykNFQZHZFl6yhenU.jpg",
     "year": "2024",
-    "rating": 7.0,
+    "rating": 6.8,
     "genres": [
         "Bilim Kurgu & Fantazi",
         "Komedi",
@@ -16,9 +16,9 @@
         "Aile"
     ],
     "categories": [
-        "Tümü",
         "Animasyon",
-        "Disney+"
+        "Disney+",
+        "Tümü"
     ],
     "cast": [
         {
@@ -80,5 +80,5 @@
             "link": "https://vidmody.com/vs/tt32306451/s1/e04"
         }
     ],
-    "update_date": "2026-03-09 19:20:11"
+    "update_date": "2026-03-14 13:21:54"
 }
