@@ -14,9 +14,9 @@
         "Aksiyon & Macera"
     ],
     "categories": [
-        "Tümü",
+        "Netflix",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Tümü"
     ],
     "cast": [
         {
@@ -37,7 +37,7 @@
         {
             "name": "Finn Wolfhard",
             "role": "Mike Wheeler",
-            "image": "https://image.tmdb.org/t/p/w200/dQ1Fj2gCwko0Jnt3QEj1GLseXSh.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/a1uynFLYQHij42kWu8yW1SvdJSG.jpg"
         },
         {
             "name": "Gaten Matarazzo",
@@ -52,17 +52,17 @@
         {
             "name": "Noah Schnapp",
             "role": "Will Byers",
-            "image": "https://image.tmdb.org/t/p/w200/rmsJ0UJumpQOVEHffGeUVyJyVcj.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/jHS4mG6XW0ZJbMnpseL2reEWpv8.jpg"
         },
         {
             "name": "Sadie Sink",
             "role": "Max Mayfield",
-            "image": "https://image.tmdb.org/t/p/w200/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/m9OyHAyOx56Pm3JruEBqh4p9XeX.jpg"
         },
         {
             "name": "Natalia Dyer",
             "role": "Nancy Wheeler",
-            "image": "https://image.tmdb.org/t/p/w200/RFjVz6bPspwxF2PgbtqoNSyOsz.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg"
         },
         {
             "name": "Charlie Heaton",
@@ -450,5 +450,5 @@
             "link": "https://vidmody.com/vs/tt4574334/s5/e08"
         }
     ],
-    "update_date": "2026-03-09 23:19:42"
+    "update_date": "2026-03-14 16:17:36"
 }
