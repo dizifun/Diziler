@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Amazon Prime
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg", [6.1] Soulmates S01E01 - 1. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e01
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg", [6.1] Soulmates S01E02 - 2. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e02
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/eORILaLSGKaAxWCQKUb8dxeTuCm.jpg", [6.1] Soulmates S01E03 - 3. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e03
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/kkEVadfsqUTwZZqglRZq9eEwEci.jpg", [6.1] Soulmates S01E04 - 4. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e04
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/iv3w2ak7WeUQTcYKrfZVW5rG22Y.jpg", [6.1] Soulmates S01E05 - 5. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e05
+#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg", [6.1] Soulmates S01E06 - 6. Bölüm
+https://vidmody.com/vs/tt10394844/s1/e06
 #EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://image.tmdb.org/t/p/w400/o4IX9Mm0kpLITVANJMx7inyEUaY.jpg", [8.5] Game of Thrones S01E01 - Kış Geliyor
 https://vidmody.com/vs/tt0944947/s1/e01
 #EXTINF:-1 group-title="Game of Thrones" tvg-logo="https://image.tmdb.org/t/p/w400/l0GJx3IR8YasbztTJi5uK0XqkEo.jpg", [8.5] Game of Thrones S01E02 - Kral Yolu
@@ -872,18 +884,6 @@ https://vidmody.com/vs/tt11218290/s1/e04
 https://vidmody.com/vs/tt11218290/s1/e05
 #EXTINF:-1 group-title="Sweetpea" tvg-logo="https://image.tmdb.org/t/p/w400/lOrfeGgpRgzBubVHv8HbI2KQ8Ar.jpg", [7.4] Sweetpea S01E06 - 6. Bölüm
 https://vidmody.com/vs/tt11218290/s1/e06
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg", [6.1] Soulmates S01E01 - 1. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e01
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg", [6.1] Soulmates S01E02 - 2. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e02
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/eORILaLSGKaAxWCQKUb8dxeTuCm.jpg", [6.1] Soulmates S01E03 - 3. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e03
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/kkEVadfsqUTwZZqglRZq9eEwEci.jpg", [6.1] Soulmates S01E04 - 4. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e04
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/iv3w2ak7WeUQTcYKrfZVW5rG22Y.jpg", [6.1] Soulmates S01E05 - 5. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e05
-#EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/gRJnHVjm99FKS6lz8Tl8x5rjoNk.jpg", [6.1] Soulmates S01E06 - 6. Bölüm
-https://vidmody.com/vs/tt10394844/s1/e06
 #EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg", [8.5] Sherlock S01E01 - Pembe Üzerine Bir Çalışma
 https://vidmody.com/vs/tt1475582/s1/e01
 #EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg", [8.5] Sherlock S01E02 - Kör Bankacı

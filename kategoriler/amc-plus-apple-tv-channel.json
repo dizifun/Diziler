@@ -15,16 +15,16 @@
             "Dram"
         ],
         "categories": [
-            "Philo",
             "Netflix",
-            "Hoopla",
-            "AMC",
-            "AMC+",
             "Amazon Prime",
-            "Netflix Standard with Ads",
-            "Tümü",
+            "Hoopla",
             "Spectrum On Demand",
-            "AMC Plus Apple TV Channel"
+            "AMC+",
+            "AMC",
+            "Tümü",
+            "AMC Plus Apple TV Channel",
+            "Netflix Standard with Ads",
+            "Philo"
         ],
         "cast": [],
         "episodes": [
@@ -83,7 +83,7 @@
                 "link": "https://vidmody.com/vs/tt10394844/s1/e06"
             }
         ],
-        "update_date": "2026-03-12 03:01:12"
+        "update_date": "2026-03-14 00:40:56"
     },
     {
         "id": 19885,
