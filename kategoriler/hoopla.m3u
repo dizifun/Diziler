@@ -1,5 +1,29 @@
 #EXTM3U
 #PLAYLIST:Hoopla
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg", [8.5] Sherlock S01E01 - Pembe Üzerine Bir Çalışma
+https://vidmody.com/vs/tt1475582/s1/e01
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg", [8.5] Sherlock S01E02 - Kör Bankacı
+https://vidmody.com/vs/tt1475582/s1/e02
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg", [8.5] Sherlock S01E03 - Büyük Oyun
+https://vidmody.com/vs/tt1475582/s1/e03
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg", [8.5] Sherlock S02E01 - Belgravia'da Bir Skandal
+https://vidmody.com/vs/tt1475582/s2/e01
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/vjUsJUsF5RcTRKn2prGHCW9Nxro.jpg", [8.5] Sherlock S02E02 - Baskerville'in Köpekleri
+https://vidmody.com/vs/tt1475582/s2/e02
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg", [8.5] Sherlock S02E03 - Reichenbach Şelalesi
+https://vidmody.com/vs/tt1475582/s2/e03
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/zXsOogQ8BVyvWUR2zgs6NBxkReX.jpg", [8.5] Sherlock S03E01 - Boş Tabut
+https://vidmody.com/vs/tt1475582/s3/e01
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/ca3ayuzXGpxpALFlcsVsXTQau9G.jpg", [8.5] Sherlock S03E02 - Üçlerin İmzası
+https://vidmody.com/vs/tt1475582/s3/e02
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg", [8.5] Sherlock S03E03 - Onun Son Yemini
+https://vidmody.com/vs/tt1475582/s3/e03
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg", [8.5] Sherlock S04E01 - Altı Thatcher
+https://vidmody.com/vs/tt1475582/s4/e01
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/krz3V8MLoVKjMwCuAG2xxnx49TO.jpg", [8.5] Sherlock S04E02 - Yalancı Dedektif
+https://vidmody.com/vs/tt1475582/s4/e02
+#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/52CguxQAPg6JLDuIOT76EsWf2a8.jpg", [8.5] Sherlock S04E03 - Son Problem
+https://vidmody.com/vs/tt1475582/s4/e03
 #EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/1LNSFK7SJDTWYw5U20OnQkiCcbT.jpg", [6.1] Soulmates S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt10394844/s1/e01
 #EXTINF:-1 group-title="Soulmates" tvg-logo="https://image.tmdb.org/t/p/w400/6SBmQXQi9DNti53Iz4XbwSkqM2L.jpg", [6.1] Soulmates S01E02 - 2. Bölüm
@@ -316,30 +340,6 @@ https://vidmody.com/vs/tt0436992/s13/e04
 https://vidmody.com/vs/tt0436992/s13/e05
 #EXTINF:-1 group-title="Doctor Who" tvg-logo="https://image.tmdb.org/t/p/w400/20wu1cj5iZWyphnYQvKY1M9yBYQ.jpg", [7.6] Doctor Who S13E06 - The Vanquishers
 https://vidmody.com/vs/tt0436992/s13/e06
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg", [8.5] Sherlock S01E01 - Pembe Üzerine Bir Çalışma
-https://vidmody.com/vs/tt1475582/s1/e01
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg", [8.5] Sherlock S01E02 - Kör Bankacı
-https://vidmody.com/vs/tt1475582/s1/e02
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/inRnf07LWmlT5Z3KkS4iWlBX48x.jpg", [8.5] Sherlock S01E03 - Büyük Oyun
-https://vidmody.com/vs/tt1475582/s1/e03
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/9fmNcR20uEnMeAKmUucJnCPeUJg.jpg", [8.5] Sherlock S02E01 - Belgravia'da Bir Skandal
-https://vidmody.com/vs/tt1475582/s2/e01
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/vjUsJUsF5RcTRKn2prGHCW9Nxro.jpg", [8.5] Sherlock S02E02 - Baskerville'in Köpekleri
-https://vidmody.com/vs/tt1475582/s2/e02
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/PVxRD2JqT2QM4t1Cih0v2AoRSR.jpg", [8.5] Sherlock S02E03 - Reichenbach Şelalesi
-https://vidmody.com/vs/tt1475582/s2/e03
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/zXsOogQ8BVyvWUR2zgs6NBxkReX.jpg", [8.5] Sherlock S03E01 - Boş Tabut
-https://vidmody.com/vs/tt1475582/s3/e01
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/ca3ayuzXGpxpALFlcsVsXTQau9G.jpg", [8.5] Sherlock S03E02 - Üçlerin İmzası
-https://vidmody.com/vs/tt1475582/s3/e02
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/5phdYWQXMwn9cBUPzUt1Z3oie4K.jpg", [8.5] Sherlock S03E03 - Onun Son Yemini
-https://vidmody.com/vs/tt1475582/s3/e03
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/pGRnT0D3Ni2QJzmcRyX3HZVcWrE.jpg", [8.5] Sherlock S04E01 - Altı Thatcher
-https://vidmody.com/vs/tt1475582/s4/e01
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/krz3V8MLoVKjMwCuAG2xxnx49TO.jpg", [8.5] Sherlock S04E02 - Yalancı Dedektif
-https://vidmody.com/vs/tt1475582/s4/e02
-#EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/52CguxQAPg6JLDuIOT76EsWf2a8.jpg", [8.5] Sherlock S04E03 - Son Problem
-https://vidmody.com/vs/tt1475582/s4/e03
 #EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/q20qfaTx4tmKhrmgcINtiPxY6aG.jpg", [6.5] Parish S01E01 - Pilot
 https://vidmody.com/vs/tt18552362/s1/e01
 #EXTINF:-1 group-title="Parish" tvg-logo="https://image.tmdb.org/t/p/w400/yY0l8Ub7yftMp9MB2oVePAI1RRz.jpg", [6.5] Parish S01E02 - Blood in the Water
