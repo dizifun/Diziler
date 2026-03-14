@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:Disney+
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/h88DZpKIDo66Tvt556HCvq2BdR0.jpg", [7.7] Moon Knight S01E01 - Japon Balığı Sorunu
+https://vidmody.com/vs/tt10234724/s1/e01
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg", [7.7] Moon Knight S01E02 - Kostümü Çağır
+https://vidmody.com/vs/tt10234724/s1/e02
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg", [7.7] Moon Knight S01E03 - Cana Yakın
+https://vidmody.com/vs/tt10234724/s1/e03
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg", [7.7] Moon Knight S01E04 - Mezar
+https://vidmody.com/vs/tt10234724/s1/e04
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg", [7.7] Moon Knight S01E05 - Akıl Hastanesi
+https://vidmody.com/vs/tt10234724/s1/e05
+#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg", [7.7] Moon Knight S01E06 - Tanrılar ve Canavarlar
+https://vidmody.com/vs/tt10234724/s1/e06
 #EXTINF:-1 group-title="Futurama" tvg-logo="https://image.tmdb.org/t/p/w400/cmMqr0jEjKn5sdeMcqhSshueEPR.jpg", [8.4] Futurama S01E01 - 1. Bölüm
 https://vidmody.com/vs/tt0149460/s1/e01
 #EXTINF:-1 group-title="Futurama" tvg-logo="https://image.tmdb.org/t/p/w400/eaTsjWXFpySli5ZUgHG1vM3uD1J.jpg", [8.4] Futurama S01E02 - 2. Bölüm
@@ -262,18 +274,6 @@ https://vidmody.com/vs/tt0149460/s10/e08
 https://vidmody.com/vs/tt0149460/s10/e09
 #EXTINF:-1 group-title="Futurama" tvg-logo="https://image.tmdb.org/t/p/w400/9nziPa2ybekovNBH2XHro2ucnoG.jpg", [8.4] Futurama S10E10 - 10. Bölüm
 https://vidmody.com/vs/tt0149460/s10/e10
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/h88DZpKIDo66Tvt556HCvq2BdR0.jpg", [7.7] Moon Knight S01E01 - Japon Balığı Sorunu
-https://vidmody.com/vs/tt10234724/s1/e01
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg", [7.7] Moon Knight S01E02 - Kostümü Çağır
-https://vidmody.com/vs/tt10234724/s1/e02
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg", [7.7] Moon Knight S01E03 - Cana Yakın
-https://vidmody.com/vs/tt10234724/s1/e03
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg", [7.7] Moon Knight S01E04 - Mezar
-https://vidmody.com/vs/tt10234724/s1/e04
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg", [7.7] Moon Knight S01E05 - Akıl Hastanesi
-https://vidmody.com/vs/tt10234724/s1/e05
-#EXTINF:-1 group-title="Moon Knight" tvg-logo="https://image.tmdb.org/t/p/w400/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg", [7.7] Moon Knight S01E06 - Tanrılar ve Canavarlar
-https://vidmody.com/vs/tt10234724/s1/e06
 #EXTINF:-1 group-title="Eyes of Wakanda" tvg-logo="https://image.tmdb.org/t/p/w400/7Ex7F84z8fiJKC8X1juNYX3z1oM.jpg", [6.1] Eyes of Wakanda S01E01 - Aslan'ın İninde
 https://vidmody.com/vs/tt13968252/s1/e01
 #EXTINF:-1 group-title="Eyes of Wakanda" tvg-logo="https://image.tmdb.org/t/p/w400/wjA5EoEmEfacfzrdcJ6JoyNqPFo.jpg", [6.1] Eyes of Wakanda S01E02 - Efsaneler ve Yalanlar
