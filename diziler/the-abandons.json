@@ -7,15 +7,15 @@
     "poster": "https://image.tmdb.org/t/p/w500/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dHCr5HgldBavJPzAYFYmM0rEdQo.jpg",
     "year": "2025",
-    "rating": 5.7,
+    "rating": 5.8,
     "genres": [
         "Dram",
         "Vahşi Batı"
     ],
     "categories": [
-        "Tümü",
+        "Netflix",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Tümü"
     ],
     "cast": [
         {
@@ -26,7 +26,7 @@
         {
             "name": "Gillian Anderson",
             "role": "Constance Van Ness",
-            "image": "https://image.tmdb.org/t/p/w200/gLlwFti7pq4OLigtCV0B3e7W2f2.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
         },
         {
             "name": "Nick Robinson",
@@ -134,5 +134,5 @@
             "link": "https://vidmody.com/vs/tt16280546/s1/e07"
         }
     ],
-    "update_date": "2026-03-09 11:48:56"
+    "update_date": "2026-03-14 06:36:54"
 }
