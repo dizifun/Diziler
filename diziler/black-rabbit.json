@@ -13,9 +13,9 @@
         "Suç"
     ],
     "categories": [
-        "Tümü",
+        "Netflix",
         "Netflix Standard with Ads",
-        "Netflix"
+        "Tümü"
     ],
     "cast": [
         {
@@ -26,7 +26,7 @@
         {
             "name": "Jude Law",
             "role": "Jake Friedken",
-            "image": "https://image.tmdb.org/t/p/w200/nBGVXLHsNzlG7ouoh4bDggaGKN1.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/9H577IoqFgCXonDzR3QEkF2xo5m.jpg"
         },
         {
             "name": "Chris Coy",
@@ -128,5 +128,5 @@
             "link": "https://vidmody.com/vs/tt23055142/s1/e08"
         }
     ],
-    "update_date": "2026-03-09 15:27:13"
+    "update_date": "2026-03-14 10:00:59"
 }
