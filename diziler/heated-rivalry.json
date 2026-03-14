@@ -12,10 +12,10 @@
         "Dram"
     ],
     "categories": [
-        "Crave",
-        "Tümü",
+        "Amazon Prime",
         "HBO Max",
-        "Amazon Prime"
+        "Crave",
+        "Tümü"
     ],
     "cast": [
         {
@@ -26,37 +26,12 @@
         {
             "name": "Connor Storrie",
             "role": "Ilya Rozanov",
-            "image": "https://image.tmdb.org/t/p/w200/ApBEzGlTz7sM839eT4vMQV3xmdg.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/5o8d4SCHayYDUmUXKVKsGMjJwlA.jpg"
         },
         {
             "name": "François Arnaud",
             "role": "Scott Hunter",
-            "image": "https://image.tmdb.org/t/p/w200/usHxQ3bCKL4UipKR3mht31yUFYX.jpg"
-        },
-        {
-            "name": "Robbie G.K.",
-            "role": "Kip Grady",
-            "image": "https://image.tmdb.org/t/p/w200/hN1VW1pRB1A8Rb6VzI1pQ3SsgYz.jpg"
-        },
-        {
-            "name": "Christina Chang",
-            "role": "Yuna Hollander",
-            "image": "https://image.tmdb.org/t/p/w200/p1m4Da7ZOt6BOcXy4T58Mu3jAY3.jpg"
-        },
-        {
-            "name": "Dylan Walsh",
-            "role": "David Hollander",
-            "image": "https://image.tmdb.org/t/p/w200/A0XK6UEOuMKf66XpsZ1DBa9kXAR.jpg"
-        },
-        {
-            "name": "Ksenia Daniela Kharlamova",
-            "role": "Svetlana Vetrova",
-            "image": "https://image.tmdb.org/t/p/w200/g5u77d6EPTAedFKelAbqhDychtc.jpg"
-        },
-        {
-            "name": "Connor McKenna",
-            "role": "",
-            "image": "https://image.tmdb.org/t/p/w200/k6PWy01geO1XMGXbNdm22taJ3mW.jpg"
+            "image": "https://image.tmdb.org/t/p/w200/2aPDGUGRcrBYmrQLc8AklEqp7xI.jpg"
         }
     ],
     "episodes": [
@@ -115,5 +90,5 @@
             "link": "https://vidmody.com/vs/tt35495073/s1/e06"
         }
     ],
-    "update_date": "2026-03-09 20:53:06"
+    "update_date": "2026-03-14 14:23:51"
 }
