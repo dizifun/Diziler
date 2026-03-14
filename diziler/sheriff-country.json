@@ -14,16 +14,16 @@
     ],
     "categories": [
         "Paramount+ Roku Premium Channel",
-        "Tümü",
-        "YouTube TV",
-        "fuboTV",
-        "CBS",
+        "Amazon Prime",
         "Spectrum On Demand",
+        "YouTube TV",
+        "Paramount Plus Essential",
+        "Tümü",
+        "fuboTV",
         "Paramount Plus Apple TV Channel",
         "TOD TV",
-        "Paramount Plus Essential",
-        "Paramount Plus Premium",
-        "Amazon Prime"
+        "CBS",
+        "Paramount Plus Premium"
     ],
     "cast": [
         {
@@ -33,22 +33,22 @@
         },
         {
             "name": "W. Earl Brown",
-            "role": "Wes",
+            "role": "Wes Fox",
             "image": "https://image.tmdb.org/t/p/w200/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
         },
         {
             "name": "Christopher Gorham",
-            "role": "Travis",
+            "role": "Travis Fraley",
             "image": "https://image.tmdb.org/t/p/w200/dKFXHJ3KBJaeQ50udMdBEC0VFvI.jpg"
         },
         {
             "name": "Michele Weaver",
-            "role": "Cassidy",
+            "role": "Cassidy Campbell",
             "image": "https://image.tmdb.org/t/p/w200/zdCczyPd5oO9XsXvRANjER4hMZs.jpg"
         },
         {
             "name": "Matt Lauria",
-            "role": "Boone",
+            "role": "Nathan Boone",
             "image": "https://image.tmdb.org/t/p/w200/afzZ4QN5MV4Ui6oz5zWFLBvuDRE.jpg"
         }
     ],
@@ -99,5 +99,5 @@
             "link": "https://vidmody.com/vs/tt32268630/s1/e08"
         }
     ],
-    "update_date": "2026-03-09 19:18:28"
+    "update_date": "2026-03-14 13:20:19"
 }
