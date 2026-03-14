@@ -1,5 +1,25 @@
 #EXTM3U
 #PLAYLIST:Spectrum On Demand
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/aqq5s8fgziqGBFc6TxgTVZNx9qG.jpg", [6.8] Nautilus S01E01 - Anahata
+https://vidmody.com/vs/tt15286302/s1/e01
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/uWkeTfbHFxn65TcQ4yyaU8eOstl.jpg", [6.8] Nautilus S01E02 - Tik, Tik, Bum
+https://vidmody.com/vs/tt15286302/s1/e02
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/yVk3Gu5AWdBfkEioKXexSpyrNJ7.jpg", [6.8] Nautilus S01E03 - Altta Yatan
+https://vidmody.com/vs/tt15286302/s1/e03
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/uUbrM7OWZ6deoYwGSrImh8vQfXL.jpg", [6.8] Nautilus S01E04 - Islakken Kaygan
+https://vidmody.com/vs/tt15286302/s1/e04
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/nN2WXhdMEtkbhW0A2cvGzAQIB4d.jpg", [6.8] Nautilus S01E05 - Yılan Balığı
+https://vidmody.com/vs/tt15286302/s1/e05
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/zb1KTjUuyJcEGKU2owwFWW5zeIq.jpg", [6.8] Nautilus S01E06 - Büyük Mavi
+https://vidmody.com/vs/tt15286302/s1/e06
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/atL7FKXvYqJIM77dWTIe0oNOpV7.jpg", [6.8] Nautilus S01E07 - Soğuk Savaş
+https://vidmody.com/vs/tt15286302/s1/e07
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/l9t0CTKAbDwgLjoSSGxZy3CTdss.jpg", [6.8] Nautilus S01E08 - Dönüm Noktası
+https://vidmody.com/vs/tt15286302/s1/e08
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/8ieo7uQZ2inWvzkB2jrqVNqtMBm.jpg", [6.8] Nautilus S01E09 - Valkyrie'nin Yolculuğu
+https://vidmody.com/vs/tt15286302/s1/e09
+#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/iCf8I365VsuxUaYu8RXRqRrN5bq.jpg", [6.8] Nautilus S01E10 - Yenilmek İçin Çok Büyük
+https://vidmody.com/vs/tt15286302/s1/e10
 #EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/u8xvgVzTQjAeRu68sI9JJHeQSuA.jpg", [8.5] Sherlock S01E01 - Pembe Üzerine Bir Çalışma
 https://vidmody.com/vs/tt1475582/s1/e01
 #EXTINF:-1 group-title="Sherlock" tvg-logo="https://image.tmdb.org/t/p/w400/cp1mf1pwb8F7NcuCJkzcfxIkZw2.jpg", [8.5] Sherlock S01E02 - Kör Bankacı
@@ -854,23 +874,3 @@ https://vidmody.com/vs/tt17543592/s3/e18
 https://vidmody.com/vs/tt17543592/s4/e01
 #EXTINF:-1 group-title="Will Trent" tvg-logo="https://image.tmdb.org/t/p/w400/4YXARvuFqoXb571hPowGJqQorp2.jpg", [7.3] Will Trent S04E02 - 2. Bölüm
 https://vidmody.com/vs/tt17543592/s4/e02
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/aqq5s8fgziqGBFc6TxgTVZNx9qG.jpg", [6.8] Nautilus S01E01 - Anahata
-https://vidmody.com/vs/tt15286302/s1/e01
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/uWkeTfbHFxn65TcQ4yyaU8eOstl.jpg", [6.8] Nautilus S01E02 - Tik, Tik, Bum
-https://vidmody.com/vs/tt15286302/s1/e02
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/yVk3Gu5AWdBfkEioKXexSpyrNJ7.jpg", [6.8] Nautilus S01E03 - Altta Yatan
-https://vidmody.com/vs/tt15286302/s1/e03
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/uUbrM7OWZ6deoYwGSrImh8vQfXL.jpg", [6.8] Nautilus S01E04 - Islakken Kaygan
-https://vidmody.com/vs/tt15286302/s1/e04
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/nN2WXhdMEtkbhW0A2cvGzAQIB4d.jpg", [6.8] Nautilus S01E05 - Yılan Balığı
-https://vidmody.com/vs/tt15286302/s1/e05
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/zb1KTjUuyJcEGKU2owwFWW5zeIq.jpg", [6.8] Nautilus S01E06 - Büyük Mavi
-https://vidmody.com/vs/tt15286302/s1/e06
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/atL7FKXvYqJIM77dWTIe0oNOpV7.jpg", [6.8] Nautilus S01E07 - Soğuk Savaş
-https://vidmody.com/vs/tt15286302/s1/e07
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/l9t0CTKAbDwgLjoSSGxZy3CTdss.jpg", [6.8] Nautilus S01E08 - Dönüm Noktası
-https://vidmody.com/vs/tt15286302/s1/e08
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/8ieo7uQZ2inWvzkB2jrqVNqtMBm.jpg", [6.8] Nautilus S01E09 - Valkyrie'nin Yolculuğu
-https://vidmody.com/vs/tt15286302/s1/e09
-#EXTINF:-1 group-title="Nautilus" tvg-logo="https://image.tmdb.org/t/p/w400/iCf8I365VsuxUaYu8RXRqRrN5bq.jpg", [6.8] Nautilus S01E10 - Yenilmek İçin Çok Büyük
-https://vidmody.com/vs/tt15286302/s1/e10
