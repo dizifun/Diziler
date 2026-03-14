@@ -7,18 +7,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/yrGQwoY9XUglAlCDzsIlr3ws4pM.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/hbWqmgF9NYU2ATBWqvhLnOCeW2V.jpg",
     "year": "2024",
-    "rating": 6.2,
+    "rating": 5.9,
     "genres": [
         "Komedi",
         "Dram"
     ],
     "categories": [
-        "Tümü",
+        "Amazon Prime",
         "HBO",
         "Spectrum On Demand",
         "HBO Max",
-        "TV+",
-        "Amazon Prime"
+        "Tümü",
+        "TV+"
     ],
     "cast": [
         {
@@ -137,5 +137,5 @@
             "link": "https://vidmody.com/vs/tt33745056/s2/e06"
         }
     ],
-    "update_date": "2026-03-09 20:18:11"
+    "update_date": "2026-03-14 13:56:28"
 }
