@@ -1,5 +1,66 @@
 [
     {
+        "id": 241388,
+        "imdb_id": "tt13968252",
+        "name": "Eyes of Wakanda",
+        "original_name": "Eyes of Wakanda",
+        "overview": "Eyes of Wakanda, tarih boyunca cesur Wakandalı savaşçıların maceralarını anlatıyor. Bu dünya çapındaki serüvende kahramanlar, Wakanda'nın düşmanlarının eline geçmiş Vibranyum eserlerini geri almak için tehlikeli görevlere çıkarlar. Onlar Hatut Zeraze ve bu da onların hikayesi.",
+        "poster": "https://image.tmdb.org/t/p/w500/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w780/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
+        "year": "2025",
+        "rating": 6.1,
+        "genres": [
+            "Animasyon",
+            "Aksiyon & Macera",
+            "Bilim Kurgu & Fantazi"
+        ],
+        "categories": [
+            "Animasyon",
+            "Disney+",
+            "Tümü"
+        ],
+        "cast": [],
+        "episodes": [
+            {
+                "season": 1,
+                "episode": 1,
+                "name": "Aslan'ın İninde",
+                "overview": "Dora Milaje'nin eski bir üyesi, \"Aslan\" olarak bilinen hain bir Wakandalı'yı alt etmeye gönderilir.",
+                "still_path": "https://image.tmdb.org/t/p/w400/7Ex7F84z8fiJKC8X1juNYX3z1oM.jpg",
+                "vote_average": 5.3,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e01"
+            },
+            {
+                "season": 1,
+                "episode": 2,
+                "name": "Efsaneler ve Yalanlar",
+                "overview": "Truva Savaşı'nın ortasında bir asker, saklı bir eseri almak için şehrin savunmasını aşmaya çalışır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/wjA5EoEmEfacfzrdcJ6JoyNqPFo.jpg",
+                "vote_average": 4.6,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e02"
+            },
+            {
+                "season": 1,
+                "episode": 3,
+                "name": "Kayıp Eser",
+                "overview": "Kaçak bir yolcu Altın Şehir'e sızar ve içerideki sırların güvenliğini tehdit eder.",
+                "still_path": "https://image.tmdb.org/t/p/w400/lRKiS5NhEqquh19eySRWgaZU3Oe.jpg",
+                "vote_average": 5.1,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e03"
+            },
+            {
+                "season": 1,
+                "episode": 4,
+                "name": "Son Panter",
+                "overview": "İki Wakandalı, ya görevlerini tamamlayacak ya da ülkelerine karşı gelip dünyayı kurtaracaktır.",
+                "still_path": "https://image.tmdb.org/t/p/w400/p7o7jgI2CVKnTS7DMKJ9vmFbzJw.jpg",
+                "vote_average": 5.0,
+                "link": "https://vidmody.com/vs/tt13968252/s1/e04"
+            }
+        ],
+        "update_date": "2026-03-14 04:37:29"
+    },
+    {
         "id": 117830,
         "imdb_id": "tt13930822",
         "name": "Tomb Raider: The Legend of Lara Croft",
@@ -1686,67 +1747,6 @@
             }
         ],
         "update_date": "2026-03-11 05:52:56"
-    },
-    {
-        "id": 241388,
-        "imdb_id": "tt13968252",
-        "name": "Eyes of Wakanda",
-        "original_name": "Eyes of Wakanda",
-        "overview": "Eyes of Wakanda, tarih boyunca cesur Wakandalı savaşçıların maceralarını anlatıyor. Bu dünya çapındaki serüvende kahramanlar, Wakanda'nın düşmanlarının eline geçmiş Vibranyum eserlerini geri almak için tehlikeli görevlere çıkarlar. Onlar Hatut Zeraze ve bu da onların hikayesi.",
-        "poster": "https://image.tmdb.org/t/p/w500/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w780/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
-        "year": "2025",
-        "rating": 6.1,
-        "genres": [
-            "Animasyon",
-            "Aksiyon & Macera",
-            "Bilim Kurgu & Fantazi"
-        ],
-        "categories": [
-            "Disney+",
-            "Animasyon",
-            "Tümü"
-        ],
-        "cast": [],
-        "episodes": [
-            {
-                "season": 1,
-                "episode": 1,
-                "name": "Aslan'ın İninde",
-                "overview": "Dora Milaje'nin eski bir üyesi, \"Aslan\" olarak bilinen hain bir Wakandalı'yı alt etmeye gönderilir.",
-                "still_path": "https://image.tmdb.org/t/p/w400/7Ex7F84z8fiJKC8X1juNYX3z1oM.jpg",
-                "vote_average": 5.3,
-                "link": "https://vidmody.com/vs/tt13968252/s1/e01"
-            },
-            {
-                "season": 1,
-                "episode": 2,
-                "name": "Efsaneler ve Yalanlar",
-                "overview": "Truva Savaşı'nın ortasında bir asker, saklı bir eseri almak için şehrin savunmasını aşmaya çalışır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/wjA5EoEmEfacfzrdcJ6JoyNqPFo.jpg",
-                "vote_average": 4.6,
-                "link": "https://vidmody.com/vs/tt13968252/s1/e02"
-            },
-            {
-                "season": 1,
-                "episode": 3,
-                "name": "Kayıp Eser",
-                "overview": "Kaçak bir yolcu Altın Şehir'e sızar ve içerideki sırların güvenliğini tehdit eder.",
-                "still_path": "https://image.tmdb.org/t/p/w400/lRKiS5NhEqquh19eySRWgaZU3Oe.jpg",
-                "vote_average": 5.1,
-                "link": "https://vidmody.com/vs/tt13968252/s1/e03"
-            },
-            {
-                "season": 1,
-                "episode": 4,
-                "name": "Son Panter",
-                "overview": "İki Wakandalı, ya görevlerini tamamlayacak ya da ülkelerine karşı gelip dünyayı kurtaracaktır.",
-                "still_path": "https://image.tmdb.org/t/p/w400/p7o7jgI2CVKnTS7DMKJ9vmFbzJw.jpg",
-                "vote_average": 5.0,
-                "link": "https://vidmody.com/vs/tt13968252/s1/e04"
-            }
-        ],
-        "update_date": "2026-03-11 05:41:48"
     },
     {
         "id": 94954,
