@@ -26,6 +26,16 @@
             "name": "Gugu Mbatha-Raw",
             "role": "Salt",
             "image": "https://image.tmdb.org/t/p/w200/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+        },
+        {
+            "name": "Jemma Redgrave",
+            "role": "Kate Lethbridge-Stewart",
+            "image": "https://image.tmdb.org/t/p/w200/1Lgtd9zpwwuyKqjmd5ME2lN9FUq.jpg"
+        },
+        {
+            "name": "Ruth Madeley",
+            "role": "Shirley Bingham",
+            "image": "https://image.tmdb.org/t/p/w200/jSft5EhXFW04uOt2ysJId1SA3h6.jpg"
         }
     ],
     "episodes": [
@@ -75,5 +85,5 @@
             "link": "https://vidmody.com/vs/tt30645193/s1/e05"
         }
     ],
-    "update_date": "2026-03-09 18:29:12"
+    "update_date": "2026-03-14 12:42:28"
 }
