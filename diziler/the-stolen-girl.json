@@ -7,18 +7,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/jfEEnO3zHWrJNVMQuv3TCNLrIzZ.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w780/dDx7bjxtJcMwUhowCn7VhPwLEzp.jpg",
     "year": "2025",
-    "rating": 6.2,
+    "rating": 6.1,
     "genres": [
         "Dram",
         "Gizem"
     ],
     "categories": [
-        "Tümü",
-        "Hulu",
-        "Disney+",
         "Freeform",
+        "YouTube TV",
+        "Disney+",
+        "Tümü",
         "fuboTV",
-        "YouTube TV"
+        "Hulu"
     ],
     "cast": [
         {
@@ -109,5 +109,5 @@
             "link": "https://vidmody.com/vs/tt28228082/s1/e05"
         }
     ],
-    "update_date": "2026-03-09 17:31:02"
+    "update_date": "2026-03-14 11:52:00"
 }
